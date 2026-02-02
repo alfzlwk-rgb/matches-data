@@ -1,0 +1,4426 @@
+[
+  {
+    "home": "برمنغهام سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1118.png",
+    "away": "إيبسويتش تاون",
+    "awayLogo": "https://jdwel.com/image/teams/1756.png",
+    "score": "1 - 1",
+    "time": "10:00 م"
+  },
+  {
+    "home": "تشارلتون أثلتيك",
+    "homeLogo": "https://jdwel.com/image/teams/eng_charlton_athletic.png",
+    "away": "واتفورد",
+    "awayLogo": "https://jdwel.com/image/teams/4819.png",
+    "score": "1 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "كوفنتري سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/3155.png",
+    "away": "هال سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/2626.png",
+    "score": "0 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "ساوثهامبتون",
+    "homeLogo": "https://jdwel.com/image/teams/3014.png",
+    "away": "ريكسهام",
+    "awayLogo": "https://jdwel.com/image/teams/3130.png",
+    "score": "2 - 1",
+    "time": "2:30 م"
+  },
+  {
+    "home": "ميدلزبره",
+    "homeLogo": "https://jdwel.com/image/teams/4704.png",
+    "away": "سوانزي سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1838.png",
+    "score": "1 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "نورويتش سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/2225.png",
+    "away": "ميلوول",
+    "awayLogo": "https://jdwel.com/image/teams/2443.png",
+    "score": "1 - 2",
+    "time": "5:00 م"
+  },
+  {
+    "home": "أكسفورد يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/eng_oxford_united_v2.png",
+    "away": "بورتسموث",
+    "awayLogo": "https://jdwel.com/image/teams/2168.png",
+    "score": "0 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "كوينز بارك رينجرز",
+    "homeLogo": "https://jdwel.com/image/teams/1122.png",
+    "away": "بريستون نورث إيند",
+    "awayLogo": "https://jdwel.com/image/teams/3250.png",
+    "score": "1 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "ستوك سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1028.png",
+    "away": "ديربي كاونتي",
+    "awayLogo": "https://jdwel.com/image/teams/2627.png",
+    "score": "3 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "وست بروميتش ألبيون",
+    "homeLogo": "https://jdwel.com/image/teams/1683.png",
+    "away": "بلاكبيرن روفرز",
+    "awayLogo": "https://jdwel.com/image/teams/1226.png",
+    "score": "1 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "شيفيلد يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/3101.png",
+    "away": "بريستول سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/5223.png",
+    "score": "1 - 4",
+    "time": "7:30 م"
+  },
+  {
+    "home": "ليستر سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1757.png",
+    "away": "شيفيلد وينزداي",
+    "awayLogo": "https://jdwel.com/image/teams/895.png",
+    "score": "2 - 1",
+    "time": "6:30 م"
+  },
+  {
+    "home": "ديربي كاونتي",
+    "homeLogo": "https://jdwel.com/image/teams/2627.png",
+    "away": "كوفنتري سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/3155.png",
+    "score": "3 - 5",
+    "time": "2:30 م"
+  },
+  {
+    "home": "بورتسموث",
+    "homeLogo": "https://jdwel.com/image/teams/2168.png",
+    "away": "نورويتش سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/2225.png",
+    "score": "1 - 2",
+    "time": "2:30 م"
+  },
+  {
+    "home": "ريكسهام",
+    "homeLogo": "https://jdwel.com/image/teams/3130.png",
+    "away": "وست بروميتش ألبيون",
+    "awayLogo": "https://jdwel.com/image/teams/1683.png",
+    "score": "2 - 3",
+    "time": "2:30 م"
+  },
+  {
+    "home": "بلاكبيرن روفرز",
+    "homeLogo": "https://jdwel.com/image/teams/1226.png",
+    "away": "برمنغهام سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1118.png",
+    "score": "1 - 2",
+    "time": "5:00 م"
+  },
+  {
+    "home": "بريستول سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/5223.png",
+    "away": "تشارلتون أثلتيك",
+    "awayLogo": "https://jdwel.com/image/teams/eng_charlton_athletic.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "ميلوول",
+    "homeLogo": "https://jdwel.com/image/teams/2443.png",
+    "away": "ميدلزبره",
+    "awayLogo": "https://jdwel.com/image/teams/4704.png",
+    "score": "0 - 3",
+    "time": "5:00 م"
+  },
+  {
+    "home": "بريستون نورث إيند",
+    "homeLogo": "https://jdwel.com/image/teams/3250.png",
+    "away": "ليستر سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1757.png",
+    "score": "2 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "شيفيلد وينزداي",
+    "homeLogo": "https://jdwel.com/image/teams/895.png",
+    "away": "ستوك سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1028.png",
+    "score": "0 - 3",
+    "time": "5:00 م"
+  },
+  {
+    "home": "سوانزي سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1838.png",
+    "away": "شيفيلد يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/3101.png",
+    "score": "1 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "واتفورد",
+    "homeLogo": "https://jdwel.com/image/teams/4819.png",
+    "away": "كوينز بارك رينجرز",
+    "awayLogo": "https://jdwel.com/image/teams/1122.png",
+    "score": "2 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "إيبسويتش تاون",
+    "homeLogo": "https://jdwel.com/image/teams/1756.png",
+    "away": "ساوثهامبتون",
+    "awayLogo": "https://jdwel.com/image/teams/3014.png",
+    "score": "1 - 1",
+    "time": "2:00 م"
+  },
+  {
+    "home": "هال سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/2626.png",
+    "away": "أكسفورد يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/eng_oxford_united_v2.png",
+    "score": "3 - 2",
+    "time": "5:00 م"
+  },
+  {
+    "home": "ديربي كاونتي",
+    "homeLogo": "https://jdwel.com/image/teams/2627.png",
+    "away": "بريستول سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/5223.png",
+    "score": "1 - 1",
+    "time": "10:00 م"
+  },
+  {
+    "home": "تشارلتون أثلتيك",
+    "homeLogo": "https://jdwel.com/image/teams/eng_charlton_athletic.png",
+    "away": "ليستر سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1757.png",
+    "score": "0 - 1",
+    "time": "2:30 م"
+  },
+  {
+    "home": "هال سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/2626.png",
+    "away": "بلاكبيرن روفرز",
+    "awayLogo": "https://jdwel.com/image/teams/1226.png",
+    "score": "0 - 3",
+    "time": "2:30 م"
+  },
+  {
+    "home": "سوانزي سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1838.png",
+    "away": "واتفورد",
+    "awayLogo": "https://jdwel.com/image/teams/4819.png",
+    "score": "1 - 1",
+    "time": "2:30 م"
+  },
+  {
+    "home": "برمنغهام سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1118.png",
+    "away": "أكسفورد يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/eng_oxford_united_v2.png",
+    "score": "1 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "كوفنتري سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/3155.png",
+    "away": "كوينز بارك رينجرز",
+    "awayLogo": "https://jdwel.com/image/teams/1122.png",
+    "score": "7 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "نورويتش سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/2225.png",
+    "away": "ميدلزبره",
+    "awayLogo": "https://jdwel.com/image/teams/4704.png",
+    "score": "1 - 2",
+    "time": "5:00 م"
+  },
+  {
+    "home": "بريستون نورث إيند",
+    "homeLogo": "https://jdwel.com/image/teams/3250.png",
+    "away": "إيبسويتش تاون",
+    "awayLogo": "https://jdwel.com/image/teams/1756.png",
+    "score": "1 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "شيفيلد يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/3101.png",
+    "away": "ميلوول",
+    "awayLogo": "https://jdwel.com/image/teams/2443.png",
+    "score": "0 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "ساوثهامبتون",
+    "homeLogo": "https://jdwel.com/image/teams/3014.png",
+    "away": "ستوك سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1028.png",
+    "score": "1 - 2",
+    "time": "5:00 م"
+  },
+  {
+    "home": "وست بروميتش ألبيون",
+    "homeLogo": "https://jdwel.com/image/teams/1683.png",
+    "away": "بورتسموث",
+    "awayLogo": "https://jdwel.com/image/teams/2168.png",
+    "score": "1 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "ريكسهام",
+    "homeLogo": "https://jdwel.com/image/teams/3130.png",
+    "away": "شيفيلد وينزداي",
+    "awayLogo": "https://jdwel.com/image/teams/895.png",
+    "score": "2 - 2",
+    "time": "5:00 م"
+  },
+  {
+    "home": "ليستر سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1757.png",
+    "away": "برمنغهام سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1118.png",
+    "score": "2 - 0",
+    "time": "10:00 م"
+  },
+  {
+    "home": "ميدلزبره",
+    "homeLogo": "https://jdwel.com/image/teams/4704.png",
+    "away": "شيفيلد يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/3101.png",
+    "score": "1 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "كوينز بارك رينجرز",
+    "homeLogo": "https://jdwel.com/image/teams/1122.png",
+    "away": "تشارلتون أثلتيك",
+    "awayLogo": "https://jdwel.com/image/teams/eng_charlton_athletic.png",
+    "score": "3 - 1",
+    "time": "2:30 م"
+  },
+  {
+    "home": "ستوك سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1028.png",
+    "away": "وست بروميتش ألبيون",
+    "awayLogo": "https://jdwel.com/image/teams/1683.png",
+    "score": "0 - 1",
+    "time": "2:30 م"
+  },
+  {
+    "home": "بلاكبيرن روفرز",
+    "homeLogo": "https://jdwel.com/image/teams/1226.png",
+    "away": "نورويتش سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/2225.png",
+    "score": "0 - 2",
+    "time": "5:00 م"
+  },
+  {
+    "home": "بريستول سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/5223.png",
+    "away": "هال سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/2626.png",
+    "score": "4 - 2",
+    "time": "5:00 م"
+  },
+  {
+    "home": "إيبسويتش تاون",
+    "homeLogo": "https://jdwel.com/image/teams/1756.png",
+    "away": "ديربي كاونتي",
+    "awayLogo": "https://jdwel.com/image/teams/2627.png",
+    "score": "2 - 2",
+    "time": "5:00 م"
+  },
+  {
+    "home": "ميلوول",
+    "homeLogo": "https://jdwel.com/image/teams/2443.png",
+    "away": "ريكسهام",
+    "awayLogo": "https://jdwel.com/image/teams/3130.png",
+    "score": "0 - 2",
+    "time": "5:00 م"
+  },
+  {
+    "home": "أكسفورد يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/eng_oxford_united_v2.png",
+    "away": "كوفنتري سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/3155.png",
+    "score": "2 - 2",
+    "time": "5:00 م"
+  },
+  {
+    "home": "بورتسموث",
+    "homeLogo": "https://jdwel.com/image/teams/2168.png",
+    "away": "بريستون نورث إيند",
+    "awayLogo": "https://jdwel.com/image/teams/3250.png",
+    "score": "1 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "شيفيلد وينزداي",
+    "homeLogo": "https://jdwel.com/image/teams/895.png",
+    "away": "سوانزي سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1838.png",
+    "score": "0 - 2",
+    "time": "5:00 م"
+  },
+  {
+    "home": "واتفورد",
+    "homeLogo": "https://jdwel.com/image/teams/4819.png",
+    "away": "ساوثهامبتون",
+    "awayLogo": "https://jdwel.com/image/teams/3014.png",
+    "score": "2 - 2",
+    "time": "5:00 م"
+  },
+  {
+    "home": "إيبسويتش تاون",
+    "homeLogo": "https://jdwel.com/image/teams/1756.png",
+    "away": "شيفيلد يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/3101.png",
+    "score": "5 - 0",
+    "time": "10:00 م"
+  },
+  {
+    "home": "تشارلتون أثلتيك",
+    "homeLogo": "https://jdwel.com/image/teams/eng_charlton_athletic.png",
+    "away": "ميلوول",
+    "awayLogo": "https://jdwel.com/image/teams/2443.png",
+    "score": "1 - 1",
+    "time": "2:30 م"
+  },
+  {
+    "home": "أكسفورد يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/eng_oxford_united_v2.png",
+    "away": "ليستر سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1757.png",
+    "score": "2 - 2",
+    "time": "2:30 م"
+  },
+  {
+    "home": "بريستون نورث إيند",
+    "homeLogo": "https://jdwel.com/image/teams/3250.png",
+    "away": "ميدلزبره",
+    "awayLogo": "https://jdwel.com/image/teams/4704.png",
+    "score": "2 - 2",
+    "time": "2:30 م"
+  },
+  {
+    "home": "كوفنتري سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/3155.png",
+    "away": "نورويتش سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/2225.png",
+    "score": "1 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "شيفيلد وينزداي",
+    "homeLogo": "https://jdwel.com/image/teams/895.png",
+    "away": "بريستول سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/5223.png",
+    "score": "0 - 3",
+    "time": "5:00 م"
+  },
+  {
+    "home": "ستوك سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1028.png",
+    "away": "برمنغهام سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1118.png",
+    "score": "1 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "سوانزي سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1838.png",
+    "away": "هال سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/2626.png",
+    "score": "2 - 2",
+    "time": "5:00 م"
+  },
+  {
+    "home": "واتفورد",
+    "homeLogo": "https://jdwel.com/image/teams/4819.png",
+    "away": "بلاكبيرن روفرز",
+    "awayLogo": "https://jdwel.com/image/teams/1226.png",
+    "score": "0 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "وست بروميتش ألبيون",
+    "homeLogo": "https://jdwel.com/image/teams/1683.png",
+    "away": "ديربي كاونتي",
+    "awayLogo": "https://jdwel.com/image/teams/2627.png",
+    "score": "0 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "ريكسهام",
+    "homeLogo": "https://jdwel.com/image/teams/3130.png",
+    "away": "كوينز بارك رينجرز",
+    "awayLogo": "https://jdwel.com/image/teams/1122.png",
+    "score": "1 - 3",
+    "time": "5:00 م"
+  },
+  {
+    "home": "ساوثهامبتون",
+    "homeLogo": "https://jdwel.com/image/teams/3014.png",
+    "away": "بورتسموث",
+    "awayLogo": "https://jdwel.com/image/teams/2168.png",
+    "score": "0 - 0",
+    "time": "2:00 م"
+  },
+  {
+    "home": "ميدلزبره",
+    "homeLogo": "https://jdwel.com/image/teams/4704.png",
+    "away": "وست بروميتش ألبيون",
+    "awayLogo": "https://jdwel.com/image/teams/1683.png",
+    "score": "2 - 1",
+    "time": "10:00 م"
+  },
+  {
+    "home": "برمنغهام سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1118.png",
+    "away": "سوانزي سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1838.png",
+    "score": "1 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "ليستر سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1757.png",
+    "away": "كوفنتري سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/3155.png",
+    "score": "0 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "كوينز بارك رينجرز",
+    "homeLogo": "https://jdwel.com/image/teams/1122.png",
+    "away": "ستوك سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1028.png",
+    "score": "1 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "بلاكبيرن روفرز",
+    "homeLogo": "https://jdwel.com/image/teams/1226.png",
+    "away": "إيبسويتش تاون",
+    "awayLogo": "https://jdwel.com/image/teams/1756.png",
+    "score": "1 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "ديربي كاونتي",
+    "homeLogo": "https://jdwel.com/image/teams/2627.png",
+    "away": "بريستون نورث إيند",
+    "awayLogo": "https://jdwel.com/image/teams/3250.png",
+    "score": "0 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "هال سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/2626.png",
+    "away": "ساوثهامبتون",
+    "awayLogo": "https://jdwel.com/image/teams/3014.png",
+    "score": "3 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "نورويتش سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/2225.png",
+    "away": "ريكسهام",
+    "awayLogo": "https://jdwel.com/image/teams/3130.png",
+    "score": "2 - 3",
+    "time": "5:00 م"
+  },
+  {
+    "home": "بورتسموث",
+    "homeLogo": "https://jdwel.com/image/teams/2168.png",
+    "away": "شيفيلد وينزداي",
+    "awayLogo": "https://jdwel.com/image/teams/895.png",
+    "score": "0 - 2",
+    "time": "5:00 م"
+  },
+  {
+    "home": "شيفيلد يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/3101.png",
+    "away": "تشارلتون أثلتيك",
+    "awayLogo": "https://jdwel.com/image/teams/eng_charlton_athletic.png",
+    "score": "0 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "بريستول سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/5223.png",
+    "away": "أكسفورد يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/eng_oxford_united_v2.png",
+    "score": "1 - 3",
+    "time": "5:00 م"
+  },
+  {
+    "home": "ميلوول",
+    "homeLogo": "https://jdwel.com/image/teams/2443.png",
+    "away": "واتفورد",
+    "awayLogo": "https://jdwel.com/image/teams/4819.png",
+    "score": "1 - 0",
+    "time": "10:00 م"
+  },
+  {
+    "home": "وست بروميتش ألبيون",
+    "homeLogo": "https://jdwel.com/image/teams/1683.png",
+    "away": "ليستر سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1757.png",
+    "score": "1 - 1",
+    "time": "10:00 م"
+  },
+  {
+    "home": "كوفنتري سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/3155.png",
+    "away": "برمنغهام سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1118.png",
+    "score": "3 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "سوانزي سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1838.png",
+    "away": "ميلوول",
+    "awayLogo": "https://jdwel.com/image/teams/2443.png",
+    "score": "1 - 1",
+    "time": "2:30 م"
+  },
+  {
+    "home": "ريكسهام",
+    "homeLogo": "https://jdwel.com/image/teams/3130.png",
+    "away": "ديربي كاونتي",
+    "awayLogo": "https://jdwel.com/image/teams/2627.png",
+    "score": "1 - 1",
+    "time": "2:30 م"
+  },
+  {
+    "home": "تشارلتون أثلتيك",
+    "homeLogo": "https://jdwel.com/image/teams/eng_charlton_athletic.png",
+    "away": "بلاكبيرن روفرز",
+    "awayLogo": "https://jdwel.com/image/teams/1226.png",
+    "score": "3 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "إيبسويتش تاون",
+    "homeLogo": "https://jdwel.com/image/teams/1756.png",
+    "away": "بورتسموث",
+    "awayLogo": "https://jdwel.com/image/teams/2168.png",
+    "score": "2 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "أكسفورد يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/eng_oxford_united_v2.png",
+    "away": "شيفيلد يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/3101.png",
+    "score": "0 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "بريستون نورث إيند",
+    "homeLogo": "https://jdwel.com/image/teams/3250.png",
+    "away": "بريستول سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/5223.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "شيفيلد وينزداي",
+    "homeLogo": "https://jdwel.com/image/teams/895.png",
+    "away": "كوينز بارك رينجرز",
+    "awayLogo": "https://jdwel.com/image/teams/1122.png",
+    "score": "1 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "ساوثهامبتون",
+    "homeLogo": "https://jdwel.com/image/teams/3014.png",
+    "away": "ميدلزبره",
+    "awayLogo": "https://jdwel.com/image/teams/4704.png",
+    "score": "1 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "ستوك سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1028.png",
+    "away": "نورويتش سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/2225.png",
+    "score": "1 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "واتفورد",
+    "homeLogo": "https://jdwel.com/image/teams/4819.png",
+    "away": "هال سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/2626.png",
+    "score": "2 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "برمنغهام سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1118.png",
+    "away": "شيفيلد وينزداي",
+    "awayLogo": "https://jdwel.com/image/teams/895.png",
+    "score": "2 - 2",
+    "time": "9:45 م"
+  },
+  {
+    "home": "بلاكبيرن روفرز",
+    "homeLogo": "https://jdwel.com/image/teams/1226.png",
+    "away": "سوانزي سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1838.png",
+    "score": "1 - 2",
+    "time": "9:45 م"
+  },
+  {
+    "home": "بريستول سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/5223.png",
+    "away": "إيبسويتش تاون",
+    "awayLogo": "https://jdwel.com/image/teams/1756.png",
+    "score": "1 - 1",
+    "time": "9:45 م"
+  },
+  {
+    "home": "هال سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/2626.png",
+    "away": "بريستون نورث إيند",
+    "awayLogo": "https://jdwel.com/image/teams/3250.png",
+    "score": "2 - 2",
+    "time": "9:45 م"
+  },
+  {
+    "home": "ليستر سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1757.png",
+    "away": "ريكسهام",
+    "awayLogo": "https://jdwel.com/image/teams/3130.png",
+    "score": "1 - 1",
+    "time": "9:45 م"
+  },
+  {
+    "home": "ميدلزبره",
+    "homeLogo": "https://jdwel.com/image/teams/4704.png",
+    "away": "ستوك سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1028.png",
+    "score": "0 - 0",
+    "time": "9:45 م"
+  },
+  {
+    "home": "شيفيلد يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/3101.png",
+    "away": "ساوثهامبتون",
+    "awayLogo": "https://jdwel.com/image/teams/3014.png",
+    "score": "1 - 2",
+    "time": "9:45 م"
+  },
+  {
+    "home": "ديربي كاونتي",
+    "homeLogo": "https://jdwel.com/image/teams/2627.png",
+    "away": "تشارلتون أثلتيك",
+    "awayLogo": "https://jdwel.com/image/teams/eng_charlton_athletic.png",
+    "score": "1 - 1",
+    "time": "10:00 م"
+  },
+  {
+    "home": "ميلوول",
+    "homeLogo": "https://jdwel.com/image/teams/2443.png",
+    "away": "كوفنتري سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/3155.png",
+    "score": "0 - 4",
+    "time": "9:45 م"
+  },
+  {
+    "home": "نورويتش سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/2225.png",
+    "away": "وست بروميتش ألبيون",
+    "awayLogo": "https://jdwel.com/image/teams/1683.png",
+    "score": "0 - 1",
+    "time": "9:45 م"
+  },
+  {
+    "home": "بورتسموث",
+    "homeLogo": "https://jdwel.com/image/teams/2168.png",
+    "away": "واتفورد",
+    "awayLogo": "https://jdwel.com/image/teams/4819.png",
+    "score": "2 - 2",
+    "time": "9:45 م"
+  },
+  {
+    "home": "كوينز بارك رينجرز",
+    "homeLogo": "https://jdwel.com/image/teams/1122.png",
+    "away": "أكسفورد يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/eng_oxford_united_v2.png",
+    "score": "0 - 0",
+    "time": "10:00 م"
+  },
+  {
+    "home": "ريكسهام",
+    "homeLogo": "https://jdwel.com/image/teams/3130.png",
+    "away": "برمنغهام سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1118.png",
+    "score": "1 - 1",
+    "time": "10:00 م"
+  },
+  {
+    "home": "بلاكبيرن روفرز",
+    "homeLogo": "https://jdwel.com/image/teams/1226.png",
+    "away": "ستوك سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1028.png",
+    "score": "1 - 1",
+    "time": "2:30 م"
+  },
+  {
+    "home": "هال سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/2626.png",
+    "away": "شيفيلد يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/3101.png",
+    "score": "1 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "شيفيلد وينزداي",
+    "homeLogo": "https://jdwel.com/image/teams/895.png",
+    "away": "كوفنتري سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/3155.png",
+    "score": "0 - 5",
+    "time": "2:30 م"
+  },
+  {
+    "home": "بريستول سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/5223.png",
+    "away": "كوينز بارك رينجرز",
+    "awayLogo": "https://jdwel.com/image/teams/1122.png",
+    "score": "1 - 2",
+    "time": "5:00 م"
+  },
+  {
+    "home": "ديربي كاونتي",
+    "homeLogo": "https://jdwel.com/image/teams/2627.png",
+    "away": "ساوثهامبتون",
+    "awayLogo": "https://jdwel.com/image/teams/3014.png",
+    "score": "1 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "ميلوول",
+    "homeLogo": "https://jdwel.com/image/teams/2443.png",
+    "away": "وست بروميتش ألبيون",
+    "awayLogo": "https://jdwel.com/image/teams/1683.png",
+    "score": "3 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "بورتسموث",
+    "homeLogo": "https://jdwel.com/image/teams/2168.png",
+    "away": "ميدلزبره",
+    "awayLogo": "https://jdwel.com/image/teams/4704.png",
+    "score": "1 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "بريستون نورث إيند",
+    "homeLogo": "https://jdwel.com/image/teams/3250.png",
+    "away": "تشارلتون أثلتيك",
+    "awayLogo": "https://jdwel.com/image/teams/eng_charlton_athletic.png",
+    "score": "2 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "سوانزي سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1838.png",
+    "away": "ليستر سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1757.png",
+    "score": "1 - 3",
+    "time": "5:00 م"
+  },
+  {
+    "home": "واتفورد",
+    "homeLogo": "https://jdwel.com/image/teams/4819.png",
+    "away": "أكسفورد يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/eng_oxford_united_v2.png",
+    "score": "2 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "إيبسويتش تاون",
+    "homeLogo": "https://jdwel.com/image/teams/1756.png",
+    "away": "نورويتش سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/2225.png",
+    "score": "3 - 1",
+    "time": "2:00 م"
+  },
+  {
+    "home": "ميدلزبره",
+    "homeLogo": "https://jdwel.com/image/teams/4704.png",
+    "away": "إيبسويتش تاون",
+    "awayLogo": "https://jdwel.com/image/teams/1756.png",
+    "score": "2 - 1",
+    "time": "10:00 م"
+  },
+  {
+    "home": "أكسفورد يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/eng_oxford_united_v2.png",
+    "away": "ديربي كاونتي",
+    "awayLogo": "https://jdwel.com/image/teams/2627.png",
+    "score": "1 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "كوينز بارك رينجرز",
+    "homeLogo": "https://jdwel.com/image/teams/1122.png",
+    "away": "ميلوول",
+    "awayLogo": "https://jdwel.com/image/teams/2443.png",
+    "score": "1 - 2",
+    "time": "2:30 م"
+  },
+  {
+    "home": "ساوثهامبتون",
+    "homeLogo": "https://jdwel.com/image/teams/3014.png",
+    "away": "سوانزي سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1838.png",
+    "score": "0 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "برمنغهام سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1118.png",
+    "away": "هال سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/2626.png",
+    "score": "2 - 3",
+    "time": "5:00 م"
+  },
+  {
+    "home": "تشارلتون أثلتيك",
+    "homeLogo": "https://jdwel.com/image/teams/eng_charlton_athletic.png",
+    "away": "شيفيلد وينزداي",
+    "awayLogo": "https://jdwel.com/image/teams/895.png",
+    "score": "2 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "كوفنتري سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/3155.png",
+    "away": "بلاكبيرن روفرز",
+    "awayLogo": "https://jdwel.com/image/teams/1226.png",
+    "score": "2 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "نورويتش سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/2225.png",
+    "away": "بريستول سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/5223.png",
+    "score": "0 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "شيفيلد يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/3101.png",
+    "away": "واتفورد",
+    "awayLogo": "https://jdwel.com/image/teams/4819.png",
+    "score": "1 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "ستوك سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1028.png",
+    "away": "ريكسهام",
+    "awayLogo": "https://jdwel.com/image/teams/3130.png",
+    "score": "1 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "وست بروميتش ألبيون",
+    "homeLogo": "https://jdwel.com/image/teams/1683.png",
+    "away": "بريستون نورث إيند",
+    "awayLogo": "https://jdwel.com/image/teams/3250.png",
+    "score": "2 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "ليستر سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1757.png",
+    "away": "بورتسموث",
+    "awayLogo": "https://jdwel.com/image/teams/2168.png",
+    "score": "1 - 1",
+    "time": "9:45 م"
+  },
+  {
+    "home": "بلاكبيرن روفرز",
+    "homeLogo": "https://jdwel.com/image/teams/1226.png",
+    "away": "شيفيلد يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/3101.png",
+    "score": "1 - 3",
+    "time": "9:45 م"
+  },
+  {
+    "home": "ديربي كاونتي",
+    "homeLogo": "https://jdwel.com/image/teams/2627.png",
+    "away": "نورويتش سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/2225.png",
+    "score": "1 - 0",
+    "time": "9:45 م"
+  },
+  {
+    "home": "هال سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/2626.png",
+    "away": "ليستر سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1757.png",
+    "score": "2 - 1",
+    "time": "9:45 م"
+  },
+  {
+    "home": "إيبسويتش تاون",
+    "homeLogo": "https://jdwel.com/image/teams/1756.png",
+    "away": "تشارلتون أثلتيك",
+    "awayLogo": "https://jdwel.com/image/teams/eng_charlton_athletic.png",
+    "score": "0 - 3",
+    "time": "9:45 م"
+  },
+  {
+    "home": "ميلوول",
+    "homeLogo": "https://jdwel.com/image/teams/2443.png",
+    "away": "ستوك سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1028.png",
+    "score": "2 - 0",
+    "time": "9:45 م"
+  },
+  {
+    "home": "بورتسموث",
+    "homeLogo": "https://jdwel.com/image/teams/2168.png",
+    "away": "كوفنتري سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/3155.png",
+    "score": "1 - 2",
+    "time": "9:45 م"
+  },
+  {
+    "home": "بريستون نورث إيند",
+    "homeLogo": "https://jdwel.com/image/teams/3250.png",
+    "away": "برمنغهام سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1118.png",
+    "score": "0 - 1",
+    "time": "9:45 م"
+  },
+  {
+    "home": "بريستول سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/5223.png",
+    "away": "ساوثهامبتون",
+    "awayLogo": "https://jdwel.com/image/teams/3014.png",
+    "score": "3 - 1",
+    "time": "10:00 م"
+  },
+  {
+    "home": "سوانزي سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1838.png",
+    "away": "كوينز بارك رينجرز",
+    "awayLogo": "https://jdwel.com/image/teams/1122.png",
+    "score": "0 - 1",
+    "time": "9:45 م"
+  },
+  {
+    "home": "واتفورد",
+    "homeLogo": "https://jdwel.com/image/teams/4819.png",
+    "away": "وست بروميتش ألبيون",
+    "awayLogo": "https://jdwel.com/image/teams/1683.png",
+    "score": "2 - 1",
+    "time": "9:45 م"
+  },
+  {
+    "home": "ريكسهام",
+    "homeLogo": "https://jdwel.com/image/teams/3130.png",
+    "away": "أكسفورد يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/eng_oxford_united_v2.png",
+    "score": "1 - 0",
+    "time": "9:45 م"
+  },
+  {
+    "home": "شيفيلد وينزداي",
+    "homeLogo": "https://jdwel.com/image/teams/895.png",
+    "away": "ميدلزبره",
+    "awayLogo": "https://jdwel.com/image/teams/4704.png",
+    "score": "0 - 1",
+    "time": "10:00 م"
+  },
+  {
+    "home": "بريستون نورث إيند",
+    "homeLogo": "https://jdwel.com/image/teams/3250.png",
+    "away": "شيفيلد يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/3101.png",
+    "score": "3 - 2",
+    "time": "10:00 م"
+  },
+  {
+    "home": "كوفنتري سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/3155.png",
+    "away": "واتفورد",
+    "awayLogo": "https://jdwel.com/image/teams/4819.png",
+    "score": "3 - 1",
+    "time": "2:30 م"
+  },
+  {
+    "home": "إيبسويتش تاون",
+    "homeLogo": "https://jdwel.com/image/teams/1756.png",
+    "away": "وست بروميتش ألبيون",
+    "awayLogo": "https://jdwel.com/image/teams/1683.png",
+    "score": "1 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "بورتسموث",
+    "homeLogo": "https://jdwel.com/image/teams/2168.png",
+    "away": "ستوك سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1028.png",
+    "score": "0 - 1",
+    "time": "2:30 م"
+  },
+  {
+    "home": "بلاكبيرن روفرز",
+    "homeLogo": "https://jdwel.com/image/teams/1226.png",
+    "away": "ساوثهامبتون",
+    "awayLogo": "https://jdwel.com/image/teams/3014.png",
+    "score": "2 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "بريستول سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/5223.png",
+    "away": "برمنغهام سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1118.png",
+    "score": "1 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "ديربي كاونتي",
+    "homeLogo": "https://jdwel.com/image/teams/2627.png",
+    "away": "كوينز بارك رينجرز",
+    "awayLogo": "https://jdwel.com/image/teams/1122.png",
+    "score": "1 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "هال سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/2626.png",
+    "away": "تشارلتون أثلتيك",
+    "awayLogo": "https://jdwel.com/image/teams/eng_charlton_athletic.png",
+    "score": "1 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "ميدلزبره",
+    "homeLogo": "https://jdwel.com/image/teams/4704.png",
+    "away": "ريكسهام",
+    "awayLogo": "https://jdwel.com/image/teams/3130.png",
+    "score": "1 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "ميلوول",
+    "homeLogo": "https://jdwel.com/image/teams/2443.png",
+    "away": "ليستر سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1757.png",
+    "score": "1 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "شيفيلد وينزداي",
+    "homeLogo": "https://jdwel.com/image/teams/895.png",
+    "away": "أكسفورد يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/eng_oxford_united_v2.png",
+    "score": "1 - 2",
+    "time": "5:00 م"
+  },
+  {
+    "home": "سوانزي سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1838.png",
+    "away": "نورويتش سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/2225.png",
+    "score": "2 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "ريكسهام",
+    "homeLogo": "https://jdwel.com/image/teams/3130.png",
+    "away": "كوفنتري سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/3155.png",
+    "score": "3 - 2",
+    "time": "10:00 م"
+  },
+  {
+    "home": "ليستر سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1757.png",
+    "away": "بلاكبيرن روفرز",
+    "awayLogo": "https://jdwel.com/image/teams/1226.png",
+    "score": "0 - 2",
+    "time": "2:30 م"
+  },
+  {
+    "home": "نورويتش سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/2225.png",
+    "away": "هال سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/2626.png",
+    "score": "0 - 2",
+    "time": "2:30 م"
+  },
+  {
+    "home": "وست بروميتش ألبيون",
+    "homeLogo": "https://jdwel.com/image/teams/1683.png",
+    "away": "شيفيلد وينزداي",
+    "awayLogo": "https://jdwel.com/image/teams/895.png",
+    "score": "0 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "برمنغهام سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1118.png",
+    "away": "بورتسموث",
+    "awayLogo": "https://jdwel.com/image/teams/2168.png",
+    "score": "4 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "تشارلتون أثلتيك",
+    "homeLogo": "https://jdwel.com/image/teams/eng_charlton_athletic.png",
+    "away": "سوانزي سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1838.png",
+    "score": "1 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "أكسفورد يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/eng_oxford_united_v2.png",
+    "away": "ميلوول",
+    "awayLogo": "https://jdwel.com/image/teams/2443.png",
+    "score": "2 - 2",
+    "time": "5:00 م"
+  },
+  {
+    "home": "كوينز بارك رينجرز",
+    "homeLogo": "https://jdwel.com/image/teams/1122.png",
+    "away": "إيبسويتش تاون",
+    "awayLogo": "https://jdwel.com/image/teams/1756.png",
+    "score": "1 - 4",
+    "time": "5:00 م"
+  },
+  {
+    "home": "شيفيلد يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/3101.png",
+    "away": "ديربي كاونتي",
+    "awayLogo": "https://jdwel.com/image/teams/2627.png",
+    "score": "1 - 3",
+    "time": "5:00 م"
+  },
+  {
+    "home": "ساوثهامبتون",
+    "homeLogo": "https://jdwel.com/image/teams/3014.png",
+    "away": "بريستون نورث إيند",
+    "awayLogo": "https://jdwel.com/image/teams/3250.png",
+    "score": "0 - 2",
+    "time": "5:00 م"
+  },
+  {
+    "home": "ستوك سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1028.png",
+    "away": "بريستول سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/5223.png",
+    "score": "5 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "واتفورد",
+    "homeLogo": "https://jdwel.com/image/teams/4819.png",
+    "away": "ميدلزبره",
+    "awayLogo": "https://jdwel.com/image/teams/4704.png",
+    "score": "3 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "برمنغهام سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1118.png",
+    "away": "ميلوول",
+    "awayLogo": "https://jdwel.com/image/teams/2443.png",
+    "score": "4 - 0",
+    "time": "9:45 م"
+  },
+  {
+    "home": "بريستول سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/5223.png",
+    "away": "بلاكبيرن روفرز",
+    "awayLogo": "https://jdwel.com/image/teams/1226.png",
+    "score": "0 - 1",
+    "time": "9:45 م"
+  },
+  {
+    "home": "تشارلتون أثلتيك",
+    "homeLogo": "https://jdwel.com/image/teams/eng_charlton_athletic.png",
+    "away": "وست بروميتش ألبيون",
+    "awayLogo": "https://jdwel.com/image/teams/1683.png",
+    "score": "1 - 0",
+    "time": "9:45 م"
+  },
+  {
+    "home": "ديربي كاونتي",
+    "homeLogo": "https://jdwel.com/image/teams/2627.png",
+    "away": "هال سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/2626.png",
+    "score": "2 - 1",
+    "time": "9:45 م"
+  },
+  {
+    "home": "إيبسويتش تاون",
+    "homeLogo": "https://jdwel.com/image/teams/1756.png",
+    "away": "واتفورد",
+    "awayLogo": "https://jdwel.com/image/teams/4819.png",
+    "score": "1 - 1",
+    "time": "9:45 م"
+  },
+  {
+    "home": "ليستر سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1757.png",
+    "away": "ميدلزبره",
+    "awayLogo": "https://jdwel.com/image/teams/4704.png",
+    "score": "1 - 1",
+    "time": "9:45 م"
+  },
+  {
+    "home": "أكسفورد يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/eng_oxford_united_v2.png",
+    "away": "ستوك سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1028.png",
+    "score": "0 - 3",
+    "time": "9:45 م"
+  },
+  {
+    "home": "كوفنتري سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/3155.png",
+    "away": "شيفيلد يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/3101.png",
+    "score": "3 - 1",
+    "time": "10:00 م"
+  },
+  {
+    "home": "بريستون نورث إيند",
+    "homeLogo": "https://jdwel.com/image/teams/3250.png",
+    "away": "سوانزي سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1838.png",
+    "score": "2 - 1",
+    "time": "9:45 م"
+  },
+  {
+    "home": "كوينز بارك رينجرز",
+    "homeLogo": "https://jdwel.com/image/teams/1122.png",
+    "away": "ساوثهامبتون",
+    "awayLogo": "https://jdwel.com/image/teams/3014.png",
+    "score": "1 - 2",
+    "time": "9:45 م"
+  },
+  {
+    "home": "شيفيلد وينزداي",
+    "homeLogo": "https://jdwel.com/image/teams/895.png",
+    "away": "نورويتش سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/2225.png",
+    "score": "1 - 1",
+    "time": "9:45 م"
+  },
+  {
+    "home": "بورتسموث",
+    "homeLogo": "https://jdwel.com/image/teams/2168.png",
+    "away": "ريكسهام",
+    "awayLogo": "https://jdwel.com/image/teams/3130.png",
+    "score": "0 - 0",
+    "time": "10:00 م"
+  },
+  {
+    "home": "واتفورد",
+    "homeLogo": "https://jdwel.com/image/teams/4819.png",
+    "away": "بريستول سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/5223.png",
+    "score": "1 - 1",
+    "time": "10:00 م"
+  },
+  {
+    "home": "بلاكبيرن روفرز",
+    "homeLogo": "https://jdwel.com/image/teams/1226.png",
+    "away": "ديربي كاونتي",
+    "awayLogo": "https://jdwel.com/image/teams/2627.png",
+    "score": "1 - 2",
+    "time": "2:30 م"
+  },
+  {
+    "home": "هال سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/2626.png",
+    "away": "بورتسموث",
+    "awayLogo": "https://jdwel.com/image/teams/2168.png",
+    "score": "3 - 2",
+    "time": "2:30 م"
+  },
+  {
+    "home": "ميلوول",
+    "homeLogo": "https://jdwel.com/image/teams/2443.png",
+    "away": "بريستون نورث إيند",
+    "awayLogo": "https://jdwel.com/image/teams/3250.png",
+    "score": "1 - 1",
+    "time": "2:30 م"
+  },
+  {
+    "home": "ميدلزبره",
+    "homeLogo": "https://jdwel.com/image/teams/4704.png",
+    "away": "برمنغهام سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1118.png",
+    "score": "2 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "نورويتش سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/2225.png",
+    "away": "ليستر سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1757.png",
+    "score": "1 - 2",
+    "time": "5:00 م"
+  },
+  {
+    "home": "شيفيلد يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/3101.png",
+    "away": "كوينز بارك رينجرز",
+    "awayLogo": "https://jdwel.com/image/teams/1122.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "ساوثهامبتون",
+    "homeLogo": "https://jdwel.com/image/teams/3014.png",
+    "away": "شيفيلد وينزداي",
+    "awayLogo": "https://jdwel.com/image/teams/895.png",
+    "score": "3 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "ستوك سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1028.png",
+    "away": "كوفنتري سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/3155.png",
+    "score": "0 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "سوانزي سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1838.png",
+    "away": "إيبسويتش تاون",
+    "awayLogo": "https://jdwel.com/image/teams/1756.png",
+    "score": "1 - 4",
+    "time": "5:00 م"
+  },
+  {
+    "home": "وست بروميتش ألبيون",
+    "homeLogo": "https://jdwel.com/image/teams/1683.png",
+    "away": "أكسفورد يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/eng_oxford_united_v2.png",
+    "score": "2 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "ريكسهام",
+    "homeLogo": "https://jdwel.com/image/teams/3130.png",
+    "away": "تشارلتون أثلتيك",
+    "awayLogo": "https://jdwel.com/image/teams/eng_charlton_athletic.png",
+    "score": "1 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "بريستون نورث إيند",
+    "homeLogo": "https://jdwel.com/image/teams/3250.png",
+    "away": "بلاكبيرن روفرز",
+    "awayLogo": "https://jdwel.com/image/teams/1226.png",
+    "score": "1 - 2",
+    "time": "10:00 م"
+  },
+  {
+    "home": "بريستول سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/5223.png",
+    "away": "سوانزي سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1838.png",
+    "score": "3 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "تشارلتون أثلتيك",
+    "homeLogo": "https://jdwel.com/image/teams/eng_charlton_athletic.png",
+    "away": "ساوثهامبتون",
+    "awayLogo": "https://jdwel.com/image/teams/3014.png",
+    "score": "1 - 5",
+    "time": "2:30 م"
+  },
+  {
+    "home": "كوفنتري سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/3155.png",
+    "away": "وست بروميتش ألبيون",
+    "awayLogo": "https://jdwel.com/image/teams/1683.png",
+    "score": "3 - 2",
+    "time": "2:30 م"
+  },
+  {
+    "home": "برمنغهام سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1118.png",
+    "away": "نورويتش سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/2225.png",
+    "score": "4 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "ديربي كاونتي",
+    "homeLogo": "https://jdwel.com/image/teams/2627.png",
+    "away": "واتفورد",
+    "awayLogo": "https://jdwel.com/image/teams/4819.png",
+    "score": "2 - 3",
+    "time": "5:00 م"
+  },
+  {
+    "home": "إيبسويتش تاون",
+    "homeLogo": "https://jdwel.com/image/teams/1756.png",
+    "away": "ريكسهام",
+    "awayLogo": "https://jdwel.com/image/teams/3130.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "ليستر سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1757.png",
+    "away": "ستوك سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1028.png",
+    "score": "2 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "أكسفورد يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/eng_oxford_united_v2.png",
+    "away": "ميدلزبره",
+    "awayLogo": "https://jdwel.com/image/teams/4704.png",
+    "score": "1 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "بورتسموث",
+    "homeLogo": "https://jdwel.com/image/teams/2168.png",
+    "away": "ميلوول",
+    "awayLogo": "https://jdwel.com/image/teams/2443.png",
+    "score": "3 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "كوينز بارك رينجرز",
+    "homeLogo": "https://jdwel.com/image/teams/1122.png",
+    "away": "هال سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/2626.png",
+    "score": "3 - 2",
+    "time": "5:00 م"
+  },
+  {
+    "home": "شيفيلد وينزداي",
+    "homeLogo": "https://jdwel.com/image/teams/895.png",
+    "away": "شيفيلد يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/3101.png",
+    "score": "0 - 3",
+    "time": "2:00 م"
+  },
+  {
+    "home": "هال سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/2626.png",
+    "away": "إيبسويتش تاون",
+    "awayLogo": "https://jdwel.com/image/teams/1756.png",
+    "score": "0 - 2",
+    "time": "9:45 م"
+  },
+  {
+    "home": "ميدلزبره",
+    "homeLogo": "https://jdwel.com/image/teams/4704.png",
+    "away": "كوفنتري سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/3155.png",
+    "score": "2 - 4",
+    "time": "9:45 م"
+  },
+  {
+    "home": "ستوك سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1028.png",
+    "away": "تشارلتون أثلتيك",
+    "awayLogo": "https://jdwel.com/image/teams/eng_charlton_athletic.png",
+    "score": "3 - 0",
+    "time": "9:45 م"
+  },
+  {
+    "home": "سوانزي سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1838.png",
+    "away": "ديربي كاونتي",
+    "awayLogo": "https://jdwel.com/image/teams/2627.png",
+    "score": "1 - 2",
+    "time": "9:45 م"
+  },
+  {
+    "home": "واتفورد",
+    "homeLogo": "https://jdwel.com/image/teams/4819.png",
+    "away": "بريستون نورث إيند",
+    "awayLogo": "https://jdwel.com/image/teams/3250.png",
+    "score": "1 - 1",
+    "time": "9:45 م"
+  },
+  {
+    "home": "نورويتش سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/2225.png",
+    "away": "أكسفورد يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/eng_oxford_united_v2.png",
+    "score": "1 - 1",
+    "time": "9:45 م"
+  },
+  {
+    "home": "ساوثهامبتون",
+    "homeLogo": "https://jdwel.com/image/teams/3014.png",
+    "away": "ليستر سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1757.png",
+    "score": "3 - 0",
+    "time": "10:00 م"
+  },
+  {
+    "home": "ميلوول",
+    "homeLogo": "https://jdwel.com/image/teams/2443.png",
+    "away": "شيفيلد وينزداي",
+    "awayLogo": "https://jdwel.com/image/teams/895.png",
+    "score": "1 - 0",
+    "time": "9:45 م"
+  },
+  {
+    "home": "شيفيلد يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/3101.png",
+    "away": "بورتسموث",
+    "awayLogo": "https://jdwel.com/image/teams/2168.png",
+    "score": "3 - 0",
+    "time": "9:45 م"
+  },
+  {
+    "home": "بلاكبيرن روفرز",
+    "homeLogo": "https://jdwel.com/image/teams/1226.png",
+    "away": "كوينز بارك رينجرز",
+    "awayLogo": "https://jdwel.com/image/teams/1122.png",
+    "score": "0 - 1",
+    "time": "9:45 م"
+  },
+  {
+    "home": "ريكسهام",
+    "homeLogo": "https://jdwel.com/image/teams/3130.png",
+    "away": "بريستول سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/5223.png",
+    "score": "2 - 0",
+    "time": "9:45 م"
+  },
+  {
+    "home": "وست بروميتش ألبيون",
+    "homeLogo": "https://jdwel.com/image/teams/1683.png",
+    "away": "برمنغهام سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1118.png",
+    "score": "1 - 1",
+    "time": "10:00 م"
+  },
+  {
+    "home": "أكسفورد يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/eng_oxford_united_v2.png",
+    "away": "إيبسويتش تاون",
+    "awayLogo": "https://jdwel.com/image/teams/1756.png",
+    "score": "2 - 1",
+    "time": "10:00 م"
+  },
+  {
+    "home": "ليستر سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1757.png",
+    "away": "شيفيلد يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/3101.png",
+    "score": "2 - 3",
+    "time": "2:30 م"
+  },
+  {
+    "home": "بورتسموث",
+    "homeLogo": "https://jdwel.com/image/teams/2168.png",
+    "away": "بريستول سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/5223.png",
+    "score": "0 - 1",
+    "time": "2:30 م"
+  },
+  {
+    "home": "ستوك سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1028.png",
+    "away": "هال سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/2626.png",
+    "score": "1 - 2",
+    "time": "2:30 م"
+  },
+  {
+    "home": "كوفنتري سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/3155.png",
+    "away": "تشارلتون أثلتيك",
+    "awayLogo": "https://jdwel.com/image/teams/eng_charlton_athletic.png",
+    "score": "3 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "ميدلزبره",
+    "homeLogo": "https://jdwel.com/image/teams/4704.png",
+    "away": "ديربي كاونتي",
+    "awayLogo": "https://jdwel.com/image/teams/2627.png",
+    "score": "2 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "ميلوول",
+    "homeLogo": "https://jdwel.com/image/teams/2443.png",
+    "away": "ساوثهامبتون",
+    "awayLogo": "https://jdwel.com/image/teams/3014.png",
+    "score": "3 - 2",
+    "time": "5:00 م"
+  },
+  {
+    "home": "نورويتش سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/2225.png",
+    "away": "كوينز بارك رينجرز",
+    "awayLogo": "https://jdwel.com/image/teams/1122.png",
+    "score": "3 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "شيفيلد وينزداي",
+    "homeLogo": "https://jdwel.com/image/teams/895.png",
+    "away": "بريستون نورث إيند",
+    "awayLogo": "https://jdwel.com/image/teams/3250.png",
+    "score": "2 - 3",
+    "time": "5:00 م"
+  },
+  {
+    "home": "وست بروميتش ألبيون",
+    "homeLogo": "https://jdwel.com/image/teams/1683.png",
+    "away": "سوانزي سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1838.png",
+    "score": "3 - 2",
+    "time": "5:00 م"
+  },
+  {
+    "home": "ريكسهام",
+    "homeLogo": "https://jdwel.com/image/teams/3130.png",
+    "away": "بلاكبيرن روفرز",
+    "awayLogo": "https://jdwel.com/image/teams/1226.png",
+    "score": "1 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "برمنغهام سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1118.png",
+    "away": "واتفورد",
+    "awayLogo": "https://jdwel.com/image/teams/4819.png",
+    "score": "2 - 1",
+    "time": "10:00 م"
+  },
+  {
+    "home": "بلاكبيرن روفرز",
+    "homeLogo": "https://jdwel.com/image/teams/1226.png",
+    "away": "إيبسويتش تاون",
+    "awayLogo": "https://jdwel.com/image/teams/1756.png",
+    "score": "1 - 1",
+    "time": "9:45 م"
+  },
+  {
+    "home": "هال سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/2626.png",
+    "away": "ميدلزبره",
+    "awayLogo": "https://jdwel.com/image/teams/4704.png",
+    "score": "1 - 4",
+    "time": "10:15 م"
+  },
+  {
+    "home": "ديربي كاونتي",
+    "homeLogo": "https://jdwel.com/image/teams/2627.png",
+    "away": "ليستر سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1757.png",
+    "score": "1 - 3",
+    "time": "2:30 م"
+  },
+  {
+    "home": "واتفورد",
+    "homeLogo": "https://jdwel.com/image/teams/4819.png",
+    "away": "نورويتش سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/2225.png",
+    "score": "3 - 2",
+    "time": "2:30 م"
+  },
+  {
+    "home": "بريستول سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/5223.png",
+    "away": "ميلوول",
+    "awayLogo": "https://jdwel.com/image/teams/2443.png",
+    "score": "0 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "إيبسويتش تاون",
+    "homeLogo": "https://jdwel.com/image/teams/1756.png",
+    "away": "كوفنتري سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/3155.png",
+    "score": "3 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "بريستون نورث إيند",
+    "homeLogo": "https://jdwel.com/image/teams/3250.png",
+    "away": "ريكسهام",
+    "awayLogo": "https://jdwel.com/image/teams/3130.png",
+    "score": "1 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "كوينز بارك رينجرز",
+    "homeLogo": "https://jdwel.com/image/teams/1122.png",
+    "away": "وست بروميتش ألبيون",
+    "awayLogo": "https://jdwel.com/image/teams/1683.png",
+    "score": "3 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "شيفيلد يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/3101.png",
+    "away": "ستوك سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1028.png",
+    "score": "4 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "ساوثهامبتون",
+    "homeLogo": "https://jdwel.com/image/teams/3014.png",
+    "away": "برمنغهام سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1118.png",
+    "score": "3 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "سوانزي سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1838.png",
+    "away": "أكسفورد يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/eng_oxford_united_v2.png",
+    "score": "2 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "بلاكبيرن روفرز",
+    "homeLogo": "https://jdwel.com/image/teams/1226.png",
+    "away": "أكسفورد يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/eng_oxford_united_v2.png",
+    "score": "1 - 1",
+    "time": "9:45 م"
+  },
+  {
+    "home": "تشارلتون أثلتيك",
+    "homeLogo": "https://jdwel.com/image/teams/eng_charlton_athletic.png",
+    "away": "ميدلزبره",
+    "awayLogo": "https://jdwel.com/image/teams/4704.png",
+    "score": "1 - 2",
+    "time": "9:45 م"
+  },
+  {
+    "home": "بريستون نورث إيند",
+    "homeLogo": "https://jdwel.com/image/teams/3250.png",
+    "away": "كوفنتري سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/3155.png",
+    "score": "1 - 1",
+    "time": "9:45 م"
+  },
+  {
+    "home": "شيفيلد يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/3101.png",
+    "away": "نورويتش سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/2225.png",
+    "score": "1 - 1",
+    "time": "9:45 م"
+  },
+  {
+    "home": "ساوثهامبتون",
+    "homeLogo": "https://jdwel.com/image/teams/3014.png",
+    "away": "وست بروميتش ألبيون",
+    "awayLogo": "https://jdwel.com/image/teams/1683.png",
+    "score": "3 - 2",
+    "time": "9:45 م"
+  },
+  {
+    "home": "سوانزي سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1838.png",
+    "away": "بورتسموث",
+    "awayLogo": "https://jdwel.com/image/teams/2168.png",
+    "score": "1 - 0",
+    "time": "9:45 م"
+  },
+  {
+    "home": "واتفورد",
+    "homeLogo": "https://jdwel.com/image/teams/4819.png",
+    "away": "شيفيلد وينزداي",
+    "awayLogo": "https://jdwel.com/image/teams/895.png",
+    "score": "1 - 1",
+    "time": "9:45 م"
+  },
+  {
+    "home": "كوينز بارك رينجرز",
+    "homeLogo": "https://jdwel.com/image/teams/1122.png",
+    "away": "برمنغهام سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1118.png",
+    "score": "2 - 1",
+    "time": "10:00 م"
+  },
+  {
+    "home": "بريستول سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/5223.png",
+    "away": "ليستر سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1757.png",
+    "score": "2 - 2",
+    "time": "9:45 م"
+  },
+  {
+    "home": "ديربي كاونتي",
+    "homeLogo": "https://jdwel.com/image/teams/2627.png",
+    "away": "ميلوول",
+    "awayLogo": "https://jdwel.com/image/teams/2443.png",
+    "score": "1 - 1",
+    "time": "9:45 م"
+  },
+  {
+    "home": "إيبسويتش تاون",
+    "homeLogo": "https://jdwel.com/image/teams/1756.png",
+    "away": "ستوك سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1028.png",
+    "score": "1 - 0",
+    "time": "9:45 م"
+  },
+  {
+    "home": "هال سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/2626.png",
+    "away": "ريكسهام",
+    "awayLogo": "https://jdwel.com/image/teams/3130.png",
+    "score": "2 - 0",
+    "time": "10:00 م"
+  },
+  {
+    "home": "وست بروميتش ألبيون",
+    "homeLogo": "https://jdwel.com/image/teams/1683.png",
+    "away": "شيفيلد يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/3101.png",
+    "score": "2 - 0",
+    "time": "10:00 م"
+  },
+  {
+    "home": "نورويتش سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/2225.png",
+    "away": "ساوثهامبتون",
+    "awayLogo": "https://jdwel.com/image/teams/3014.png",
+    "score": "2 - 1",
+    "time": "2:30 م"
+  },
+  {
+    "home": "أكسفورد يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/eng_oxford_united_v2.png",
+    "away": "بريستون نورث إيند",
+    "awayLogo": "https://jdwel.com/image/teams/3250.png",
+    "score": "1 - 2",
+    "time": "2:30 م"
+  },
+  {
+    "home": "ستوك سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1028.png",
+    "away": "سوانزي سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1838.png",
+    "score": "2 - 1",
+    "time": "2:30 م"
+  },
+  {
+    "home": "برمنغهام سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1118.png",
+    "away": "تشارلتون أثلتيك",
+    "awayLogo": "https://jdwel.com/image/teams/eng_charlton_athletic.png",
+    "score": "1 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "كوفنتري سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/3155.png",
+    "away": "بريستول سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/5223.png",
+    "score": "1 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "ليستر سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1757.png",
+    "away": "إيبسويتش تاون",
+    "awayLogo": "https://jdwel.com/image/teams/1756.png",
+    "score": "3 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "ميدلزبره",
+    "homeLogo": "https://jdwel.com/image/teams/4704.png",
+    "away": "كوينز بارك رينجرز",
+    "awayLogo": "https://jdwel.com/image/teams/1122.png",
+    "score": "3 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "ميلوول",
+    "homeLogo": "https://jdwel.com/image/teams/2443.png",
+    "away": "هال سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/2626.png",
+    "score": "1 - 3",
+    "time": "5:00 م"
+  },
+  {
+    "home": "بورتسموث",
+    "homeLogo": "https://jdwel.com/image/teams/2168.png",
+    "away": "بلاكبيرن روفرز",
+    "awayLogo": "https://jdwel.com/image/teams/1226.png",
+    "score": "2 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "ريكسهام",
+    "homeLogo": "https://jdwel.com/image/teams/3130.png",
+    "away": "واتفورد",
+    "awayLogo": "https://jdwel.com/image/teams/4819.png",
+    "score": "2 - 2",
+    "time": "5:00 م"
+  },
+  {
+    "home": "شيفيلد وينزداي",
+    "homeLogo": "https://jdwel.com/image/teams/895.png",
+    "away": "ديربي كاونتي",
+    "awayLogo": "https://jdwel.com/image/teams/2627.png",
+    "score": "0 - 3",
+    "time": "10:00 م"
+  },
+  {
+    "home": "سوانزي سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1838.png",
+    "away": "ريكسهام",
+    "awayLogo": "https://jdwel.com/image/teams/3130.png",
+    "score": "2 - 1",
+    "time": "10:00 م"
+  },
+  {
+    "home": "بلاكبيرن روفرز",
+    "homeLogo": "https://jdwel.com/image/teams/1226.png",
+    "away": "ميلوول",
+    "awayLogo": "https://jdwel.com/image/teams/2443.png",
+    "score": "2 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "بريستون نورث إيند",
+    "homeLogo": "https://jdwel.com/image/teams/3250.png",
+    "away": "نورويتش سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/2225.png",
+    "score": "1 - 1",
+    "time": "2:30 م"
+  },
+  {
+    "home": "ساوثهامبتون",
+    "homeLogo": "https://jdwel.com/image/teams/3014.png",
+    "away": "كوفنتري سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/3155.png",
+    "score": "1 - 1",
+    "time": "2:30 م"
+  },
+  {
+    "home": "بريستول سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/5223.png",
+    "away": "ميدلزبره",
+    "awayLogo": "https://jdwel.com/image/teams/4704.png",
+    "score": "2 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "تشارلتون أثلتيك",
+    "homeLogo": "https://jdwel.com/image/teams/eng_charlton_athletic.png",
+    "away": "أكسفورد يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/eng_oxford_united_v2.png",
+    "score": "1 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "ديربي كاونتي",
+    "homeLogo": "https://jdwel.com/image/teams/2627.png",
+    "away": "بورتسموث",
+    "awayLogo": "https://jdwel.com/image/teams/2168.png",
+    "score": "1 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "هال سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/2626.png",
+    "away": "وست بروميتش ألبيون",
+    "awayLogo": "https://jdwel.com/image/teams/1683.png",
+    "score": "1 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "إيبسويتش تاون",
+    "homeLogo": "https://jdwel.com/image/teams/1756.png",
+    "away": "شيفيلد وينزداي",
+    "awayLogo": "https://jdwel.com/image/teams/895.png",
+    "score": "3 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "كوينز بارك رينجرز",
+    "homeLogo": "https://jdwel.com/image/teams/1122.png",
+    "away": "ليستر سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1757.png",
+    "score": "4 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "شيفيلد يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/3101.png",
+    "away": "برمنغهام سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1118.png",
+    "score": "3 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "واتفورد",
+    "homeLogo": "https://jdwel.com/image/teams/4819.png",
+    "away": "ستوك سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1028.png",
+    "score": "1 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "برمنغهام سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1118.png",
+    "away": "ديربي كاونتي",
+    "awayLogo": "https://jdwel.com/image/teams/2627.png",
+    "score": "1 - 1",
+    "time": "2:30 م"
+  },
+  {
+    "home": "ميلوول",
+    "homeLogo": "https://jdwel.com/image/teams/2443.png",
+    "away": "إيبسويتش تاون",
+    "awayLogo": "https://jdwel.com/image/teams/1756.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "كوفنتري سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/3155.png",
+    "away": "سوانزي سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1838.png",
+    "score": "1 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "ليستر سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1757.png",
+    "away": "واتفورد",
+    "awayLogo": "https://jdwel.com/image/teams/4819.png",
+    "score": "1 - 2",
+    "time": "5:00 م"
+  },
+  {
+    "home": "ميدلزبره",
+    "homeLogo": "https://jdwel.com/image/teams/4704.png",
+    "away": "بلاكبيرن روفرز",
+    "awayLogo": "https://jdwel.com/image/teams/1226.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "نورويتش سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/2225.png",
+    "away": "تشارلتون أثلتيك",
+    "awayLogo": "https://jdwel.com/image/teams/eng_charlton_athletic.png",
+    "score": "1 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "أكسفورد يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/eng_oxford_united_v2.png",
+    "away": "ساوثهامبتون",
+    "awayLogo": "https://jdwel.com/image/teams/3014.png",
+    "score": "2 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "بورتسموث",
+    "homeLogo": "https://jdwel.com/image/teams/2168.png",
+    "away": "كوينز بارك رينجرز",
+    "awayLogo": "https://jdwel.com/image/teams/1122.png",
+    "score": "1 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "شيفيلد وينزداي",
+    "homeLogo": "https://jdwel.com/image/teams/895.png",
+    "away": "هال سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/2626.png",
+    "score": "2 - 2",
+    "time": "5:00 م"
+  },
+  {
+    "home": "ستوك سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1028.png",
+    "away": "بريستون نورث إيند",
+    "awayLogo": "https://jdwel.com/image/teams/3250.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "وست بروميتش ألبيون",
+    "homeLogo": "https://jdwel.com/image/teams/1683.png",
+    "away": "بريستول سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/5223.png",
+    "score": "1 - 2",
+    "time": "5:00 م"
+  },
+  {
+    "home": "ريكسهام",
+    "homeLogo": "https://jdwel.com/image/teams/3130.png",
+    "away": "شيفيلد يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/3101.png",
+    "score": "5 - 3",
+    "time": "7:30 م"
+  },
+  {
+    "home": "كوفنتري سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/3155.png",
+    "away": "إيبسويتش تاون",
+    "awayLogo": "https://jdwel.com/image/teams/1756.png",
+    "score": "0 - 2",
+    "time": "8:00 م"
+  },
+  {
+    "home": "ليستر سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1757.png",
+    "away": "ديربي كاونتي",
+    "awayLogo": "https://jdwel.com/image/teams/2627.png",
+    "score": "2 - 1",
+    "time": "9:45 م"
+  },
+  {
+    "home": "ميدلزبره",
+    "homeLogo": "https://jdwel.com/image/teams/4704.png",
+    "away": "هال سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/2626.png",
+    "score": "0 - 1",
+    "time": "9:45 م"
+  },
+  {
+    "home": "ميلوول",
+    "homeLogo": "https://jdwel.com/image/teams/2443.png",
+    "away": "بريستول سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/5223.png",
+    "score": "2 - 1",
+    "time": "9:45 م"
+  },
+  {
+    "home": "نورويتش سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/2225.png",
+    "away": "واتفورد",
+    "awayLogo": "https://jdwel.com/image/teams/4819.png",
+    "score": "0 - 1",
+    "time": "9:45 م"
+  },
+  {
+    "home": "أكسفورد يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/eng_oxford_united_v2.png",
+    "away": "سوانزي سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1838.png",
+    "score": "0 - 1",
+    "time": "9:45 م"
+  },
+  {
+    "home": "بورتسموث",
+    "homeLogo": "https://jdwel.com/image/teams/2168.png",
+    "away": "تشارلتون أثلتيك",
+    "awayLogo": "https://jdwel.com/image/teams/eng_charlton_athletic.png",
+    "score": "2 - 1",
+    "time": "9:45 م"
+  },
+  {
+    "home": "شيفيلد وينزداي",
+    "homeLogo": "https://jdwel.com/image/teams/895.png",
+    "away": "بلاكبيرن روفرز",
+    "awayLogo": "https://jdwel.com/image/teams/1226.png",
+    "score": "0 - 0",
+    "time": "9:45 م"
+  },
+  {
+    "home": "ستوك سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1028.png",
+    "away": "شيفيلد يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/3101.png",
+    "score": "1 - 2",
+    "time": "9:45 م"
+  },
+  {
+    "home": "وست بروميتش ألبيون",
+    "homeLogo": "https://jdwel.com/image/teams/1683.png",
+    "away": "كوينز بارك رينجرز",
+    "awayLogo": "https://jdwel.com/image/teams/1122.png",
+    "score": "2 - 1",
+    "time": "9:45 م"
+  },
+  {
+    "home": "ريكسهام",
+    "homeLogo": "https://jdwel.com/image/teams/3130.png",
+    "away": "بريستون نورث إيند",
+    "awayLogo": "https://jdwel.com/image/teams/3250.png",
+    "score": "2 - 1",
+    "time": "9:45 م"
+  },
+  {
+    "home": "برمنغهام سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1118.png",
+    "away": "ساوثهامبتون",
+    "awayLogo": "https://jdwel.com/image/teams/3014.png",
+    "score": "1 - 1",
+    "time": "10:15 م"
+  },
+  {
+    "home": "بلاكبيرن روفرز",
+    "homeLogo": "https://jdwel.com/image/teams/1226.png",
+    "away": "ريكسهام",
+    "awayLogo": "https://jdwel.com/image/teams/3130.png",
+    "score": "0 - 2",
+    "time": "2:30 م"
+  },
+  {
+    "home": "بريستول سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/5223.png",
+    "away": "بورتسموث",
+    "awayLogo": "https://jdwel.com/image/teams/2168.png",
+    "score": "5 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "تشارلتون أثلتيك",
+    "homeLogo": "https://jdwel.com/image/teams/eng_charlton_athletic.png",
+    "away": "كوفنتري سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/3155.png",
+    "score": "1 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "ديربي كاونتي",
+    "homeLogo": "https://jdwel.com/image/teams/2627.png",
+    "away": "ميدلزبره",
+    "awayLogo": "https://jdwel.com/image/teams/4704.png",
+    "score": "1 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "هال سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/2626.png",
+    "away": "ستوك سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1028.png",
+    "score": "0 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "إيبسويتش تاون",
+    "homeLogo": "https://jdwel.com/image/teams/1756.png",
+    "away": "أكسفورد يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/eng_oxford_united_v2.png",
+    "score": "2 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "بريستون نورث إيند",
+    "homeLogo": "https://jdwel.com/image/teams/3250.png",
+    "away": "شيفيلد وينزداي",
+    "awayLogo": "https://jdwel.com/image/teams/895.png",
+    "score": "3 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "كوينز بارك رينجرز",
+    "homeLogo": "https://jdwel.com/image/teams/1122.png",
+    "away": "نورويتش سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/2225.png",
+    "score": "1 - 2",
+    "time": "5:00 م"
+  },
+  {
+    "home": "ساوثهامبتون",
+    "homeLogo": "https://jdwel.com/image/teams/3014.png",
+    "away": "ميلوول",
+    "awayLogo": "https://jdwel.com/image/teams/2443.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "سوانزي سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1838.png",
+    "away": "وست بروميتش ألبيون",
+    "awayLogo": "https://jdwel.com/image/teams/1683.png",
+    "score": "1 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "واتفورد",
+    "homeLogo": "https://jdwel.com/image/teams/4819.png",
+    "away": "برمنغهام سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1118.png",
+    "score": "3 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "شيفيلد يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/3101.png",
+    "away": "ليستر سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1757.png",
+    "score": "3 - 1",
+    "time": "7:30 م"
+  },
+  {
+    "home": "برمنغهام سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1118.png",
+    "away": "كوفنتري سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/3155.png",
+    "score": "3 - 2",
+    "time": "2:00 م"
+  },
+  {
+    "home": "كوينز بارك رينجرز",
+    "homeLogo": "https://jdwel.com/image/teams/1122.png",
+    "away": "شيفيلد وينزداي",
+    "awayLogo": "https://jdwel.com/image/teams/895.png",
+    "score": "3 - 0",
+    "time": "2:00 م"
+  },
+  {
+    "home": "بلاكبيرن روفرز",
+    "homeLogo": "https://jdwel.com/image/teams/1226.png",
+    "away": "تشارلتون أثلتيك",
+    "awayLogo": "https://jdwel.com/image/teams/eng_charlton_athletic.png",
+    "score": "2 - 2",
+    "time": "5:00 م"
+  },
+  {
+    "home": "بريستول سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/5223.png",
+    "away": "بريستون نورث إيند",
+    "awayLogo": "https://jdwel.com/image/teams/3250.png",
+    "score": "0 - 2",
+    "time": "5:00 م"
+  },
+  {
+    "home": "ديربي كاونتي",
+    "homeLogo": "https://jdwel.com/image/teams/2627.png",
+    "away": "ريكسهام",
+    "awayLogo": "https://jdwel.com/image/teams/3130.png",
+    "score": "1 - 2",
+    "time": "5:00 م"
+  },
+  {
+    "home": "ميدلزبره",
+    "homeLogo": "https://jdwel.com/image/teams/4704.png",
+    "away": "ساوثهامبتون",
+    "awayLogo": "https://jdwel.com/image/teams/3014.png",
+    "score": "4 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "ميلوول",
+    "homeLogo": "https://jdwel.com/image/teams/2443.png",
+    "away": "سوانزي سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1838.png",
+    "score": "2 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "نورويتش سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/2225.png",
+    "away": "ستوك سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1028.png",
+    "score": "0 - 2",
+    "time": "5:00 م"
+  },
+  {
+    "home": "ليستر سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1757.png",
+    "away": "وست بروميتش ألبيون",
+    "awayLogo": "https://jdwel.com/image/teams/1683.png",
+    "score": "2 - 1",
+    "time": "10:00 م"
+  },
+  {
+    "home": "وست بروميتش ألبيون",
+    "homeLogo": "https://jdwel.com/image/teams/1683.png",
+    "away": "ميدلزبره",
+    "awayLogo": "https://jdwel.com/image/teams/4704.png",
+    "score": "2 - 3",
+    "time": "10:00 م"
+  },
+  {
+    "home": "كوفنتري سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/3155.png",
+    "away": "ليستر سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1757.png",
+    "score": "2 - 1",
+    "time": "2:30 م"
+  },
+  {
+    "home": "إيبسويتش تاون",
+    "homeLogo": "https://jdwel.com/image/teams/1756.png",
+    "away": "بلاكبيرن روفرز",
+    "awayLogo": "https://jdwel.com/image/teams/1226.png",
+    "score": "3 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "واتفورد",
+    "homeLogo": "https://jdwel.com/image/teams/4819.png",
+    "away": "ميلوول",
+    "awayLogo": "https://jdwel.com/image/teams/2443.png",
+    "score": "0 - 2",
+    "time": "2:30 م"
+  },
+  {
+    "home": "تشارلتون أثلتيك",
+    "homeLogo": "https://jdwel.com/image/teams/eng_charlton_athletic.png",
+    "away": "شيفيلد يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/3101.png",
+    "score": "1 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "أكسفورد يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/eng_oxford_united_v2.png",
+    "away": "بريستول سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/5223.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "بريستون نورث إيند",
+    "homeLogo": "https://jdwel.com/image/teams/3250.png",
+    "away": "ديربي كاونتي",
+    "awayLogo": "https://jdwel.com/image/teams/2627.png",
+    "score": "0 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "شيفيلد وينزداي",
+    "homeLogo": "https://jdwel.com/image/teams/895.png",
+    "away": "بورتسموث",
+    "awayLogo": "https://jdwel.com/image/teams/2168.png",
+    "score": "0 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "ساوثهامبتون",
+    "homeLogo": "https://jdwel.com/image/teams/3014.png",
+    "away": "هال سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/2626.png",
+    "score": "1 - 2",
+    "time": "5:00 م"
+  },
+  {
+    "home": "ستوك سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1028.png",
+    "away": "كوينز بارك رينجرز",
+    "awayLogo": "https://jdwel.com/image/teams/1122.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "ريكسهام",
+    "homeLogo": "https://jdwel.com/image/teams/3130.png",
+    "away": "نورويتش سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/2225.png",
+    "score": "1 - 2",
+    "time": "5:00 م"
+  },
+  {
+    "home": "سوانزي سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1838.png",
+    "away": "برمنغهام سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1118.png",
+    "score": "1 - 1",
+    "time": "7:30 م"
+  },
+  {
+    "home": "كوفنتري سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/3155.png",
+    "away": "ميلوول",
+    "awayLogo": "https://jdwel.com/image/teams/2443.png",
+    "score": "2 - 1",
+    "time": "9:45 م"
+  },
+  {
+    "home": "إيبسويتش تاون",
+    "homeLogo": "https://jdwel.com/image/teams/1756.png",
+    "away": "بريستول سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/5223.png",
+    "score": "2 - 0",
+    "time": "9:45 م"
+  },
+  {
+    "home": "أكسفورد يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/eng_oxford_united_v2.png",
+    "away": "كوينز بارك رينجرز",
+    "awayLogo": "https://jdwel.com/image/teams/1122.png",
+    "score": "0 - 0",
+    "time": "9:45 م"
+  },
+  {
+    "home": "بريستون نورث إيند",
+    "homeLogo": "https://jdwel.com/image/teams/3250.png",
+    "away": "هال سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/2626.png",
+    "score": "0 - 3",
+    "time": "9:45 م"
+  },
+  {
+    "home": "شيفيلد وينزداي",
+    "homeLogo": "https://jdwel.com/image/teams/895.png",
+    "away": "برمنغهام سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1118.png",
+    "score": "0 - 2",
+    "time": "9:45 م"
+  },
+  {
+    "home": "سوانزي سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1838.png",
+    "away": "بلاكبيرن روفرز",
+    "awayLogo": "https://jdwel.com/image/teams/1226.png",
+    "score": "3 - 1",
+    "time": "9:45 م"
+  },
+  {
+    "home": "وست بروميتش ألبيون",
+    "homeLogo": "https://jdwel.com/image/teams/1683.png",
+    "away": "نورويتش سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/2225.png",
+    "score": "0 - 5",
+    "time": "9:45 م"
+  },
+  {
+    "home": "تشارلتون أثلتيك",
+    "homeLogo": "https://jdwel.com/image/teams/eng_charlton_athletic.png",
+    "away": "ديربي كاونتي",
+    "awayLogo": "https://jdwel.com/image/teams/2627.png",
+    "score": "1 - 2",
+    "time": "9:45 م"
+  },
+  {
+    "home": "ريكسهام",
+    "homeLogo": "https://jdwel.com/image/teams/3130.png",
+    "away": "ليستر سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1757.png",
+    "score": "1 - 1",
+    "time": "10:00 م"
+  },
+  {
+    "home": "ساوثهامبتون",
+    "homeLogo": "https://jdwel.com/image/teams/3014.png",
+    "away": "شيفيلد يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/3101.png",
+    "score": "1 - 0",
+    "time": "9:45 م"
+  },
+  {
+    "home": "واتفورد",
+    "homeLogo": "https://jdwel.com/image/teams/4819.png",
+    "away": "بورتسموث",
+    "awayLogo": "https://jdwel.com/image/teams/2168.png",
+    "score": "1 - 1",
+    "time": "9:45 م"
+  },
+  {
+    "home": "ستوك سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1028.png",
+    "away": "ميدلزبره",
+    "awayLogo": "https://jdwel.com/image/teams/4704.png",
+    "score": "1 - 2",
+    "time": "10:00 م"
+  },
+  {
+    "home": "ديربي كاونتي",
+    "homeLogo": "https://jdwel.com/image/teams/2627.png",
+    "away": "وست بروميتش ألبيون",
+    "awayLogo": "https://jdwel.com/image/teams/1683.png",
+    "score": "1 - 1",
+    "time": "10:00 م"
+  },
+  {
+    "home": "ميدلزبره",
+    "homeLogo": "https://jdwel.com/image/teams/4704.png",
+    "away": "بريستون نورث إيند",
+    "awayLogo": "https://jdwel.com/image/teams/3250.png",
+    "score": "4 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "ميلوول",
+    "homeLogo": "https://jdwel.com/image/teams/2443.png",
+    "away": "تشارلتون أثلتيك",
+    "awayLogo": "https://jdwel.com/image/teams/eng_charlton_athletic.png",
+    "score": "4 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "برمنغهام سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1118.png",
+    "away": "ستوك سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1028.png",
+    "score": "1 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "بلاكبيرن روفرز",
+    "homeLogo": "https://jdwel.com/image/teams/1226.png",
+    "away": "واتفورد",
+    "awayLogo": "https://jdwel.com/image/teams/4819.png",
+    "score": "1 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "بريستول سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/5223.png",
+    "away": "شيفيلد وينزداي",
+    "awayLogo": "https://jdwel.com/image/teams/895.png",
+    "score": "2 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "هال سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/2626.png",
+    "away": "سوانزي سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1838.png",
+    "score": "2 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "ليستر سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1757.png",
+    "away": "أكسفورد يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/eng_oxford_united_v2.png",
+    "score": "1 - 2",
+    "time": "5:00 م"
+  },
+  {
+    "home": "كوينز بارك رينجرز",
+    "homeLogo": "https://jdwel.com/image/teams/1122.png",
+    "away": "ريكسهام",
+    "awayLogo": "https://jdwel.com/image/teams/3130.png",
+    "score": "2 - 3",
+    "time": "5:00 م"
+  },
+  {
+    "home": "شيفيلد يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/3101.png",
+    "away": "إيبسويتش تاون",
+    "awayLogo": "https://jdwel.com/image/teams/1756.png",
+    "score": "3 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "بورتسموث",
+    "homeLogo": "https://jdwel.com/image/teams/2168.png",
+    "away": "ساوثهامبتون",
+    "awayLogo": "https://jdwel.com/image/teams/3014.png",
+    "score": "1 - 1",
+    "time": "2:00 م"
+  },
+  {
+    "home": "نورويتش سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/2225.png",
+    "away": "كوفنتري سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/3155.png",
+    "score": "2 - 1",
+    "time": "10:00 م"
+  },
+  {
+    "home": "بريستول سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/5223.png",
+    "away": "ديربي كاونتي",
+    "awayLogo": "https://jdwel.com/image/teams/2627.png",
+    "score": "0 - 5",
+    "time": "10:00 م"
+  },
+  {
+    "home": "ليستر سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1757.png",
+    "away": "تشارلتون أثلتيك",
+    "awayLogo": "https://jdwel.com/image/teams/eng_charlton_athletic.png",
+    "score": "0 - 2",
+    "time": "2:30 م"
+  },
+  {
+    "home": "شيفيلد وينزداي",
+    "homeLogo": "https://jdwel.com/image/teams/895.png",
+    "away": "ريكسهام",
+    "awayLogo": "https://jdwel.com/image/teams/3130.png",
+    "score": "0 - 1",
+    "time": "2:30 م"
+  },
+  {
+    "home": "ستوك سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1028.png",
+    "away": "ساوثهامبتون",
+    "awayLogo": "https://jdwel.com/image/teams/3014.png",
+    "score": "0 - 2",
+    "time": "2:30 م"
+  },
+  {
+    "home": "بلاكبيرن روفرز",
+    "homeLogo": "https://jdwel.com/image/teams/1226.png",
+    "away": "هال سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/2626.png",
+    "score": "0 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "إيبسويتش تاون",
+    "homeLogo": "https://jdwel.com/image/teams/1756.png",
+    "away": "بريستون نورث إيند",
+    "awayLogo": "https://jdwel.com/image/teams/3250.png",
+    "score": "1 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "ميدلزبره",
+    "homeLogo": "https://jdwel.com/image/teams/4704.png",
+    "away": "نورويتش سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/2225.png",
+    "score": "1 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "ميلوول",
+    "homeLogo": "https://jdwel.com/image/teams/2443.png",
+    "away": "شيفيلد يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/3101.png",
+    "score": "1 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "أكسفورد يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/eng_oxford_united_v2.png",
+    "away": "برمنغهام سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1118.png",
+    "score": "0 - 2",
+    "time": "5:00 م"
+  },
+  {
+    "home": "بورتسموث",
+    "homeLogo": "https://jdwel.com/image/teams/2168.png",
+    "away": "وست بروميتش ألبيون",
+    "awayLogo": "https://jdwel.com/image/teams/1683.png",
+    "score": "3 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "كوينز بارك رينجرز",
+    "homeLogo": "https://jdwel.com/image/teams/1122.png",
+    "away": "كوفنتري سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/3155.png",
+    "score": "2 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "واتفورد",
+    "homeLogo": "https://jdwel.com/image/teams/4819.png",
+    "away": "سوانزي سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1838.png",
+    "score": "0 - 2",
+    "time": "5:00 م"
+  },
+  {
+    "home": "بلاكبيرن روفرز",
+    "homeLogo": "https://jdwel.com/image/teams/1226.png",
+    "away": "شيفيلد وينزداي",
+    "awayLogo": "https://jdwel.com/image/teams/895.png",
+    "score": "0 - 0",
+    "time": "9:45 م"
+  },
+  {
+    "home": "هال سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/2626.png",
+    "away": "واتفورد",
+    "awayLogo": "https://jdwel.com/image/teams/4819.png",
+    "score": "0 - 0",
+    "time": "9:45 م"
+  },
+  {
+    "home": "بورتسموث",
+    "homeLogo": "https://jdwel.com/image/teams/2168.png",
+    "away": "إيبسويتش تاون",
+    "awayLogo": "https://jdwel.com/image/teams/1756.png",
+    "score": "0 - 0",
+    "time": "9:45 م"
+  },
+  {
+    "home": "شيفيلد يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/3101.png",
+    "away": "أكسفورد يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/eng_oxford_united_v2.png",
+    "score": "0 - 0",
+    "time": "9:45 م"
+  },
+  {
+    "home": "تشارلتون أثلتيك",
+    "homeLogo": "https://jdwel.com/image/teams/eng_charlton_athletic.png",
+    "away": "كوينز بارك رينجرز",
+    "awayLogo": "https://jdwel.com/image/teams/1122.png",
+    "score": "0 - 0",
+    "time": "10:01 م"
+  },
+  {
+    "home": "ديربي كاونتي",
+    "homeLogo": "https://jdwel.com/image/teams/2627.png",
+    "away": "إيبسويتش تاون",
+    "awayLogo": "https://jdwel.com/image/teams/1756.png",
+    "score": "0 - 0",
+    "time": "2:31 م"
+  },
+  {
+    "home": "نورويتش سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/2225.png",
+    "away": "بلاكبيرن روفرز",
+    "awayLogo": "https://jdwel.com/image/teams/1226.png",
+    "score": "0 - 0",
+    "time": "2:31 م"
+  },
+  {
+    "home": "ساوثهامبتون",
+    "homeLogo": "https://jdwel.com/image/teams/3014.png",
+    "away": "واتفورد",
+    "awayLogo": "https://jdwel.com/image/teams/4819.png",
+    "score": "0 - 0",
+    "time": "2:31 م"
+  },
+  {
+    "home": "برمنغهام سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1118.png",
+    "away": "ليستر سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1757.png",
+    "score": "0 - 0",
+    "time": "5:01 م"
+  },
+  {
+    "home": "كوفنتري سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/3155.png",
+    "away": "أكسفورد يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/eng_oxford_united_v2.png",
+    "score": "0 - 0",
+    "time": "5:01 م"
+  },
+  {
+    "home": "هال سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/2626.png",
+    "away": "بريستول سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/5223.png",
+    "score": "0 - 0",
+    "time": "5:01 م"
+  },
+  {
+    "home": "بريستون نورث إيند",
+    "homeLogo": "https://jdwel.com/image/teams/3250.png",
+    "away": "بورتسموث",
+    "awayLogo": "https://jdwel.com/image/teams/2168.png",
+    "score": "0 - 0",
+    "time": "5:01 م"
+  },
+  {
+    "home": "وست بروميتش ألبيون",
+    "homeLogo": "https://jdwel.com/image/teams/1683.png",
+    "away": "ستوك سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1028.png",
+    "score": "0 - 0",
+    "time": "5:01 م"
+  },
+  {
+    "home": "ريكسهام",
+    "homeLogo": "https://jdwel.com/image/teams/3130.png",
+    "away": "ميلوول",
+    "awayLogo": "https://jdwel.com/image/teams/2443.png",
+    "score": "0 - 0",
+    "time": "5:01 م"
+  },
+  {
+    "home": "سوانزي سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1838.png",
+    "away": "شيفيلد وينزداي",
+    "awayLogo": "https://jdwel.com/image/teams/895.png",
+    "score": "0 - 0",
+    "time": "2:01 م"
+  },
+  {
+    "home": "شيفيلد يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/3101.png",
+    "away": "ميدلزبره",
+    "awayLogo": "https://jdwel.com/image/teams/4704.png",
+    "score": "0 - 0",
+    "time": "10:01 م"
+  },
+  {
+    "home": "ليستر سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1757.png",
+    "away": "ساوثهامبتون",
+    "awayLogo": "https://jdwel.com/image/teams/3014.png",
+    "score": "0 - 0",
+    "time": "9:45 م"
+  },
+  {
+    "home": "أكسفورد يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/eng_oxford_united_v2.png",
+    "away": "نورويتش سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/2225.png",
+    "score": "0 - 0",
+    "time": "9:45 م"
+  },
+  {
+    "home": "برمنغهام سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1118.png",
+    "away": "وست بروميتش ألبيون",
+    "awayLogo": "https://jdwel.com/image/teams/1683.png",
+    "score": "0 - 0",
+    "time": "10:00 م"
+  },
+  {
+    "home": "تشارلتون أثلتيك",
+    "homeLogo": "https://jdwel.com/image/teams/eng_charlton_athletic.png",
+    "away": "ستوك سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1028.png",
+    "score": "0 - 0",
+    "time": "9:45 م"
+  },
+  {
+    "home": "ديربي كاونتي",
+    "homeLogo": "https://jdwel.com/image/teams/2627.png",
+    "away": "سوانزي سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1838.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "بورتسموث",
+    "homeLogo": "https://jdwel.com/image/teams/2168.png",
+    "away": "شيفيلد يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/3101.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "بريستون نورث إيند",
+    "homeLogo": "https://jdwel.com/image/teams/3250.png",
+    "away": "واتفورد",
+    "awayLogo": "https://jdwel.com/image/teams/4819.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "كوينز بارك رينجرز",
+    "homeLogo": "https://jdwel.com/image/teams/1122.png",
+    "away": "بلاكبيرن روفرز",
+    "awayLogo": "https://jdwel.com/image/teams/1226.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "شيفيلد وينزداي",
+    "homeLogo": "https://jdwel.com/image/teams/895.png",
+    "away": "ميلوول",
+    "awayLogo": "https://jdwel.com/image/teams/2443.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "كوفنتري سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/3155.png",
+    "away": "ميدلزبره",
+    "awayLogo": "https://jdwel.com/image/teams/4704.png",
+    "score": "0 - 0",
+    "time": "10:00 م"
+  },
+  {
+    "home": "تشارلتون أثلتيك",
+    "homeLogo": "https://jdwel.com/image/teams/eng_charlton_athletic.png",
+    "away": "بورتسموث",
+    "awayLogo": "https://jdwel.com/image/teams/2168.png",
+    "score": "0 - 0",
+    "time": "9:45 م"
+  },
+  {
+    "home": "بريستول سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/5223.png",
+    "away": "ريكسهام",
+    "awayLogo": "https://jdwel.com/image/teams/3130.png",
+    "score": "0 - 0",
+    "time": "9:45 م"
+  },
+  {
+    "home": "بلاكبيرن روفرز",
+    "homeLogo": "https://jdwel.com/image/teams/1226.png",
+    "away": "بريستون نورث إيند",
+    "awayLogo": "https://jdwel.com/image/teams/3250.png",
+    "score": "0 - 0",
+    "time": "10:00 م"
+  },
+  {
+    "home": "هال سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/2626.png",
+    "away": "كوينز بارك رينجرز",
+    "awayLogo": "https://jdwel.com/image/teams/1122.png",
+    "score": "0 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "ستوك سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1028.png",
+    "away": "ليستر سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1757.png",
+    "score": "0 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "سوانزي سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1838.png",
+    "away": "بريستول سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/5223.png",
+    "score": "0 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "وست بروميتش ألبيون",
+    "homeLogo": "https://jdwel.com/image/teams/1683.png",
+    "away": "كوفنتري سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/3155.png",
+    "score": "0 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "ميدلزبره",
+    "homeLogo": "https://jdwel.com/image/teams/4704.png",
+    "away": "أكسفورد يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/eng_oxford_united_v2.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "ميلوول",
+    "homeLogo": "https://jdwel.com/image/teams/2443.png",
+    "away": "بورتسموث",
+    "awayLogo": "https://jdwel.com/image/teams/2168.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "نورويتش سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/2225.png",
+    "away": "برمنغهام سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1118.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "ساوثهامبتون",
+    "homeLogo": "https://jdwel.com/image/teams/3014.png",
+    "away": "تشارلتون أثلتيك",
+    "awayLogo": "https://jdwel.com/image/teams/eng_charlton_athletic.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "واتفورد",
+    "homeLogo": "https://jdwel.com/image/teams/4819.png",
+    "away": "ديربي كاونتي",
+    "awayLogo": "https://jdwel.com/image/teams/2627.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "ريكسهام",
+    "homeLogo": "https://jdwel.com/image/teams/3130.png",
+    "away": "إيبسويتش تاون",
+    "awayLogo": "https://jdwel.com/image/teams/1756.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "شيفيلد يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/3101.png",
+    "away": "شيفيلد وينزداي",
+    "awayLogo": "https://jdwel.com/image/teams/895.png",
+    "score": "0 - 0",
+    "time": "2:00 م"
+  },
+  {
+    "home": "هال سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/2626.png",
+    "away": "ديربي كاونتي",
+    "awayLogo": "https://jdwel.com/image/teams/2627.png",
+    "score": "0 - 0",
+    "time": "9:45 م"
+  },
+  {
+    "home": "ميدلزبره",
+    "homeLogo": "https://jdwel.com/image/teams/4704.png",
+    "away": "ليستر سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1757.png",
+    "score": "0 - 0",
+    "time": "9:45 م"
+  },
+  {
+    "home": "سوانزي سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1838.png",
+    "away": "بريستون نورث إيند",
+    "awayLogo": "https://jdwel.com/image/teams/3250.png",
+    "score": "0 - 0",
+    "time": "9:45 م"
+  },
+  {
+    "home": "واتفورد",
+    "homeLogo": "https://jdwel.com/image/teams/4819.png",
+    "away": "إيبسويتش تاون",
+    "awayLogo": "https://jdwel.com/image/teams/1756.png",
+    "score": "0 - 0",
+    "time": "9:45 م"
+  },
+  {
+    "home": "وست بروميتش ألبيون",
+    "homeLogo": "https://jdwel.com/image/teams/1683.png",
+    "away": "تشارلتون أثلتيك",
+    "awayLogo": "https://jdwel.com/image/teams/eng_charlton_athletic.png",
+    "score": "0 - 0",
+    "time": "9:45 م"
+  },
+  {
+    "home": "ريكسهام",
+    "homeLogo": "https://jdwel.com/image/teams/3130.png",
+    "away": "بورتسموث",
+    "awayLogo": "https://jdwel.com/image/teams/2168.png",
+    "score": "0 - 0",
+    "time": "9:45 م"
+  },
+  {
+    "home": "بلاكبيرن روفرز",
+    "homeLogo": "https://jdwel.com/image/teams/1226.png",
+    "away": "بريستول سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/5223.png",
+    "score": "0 - 0",
+    "time": "9:45 م"
+  },
+  {
+    "home": "ساوثهامبتون",
+    "homeLogo": "https://jdwel.com/image/teams/3014.png",
+    "away": "كوينز بارك رينجرز",
+    "awayLogo": "https://jdwel.com/image/teams/1122.png",
+    "score": "0 - 0",
+    "time": "10:00 م"
+  },
+  {
+    "home": "ميلوول",
+    "homeLogo": "https://jdwel.com/image/teams/2443.png",
+    "away": "برمنغهام سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1118.png",
+    "score": "0 - 0",
+    "time": "9:45 م"
+  },
+  {
+    "home": "نورويتش سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/2225.png",
+    "away": "شيفيلد وينزداي",
+    "awayLogo": "https://jdwel.com/image/teams/895.png",
+    "score": "0 - 0",
+    "time": "9:45 م"
+  },
+  {
+    "home": "شيفيلد يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/3101.png",
+    "away": "كوفنتري سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/3155.png",
+    "score": "0 - 0",
+    "time": "9:45 م"
+  },
+  {
+    "home": "ستوك سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1028.png",
+    "away": "أكسفورد يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/eng_oxford_united_v2.png",
+    "score": "0 - 0",
+    "time": "10:00 م"
+  },
+  {
+    "home": "بريستول سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/5223.png",
+    "away": "واتفورد",
+    "awayLogo": "https://jdwel.com/image/teams/4819.png",
+    "score": "0 - 0",
+    "time": "10:00 م"
+  },
+  {
+    "home": "ديربي كاونتي",
+    "homeLogo": "https://jdwel.com/image/teams/2627.png",
+    "away": "بلاكبيرن روفرز",
+    "awayLogo": "https://jdwel.com/image/teams/1226.png",
+    "score": "0 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "ليستر سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1757.png",
+    "away": "نورويتش سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/2225.png",
+    "score": "0 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "بورتسموث",
+    "homeLogo": "https://jdwel.com/image/teams/2168.png",
+    "away": "هال سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/2626.png",
+    "score": "0 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "تشارلتون أثلتيك",
+    "homeLogo": "https://jdwel.com/image/teams/eng_charlton_athletic.png",
+    "away": "ريكسهام",
+    "awayLogo": "https://jdwel.com/image/teams/3130.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "كوفنتري سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/3155.png",
+    "away": "ستوك سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1028.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "إيبسويتش تاون",
+    "homeLogo": "https://jdwel.com/image/teams/1756.png",
+    "away": "سوانزي سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1838.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "أكسفورد يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/eng_oxford_united_v2.png",
+    "away": "وست بروميتش ألبيون",
+    "awayLogo": "https://jdwel.com/image/teams/1683.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "بريستون نورث إيند",
+    "homeLogo": "https://jdwel.com/image/teams/3250.png",
+    "away": "ميلوول",
+    "awayLogo": "https://jdwel.com/image/teams/2443.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "كوينز بارك رينجرز",
+    "homeLogo": "https://jdwel.com/image/teams/1122.png",
+    "away": "شيفيلد يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/3101.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "شيفيلد وينزداي",
+    "homeLogo": "https://jdwel.com/image/teams/895.png",
+    "away": "ساوثهامبتون",
+    "awayLogo": "https://jdwel.com/image/teams/3014.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "برمنغهام سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1118.png",
+    "away": "ميدلزبره",
+    "awayLogo": "https://jdwel.com/image/teams/4704.png",
+    "score": "0 - 0",
+    "time": "10:00 م"
+  },
+  {
+    "home": "إيبسويتش تاون",
+    "homeLogo": "https://jdwel.com/image/teams/1756.png",
+    "away": "هال سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/2626.png",
+    "score": "0 - 0",
+    "time": "9:45 م"
+  },
+  {
+    "home": "بلاكبيرن روفرز",
+    "homeLogo": "https://jdwel.com/image/teams/1226.png",
+    "away": "بورتسموث",
+    "awayLogo": "https://jdwel.com/image/teams/2168.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "بريستول سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/5223.png",
+    "away": "كوفنتري سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/3155.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "تشارلتون أثلتيك",
+    "homeLogo": "https://jdwel.com/image/teams/eng_charlton_athletic.png",
+    "away": "برمنغهام سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1118.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "ديربي كاونتي",
+    "homeLogo": "https://jdwel.com/image/teams/2627.png",
+    "away": "شيفيلد وينزداي",
+    "awayLogo": "https://jdwel.com/image/teams/895.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "هال سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/2626.png",
+    "away": "ميلوول",
+    "awayLogo": "https://jdwel.com/image/teams/2443.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "إيبسويتش تاون",
+    "homeLogo": "https://jdwel.com/image/teams/1756.png",
+    "away": "ليستر سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1757.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "بريستون نورث إيند",
+    "homeLogo": "https://jdwel.com/image/teams/3250.png",
+    "away": "أكسفورد يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/eng_oxford_united_v2.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "كوينز بارك رينجرز",
+    "homeLogo": "https://jdwel.com/image/teams/1122.png",
+    "away": "ميدلزبره",
+    "awayLogo": "https://jdwel.com/image/teams/4704.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "شيفيلد يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/3101.png",
+    "away": "وست بروميتش ألبيون",
+    "awayLogo": "https://jdwel.com/image/teams/1683.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "ساوثهامبتون",
+    "homeLogo": "https://jdwel.com/image/teams/3014.png",
+    "away": "نورويتش سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/2225.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "سوانزي سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1838.png",
+    "away": "ستوك سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1028.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "واتفورد",
+    "homeLogo": "https://jdwel.com/image/teams/4819.png",
+    "away": "ريكسهام",
+    "awayLogo": "https://jdwel.com/image/teams/3130.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "برمنغهام سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1118.png",
+    "away": "كوينز بارك رينجرز",
+    "awayLogo": "https://jdwel.com/image/teams/1122.png",
+    "score": "0 - 0",
+    "time": "9:45 م"
+  },
+  {
+    "home": "ليستر سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1757.png",
+    "away": "بريستول سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/5223.png",
+    "score": "0 - 0",
+    "time": "9:45 م"
+  },
+  {
+    "home": "ميلوول",
+    "homeLogo": "https://jdwel.com/image/teams/2443.png",
+    "away": "ديربي كاونتي",
+    "awayLogo": "https://jdwel.com/image/teams/2627.png",
+    "score": "0 - 0",
+    "time": "9:45 م"
+  },
+  {
+    "home": "نورويتش سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/2225.png",
+    "away": "شيفيلد يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/3101.png",
+    "score": "0 - 0",
+    "time": "9:45 م"
+  },
+  {
+    "home": "بورتسموث",
+    "homeLogo": "https://jdwel.com/image/teams/2168.png",
+    "away": "سوانزي سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1838.png",
+    "score": "0 - 0",
+    "time": "9:45 م"
+  },
+  {
+    "home": "شيفيلد وينزداي",
+    "homeLogo": "https://jdwel.com/image/teams/895.png",
+    "away": "واتفورد",
+    "awayLogo": "https://jdwel.com/image/teams/4819.png",
+    "score": "0 - 0",
+    "time": "9:45 م"
+  },
+  {
+    "home": "ستوك سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1028.png",
+    "away": "إيبسويتش تاون",
+    "awayLogo": "https://jdwel.com/image/teams/1756.png",
+    "score": "0 - 0",
+    "time": "9:45 م"
+  },
+  {
+    "home": "ريكسهام",
+    "homeLogo": "https://jdwel.com/image/teams/3130.png",
+    "away": "هال سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/2626.png",
+    "score": "0 - 0",
+    "time": "9:45 م"
+  },
+  {
+    "home": "كوفنتري سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/3155.png",
+    "away": "بريستون نورث إيند",
+    "awayLogo": "https://jdwel.com/image/teams/3250.png",
+    "score": "0 - 0",
+    "time": "9:45 م"
+  },
+  {
+    "home": "ميدلزبره",
+    "homeLogo": "https://jdwel.com/image/teams/4704.png",
+    "away": "تشارلتون أثلتيك",
+    "awayLogo": "https://jdwel.com/image/teams/eng_charlton_athletic.png",
+    "score": "0 - 0",
+    "time": "9:45 م"
+  },
+  {
+    "home": "أكسفورد يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/eng_oxford_united_v2.png",
+    "away": "بلاكبيرن روفرز",
+    "awayLogo": "https://jdwel.com/image/teams/1226.png",
+    "score": "0 - 0",
+    "time": "9:45 م"
+  },
+  {
+    "home": "وست بروميتش ألبيون",
+    "homeLogo": "https://jdwel.com/image/teams/1683.png",
+    "away": "ساوثهامبتون",
+    "awayLogo": "https://jdwel.com/image/teams/3014.png",
+    "score": "0 - 0",
+    "time": "9:45 م"
+  },
+  {
+    "home": "برمنغهام سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1118.png",
+    "away": "شيفيلد يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/3101.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "كوفنتري سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/3155.png",
+    "away": "ساوثهامبتون",
+    "awayLogo": "https://jdwel.com/image/teams/3014.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "ليستر سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1757.png",
+    "away": "كوينز بارك رينجرز",
+    "awayLogo": "https://jdwel.com/image/teams/1122.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "ميدلزبره",
+    "homeLogo": "https://jdwel.com/image/teams/4704.png",
+    "away": "بريستول سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/5223.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "ميلوول",
+    "homeLogo": "https://jdwel.com/image/teams/2443.png",
+    "away": "بلاكبيرن روفرز",
+    "awayLogo": "https://jdwel.com/image/teams/1226.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "نورويتش سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/2225.png",
+    "away": "بريستون نورث إيند",
+    "awayLogo": "https://jdwel.com/image/teams/3250.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "أكسفورد يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/eng_oxford_united_v2.png",
+    "away": "تشارلتون أثلتيك",
+    "awayLogo": "https://jdwel.com/image/teams/eng_charlton_athletic.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "بورتسموث",
+    "homeLogo": "https://jdwel.com/image/teams/2168.png",
+    "away": "ديربي كاونتي",
+    "awayLogo": "https://jdwel.com/image/teams/2627.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "شيفيلد وينزداي",
+    "homeLogo": "https://jdwel.com/image/teams/895.png",
+    "away": "إيبسويتش تاون",
+    "awayLogo": "https://jdwel.com/image/teams/1756.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "ستوك سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1028.png",
+    "away": "واتفورد",
+    "awayLogo": "https://jdwel.com/image/teams/4819.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "وست بروميتش ألبيون",
+    "homeLogo": "https://jdwel.com/image/teams/1683.png",
+    "away": "هال سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/2626.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "ريكسهام",
+    "homeLogo": "https://jdwel.com/image/teams/3130.png",
+    "away": "سوانزي سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1838.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "بلاكبيرن روفرز",
+    "homeLogo": "https://jdwel.com/image/teams/1226.png",
+    "away": "ميدلزبره",
+    "awayLogo": "https://jdwel.com/image/teams/4704.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "بريستول سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/5223.png",
+    "away": "وست بروميتش ألبيون",
+    "awayLogo": "https://jdwel.com/image/teams/1683.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "تشارلتون أثلتيك",
+    "homeLogo": "https://jdwel.com/image/teams/eng_charlton_athletic.png",
+    "away": "نورويتش سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/2225.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "ديربي كاونتي",
+    "homeLogo": "https://jdwel.com/image/teams/2627.png",
+    "away": "برمنغهام سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1118.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "هال سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/2626.png",
+    "away": "شيفيلد وينزداي",
+    "awayLogo": "https://jdwel.com/image/teams/895.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "إيبسويتش تاون",
+    "homeLogo": "https://jdwel.com/image/teams/1756.png",
+    "away": "ميلوول",
+    "awayLogo": "https://jdwel.com/image/teams/2443.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "بريستون نورث إيند",
+    "homeLogo": "https://jdwel.com/image/teams/3250.png",
+    "away": "ستوك سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1028.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "كوينز بارك رينجرز",
+    "homeLogo": "https://jdwel.com/image/teams/1122.png",
+    "away": "بورتسموث",
+    "awayLogo": "https://jdwel.com/image/teams/2168.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "شيفيلد يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/3101.png",
+    "away": "ريكسهام",
+    "awayLogo": "https://jdwel.com/image/teams/3130.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "ساوثهامبتون",
+    "homeLogo": "https://jdwel.com/image/teams/3014.png",
+    "away": "أكسفورد يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/eng_oxford_united_v2.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "سوانزي سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1838.png",
+    "away": "كوفنتري سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/3155.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "واتفورد",
+    "homeLogo": "https://jdwel.com/image/teams/4819.png",
+    "away": "ليستر سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1757.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "برمنغهام سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1118.png",
+    "away": "بلاكبيرن روفرز",
+    "awayLogo": "https://jdwel.com/image/teams/1226.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "تشارلتون أثلتيك",
+    "homeLogo": "https://jdwel.com/image/teams/eng_charlton_athletic.png",
+    "away": "بريستول سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/5223.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "كوفنتري سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/3155.png",
+    "away": "ديربي كاونتي",
+    "awayLogo": "https://jdwel.com/image/teams/2627.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "ليستر سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1757.png",
+    "away": "بريستون نورث إيند",
+    "awayLogo": "https://jdwel.com/image/teams/3250.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "ميدلزبره",
+    "homeLogo": "https://jdwel.com/image/teams/4704.png",
+    "away": "ميلوول",
+    "awayLogo": "https://jdwel.com/image/teams/2443.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "نورويتش سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/2225.png",
+    "away": "بورتسموث",
+    "awayLogo": "https://jdwel.com/image/teams/2168.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "أكسفورد يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/eng_oxford_united_v2.png",
+    "away": "هال سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/2626.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "كوينز بارك رينجرز",
+    "homeLogo": "https://jdwel.com/image/teams/1122.png",
+    "away": "واتفورد",
+    "awayLogo": "https://jdwel.com/image/teams/4819.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "شيفيلد يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/3101.png",
+    "away": "سوانزي سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1838.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "ساوثهامبتون",
+    "homeLogo": "https://jdwel.com/image/teams/3014.png",
+    "away": "إيبسويتش تاون",
+    "awayLogo": "https://jdwel.com/image/teams/1756.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "ستوك سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1028.png",
+    "away": "شيفيلد وينزداي",
+    "awayLogo": "https://jdwel.com/image/teams/895.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "وست بروميتش ألبيون",
+    "homeLogo": "https://jdwel.com/image/teams/1683.png",
+    "away": "ريكسهام",
+    "awayLogo": "https://jdwel.com/image/teams/3130.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "ميلوول",
+    "homeLogo": "https://jdwel.com/image/teams/2443.png",
+    "away": "نورويتش سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/2225.png",
+    "score": "0 - 0",
+    "time": "2:00 م"
+  },
+  {
+    "home": "بلاكبيرن روفرز",
+    "homeLogo": "https://jdwel.com/image/teams/1226.png",
+    "away": "وست بروميتش ألبيون",
+    "awayLogo": "https://jdwel.com/image/teams/1683.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "بريستول سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/5223.png",
+    "away": "شيفيلد يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/3101.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "ديربي كاونتي",
+    "homeLogo": "https://jdwel.com/image/teams/2627.png",
+    "away": "ستوك سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1028.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "هال سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/2626.png",
+    "away": "كوفنتري سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/3155.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "إيبسويتش تاون",
+    "homeLogo": "https://jdwel.com/image/teams/1756.png",
+    "away": "برمنغهام سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1118.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "بورتسموث",
+    "homeLogo": "https://jdwel.com/image/teams/2168.png",
+    "away": "أكسفورد يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/eng_oxford_united_v2.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "بريستون نورث إيند",
+    "homeLogo": "https://jdwel.com/image/teams/3250.png",
+    "away": "كوينز بارك رينجرز",
+    "awayLogo": "https://jdwel.com/image/teams/1122.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "شيفيلد وينزداي",
+    "homeLogo": "https://jdwel.com/image/teams/895.png",
+    "away": "ليستر سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1757.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "سوانزي سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1838.png",
+    "away": "ميدلزبره",
+    "awayLogo": "https://jdwel.com/image/teams/4704.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "واتفورد",
+    "homeLogo": "https://jdwel.com/image/teams/4819.png",
+    "away": "تشارلتون أثلتيك",
+    "awayLogo": "https://jdwel.com/image/teams/eng_charlton_athletic.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "ريكسهام",
+    "homeLogo": "https://jdwel.com/image/teams/3130.png",
+    "away": "ساوثهامبتون",
+    "awayLogo": "https://jdwel.com/image/teams/3014.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "نورويتش سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/2225.png",
+    "away": "إيبسويتش تاون",
+    "awayLogo": "https://jdwel.com/image/teams/1756.png",
+    "score": "0 - 0",
+    "time": "1:30 م"
+  },
+  {
+    "home": "برمنغهام سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1118.png",
+    "away": "ريكسهام",
+    "awayLogo": "https://jdwel.com/image/teams/3130.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "تشارلتون أثلتيك",
+    "homeLogo": "https://jdwel.com/image/teams/eng_charlton_athletic.png",
+    "away": "بريستون نورث إيند",
+    "awayLogo": "https://jdwel.com/image/teams/3250.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "كوفنتري سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/3155.png",
+    "away": "شيفيلد وينزداي",
+    "awayLogo": "https://jdwel.com/image/teams/895.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "ليستر سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1757.png",
+    "away": "سوانزي سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1838.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "ميدلزبره",
+    "homeLogo": "https://jdwel.com/image/teams/4704.png",
+    "away": "بورتسموث",
+    "awayLogo": "https://jdwel.com/image/teams/2168.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "أكسفورد يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/eng_oxford_united_v2.png",
+    "away": "واتفورد",
+    "awayLogo": "https://jdwel.com/image/teams/4819.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "كوينز بارك رينجرز",
+    "homeLogo": "https://jdwel.com/image/teams/1122.png",
+    "away": "بريستول سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/5223.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "شيفيلد يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/3101.png",
+    "away": "هال سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/2626.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "ساوثهامبتون",
+    "homeLogo": "https://jdwel.com/image/teams/3014.png",
+    "away": "ديربي كاونتي",
+    "awayLogo": "https://jdwel.com/image/teams/2627.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "ستوك سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1028.png",
+    "away": "بلاكبيرن روفرز",
+    "awayLogo": "https://jdwel.com/image/teams/1226.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "وست بروميتش ألبيون",
+    "homeLogo": "https://jdwel.com/image/teams/1683.png",
+    "away": "ميلوول",
+    "awayLogo": "https://jdwel.com/image/teams/2443.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "بلاكبيرن روفرز",
+    "homeLogo": "https://jdwel.com/image/teams/1226.png",
+    "away": "كوفنتري سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/3155.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "بريستول سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/5223.png",
+    "away": "نورويتش سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/2225.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "ديربي كاونتي",
+    "homeLogo": "https://jdwel.com/image/teams/2627.png",
+    "away": "أكسفورد يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/eng_oxford_united_v2.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "هال سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/2626.png",
+    "away": "برمنغهام سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1118.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "إيبسويتش تاون",
+    "homeLogo": "https://jdwel.com/image/teams/1756.png",
+    "away": "ميدلزبره",
+    "awayLogo": "https://jdwel.com/image/teams/4704.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "ميلوول",
+    "homeLogo": "https://jdwel.com/image/teams/2443.png",
+    "away": "كوينز بارك رينجرز",
+    "awayLogo": "https://jdwel.com/image/teams/1122.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "بورتسموث",
+    "homeLogo": "https://jdwel.com/image/teams/2168.png",
+    "away": "ليستر سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1757.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "بريستون نورث إيند",
+    "homeLogo": "https://jdwel.com/image/teams/3250.png",
+    "away": "وست بروميتش ألبيون",
+    "awayLogo": "https://jdwel.com/image/teams/1683.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "شيفيلد وينزداي",
+    "homeLogo": "https://jdwel.com/image/teams/895.png",
+    "away": "تشارلتون أثلتيك",
+    "awayLogo": "https://jdwel.com/image/teams/eng_charlton_athletic.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "سوانزي سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1838.png",
+    "away": "ساوثهامبتون",
+    "awayLogo": "https://jdwel.com/image/teams/3014.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "واتفورد",
+    "homeLogo": "https://jdwel.com/image/teams/4819.png",
+    "away": "شيفيلد يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/3101.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "ريكسهام",
+    "homeLogo": "https://jdwel.com/image/teams/3130.png",
+    "away": "ستوك سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1028.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "كوفنتري سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/3155.png",
+    "away": "بورتسموث",
+    "awayLogo": "https://jdwel.com/image/teams/2168.png",
+    "score": "0 - 0",
+    "time": "8:45 م"
+  },
+  {
+    "home": "ميدلزبره",
+    "homeLogo": "https://jdwel.com/image/teams/4704.png",
+    "away": "شيفيلد وينزداي",
+    "awayLogo": "https://jdwel.com/image/teams/895.png",
+    "score": "0 - 0",
+    "time": "8:45 م"
+  },
+  {
+    "home": "نورويتش سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/2225.png",
+    "away": "ديربي كاونتي",
+    "awayLogo": "https://jdwel.com/image/teams/2627.png",
+    "score": "0 - 0",
+    "time": "8:45 م"
+  },
+  {
+    "home": "أكسفورد يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/eng_oxford_united_v2.png",
+    "away": "ريكسهام",
+    "awayLogo": "https://jdwel.com/image/teams/3130.png",
+    "score": "0 - 0",
+    "time": "8:45 م"
+  },
+  {
+    "home": "كوينز بارك رينجرز",
+    "homeLogo": "https://jdwel.com/image/teams/1122.png",
+    "away": "سوانزي سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1838.png",
+    "score": "0 - 0",
+    "time": "8:45 م"
+  },
+  {
+    "home": "ساوثهامبتون",
+    "homeLogo": "https://jdwel.com/image/teams/3014.png",
+    "away": "بريستول سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/5223.png",
+    "score": "0 - 0",
+    "time": "8:45 م"
+  },
+  {
+    "home": "ستوك سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1028.png",
+    "away": "ميلوول",
+    "awayLogo": "https://jdwel.com/image/teams/2443.png",
+    "score": "0 - 0",
+    "time": "8:45 م"
+  },
+  {
+    "home": "وست بروميتش ألبيون",
+    "homeLogo": "https://jdwel.com/image/teams/1683.png",
+    "away": "واتفورد",
+    "awayLogo": "https://jdwel.com/image/teams/4819.png",
+    "score": "0 - 0",
+    "time": "8:45 م"
+  },
+  {
+    "home": "برمنغهام سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1118.png",
+    "away": "بريستون نورث إيند",
+    "awayLogo": "https://jdwel.com/image/teams/3250.png",
+    "score": "0 - 0",
+    "time": "8:45 م"
+  },
+  {
+    "home": "تشارلتون أثلتيك",
+    "homeLogo": "https://jdwel.com/image/teams/eng_charlton_athletic.png",
+    "away": "إيبسويتش تاون",
+    "awayLogo": "https://jdwel.com/image/teams/1756.png",
+    "score": "0 - 0",
+    "time": "8:45 م"
+  },
+  {
+    "home": "ليستر سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1757.png",
+    "away": "هال سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/2626.png",
+    "score": "0 - 0",
+    "time": "8:45 م"
+  },
+  {
+    "home": "شيفيلد يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/3101.png",
+    "away": "بلاكبيرن روفرز",
+    "awayLogo": "https://jdwel.com/image/teams/1226.png",
+    "score": "0 - 0",
+    "time": "8:45 م"
+  },
+  {
+    "home": "برمنغهام سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1118.png",
+    "away": "بريستول سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/5223.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "تشارلتون أثلتيك",
+    "homeLogo": "https://jdwel.com/image/teams/eng_charlton_athletic.png",
+    "away": "هال سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/2626.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "كوفنتري سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/3155.png",
+    "away": "ريكسهام",
+    "awayLogo": "https://jdwel.com/image/teams/3130.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "ليستر سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1757.png",
+    "away": "ميلوول",
+    "awayLogo": "https://jdwel.com/image/teams/2443.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "ميدلزبره",
+    "homeLogo": "https://jdwel.com/image/teams/4704.png",
+    "away": "واتفورد",
+    "awayLogo": "https://jdwel.com/image/teams/4819.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "نورويتش سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/2225.png",
+    "away": "سوانزي سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1838.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "أكسفورد يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/eng_oxford_united_v2.png",
+    "away": "شيفيلد وينزداي",
+    "awayLogo": "https://jdwel.com/image/teams/895.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "كوينز بارك رينجرز",
+    "homeLogo": "https://jdwel.com/image/teams/1122.png",
+    "away": "ديربي كاونتي",
+    "awayLogo": "https://jdwel.com/image/teams/2627.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "شيفيلد يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/3101.png",
+    "away": "بريستون نورث إيند",
+    "awayLogo": "https://jdwel.com/image/teams/3250.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "ساوثهامبتون",
+    "homeLogo": "https://jdwel.com/image/teams/3014.png",
+    "away": "بلاكبيرن روفرز",
+    "awayLogo": "https://jdwel.com/image/teams/1226.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "ستوك سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1028.png",
+    "away": "بورتسموث",
+    "awayLogo": "https://jdwel.com/image/teams/2168.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "وست بروميتش ألبيون",
+    "homeLogo": "https://jdwel.com/image/teams/1683.png",
+    "away": "إيبسويتش تاون",
+    "awayLogo": "https://jdwel.com/image/teams/1756.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "بلاكبيرن روفرز",
+    "homeLogo": "https://jdwel.com/image/teams/1226.png",
+    "away": "ليستر سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1757.png",
+    "score": "0 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "بريستول سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/5223.png",
+    "away": "ستوك سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1028.png",
+    "score": "0 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "ديربي كاونتي",
+    "homeLogo": "https://jdwel.com/image/teams/2627.png",
+    "away": "شيفيلد يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/3101.png",
+    "score": "0 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "هال سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/2626.png",
+    "away": "نورويتش سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/2225.png",
+    "score": "0 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "إيبسويتش تاون",
+    "homeLogo": "https://jdwel.com/image/teams/1756.png",
+    "away": "كوينز بارك رينجرز",
+    "awayLogo": "https://jdwel.com/image/teams/1122.png",
+    "score": "0 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "ميلوول",
+    "homeLogo": "https://jdwel.com/image/teams/2443.png",
+    "away": "أكسفورد يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/eng_oxford_united_v2.png",
+    "score": "0 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "بورتسموث",
+    "homeLogo": "https://jdwel.com/image/teams/2168.png",
+    "away": "برمنغهام سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1118.png",
+    "score": "0 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "بريستون نورث إيند",
+    "homeLogo": "https://jdwel.com/image/teams/3250.png",
+    "away": "ساوثهامبتون",
+    "awayLogo": "https://jdwel.com/image/teams/3014.png",
+    "score": "0 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "شيفيلد وينزداي",
+    "homeLogo": "https://jdwel.com/image/teams/895.png",
+    "away": "وست بروميتش ألبيون",
+    "awayLogo": "https://jdwel.com/image/teams/1683.png",
+    "score": "0 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "سوانزي سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1838.png",
+    "away": "تشارلتون أثلتيك",
+    "awayLogo": "https://jdwel.com/image/teams/eng_charlton_athletic.png",
+    "score": "0 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "واتفورد",
+    "homeLogo": "https://jdwel.com/image/teams/4819.png",
+    "away": "كوفنتري سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/3155.png",
+    "score": "0 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "ريكسهام",
+    "homeLogo": "https://jdwel.com/image/teams/3130.png",
+    "away": "ميدلزبره",
+    "awayLogo": "https://jdwel.com/image/teams/4704.png",
+    "score": "0 - 0",
+    "time": "2:30 م"
+  }
+]

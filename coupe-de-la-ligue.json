@@ -1,0 +1,202 @@
+[
+  {
+    "home": "باريس سان جيرمان",
+    "homeLogo": "https://jdwel.com/image/teams/2347.png",
+    "away": "أولمبيك ليون",
+    "awayLogo": "https://jdwel.com/image/teams/fra_lyonnais.png",
+    "score": "0 - 0 6 - 5",
+    "time": "9:10 م"
+  },
+  {
+    "home": "ستاد ريمس",
+    "homeLogo": "https://jdwel.com/image/teams/fra_reims_v2.png",
+    "away": "باريس سان جيرمان",
+    "awayLogo": "https://jdwel.com/image/teams/2347.png",
+    "score": "0 - 3",
+    "time": "10:00 م"
+  },
+  {
+    "home": "أولمبيك ليون",
+    "homeLogo": "https://jdwel.com/image/teams/fra_lyonnais.png",
+    "away": "ليل",
+    "awayLogo": "https://jdwel.com/image/teams/3190.png",
+    "score": "2 - 2 4 - 3",
+    "time": "10:10 م"
+  },
+  {
+    "home": "ليل",
+    "homeLogo": "https://jdwel.com/image/teams/3190.png",
+    "away": "أميان",
+    "awayLogo": "https://jdwel.com/image/teams/354.png",
+    "score": "2 - 0",
+    "time": "10:05 م"
+  },
+  {
+    "home": "باريس سان جيرمان",
+    "homeLogo": "https://jdwel.com/image/teams/2347.png",
+    "away": "سانت إيتيان",
+    "awayLogo": "https://jdwel.com/image/teams/345.png",
+    "score": "6 - 1",
+    "time": "10:05 م"
+  },
+  {
+    "home": "أولمبيك ليون",
+    "homeLogo": "https://jdwel.com/image/teams/fra_lyonnais.png",
+    "away": "ستاد بريست",
+    "awayLogo": "https://jdwel.com/image/teams/1502.png",
+    "score": "3 - 1",
+    "time": "7:45 م"
+  },
+  {
+    "home": "ستاد ريمس",
+    "homeLogo": "https://jdwel.com/image/teams/fra_reims_v2.png",
+    "away": "ستراسبورغ",
+    "awayLogo": "https://jdwel.com/image/teams/fra_strasbourg.png",
+    "score": "0 - 0 4 - 2",
+    "time": "10:00 م"
+  },
+  {
+    "home": "نانت",
+    "homeLogo": "https://jdwel.com/image/teams/4820.png",
+    "away": "ستراسبورغ",
+    "awayLogo": "https://jdwel.com/image/teams/fra_strasbourg.png",
+    "score": "0 - 1",
+    "time": "10:05 م"
+  },
+  {
+    "home": "ستاد بريست",
+    "homeLogo": "https://jdwel.com/image/teams/1502.png",
+    "away": "بوردو",
+    "awayLogo": "https://jdwel.com/image/teams/2170.png",
+    "score": "2 - 0",
+    "time": "10:05 م"
+  },
+  {
+    "home": "لومان",
+    "homeLogo": "https://jdwel.com/image/teams/fra_le_mans.png",
+    "away": "باريس سان جيرمان",
+    "awayLogo": "https://jdwel.com/image/teams/2347.png",
+    "score": "1 - 4",
+    "time": "10:05 م"
+  },
+  {
+    "home": "نيم",
+    "homeLogo": "https://jdwel.com/image/teams/1503.png",
+    "away": "سانت إيتيان",
+    "awayLogo": "https://jdwel.com/image/teams/345.png",
+    "score": "1 - 2",
+    "time": "10:05 م"
+  },
+  {
+    "home": "أميان",
+    "homeLogo": "https://jdwel.com/image/teams/354.png",
+    "away": "ستاد رين",
+    "awayLogo": "https://jdwel.com/image/teams/2037.png",
+    "score": "3 - 2",
+    "time": "10:05 م"
+  },
+  {
+    "home": "أولمبيك ليون",
+    "homeLogo": "https://jdwel.com/image/teams/fra_lyonnais.png",
+    "away": "تولوز",
+    "awayLogo": "https://jdwel.com/image/teams/2966.png",
+    "score": "4 - 1",
+    "time": "7:45 م"
+  },
+  {
+    "home": "موناكو",
+    "homeLogo": "https://jdwel.com/image/teams/1129.png",
+    "away": "ليل",
+    "awayLogo": "https://jdwel.com/image/teams/3190.png",
+    "score": "0 - 3",
+    "time": "10:05 م"
+  },
+  {
+    "home": "ستاد ريمس",
+    "homeLogo": "https://jdwel.com/image/teams/fra_reims_v2.png",
+    "away": "مونبلييه",
+    "awayLogo": "https://jdwel.com/image/teams/3227.png",
+    "score": "1 - 0",
+    "time": "7:45 م"
+  },
+  {
+    "home": "نانت",
+    "homeLogo": "https://jdwel.com/image/teams/4820.png",
+    "away": "باريس",
+    "awayLogo": "https://jdwel.com/image/teams/3560.png",
+    "score": "8 - 0",
+    "time": "10:05 م"
+  },
+  {
+    "home": "ميتز",
+    "homeLogo": "https://jdwel.com/image/teams/3454.png",
+    "away": "ستاد بريست",
+    "awayLogo": "https://jdwel.com/image/teams/1502.png",
+    "score": "1 - 1 3 - 4",
+    "time": "10:05 م"
+  },
+  {
+    "home": "موناكو",
+    "homeLogo": "https://jdwel.com/image/teams/1129.png",
+    "away": "مارسيليا",
+    "awayLogo": "https://jdwel.com/image/teams/2868.png",
+    "score": "2 - 1",
+    "time": "10:05 م"
+  },
+  {
+    "home": "ستاد ريمس",
+    "homeLogo": "https://jdwel.com/image/teams/fra_reims_v2.png",
+    "away": "بورج بيروناس",
+    "awayLogo": "https://jdwel.com/image/teams/800.png",
+    "score": "2 - 1",
+    "time": "10:05 م"
+  },
+  {
+    "home": "مونبلييه",
+    "homeLogo": "https://jdwel.com/image/teams/3227.png",
+    "away": "نانسي",
+    "awayLogo": "https://jdwel.com/image/teams/1565.png",
+    "score": "3 - 2",
+    "time": "10:05 م"
+  },
+  {
+    "home": "أميان",
+    "homeLogo": "https://jdwel.com/image/teams/354.png",
+    "away": "أنجيه",
+    "awayLogo": "https://jdwel.com/image/teams/342.png",
+    "score": "3 - 2",
+    "time": "10:05 م"
+  },
+  {
+    "home": "نيورتي",
+    "homeLogo": "https://jdwel.com/image/teams/fra_niort.png",
+    "away": "تولوز",
+    "awayLogo": "https://jdwel.com/image/teams/2966.png",
+    "score": "1 - 2",
+    "time": "10:05 م"
+  },
+  {
+    "home": "لومان",
+    "homeLogo": "https://jdwel.com/image/teams/fra_le_mans.png",
+    "away": "نيس",
+    "awayLogo": "https://jdwel.com/image/teams/1460.png",
+    "score": "3 - 2",
+    "time": "7:45 م"
+  },
+  {
+    "home": "بوردو",
+    "homeLogo": "https://jdwel.com/image/teams/2170.png",
+    "away": "ديجون",
+    "awayLogo": "https://jdwel.com/image/teams/2169.png",
+    "score": "2 - 0",
+    "time": "10:05 م"
+  },
+  {
+    "home": "نيم",
+    "homeLogo": "https://jdwel.com/image/teams/1503.png",
+    "away": "لانس",
+    "awayLogo": "https://jdwel.com/image/teams/fra_lens.png",
+    "score": "3 - 0",
+    "time": "7:45 م"
+  }
+]

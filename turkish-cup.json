@@ -1,0 +1,1506 @@
+[
+  {
+    "home": "إيوبسبور",
+    "homeLogo": "https://jdwel.com/image/teams/4731.png",
+    "away": "بولو سبور",
+    "awayLogo": "https://jdwel.com/image/teams/tur_boluspor.png",
+    "score": "1 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "غلطة سراي",
+    "homeLogo": "https://jdwel.com/image/teams/1416.png",
+    "away": "إسطنبول باشاكشهر",
+    "awayLogo": "https://jdwel.com/image/teams/2640.png",
+    "score": "2 - 2",
+    "time": "7:30 م"
+  },
+  {
+    "home": "جوروم بيليدي سبور",
+    "homeLogo": "https://jdwel.com/image/teams/tur_corum_belediyespor.png",
+    "away": "قونيا سبور",
+    "awayLogo": "https://jdwel.com/image/teams/tur_konyaspor.png",
+    "score": "0 - 1",
+    "time": "2:30 م"
+  },
+  {
+    "home": "إسطنبول باشاكشهر",
+    "homeLogo": "https://jdwel.com/image/teams/2640.png",
+    "away": "جوروم بيليدي سبور",
+    "awayLogo": "https://jdwel.com/image/teams/tur_corum_belediyespor.png",
+    "score": "4 - 1",
+    "time": "2:30 م"
+  },
+  {
+    "home": "قونيا سبور",
+    "homeLogo": "https://jdwel.com/image/teams/tur_konyaspor.png",
+    "away": "إيوبسبور",
+    "awayLogo": "https://jdwel.com/image/teams/4731.png",
+    "score": "3 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "بولو سبور",
+    "homeLogo": "https://jdwel.com/image/teams/tur_boluspor.png",
+    "away": "غلطة سراي",
+    "awayLogo": "https://jdwel.com/image/teams/1416.png",
+    "score": "1 - 4",
+    "time": "3:00 م"
+  },
+  {
+    "home": "جوروم بيليدي سبور",
+    "homeLogo": "https://jdwel.com/image/teams/tur_corum_belediyespor.png",
+    "away": "بولو سبور",
+    "awayLogo": "https://jdwel.com/image/teams/tur_boluspor.png",
+    "score": "2 - 1",
+    "time": "2:00 م"
+  },
+  {
+    "home": "غلطة سراي",
+    "homeLogo": "https://jdwel.com/image/teams/1416.png",
+    "away": "قونيا سبور",
+    "awayLogo": "https://jdwel.com/image/teams/tur_konyaspor.png",
+    "score": "0 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "إيوبسبور",
+    "homeLogo": "https://jdwel.com/image/teams/4731.png",
+    "away": "إسطنبول باشاكشهر",
+    "awayLogo": "https://jdwel.com/image/teams/2640.png",
+    "score": "0 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "12 بينغول سبور",
+    "homeLogo": "https://jdwel.com/image/teams/4799.png",
+    "away": "ماردين بي بي",
+    "awayLogo": "https://jdwel.com/image/teams/tur_mardin_bb.png",
+    "score": "3 - 0",
+    "time": "1:30 م"
+  },
+  {
+    "home": "يالوفا يسيلوفاسبور",
+    "homeLogo": "https://jdwel.com/image/teams/4366.png",
+    "away": "نيلوفر بيليدي",
+    "awayLogo": "https://jdwel.com/image/teams/5455.png",
+    "score": "2 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "كاراكوبرو بيليدي سبور",
+    "homeLogo": "https://jdwel.com/image/teams/1199.png",
+    "away": "هكاري زابسبور",
+    "awayLogo": "https://jdwel.com/image/teams/4045.png",
+    "score": "7 - 1",
+    "time": "3:00 م"
+  },
+  {
+    "home": "بولاتلي بيليدي 1926",
+    "homeLogo": "https://jdwel.com/image/teams/placeholder.png",
+    "away": "كانكايا",
+    "awayLogo": "https://jdwel.com/image/teams/4028.png",
+    "score": "1 - 2",
+    "time": "3:00 م"
+  },
+  {
+    "home": "يلدريم بيليدي سبور",
+    "homeLogo": "https://jdwel.com/image/teams/3802.png",
+    "away": "آلتاي إزمير",
+    "awayLogo": "https://jdwel.com/image/teams/1569.png",
+    "score": "2 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "عثمانلي سبور",
+    "homeLogo": "https://jdwel.com/image/teams/1570.png",
+    "away": "إسكيشهرسبور",
+    "awayLogo": "https://jdwel.com/image/teams/1639.png",
+    "score": "1 - 2",
+    "time": "4:00 م"
+  },
+  {
+    "home": "بوكاسبور 1928",
+    "homeLogo": "https://jdwel.com/image/teams/tur_tire_1922.png",
+    "away": "بيرجاما بيليدي سبور",
+    "awayLogo": "https://jdwel.com/image/teams/tur_bergama_belediyespor.png",
+    "score": "0 - 2",
+    "time": "7:00 م"
+  },
+  {
+    "home": "يني مرسين إدمانيوردو",
+    "homeLogo": "https://jdwel.com/image/teams/5257.png",
+    "away": "نيغد بيليدي سبور",
+    "awayLogo": "https://jdwel.com/image/teams/4746.png",
+    "score": "0 - 2",
+    "time": "8:00 م"
+  },
+  {
+    "home": "Kars 36",
+    "homeLogo": "https://jdwel.com/image/teams/placeholder.png",
+    "away": "إرزينجان سبور 24",
+    "awayLogo": "https://jdwel.com/image/teams/tur_24_erzincanspor.png",
+    "score": "0 - 1",
+    "time": "2:00 م"
+  },
+  {
+    "home": "جانكيري سبور 1074",
+    "homeLogo": "https://jdwel.com/image/teams/1741.png",
+    "away": "أنقرة ديميرسبور",
+    "awayLogo": "https://jdwel.com/image/teams/tur_ankara_demirspor.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "إنيغولسبور",
+    "homeLogo": "https://jdwel.com/image/teams/tur_inegolspor.png",
+    "away": "Ezinespor",
+    "awayLogo": "https://jdwel.com/image/teams/placeholder.png",
+    "score": "2 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "يسليورت بيليديسبور",
+    "homeLogo": "https://jdwel.com/image/teams/4538.png",
+    "away": "ييني مالاتياسبور",
+    "awayLogo": "https://jdwel.com/image/teams/tur_yeni_malatyaspor.png",
+    "score": "5 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "إينكيلابسبور",
+    "homeLogo": "https://jdwel.com/image/teams/4841.png",
+    "away": "يني كارشي FK",
+    "awayLogo": "https://jdwel.com/image/teams/tur_halide_edip_adivar.png",
+    "score": "1 - 2",
+    "time": "3:00 م"
+  },
+  {
+    "home": "أرناؤوطكوي بلدي سبور",
+    "homeLogo": "https://jdwel.com/image/teams/3651.png",
+    "away": "بيكوز اشكالي سبور",
+    "awayLogo": "https://jdwel.com/image/teams/4979.png",
+    "score": "2 - 3",
+    "time": "3:00 م"
+  },
+  {
+    "home": "أدرنسبور",
+    "homeLogo": "https://jdwel.com/image/teams/tur_edirnespor.png",
+    "away": "سوماسبور",
+    "awayLogo": "https://jdwel.com/image/teams/5157.png",
+    "score": "0 - 1",
+    "time": "3:00 م"
+  },
+  {
+    "home": "كاهتا 02 سبور",
+    "homeLogo": "https://jdwel.com/image/teams/4620.png",
+    "away": "إسكندرون سبور",
+    "awayLogo": "https://jdwel.com/image/teams/tur_erzin_belediyespor.png",
+    "score": "2 - 1",
+    "time": "3:00 م"
+  },
+  {
+    "home": "1926 بولانجاك سبور",
+    "homeLogo": "https://jdwel.com/image/teams/4571.png",
+    "away": "ارتفين هوباسبور",
+    "awayLogo": "https://jdwel.com/image/teams/tur_artvin_hopaspor.png",
+    "score": "2 - 1",
+    "time": "3:00 م"
+  },
+  {
+    "home": "كورتالانسبور",
+    "homeLogo": "https://jdwel.com/image/teams/5429.png",
+    "away": "شانليورفاسبور",
+    "awayLogo": "https://jdwel.com/image/teams/1200.png",
+    "score": "1 - 4",
+    "time": "3:00 م"
+  },
+  {
+    "home": "كهرمان مراش استقلال سبور",
+    "homeLogo": "https://jdwel.com/image/teams/3266.png",
+    "away": "كيليس بيليدي سبور",
+    "awayLogo": "https://jdwel.com/image/teams/1034.png",
+    "score": "2 - 1",
+    "time": "3:00 م"
+  },
+  {
+    "home": "يني ديار بكر سبور",
+    "homeLogo": "https://jdwel.com/image/teams/2209.png",
+    "away": "بيتليس أوزغوزيلدير سبور",
+    "awayLogo": "https://jdwel.com/image/teams/tur_bitlis_ozguzelderespor.png",
+    "score": "3 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "يوزغات بلد بوزوكسبور",
+    "homeLogo": "https://jdwel.com/image/teams/3803.png",
+    "away": "فاتسا بيليدي سبور",
+    "awayLogo": "https://jdwel.com/image/teams/4751.png",
+    "score": "1 - 2",
+    "time": "3:00 م"
+  },
+  {
+    "home": "إرباسبور",
+    "homeLogo": "https://jdwel.com/image/teams/tur_erbaaspor.png",
+    "away": "توكات بلد بليفنسبور",
+    "awayLogo": "https://jdwel.com/image/teams/4118.png",
+    "score": "1 - 13 - 1",
+    "time": "3:00 م"
+  },
+  {
+    "home": "ديرينسسبور",
+    "homeLogo": "https://jdwel.com/image/teams/tur_derincespor.png",
+    "away": "كارتال بولفارسبور",
+    "awayLogo": "https://jdwel.com/image/teams/4965.png",
+    "score": "6 - 2",
+    "time": "3:00 م"
+  },
+  {
+    "home": "كيركلاريلي سبور",
+    "homeLogo": "https://jdwel.com/image/teams/tur_kirklarelispor.png",
+    "away": "غالاتا",
+    "awayLogo": "https://jdwel.com/image/teams/4788.png",
+    "score": "1 - 2",
+    "time": "3:00 م"
+  },
+  {
+    "home": "هيكيم أوغلو ترابزون",
+    "homeLogo": "https://jdwel.com/image/teams/988.png",
+    "away": "سيرهات أرداهانسبور",
+    "awayLogo": "https://jdwel.com/image/teams/5262.png",
+    "score": "4 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "ديرسمسبور",
+    "homeLogo": "https://jdwel.com/image/teams/4779.png",
+    "away": "أضنة سبور",
+    "awayLogo": "https://jdwel.com/image/teams/tur_adanaspor.png",
+    "score": "3 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "موش مندريس سبور",
+    "homeLogo": "https://jdwel.com/image/teams/_mus_menderesspor.png",
+    "away": "شرناق إدمانيوردو",
+    "awayLogo": "https://jdwel.com/image/teams/5123.png",
+    "score": "8 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "بوكاك بيليدييسي أوغوزانسبور",
+    "homeLogo": "https://jdwel.com/image/teams/4055.png",
+    "away": "أنطاليا كيبيزسبور",
+    "awayLogo": "https://jdwel.com/image/teams/4698.png",
+    "score": "1 - 2",
+    "time": "3:00 م"
+  },
+  {
+    "home": "تشايليسبور",
+    "homeLogo": "https://jdwel.com/image/teams/3745.png",
+    "away": "شيران يلدزسبور",
+    "awayLogo": "https://jdwel.com/image/teams/4748.png",
+    "score": "1 - 2",
+    "time": "3:00 م"
+  },
+  {
+    "home": "إتيمسجوت بيليدي سبور",
+    "homeLogo": "https://jdwel.com/image/teams/tur_etimesgut_belediyespor.png",
+    "away": "كارادينيز إريغلي",
+    "awayLogo": "https://jdwel.com/image/teams/4386.png",
+    "score": "0 - 1",
+    "time": "3:00 م"
+  },
+  {
+    "home": "ألياغا فاش",
+    "homeLogo": "https://jdwel.com/image/teams/2419.png",
+    "away": "إنيجول كافكاس جينجليك",
+    "awayLogo": "https://jdwel.com/image/teams/placeholder.png",
+    "score": "2 - 1",
+    "time": "3:00 م"
+  },
+  {
+    "home": "بارتينسبور",
+    "homeLogo": "https://jdwel.com/image/teams/tur_bartinspor.png",
+    "away": "أناضولو أونيفرسيتيسي",
+    "awayLogo": "https://jdwel.com/image/teams/4052.png",
+    "score": "1 - 3",
+    "time": "3:00 م"
+  },
+  {
+    "home": "بايبورت إيوي",
+    "homeLogo": "https://jdwel.com/image/teams/tur_bayburt_ioi.png",
+    "away": "غيرسون سبور",
+    "awayLogo": "https://jdwel.com/image/teams/1572.png",
+    "score": "0 - 7",
+    "time": "3:00 م"
+  },
+  {
+    "home": "كستل فراولة",
+    "homeLogo": "https://jdwel.com/image/teams/4747.png",
+    "away": "أوتاش أوساكسبور",
+    "awayLogo": "https://jdwel.com/image/teams/tur_utas_usakspor.png",
+    "score": "2 - 1",
+    "time": "3:00 م"
+  },
+  {
+    "home": "كيستيلسبور",
+    "homeLogo": "https://jdwel.com/image/teams/placeholder.png",
+    "away": "موغلاسبور",
+    "awayLogo": "https://jdwel.com/image/teams/tur_muglaspor.png",
+    "score": "0 - 3",
+    "time": "3:00 م"
+  },
+  {
+    "home": "SinopSpor",
+    "homeLogo": "https://jdwel.com/image/teams/placeholder.png",
+    "away": "أوردو سبور",
+    "awayLogo": "https://jdwel.com/image/teams/5024.png",
+    "score": "0 - 2",
+    "time": "4:30 م"
+  },
+  {
+    "home": "فتحية سبور",
+    "homeLogo": "https://jdwel.com/image/teams/tur_fethiyespor.png",
+    "away": "إيفلر 09 سبور",
+    "awayLogo": "https://jdwel.com/image/teams/4162.png",
+    "score": "2 - 0",
+    "time": "7:00 م"
+  },
+  {
+    "home": "كارامان بيليدي سبور",
+    "homeLogo": "https://jdwel.com/image/teams/tur_karaman_belediyespor.png",
+    "away": "Kapadokya Göremespor",
+    "awayLogo": "https://jdwel.com/image/teams/placeholder.png",
+    "score": "2 - 1",
+    "time": "7:00 م"
+  },
+  {
+    "home": "فيفين بورنوفا",
+    "homeLogo": "https://jdwel.com/image/teams/placeholder.png",
+    "away": "أفجيت أفيونسبور",
+    "awayLogo": "https://jdwel.com/image/teams/1036.png",
+    "score": "3 - 0",
+    "time": "7:00 م"
+  },
+  {
+    "home": "Denizli İY Güreller",
+    "homeLogo": "https://jdwel.com/image/teams/placeholder.png",
+    "away": "نازيلي بيليديسبور",
+    "awayLogo": "https://jdwel.com/image/teams/tur_nazilli_belediyespor.png",
+    "score": "2 - 0",
+    "time": "7:00 م"
+  },
+  {
+    "home": "أنقرة غوجو",
+    "homeLogo": "https://jdwel.com/image/teams/tur_ankaragucu.png",
+    "away": "كارابوك إيدمان يوردو",
+    "awayLogo": "https://jdwel.com/image/teams/4798.png",
+    "score": "2 - 3",
+    "time": "8:00 م"
+  },
+  {
+    "home": "كهرمان ماراش سبور",
+    "homeLogo": "https://jdwel.com/image/teams/tur_kahramanmarasspor.png",
+    "away": "عثمانية سبور",
+    "awayLogo": "https://jdwel.com/image/teams/tur_osmaniyespor.png",
+    "score": "1 - 0",
+    "time": "2:00 م"
+  },
+  {
+    "home": "إسبارتا دافرازسبور",
+    "homeLogo": "https://jdwel.com/image/teams/tur_isparta_davrazspor.png",
+    "away": "Kırşehir Belediyespor",
+    "awayLogo": "https://jdwel.com/image/teams/tur_kirsehir_belediyespor.png",
+    "score": "4 - 0",
+    "time": "4:30 م"
+  },
+  {
+    "home": "إرجييس 38",
+    "homeLogo": "https://jdwel.com/image/teams/4213.png",
+    "away": "ترك ميتال 1963",
+    "awayLogo": "https://jdwel.com/image/teams/4576.png",
+    "score": "2 - 0",
+    "time": "7:00 م"
+  },
+  {
+    "home": "بورصاسبور",
+    "homeLogo": "https://jdwel.com/image/teams/tur_bursaspor.png",
+    "away": "بيليجيك سوغوت",
+    "awayLogo": "https://jdwel.com/image/teams/4796.png",
+    "score": "7 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "أغري 1970",
+    "homeLogo": "https://jdwel.com/image/teams/tur_agri_1970.png",
+    "away": "باتمان بيترولسبور",
+    "awayLogo": "https://jdwel.com/image/teams/tur_batman_petrolspor.png",
+    "score": "4 - 1",
+    "time": "1:30 م"
+  },
+  {
+    "home": "كاراكوبرو بيليدي سبور",
+    "homeLogo": "https://jdwel.com/image/teams/1199.png",
+    "away": "بيتليس أوزغوزيلدير سبور",
+    "awayLogo": "https://jdwel.com/image/teams/tur_bitlis_ozguzelderespor.png",
+    "score": "2 - 1",
+    "time": "2:30 م"
+  },
+  {
+    "home": "كاهتا 02 سبور",
+    "homeLogo": "https://jdwel.com/image/teams/4620.png",
+    "away": "أضنة دمير سبور",
+    "awayLogo": "https://jdwel.com/image/teams/2194.png",
+    "score": "2 - 1",
+    "time": "2:30 م"
+  },
+  {
+    "home": "أنقرة ديميرسبور",
+    "homeLogo": "https://jdwel.com/image/teams/tur_ankara_demirspor.png",
+    "away": "زونجولداك كومورسبور",
+    "awayLogo": "https://jdwel.com/image/teams/1023.png",
+    "score": "2 - 23 - 5",
+    "time": "3:00 م"
+  },
+  {
+    "home": "كستل فراولة",
+    "homeLogo": "https://jdwel.com/image/teams/4747.png",
+    "away": "فتحية سبور",
+    "awayLogo": "https://jdwel.com/image/teams/tur_fethiyespor.png",
+    "score": "0 - 1",
+    "time": "3:00 م"
+  },
+  {
+    "home": "بيكوز اشكالي سبور",
+    "homeLogo": "https://jdwel.com/image/teams/4979.png",
+    "away": "كاراكابي بيرليكسبور",
+    "awayLogo": "https://jdwel.com/image/teams/1215.png",
+    "score": "0 - 2",
+    "time": "3:00 م"
+  },
+  {
+    "home": "تورك ميتال كيريكالي",
+    "homeLogo": "https://jdwel.com/image/teams/tur_turk_metal_kirikkale.png",
+    "away": "مانيسا",
+    "awayLogo": "https://jdwel.com/image/teams/tur_manisa_bbsk.png",
+    "score": "0 - 2",
+    "time": "3:30 م"
+  },
+  {
+    "home": "تاير 2021",
+    "homeLogo": "https://jdwel.com/image/teams/3979.png",
+    "away": "بودروم سبور",
+    "awayLogo": "https://jdwel.com/image/teams/1500.png",
+    "score": "0 - 1",
+    "time": "6:00 م"
+  },
+  {
+    "home": "بيرجاما بيليدي سبور",
+    "homeLogo": "https://jdwel.com/image/teams/tur_bergama_belediyespor.png",
+    "away": "إسبارتا دافرازسبور",
+    "awayLogo": "https://jdwel.com/image/teams/tur_isparta_davrazspor.png",
+    "score": "0 - 3",
+    "time": "7:00 م"
+  },
+  {
+    "home": "هاتاي سبور",
+    "homeLogo": "https://jdwel.com/image/teams/2193.png",
+    "away": "إرجييس 38",
+    "awayLogo": "https://jdwel.com/image/teams/4213.png",
+    "score": "2 - 3",
+    "time": "8:30 م"
+  },
+  {
+    "home": "كارادينيز إريغلي",
+    "homeLogo": "https://jdwel.com/image/teams/4386.png",
+    "away": "بورصاسبور",
+    "awayLogo": "https://jdwel.com/image/teams/tur_bursaspor.png",
+    "score": "1 - 2",
+    "time": "2:00 م"
+  },
+  {
+    "home": "ديرسمسبور",
+    "homeLogo": "https://jdwel.com/image/teams/4779.png",
+    "away": "شانليورفاسبور",
+    "awayLogo": "https://jdwel.com/image/teams/1200.png",
+    "score": "2 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "موش مندريس سبور",
+    "homeLogo": "https://jdwel.com/image/teams/_mus_menderesspor.png",
+    "away": "مازيداجي فوسفاتسبور",
+    "awayLogo": "https://jdwel.com/image/teams/3980.png",
+    "score": "5 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "يسليورت بيليديسبور",
+    "homeLogo": "https://jdwel.com/image/teams/4538.png",
+    "away": "أضنة 01 FK",
+    "awayLogo": "https://jdwel.com/image/teams/4161.png",
+    "score": "3 - 2",
+    "time": "2:30 م"
+  },
+  {
+    "home": "كهرمان ماراش سبور",
+    "homeLogo": "https://jdwel.com/image/teams/tur_kahramanmarasspor.png",
+    "away": "كارامان بيليدي سبور",
+    "awayLogo": "https://jdwel.com/image/teams/tur_karaman_belediyespor.png",
+    "score": "1 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "سيليفكي بيليدي سبور",
+    "homeLogo": "https://jdwel.com/image/teams/4838.png",
+    "away": "كهرمان مراش استقلال سبور",
+    "awayLogo": "https://jdwel.com/image/teams/3266.png",
+    "score": "7 - 1",
+    "time": "3:00 م"
+  },
+  {
+    "home": "سوماسبور",
+    "homeLogo": "https://jdwel.com/image/teams/5157.png",
+    "away": "كانكايا",
+    "awayLogo": "https://jdwel.com/image/teams/4028.png",
+    "score": "1 - 3",
+    "time": "3:00 م"
+  },
+  {
+    "home": "كاستامونوسبور",
+    "homeLogo": "https://jdwel.com/image/teams/tur_kastamonuspor.png",
+    "away": "فاتسا بيليدي سبور",
+    "awayLogo": "https://jdwel.com/image/teams/4751.png",
+    "score": "3 - 34 - 5",
+    "time": "3:00 م"
+  },
+  {
+    "home": "إرباسبور",
+    "homeLogo": "https://jdwel.com/image/teams/tur_erbaaspor.png",
+    "away": "بازارسبور",
+    "awayLogo": "https://jdwel.com/image/teams/tur_pazarspor.png",
+    "score": "2 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "اسطنبول سينوبسبور",
+    "homeLogo": "https://jdwel.com/image/teams/3126.png",
+    "away": "إنيغولسبور",
+    "awayLogo": "https://jdwel.com/image/teams/tur_inegolspor.png",
+    "score": "1 - 3",
+    "time": "3:00 م"
+  },
+  {
+    "home": "يني أماسياسبور",
+    "homeLogo": "https://jdwel.com/image/teams/tur_yeni_amasyaspor.png",
+    "away": "هيكيم أوغلو ترابزون",
+    "awayLogo": "https://jdwel.com/image/teams/988.png",
+    "score": "0 - 1",
+    "time": "3:00 م"
+  },
+  {
+    "home": "سيليفريسبور",
+    "homeLogo": "https://jdwel.com/image/teams/tur_silivrispor.png",
+    "away": "يني كارشي FK",
+    "awayLogo": "https://jdwel.com/image/teams/tur_halide_edip_adivar.png",
+    "score": "1 - 13 - 4",
+    "time": "3:00 م"
+  },
+  {
+    "home": "غالاتا",
+    "homeLogo": "https://jdwel.com/image/teams/4788.png",
+    "away": "توزلاسبور",
+    "awayLogo": "https://jdwel.com/image/teams/tur_tuzlaspor.png",
+    "score": "1 - 5",
+    "time": "3:00 م"
+  },
+  {
+    "home": "كارابوك إيدمان يوردو",
+    "homeLogo": "https://jdwel.com/image/teams/4798.png",
+    "away": "ديرينسسبور",
+    "awayLogo": "https://jdwel.com/image/teams/tur_derincespor.png",
+    "score": "1 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "أنطاليا كيبيزسبور",
+    "homeLogo": "https://jdwel.com/image/teams/4698.png",
+    "away": "Denizli İY Güreller",
+    "awayLogo": "https://jdwel.com/image/teams/placeholder.png",
+    "score": "0 - 04 - 2",
+    "time": "3:00 م"
+  },
+  {
+    "home": "تشورلوسبور 1947",
+    "homeLogo": "https://jdwel.com/image/teams/1622.png",
+    "away": "أيفاليكجوجو بيليدي سبور",
+    "awayLogo": "https://jdwel.com/image/teams/5287.png",
+    "score": "2 - 1",
+    "time": "3:00 م"
+  },
+  {
+    "home": "كوتاهياسبور",
+    "homeLogo": "https://jdwel.com/image/teams/tur_kutahyaspor.png",
+    "away": "ألتينوردو",
+    "awayLogo": "https://jdwel.com/image/teams/tur_alt%C4%B1nordu.png",
+    "score": "3 - 1",
+    "time": "3:00 م"
+  },
+  {
+    "home": "سيفاسبور",
+    "homeLogo": "https://jdwel.com/image/teams/tur_sivasspor.png",
+    "away": "شيران يلدزسبور",
+    "awayLogo": "https://jdwel.com/image/teams/4748.png",
+    "score": "2 - 1",
+    "time": "4:00 م"
+  },
+  {
+    "home": "الازيجسبور",
+    "homeLogo": "https://jdwel.com/image/teams/tur_elazigspor.png",
+    "away": "12 بينغول سبور",
+    "awayLogo": "https://jdwel.com/image/teams/4799.png",
+    "score": "2 - 3",
+    "time": "6:00 م"
+  },
+  {
+    "home": "كارشياكا",
+    "homeLogo": "https://jdwel.com/image/teams/tur_karsiyaka.png",
+    "away": "يلدريم بيليدي سبور",
+    "awayLogo": "https://jdwel.com/image/teams/3802.png",
+    "score": "0 - 1",
+    "time": "7:00 م"
+  },
+  {
+    "home": "باليكيسير سبور",
+    "homeLogo": "https://jdwel.com/image/teams/1035.png",
+    "away": "يالوفا يسيلوفاسبور",
+    "awayLogo": "https://jdwel.com/image/teams/4366.png",
+    "score": "1 - 2",
+    "time": "7:00 م"
+  },
+  {
+    "home": "مينيمين",
+    "homeLogo": "https://jdwel.com/image/teams/1623.png",
+    "away": "أناضولو أونيفرسيتيسي",
+    "awayLogo": "https://jdwel.com/image/teams/4052.png",
+    "score": "2 - 1",
+    "time": "7:00 م"
+  },
+  {
+    "home": "إرزينجان سبور 24",
+    "homeLogo": "https://jdwel.com/image/teams/tur_24_erzincanspor.png",
+    "away": "1926 بولانجاك سبور",
+    "awayLogo": "https://jdwel.com/image/teams/4571.png",
+    "score": "0 - 2",
+    "time": "7:00 م"
+  },
+  {
+    "home": "نيغد بيليدي سبور",
+    "homeLogo": "https://jdwel.com/image/teams/4746.png",
+    "away": "أكساراي بيليدي سبور 68",
+    "awayLogo": "https://jdwel.com/image/teams/3739.png",
+    "score": "3 - 1",
+    "time": "7:00 م"
+  },
+  {
+    "home": "فيفين بورنوفا",
+    "homeLogo": "https://jdwel.com/image/teams/placeholder.png",
+    "away": "ألياغا فاش",
+    "awayLogo": "https://jdwel.com/image/teams/2419.png",
+    "score": "0 - 6",
+    "time": "7:00 م"
+  },
+  {
+    "home": "أوردو سبور",
+    "homeLogo": "https://jdwel.com/image/teams/5024.png",
+    "away": "سيبات جينكليك سبور",
+    "awayLogo": "https://jdwel.com/image/teams/4142.png",
+    "score": "2 - 1",
+    "time": "7:00 م"
+  },
+  {
+    "home": "دوزجيسبور",
+    "homeLogo": "https://jdwel.com/image/teams/tur_duzcespor.png",
+    "away": "بينديك سبور",
+    "awayLogo": "https://jdwel.com/image/teams/tur_pendikspor.png",
+    "score": "3 - 33 - 5",
+    "time": "2:30 م"
+  },
+  {
+    "home": "غيرسون سبور",
+    "homeLogo": "https://jdwel.com/image/teams/1572.png",
+    "away": "أوردوسبور 52",
+    "awayLogo": "https://jdwel.com/image/teams/tur_yeni_orduspor.png",
+    "score": "1 - 2",
+    "time": "5:00 م"
+  },
+  {
+    "home": "إسكيشهرسبور",
+    "homeLogo": "https://jdwel.com/image/teams/1639.png",
+    "away": "موغلاسبور",
+    "awayLogo": "https://jdwel.com/image/teams/tur_muglaspor.png",
+    "score": "0 - 3",
+    "time": "8:00 م"
+  },
+  {
+    "home": "أنطاليا كيبيزسبور",
+    "homeLogo": "https://jdwel.com/image/teams/4698.png",
+    "away": "سيفاسبور",
+    "awayLogo": "https://jdwel.com/image/teams/tur_sivasspor.png",
+    "score": "1 - 3",
+    "time": "1:00 م"
+  },
+  {
+    "home": "ألياغا فاش",
+    "homeLogo": "https://jdwel.com/image/teams/2419.png",
+    "away": "سيريك بيليدي سبور",
+    "awayLogo": "https://jdwel.com/image/teams/tur_serik_belediyespor.png",
+    "score": "4 - 3",
+    "time": "1:30 م"
+  },
+  {
+    "home": "فاتسا بيليدي سبور",
+    "homeLogo": "https://jdwel.com/image/teams/4751.png",
+    "away": "فانسبور",
+    "awayLogo": "https://jdwel.com/image/teams/4753.png",
+    "score": "3 - 36 - 7",
+    "time": "1:30 م"
+  },
+  {
+    "home": "كهرمان ماراش سبور",
+    "homeLogo": "https://jdwel.com/image/teams/tur_kahramanmarasspor.png",
+    "away": "عمراني سبور",
+    "awayLogo": "https://jdwel.com/image/teams/1571.png",
+    "score": "4 - 0",
+    "time": "1:30 م"
+  },
+  {
+    "home": "ديرسمسبور",
+    "homeLogo": "https://jdwel.com/image/teams/4779.png",
+    "away": "فتحية سبور",
+    "awayLogo": "https://jdwel.com/image/teams/tur_fethiyespor.png",
+    "score": "0 - 3",
+    "time": "1:30 م"
+  },
+  {
+    "home": "أوردوسبور 52",
+    "homeLogo": "https://jdwel.com/image/teams/tur_yeni_orduspor.png",
+    "away": "ساريير",
+    "awayLogo": "https://jdwel.com/image/teams/tur_sariyer.png",
+    "score": "0 - 2",
+    "time": "3:30 م"
+  },
+  {
+    "home": "ساكارياسبور",
+    "homeLogo": "https://jdwel.com/image/teams/tur_sakaryaspor.png",
+    "away": "إنيغولسبور",
+    "awayLogo": "https://jdwel.com/image/teams/tur_inegolspor.png",
+    "score": "4 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "كايسري سبور",
+    "homeLogo": "https://jdwel.com/image/teams/1510.png",
+    "away": "نيغد بيليدي سبور",
+    "awayLogo": "https://jdwel.com/image/teams/4746.png",
+    "score": "1 - 0",
+    "time": "8:30 م"
+  },
+  {
+    "home": "إسبارتا دافرازسبور",
+    "homeLogo": "https://jdwel.com/image/teams/tur_isparta_davrazspor.png",
+    "away": "يني كارشي FK",
+    "awayLogo": "https://jdwel.com/image/teams/tur_halide_edip_adivar.png",
+    "score": "0 - 2",
+    "time": "12:00 م"
+  },
+  {
+    "home": "كاهتا 02 سبور",
+    "homeLogo": "https://jdwel.com/image/teams/4620.png",
+    "away": "قاسم باشا",
+    "awayLogo": "https://jdwel.com/image/teams/tur_kasimpasa.png",
+    "score": "3 - 1",
+    "time": "1:00 م"
+  },
+  {
+    "home": "توزلاسبور",
+    "homeLogo": "https://jdwel.com/image/teams/tur_tuzlaspor.png",
+    "away": "يالوفا يسيلوفاسبور",
+    "awayLogo": "https://jdwel.com/image/teams/4366.png",
+    "score": "1 - 3",
+    "time": "1:30 م"
+  },
+  {
+    "home": "كانكايا",
+    "homeLogo": "https://jdwel.com/image/teams/4028.png",
+    "away": "هيكيم أوغلو ترابزون",
+    "awayLogo": "https://jdwel.com/image/teams/988.png",
+    "score": "2 - 0",
+    "time": "1:30 م"
+  },
+  {
+    "home": "كاراكابي بيرليكسبور",
+    "homeLogo": "https://jdwel.com/image/teams/1215.png",
+    "away": "يسليورت بيليديسبور",
+    "awayLogo": "https://jdwel.com/image/teams/4538.png",
+    "score": "3 - 1",
+    "time": "1:30 م"
+  },
+  {
+    "home": "موش مندريس سبور",
+    "homeLogo": "https://jdwel.com/image/teams/_mus_menderesspor.png",
+    "away": "مينيمين",
+    "awayLogo": "https://jdwel.com/image/teams/1623.png",
+    "score": "1 - 0",
+    "time": "1:30 م"
+  },
+  {
+    "home": "إرجييس 38",
+    "homeLogo": "https://jdwel.com/image/teams/4213.png",
+    "away": "كيتشي أورينغوجو",
+    "awayLogo": "https://jdwel.com/image/teams/5310.png",
+    "score": "2 - 5",
+    "time": "1:30 م"
+  },
+  {
+    "home": "سيليفكي بيليدي سبور",
+    "homeLogo": "https://jdwel.com/image/teams/4838.png",
+    "away": "آميد سبورتيف",
+    "awayLogo": "https://jdwel.com/image/teams/tur_amed_sk.png",
+    "score": "3 - 0",
+    "time": "1:30 م"
+  },
+  {
+    "home": "يلدريم بيليدي سبور",
+    "homeLogo": "https://jdwel.com/image/teams/3802.png",
+    "away": "ألانيا سبور",
+    "awayLogo": "https://jdwel.com/image/teams/1511.png",
+    "score": "1 - 2",
+    "time": "3:00 م"
+  },
+  {
+    "home": "جوروم بيليدي سبور",
+    "homeLogo": "https://jdwel.com/image/teams/tur_corum_belediyespor.png",
+    "away": "كوتاهياسبور",
+    "awayLogo": "https://jdwel.com/image/teams/tur_kutahyaspor.png",
+    "score": "3 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "أوردو سبور",
+    "homeLogo": "https://jdwel.com/image/teams/5024.png",
+    "away": "إرباسبور",
+    "awayLogo": "https://jdwel.com/image/teams/tur_erbaaspor.png",
+    "score": "4 - 2",
+    "time": "3:30 م"
+  },
+  {
+    "home": "بينديك سبور",
+    "homeLogo": "https://jdwel.com/image/teams/tur_pendikspor.png",
+    "away": "تشورلوسبور 1947",
+    "awayLogo": "https://jdwel.com/image/teams/1622.png",
+    "score": "3 - 2",
+    "time": "3:30 م"
+  },
+  {
+    "home": "مانيسا",
+    "homeLogo": "https://jdwel.com/image/teams/tur_manisa_bbsk.png",
+    "away": "موغلاسبور",
+    "awayLogo": "https://jdwel.com/image/teams/tur_muglaspor.png",
+    "score": "0 - 2",
+    "time": "6:00 م"
+  },
+  {
+    "home": "أنطاليا سبور",
+    "homeLogo": "https://jdwel.com/image/teams/1509.png",
+    "away": "بورصاسبور",
+    "awayLogo": "https://jdwel.com/image/teams/tur_bursaspor.png",
+    "score": "3 - 0",
+    "time": "8:30 م"
+  },
+  {
+    "home": "إركسبور",
+    "homeLogo": "https://jdwel.com/image/teams/tur_erokspor.png",
+    "away": "أغري 1970",
+    "awayLogo": "https://jdwel.com/image/teams/tur_agri_1970.png",
+    "score": "3 - 0",
+    "time": "1:00 م"
+  },
+  {
+    "home": "كاراكوبرو بيليدي سبور",
+    "homeLogo": "https://jdwel.com/image/teams/1199.png",
+    "away": "ريزه سبور",
+    "awayLogo": "https://jdwel.com/image/teams/2345.png",
+    "score": "0 - 3",
+    "time": "1:00 م"
+  },
+  {
+    "home": "1926 بولانجاك سبور",
+    "homeLogo": "https://jdwel.com/image/teams/4571.png",
+    "away": "إغدير إف كي",
+    "awayLogo": "https://jdwel.com/image/teams/1440.png",
+    "score": "1 - 3",
+    "time": "1:30 م"
+  },
+  {
+    "home": "زونجولداك كومورسبور",
+    "homeLogo": "https://jdwel.com/image/teams/1023.png",
+    "away": "بودروم سبور",
+    "awayLogo": "https://jdwel.com/image/teams/1500.png",
+    "score": "0 - 5",
+    "time": "2:45 م"
+  },
+  {
+    "home": "غازي عنتاب",
+    "homeLogo": "https://jdwel.com/image/teams/1508.png",
+    "away": "كارابوك إيدمان يوردو",
+    "awayLogo": "https://jdwel.com/image/teams/4798.png",
+    "score": "2 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "قونيا سبور",
+    "homeLogo": "https://jdwel.com/image/teams/tur_konyaspor.png",
+    "away": "12 بينغول سبور",
+    "awayLogo": "https://jdwel.com/image/teams/4799.png",
+    "score": "4 - 2",
+    "time": "8:30 م"
+  },
+  {
+    "home": "موش مندريس سبور",
+    "homeLogo": "https://jdwel.com/image/teams/_mus_menderesspor.png",
+    "away": "قونيا سبور",
+    "awayLogo": "https://jdwel.com/image/teams/tur_konyaspor.png",
+    "score": "1 - 4",
+    "time": "12:00 م"
+  },
+  {
+    "home": "كيتشي أورينغوجو",
+    "homeLogo": "https://jdwel.com/image/teams/5310.png",
+    "away": "كايسري سبور",
+    "awayLogo": "https://jdwel.com/image/teams/1510.png",
+    "score": "2 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "ريزه سبور",
+    "homeLogo": "https://jdwel.com/image/teams/2345.png",
+    "away": "بينديك سبور",
+    "awayLogo": "https://jdwel.com/image/teams/tur_pendikspor.png",
+    "score": "6 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "ساكارياسبور",
+    "homeLogo": "https://jdwel.com/image/teams/tur_sakaryaspor.png",
+    "away": "غنتشلربيرليغي",
+    "awayLogo": "https://jdwel.com/image/teams/tur_genclerbirligi.png",
+    "score": "0 - 5",
+    "time": "7:30 م"
+  },
+  {
+    "home": "كاراكابي بيرليكسبور",
+    "homeLogo": "https://jdwel.com/image/teams/1215.png",
+    "away": "كوجالي سبور",
+    "awayLogo": "https://jdwel.com/image/teams/tur_kocaelispor.png",
+    "score": "1 - 2",
+    "time": "12:00 م"
+  },
+  {
+    "home": "إيوبسبور",
+    "homeLogo": "https://jdwel.com/image/teams/4731.png",
+    "away": "كانكايا",
+    "awayLogo": "https://jdwel.com/image/teams/4028.png",
+    "score": "6 - 1",
+    "time": "12:30 م"
+  },
+  {
+    "home": "سيفاسبور",
+    "homeLogo": "https://jdwel.com/image/teams/tur_sivasspor.png",
+    "away": "ألياغا فاش",
+    "awayLogo": "https://jdwel.com/image/teams/2419.png",
+    "score": "1 - 3",
+    "time": "12:30 م"
+  },
+  {
+    "home": "إسطنبول سبور",
+    "homeLogo": "https://jdwel.com/image/teams/tur_istanbulspor.png",
+    "away": "ساريير",
+    "awayLogo": "https://jdwel.com/image/teams/tur_sariyer.png",
+    "score": "6 - 0",
+    "time": "12:30 م"
+  },
+  {
+    "home": "كهرمان ماراش سبور",
+    "homeLogo": "https://jdwel.com/image/teams/tur_kahramanmarasspor.png",
+    "away": "أرضروم سبور",
+    "awayLogo": "https://jdwel.com/image/teams/5308.png",
+    "score": "1 - 3",
+    "time": "12:30 م"
+  },
+  {
+    "home": "موغلاسبور",
+    "homeLogo": "https://jdwel.com/image/teams/tur_muglaspor.png",
+    "away": "بودروم سبور",
+    "awayLogo": "https://jdwel.com/image/teams/1500.png",
+    "score": "1 - 2",
+    "time": "12:30 م"
+  },
+  {
+    "home": "إركسبور",
+    "homeLogo": "https://jdwel.com/image/teams/tur_erokspor.png",
+    "away": "فاتح كاراجومروك",
+    "awayLogo": "https://jdwel.com/image/teams/1573.png",
+    "score": "2 - 5",
+    "time": "2:30 م"
+  },
+  {
+    "home": "يني كارشي FK",
+    "homeLogo": "https://jdwel.com/image/teams/tur_halide_edip_adivar.png",
+    "away": "جوزتيبي",
+    "awayLogo": "https://jdwel.com/image/teams/tur_goztepe.png",
+    "score": "1 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "طرابزون سبور",
+    "homeLogo": "https://jdwel.com/image/teams/4730.png",
+    "away": "فانسبور",
+    "awayLogo": "https://jdwel.com/image/teams/4753.png",
+    "score": "2 - 0",
+    "time": "7:30 م"
+  },
+  {
+    "home": "يالوفا يسيلوفاسبور",
+    "homeLogo": "https://jdwel.com/image/teams/4366.png",
+    "away": "غازي عنتاب",
+    "awayLogo": "https://jdwel.com/image/teams/1508.png",
+    "score": "0 - 2",
+    "time": "12:00 م"
+  },
+  {
+    "home": "فتحية سبور",
+    "homeLogo": "https://jdwel.com/image/teams/tur_fethiyespor.png",
+    "away": "بانديرماسبور",
+    "awayLogo": "https://jdwel.com/image/teams/5266.png",
+    "score": "4 - 1",
+    "time": "12:30 م"
+  },
+  {
+    "home": "بولو سبور",
+    "homeLogo": "https://jdwel.com/image/teams/tur_boluspor.png",
+    "away": "كاهتا 02 سبور",
+    "awayLogo": "https://jdwel.com/image/teams/4620.png",
+    "score": "2 - 1",
+    "time": "12:30 م"
+  },
+  {
+    "home": "إغدير إف كي",
+    "homeLogo": "https://jdwel.com/image/teams/1440.png",
+    "away": "أوردو سبور",
+    "awayLogo": "https://jdwel.com/image/teams/5024.png",
+    "score": "3 - 2",
+    "time": "2:30 م"
+  },
+  {
+    "home": "سيليفكي بيليدي سبور",
+    "homeLogo": "https://jdwel.com/image/teams/4838.png",
+    "away": "أنطاليا سبور",
+    "awayLogo": "https://jdwel.com/image/teams/1509.png",
+    "score": "0 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "جوروم بيليدي سبور",
+    "homeLogo": "https://jdwel.com/image/teams/tur_corum_belediyespor.png",
+    "away": "ألانيا سبور",
+    "awayLogo": "https://jdwel.com/image/teams/1511.png",
+    "score": "0 - 5",
+    "time": "7:30 م"
+  },
+  {
+    "home": "فاتح كاراجومروك",
+    "homeLogo": "https://jdwel.com/image/teams/1573.png",
+    "away": "إسطنبول سبور",
+    "awayLogo": "https://jdwel.com/image/teams/tur_istanbulspor.png",
+    "score": "0 - 0",
+    "time": "2:00 م"
+  },
+  {
+    "home": "ريزه سبور",
+    "homeLogo": "https://jdwel.com/image/teams/2345.png",
+    "away": "غازي عنتاب",
+    "awayLogo": "https://jdwel.com/image/teams/1508.png",
+    "score": "5 - 2",
+    "time": "5:00 م"
+  },
+  {
+    "home": "طرابزون سبور",
+    "homeLogo": "https://jdwel.com/image/teams/4730.png",
+    "away": "ألانيا سبور",
+    "awayLogo": "https://jdwel.com/image/teams/1511.png",
+    "score": "0 - 1",
+    "time": "7:30 م"
+  },
+  {
+    "home": "غنتشلربيرليغي",
+    "homeLogo": "https://jdwel.com/image/teams/tur_genclerbirligi.png",
+    "away": "بودروم سبور",
+    "awayLogo": "https://jdwel.com/image/teams/1500.png",
+    "score": "3 - 2",
+    "time": "4:30 م"
+  },
+  {
+    "home": "غلطة سراي",
+    "homeLogo": "https://jdwel.com/image/teams/1416.png",
+    "away": "إسطنبول باشاكشهر",
+    "awayLogo": "https://jdwel.com/image/teams/2640.png",
+    "score": "1 - 0",
+    "time": "7:30 م"
+  },
+  {
+    "home": "كوجالي سبور",
+    "homeLogo": "https://jdwel.com/image/teams/tur_kocaelispor.png",
+    "away": "أرضروم سبور",
+    "awayLogo": "https://jdwel.com/image/teams/5308.png",
+    "score": "3 - 1",
+    "time": "2:00 م"
+  },
+  {
+    "home": "قونيا سبور",
+    "homeLogo": "https://jdwel.com/image/teams/tur_konyaspor.png",
+    "away": "أنطاليا سبور",
+    "awayLogo": "https://jdwel.com/image/teams/1509.png",
+    "score": "1 - 0",
+    "time": "4:30 م"
+  },
+  {
+    "home": "فنربخشة",
+    "homeLogo": "https://jdwel.com/image/teams/1681.png",
+    "away": "بشكتاش",
+    "awayLogo": "https://jdwel.com/image/teams/2149.png",
+    "score": "1 - 2",
+    "time": "7:30 م"
+  },
+  {
+    "home": "إغدير إف كي",
+    "homeLogo": "https://jdwel.com/image/teams/1440.png",
+    "away": "ألياغا فاش",
+    "awayLogo": "https://jdwel.com/image/teams/2419.png",
+    "score": "2 - 2",
+    "time": "12:00 م"
+  },
+  {
+    "home": "بولو سبور",
+    "homeLogo": "https://jdwel.com/image/teams/tur_boluspor.png",
+    "away": "فتحية سبور",
+    "awayLogo": "https://jdwel.com/image/teams/tur_fethiyespor.png",
+    "score": "0 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "كيتشي أورينغوجو",
+    "homeLogo": "https://jdwel.com/image/teams/5310.png",
+    "away": "يني كارشي FK",
+    "awayLogo": "https://jdwel.com/image/teams/tur_halide_edip_adivar.png",
+    "score": "3 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "سامسون سبور",
+    "homeLogo": "https://jdwel.com/image/teams/2229.png",
+    "away": "إيوبسبور",
+    "awayLogo": "https://jdwel.com/image/teams/4731.png",
+    "score": "2 - 1",
+    "time": "7:30 م"
+  },
+  {
+    "home": "ألانيا سبور",
+    "homeLogo": "https://jdwel.com/image/teams/1511.png",
+    "away": "فاتح كاراجومروك",
+    "awayLogo": "https://jdwel.com/image/teams/1573.png",
+    "score": "2 - 2",
+    "time": "12:00 م"
+  },
+  {
+    "home": "إسطنبول باشاكشهر",
+    "homeLogo": "https://jdwel.com/image/teams/2640.png",
+    "away": "بولو سبور",
+    "awayLogo": "https://jdwel.com/image/teams/tur_boluspor.png",
+    "score": "2 - 1",
+    "time": "2:30 م"
+  },
+  {
+    "home": "غازي عنتاب",
+    "homeLogo": "https://jdwel.com/image/teams/1508.png",
+    "away": "كوجالي سبور",
+    "awayLogo": "https://jdwel.com/image/teams/tur_kocaelispor.png",
+    "score": "1 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "فتحية سبور",
+    "homeLogo": "https://jdwel.com/image/teams/tur_fethiyespor.png",
+    "away": "غلطة سراي",
+    "awayLogo": "https://jdwel.com/image/teams/1416.png",
+    "score": "1 - 2",
+    "time": "7:30 م"
+  },
+  {
+    "home": "ألياغا فاش",
+    "homeLogo": "https://jdwel.com/image/teams/2419.png",
+    "away": "سامسون سبور",
+    "awayLogo": "https://jdwel.com/image/teams/2229.png",
+    "score": "2 - 6",
+    "time": "12:00 م"
+  },
+  {
+    "home": "أنطاليا سبور",
+    "homeLogo": "https://jdwel.com/image/teams/1509.png",
+    "away": "غنتشلربيرليغي",
+    "awayLogo": "https://jdwel.com/image/teams/tur_genclerbirligi.png",
+    "score": "0 - 1",
+    "time": "2:30 م"
+  },
+  {
+    "home": "إسطنبول سبور",
+    "homeLogo": "https://jdwel.com/image/teams/tur_istanbulspor.png",
+    "away": "طرابزون سبور",
+    "awayLogo": "https://jdwel.com/image/teams/4730.png",
+    "score": "1 - 6",
+    "time": "5:00 م"
+  },
+  {
+    "home": "يني كارشي FK",
+    "homeLogo": "https://jdwel.com/image/teams/tur_halide_edip_adivar.png",
+    "away": "فنربخشة",
+    "awayLogo": "https://jdwel.com/image/teams/1681.png",
+    "score": "0 - 1",
+    "time": "7:30 م"
+  },
+  {
+    "home": "أرضروم سبور",
+    "homeLogo": "https://jdwel.com/image/teams/5308.png",
+    "away": "ريزه سبور",
+    "awayLogo": "https://jdwel.com/image/teams/2345.png",
+    "score": "2 - 0",
+    "time": "12:00 م"
+  },
+  {
+    "home": "إيوبسبور",
+    "homeLogo": "https://jdwel.com/image/teams/4731.png",
+    "away": "إغدير إف كي",
+    "awayLogo": "https://jdwel.com/image/teams/1440.png",
+    "score": "2 - 1",
+    "time": "2:30 م"
+  },
+  {
+    "home": "بودروم سبور",
+    "homeLogo": "https://jdwel.com/image/teams/1500.png",
+    "away": "قونيا سبور",
+    "awayLogo": "https://jdwel.com/image/teams/tur_konyaspor.png",
+    "score": "1 - 2",
+    "time": "5:00 م"
+  },
+  {
+    "home": "بشكتاش",
+    "homeLogo": "https://jdwel.com/image/teams/2149.png",
+    "away": "كيتشي أورينغوجو",
+    "awayLogo": "https://jdwel.com/image/teams/5310.png",
+    "score": "3 - 0",
+    "time": "7:30 م"
+  },
+  {
+    "home": "إغدير إف كي",
+    "homeLogo": "https://jdwel.com/image/teams/1440.png",
+    "away": "أنطاليا سبور",
+    "awayLogo": "https://jdwel.com/image/teams/1509.png",
+    "score": "0 - 0",
+    "time": "12:00 م"
+  },
+  {
+    "home": "سامسون سبور",
+    "homeLogo": "https://jdwel.com/image/teams/2229.png",
+    "away": "بودروم سبور",
+    "awayLogo": "https://jdwel.com/image/teams/1500.png",
+    "score": "0 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "ريزه سبور",
+    "homeLogo": "https://jdwel.com/image/teams/2345.png",
+    "away": "يني كارشي FK",
+    "awayLogo": "https://jdwel.com/image/teams/tur_halide_edip_adivar.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "طرابزون سبور",
+    "homeLogo": "https://jdwel.com/image/teams/4730.png",
+    "away": "فتحية سبور",
+    "awayLogo": "https://jdwel.com/image/teams/tur_fethiyespor.png",
+    "score": "0 - 0",
+    "time": "7:30 م"
+  },
+  {
+    "home": "بولو سبور",
+    "homeLogo": "https://jdwel.com/image/teams/tur_boluspor.png",
+    "away": "ألانيا سبور",
+    "awayLogo": "https://jdwel.com/image/teams/1511.png",
+    "score": "0 - 0",
+    "time": "12:00 م"
+  },
+  {
+    "home": "فاتح كاراجومروك",
+    "homeLogo": "https://jdwel.com/image/teams/1573.png",
+    "away": "إسطنبول باشاكشهر",
+    "awayLogo": "https://jdwel.com/image/teams/2640.png",
+    "score": "0 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "غنتشلربيرليغي",
+    "homeLogo": "https://jdwel.com/image/teams/tur_genclerbirligi.png",
+    "away": "إيوبسبور",
+    "awayLogo": "https://jdwel.com/image/teams/4731.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "غلطة سراي",
+    "homeLogo": "https://jdwel.com/image/teams/1416.png",
+    "away": "إسطنبول سبور",
+    "awayLogo": "https://jdwel.com/image/teams/tur_istanbulspor.png",
+    "score": "0 - 0",
+    "time": "7:30 م"
+  },
+  {
+    "home": "كيتشي أورينغوجو",
+    "homeLogo": "https://jdwel.com/image/teams/5310.png",
+    "away": "غازي عنتاب",
+    "awayLogo": "https://jdwel.com/image/teams/1508.png",
+    "score": "0 - 0",
+    "time": "12:00 م"
+  },
+  {
+    "home": "قونيا سبور",
+    "homeLogo": "https://jdwel.com/image/teams/tur_konyaspor.png",
+    "away": "ألياغا فاش",
+    "awayLogo": "https://jdwel.com/image/teams/2419.png",
+    "score": "0 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "كوجالي سبور",
+    "homeLogo": "https://jdwel.com/image/teams/tur_kocaelispor.png",
+    "away": "بشكتاش",
+    "awayLogo": "https://jdwel.com/image/teams/2149.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "فنربخشة",
+    "homeLogo": "https://jdwel.com/image/teams/1681.png",
+    "away": "أرضروم سبور",
+    "awayLogo": "https://jdwel.com/image/teams/5308.png",
+    "score": "0 - 0",
+    "time": "7:30 م"
+  },
+  {
+    "home": "أنطاليا سبور",
+    "homeLogo": "https://jdwel.com/image/teams/1509.png",
+    "away": "سامسون سبور",
+    "awayLogo": "https://jdwel.com/image/teams/2229.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "إيوبسبور",
+    "homeLogo": "https://jdwel.com/image/teams/4731.png",
+    "away": "قونيا سبور",
+    "awayLogo": "https://jdwel.com/image/teams/tur_konyaspor.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "بودروم سبور",
+    "homeLogo": "https://jdwel.com/image/teams/1500.png",
+    "away": "إغدير إف كي",
+    "awayLogo": "https://jdwel.com/image/teams/1440.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "ألياغا فاش",
+    "homeLogo": "https://jdwel.com/image/teams/2419.png",
+    "away": "غنتشلربيرليغي",
+    "awayLogo": "https://jdwel.com/image/teams/tur_genclerbirligi.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "غازي عنتاب",
+    "homeLogo": "https://jdwel.com/image/teams/1508.png",
+    "away": "فنربخشة",
+    "awayLogo": "https://jdwel.com/image/teams/1681.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "بشكتاش",
+    "homeLogo": "https://jdwel.com/image/teams/2149.png",
+    "away": "ريزه سبور",
+    "awayLogo": "https://jdwel.com/image/teams/2345.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "يني كارشي FK",
+    "homeLogo": "https://jdwel.com/image/teams/tur_halide_edip_adivar.png",
+    "away": "كوجالي سبور",
+    "awayLogo": "https://jdwel.com/image/teams/tur_kocaelispor.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "أرضروم سبور",
+    "homeLogo": "https://jdwel.com/image/teams/5308.png",
+    "away": "كيتشي أورينغوجو",
+    "awayLogo": "https://jdwel.com/image/teams/5310.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "إسطنبول سبور",
+    "homeLogo": "https://jdwel.com/image/teams/tur_istanbulspor.png",
+    "away": "بولو سبور",
+    "awayLogo": "https://jdwel.com/image/teams/tur_boluspor.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "فتحية سبور",
+    "homeLogo": "https://jdwel.com/image/teams/tur_fethiyespor.png",
+    "away": "فاتح كاراجومروك",
+    "awayLogo": "https://jdwel.com/image/teams/1573.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "إسطنبول باشاكشهر",
+    "homeLogo": "https://jdwel.com/image/teams/2640.png",
+    "away": "طرابزون سبور",
+    "awayLogo": "https://jdwel.com/image/teams/4730.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "ألانيا سبور",
+    "homeLogo": "https://jdwel.com/image/teams/1511.png",
+    "away": "غلطة سراي",
+    "awayLogo": "https://jdwel.com/image/teams/1416.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  }
+]

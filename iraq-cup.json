@@ -1,0 +1,210 @@
+[
+  {
+    "home": "الحدود",
+    "homeLogo": "https://jdwel.com/image/teams/2222.png",
+    "away": "الكرخ",
+    "awayLogo": "https://jdwel.com/image/teams/2220.png",
+    "score": "1 - 3",
+    "time": "2:00 م"
+  },
+  {
+    "home": "نوروز",
+    "homeLogo": "https://jdwel.com/image/teams/5243.png",
+    "away": "البحري",
+    "awayLogo": "https://jdwel.com/image/teams/ira_al_bahri.png",
+    "score": "0 - 0 2 - 4",
+    "time": "6:00 م"
+  },
+  {
+    "home": "دهوك",
+    "homeLogo": "https://jdwel.com/image/teams/3281.png",
+    "away": "الحسين",
+    "awayLogo": "https://jdwel.com/image/teams/ira_al_hussein.png",
+    "score": "1 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "كربلاء",
+    "homeLogo": "https://jdwel.com/image/teams/2223.png",
+    "away": "أمانة بغداد",
+    "awayLogo": "https://jdwel.com/image/teams/4508.png",
+    "score": "2 - 0",
+    "time": "2:00 م"
+  },
+  {
+    "home": "غاز الشمال",
+    "homeLogo": "https://jdwel.com/image/teams/3559.png",
+    "away": "القاسم",
+    "awayLogo": "https://jdwel.com/image/teams/991.png",
+    "score": "0 - 0 3 - 4",
+    "time": "2:00 م"
+  },
+  {
+    "home": "الناصرية",
+    "homeLogo": "https://jdwel.com/image/teams/3551.png",
+    "away": "أربيل",
+    "awayLogo": "https://jdwel.com/image/teams/985.png",
+    "score": "0 - 1",
+    "time": "6:30 م"
+  },
+  {
+    "home": "الموصل",
+    "homeLogo": "https://jdwel.com/image/teams/4510.png",
+    "away": "الحشد الشعبي",
+    "awayLogo": "https://jdwel.com/image/teams/5399.png",
+    "score": "1 - 1 3 - 5",
+    "time": "6:30 م"
+  },
+  {
+    "home": "الرمادي",
+    "homeLogo": "https://jdwel.com/image/teams/3548.png",
+    "away": "الكرمة",
+    "awayLogo": "https://jdwel.com/image/teams/984.png",
+    "score": "1 - 1 1 - 2",
+    "time": "2:00 م"
+  },
+  {
+    "home": "نفط ميسان",
+    "homeLogo": "https://jdwel.com/image/teams/3282.png",
+    "away": "نفط البصرة",
+    "awayLogo": "https://jdwel.com/image/teams/2224.png",
+    "score": "3 - 0",
+    "time": "2:00 م"
+  },
+  {
+    "home": "المصافي",
+    "homeLogo": "https://jdwel.com/image/teams/3549.png",
+    "away": "الميناء",
+    "awayLogo": "https://jdwel.com/image/teams/128.png",
+    "score": "1 - 1 4 - 5",
+    "time": "2:00 م"
+  },
+  {
+    "home": "الصناعة",
+    "homeLogo": "https://jdwel.com/image/teams/ira_al_sinaah.png",
+    "away": "الكرخ",
+    "awayLogo": "https://jdwel.com/image/teams/2220.png",
+    "score": "0 - 3",
+    "time": "7:30 م"
+  },
+  {
+    "home": "الناصرية",
+    "homeLogo": "https://jdwel.com/image/teams/3551.png",
+    "away": "الاتصالات",
+    "awayLogo": "https://jdwel.com/image/teams/3550.png",
+    "score": "1 - 1 4 - 2",
+    "time": "7:00 م"
+  },
+  {
+    "home": "أمانة بغداد",
+    "homeLogo": "https://jdwel.com/image/teams/4508.png",
+    "away": "مصافي الجنوب",
+    "awayLogo": "https://jdwel.com/image/teams/3557.png",
+    "score": "2 - 2 5 - 4",
+    "time": "7:00 م"
+  },
+  {
+    "home": "الجيش",
+    "homeLogo": "https://jdwel.com/image/teams/4643.png",
+    "away": "أربيل",
+    "awayLogo": "https://jdwel.com/image/teams/985.png",
+    "score": "1 - 2",
+    "time": "4:00 م"
+  },
+  {
+    "home": "الصناعات الكهربائية",
+    "homeLogo": "https://jdwel.com/image/teams/ira_alsinaat_alkahrabaiya.png",
+    "away": "كربلاء",
+    "awayLogo": "https://jdwel.com/image/teams/2223.png",
+    "score": "0 - 3",
+    "time": "4:00 م"
+  },
+  {
+    "home": "البحري",
+    "homeLogo": "https://jdwel.com/image/teams/ira_al_bahri.png",
+    "away": "ميسان",
+    "awayLogo": "https://jdwel.com/image/teams/3451.png",
+    "score": "1 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "الرمادي",
+    "homeLogo": "https://jdwel.com/image/teams/3548.png",
+    "away": "الجولان",
+    "awayLogo": "https://jdwel.com/image/teams/3556.png",
+    "score": "1 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "الحدود",
+    "homeLogo": "https://jdwel.com/image/teams/2222.png",
+    "away": "بيشمركة السليمانية",
+    "awayLogo": "https://jdwel.com/image/teams/3449.png",
+    "score": "3 - 1",
+    "time": "3:00 م"
+  },
+  {
+    "home": "الموصل",
+    "homeLogo": "https://jdwel.com/image/teams/4510.png",
+    "away": "ديالى",
+    "awayLogo": "https://jdwel.com/image/teams/983.png",
+    "score": "2 - 1",
+    "time": "7:00 م"
+  },
+  {
+    "home": "الميناء",
+    "homeLogo": "https://jdwel.com/image/teams/128.png",
+    "away": "نفط الوسط",
+    "awayLogo": "https://jdwel.com/image/teams/ira_naft_al-wasat.png",
+    "score": "2 - 1",
+    "time": "7:00 م"
+  },
+  {
+    "home": "الغراف",
+    "homeLogo": "https://jdwel.com/image/teams/4509.png",
+    "away": "نفط ميسان",
+    "awayLogo": "https://jdwel.com/image/teams/3282.png",
+    "score": "0 - 1",
+    "time": "7:00 م"
+  },
+  {
+    "home": "الحسين",
+    "homeLogo": "https://jdwel.com/image/teams/ira_al_hussein.png",
+    "away": "عفك",
+    "awayLogo": "https://jdwel.com/image/teams/3558.png",
+    "score": "1 - 1 5 - 4",
+    "time": "4:00 م"
+  },
+  {
+    "home": "المصافي",
+    "homeLogo": "https://jdwel.com/image/teams/3549.png",
+    "away": "النجف",
+    "awayLogo": "https://jdwel.com/image/teams/4743.png",
+    "score": "0 - 0 5 - 4",
+    "time": "4:00 م"
+  },
+  {
+    "home": "الكاظمية",
+    "homeLogo": "https://jdwel.com/image/teams/3541.png",
+    "away": "غاز الشمال",
+    "awayLogo": "https://jdwel.com/image/teams/3559.png",
+    "score": "0 - 1",
+    "time": "4:00 م"
+  },
+  {
+    "home": "الكهرباء",
+    "homeLogo": "https://jdwel.com/image/teams/2440.png",
+    "away": "الحشد الشعبي",
+    "awayLogo": "https://jdwel.com/image/teams/5399.png",
+    "score": "0 - 0 3 - 4",
+    "time": "3:00 م"
+  },
+  {
+    "home": "نفط البصرة",
+    "homeLogo": "https://jdwel.com/image/teams/2224.png",
+    "away": "الفهد",
+    "awayLogo": "https://jdwel.com/image/teams/3527.png",
+    "score": "1 - 1 5 - 4",
+    "time": "3:00 م"
+  }
+]

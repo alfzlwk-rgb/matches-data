@@ -1,0 +1,2450 @@
+[
+  {
+    "home": "فورتونا سيتارد",
+    "homeLogo": "https://jdwel.com/image/teams/5534.png",
+    "away": "غو أهد إيغلز",
+    "awayLogo": "https://jdwel.com/image/teams/net_go_ahead_eagles.png",
+    "score": "2 - 2",
+    "time": "9:00 م"
+  },
+  {
+    "home": "إن إي سي نيميخن",
+    "homeLogo": "https://jdwel.com/image/teams/1664.png",
+    "away": "إكسلسيور",
+    "awayLogo": "https://jdwel.com/image/teams/net_excelsior.png",
+    "score": "5 - 0",
+    "time": "5:30 م"
+  },
+  {
+    "home": "فاينورد",
+    "homeLogo": "https://jdwel.com/image/teams/1406.png",
+    "away": "ناك بريدا",
+    "awayLogo": "https://jdwel.com/image/teams/net_nac_breda.png",
+    "score": "2 - 0",
+    "time": "7:45 م"
+  },
+  {
+    "home": "هيرنفين",
+    "homeLogo": "https://jdwel.com/image/teams/1296.png",
+    "away": "فولندام",
+    "awayLogo": "https://jdwel.com/image/teams/1668.png",
+    "score": "1 - 1",
+    "time": "9:00 م"
+  },
+  {
+    "home": "آيندهوفن",
+    "homeLogo": "https://jdwel.com/image/teams/1307.png",
+    "away": "سبارتا روتردام",
+    "awayLogo": "https://jdwel.com/image/teams/1305.png",
+    "score": "6 - 1",
+    "time": "10:00 م"
+  },
+  {
+    "home": "زفوله",
+    "homeLogo": "https://jdwel.com/image/teams/net_pec_zwolle.png",
+    "away": "تفينتي",
+    "awayLogo": "https://jdwel.com/image/teams/1415.png",
+    "score": "1 - 0",
+    "time": "1:15 م"
+  },
+  {
+    "home": "أياكس أمستردام",
+    "homeLogo": "https://jdwel.com/image/teams/4269.png",
+    "away": "تلستار",
+    "awayLogo": "https://jdwel.com/image/teams/net_telstar.png",
+    "score": "2 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "إي زد ألكمار",
+    "homeLogo": "https://jdwel.com/image/teams/net_az.png",
+    "away": "غرونينغن",
+    "awayLogo": "https://jdwel.com/image/teams/1295.png",
+    "score": "4 - 1",
+    "time": "3:30 م"
+  },
+  {
+    "home": "أوترخت",
+    "homeLogo": "https://jdwel.com/image/teams/1306.png",
+    "away": "هيراكليس",
+    "awayLogo": "https://jdwel.com/image/teams/net_heracles.png",
+    "score": "4 - 0",
+    "time": "5:45 م"
+  },
+  {
+    "home": "تلستار",
+    "homeLogo": "https://jdwel.com/image/teams/net_telstar.png",
+    "away": "زفوله",
+    "awayLogo": "https://jdwel.com/image/teams/net_pec_zwolle.png",
+    "score": "0 - 2",
+    "time": "9:00 م"
+  },
+  {
+    "home": "إكسلسيور",
+    "homeLogo": "https://jdwel.com/image/teams/net_excelsior.png",
+    "away": "فاينورد",
+    "awayLogo": "https://jdwel.com/image/teams/1406.png",
+    "score": "1 - 2",
+    "time": "7:45 م"
+  },
+  {
+    "home": "هيراكليس",
+    "homeLogo": "https://jdwel.com/image/teams/net_heracles.png",
+    "away": "إن إي سي نيميخن",
+    "awayLogo": "https://jdwel.com/image/teams/1664.png",
+    "score": "1 - 4",
+    "time": "9:00 م"
+  },
+  {
+    "home": "غرونينغن",
+    "homeLogo": "https://jdwel.com/image/teams/1295.png",
+    "away": "هيرنفين",
+    "awayLogo": "https://jdwel.com/image/teams/1296.png",
+    "score": "2 - 1",
+    "time": "10:00 م"
+  },
+  {
+    "home": "غو أهد إيغلز",
+    "homeLogo": "https://jdwel.com/image/teams/net_go_ahead_eagles.png",
+    "away": "أياكس أمستردام",
+    "awayLogo": "https://jdwel.com/image/teams/4269.png",
+    "score": "2 - 2",
+    "time": "1:15 م"
+  },
+  {
+    "home": "تفينتي",
+    "homeLogo": "https://jdwel.com/image/teams/1415.png",
+    "away": "آيندهوفن",
+    "awayLogo": "https://jdwel.com/image/teams/1307.png",
+    "score": "0 - 2",
+    "time": "3:30 م"
+  },
+  {
+    "home": "سبارتا روتردام",
+    "homeLogo": "https://jdwel.com/image/teams/1305.png",
+    "away": "أوترخت",
+    "awayLogo": "https://jdwel.com/image/teams/1306.png",
+    "score": "2 - 1",
+    "time": "3:30 م"
+  },
+  {
+    "home": "فولندام",
+    "homeLogo": "https://jdwel.com/image/teams/1668.png",
+    "away": "إي زد ألكمار",
+    "awayLogo": "https://jdwel.com/image/teams/net_az.png",
+    "score": "2 - 2",
+    "time": "5:45 م"
+  },
+  {
+    "home": "ناك بريدا",
+    "homeLogo": "https://jdwel.com/image/teams/net_nac_breda.png",
+    "away": "فورتونا سيتارد",
+    "awayLogo": "https://jdwel.com/image/teams/5534.png",
+    "score": "2 - 1",
+    "time": "9:00 م"
+  },
+  {
+    "home": "غو أهد إيغلز",
+    "homeLogo": "https://jdwel.com/image/teams/net_go_ahead_eagles.png",
+    "away": "سبارتا روتردام",
+    "awayLogo": "https://jdwel.com/image/teams/1305.png",
+    "score": "0 - 3",
+    "time": "5:30 م"
+  },
+  {
+    "home": "آيندهوفن",
+    "homeLogo": "https://jdwel.com/image/teams/1307.png",
+    "away": "غرونينغن",
+    "awayLogo": "https://jdwel.com/image/teams/1295.png",
+    "score": "4 - 2",
+    "time": "7:45 م"
+  },
+  {
+    "home": "تلستار",
+    "homeLogo": "https://jdwel.com/image/teams/net_telstar.png",
+    "away": "فولندام",
+    "awayLogo": "https://jdwel.com/image/teams/1668.png",
+    "score": "2 - 2",
+    "time": "10:00 م"
+  },
+  {
+    "home": "هيرنفين",
+    "homeLogo": "https://jdwel.com/image/teams/1296.png",
+    "away": "تفينتي",
+    "awayLogo": "https://jdwel.com/image/teams/1415.png",
+    "score": "1 - 2",
+    "time": "1:15 م"
+  },
+  {
+    "home": "أوترخت",
+    "homeLogo": "https://jdwel.com/image/teams/1306.png",
+    "away": "إكسلسيور",
+    "awayLogo": "https://jdwel.com/image/teams/net_excelsior.png",
+    "score": "4 - 1",
+    "time": "3:30 م"
+  },
+  {
+    "home": "إن إي سي نيميخن",
+    "homeLogo": "https://jdwel.com/image/teams/1664.png",
+    "away": "ناك بريدا",
+    "awayLogo": "https://jdwel.com/image/teams/net_nac_breda.png",
+    "score": "3 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "أياكس أمستردام",
+    "homeLogo": "https://jdwel.com/image/teams/4269.png",
+    "away": "هيراكليس",
+    "awayLogo": "https://jdwel.com/image/teams/net_heracles.png",
+    "score": "2 - 0",
+    "time": "5:45 م"
+  },
+  {
+    "home": "غرونينغن",
+    "homeLogo": "https://jdwel.com/image/teams/1295.png",
+    "away": "هيراكليس",
+    "awayLogo": "https://jdwel.com/image/teams/net_heracles.png",
+    "score": "4 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "فولندام",
+    "homeLogo": "https://jdwel.com/image/teams/1668.png",
+    "away": "أياكس أمستردام",
+    "awayLogo": "https://jdwel.com/image/teams/4269.png",
+    "score": "1 - 1",
+    "time": "5:30 م"
+  },
+  {
+    "home": "هيرنفين",
+    "homeLogo": "https://jdwel.com/image/teams/1296.png",
+    "away": "غو أهد إيغلز",
+    "awayLogo": "https://jdwel.com/image/teams/net_go_ahead_eagles.png",
+    "score": "2 - 2",
+    "time": "7:45 م"
+  },
+  {
+    "home": "آيندهوفن",
+    "homeLogo": "https://jdwel.com/image/teams/1307.png",
+    "away": "تلستار",
+    "awayLogo": "https://jdwel.com/image/teams/net_telstar.png",
+    "score": "0 - 2",
+    "time": "9:00 م"
+  },
+  {
+    "home": "إكسلسيور",
+    "homeLogo": "https://jdwel.com/image/teams/net_excelsior.png",
+    "away": "تفينتي",
+    "awayLogo": "https://jdwel.com/image/teams/1415.png",
+    "score": "1 - 0",
+    "time": "10:00 م"
+  },
+  {
+    "home": "فورتونا سيتارد",
+    "homeLogo": "https://jdwel.com/image/teams/5534.png",
+    "away": "إن إي سي نيميخن",
+    "awayLogo": "https://jdwel.com/image/teams/1664.png",
+    "score": "3 - 2",
+    "time": "1:15 م"
+  },
+  {
+    "home": "زفوله",
+    "homeLogo": "https://jdwel.com/image/teams/net_pec_zwolle.png",
+    "away": "أوترخت",
+    "awayLogo": "https://jdwel.com/image/teams/1306.png",
+    "score": "0 - 2",
+    "time": "3:30 م"
+  },
+  {
+    "home": "سبارتا روتردام",
+    "homeLogo": "https://jdwel.com/image/teams/1305.png",
+    "away": "فاينورد",
+    "awayLogo": "https://jdwel.com/image/teams/1406.png",
+    "score": "0 - 4",
+    "time": "3:30 م"
+  },
+  {
+    "home": "ناك بريدا",
+    "homeLogo": "https://jdwel.com/image/teams/net_nac_breda.png",
+    "away": "إي زد ألكمار",
+    "awayLogo": "https://jdwel.com/image/teams/net_az.png",
+    "score": "0 - 1",
+    "time": "5:45 م"
+  },
+  {
+    "home": "أياكس أمستردام",
+    "homeLogo": "https://jdwel.com/image/teams/4269.png",
+    "away": "زفوله",
+    "awayLogo": "https://jdwel.com/image/teams/net_pec_zwolle.png",
+    "score": "3 - 1",
+    "time": "5:30 م"
+  },
+  {
+    "home": "إن إي سي نيميخن",
+    "homeLogo": "https://jdwel.com/image/teams/1664.png",
+    "away": "آيندهوفن",
+    "awayLogo": "https://jdwel.com/image/teams/1307.png",
+    "score": "3 - 5",
+    "time": "7:45 م"
+  },
+  {
+    "home": "غو أهد إيغلز",
+    "homeLogo": "https://jdwel.com/image/teams/net_go_ahead_eagles.png",
+    "away": "فولندام",
+    "awayLogo": "https://jdwel.com/image/teams/1668.png",
+    "score": "3 - 0",
+    "time": "8:10 م"
+  },
+  {
+    "home": "تفينتي",
+    "homeLogo": "https://jdwel.com/image/teams/1415.png",
+    "away": "ناك بريدا",
+    "awayLogo": "https://jdwel.com/image/teams/net_nac_breda.png",
+    "score": "2 - 2",
+    "time": "10:00 م"
+  },
+  {
+    "home": "فاينورد",
+    "homeLogo": "https://jdwel.com/image/teams/1406.png",
+    "away": "هيرنفين",
+    "awayLogo": "https://jdwel.com/image/teams/1296.png",
+    "score": "1 - 0",
+    "time": "10:00 م"
+  },
+  {
+    "home": "إكسلسيور",
+    "homeLogo": "https://jdwel.com/image/teams/net_excelsior.png",
+    "away": "سبارتا روتردام",
+    "awayLogo": "https://jdwel.com/image/teams/1305.png",
+    "score": "0 - 1",
+    "time": "1:15 م"
+  },
+  {
+    "home": "أوترخت",
+    "homeLogo": "https://jdwel.com/image/teams/1306.png",
+    "away": "غرونينغن",
+    "awayLogo": "https://jdwel.com/image/teams/1295.png",
+    "score": "0 - 1",
+    "time": "3:30 م"
+  },
+  {
+    "home": "هيراكليس",
+    "homeLogo": "https://jdwel.com/image/teams/net_heracles.png",
+    "away": "إي زد ألكمار",
+    "awayLogo": "https://jdwel.com/image/teams/net_az.png",
+    "score": "1 - 2",
+    "time": "3:30 م"
+  },
+  {
+    "home": "تلستار",
+    "homeLogo": "https://jdwel.com/image/teams/net_telstar.png",
+    "away": "فورتونا سيتارد",
+    "awayLogo": "https://jdwel.com/image/teams/5534.png",
+    "score": "1 - 3",
+    "time": "5:45 م"
+  },
+  {
+    "home": "فاينورد",
+    "homeLogo": "https://jdwel.com/image/teams/1406.png",
+    "away": "فورتونا سيتارد",
+    "awayLogo": "https://jdwel.com/image/teams/5534.png",
+    "score": "2 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "سبارتا روتردام",
+    "homeLogo": "https://jdwel.com/image/teams/1305.png",
+    "away": "تفينتي",
+    "awayLogo": "https://jdwel.com/image/teams/1415.png",
+    "score": "1 - 5",
+    "time": "9:00 م"
+  },
+  {
+    "home": "فولندام",
+    "homeLogo": "https://jdwel.com/image/teams/1668.png",
+    "away": "إكسلسيور",
+    "awayLogo": "https://jdwel.com/image/teams/net_excelsior.png",
+    "score": "1 - 2",
+    "time": "5:30 م"
+  },
+  {
+    "home": "غرونينغن",
+    "homeLogo": "https://jdwel.com/image/teams/1295.png",
+    "away": "تلستار",
+    "awayLogo": "https://jdwel.com/image/teams/net_telstar.png",
+    "score": "2 - 0",
+    "time": "7:45 م"
+  },
+  {
+    "home": "فورتونا سيتارد",
+    "homeLogo": "https://jdwel.com/image/teams/5534.png",
+    "away": "أوترخت",
+    "awayLogo": "https://jdwel.com/image/teams/1306.png",
+    "score": "1 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "ناك بريدا",
+    "homeLogo": "https://jdwel.com/image/teams/net_nac_breda.png",
+    "away": "هيراكليس",
+    "awayLogo": "https://jdwel.com/image/teams/net_heracles.png",
+    "score": "2 - 1",
+    "time": "10:00 م"
+  },
+  {
+    "home": "زفوله",
+    "homeLogo": "https://jdwel.com/image/teams/net_pec_zwolle.png",
+    "away": "غو أهد إيغلز",
+    "awayLogo": "https://jdwel.com/image/teams/net_go_ahead_eagles.png",
+    "score": "0 - 2",
+    "time": "1:15 م"
+  },
+  {
+    "home": "آيندهوفن",
+    "homeLogo": "https://jdwel.com/image/teams/1307.png",
+    "away": "أياكس أمستردام",
+    "awayLogo": "https://jdwel.com/image/teams/4269.png",
+    "score": "2 - 2",
+    "time": "3:30 م"
+  },
+  {
+    "home": "هيرنفين",
+    "homeLogo": "https://jdwel.com/image/teams/1296.png",
+    "away": "إن إي سي نيميخن",
+    "awayLogo": "https://jdwel.com/image/teams/1664.png",
+    "score": "3 - 2",
+    "time": "3:30 م"
+  },
+  {
+    "home": "إي زد ألكمار",
+    "homeLogo": "https://jdwel.com/image/teams/net_az.png",
+    "away": "فاينورد",
+    "awayLogo": "https://jdwel.com/image/teams/1406.png",
+    "score": "3 - 3",
+    "time": "5:45 م"
+  },
+  {
+    "home": "إي زد ألكمار",
+    "homeLogo": "https://jdwel.com/image/teams/net_az.png",
+    "away": "زفوله",
+    "awayLogo": "https://jdwel.com/image/teams/net_pec_zwolle.png",
+    "score": "2 - 2",
+    "time": "9:00 م"
+  },
+  {
+    "home": "تفينتي",
+    "homeLogo": "https://jdwel.com/image/teams/1415.png",
+    "away": "فورتونا سيتارد",
+    "awayLogo": "https://jdwel.com/image/teams/5534.png",
+    "score": "3 - 2",
+    "time": "9:00 م"
+  },
+  {
+    "home": "أياكس أمستردام",
+    "homeLogo": "https://jdwel.com/image/teams/4269.png",
+    "away": "ناك بريدا",
+    "awayLogo": "https://jdwel.com/image/teams/net_nac_breda.png",
+    "score": "2 - 1",
+    "time": "5:30 م"
+  },
+  {
+    "home": "فولندام",
+    "homeLogo": "https://jdwel.com/image/teams/1668.png",
+    "away": "زفوله",
+    "awayLogo": "https://jdwel.com/image/teams/net_pec_zwolle.png",
+    "score": "2 - 1",
+    "time": "7:45 م"
+  },
+  {
+    "home": "إكسلسيور",
+    "homeLogo": "https://jdwel.com/image/teams/net_excelsior.png",
+    "away": "آيندهوفن",
+    "awayLogo": "https://jdwel.com/image/teams/1307.png",
+    "score": "1 - 2",
+    "time": "9:00 م"
+  },
+  {
+    "home": "هيراكليس",
+    "homeLogo": "https://jdwel.com/image/teams/net_heracles.png",
+    "away": "سبارتا روتردام",
+    "awayLogo": "https://jdwel.com/image/teams/1305.png",
+    "score": "3 - 0",
+    "time": "10:00 م"
+  },
+  {
+    "home": "إن إي سي نيميخن",
+    "homeLogo": "https://jdwel.com/image/teams/1664.png",
+    "away": "إي زد ألكمار",
+    "awayLogo": "https://jdwel.com/image/teams/net_az.png",
+    "score": "2 - 1",
+    "time": "1:15 م"
+  },
+  {
+    "home": "غرونينغن",
+    "homeLogo": "https://jdwel.com/image/teams/1295.png",
+    "away": "فاينورد",
+    "awayLogo": "https://jdwel.com/image/teams/1406.png",
+    "score": "0 - 1",
+    "time": "3:30 م"
+  },
+  {
+    "home": "أوترخت",
+    "homeLogo": "https://jdwel.com/image/teams/1306.png",
+    "away": "هيرنفين",
+    "awayLogo": "https://jdwel.com/image/teams/1296.png",
+    "score": "2 - 2",
+    "time": "3:30 م"
+  },
+  {
+    "home": "تلستار",
+    "homeLogo": "https://jdwel.com/image/teams/net_telstar.png",
+    "away": "غو أهد إيغلز",
+    "awayLogo": "https://jdwel.com/image/teams/net_go_ahead_eagles.png",
+    "score": "4 - 2",
+    "time": "5:45 م"
+  },
+  {
+    "home": "ناك بريدا",
+    "homeLogo": "https://jdwel.com/image/teams/net_nac_breda.png",
+    "away": "غرونينغن",
+    "awayLogo": "https://jdwel.com/image/teams/1295.png",
+    "score": "1 - 2",
+    "time": "9:00 م"
+  },
+  {
+    "home": "سبارتا روتردام",
+    "homeLogo": "https://jdwel.com/image/teams/1305.png",
+    "away": "أياكس أمستردام",
+    "awayLogo": "https://jdwel.com/image/teams/4269.png",
+    "score": "3 - 3",
+    "time": "5:30 م"
+  },
+  {
+    "home": "فورتونا سيتارد",
+    "homeLogo": "https://jdwel.com/image/teams/5534.png",
+    "away": "فولندام",
+    "awayLogo": "https://jdwel.com/image/teams/1668.png",
+    "score": "1 - 0",
+    "time": "7:45 م"
+  },
+  {
+    "home": "زفوله",
+    "homeLogo": "https://jdwel.com/image/teams/net_pec_zwolle.png",
+    "away": "آيندهوفن",
+    "awayLogo": "https://jdwel.com/image/teams/1307.png",
+    "score": "0 - 4",
+    "time": "9:00 م"
+  },
+  {
+    "home": "هيرنفين",
+    "homeLogo": "https://jdwel.com/image/teams/1296.png",
+    "away": "إكسلسيور",
+    "awayLogo": "https://jdwel.com/image/teams/net_excelsior.png",
+    "score": "2 - 1",
+    "time": "10:00 م"
+  },
+  {
+    "home": "تفينتي",
+    "homeLogo": "https://jdwel.com/image/teams/1415.png",
+    "away": "هيراكليس",
+    "awayLogo": "https://jdwel.com/image/teams/net_heracles.png",
+    "score": "2 - 1",
+    "time": "1:15 م"
+  },
+  {
+    "home": "فاينورد",
+    "homeLogo": "https://jdwel.com/image/teams/1406.png",
+    "away": "أوترخت",
+    "awayLogo": "https://jdwel.com/image/teams/1306.png",
+    "score": "3 - 2",
+    "time": "3:30 م"
+  },
+  {
+    "home": "إي زد ألكمار",
+    "homeLogo": "https://jdwel.com/image/teams/net_az.png",
+    "away": "تلستار",
+    "awayLogo": "https://jdwel.com/image/teams/net_telstar.png",
+    "score": "2 - 1",
+    "time": "5:45 م"
+  },
+  {
+    "home": "غو أهد إيغلز",
+    "homeLogo": "https://jdwel.com/image/teams/net_go_ahead_eagles.png",
+    "away": "إن إي سي نيميخن",
+    "awayLogo": "https://jdwel.com/image/teams/1664.png",
+    "score": "1 - 1",
+    "time": "5:45 م"
+  },
+  {
+    "home": "هيراكليس",
+    "homeLogo": "https://jdwel.com/image/teams/net_heracles.png",
+    "away": "فاينورد",
+    "awayLogo": "https://jdwel.com/image/teams/1406.png",
+    "score": "0 - 7",
+    "time": "5:30 م"
+  },
+  {
+    "home": "إن إي سي نيميخن",
+    "homeLogo": "https://jdwel.com/image/teams/1664.png",
+    "away": "تفينتي",
+    "awayLogo": "https://jdwel.com/image/teams/1415.png",
+    "score": "3 - 3",
+    "time": "5:30 م"
+  },
+  {
+    "home": "أوترخت",
+    "homeLogo": "https://jdwel.com/image/teams/1306.png",
+    "away": "فولندام",
+    "awayLogo": "https://jdwel.com/image/teams/1668.png",
+    "score": "3 - 1",
+    "time": "7:45 م"
+  },
+  {
+    "home": "آيندهوفن",
+    "homeLogo": "https://jdwel.com/image/teams/1307.png",
+    "away": "غو أهد إيغلز",
+    "awayLogo": "https://jdwel.com/image/teams/net_go_ahead_eagles.png",
+    "score": "2 - 1",
+    "time": "7:45 م"
+  },
+  {
+    "home": "أياكس أمستردام",
+    "homeLogo": "https://jdwel.com/image/teams/4269.png",
+    "away": "إي زد ألكمار",
+    "awayLogo": "https://jdwel.com/image/teams/net_az.png",
+    "score": "0 - 2",
+    "time": "10:00 م"
+  },
+  {
+    "home": "ناك بريدا",
+    "homeLogo": "https://jdwel.com/image/teams/net_nac_breda.png",
+    "away": "زفوله",
+    "awayLogo": "https://jdwel.com/image/teams/net_pec_zwolle.png",
+    "score": "2 - 2",
+    "time": "10:00 م"
+  },
+  {
+    "home": "تلستار",
+    "homeLogo": "https://jdwel.com/image/teams/net_telstar.png",
+    "away": "هيرنفين",
+    "awayLogo": "https://jdwel.com/image/teams/1296.png",
+    "score": "2 - 3",
+    "time": "1:15 م"
+  },
+  {
+    "home": "إكسلسيور",
+    "homeLogo": "https://jdwel.com/image/teams/net_excelsior.png",
+    "away": "فورتونا سيتارد",
+    "awayLogo": "https://jdwel.com/image/teams/5534.png",
+    "score": "1 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "غرونينغن",
+    "homeLogo": "https://jdwel.com/image/teams/1295.png",
+    "away": "سبارتا روتردام",
+    "awayLogo": "https://jdwel.com/image/teams/1305.png",
+    "score": "0 - 2",
+    "time": "3:30 م"
+  },
+  {
+    "home": "هيرنفين",
+    "homeLogo": "https://jdwel.com/image/teams/1296.png",
+    "away": "ناك بريدا",
+    "awayLogo": "https://jdwel.com/image/teams/net_nac_breda.png",
+    "score": "3 - 3",
+    "time": "9:00 م"
+  },
+  {
+    "home": "فورتونا سيتارد",
+    "homeLogo": "https://jdwel.com/image/teams/5534.png",
+    "away": "غرونينغن",
+    "awayLogo": "https://jdwel.com/image/teams/1295.png",
+    "score": "1 - 2",
+    "time": "5:30 م"
+  },
+  {
+    "home": "سبارتا روتردام",
+    "homeLogo": "https://jdwel.com/image/teams/1305.png",
+    "away": "تلستار",
+    "awayLogo": "https://jdwel.com/image/teams/net_telstar.png",
+    "score": "1 - 0",
+    "time": "7:45 م"
+  },
+  {
+    "home": "فولندام",
+    "homeLogo": "https://jdwel.com/image/teams/1668.png",
+    "away": "هيراكليس",
+    "awayLogo": "https://jdwel.com/image/teams/net_heracles.png",
+    "score": "3 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "زفوله",
+    "homeLogo": "https://jdwel.com/image/teams/net_pec_zwolle.png",
+    "away": "إن إي سي نيميخن",
+    "awayLogo": "https://jdwel.com/image/teams/1664.png",
+    "score": "2 - 2",
+    "time": "10:00 م"
+  },
+  {
+    "home": "تفينتي",
+    "homeLogo": "https://jdwel.com/image/teams/1415.png",
+    "away": "أياكس أمستردام",
+    "awayLogo": "https://jdwel.com/image/teams/4269.png",
+    "score": "2 - 3",
+    "time": "2:15 م"
+  },
+  {
+    "home": "فاينورد",
+    "homeLogo": "https://jdwel.com/image/teams/1406.png",
+    "away": "آيندهوفن",
+    "awayLogo": "https://jdwel.com/image/teams/1307.png",
+    "score": "2 - 3",
+    "time": "4:30 م"
+  },
+  {
+    "home": "إي زد ألكمار",
+    "homeLogo": "https://jdwel.com/image/teams/net_az.png",
+    "away": "أوترخت",
+    "awayLogo": "https://jdwel.com/image/teams/1306.png",
+    "score": "4 - 1",
+    "time": "6:45 م"
+  },
+  {
+    "home": "غو أهد إيغلز",
+    "homeLogo": "https://jdwel.com/image/teams/net_go_ahead_eagles.png",
+    "away": "إكسلسيور",
+    "awayLogo": "https://jdwel.com/image/teams/net_excelsior.png",
+    "score": "2 - 0",
+    "time": "10:00 م"
+  },
+  {
+    "home": "آيندهوفن",
+    "homeLogo": "https://jdwel.com/image/teams/1307.png",
+    "away": "فورتونا سيتارد",
+    "awayLogo": "https://jdwel.com/image/teams/5534.png",
+    "score": "5 - 2",
+    "time": "9:00 م"
+  },
+  {
+    "home": "أياكس أمستردام",
+    "homeLogo": "https://jdwel.com/image/teams/4269.png",
+    "away": "هيرنفين",
+    "awayLogo": "https://jdwel.com/image/teams/1296.png",
+    "score": "1 - 1",
+    "time": "5:30 م"
+  },
+  {
+    "home": "ناك بريدا",
+    "homeLogo": "https://jdwel.com/image/teams/net_nac_breda.png",
+    "away": "غو أهد إيغلز",
+    "awayLogo": "https://jdwel.com/image/teams/net_go_ahead_eagles.png",
+    "score": "1 - 0",
+    "time": "7:45 م"
+  },
+  {
+    "home": "فاينورد",
+    "homeLogo": "https://jdwel.com/image/teams/1406.png",
+    "away": "فولندام",
+    "awayLogo": "https://jdwel.com/image/teams/1668.png",
+    "score": "3 - 1",
+    "time": "9:00 م"
+  },
+  {
+    "home": "تلستار",
+    "homeLogo": "https://jdwel.com/image/teams/net_telstar.png",
+    "away": "إكسلسيور",
+    "awayLogo": "https://jdwel.com/image/teams/net_excelsior.png",
+    "score": "2 - 2",
+    "time": "10:00 م"
+  },
+  {
+    "home": "هيراكليس",
+    "homeLogo": "https://jdwel.com/image/teams/net_heracles.png",
+    "away": "زفوله",
+    "awayLogo": "https://jdwel.com/image/teams/net_pec_zwolle.png",
+    "score": "8 - 2",
+    "time": "1:15 م"
+  },
+  {
+    "home": "غرونينغن",
+    "homeLogo": "https://jdwel.com/image/teams/1295.png",
+    "away": "تفينتي",
+    "awayLogo": "https://jdwel.com/image/teams/1415.png",
+    "score": "1 - 1",
+    "time": "3:30 م"
+  },
+  {
+    "home": "سبارتا روتردام",
+    "homeLogo": "https://jdwel.com/image/teams/1305.png",
+    "away": "إي زد ألكمار",
+    "awayLogo": "https://jdwel.com/image/teams/net_az.png",
+    "score": "0 - 1",
+    "time": "3:30 م"
+  },
+  {
+    "home": "أوترخت",
+    "homeLogo": "https://jdwel.com/image/teams/1306.png",
+    "away": "إن إي سي نيميخن",
+    "awayLogo": "https://jdwel.com/image/teams/1664.png",
+    "score": "1 - 0",
+    "time": "5:45 م"
+  },
+  {
+    "home": "تفينتي",
+    "homeLogo": "https://jdwel.com/image/teams/1415.png",
+    "away": "تلستار",
+    "awayLogo": "https://jdwel.com/image/teams/net_telstar.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "إكسلسيور",
+    "homeLogo": "https://jdwel.com/image/teams/net_excelsior.png",
+    "away": "هيراكليس",
+    "awayLogo": "https://jdwel.com/image/teams/net_heracles.png",
+    "score": "1 - 2",
+    "time": "5:30 م"
+  },
+  {
+    "home": "فولندام",
+    "homeLogo": "https://jdwel.com/image/teams/1668.png",
+    "away": "ناك بريدا",
+    "awayLogo": "https://jdwel.com/image/teams/net_nac_breda.png",
+    "score": "2 - 1",
+    "time": "7:45 م"
+  },
+  {
+    "home": "فورتونا سيتارد",
+    "homeLogo": "https://jdwel.com/image/teams/5534.png",
+    "away": "هيرنفين",
+    "awayLogo": "https://jdwel.com/image/teams/1296.png",
+    "score": "2 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "زفوله",
+    "homeLogo": "https://jdwel.com/image/teams/net_pec_zwolle.png",
+    "away": "سبارتا روتردام",
+    "awayLogo": "https://jdwel.com/image/teams/1305.png",
+    "score": "1 - 0",
+    "time": "10:00 م"
+  },
+  {
+    "home": "أوترخت",
+    "homeLogo": "https://jdwel.com/image/teams/1306.png",
+    "away": "أياكس أمستردام",
+    "awayLogo": "https://jdwel.com/image/teams/4269.png",
+    "score": "2 - 1",
+    "time": "1:15 م"
+  },
+  {
+    "home": "إن إي سي نيميخن",
+    "homeLogo": "https://jdwel.com/image/teams/1664.png",
+    "away": "غرونينغن",
+    "awayLogo": "https://jdwel.com/image/teams/1295.png",
+    "score": "2 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "إي زد ألكمار",
+    "homeLogo": "https://jdwel.com/image/teams/net_az.png",
+    "away": "آيندهوفن",
+    "awayLogo": "https://jdwel.com/image/teams/1307.png",
+    "score": "1 - 5",
+    "time": "5:45 م"
+  },
+  {
+    "home": "غو أهد إيغلز",
+    "homeLogo": "https://jdwel.com/image/teams/net_go_ahead_eagles.png",
+    "away": "فاينورد",
+    "awayLogo": "https://jdwel.com/image/teams/1406.png",
+    "score": "2 - 1",
+    "time": "9:00 م"
+  },
+  {
+    "home": "ناك بريدا",
+    "homeLogo": "https://jdwel.com/image/teams/net_nac_breda.png",
+    "away": "آيندهوفن",
+    "awayLogo": "https://jdwel.com/image/teams/1307.png",
+    "score": "0 - 1",
+    "time": "5:30 م"
+  },
+  {
+    "home": "أياكس أمستردام",
+    "homeLogo": "https://jdwel.com/image/teams/4269.png",
+    "away": "إكسلسيور",
+    "awayLogo": "https://jdwel.com/image/teams/net_excelsior.png",
+    "score": "1 - 2",
+    "time": "7:45 م"
+  },
+  {
+    "home": "فولندام",
+    "homeLogo": "https://jdwel.com/image/teams/1668.png",
+    "away": "تفينتي",
+    "awayLogo": "https://jdwel.com/image/teams/1415.png",
+    "score": "1 - 1",
+    "time": "7:45 م"
+  },
+  {
+    "home": "هيراكليس",
+    "homeLogo": "https://jdwel.com/image/teams/net_heracles.png",
+    "away": "غو أهد إيغلز",
+    "awayLogo": "https://jdwel.com/image/teams/net_go_ahead_eagles.png",
+    "score": "4 - 2",
+    "time": "10:00 م"
+  },
+  {
+    "home": "سبارتا روتردام",
+    "homeLogo": "https://jdwel.com/image/teams/1305.png",
+    "away": "فورتونا سيتارد",
+    "awayLogo": "https://jdwel.com/image/teams/5534.png",
+    "score": "1 - 1",
+    "time": "10:00 م"
+  },
+  {
+    "home": "هيرنفين",
+    "homeLogo": "https://jdwel.com/image/teams/1296.png",
+    "away": "إي زد ألكمار",
+    "awayLogo": "https://jdwel.com/image/teams/net_az.png",
+    "score": "3 - 1",
+    "time": "1:15 م"
+  },
+  {
+    "home": "فاينورد",
+    "homeLogo": "https://jdwel.com/image/teams/1406.png",
+    "away": "إن إي سي نيميخن",
+    "awayLogo": "https://jdwel.com/image/teams/1664.png",
+    "score": "2 - 4",
+    "time": "3:30 م"
+  },
+  {
+    "home": "تلستار",
+    "homeLogo": "https://jdwel.com/image/teams/net_telstar.png",
+    "away": "أوترخت",
+    "awayLogo": "https://jdwel.com/image/teams/1306.png",
+    "score": "1 - 1",
+    "time": "3:30 م"
+  },
+  {
+    "home": "غرونينغن",
+    "homeLogo": "https://jdwel.com/image/teams/1295.png",
+    "away": "زفوله",
+    "awayLogo": "https://jdwel.com/image/teams/net_pec_zwolle.png",
+    "score": "2 - 2",
+    "time": "5:45 م"
+  },
+  {
+    "home": "زفوله",
+    "homeLogo": "https://jdwel.com/image/teams/net_pec_zwolle.png",
+    "away": "هيرنفين",
+    "awayLogo": "https://jdwel.com/image/teams/1296.png",
+    "score": "2 - 1",
+    "time": "9:00 م"
+  },
+  {
+    "home": "إكسلسيور",
+    "homeLogo": "https://jdwel.com/image/teams/net_excelsior.png",
+    "away": "ناك بريدا",
+    "awayLogo": "https://jdwel.com/image/teams/net_nac_breda.png",
+    "score": "1 - 0",
+    "time": "5:30 م"
+  },
+  {
+    "home": "فورتونا سيتارد",
+    "homeLogo": "https://jdwel.com/image/teams/5534.png",
+    "away": "هيراكليس",
+    "awayLogo": "https://jdwel.com/image/teams/net_heracles.png",
+    "score": "1 - 1",
+    "time": "7:45 م"
+  },
+  {
+    "home": "إن إي سي نيميخن",
+    "homeLogo": "https://jdwel.com/image/teams/1664.png",
+    "away": "سبارتا روتردام",
+    "awayLogo": "https://jdwel.com/image/teams/1305.png",
+    "score": "3 - 1",
+    "time": "10:00 م"
+  },
+  {
+    "home": "آيندهوفن",
+    "homeLogo": "https://jdwel.com/image/teams/1307.png",
+    "away": "فولندام",
+    "awayLogo": "https://jdwel.com/image/teams/1668.png",
+    "score": "3 - 0",
+    "time": "1:15 م"
+  },
+  {
+    "home": "غو أهد إيغلز",
+    "homeLogo": "https://jdwel.com/image/teams/net_go_ahead_eagles.png",
+    "away": "أوترخت",
+    "awayLogo": "https://jdwel.com/image/teams/1306.png",
+    "score": "2 - 2",
+    "time": "3:30 م"
+  },
+  {
+    "home": "تلستار",
+    "homeLogo": "https://jdwel.com/image/teams/net_telstar.png",
+    "away": "فاينورد",
+    "awayLogo": "https://jdwel.com/image/teams/1406.png",
+    "score": "1 - 2",
+    "time": "3:30 م"
+  },
+  {
+    "home": "تفينتي",
+    "homeLogo": "https://jdwel.com/image/teams/1415.png",
+    "away": "إي زد ألكمار",
+    "awayLogo": "https://jdwel.com/image/teams/net_az.png",
+    "score": "1 - 0",
+    "time": "5:45 م"
+  },
+  {
+    "home": "أياكس أمستردام",
+    "homeLogo": "https://jdwel.com/image/teams/4269.png",
+    "away": "غرونينغن",
+    "awayLogo": "https://jdwel.com/image/teams/1295.png",
+    "score": "2 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "إكسلسيور",
+    "homeLogo": "https://jdwel.com/image/teams/net_excelsior.png",
+    "away": "غرونينغن",
+    "awayLogo": "https://jdwel.com/image/teams/1295.png",
+    "score": "0 - 2",
+    "time": "9:00 م"
+  },
+  {
+    "home": "هيرنفين",
+    "homeLogo": "https://jdwel.com/image/teams/1296.png",
+    "away": "آيندهوفن",
+    "awayLogo": "https://jdwel.com/image/teams/1307.png",
+    "score": "0 - 2",
+    "time": "5:30 م"
+  },
+  {
+    "home": "فورتونا سيتارد",
+    "homeLogo": "https://jdwel.com/image/teams/5534.png",
+    "away": "أياكس أمستردام",
+    "awayLogo": "https://jdwel.com/image/teams/4269.png",
+    "score": "1 - 3",
+    "time": "7:45 م"
+  },
+  {
+    "home": "هيراكليس",
+    "homeLogo": "https://jdwel.com/image/teams/net_heracles.png",
+    "away": "تلستار",
+    "awayLogo": "https://jdwel.com/image/teams/net_telstar.png",
+    "score": "1 - 1",
+    "time": "9:00 م"
+  },
+  {
+    "home": "فاينورد",
+    "homeLogo": "https://jdwel.com/image/teams/1406.png",
+    "away": "زفوله",
+    "awayLogo": "https://jdwel.com/image/teams/net_pec_zwolle.png",
+    "score": "6 - 1",
+    "time": "10:00 م"
+  },
+  {
+    "home": "أوترخت",
+    "homeLogo": "https://jdwel.com/image/teams/1306.png",
+    "away": "تفينتي",
+    "awayLogo": "https://jdwel.com/image/teams/1415.png",
+    "score": "1 - 1",
+    "time": "1:15 م"
+  },
+  {
+    "home": "إي زد ألكمار",
+    "homeLogo": "https://jdwel.com/image/teams/net_az.png",
+    "away": "غو أهد إيغلز",
+    "awayLogo": "https://jdwel.com/image/teams/net_go_ahead_eagles.png",
+    "score": "2 - 2",
+    "time": "3:30 م"
+  },
+  {
+    "home": "فولندام",
+    "homeLogo": "https://jdwel.com/image/teams/1668.png",
+    "away": "إن إي سي نيميخن",
+    "awayLogo": "https://jdwel.com/image/teams/1664.png",
+    "score": "2 - 3",
+    "time": "3:30 م"
+  },
+  {
+    "home": "سبارتا روتردام",
+    "homeLogo": "https://jdwel.com/image/teams/1305.png",
+    "away": "ناك بريدا",
+    "awayLogo": "https://jdwel.com/image/teams/net_nac_breda.png",
+    "score": "1 - 0",
+    "time": "5:45 م"
+  },
+  {
+    "home": "تلستار",
+    "homeLogo": "https://jdwel.com/image/teams/net_telstar.png",
+    "away": "إن إي سي نيميخن",
+    "awayLogo": "https://jdwel.com/image/teams/1664.png",
+    "score": "2 - 2",
+    "time": "5:30 م"
+  },
+  {
+    "home": "غرونينغن",
+    "homeLogo": "https://jdwel.com/image/teams/1295.png",
+    "away": "فولندام",
+    "awayLogo": "https://jdwel.com/image/teams/1668.png",
+    "score": "3 - 0",
+    "time": "7:45 م"
+  },
+  {
+    "home": "آيندهوفن",
+    "homeLogo": "https://jdwel.com/image/teams/1307.png",
+    "away": "هيراكليس",
+    "awayLogo": "https://jdwel.com/image/teams/net_heracles.png",
+    "score": "4 - 3",
+    "time": "9:00 م"
+  },
+  {
+    "home": "زفوله",
+    "homeLogo": "https://jdwel.com/image/teams/net_pec_zwolle.png",
+    "away": "فورتونا سيتارد",
+    "awayLogo": "https://jdwel.com/image/teams/5534.png",
+    "score": "1 - 0",
+    "time": "10:00 م"
+  },
+  {
+    "home": "سبارتا روتردام",
+    "homeLogo": "https://jdwel.com/image/teams/1305.png",
+    "away": "هيرنفين",
+    "awayLogo": "https://jdwel.com/image/teams/1296.png",
+    "score": "0 - 3",
+    "time": "1:15 م"
+  },
+  {
+    "home": "أياكس أمستردام",
+    "homeLogo": "https://jdwel.com/image/teams/4269.png",
+    "away": "فاينورد",
+    "awayLogo": "https://jdwel.com/image/teams/1406.png",
+    "score": "2 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "تفينتي",
+    "homeLogo": "https://jdwel.com/image/teams/1415.png",
+    "away": "غو أهد إيغلز",
+    "awayLogo": "https://jdwel.com/image/teams/net_go_ahead_eagles.png",
+    "score": "2 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "ناك بريدا",
+    "homeLogo": "https://jdwel.com/image/teams/net_nac_breda.png",
+    "away": "أوترخت",
+    "awayLogo": "https://jdwel.com/image/teams/1306.png",
+    "score": "1 - 1",
+    "time": "5:45 م"
+  },
+  {
+    "home": "هيراكليس",
+    "homeLogo": "https://jdwel.com/image/teams/net_heracles.png",
+    "away": "هيرنفين",
+    "awayLogo": "https://jdwel.com/image/teams/1296.png",
+    "score": "0 - 3",
+    "time": "5:30 م"
+  },
+  {
+    "home": "إكسلسيور",
+    "homeLogo": "https://jdwel.com/image/teams/net_excelsior.png",
+    "away": "زفوله",
+    "awayLogo": "https://jdwel.com/image/teams/net_pec_zwolle.png",
+    "score": "2 - 1",
+    "time": "7:45 م"
+  },
+  {
+    "home": "إن إي سي نيميخن",
+    "homeLogo": "https://jdwel.com/image/teams/1664.png",
+    "away": "أياكس أمستردام",
+    "awayLogo": "https://jdwel.com/image/teams/4269.png",
+    "score": "2 - 2",
+    "time": "9:00 م"
+  },
+  {
+    "home": "ناك بريدا",
+    "homeLogo": "https://jdwel.com/image/teams/net_nac_breda.png",
+    "away": "تلستار",
+    "awayLogo": "https://jdwel.com/image/teams/net_telstar.png",
+    "score": "0 - 1",
+    "time": "10:00 م"
+  },
+  {
+    "home": "أوترخت",
+    "homeLogo": "https://jdwel.com/image/teams/1306.png",
+    "away": "آيندهوفن",
+    "awayLogo": "https://jdwel.com/image/teams/1307.png",
+    "score": "1 - 2",
+    "time": "1:15 م"
+  },
+  {
+    "home": "فاينورد",
+    "homeLogo": "https://jdwel.com/image/teams/1406.png",
+    "away": "تفينتي",
+    "awayLogo": "https://jdwel.com/image/teams/1415.png",
+    "score": "1 - 1",
+    "time": "3:30 م"
+  },
+  {
+    "home": "غو أهد إيغلز",
+    "homeLogo": "https://jdwel.com/image/teams/net_go_ahead_eagles.png",
+    "away": "غرونينغن",
+    "awayLogo": "https://jdwel.com/image/teams/1295.png",
+    "score": "1 - 1",
+    "time": "3:30 م"
+  },
+  {
+    "home": "فولندام",
+    "homeLogo": "https://jdwel.com/image/teams/1668.png",
+    "away": "سبارتا روتردام",
+    "awayLogo": "https://jdwel.com/image/teams/1305.png",
+    "score": "0 - 1",
+    "time": "5:45 م"
+  },
+  {
+    "home": "فورتونا سيتارد",
+    "homeLogo": "https://jdwel.com/image/teams/5534.png",
+    "away": "إي زد ألكمار",
+    "awayLogo": "https://jdwel.com/image/teams/net_az.png",
+    "score": "4 - 3",
+    "time": "5:45 م"
+  },
+  {
+    "home": "إي زد ألكمار",
+    "homeLogo": "https://jdwel.com/image/teams/net_az.png",
+    "away": "فولندام",
+    "awayLogo": "https://jdwel.com/image/teams/1668.png",
+    "score": "1 - 0",
+    "time": "5:30 م"
+  },
+  {
+    "home": "تفينتي",
+    "homeLogo": "https://jdwel.com/image/teams/1415.png",
+    "away": "زفوله",
+    "awayLogo": "https://jdwel.com/image/teams/net_pec_zwolle.png",
+    "score": "1 - 1",
+    "time": "7:45 م"
+  },
+  {
+    "home": "آيندهوفن",
+    "homeLogo": "https://jdwel.com/image/teams/1307.png",
+    "away": "إكسلسيور",
+    "awayLogo": "https://jdwel.com/image/teams/net_excelsior.png",
+    "score": "5 - 1",
+    "time": "9:00 م"
+  },
+  {
+    "home": "غرونينغن",
+    "homeLogo": "https://jdwel.com/image/teams/1295.png",
+    "away": "ناك بريدا",
+    "awayLogo": "https://jdwel.com/image/teams/net_nac_breda.png",
+    "score": "0 - 0",
+    "time": "10:00 م"
+  },
+  {
+    "home": "هيرنفين",
+    "homeLogo": "https://jdwel.com/image/teams/1296.png",
+    "away": "فاينورد",
+    "awayLogo": "https://jdwel.com/image/teams/1406.png",
+    "score": "2 - 2",
+    "time": "1:15 م"
+  },
+  {
+    "home": "غو أهد إيغلز",
+    "homeLogo": "https://jdwel.com/image/teams/net_go_ahead_eagles.png",
+    "away": "فورتونا سيتارد",
+    "awayLogo": "https://jdwel.com/image/teams/5534.png",
+    "score": "2 - 2",
+    "time": "3:30 م"
+  },
+  {
+    "home": "تلستار",
+    "homeLogo": "https://jdwel.com/image/teams/net_telstar.png",
+    "away": "أياكس أمستردام",
+    "awayLogo": "https://jdwel.com/image/teams/4269.png",
+    "score": "2 - 3",
+    "time": "3:30 م"
+  },
+  {
+    "home": "سبارتا روتردام",
+    "homeLogo": "https://jdwel.com/image/teams/1305.png",
+    "away": "هيراكليس",
+    "awayLogo": "https://jdwel.com/image/teams/net_heracles.png",
+    "score": "2 - 0",
+    "time": "5:45 م"
+  },
+  {
+    "home": "أياكس أمستردام",
+    "homeLogo": "https://jdwel.com/image/teams/4269.png",
+    "away": "غو أهد إيغلز",
+    "awayLogo": "https://jdwel.com/image/teams/net_go_ahead_eagles.png",
+    "score": "2 - 2",
+    "time": "5:30 م"
+  },
+  {
+    "home": "زفوله",
+    "homeLogo": "https://jdwel.com/image/teams/net_pec_zwolle.png",
+    "away": "إي زد ألكمار",
+    "awayLogo": "https://jdwel.com/image/teams/net_az.png",
+    "score": "3 - 1",
+    "time": "7:45 م"
+  },
+  {
+    "home": "إكسلسيور",
+    "homeLogo": "https://jdwel.com/image/teams/net_excelsior.png",
+    "away": "تلستار",
+    "awayLogo": "https://jdwel.com/image/teams/net_telstar.png",
+    "score": "2 - 2",
+    "time": "9:00 م"
+  },
+  {
+    "home": "فورتونا سيتارد",
+    "homeLogo": "https://jdwel.com/image/teams/5534.png",
+    "away": "آيندهوفن",
+    "awayLogo": "https://jdwel.com/image/teams/1307.png",
+    "score": "1 - 2",
+    "time": "9:00 م"
+  },
+  {
+    "home": "ناك بريدا",
+    "homeLogo": "https://jdwel.com/image/teams/net_nac_breda.png",
+    "away": "إن إي سي نيميخن",
+    "awayLogo": "https://jdwel.com/image/teams/1664.png",
+    "score": "3 - 4",
+    "time": "10:00 م"
+  },
+  {
+    "home": "هيرنفين",
+    "homeLogo": "https://jdwel.com/image/teams/1296.png",
+    "away": "غرونينغن",
+    "awayLogo": "https://jdwel.com/image/teams/1295.png",
+    "score": "0 - 2",
+    "time": "1:15 م"
+  },
+  {
+    "home": "فولندام",
+    "homeLogo": "https://jdwel.com/image/teams/1668.png",
+    "away": "أوترخت",
+    "awayLogo": "https://jdwel.com/image/teams/1306.png",
+    "score": "2 - 1",
+    "time": "3:30 م"
+  },
+  {
+    "home": "هيراكليس",
+    "homeLogo": "https://jdwel.com/image/teams/net_heracles.png",
+    "away": "تفينتي",
+    "awayLogo": "https://jdwel.com/image/teams/1415.png",
+    "score": "0 - 2",
+    "time": "3:30 م"
+  },
+  {
+    "home": "فاينورد",
+    "homeLogo": "https://jdwel.com/image/teams/1406.png",
+    "away": "سبارتا روتردام",
+    "awayLogo": "https://jdwel.com/image/teams/1305.png",
+    "score": "3 - 4",
+    "time": "5:45 م"
+  },
+  {
+    "home": "إي زد ألكمار",
+    "homeLogo": "https://jdwel.com/image/teams/net_az.png",
+    "away": "إكسلسيور",
+    "awayLogo": "https://jdwel.com/image/teams/net_excelsior.png",
+    "score": "1 - 1",
+    "time": "7:45 م"
+  },
+  {
+    "home": "أياكس أمستردام",
+    "homeLogo": "https://jdwel.com/image/teams/4269.png",
+    "away": "فولندام",
+    "awayLogo": "https://jdwel.com/image/teams/1668.png",
+    "score": "2 - 0",
+    "time": "5:30 م"
+  },
+  {
+    "home": "إن إي سي نيميخن",
+    "homeLogo": "https://jdwel.com/image/teams/1664.png",
+    "away": "زفوله",
+    "awayLogo": "https://jdwel.com/image/teams/net_pec_zwolle.png",
+    "score": "2 - 1",
+    "time": "7:45 م"
+  },
+  {
+    "home": "آيندهوفن",
+    "homeLogo": "https://jdwel.com/image/teams/1307.png",
+    "away": "ناك بريدا",
+    "awayLogo": "https://jdwel.com/image/teams/net_nac_breda.png",
+    "score": "2 - 2",
+    "time": "9:00 م"
+  },
+  {
+    "home": "تفينتي",
+    "homeLogo": "https://jdwel.com/image/teams/1415.png",
+    "away": "إكسلسيور",
+    "awayLogo": "https://jdwel.com/image/teams/net_excelsior.png",
+    "score": "0 - 0",
+    "time": "10:00 م"
+  },
+  {
+    "home": "تلستار",
+    "homeLogo": "https://jdwel.com/image/teams/net_telstar.png",
+    "away": "إي زد ألكمار",
+    "awayLogo": "https://jdwel.com/image/teams/net_az.png",
+    "score": "0 - 1",
+    "time": "1:15 م"
+  },
+  {
+    "home": "غرونينغن",
+    "homeLogo": "https://jdwel.com/image/teams/1295.png",
+    "away": "فورتونا سيتارد",
+    "awayLogo": "https://jdwel.com/image/teams/5534.png",
+    "score": "1 - 2",
+    "time": "3:30 م"
+  },
+  {
+    "home": "أوترخت",
+    "homeLogo": "https://jdwel.com/image/teams/1306.png",
+    "away": "سبارتا روتردام",
+    "awayLogo": "https://jdwel.com/image/teams/1305.png",
+    "score": "0 - 1",
+    "time": "5:45 م"
+  },
+  {
+    "home": "فاينورد",
+    "homeLogo": "https://jdwel.com/image/teams/1406.png",
+    "away": "هيراكليس",
+    "awayLogo": "https://jdwel.com/image/teams/net_heracles.png",
+    "score": "4 - 2",
+    "time": "5:45 م"
+  },
+  {
+    "home": "ناك بريدا",
+    "homeLogo": "https://jdwel.com/image/teams/net_nac_breda.png",
+    "away": "تفينتي",
+    "awayLogo": "https://jdwel.com/image/teams/1415.png",
+    "score": "2 - 2",
+    "time": "9:00 م"
+  },
+  {
+    "home": "إي زد ألكمار",
+    "homeLogo": "https://jdwel.com/image/teams/net_az.png",
+    "away": "إن إي سي نيميخن",
+    "awayLogo": "https://jdwel.com/image/teams/1664.png",
+    "score": "1 - 3",
+    "time": "5:30 م"
+  },
+  {
+    "home": "زفوله",
+    "homeLogo": "https://jdwel.com/image/teams/net_pec_zwolle.png",
+    "away": "تلستار",
+    "awayLogo": "https://jdwel.com/image/teams/net_telstar.png",
+    "score": "4 - 1",
+    "time": "7:45 م"
+  },
+  {
+    "home": "سبارتا روتردام",
+    "homeLogo": "https://jdwel.com/image/teams/1305.png",
+    "away": "غرونينغن",
+    "awayLogo": "https://jdwel.com/image/teams/1295.png",
+    "score": "2 - 0",
+    "time": "10:00 م"
+  },
+  {
+    "home": "إكسلسيور",
+    "homeLogo": "https://jdwel.com/image/teams/net_excelsior.png",
+    "away": "أياكس أمستردام",
+    "awayLogo": "https://jdwel.com/image/teams/4269.png",
+    "score": "2 - 2",
+    "time": "1:15 م"
+  },
+  {
+    "home": "هيراكليس",
+    "homeLogo": "https://jdwel.com/image/teams/net_heracles.png",
+    "away": "فورتونا سيتارد",
+    "awayLogo": "https://jdwel.com/image/teams/5534.png",
+    "score": "2 - 1",
+    "time": "3:30 م"
+  },
+  {
+    "home": "آيندهوفن",
+    "homeLogo": "https://jdwel.com/image/teams/1307.png",
+    "away": "فاينورد",
+    "awayLogo": "https://jdwel.com/image/teams/1406.png",
+    "score": "3 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "هيرنفين",
+    "homeLogo": "https://jdwel.com/image/teams/1296.png",
+    "away": "أوترخت",
+    "awayLogo": "https://jdwel.com/image/teams/1306.png",
+    "score": "1 - 1",
+    "time": "5:45 م"
+  },
+  {
+    "home": "فولندام",
+    "homeLogo": "https://jdwel.com/image/teams/1668.png",
+    "away": "غو أهد إيغلز",
+    "awayLogo": "https://jdwel.com/image/teams/net_go_ahead_eagles.png",
+    "score": "1 - 1",
+    "time": "9:00 م"
+  },
+  {
+    "home": "ناك بريدا",
+    "homeLogo": "https://jdwel.com/image/teams/net_nac_breda.png",
+    "away": "إكسلسيور",
+    "awayLogo": "https://jdwel.com/image/teams/net_excelsior.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "إن إي سي نيميخن",
+    "homeLogo": "https://jdwel.com/image/teams/1664.png",
+    "away": "هيراكليس",
+    "awayLogo": "https://jdwel.com/image/teams/net_heracles.png",
+    "score": "0 - 0",
+    "time": "5:30 م"
+  },
+  {
+    "home": "زفوله",
+    "homeLogo": "https://jdwel.com/image/teams/net_pec_zwolle.png",
+    "away": "فولندام",
+    "awayLogo": "https://jdwel.com/image/teams/1668.png",
+    "score": "0 - 0",
+    "time": "7:45 م"
+  },
+  {
+    "home": "تفينتي",
+    "homeLogo": "https://jdwel.com/image/teams/1415.png",
+    "away": "هيرنفين",
+    "awayLogo": "https://jdwel.com/image/teams/1296.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "فورتونا سيتارد",
+    "homeLogo": "https://jdwel.com/image/teams/5534.png",
+    "away": "سبارتا روتردام",
+    "awayLogo": "https://jdwel.com/image/teams/1305.png",
+    "score": "0 - 0",
+    "time": "10:00 م"
+  },
+  {
+    "home": "أوترخت",
+    "homeLogo": "https://jdwel.com/image/teams/1306.png",
+    "away": "فاينورد",
+    "awayLogo": "https://jdwel.com/image/teams/1406.png",
+    "score": "0 - 0",
+    "time": "1:15 م"
+  },
+  {
+    "home": "إي زد ألكمار",
+    "homeLogo": "https://jdwel.com/image/teams/net_az.png",
+    "away": "أياكس أمستردام",
+    "awayLogo": "https://jdwel.com/image/teams/4269.png",
+    "score": "0 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "غو أهد إيغلز",
+    "homeLogo": "https://jdwel.com/image/teams/net_go_ahead_eagles.png",
+    "away": "تلستار",
+    "awayLogo": "https://jdwel.com/image/teams/net_telstar.png",
+    "score": "0 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "غرونينغن",
+    "homeLogo": "https://jdwel.com/image/teams/1295.png",
+    "away": "آيندهوفن",
+    "awayLogo": "https://jdwel.com/image/teams/1307.png",
+    "score": "0 - 0",
+    "time": "5:45 م"
+  },
+  {
+    "home": "غو أهد إيغلز",
+    "homeLogo": "https://jdwel.com/image/teams/net_go_ahead_eagles.png",
+    "away": "هيرنفين",
+    "awayLogo": "https://jdwel.com/image/teams/1296.png",
+    "score": "0 - 0",
+    "time": "7:45 م"
+  },
+  {
+    "home": "إن إي سي نيميخن",
+    "homeLogo": "https://jdwel.com/image/teams/1664.png",
+    "away": "أوترخت",
+    "awayLogo": "https://jdwel.com/image/teams/1306.png",
+    "score": "0 - 0",
+    "time": "10:00 م"
+  },
+  {
+    "home": "فولندام",
+    "homeLogo": "https://jdwel.com/image/teams/1668.png",
+    "away": "آيندهوفن",
+    "awayLogo": "https://jdwel.com/image/teams/1307.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "هيراكليس",
+    "homeLogo": "https://jdwel.com/image/teams/net_heracles.png",
+    "away": "ناك بريدا",
+    "awayLogo": "https://jdwel.com/image/teams/net_nac_breda.png",
+    "score": "0 - 0",
+    "time": "5:30 م"
+  },
+  {
+    "home": "إكسلسيور",
+    "homeLogo": "https://jdwel.com/image/teams/net_excelsior.png",
+    "away": "إي زد ألكمار",
+    "awayLogo": "https://jdwel.com/image/teams/net_az.png",
+    "score": "0 - 0",
+    "time": "7:45 م"
+  },
+  {
+    "home": "أياكس أمستردام",
+    "homeLogo": "https://jdwel.com/image/teams/4269.png",
+    "away": "فورتونا سيتارد",
+    "awayLogo": "https://jdwel.com/image/teams/5534.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "غرونينغن",
+    "homeLogo": "https://jdwel.com/image/teams/1295.png",
+    "away": "أوترخت",
+    "awayLogo": "https://jdwel.com/image/teams/1306.png",
+    "score": "0 - 0",
+    "time": "10:00 م"
+  },
+  {
+    "home": "فاينورد",
+    "homeLogo": "https://jdwel.com/image/teams/1406.png",
+    "away": "غو أهد إيغلز",
+    "awayLogo": "https://jdwel.com/image/teams/net_go_ahead_eagles.png",
+    "score": "0 - 0",
+    "time": "1:15 م"
+  },
+  {
+    "home": "هيرنفين",
+    "homeLogo": "https://jdwel.com/image/teams/1296.png",
+    "away": "زفوله",
+    "awayLogo": "https://jdwel.com/image/teams/net_pec_zwolle.png",
+    "score": "0 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "تلستار",
+    "homeLogo": "https://jdwel.com/image/teams/net_telstar.png",
+    "away": "تفينتي",
+    "awayLogo": "https://jdwel.com/image/teams/1415.png",
+    "score": "0 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "سبارتا روتردام",
+    "homeLogo": "https://jdwel.com/image/teams/1305.png",
+    "away": "إن إي سي نيميخن",
+    "awayLogo": "https://jdwel.com/image/teams/1664.png",
+    "score": "0 - 0",
+    "time": "5:45 م"
+  },
+  {
+    "home": "فورتونا سيتارد",
+    "homeLogo": "https://jdwel.com/image/teams/5534.png",
+    "away": "إكسلسيور",
+    "awayLogo": "https://jdwel.com/image/teams/net_excelsior.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "آيندهوفن",
+    "homeLogo": "https://jdwel.com/image/teams/1307.png",
+    "away": "هيرنفين",
+    "awayLogo": "https://jdwel.com/image/teams/1296.png",
+    "score": "0 - 0",
+    "time": "7:45 م"
+  },
+  {
+    "home": "ناك بريدا",
+    "homeLogo": "https://jdwel.com/image/teams/net_nac_breda.png",
+    "away": "فولندام",
+    "awayLogo": "https://jdwel.com/image/teams/1668.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "أياكس أمستردام",
+    "homeLogo": "https://jdwel.com/image/teams/4269.png",
+    "away": "إن إي سي نيميخن",
+    "awayLogo": "https://jdwel.com/image/teams/1664.png",
+    "score": "0 - 0",
+    "time": "10:00 م"
+  },
+  {
+    "home": "تفينتي",
+    "homeLogo": "https://jdwel.com/image/teams/1415.png",
+    "away": "غرونينغن",
+    "awayLogo": "https://jdwel.com/image/teams/1295.png",
+    "score": "0 - 0",
+    "time": "1:15 م"
+  },
+  {
+    "home": "أوترخت",
+    "homeLogo": "https://jdwel.com/image/teams/1306.png",
+    "away": "زفوله",
+    "awayLogo": "https://jdwel.com/image/teams/net_pec_zwolle.png",
+    "score": "0 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "غو أهد إيغلز",
+    "homeLogo": "https://jdwel.com/image/teams/net_go_ahead_eagles.png",
+    "away": "هيراكليس",
+    "awayLogo": "https://jdwel.com/image/teams/net_heracles.png",
+    "score": "0 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "إي زد ألكمار",
+    "homeLogo": "https://jdwel.com/image/teams/net_az.png",
+    "away": "سبارتا روتردام",
+    "awayLogo": "https://jdwel.com/image/teams/1305.png",
+    "score": "0 - 0",
+    "time": "5:45 م"
+  },
+  {
+    "home": "فاينورد",
+    "homeLogo": "https://jdwel.com/image/teams/1406.png",
+    "away": "تلستار",
+    "awayLogo": "https://jdwel.com/image/teams/net_telstar.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "تلستار",
+    "homeLogo": "https://jdwel.com/image/teams/net_telstar.png",
+    "away": "ناك بريدا",
+    "awayLogo": "https://jdwel.com/image/teams/net_nac_breda.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "هيرنفين",
+    "homeLogo": "https://jdwel.com/image/teams/1296.png",
+    "away": "سبارتا روتردام",
+    "awayLogo": "https://jdwel.com/image/teams/1305.png",
+    "score": "0 - 0",
+    "time": "5:30 م"
+  },
+  {
+    "home": "هيراكليس",
+    "homeLogo": "https://jdwel.com/image/teams/net_heracles.png",
+    "away": "آيندهوفن",
+    "awayLogo": "https://jdwel.com/image/teams/1307.png",
+    "score": "0 - 0",
+    "time": "7:45 م"
+  },
+  {
+    "home": "إن إي سي نيميخن",
+    "homeLogo": "https://jdwel.com/image/teams/1664.png",
+    "away": "فورتونا سيتارد",
+    "awayLogo": "https://jdwel.com/image/teams/5534.png",
+    "score": "0 - 0",
+    "time": "10:00 م"
+  },
+  {
+    "home": "زفوله",
+    "homeLogo": "https://jdwel.com/image/teams/net_pec_zwolle.png",
+    "away": "أياكس أمستردام",
+    "awayLogo": "https://jdwel.com/image/teams/4269.png",
+    "score": "0 - 0",
+    "time": "1:15 م"
+  },
+  {
+    "home": "تفينتي",
+    "homeLogo": "https://jdwel.com/image/teams/1415.png",
+    "away": "فاينورد",
+    "awayLogo": "https://jdwel.com/image/teams/1406.png",
+    "score": "0 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "فولندام",
+    "homeLogo": "https://jdwel.com/image/teams/1668.png",
+    "away": "غرونينغن",
+    "awayLogo": "https://jdwel.com/image/teams/1295.png",
+    "score": "0 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "أوترخت",
+    "homeLogo": "https://jdwel.com/image/teams/1306.png",
+    "away": "إي زد ألكمار",
+    "awayLogo": "https://jdwel.com/image/teams/net_az.png",
+    "score": "0 - 0",
+    "time": "5:45 م"
+  },
+  {
+    "home": "إكسلسيور",
+    "homeLogo": "https://jdwel.com/image/teams/net_excelsior.png",
+    "away": "غو أهد إيغلز",
+    "awayLogo": "https://jdwel.com/image/teams/net_go_ahead_eagles.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "إن إي سي نيميخن",
+    "homeLogo": "https://jdwel.com/image/teams/1664.png",
+    "away": "فولندام",
+    "awayLogo": "https://jdwel.com/image/teams/1668.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "غرونينغن",
+    "homeLogo": "https://jdwel.com/image/teams/1295.png",
+    "away": "أياكس أمستردام",
+    "awayLogo": "https://jdwel.com/image/teams/4269.png",
+    "score": "0 - 0",
+    "time": "5:30 م"
+  },
+  {
+    "home": "هيراكليس",
+    "homeLogo": "https://jdwel.com/image/teams/net_heracles.png",
+    "away": "أوترخت",
+    "awayLogo": "https://jdwel.com/image/teams/1306.png",
+    "score": "0 - 0",
+    "time": "7:45 م"
+  },
+  {
+    "home": "آيندهوفن",
+    "homeLogo": "https://jdwel.com/image/teams/1307.png",
+    "away": "إي زد ألكمار",
+    "awayLogo": "https://jdwel.com/image/teams/net_az.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "إكسلسيور",
+    "homeLogo": "https://jdwel.com/image/teams/net_excelsior.png",
+    "away": "هيرنفين",
+    "awayLogo": "https://jdwel.com/image/teams/1296.png",
+    "score": "0 - 0",
+    "time": "10:00 م"
+  },
+  {
+    "home": "سبارتا روتردام",
+    "homeLogo": "https://jdwel.com/image/teams/1305.png",
+    "away": "زفوله",
+    "awayLogo": "https://jdwel.com/image/teams/net_pec_zwolle.png",
+    "score": "0 - 0",
+    "time": "1:15 م"
+  },
+  {
+    "home": "فورتونا سيتارد",
+    "homeLogo": "https://jdwel.com/image/teams/5534.png",
+    "away": "تلستار",
+    "awayLogo": "https://jdwel.com/image/teams/net_telstar.png",
+    "score": "0 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "غو أهد إيغلز",
+    "homeLogo": "https://jdwel.com/image/teams/net_go_ahead_eagles.png",
+    "away": "تفينتي",
+    "awayLogo": "https://jdwel.com/image/teams/1415.png",
+    "score": "0 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "ناك بريدا",
+    "homeLogo": "https://jdwel.com/image/teams/net_nac_breda.png",
+    "away": "فاينورد",
+    "awayLogo": "https://jdwel.com/image/teams/1406.png",
+    "score": "0 - 0",
+    "time": "5:45 م"
+  },
+  {
+    "home": "زفوله",
+    "homeLogo": "https://jdwel.com/image/teams/net_pec_zwolle.png",
+    "away": "غرونينغن",
+    "awayLogo": "https://jdwel.com/image/teams/1295.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "فولندام",
+    "homeLogo": "https://jdwel.com/image/teams/1668.png",
+    "away": "فورتونا سيتارد",
+    "awayLogo": "https://jdwel.com/image/teams/5534.png",
+    "score": "0 - 0",
+    "time": "5:30 م"
+  },
+  {
+    "home": "آيندهوفن",
+    "homeLogo": "https://jdwel.com/image/teams/1307.png",
+    "away": "إن إي سي نيميخن",
+    "awayLogo": "https://jdwel.com/image/teams/1664.png",
+    "score": "0 - 0",
+    "time": "7:45 م"
+  },
+  {
+    "home": "هيرنفين",
+    "homeLogo": "https://jdwel.com/image/teams/1296.png",
+    "away": "تلستار",
+    "awayLogo": "https://jdwel.com/image/teams/net_telstar.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "أياكس أمستردام",
+    "homeLogo": "https://jdwel.com/image/teams/4269.png",
+    "away": "سبارتا روتردام",
+    "awayLogo": "https://jdwel.com/image/teams/1305.png",
+    "score": "0 - 0",
+    "time": "10:00 م"
+  },
+  {
+    "home": "تفينتي",
+    "homeLogo": "https://jdwel.com/image/teams/1415.png",
+    "away": "أوترخت",
+    "awayLogo": "https://jdwel.com/image/teams/1306.png",
+    "score": "0 - 0",
+    "time": "1:15 م"
+  },
+  {
+    "home": "إي زد ألكمار",
+    "homeLogo": "https://jdwel.com/image/teams/net_az.png",
+    "away": "هيراكليس",
+    "awayLogo": "https://jdwel.com/image/teams/net_heracles.png",
+    "score": "0 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "فاينورد",
+    "homeLogo": "https://jdwel.com/image/teams/1406.png",
+    "away": "إكسلسيور",
+    "awayLogo": "https://jdwel.com/image/teams/net_excelsior.png",
+    "score": "0 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "غو أهد إيغلز",
+    "homeLogo": "https://jdwel.com/image/teams/net_go_ahead_eagles.png",
+    "away": "ناك بريدا",
+    "awayLogo": "https://jdwel.com/image/teams/net_nac_breda.png",
+    "score": "0 - 0",
+    "time": "5:45 م"
+  },
+  {
+    "home": "هيراكليس",
+    "homeLogo": "https://jdwel.com/image/teams/net_heracles.png",
+    "away": "إكسلسيور",
+    "awayLogo": "https://jdwel.com/image/teams/net_excelsior.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "فورتونا سيتارد",
+    "homeLogo": "https://jdwel.com/image/teams/5534.png",
+    "away": "تفينتي",
+    "awayLogo": "https://jdwel.com/image/teams/1415.png",
+    "score": "0 - 0",
+    "time": "5:30 م"
+  },
+  {
+    "home": "سبارتا روتردام",
+    "homeLogo": "https://jdwel.com/image/teams/1305.png",
+    "away": "فولندام",
+    "awayLogo": "https://jdwel.com/image/teams/1668.png",
+    "score": "0 - 0",
+    "time": "7:45 م"
+  },
+  {
+    "home": "زفوله",
+    "homeLogo": "https://jdwel.com/image/teams/net_pec_zwolle.png",
+    "away": "ناك بريدا",
+    "awayLogo": "https://jdwel.com/image/teams/net_nac_breda.png",
+    "score": "0 - 0",
+    "time": "10:00 م"
+  },
+  {
+    "home": "إن إي سي نيميخن",
+    "homeLogo": "https://jdwel.com/image/teams/1664.png",
+    "away": "هيرنفين",
+    "awayLogo": "https://jdwel.com/image/teams/1296.png",
+    "score": "0 - 0",
+    "time": "1:15 م"
+  },
+  {
+    "home": "أوترخت",
+    "homeLogo": "https://jdwel.com/image/teams/1306.png",
+    "away": "غو أهد إيغلز",
+    "awayLogo": "https://jdwel.com/image/teams/net_go_ahead_eagles.png",
+    "score": "0 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "فاينورد",
+    "homeLogo": "https://jdwel.com/image/teams/1406.png",
+    "away": "أياكس أمستردام",
+    "awayLogo": "https://jdwel.com/image/teams/4269.png",
+    "score": "0 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "غرونينغن",
+    "homeLogo": "https://jdwel.com/image/teams/1295.png",
+    "away": "إي زد ألكمار",
+    "awayLogo": "https://jdwel.com/image/teams/net_az.png",
+    "score": "0 - 0",
+    "time": "5:45 م"
+  },
+  {
+    "home": "تلستار",
+    "homeLogo": "https://jdwel.com/image/teams/net_telstar.png",
+    "away": "آيندهوفن",
+    "awayLogo": "https://jdwel.com/image/teams/1307.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "آيندهوفن",
+    "homeLogo": "https://jdwel.com/image/teams/1307.png",
+    "away": "أوترخت",
+    "awayLogo": "https://jdwel.com/image/teams/1306.png",
+    "score": "0 - 0",
+    "time": "4:30 م"
+  },
+  {
+    "home": "إي زد ألكمار",
+    "homeLogo": "https://jdwel.com/image/teams/net_az.png",
+    "away": "فورتونا سيتارد",
+    "awayLogo": "https://jdwel.com/image/teams/5534.png",
+    "score": "0 - 0",
+    "time": "6:45 م"
+  },
+  {
+    "home": "تلستار",
+    "homeLogo": "https://jdwel.com/image/teams/net_telstar.png",
+    "away": "غرونينغن",
+    "awayLogo": "https://jdwel.com/image/teams/1295.png",
+    "score": "0 - 0",
+    "time": "6:45 م"
+  },
+  {
+    "home": "أياكس أمستردام",
+    "homeLogo": "https://jdwel.com/image/teams/4269.png",
+    "away": "تفينتي",
+    "awayLogo": "https://jdwel.com/image/teams/1415.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "إكسلسيور",
+    "homeLogo": "https://jdwel.com/image/teams/net_excelsior.png",
+    "away": "إن إي سي نيميخن",
+    "awayLogo": "https://jdwel.com/image/teams/1664.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "غو أهد إيغلز",
+    "homeLogo": "https://jdwel.com/image/teams/net_go_ahead_eagles.png",
+    "away": "زفوله",
+    "awayLogo": "https://jdwel.com/image/teams/net_pec_zwolle.png",
+    "score": "0 - 0",
+    "time": "12:15 م"
+  },
+  {
+    "home": "فولندام",
+    "homeLogo": "https://jdwel.com/image/teams/1668.png",
+    "away": "فاينورد",
+    "awayLogo": "https://jdwel.com/image/teams/1406.png",
+    "score": "0 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "هيرنفين",
+    "homeLogo": "https://jdwel.com/image/teams/1296.png",
+    "away": "هيراكليس",
+    "awayLogo": "https://jdwel.com/image/teams/net_heracles.png",
+    "score": "0 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "ناك بريدا",
+    "homeLogo": "https://jdwel.com/image/teams/net_nac_breda.png",
+    "away": "سبارتا روتردام",
+    "awayLogo": "https://jdwel.com/image/teams/1305.png",
+    "score": "0 - 0",
+    "time": "4:45 م"
+  },
+  {
+    "home": "تفينتي",
+    "homeLogo": "https://jdwel.com/image/teams/1415.png",
+    "away": "فولندام",
+    "awayLogo": "https://jdwel.com/image/teams/1668.png",
+    "score": "0 - 0",
+    "time": "8:00 م"
+  },
+  {
+    "home": "أوترخت",
+    "homeLogo": "https://jdwel.com/image/teams/1306.png",
+    "away": "تلستار",
+    "awayLogo": "https://jdwel.com/image/teams/net_telstar.png",
+    "score": "0 - 0",
+    "time": "4:30 م"
+  },
+  {
+    "home": "سبارتا روتردام",
+    "homeLogo": "https://jdwel.com/image/teams/1305.png",
+    "away": "آيندهوفن",
+    "awayLogo": "https://jdwel.com/image/teams/1307.png",
+    "score": "0 - 0",
+    "time": "6:45 م"
+  },
+  {
+    "home": "غرونينغن",
+    "homeLogo": "https://jdwel.com/image/teams/1295.png",
+    "away": "غو أهد إيغلز",
+    "awayLogo": "https://jdwel.com/image/teams/net_go_ahead_eagles.png",
+    "score": "0 - 0",
+    "time": "8:00 م"
+  },
+  {
+    "home": "هيراكليس",
+    "homeLogo": "https://jdwel.com/image/teams/net_heracles.png",
+    "away": "أياكس أمستردام",
+    "awayLogo": "https://jdwel.com/image/teams/4269.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "فورتونا سيتارد",
+    "homeLogo": "https://jdwel.com/image/teams/5534.png",
+    "away": "ناك بريدا",
+    "awayLogo": "https://jdwel.com/image/teams/net_nac_breda.png",
+    "score": "0 - 0",
+    "time": "12:15 م"
+  },
+  {
+    "home": "إن إي سي نيميخن",
+    "homeLogo": "https://jdwel.com/image/teams/1664.png",
+    "away": "فاينورد",
+    "awayLogo": "https://jdwel.com/image/teams/1406.png",
+    "score": "0 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "زفوله",
+    "homeLogo": "https://jdwel.com/image/teams/net_pec_zwolle.png",
+    "away": "إكسلسيور",
+    "awayLogo": "https://jdwel.com/image/teams/net_excelsior.png",
+    "score": "0 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "إي زد ألكمار",
+    "homeLogo": "https://jdwel.com/image/teams/net_az.png",
+    "away": "هيرنفين",
+    "awayLogo": "https://jdwel.com/image/teams/1296.png",
+    "score": "0 - 0",
+    "time": "4:45 م"
+  },
+  {
+    "home": "تلستار",
+    "homeLogo": "https://jdwel.com/image/teams/net_telstar.png",
+    "away": "سبارتا روتردام",
+    "awayLogo": "https://jdwel.com/image/teams/1305.png",
+    "score": "0 - 0",
+    "time": "8:00 م"
+  },
+  {
+    "home": "غو أهد إيغلز",
+    "homeLogo": "https://jdwel.com/image/teams/net_go_ahead_eagles.png",
+    "away": "إي زد ألكمار",
+    "awayLogo": "https://jdwel.com/image/teams/net_az.png",
+    "score": "0 - 0",
+    "time": "6:45 م"
+  },
+  {
+    "home": "آيندهوفن",
+    "homeLogo": "https://jdwel.com/image/teams/1307.png",
+    "away": "زفوله",
+    "awayLogo": "https://jdwel.com/image/teams/net_pec_zwolle.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "فاينورد",
+    "homeLogo": "https://jdwel.com/image/teams/1406.png",
+    "away": "غرونينغن",
+    "awayLogo": "https://jdwel.com/image/teams/1295.png",
+    "score": "0 - 0",
+    "time": "5:30 م"
+  },
+  {
+    "home": "هيرنفين",
+    "homeLogo": "https://jdwel.com/image/teams/1296.png",
+    "away": "فورتونا سيتارد",
+    "awayLogo": "https://jdwel.com/image/teams/5534.png",
+    "score": "0 - 0",
+    "time": "7:45 م"
+  },
+  {
+    "home": "ناك بريدا",
+    "homeLogo": "https://jdwel.com/image/teams/net_nac_breda.png",
+    "away": "أياكس أمستردام",
+    "awayLogo": "https://jdwel.com/image/teams/4269.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "تفينتي",
+    "homeLogo": "https://jdwel.com/image/teams/1415.png",
+    "away": "إن إي سي نيميخن",
+    "awayLogo": "https://jdwel.com/image/teams/1664.png",
+    "score": "0 - 0",
+    "time": "10:00 م"
+  },
+  {
+    "home": "إكسلسيور",
+    "homeLogo": "https://jdwel.com/image/teams/net_excelsior.png",
+    "away": "أوترخت",
+    "awayLogo": "https://jdwel.com/image/teams/1306.png",
+    "score": "0 - 0",
+    "time": "1:15 م"
+  },
+  {
+    "home": "هيراكليس",
+    "homeLogo": "https://jdwel.com/image/teams/net_heracles.png",
+    "away": "فولندام",
+    "awayLogo": "https://jdwel.com/image/teams/1668.png",
+    "score": "0 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "أوترخت",
+    "homeLogo": "https://jdwel.com/image/teams/1306.png",
+    "away": "ناك بريدا",
+    "awayLogo": "https://jdwel.com/image/teams/net_nac_breda.png",
+    "score": "0 - 0",
+    "time": "5:30 م"
+  },
+  {
+    "home": "غرونينغن",
+    "homeLogo": "https://jdwel.com/image/teams/1295.png",
+    "away": "إكسلسيور",
+    "awayLogo": "https://jdwel.com/image/teams/net_excelsior.png",
+    "score": "0 - 0",
+    "time": "7:45 م"
+  },
+  {
+    "home": "أياكس أمستردام",
+    "homeLogo": "https://jdwel.com/image/teams/4269.png",
+    "away": "آيندهوفن",
+    "awayLogo": "https://jdwel.com/image/teams/1307.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "إن إي سي نيميخن",
+    "homeLogo": "https://jdwel.com/image/teams/1664.png",
+    "away": "تلستار",
+    "awayLogo": "https://jdwel.com/image/teams/net_telstar.png",
+    "score": "0 - 0",
+    "time": "10:00 م"
+  },
+  {
+    "home": "فولندام",
+    "homeLogo": "https://jdwel.com/image/teams/1668.png",
+    "away": "هيرنفين",
+    "awayLogo": "https://jdwel.com/image/teams/1296.png",
+    "score": "0 - 0",
+    "time": "1:15 م"
+  },
+  {
+    "home": "فورتونا سيتارد",
+    "homeLogo": "https://jdwel.com/image/teams/5534.png",
+    "away": "فاينورد",
+    "awayLogo": "https://jdwel.com/image/teams/1406.png",
+    "score": "0 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "زفوله",
+    "homeLogo": "https://jdwel.com/image/teams/net_pec_zwolle.png",
+    "away": "هيراكليس",
+    "awayLogo": "https://jdwel.com/image/teams/net_heracles.png",
+    "score": "0 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "إي زد ألكمار",
+    "homeLogo": "https://jdwel.com/image/teams/net_az.png",
+    "away": "تفينتي",
+    "awayLogo": "https://jdwel.com/image/teams/1415.png",
+    "score": "0 - 0",
+    "time": "5:45 م"
+  },
+  {
+    "home": "سبارتا روتردام",
+    "homeLogo": "https://jdwel.com/image/teams/1305.png",
+    "away": "غو أهد إيغلز",
+    "awayLogo": "https://jdwel.com/image/teams/net_go_ahead_eagles.png",
+    "score": "0 - 0",
+    "time": "5:45 م"
+  },
+  {
+    "home": "أياكس أمستردام",
+    "homeLogo": "https://jdwel.com/image/teams/4269.png",
+    "away": "أوترخت",
+    "awayLogo": "https://jdwel.com/image/teams/1306.png",
+    "score": "0 - 0",
+    "time": "5:45 م"
+  },
+  {
+    "home": "إكسلسيور",
+    "homeLogo": "https://jdwel.com/image/teams/net_excelsior.png",
+    "away": "فولندام",
+    "awayLogo": "https://jdwel.com/image/teams/1668.png",
+    "score": "0 - 0",
+    "time": "5:45 م"
+  },
+  {
+    "home": "غرونينغن",
+    "homeLogo": "https://jdwel.com/image/teams/1295.png",
+    "away": "إن إي سي نيميخن",
+    "awayLogo": "https://jdwel.com/image/teams/1664.png",
+    "score": "0 - 0",
+    "time": "5:45 م"
+  },
+  {
+    "home": "تفينتي",
+    "homeLogo": "https://jdwel.com/image/teams/1415.png",
+    "away": "سبارتا روتردام",
+    "awayLogo": "https://jdwel.com/image/teams/1305.png",
+    "score": "0 - 0",
+    "time": "5:45 م"
+  },
+  {
+    "home": "فاينورد",
+    "homeLogo": "https://jdwel.com/image/teams/1406.png",
+    "away": "إي زد ألكمار",
+    "awayLogo": "https://jdwel.com/image/teams/net_az.png",
+    "score": "0 - 0",
+    "time": "5:45 م"
+  },
+  {
+    "home": "فورتونا سيتارد",
+    "homeLogo": "https://jdwel.com/image/teams/5534.png",
+    "away": "زفوله",
+    "awayLogo": "https://jdwel.com/image/teams/net_pec_zwolle.png",
+    "score": "0 - 0",
+    "time": "5:45 م"
+  },
+  {
+    "home": "غو أهد إيغلز",
+    "homeLogo": "https://jdwel.com/image/teams/net_go_ahead_eagles.png",
+    "away": "آيندهوفن",
+    "awayLogo": "https://jdwel.com/image/teams/1307.png",
+    "score": "0 - 0",
+    "time": "5:45 م"
+  },
+  {
+    "home": "ناك بريدا",
+    "homeLogo": "https://jdwel.com/image/teams/net_nac_breda.png",
+    "away": "هيرنفين",
+    "awayLogo": "https://jdwel.com/image/teams/1296.png",
+    "score": "0 - 0",
+    "time": "5:45 م"
+  },
+  {
+    "home": "تلستار",
+    "homeLogo": "https://jdwel.com/image/teams/net_telstar.png",
+    "away": "هيراكليس",
+    "awayLogo": "https://jdwel.com/image/teams/net_heracles.png",
+    "score": "0 - 0",
+    "time": "5:45 م"
+  },
+  {
+    "home": "إي زد ألكمار",
+    "homeLogo": "https://jdwel.com/image/teams/net_az.png",
+    "away": "ناك بريدا",
+    "awayLogo": "https://jdwel.com/image/teams/net_nac_breda.png",
+    "score": "0 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "أوترخت",
+    "homeLogo": "https://jdwel.com/image/teams/1306.png",
+    "away": "فورتونا سيتارد",
+    "awayLogo": "https://jdwel.com/image/teams/5534.png",
+    "score": "0 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "فولندام",
+    "homeLogo": "https://jdwel.com/image/teams/1668.png",
+    "away": "تلستار",
+    "awayLogo": "https://jdwel.com/image/teams/net_telstar.png",
+    "score": "0 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "هيراكليس",
+    "homeLogo": "https://jdwel.com/image/teams/net_heracles.png",
+    "away": "غرونينغن",
+    "awayLogo": "https://jdwel.com/image/teams/1295.png",
+    "score": "0 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "إن إي سي نيميخن",
+    "homeLogo": "https://jdwel.com/image/teams/1664.png",
+    "away": "غو أهد إيغلز",
+    "awayLogo": "https://jdwel.com/image/teams/net_go_ahead_eagles.png",
+    "score": "0 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "زفوله",
+    "homeLogo": "https://jdwel.com/image/teams/net_pec_zwolle.png",
+    "away": "فاينورد",
+    "awayLogo": "https://jdwel.com/image/teams/1406.png",
+    "score": "0 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "آيندهوفن",
+    "homeLogo": "https://jdwel.com/image/teams/1307.png",
+    "away": "تفينتي",
+    "awayLogo": "https://jdwel.com/image/teams/1415.png",
+    "score": "0 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "هيرنفين",
+    "homeLogo": "https://jdwel.com/image/teams/1296.png",
+    "away": "أياكس أمستردام",
+    "awayLogo": "https://jdwel.com/image/teams/4269.png",
+    "score": "0 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "سبارتا روتردام",
+    "homeLogo": "https://jdwel.com/image/teams/1305.png",
+    "away": "إكسلسيور",
+    "awayLogo": "https://jdwel.com/image/teams/net_excelsior.png",
+    "score": "0 - 0",
+    "time": "3:30 م"
+  }
+]

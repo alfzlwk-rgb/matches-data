@@ -1,0 +1,418 @@
+[
+  {
+    "home": "القادسية",
+    "homeLogo": "https://jdwel.com/image/teams/kuw_al_qadsia.png",
+    "away": "السالمية",
+    "awayLogo": "https://jdwel.com/image/teams/kuw_al_salmiyah.png",
+    "score": "2 - 2",
+    "time": "8:30 م"
+  },
+  {
+    "home": "العربي",
+    "homeLogo": "https://jdwel.com/image/teams/2912.png",
+    "away": "السالمية",
+    "awayLogo": "https://jdwel.com/image/teams/kuw_al_salmiyah.png",
+    "score": "1 - 3",
+    "time": "8:30 م"
+  },
+  {
+    "home": "القادسية",
+    "homeLogo": "https://jdwel.com/image/teams/kuw_al_qadsia.png",
+    "away": "الساحل",
+    "awayLogo": "https://jdwel.com/image/teams/2914.png",
+    "score": "3 - 0",
+    "time": "8:30 م"
+  },
+  {
+    "home": "العربي",
+    "homeLogo": "https://jdwel.com/image/teams/2912.png",
+    "away": "التضامن",
+    "awayLogo": "https://jdwel.com/image/teams/kuw_al_tadhamon.png",
+    "score": "2 - 0",
+    "time": "6:30 م"
+  },
+  {
+    "home": "الجهراء",
+    "homeLogo": "https://jdwel.com/image/teams/2916.png",
+    "away": "النصر",
+    "awayLogo": "https://jdwel.com/image/teams/493.png",
+    "score": "2 - 2",
+    "time": "6:30 م"
+  },
+  {
+    "home": "الصليبيخات",
+    "homeLogo": "https://jdwel.com/image/teams/kuw_al_sulaibikhat.png",
+    "away": "الشباب",
+    "awayLogo": "https://jdwel.com/image/teams/4217.png",
+    "score": "1 - 3",
+    "time": "6:30 م"
+  },
+  {
+    "home": "السالمية",
+    "homeLogo": "https://jdwel.com/image/teams/kuw_al_salmiyah.png",
+    "away": "نادي الكويت",
+    "awayLogo": "https://jdwel.com/image/teams/kuw_al_kuwait.png",
+    "score": "3 - 0",
+    "time": "4:10 م"
+  },
+  {
+    "home": "اليرموك",
+    "homeLogo": "https://jdwel.com/image/teams/kuw_yarmouk.png",
+    "away": "الفحيحيل",
+    "awayLogo": "https://jdwel.com/image/teams/2911.png",
+    "score": "3 - 1",
+    "time": "4:10 م"
+  },
+  {
+    "home": "كاظمة",
+    "homeLogo": "https://jdwel.com/image/teams/kuw_kazma.png",
+    "away": "برقان",
+    "awayLogo": "https://jdwel.com/image/teams/2915.png",
+    "score": "1 - 1",
+    "time": "4:10 م"
+  },
+  {
+    "home": "القادسية",
+    "homeLogo": "https://jdwel.com/image/teams/kuw_al_qadsia.png",
+    "away": "خيطان",
+    "awayLogo": "https://jdwel.com/image/teams/2913.png",
+    "score": "1 - 2",
+    "time": "4:10 م"
+  },
+  {
+    "home": "الشباب",
+    "homeLogo": "https://jdwel.com/image/teams/4217.png",
+    "away": "الجهراء",
+    "awayLogo": "https://jdwel.com/image/teams/2916.png",
+    "score": "5 - 4",
+    "time": "6:30 م"
+  },
+  {
+    "home": "التضامن",
+    "homeLogo": "https://jdwel.com/image/teams/kuw_al_tadhamon.png",
+    "away": "الصليبيخات",
+    "awayLogo": "https://jdwel.com/image/teams/kuw_al_sulaibikhat.png",
+    "score": "2 - 1",
+    "time": "6:30 م"
+  },
+  {
+    "home": "الفحيحيل",
+    "homeLogo": "https://jdwel.com/image/teams/2911.png",
+    "away": "نادي الكويت",
+    "awayLogo": "https://jdwel.com/image/teams/kuw_al_kuwait.png",
+    "score": "1 - 2",
+    "time": "4:05 م"
+  },
+  {
+    "home": "خيطان",
+    "homeLogo": "https://jdwel.com/image/teams/2913.png",
+    "away": "اليرموك",
+    "awayLogo": "https://jdwel.com/image/teams/kuw_yarmouk.png",
+    "score": "4 - 1",
+    "time": "4:05 م"
+  },
+  {
+    "home": "كاظمة",
+    "homeLogo": "https://jdwel.com/image/teams/kuw_kazma.png",
+    "away": "السالمية",
+    "awayLogo": "https://jdwel.com/image/teams/kuw_al_salmiyah.png",
+    "score": "0 - 5",
+    "time": "6:30 م"
+  },
+  {
+    "home": "برقان",
+    "homeLogo": "https://jdwel.com/image/teams/2915.png",
+    "away": "القادسية",
+    "awayLogo": "https://jdwel.com/image/teams/kuw_al_qadsia.png",
+    "score": "1 - 2",
+    "time": "4:05 م"
+  },
+  {
+    "home": "الساحل",
+    "homeLogo": "https://jdwel.com/image/teams/2914.png",
+    "away": "النصر",
+    "awayLogo": "https://jdwel.com/image/teams/493.png",
+    "score": "2 - 2",
+    "time": "4:05 م"
+  },
+  {
+    "home": "العربي",
+    "homeLogo": "https://jdwel.com/image/teams/2912.png",
+    "away": "الساحل",
+    "awayLogo": "https://jdwel.com/image/teams/2914.png",
+    "score": "2 - 1",
+    "time": "5:40 م"
+  },
+  {
+    "home": "القادسية",
+    "homeLogo": "https://jdwel.com/image/teams/kuw_al_qadsia.png",
+    "away": "السالمية",
+    "awayLogo": "https://jdwel.com/image/teams/kuw_al_salmiyah.png",
+    "score": "2 - 2",
+    "time": "5:40 م"
+  },
+  {
+    "home": "نادي الكويت",
+    "homeLogo": "https://jdwel.com/image/teams/kuw_al_kuwait.png",
+    "away": "كاظمة",
+    "awayLogo": "https://jdwel.com/image/teams/kuw_kazma.png",
+    "score": "0 - 0",
+    "time": "3:05 م"
+  },
+  {
+    "home": "النصر",
+    "homeLogo": "https://jdwel.com/image/teams/493.png",
+    "away": "الشباب",
+    "awayLogo": "https://jdwel.com/image/teams/4217.png",
+    "score": "4 - 2",
+    "time": "5:40 م"
+  },
+  {
+    "home": "التضامن",
+    "homeLogo": "https://jdwel.com/image/teams/kuw_al_tadhamon.png",
+    "away": "الجهراء",
+    "awayLogo": "https://jdwel.com/image/teams/2916.png",
+    "score": "0 - 4",
+    "time": "5:40 م"
+  },
+  {
+    "home": "خيطان",
+    "homeLogo": "https://jdwel.com/image/teams/2913.png",
+    "away": "الفحيحيل",
+    "awayLogo": "https://jdwel.com/image/teams/2911.png",
+    "score": "1 - 2",
+    "time": "3:05 م"
+  },
+  {
+    "home": "اليرموك",
+    "homeLogo": "https://jdwel.com/image/teams/kuw_yarmouk.png",
+    "away": "برقان",
+    "awayLogo": "https://jdwel.com/image/teams/2915.png",
+    "score": "2 - 2",
+    "time": "3:05 م"
+  },
+  {
+    "home": "التضامن",
+    "homeLogo": "https://jdwel.com/image/teams/kuw_al_tadhamon.png",
+    "away": "الشباب",
+    "awayLogo": "https://jdwel.com/image/teams/4217.png",
+    "score": "4 - 0",
+    "time": "5:30 م"
+  },
+  {
+    "home": "النصر",
+    "homeLogo": "https://jdwel.com/image/teams/493.png",
+    "away": "العربي",
+    "awayLogo": "https://jdwel.com/image/teams/2912.png",
+    "score": "0 - 3",
+    "time": "3:00 م"
+  },
+  {
+    "home": "الساحل",
+    "homeLogo": "https://jdwel.com/image/teams/2914.png",
+    "away": "الصليبيخات",
+    "awayLogo": "https://jdwel.com/image/teams/kuw_al_sulaibikhat.png",
+    "score": "3 - 1",
+    "time": "3:00 م"
+  },
+  {
+    "home": "القادسية",
+    "homeLogo": "https://jdwel.com/image/teams/kuw_al_qadsia.png",
+    "away": "كاظمة",
+    "awayLogo": "https://jdwel.com/image/teams/kuw_kazma.png",
+    "score": "2 - 1",
+    "time": "5:30 م"
+  },
+  {
+    "home": "الفحيحيل",
+    "homeLogo": "https://jdwel.com/image/teams/2911.png",
+    "away": "برقان",
+    "awayLogo": "https://jdwel.com/image/teams/2915.png",
+    "score": "3 - 0",
+    "time": "5:30 م"
+  },
+  {
+    "home": "خيطان",
+    "homeLogo": "https://jdwel.com/image/teams/2913.png",
+    "away": "نادي الكويت",
+    "awayLogo": "https://jdwel.com/image/teams/kuw_al_kuwait.png",
+    "score": "4 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "السالمية",
+    "homeLogo": "https://jdwel.com/image/teams/kuw_al_salmiyah.png",
+    "away": "اليرموك",
+    "awayLogo": "https://jdwel.com/image/teams/kuw_yarmouk.png",
+    "score": "1 - 1",
+    "time": "3:00 م"
+  },
+  {
+    "home": "الصليبيخات",
+    "homeLogo": "https://jdwel.com/image/teams/kuw_al_sulaibikhat.png",
+    "away": "العربي",
+    "awayLogo": "https://jdwel.com/image/teams/2912.png",
+    "score": "0 - 1",
+    "time": "5:35 م"
+  },
+  {
+    "home": "الجهراء",
+    "homeLogo": "https://jdwel.com/image/teams/2916.png",
+    "away": "الساحل",
+    "awayLogo": "https://jdwel.com/image/teams/2914.png",
+    "score": "1 - 3",
+    "time": "3:00 م"
+  },
+  {
+    "home": "النصر",
+    "homeLogo": "https://jdwel.com/image/teams/493.png",
+    "away": "التضامن",
+    "awayLogo": "https://jdwel.com/image/teams/kuw_al_tadhamon.png",
+    "score": "1 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "نادي الكويت",
+    "homeLogo": "https://jdwel.com/image/teams/kuw_al_kuwait.png",
+    "away": "القادسية",
+    "awayLogo": "https://jdwel.com/image/teams/kuw_al_qadsia.png",
+    "score": "0 - 2",
+    "time": "5:35 م"
+  },
+  {
+    "home": "الفحيحيل",
+    "homeLogo": "https://jdwel.com/image/teams/2911.png",
+    "away": "السالمية",
+    "awayLogo": "https://jdwel.com/image/teams/kuw_al_salmiyah.png",
+    "score": "1 - 2",
+    "time": "5:35 م"
+  },
+  {
+    "home": "برقان",
+    "homeLogo": "https://jdwel.com/image/teams/2915.png",
+    "away": "خيطان",
+    "awayLogo": "https://jdwel.com/image/teams/2913.png",
+    "score": "0 - 4",
+    "time": "3:00 م"
+  },
+  {
+    "home": "اليرموك",
+    "homeLogo": "https://jdwel.com/image/teams/kuw_yarmouk.png",
+    "away": "كاظمة",
+    "awayLogo": "https://jdwel.com/image/teams/kuw_kazma.png",
+    "score": "2 - 1",
+    "time": "3:00 م"
+  },
+  {
+    "home": "خيطان",
+    "homeLogo": "https://jdwel.com/image/teams/2913.png",
+    "away": "السالمية",
+    "awayLogo": "https://jdwel.com/image/teams/kuw_al_salmiyah.png",
+    "score": "0 - 3",
+    "time": "7:30 م"
+  },
+  {
+    "home": "برقان",
+    "homeLogo": "https://jdwel.com/image/teams/2915.png",
+    "away": "نادي الكويت",
+    "awayLogo": "https://jdwel.com/image/teams/kuw_al_kuwait.png",
+    "score": "1 - 4",
+    "time": "7:30 م"
+  },
+  {
+    "home": "القادسية",
+    "homeLogo": "https://jdwel.com/image/teams/kuw_al_qadsia.png",
+    "away": "اليرموك",
+    "awayLogo": "https://jdwel.com/image/teams/kuw_yarmouk.png",
+    "score": "2 - 1",
+    "time": "5:10 م"
+  },
+  {
+    "home": "كاظمة",
+    "homeLogo": "https://jdwel.com/image/teams/kuw_kazma.png",
+    "away": "الفحيحيل",
+    "awayLogo": "https://jdwel.com/image/teams/2911.png",
+    "score": "3 - 1",
+    "time": "5:10 م"
+  },
+  {
+    "home": "الصليبيخات",
+    "homeLogo": "https://jdwel.com/image/teams/kuw_al_sulaibikhat.png",
+    "away": "النصر",
+    "awayLogo": "https://jdwel.com/image/teams/493.png",
+    "score": "0 - 3",
+    "time": "7:30 م"
+  },
+  {
+    "home": "الشباب",
+    "homeLogo": "https://jdwel.com/image/teams/4217.png",
+    "away": "الساحل",
+    "awayLogo": "https://jdwel.com/image/teams/2914.png",
+    "score": "0 - 0",
+    "time": "5:10 م"
+  },
+  {
+    "home": "العربي",
+    "homeLogo": "https://jdwel.com/image/teams/2912.png",
+    "away": "الجهراء",
+    "awayLogo": "https://jdwel.com/image/teams/2916.png",
+    "score": "4 - 1",
+    "time": "5:10 م"
+  },
+  {
+    "home": "كاظمة",
+    "homeLogo": "https://jdwel.com/image/teams/kuw_kazma.png",
+    "away": "خيطان",
+    "awayLogo": "https://jdwel.com/image/teams/2913.png",
+    "score": "1 - 1",
+    "time": "7:35 م"
+  },
+  {
+    "home": "الفحيحيل",
+    "homeLogo": "https://jdwel.com/image/teams/2911.png",
+    "away": "القادسية",
+    "awayLogo": "https://jdwel.com/image/teams/kuw_al_qadsia.png",
+    "score": "0 - 2",
+    "time": "7:35 م"
+  },
+  {
+    "home": "السالمية",
+    "homeLogo": "https://jdwel.com/image/teams/kuw_al_salmiyah.png",
+    "away": "برقان",
+    "awayLogo": "https://jdwel.com/image/teams/2915.png",
+    "score": "2 - 3",
+    "time": "5:15 م"
+  },
+  {
+    "home": "نادي الكويت",
+    "homeLogo": "https://jdwel.com/image/teams/kuw_al_kuwait.png",
+    "away": "اليرموك",
+    "awayLogo": "https://jdwel.com/image/teams/kuw_yarmouk.png",
+    "score": "1 - 1",
+    "time": "5:15 م"
+  },
+  {
+    "home": "الشباب",
+    "homeLogo": "https://jdwel.com/image/teams/4217.png",
+    "away": "العربي",
+    "awayLogo": "https://jdwel.com/image/teams/2912.png",
+    "score": "2 - 2",
+    "time": "7:35 م"
+  },
+  {
+    "home": "الساحل",
+    "homeLogo": "https://jdwel.com/image/teams/2914.png",
+    "away": "التضامن",
+    "awayLogo": "https://jdwel.com/image/teams/kuw_al_tadhamon.png",
+    "score": "2 - 0",
+    "time": "5:15 م"
+  },
+  {
+    "home": "الجهراء",
+    "homeLogo": "https://jdwel.com/image/teams/2916.png",
+    "away": "الصليبيخات",
+    "awayLogo": "https://jdwel.com/image/teams/kuw_al_sulaibikhat.png",
+    "score": "3 - 3",
+    "time": "5:15 م"
+  }
+]

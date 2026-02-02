@@ -1,0 +1,1594 @@
+[
+  {
+    "home": "زيوريخ",
+    "homeLogo": "https://jdwel.com/image/teams/1277.png",
+    "away": "سيون",
+    "awayLogo": "https://jdwel.com/image/teams/2326.png",
+    "score": "2 - 3",
+    "time": "9:30 م"
+  },
+  {
+    "home": "سانت غالن",
+    "homeLogo": "https://jdwel.com/image/teams/swi_st._gallen.png",
+    "away": "بازل",
+    "awayLogo": "https://jdwel.com/image/teams/1557.png",
+    "score": "2 - 1",
+    "time": "7:00 م"
+  },
+  {
+    "home": "غراسهوبر زيوريخ",
+    "homeLogo": "https://jdwel.com/image/teams/1289.png",
+    "away": "لوزيرن",
+    "awayLogo": "https://jdwel.com/image/teams/2852.png",
+    "score": "2 - 3",
+    "time": "7:00 م"
+  },
+  {
+    "home": "يونغ بويز",
+    "homeLogo": "https://jdwel.com/image/teams/1120.png",
+    "away": "سيرفيت",
+    "awayLogo": "https://jdwel.com/image/teams/2853.png",
+    "score": "3 - 1",
+    "time": "9:30 م"
+  },
+  {
+    "home": "لوزان",
+    "homeLogo": "https://jdwel.com/image/teams/2851.png",
+    "away": "فينترتور",
+    "awayLogo": "https://jdwel.com/image/teams/swi_winterthur.png",
+    "score": "3 - 2",
+    "time": "5:00 م"
+  },
+  {
+    "home": "لوغانو",
+    "homeLogo": "https://jdwel.com/image/teams/2850.png",
+    "away": "ثون",
+    "awayLogo": "https://jdwel.com/image/teams/swi_thun.png",
+    "score": "1 - 2",
+    "time": "5:00 م"
+  },
+  {
+    "home": "فينترتور",
+    "homeLogo": "https://jdwel.com/image/teams/swi_winterthur.png",
+    "away": "يونغ بويز",
+    "awayLogo": "https://jdwel.com/image/teams/1120.png",
+    "score": "1 - 1",
+    "time": "7:00 م"
+  },
+  {
+    "home": "سيرفيت",
+    "homeLogo": "https://jdwel.com/image/teams/2853.png",
+    "away": "سانت غالن",
+    "awayLogo": "https://jdwel.com/image/teams/swi_st._gallen.png",
+    "score": "1 - 4",
+    "time": "7:00 م"
+  },
+  {
+    "home": "بازل",
+    "homeLogo": "https://jdwel.com/image/teams/1557.png",
+    "away": "غراسهوبر زيوريخ",
+    "awayLogo": "https://jdwel.com/image/teams/1289.png",
+    "score": "2 - 1",
+    "time": "9:30 م"
+  },
+  {
+    "home": "ثون",
+    "homeLogo": "https://jdwel.com/image/teams/swi_thun.png",
+    "away": "لوزان",
+    "awayLogo": "https://jdwel.com/image/teams/2851.png",
+    "score": "2 - 1",
+    "time": "3:00 م"
+  },
+  {
+    "home": "لوزيرن",
+    "homeLogo": "https://jdwel.com/image/teams/2852.png",
+    "away": "زيوريخ",
+    "awayLogo": "https://jdwel.com/image/teams/1277.png",
+    "score": "1 - 1",
+    "time": "5:30 م"
+  },
+  {
+    "home": "سيون",
+    "homeLogo": "https://jdwel.com/image/teams/2326.png",
+    "away": "لوغانو",
+    "awayLogo": "https://jdwel.com/image/teams/2850.png",
+    "score": "4 - 0",
+    "time": "5:30 م"
+  },
+  {
+    "home": "بازل",
+    "homeLogo": "https://jdwel.com/image/teams/1557.png",
+    "away": "يونغ بويز",
+    "awayLogo": "https://jdwel.com/image/teams/1120.png",
+    "score": "4 - 1",
+    "time": "9:30 م"
+  },
+  {
+    "home": "سانت غالن",
+    "homeLogo": "https://jdwel.com/image/teams/swi_st._gallen.png",
+    "away": "فينترتور",
+    "awayLogo": "https://jdwel.com/image/teams/swi_winterthur.png",
+    "score": "5 - 0",
+    "time": "7:00 م"
+  },
+  {
+    "home": "لوزيرن",
+    "homeLogo": "https://jdwel.com/image/teams/2852.png",
+    "away": "ثون",
+    "awayLogo": "https://jdwel.com/image/teams/swi_thun.png",
+    "score": "1 - 2",
+    "time": "9:30 م"
+  },
+  {
+    "home": "يونغ بويز",
+    "homeLogo": "https://jdwel.com/image/teams/1120.png",
+    "away": "سيون",
+    "awayLogo": "https://jdwel.com/image/teams/2326.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "لوزان",
+    "homeLogo": "https://jdwel.com/image/teams/2851.png",
+    "away": "زيوريخ",
+    "awayLogo": "https://jdwel.com/image/teams/1277.png",
+    "score": "1 - 2",
+    "time": "5:30 م"
+  },
+  {
+    "home": "لوغانو",
+    "homeLogo": "https://jdwel.com/image/teams/2850.png",
+    "away": "بازل",
+    "awayLogo": "https://jdwel.com/image/teams/1557.png",
+    "score": "3 - 1",
+    "time": "5:30 م"
+  },
+  {
+    "home": "سيرفيت",
+    "homeLogo": "https://jdwel.com/image/teams/2853.png",
+    "away": "غراسهوبر زيوريخ",
+    "awayLogo": "https://jdwel.com/image/teams/1289.png",
+    "score": "1 - 1",
+    "time": "5:30 م"
+  },
+  {
+    "home": "زيوريخ",
+    "homeLogo": "https://jdwel.com/image/teams/1277.png",
+    "away": "ثون",
+    "awayLogo": "https://jdwel.com/image/teams/swi_thun.png",
+    "score": "0 - 4",
+    "time": "7:00 م"
+  },
+  {
+    "home": "غراسهوبر زيوريخ",
+    "homeLogo": "https://jdwel.com/image/teams/1289.png",
+    "away": "فينترتور",
+    "awayLogo": "https://jdwel.com/image/teams/swi_winterthur.png",
+    "score": "2 - 2",
+    "time": "3:00 م"
+  },
+  {
+    "home": "سانت غالن",
+    "homeLogo": "https://jdwel.com/image/teams/swi_st._gallen.png",
+    "away": "لوزيرن",
+    "awayLogo": "https://jdwel.com/image/teams/2852.png",
+    "score": "0 - 1",
+    "time": "5:30 م"
+  },
+  {
+    "home": "فينترتور",
+    "homeLogo": "https://jdwel.com/image/teams/swi_winterthur.png",
+    "away": "زيوريخ",
+    "awayLogo": "https://jdwel.com/image/teams/1277.png",
+    "score": "1 - 3",
+    "time": "7:00 م"
+  },
+  {
+    "home": "ثون",
+    "homeLogo": "https://jdwel.com/image/teams/swi_thun.png",
+    "away": "غراسهوبر زيوريخ",
+    "awayLogo": "https://jdwel.com/image/teams/1289.png",
+    "score": "1 - 1",
+    "time": "7:00 م"
+  },
+  {
+    "home": "سيون",
+    "homeLogo": "https://jdwel.com/image/teams/2326.png",
+    "away": "بازل",
+    "awayLogo": "https://jdwel.com/image/teams/1557.png",
+    "score": "0 - 1",
+    "time": "9:30 م"
+  },
+  {
+    "home": "لوزان",
+    "homeLogo": "https://jdwel.com/image/teams/2851.png",
+    "away": "سانت غالن",
+    "awayLogo": "https://jdwel.com/image/teams/swi_st._gallen.png",
+    "score": "1 - 2",
+    "time": "3:00 م"
+  },
+  {
+    "home": "يونغ بويز",
+    "homeLogo": "https://jdwel.com/image/teams/1120.png",
+    "away": "لوغانو",
+    "awayLogo": "https://jdwel.com/image/teams/2850.png",
+    "score": "3 - 1",
+    "time": "5:30 م"
+  },
+  {
+    "home": "سيرفيت",
+    "homeLogo": "https://jdwel.com/image/teams/2853.png",
+    "away": "لوزيرن",
+    "awayLogo": "https://jdwel.com/image/teams/2852.png",
+    "score": "2 - 2",
+    "time": "5:30 م"
+  },
+  {
+    "home": "ثون",
+    "homeLogo": "https://jdwel.com/image/teams/swi_thun.png",
+    "away": "بازل",
+    "awayLogo": "https://jdwel.com/image/teams/1557.png",
+    "score": "1 - 3",
+    "time": "7:00 م"
+  },
+  {
+    "home": "زيوريخ",
+    "homeLogo": "https://jdwel.com/image/teams/1277.png",
+    "away": "سيرفيت",
+    "awayLogo": "https://jdwel.com/image/teams/2853.png",
+    "score": "2 - 1",
+    "time": "7:00 م"
+  },
+  {
+    "home": "سانت غالن",
+    "homeLogo": "https://jdwel.com/image/teams/swi_st._gallen.png",
+    "away": "لوغانو",
+    "awayLogo": "https://jdwel.com/image/teams/2850.png",
+    "score": "1 - 0",
+    "time": "9:30 م"
+  },
+  {
+    "home": "فينترتور",
+    "homeLogo": "https://jdwel.com/image/teams/swi_winterthur.png",
+    "away": "سيون",
+    "awayLogo": "https://jdwel.com/image/teams/2326.png",
+    "score": "2 - 3",
+    "time": "3:00 م"
+  },
+  {
+    "home": "لوزيرن",
+    "homeLogo": "https://jdwel.com/image/teams/2852.png",
+    "away": "يونغ بويز",
+    "awayLogo": "https://jdwel.com/image/teams/1120.png",
+    "score": "1 - 2",
+    "time": "5:30 م"
+  },
+  {
+    "home": "غراسهوبر زيوريخ",
+    "homeLogo": "https://jdwel.com/image/teams/1289.png",
+    "away": "لوزان",
+    "awayLogo": "https://jdwel.com/image/teams/2851.png",
+    "score": "3 - 1",
+    "time": "5:30 م"
+  },
+  {
+    "home": "سيون",
+    "homeLogo": "https://jdwel.com/image/teams/2326.png",
+    "away": "سيرفيت",
+    "awayLogo": "https://jdwel.com/image/teams/2853.png",
+    "score": "0 - 2",
+    "time": "8:00 م"
+  },
+  {
+    "home": "لوغانو",
+    "homeLogo": "https://jdwel.com/image/teams/2850.png",
+    "away": "لوزان",
+    "awayLogo": "https://jdwel.com/image/teams/2851.png",
+    "score": "1 - 1",
+    "time": "8:00 م"
+  },
+  {
+    "home": "لوغانو",
+    "homeLogo": "https://jdwel.com/image/teams/2850.png",
+    "away": "غراسهوبر زيوريخ",
+    "awayLogo": "https://jdwel.com/image/teams/1289.png",
+    "score": "2 - 1",
+    "time": "7:00 م"
+  },
+  {
+    "home": "سيرفيت",
+    "homeLogo": "https://jdwel.com/image/teams/2853.png",
+    "away": "فينترتور",
+    "awayLogo": "https://jdwel.com/image/teams/swi_winterthur.png",
+    "score": "4 - 0",
+    "time": "7:00 م"
+  },
+  {
+    "home": "زيوريخ",
+    "homeLogo": "https://jdwel.com/image/teams/1277.png",
+    "away": "سانت غالن",
+    "awayLogo": "https://jdwel.com/image/teams/swi_st._gallen.png",
+    "score": "3 - 1",
+    "time": "9:30 م"
+  },
+  {
+    "home": "يونغ بويز",
+    "homeLogo": "https://jdwel.com/image/teams/1120.png",
+    "away": "ثون",
+    "awayLogo": "https://jdwel.com/image/teams/swi_thun.png",
+    "score": "4 - 2",
+    "time": "3:00 م"
+  },
+  {
+    "home": "بازل",
+    "homeLogo": "https://jdwel.com/image/teams/1557.png",
+    "away": "لوزيرن",
+    "awayLogo": "https://jdwel.com/image/teams/2852.png",
+    "score": "1 - 2",
+    "time": "5:30 م"
+  },
+  {
+    "home": "سيون",
+    "homeLogo": "https://jdwel.com/image/teams/2326.png",
+    "away": "لوزان",
+    "awayLogo": "https://jdwel.com/image/teams/2851.png",
+    "score": "0 - 0",
+    "time": "5:30 م"
+  },
+  {
+    "home": "لوزيرن",
+    "homeLogo": "https://jdwel.com/image/teams/2852.png",
+    "away": "سيون",
+    "awayLogo": "https://jdwel.com/image/teams/2326.png",
+    "score": "3 - 3",
+    "time": "7:00 م"
+  },
+  {
+    "home": "سانت غالن",
+    "homeLogo": "https://jdwel.com/image/teams/swi_st._gallen.png",
+    "away": "ثون",
+    "awayLogo": "https://jdwel.com/image/teams/swi_thun.png",
+    "score": "1 - 2",
+    "time": "7:00 م"
+  },
+  {
+    "home": "غراسهوبر زيوريخ",
+    "homeLogo": "https://jdwel.com/image/teams/1289.png",
+    "away": "زيوريخ",
+    "awayLogo": "https://jdwel.com/image/teams/1277.png",
+    "score": "3 - 0",
+    "time": "9:30 م"
+  },
+  {
+    "home": "لوزان",
+    "homeLogo": "https://jdwel.com/image/teams/2851.png",
+    "away": "يونغ بويز",
+    "awayLogo": "https://jdwel.com/image/teams/1120.png",
+    "score": "5 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "فينترتور",
+    "homeLogo": "https://jdwel.com/image/teams/swi_winterthur.png",
+    "away": "لوغانو",
+    "awayLogo": "https://jdwel.com/image/teams/2850.png",
+    "score": "2 - 4",
+    "time": "5:30 م"
+  },
+  {
+    "home": "سيرفيت",
+    "homeLogo": "https://jdwel.com/image/teams/2853.png",
+    "away": "بازل",
+    "awayLogo": "https://jdwel.com/image/teams/1557.png",
+    "score": "0 - 3",
+    "time": "5:30 م"
+  },
+  {
+    "home": "ثون",
+    "homeLogo": "https://jdwel.com/image/teams/swi_thun.png",
+    "away": "سيرفيت",
+    "awayLogo": "https://jdwel.com/image/teams/2853.png",
+    "score": "3 - 1",
+    "time": "7:00 م"
+  },
+  {
+    "home": "بازل",
+    "homeLogo": "https://jdwel.com/image/teams/1557.png",
+    "away": "فينترتور",
+    "awayLogo": "https://jdwel.com/image/teams/swi_winterthur.png",
+    "score": "3 - 0",
+    "time": "7:00 م"
+  },
+  {
+    "home": "لوغانو",
+    "homeLogo": "https://jdwel.com/image/teams/2850.png",
+    "away": "زيوريخ",
+    "awayLogo": "https://jdwel.com/image/teams/1277.png",
+    "score": "1 - 0",
+    "time": "9:30 م"
+  },
+  {
+    "home": "غراسهوبر زيوريخ",
+    "homeLogo": "https://jdwel.com/image/teams/1289.png",
+    "away": "سيون",
+    "awayLogo": "https://jdwel.com/image/teams/2326.png",
+    "score": "0 - 1",
+    "time": "3:00 م"
+  },
+  {
+    "home": "لوزيرن",
+    "homeLogo": "https://jdwel.com/image/teams/2852.png",
+    "away": "لوزان",
+    "awayLogo": "https://jdwel.com/image/teams/2851.png",
+    "score": "2 - 2",
+    "time": "5:30 م"
+  },
+  {
+    "home": "يونغ بويز",
+    "homeLogo": "https://jdwel.com/image/teams/1120.png",
+    "away": "سانت غالن",
+    "awayLogo": "https://jdwel.com/image/teams/swi_st._gallen.png",
+    "score": "1 - 2",
+    "time": "5:30 م"
+  },
+  {
+    "home": "سيون",
+    "homeLogo": "https://jdwel.com/image/teams/2326.png",
+    "away": "ثون",
+    "awayLogo": "https://jdwel.com/image/teams/swi_thun.png",
+    "score": "0 - 1",
+    "time": "7:00 م"
+  },
+  {
+    "home": "سانت غالن",
+    "homeLogo": "https://jdwel.com/image/teams/swi_st._gallen.png",
+    "away": "غراسهوبر زيوريخ",
+    "awayLogo": "https://jdwel.com/image/teams/1289.png",
+    "score": "5 - 0",
+    "time": "7:00 م"
+  },
+  {
+    "home": "فينترتور",
+    "homeLogo": "https://jdwel.com/image/teams/swi_winterthur.png",
+    "away": "لوزيرن",
+    "awayLogo": "https://jdwel.com/image/teams/2852.png",
+    "score": "2 - 2",
+    "time": "9:30 م"
+  },
+  {
+    "home": "زيوريخ",
+    "homeLogo": "https://jdwel.com/image/teams/1277.png",
+    "away": "يونغ بويز",
+    "awayLogo": "https://jdwel.com/image/teams/1120.png",
+    "score": "2 - 3",
+    "time": "4:00 م"
+  },
+  {
+    "home": "لوزان",
+    "homeLogo": "https://jdwel.com/image/teams/2851.png",
+    "away": "بازل",
+    "awayLogo": "https://jdwel.com/image/teams/1557.png",
+    "score": "5 - 1",
+    "time": "6:30 م"
+  },
+  {
+    "home": "سيرفيت",
+    "homeLogo": "https://jdwel.com/image/teams/2853.png",
+    "away": "لوغانو",
+    "awayLogo": "https://jdwel.com/image/teams/2850.png",
+    "score": "2 - 1",
+    "time": "6:30 م"
+  },
+  {
+    "home": "سيون",
+    "homeLogo": "https://jdwel.com/image/teams/2326.png",
+    "away": "سانت غالن",
+    "awayLogo": "https://jdwel.com/image/teams/swi_st._gallen.png",
+    "score": "3 - 2",
+    "time": "10:30 م"
+  },
+  {
+    "home": "ثون",
+    "homeLogo": "https://jdwel.com/image/teams/swi_thun.png",
+    "away": "فينترتور",
+    "awayLogo": "https://jdwel.com/image/teams/swi_winterthur.png",
+    "score": "3 - 0",
+    "time": "10:30 م"
+  },
+  {
+    "home": "لوزان",
+    "homeLogo": "https://jdwel.com/image/teams/2851.png",
+    "away": "سيرفيت",
+    "awayLogo": "https://jdwel.com/image/teams/2853.png",
+    "score": "1 - 3",
+    "time": "10:30 م"
+  },
+  {
+    "home": "بازل",
+    "homeLogo": "https://jdwel.com/image/teams/1557.png",
+    "away": "زيوريخ",
+    "awayLogo": "https://jdwel.com/image/teams/1277.png",
+    "score": "2 - 0",
+    "time": "10:30 م"
+  },
+  {
+    "home": "لوغانو",
+    "homeLogo": "https://jdwel.com/image/teams/2850.png",
+    "away": "لوزيرن",
+    "awayLogo": "https://jdwel.com/image/teams/2852.png",
+    "score": "2 - 0",
+    "time": "10:30 م"
+  },
+  {
+    "home": "غراسهوبر زيوريخ",
+    "homeLogo": "https://jdwel.com/image/teams/1289.png",
+    "away": "يونغ بويز",
+    "awayLogo": "https://jdwel.com/image/teams/1120.png",
+    "score": "3 - 3",
+    "time": "10:30 م"
+  },
+  {
+    "home": "فينترتور",
+    "homeLogo": "https://jdwel.com/image/teams/swi_winterthur.png",
+    "away": "سيرفيت",
+    "awayLogo": "https://jdwel.com/image/teams/2853.png",
+    "score": "4 - 2",
+    "time": "7:00 م"
+  },
+  {
+    "home": "ثون",
+    "homeLogo": "https://jdwel.com/image/teams/swi_thun.png",
+    "away": "سيون",
+    "awayLogo": "https://jdwel.com/image/teams/2326.png",
+    "score": "2 - 1",
+    "time": "7:00 م"
+  },
+  {
+    "home": "زيوريخ",
+    "homeLogo": "https://jdwel.com/image/teams/1277.png",
+    "away": "لوزان",
+    "awayLogo": "https://jdwel.com/image/teams/2851.png",
+    "score": "1 - 2",
+    "time": "9:30 م"
+  },
+  {
+    "home": "لوغانو",
+    "homeLogo": "https://jdwel.com/image/teams/2850.png",
+    "away": "سانت غالن",
+    "awayLogo": "https://jdwel.com/image/teams/swi_st._gallen.png",
+    "score": "1 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "يونغ بويز",
+    "homeLogo": "https://jdwel.com/image/teams/1120.png",
+    "away": "بازل",
+    "awayLogo": "https://jdwel.com/image/teams/1557.png",
+    "score": "0 - 0",
+    "time": "5:30 م"
+  },
+  {
+    "home": "لوزيرن",
+    "homeLogo": "https://jdwel.com/image/teams/2852.png",
+    "away": "غراسهوبر زيوريخ",
+    "awayLogo": "https://jdwel.com/image/teams/1289.png",
+    "score": "6 - 0",
+    "time": "5:30 م"
+  },
+  {
+    "home": "فينترتور",
+    "homeLogo": "https://jdwel.com/image/teams/swi_winterthur.png",
+    "away": "غراسهوبر زيوريخ",
+    "awayLogo": "https://jdwel.com/image/teams/1289.png",
+    "score": "0 - 1",
+    "time": "7:00 م"
+  },
+  {
+    "home": "زيوريخ",
+    "homeLogo": "https://jdwel.com/image/teams/1277.png",
+    "away": "لوزيرن",
+    "awayLogo": "https://jdwel.com/image/teams/2852.png",
+    "score": "3 - 2",
+    "time": "7:00 م"
+  },
+  {
+    "home": "سيرفيت",
+    "homeLogo": "https://jdwel.com/image/teams/2853.png",
+    "away": "ثون",
+    "awayLogo": "https://jdwel.com/image/teams/swi_thun.png",
+    "score": "0 - 1",
+    "time": "9:30 م"
+  },
+  {
+    "home": "بازل",
+    "homeLogo": "https://jdwel.com/image/teams/1557.png",
+    "away": "لوغانو",
+    "awayLogo": "https://jdwel.com/image/teams/2850.png",
+    "score": "0 - 1",
+    "time": "3:00 م"
+  },
+  {
+    "home": "لوزان",
+    "homeLogo": "https://jdwel.com/image/teams/2851.png",
+    "away": "سيون",
+    "awayLogo": "https://jdwel.com/image/teams/2326.png",
+    "score": "2 - 2",
+    "time": "5:30 م"
+  },
+  {
+    "home": "سانت غالن",
+    "homeLogo": "https://jdwel.com/image/teams/swi_st._gallen.png",
+    "away": "يونغ بويز",
+    "awayLogo": "https://jdwel.com/image/teams/1120.png",
+    "score": "1 - 4",
+    "time": "5:30 م"
+  },
+  {
+    "home": "لوزيرن",
+    "homeLogo": "https://jdwel.com/image/teams/2852.png",
+    "away": "سيرفيت",
+    "awayLogo": "https://jdwel.com/image/teams/2853.png",
+    "score": "2 - 2",
+    "time": "7:00 م"
+  },
+  {
+    "home": "يونغ بويز",
+    "homeLogo": "https://jdwel.com/image/teams/1120.png",
+    "away": "فينترتور",
+    "awayLogo": "https://jdwel.com/image/teams/swi_winterthur.png",
+    "score": "5 - 0",
+    "time": "7:00 م"
+  },
+  {
+    "home": "ثون",
+    "homeLogo": "https://jdwel.com/image/teams/swi_thun.png",
+    "away": "لوغانو",
+    "awayLogo": "https://jdwel.com/image/teams/2850.png",
+    "score": "0 - 1",
+    "time": "9:30 م"
+  },
+  {
+    "home": "سيون",
+    "homeLogo": "https://jdwel.com/image/teams/2326.png",
+    "away": "زيوريخ",
+    "awayLogo": "https://jdwel.com/image/teams/1277.png",
+    "score": "2 - 2",
+    "time": "3:00 م"
+  },
+  {
+    "home": "غراسهوبر زيوريخ",
+    "homeLogo": "https://jdwel.com/image/teams/1289.png",
+    "away": "بازل",
+    "awayLogo": "https://jdwel.com/image/teams/1557.png",
+    "score": "1 - 1",
+    "time": "5:30 م"
+  },
+  {
+    "home": "سانت غالن",
+    "homeLogo": "https://jdwel.com/image/teams/swi_st._gallen.png",
+    "away": "لوزان",
+    "awayLogo": "https://jdwel.com/image/teams/2851.png",
+    "score": "1 - 0",
+    "time": "5:30 م"
+  },
+  {
+    "home": "لوغانو",
+    "homeLogo": "https://jdwel.com/image/teams/2850.png",
+    "away": "سانت غالن",
+    "awayLogo": "https://jdwel.com/image/teams/swi_st._gallen.png",
+    "score": "1 - 3",
+    "time": "8:00 م"
+  },
+  {
+    "home": "لوغانو",
+    "homeLogo": "https://jdwel.com/image/teams/2850.png",
+    "away": "سيون",
+    "awayLogo": "https://jdwel.com/image/teams/2326.png",
+    "score": "1 - 1",
+    "time": "7:00 م"
+  },
+  {
+    "home": "زيوريخ",
+    "homeLogo": "https://jdwel.com/image/teams/1277.png",
+    "away": "غراسهوبر زيوريخ",
+    "awayLogo": "https://jdwel.com/image/teams/1289.png",
+    "score": "1 - 0",
+    "time": "7:00 م"
+  },
+  {
+    "home": "لوزيرن",
+    "homeLogo": "https://jdwel.com/image/teams/2852.png",
+    "away": "فينترتور",
+    "awayLogo": "https://jdwel.com/image/teams/swi_winterthur.png",
+    "score": "1 - 3",
+    "time": "9:30 م"
+  },
+  {
+    "home": "سيرفيت",
+    "homeLogo": "https://jdwel.com/image/teams/2853.png",
+    "away": "يونغ بويز",
+    "awayLogo": "https://jdwel.com/image/teams/1120.png",
+    "score": "4 - 4",
+    "time": "3:00 م"
+  },
+  {
+    "home": "لوزان",
+    "homeLogo": "https://jdwel.com/image/teams/2851.png",
+    "away": "ثون",
+    "awayLogo": "https://jdwel.com/image/teams/swi_thun.png",
+    "score": "2 - 1",
+    "time": "5:30 م"
+  },
+  {
+    "home": "بازل",
+    "homeLogo": "https://jdwel.com/image/teams/1557.png",
+    "away": "سانت غالن",
+    "awayLogo": "https://jdwel.com/image/teams/swi_st._gallen.png",
+    "score": "0 - 0",
+    "time": "5:30 م"
+  },
+  {
+    "home": "غراسهوبر زيوريخ",
+    "homeLogo": "https://jdwel.com/image/teams/1289.png",
+    "away": "سيرفيت",
+    "awayLogo": "https://jdwel.com/image/teams/2853.png",
+    "score": "0 - 1",
+    "time": "7:00 م"
+  },
+  {
+    "home": "ثون",
+    "homeLogo": "https://jdwel.com/image/teams/swi_thun.png",
+    "away": "لوزيرن",
+    "awayLogo": "https://jdwel.com/image/teams/2852.png",
+    "score": "4 - 1",
+    "time": "7:00 م"
+  },
+  {
+    "home": "سانت غالن",
+    "homeLogo": "https://jdwel.com/image/teams/swi_st._gallen.png",
+    "away": "زيوريخ",
+    "awayLogo": "https://jdwel.com/image/teams/1277.png",
+    "score": "1 - 2",
+    "time": "9:30 م"
+  },
+  {
+    "home": "فينترتور",
+    "homeLogo": "https://jdwel.com/image/teams/swi_winterthur.png",
+    "away": "بازل",
+    "awayLogo": "https://jdwel.com/image/teams/1557.png",
+    "score": "1 - 2",
+    "time": "3:00 م"
+  },
+  {
+    "home": "سيون",
+    "homeLogo": "https://jdwel.com/image/teams/2326.png",
+    "away": "يونغ بويز",
+    "awayLogo": "https://jdwel.com/image/teams/1120.png",
+    "score": "2 - 0",
+    "time": "5:30 م"
+  },
+  {
+    "home": "لوزان",
+    "homeLogo": "https://jdwel.com/image/teams/2851.png",
+    "away": "لوغانو",
+    "awayLogo": "https://jdwel.com/image/teams/2850.png",
+    "score": "0 - 0",
+    "time": "5:30 م"
+  },
+  {
+    "home": "زيوريخ",
+    "homeLogo": "https://jdwel.com/image/teams/1277.png",
+    "away": "فينترتور",
+    "awayLogo": "https://jdwel.com/image/teams/swi_winterthur.png",
+    "score": "2 - 2",
+    "time": "7:00 م"
+  },
+  {
+    "home": "سيون",
+    "homeLogo": "https://jdwel.com/image/teams/2326.png",
+    "away": "غراسهوبر زيوريخ",
+    "awayLogo": "https://jdwel.com/image/teams/1289.png",
+    "score": "1 - 0",
+    "time": "7:00 م"
+  },
+  {
+    "home": "ثون",
+    "homeLogo": "https://jdwel.com/image/teams/swi_thun.png",
+    "away": "سانت غالن",
+    "awayLogo": "https://jdwel.com/image/teams/swi_st._gallen.png",
+    "score": "0 - 2",
+    "time": "9:30 م"
+  },
+  {
+    "home": "يونغ بويز",
+    "homeLogo": "https://jdwel.com/image/teams/1120.png",
+    "away": "لوزيرن",
+    "awayLogo": "https://jdwel.com/image/teams/2852.png",
+    "score": "2 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "بازل",
+    "homeLogo": "https://jdwel.com/image/teams/1557.png",
+    "away": "لوزان",
+    "awayLogo": "https://jdwel.com/image/teams/2851.png",
+    "score": "0 - 0",
+    "time": "5:30 م"
+  },
+  {
+    "home": "لوغانو",
+    "homeLogo": "https://jdwel.com/image/teams/2850.png",
+    "away": "سيرفيت",
+    "awayLogo": "https://jdwel.com/image/teams/2853.png",
+    "score": "4 - 2",
+    "time": "5:30 م"
+  },
+  {
+    "home": "سانت غالن",
+    "homeLogo": "https://jdwel.com/image/teams/swi_st._gallen.png",
+    "away": "سيون",
+    "awayLogo": "https://jdwel.com/image/teams/2326.png",
+    "score": "3 - 1",
+    "time": "9:30 م"
+  },
+  {
+    "home": "فينترتور",
+    "homeLogo": "https://jdwel.com/image/teams/swi_winterthur.png",
+    "away": "ثون",
+    "awayLogo": "https://jdwel.com/image/teams/swi_thun.png",
+    "score": "1 - 4",
+    "time": "9:30 م"
+  },
+  {
+    "home": "يونغ بويز",
+    "homeLogo": "https://jdwel.com/image/teams/1120.png",
+    "away": "غراسهوبر زيوريخ",
+    "awayLogo": "https://jdwel.com/image/teams/1289.png",
+    "score": "2 - 6",
+    "time": "9:30 م"
+  },
+  {
+    "home": "لوزيرن",
+    "homeLogo": "https://jdwel.com/image/teams/2852.png",
+    "away": "بازل",
+    "awayLogo": "https://jdwel.com/image/teams/1557.png",
+    "score": "1 - 2",
+    "time": "9:30 م"
+  },
+  {
+    "home": "زيوريخ",
+    "homeLogo": "https://jdwel.com/image/teams/1277.png",
+    "away": "لوغانو",
+    "awayLogo": "https://jdwel.com/image/teams/2850.png",
+    "score": "0 - 1",
+    "time": "9:30 م"
+  },
+  {
+    "home": "ثون",
+    "homeLogo": "https://jdwel.com/image/teams/swi_thun.png",
+    "away": "زيوريخ",
+    "awayLogo": "https://jdwel.com/image/teams/1277.png",
+    "score": "4 - 2",
+    "time": "7:00 م"
+  },
+  {
+    "home": "بازل",
+    "homeLogo": "https://jdwel.com/image/teams/1557.png",
+    "away": "سيرفيت",
+    "awayLogo": "https://jdwel.com/image/teams/2853.png",
+    "score": "1 - 1",
+    "time": "9:30 م"
+  },
+  {
+    "home": "لوزان",
+    "homeLogo": "https://jdwel.com/image/teams/2851.png",
+    "away": "لوزيرن",
+    "awayLogo": "https://jdwel.com/image/teams/2852.png",
+    "score": "0 - 4",
+    "time": "3:00 م"
+  },
+  {
+    "home": "لوغانو",
+    "homeLogo": "https://jdwel.com/image/teams/2850.png",
+    "away": "يونغ بويز",
+    "awayLogo": "https://jdwel.com/image/teams/1120.png",
+    "score": "3 - 0",
+    "time": "5:30 م"
+  },
+  {
+    "home": "غراسهوبر زيوريخ",
+    "homeLogo": "https://jdwel.com/image/teams/1289.png",
+    "away": "سانت غالن",
+    "awayLogo": "https://jdwel.com/image/teams/swi_st._gallen.png",
+    "score": "1 - 2",
+    "time": "5:30 م"
+  },
+  {
+    "home": "سيرفيت",
+    "homeLogo": "https://jdwel.com/image/teams/2853.png",
+    "away": "لوزان",
+    "awayLogo": "https://jdwel.com/image/teams/2851.png",
+    "score": "0 - 1",
+    "time": "9:30 م"
+  },
+  {
+    "home": "سيون",
+    "homeLogo": "https://jdwel.com/image/teams/2326.png",
+    "away": "فينترتور",
+    "awayLogo": "https://jdwel.com/image/teams/swi_winterthur.png",
+    "score": "2 - 0",
+    "time": "9:30 م"
+  },
+  {
+    "home": "فينترتور",
+    "homeLogo": "https://jdwel.com/image/teams/swi_winterthur.png",
+    "away": "سانت غالن",
+    "awayLogo": "https://jdwel.com/image/teams/swi_st._gallen.png",
+    "score": "0 - 0",
+    "time": "7:00 م"
+  },
+  {
+    "home": "لوزيرن",
+    "homeLogo": "https://jdwel.com/image/teams/2852.png",
+    "away": "لوغانو",
+    "awayLogo": "https://jdwel.com/image/teams/2850.png",
+    "score": "2 - 5",
+    "time": "7:00 م"
+  },
+  {
+    "home": "يونغ بويز",
+    "homeLogo": "https://jdwel.com/image/teams/1120.png",
+    "away": "لوزان",
+    "awayLogo": "https://jdwel.com/image/teams/2851.png",
+    "score": "1 - 3",
+    "time": "9:30 م"
+  },
+  {
+    "home": "سيرفيت",
+    "homeLogo": "https://jdwel.com/image/teams/2853.png",
+    "away": "زيوريخ",
+    "awayLogo": "https://jdwel.com/image/teams/1277.png",
+    "score": "1 - 1",
+    "time": "3:00 م"
+  },
+  {
+    "home": "غراسهوبر زيوريخ",
+    "homeLogo": "https://jdwel.com/image/teams/1289.png",
+    "away": "ثون",
+    "awayLogo": "https://jdwel.com/image/teams/swi_thun.png",
+    "score": "1 - 3",
+    "time": "5:30 م"
+  },
+  {
+    "home": "بازل",
+    "homeLogo": "https://jdwel.com/image/teams/1557.png",
+    "away": "سيون",
+    "awayLogo": "https://jdwel.com/image/teams/2326.png",
+    "score": "1 - 1",
+    "time": "5:30 م"
+  },
+  {
+    "home": "لوزان",
+    "homeLogo": "https://jdwel.com/image/teams/2851.png",
+    "away": "غراسهوبر زيوريخ",
+    "awayLogo": "https://jdwel.com/image/teams/1289.png",
+    "score": "1 - 1",
+    "time": "7:00 م"
+  },
+  {
+    "home": "لوغانو",
+    "homeLogo": "https://jdwel.com/image/teams/2850.png",
+    "away": "فينترتور",
+    "awayLogo": "https://jdwel.com/image/teams/swi_winterthur.png",
+    "score": "4 - 1",
+    "time": "7:00 م"
+  },
+  {
+    "home": "سيون",
+    "homeLogo": "https://jdwel.com/image/teams/2326.png",
+    "away": "لوزيرن",
+    "awayLogo": "https://jdwel.com/image/teams/2852.png",
+    "score": "1 - 1",
+    "time": "9:30 م"
+  },
+  {
+    "home": "ثون",
+    "homeLogo": "https://jdwel.com/image/teams/swi_thun.png",
+    "away": "يونغ بويز",
+    "awayLogo": "https://jdwel.com/image/teams/1120.png",
+    "score": "4 - 1",
+    "time": "3:00 م"
+  },
+  {
+    "home": "زيوريخ",
+    "homeLogo": "https://jdwel.com/image/teams/1277.png",
+    "away": "بازل",
+    "awayLogo": "https://jdwel.com/image/teams/1557.png",
+    "score": "3 - 4",
+    "time": "5:30 م"
+  },
+  {
+    "home": "سانت غالن",
+    "homeLogo": "https://jdwel.com/image/teams/swi_st._gallen.png",
+    "away": "سيرفيت",
+    "awayLogo": "https://jdwel.com/image/teams/2853.png",
+    "score": "2 - 4",
+    "time": "5:30 م"
+  },
+  {
+    "home": "سيرفيت",
+    "homeLogo": "https://jdwel.com/image/teams/2853.png",
+    "away": "سيون",
+    "awayLogo": "https://jdwel.com/image/teams/2326.png",
+    "score": "3 - 3",
+    "time": "7:00 م"
+  },
+  {
+    "home": "فينترتور",
+    "homeLogo": "https://jdwel.com/image/teams/swi_winterthur.png",
+    "away": "لوزان",
+    "awayLogo": "https://jdwel.com/image/teams/2851.png",
+    "score": "2 - 1",
+    "time": "7:00 م"
+  },
+  {
+    "home": "غراسهوبر زيوريخ",
+    "homeLogo": "https://jdwel.com/image/teams/1289.png",
+    "away": "لوغانو",
+    "awayLogo": "https://jdwel.com/image/teams/2850.png",
+    "score": "1 - 1",
+    "time": "9:30 م"
+  },
+  {
+    "home": "لوزيرن",
+    "homeLogo": "https://jdwel.com/image/teams/2852.png",
+    "away": "سانت غالن",
+    "awayLogo": "https://jdwel.com/image/teams/swi_st._gallen.png",
+    "score": "2 - 2",
+    "time": "3:00 م"
+  },
+  {
+    "home": "يونغ بويز",
+    "homeLogo": "https://jdwel.com/image/teams/1120.png",
+    "away": "زيوريخ",
+    "awayLogo": "https://jdwel.com/image/teams/1277.png",
+    "score": "3 - 0",
+    "time": "5:30 م"
+  },
+  {
+    "home": "بازل",
+    "homeLogo": "https://jdwel.com/image/teams/1557.png",
+    "away": "ثون",
+    "awayLogo": "https://jdwel.com/image/teams/swi_thun.png",
+    "score": "1 - 2",
+    "time": "5:30 م"
+  },
+  {
+    "home": "فينترتور",
+    "homeLogo": "https://jdwel.com/image/teams/swi_winterthur.png",
+    "away": "لوغانو",
+    "awayLogo": "https://jdwel.com/image/teams/2850.png",
+    "score": "0 - 0",
+    "time": "7:00 م"
+  },
+  {
+    "home": "سيون",
+    "homeLogo": "https://jdwel.com/image/teams/2326.png",
+    "away": "لوزيرن",
+    "awayLogo": "https://jdwel.com/image/teams/2852.png",
+    "score": "0 - 0",
+    "time": "7:00 م"
+  },
+  {
+    "home": "غراسهوبر زيوريخ",
+    "homeLogo": "https://jdwel.com/image/teams/1289.png",
+    "away": "يونغ بويز",
+    "awayLogo": "https://jdwel.com/image/teams/1120.png",
+    "score": "0 - 0",
+    "time": "9:30 م"
+  },
+  {
+    "home": "سيرفيت",
+    "homeLogo": "https://jdwel.com/image/teams/2853.png",
+    "away": "ثون",
+    "awayLogo": "https://jdwel.com/image/teams/swi_thun.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "لوزان",
+    "homeLogo": "https://jdwel.com/image/teams/2851.png",
+    "away": "سانت غالن",
+    "awayLogo": "https://jdwel.com/image/teams/swi_st._gallen.png",
+    "score": "0 - 0",
+    "time": "5:30 م"
+  },
+  {
+    "home": "بازل",
+    "homeLogo": "https://jdwel.com/image/teams/1557.png",
+    "away": "زيوريخ",
+    "awayLogo": "https://jdwel.com/image/teams/1277.png",
+    "score": "0 - 0",
+    "time": "5:30 م"
+  },
+  {
+    "home": "لوزيرن",
+    "homeLogo": "https://jdwel.com/image/teams/2852.png",
+    "away": "غراسهوبر زيوريخ",
+    "awayLogo": "https://jdwel.com/image/teams/1289.png",
+    "score": "0 - 0",
+    "time": "9:30 م"
+  },
+  {
+    "home": "زيوريخ",
+    "homeLogo": "https://jdwel.com/image/teams/1277.png",
+    "away": "فينترتور",
+    "awayLogo": "https://jdwel.com/image/teams/swi_winterthur.png",
+    "score": "0 - 0",
+    "time": "9:30 م"
+  },
+  {
+    "home": "سانت غالن",
+    "homeLogo": "https://jdwel.com/image/teams/swi_st._gallen.png",
+    "away": "يونغ بويز",
+    "awayLogo": "https://jdwel.com/image/teams/1120.png",
+    "score": "0 - 0",
+    "time": "9:30 م"
+  },
+  {
+    "home": "لوغانو",
+    "homeLogo": "https://jdwel.com/image/teams/2850.png",
+    "away": "سيرفيت",
+    "awayLogo": "https://jdwel.com/image/teams/2853.png",
+    "score": "0 - 0",
+    "time": "9:30 م"
+  },
+  {
+    "home": "ثون",
+    "homeLogo": "https://jdwel.com/image/teams/swi_thun.png",
+    "away": "لوزان",
+    "awayLogo": "https://jdwel.com/image/teams/2851.png",
+    "score": "0 - 0",
+    "time": "9:30 م"
+  },
+  {
+    "home": "سيون",
+    "homeLogo": "https://jdwel.com/image/teams/2326.png",
+    "away": "بازل",
+    "awayLogo": "https://jdwel.com/image/teams/1557.png",
+    "score": "0 - 0",
+    "time": "9:30 م"
+  },
+  {
+    "home": "زيوريخ",
+    "homeLogo": "https://jdwel.com/image/teams/1277.png",
+    "away": "لوزيرن",
+    "awayLogo": "https://jdwel.com/image/teams/2852.png",
+    "score": "0 - 0",
+    "time": "7:00 م"
+  },
+  {
+    "home": "سانت غالن",
+    "homeLogo": "https://jdwel.com/image/teams/swi_st._gallen.png",
+    "away": "غراسهوبر زيوريخ",
+    "awayLogo": "https://jdwel.com/image/teams/1289.png",
+    "score": "0 - 0",
+    "time": "7:00 م"
+  },
+  {
+    "home": "يونغ بويز",
+    "homeLogo": "https://jdwel.com/image/teams/1120.png",
+    "away": "فينترتور",
+    "awayLogo": "https://jdwel.com/image/teams/swi_winterthur.png",
+    "score": "0 - 0",
+    "time": "9:30 م"
+  },
+  {
+    "home": "ثون",
+    "homeLogo": "https://jdwel.com/image/teams/swi_thun.png",
+    "away": "سيون",
+    "awayLogo": "https://jdwel.com/image/teams/2326.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "لوزان",
+    "homeLogo": "https://jdwel.com/image/teams/2851.png",
+    "away": "سيرفيت",
+    "awayLogo": "https://jdwel.com/image/teams/2853.png",
+    "score": "0 - 0",
+    "time": "5:30 م"
+  },
+  {
+    "home": "بازل",
+    "homeLogo": "https://jdwel.com/image/teams/1557.png",
+    "away": "لوغانو",
+    "awayLogo": "https://jdwel.com/image/teams/2850.png",
+    "score": "0 - 0",
+    "time": "5:30 م"
+  },
+  {
+    "home": "فينترتور",
+    "homeLogo": "https://jdwel.com/image/teams/swi_winterthur.png",
+    "away": "ثون",
+    "awayLogo": "https://jdwel.com/image/teams/swi_thun.png",
+    "score": "0 - 0",
+    "time": "7:00 م"
+  },
+  {
+    "home": "سيرفيت",
+    "homeLogo": "https://jdwel.com/image/teams/2853.png",
+    "away": "سانت غالن",
+    "awayLogo": "https://jdwel.com/image/teams/swi_st._gallen.png",
+    "score": "0 - 0",
+    "time": "7:00 م"
+  },
+  {
+    "home": "غراسهوبر زيوريخ",
+    "homeLogo": "https://jdwel.com/image/teams/1289.png",
+    "away": "زيوريخ",
+    "awayLogo": "https://jdwel.com/image/teams/1277.png",
+    "score": "0 - 0",
+    "time": "9:30 م"
+  },
+  {
+    "home": "سيون",
+    "homeLogo": "https://jdwel.com/image/teams/2326.png",
+    "away": "يونغ بويز",
+    "awayLogo": "https://jdwel.com/image/teams/1120.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "لوزيرن",
+    "homeLogo": "https://jdwel.com/image/teams/2852.png",
+    "away": "بازل",
+    "awayLogo": "https://jdwel.com/image/teams/1557.png",
+    "score": "0 - 0",
+    "time": "5:30 م"
+  },
+  {
+    "home": "لوغانو",
+    "homeLogo": "https://jdwel.com/image/teams/2850.png",
+    "away": "لوزان",
+    "awayLogo": "https://jdwel.com/image/teams/2851.png",
+    "score": "0 - 0",
+    "time": "5:30 م"
+  },
+  {
+    "home": "ثون",
+    "homeLogo": "https://jdwel.com/image/teams/swi_thun.png",
+    "away": "لوزيرن",
+    "awayLogo": "https://jdwel.com/image/teams/2852.png",
+    "score": "0 - 0",
+    "time": "7:00 م"
+  },
+  {
+    "home": "سانت غالن",
+    "homeLogo": "https://jdwel.com/image/teams/swi_st._gallen.png",
+    "away": "فينترتور",
+    "awayLogo": "https://jdwel.com/image/teams/swi_winterthur.png",
+    "score": "0 - 0",
+    "time": "7:00 م"
+  },
+  {
+    "home": "سيرفيت",
+    "homeLogo": "https://jdwel.com/image/teams/2853.png",
+    "away": "سيون",
+    "awayLogo": "https://jdwel.com/image/teams/2326.png",
+    "score": "0 - 0",
+    "time": "9:30 م"
+  },
+  {
+    "home": "لوزان",
+    "homeLogo": "https://jdwel.com/image/teams/2851.png",
+    "away": "بازل",
+    "awayLogo": "https://jdwel.com/image/teams/1557.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "يونغ بويز",
+    "homeLogo": "https://jdwel.com/image/teams/1120.png",
+    "away": "زيوريخ",
+    "awayLogo": "https://jdwel.com/image/teams/1277.png",
+    "score": "0 - 0",
+    "time": "5:30 م"
+  },
+  {
+    "home": "غراسهوبر زيوريخ",
+    "homeLogo": "https://jdwel.com/image/teams/1289.png",
+    "away": "لوغانو",
+    "awayLogo": "https://jdwel.com/image/teams/2850.png",
+    "score": "0 - 0",
+    "time": "5:30 م"
+  },
+  {
+    "home": "فينترتور",
+    "homeLogo": "https://jdwel.com/image/teams/swi_winterthur.png",
+    "away": "سيرفيت",
+    "awayLogo": "https://jdwel.com/image/teams/2853.png",
+    "score": "0 - 0",
+    "time": "9:30 م"
+  },
+  {
+    "home": "زيوريخ",
+    "homeLogo": "https://jdwel.com/image/teams/1277.png",
+    "away": "لوزان",
+    "awayLogo": "https://jdwel.com/image/teams/2851.png",
+    "score": "0 - 0",
+    "time": "9:30 م"
+  },
+  {
+    "home": "لوزيرن",
+    "homeLogo": "https://jdwel.com/image/teams/2852.png",
+    "away": "يونغ بويز",
+    "awayLogo": "https://jdwel.com/image/teams/1120.png",
+    "score": "0 - 0",
+    "time": "9:30 م"
+  },
+  {
+    "home": "لوغانو",
+    "homeLogo": "https://jdwel.com/image/teams/2850.png",
+    "away": "سيون",
+    "awayLogo": "https://jdwel.com/image/teams/2326.png",
+    "score": "0 - 0",
+    "time": "9:30 م"
+  },
+  {
+    "home": "ثون",
+    "homeLogo": "https://jdwel.com/image/teams/swi_thun.png",
+    "away": "سانت غالن",
+    "awayLogo": "https://jdwel.com/image/teams/swi_st._gallen.png",
+    "score": "0 - 0",
+    "time": "9:30 م"
+  },
+  {
+    "home": "بازل",
+    "homeLogo": "https://jdwel.com/image/teams/1557.png",
+    "away": "غراسهوبر زيوريخ",
+    "awayLogo": "https://jdwel.com/image/teams/1289.png",
+    "score": "0 - 0",
+    "time": "9:30 م"
+  },
+  {
+    "home": "سيون",
+    "homeLogo": "https://jdwel.com/image/teams/2326.png",
+    "away": "فينترتور",
+    "awayLogo": "https://jdwel.com/image/teams/swi_winterthur.png",
+    "score": "0 - 0",
+    "time": "7:00 م"
+  },
+  {
+    "home": "سيرفيت",
+    "homeLogo": "https://jdwel.com/image/teams/2853.png",
+    "away": "زيوريخ",
+    "awayLogo": "https://jdwel.com/image/teams/1277.png",
+    "score": "0 - 0",
+    "time": "7:00 م"
+  },
+  {
+    "home": "لوغانو",
+    "homeLogo": "https://jdwel.com/image/teams/2850.png",
+    "away": "لوزيرن",
+    "awayLogo": "https://jdwel.com/image/teams/2852.png",
+    "score": "0 - 0",
+    "time": "9:30 م"
+  },
+  {
+    "home": "سانت غالن",
+    "homeLogo": "https://jdwel.com/image/teams/swi_st._gallen.png",
+    "away": "بازل",
+    "awayLogo": "https://jdwel.com/image/teams/1557.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "يونغ بويز",
+    "homeLogo": "https://jdwel.com/image/teams/1120.png",
+    "away": "ثون",
+    "awayLogo": "https://jdwel.com/image/teams/swi_thun.png",
+    "score": "0 - 0",
+    "time": "5:30 م"
+  },
+  {
+    "home": "غراسهوبر زيوريخ",
+    "homeLogo": "https://jdwel.com/image/teams/1289.png",
+    "away": "لوزان",
+    "awayLogo": "https://jdwel.com/image/teams/2851.png",
+    "score": "0 - 0",
+    "time": "5:30 م"
+  },
+  {
+    "home": "زيوريخ",
+    "homeLogo": "https://jdwel.com/image/teams/1277.png",
+    "away": "سيون",
+    "awayLogo": "https://jdwel.com/image/teams/2326.png",
+    "score": "0 - 0",
+    "time": "7:00 م"
+  },
+  {
+    "home": "ثون",
+    "homeLogo": "https://jdwel.com/image/teams/swi_thun.png",
+    "away": "غراسهوبر زيوريخ",
+    "awayLogo": "https://jdwel.com/image/teams/1289.png",
+    "score": "0 - 0",
+    "time": "7:00 م"
+  },
+  {
+    "home": "سانت غالن",
+    "homeLogo": "https://jdwel.com/image/teams/swi_st._gallen.png",
+    "away": "لوغانو",
+    "awayLogo": "https://jdwel.com/image/teams/2850.png",
+    "score": "0 - 0",
+    "time": "9:30 م"
+  },
+  {
+    "home": "لوزان",
+    "homeLogo": "https://jdwel.com/image/teams/2851.png",
+    "away": "يونغ بويز",
+    "awayLogo": "https://jdwel.com/image/teams/1120.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "لوزيرن",
+    "homeLogo": "https://jdwel.com/image/teams/2852.png",
+    "away": "فينترتور",
+    "awayLogo": "https://jdwel.com/image/teams/swi_winterthur.png",
+    "score": "0 - 0",
+    "time": "5:30 م"
+  },
+  {
+    "home": "بازل",
+    "homeLogo": "https://jdwel.com/image/teams/1557.png",
+    "away": "سيرفيت",
+    "awayLogo": "https://jdwel.com/image/teams/2853.png",
+    "score": "0 - 0",
+    "time": "5:30 م"
+  },
+  {
+    "home": "زيوريخ",
+    "homeLogo": "https://jdwel.com/image/teams/1277.png",
+    "away": "ثون",
+    "awayLogo": "https://jdwel.com/image/teams/swi_thun.png",
+    "score": "0 - 0",
+    "time": "7:00 م"
+  },
+  {
+    "home": "سيرفيت",
+    "homeLogo": "https://jdwel.com/image/teams/2853.png",
+    "away": "غراسهوبر زيوريخ",
+    "awayLogo": "https://jdwel.com/image/teams/1289.png",
+    "score": "0 - 0",
+    "time": "7:00 م"
+  },
+  {
+    "home": "سيون",
+    "homeLogo": "https://jdwel.com/image/teams/2326.png",
+    "away": "سانت غالن",
+    "awayLogo": "https://jdwel.com/image/teams/swi_st._gallen.png",
+    "score": "0 - 0",
+    "time": "9:30 م"
+  },
+  {
+    "home": "فينترتور",
+    "homeLogo": "https://jdwel.com/image/teams/swi_winterthur.png",
+    "away": "بازل",
+    "awayLogo": "https://jdwel.com/image/teams/1557.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "يونغ بويز",
+    "homeLogo": "https://jdwel.com/image/teams/1120.png",
+    "away": "لوغانو",
+    "awayLogo": "https://jdwel.com/image/teams/2850.png",
+    "score": "0 - 0",
+    "time": "5:30 م"
+  },
+  {
+    "home": "لوزيرن",
+    "homeLogo": "https://jdwel.com/image/teams/2852.png",
+    "away": "لوزان",
+    "awayLogo": "https://jdwel.com/image/teams/2851.png",
+    "score": "0 - 0",
+    "time": "5:30 م"
+  },
+  {
+    "home": "لوغانو",
+    "homeLogo": "https://jdwel.com/image/teams/2850.png",
+    "away": "ثون",
+    "awayLogo": "https://jdwel.com/image/teams/swi_thun.png",
+    "score": "0 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "لوزان",
+    "homeLogo": "https://jdwel.com/image/teams/2851.png",
+    "away": "فينترتور",
+    "awayLogo": "https://jdwel.com/image/teams/swi_winterthur.png",
+    "score": "0 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "بازل",
+    "homeLogo": "https://jdwel.com/image/teams/1557.png",
+    "away": "يونغ بويز",
+    "awayLogo": "https://jdwel.com/image/teams/1120.png",
+    "score": "0 - 0",
+    "time": "8:30 م"
+  },
+  {
+    "home": "غراسهوبر زيوريخ",
+    "homeLogo": "https://jdwel.com/image/teams/1289.png",
+    "away": "سيون",
+    "awayLogo": "https://jdwel.com/image/teams/2326.png",
+    "score": "0 - 0",
+    "time": "2:00 م"
+  },
+  {
+    "home": "سانت غالن",
+    "homeLogo": "https://jdwel.com/image/teams/swi_st._gallen.png",
+    "away": "زيوريخ",
+    "awayLogo": "https://jdwel.com/image/teams/1277.png",
+    "score": "0 - 0",
+    "time": "4:30 م"
+  },
+  {
+    "home": "سيرفيت",
+    "homeLogo": "https://jdwel.com/image/teams/2853.png",
+    "away": "لوزيرن",
+    "awayLogo": "https://jdwel.com/image/teams/2852.png",
+    "score": "0 - 0",
+    "time": "4:30 م"
+  },
+  {
+    "home": "زيوريخ",
+    "homeLogo": "https://jdwel.com/image/teams/1277.png",
+    "away": "لوغانو",
+    "awayLogo": "https://jdwel.com/image/teams/2850.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "يونغ بويز",
+    "homeLogo": "https://jdwel.com/image/teams/1120.png",
+    "away": "سيرفيت",
+    "awayLogo": "https://jdwel.com/image/teams/2853.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "فينترتور",
+    "homeLogo": "https://jdwel.com/image/teams/swi_winterthur.png",
+    "away": "غراسهوبر زيوريخ",
+    "awayLogo": "https://jdwel.com/image/teams/1289.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "ثون",
+    "homeLogo": "https://jdwel.com/image/teams/swi_thun.png",
+    "away": "بازل",
+    "awayLogo": "https://jdwel.com/image/teams/1557.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "سيون",
+    "homeLogo": "https://jdwel.com/image/teams/2326.png",
+    "away": "لوزان",
+    "awayLogo": "https://jdwel.com/image/teams/2851.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "لوزيرن",
+    "homeLogo": "https://jdwel.com/image/teams/2852.png",
+    "away": "سانت غالن",
+    "awayLogo": "https://jdwel.com/image/teams/swi_st._gallen.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "home": "العربي",
+    "homeLogo": "https://jdwel.com/image/teams/uni_al_arabi.png",
+    "away": "الفجيرة",
+    "awayLogo": "https://jdwel.com/image/teams/uni_al_fujairah.png",
+    "score": "4 - 2",
+    "time": "4:35 م"
+  },
+  {
+    "home": "حتا",
+    "homeLogo": "https://jdwel.com/image/teams/uni_hatta.png",
+    "away": "دبي سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/79.png",
+    "score": "0 - 04 - 1",
+    "time": "4:35 م"
+  },
+  {
+    "home": "دبا الحصن",
+    "homeLogo": "https://jdwel.com/image/teams/1271.png",
+    "away": "الجزيرة الحمراء",
+    "awayLogo": "https://jdwel.com/image/teams/78.png",
+    "score": "2 - 0",
+    "time": "4:35 م"
+  },
+  {
+    "home": "مصفوت",
+    "homeLogo": "https://jdwel.com/image/teams/970.png",
+    "away": "الظاهرة",
+    "awayLogo": "https://jdwel.com/image/teams/968.png",
+    "score": "0 - 05 - 6",
+    "time": "4:35 م"
+  },
+  {
+    "home": "العروبة",
+    "homeLogo": "https://jdwel.com/image/teams/2803.png",
+    "away": "نادي الإمارات",
+    "awayLogo": "https://jdwel.com/image/teams/366.png",
+    "score": "2 - 0",
+    "time": "4:35 م"
+  },
+  {
+    "home": "الذيد",
+    "homeLogo": "https://jdwel.com/image/teams/77.png",
+    "away": "قلف يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/969.png",
+    "score": "2 - 1",
+    "time": "4:35 م"
+  },
+  {
+    "home": "دبي يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/755.png",
+    "away": "الاتفاق",
+    "awayLogo": "https://jdwel.com/image/teams/4315.png",
+    "score": "2 - 0",
+    "time": "4:40 م"
+  },
+  {
+    "home": "دبا الحصن",
+    "homeLogo": "https://jdwel.com/image/teams/1271.png",
+    "away": "العربي",
+    "awayLogo": "https://jdwel.com/image/teams/uni_al_arabi.png",
+    "score": "2 - 0",
+    "time": "4:20 م"
+  },
+  {
+    "home": "الحمرية",
+    "homeLogo": "https://jdwel.com/image/teams/uni_al_hamriyah.png",
+    "away": "حتا",
+    "awayLogo": "https://jdwel.com/image/teams/uni_hatta.png",
+    "score": "1 - 0",
+    "time": "4:25 م"
+  },
+  {
+    "home": "دبي يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/755.png",
+    "away": "الذيد",
+    "awayLogo": "https://jdwel.com/image/teams/77.png",
+    "score": "1 - 0",
+    "time": "4:25 م"
+  },
+  {
+    "home": "الظاهرة",
+    "homeLogo": "https://jdwel.com/image/teams/968.png",
+    "away": "العروبة",
+    "awayLogo": "https://jdwel.com/image/teams/2803.png",
+    "score": "2 - 3",
+    "time": "4:25 م"
+  },
+  {
+    "home": "دبا الحصن",
+    "homeLogo": "https://jdwel.com/image/teams/1271.png",
+    "away": "دبي يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/755.png",
+    "score": "1 - 2",
+    "time": "4:15 م"
+  },
+  {
+    "home": "الحمرية",
+    "homeLogo": "https://jdwel.com/image/teams/uni_al_hamriyah.png",
+    "away": "العروبة",
+    "awayLogo": "https://jdwel.com/image/teams/2803.png",
+    "score": "3 - 0",
+    "time": "4:15 م"
+  },
+  {
+    "home": "الشارقة",
+    "homeLogo": "https://jdwel.com/image/teams/1166.png",
+    "away": "دبي يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/755.png",
+    "score": "1 - 14 - 5",
+    "time": "3:55 م"
+  },
+  {
+    "home": "الوحدة",
+    "homeLogo": "https://jdwel.com/image/teams/1270.png",
+    "away": "الظفرة",
+    "awayLogo": "https://jdwel.com/image/teams/3757.png",
+    "score": "3 - 1",
+    "time": "7:00 م"
+  },
+  {
+    "home": "البطائح",
+    "homeLogo": "https://jdwel.com/image/teams/2441.png",
+    "away": "شباب الأهلي",
+    "awayLogo": "https://jdwel.com/image/teams/2802.png",
+    "score": "0 - 02 - 4",
+    "time": "3:55 م"
+  },
+  {
+    "home": "خورفكان",
+    "homeLogo": "https://jdwel.com/image/teams/367.png",
+    "away": "كلباء",
+    "awayLogo": "https://jdwel.com/image/teams/1531.png",
+    "score": "2 - 0",
+    "time": "3:55 م"
+  },
+  {
+    "home": "النصر",
+    "homeLogo": "https://jdwel.com/image/teams/5242.png",
+    "away": "بني ياس",
+    "awayLogo": "https://jdwel.com/image/teams/uni_bani_yas.png",
+    "score": "0 - 2",
+    "time": "7:00 م"
+  },
+  {
+    "home": "الحمرية",
+    "homeLogo": "https://jdwel.com/image/teams/uni_al_hamriyah.png",
+    "away": "العين",
+    "awayLogo": "https://jdwel.com/image/teams/5235.png",
+    "score": "0 - 7",
+    "time": "3:55 م"
+  },
+  {
+    "home": "دبا الفجيرة",
+    "homeLogo": "https://jdwel.com/image/teams/3758.png",
+    "away": "الوصل",
+    "awayLogo": "https://jdwel.com/image/teams/uni_al_wasl.png",
+    "score": "2 - 26 - 5",
+    "time": "3:55 م"
+  },
+  {
+    "home": "الجزيرة",
+    "homeLogo": "https://jdwel.com/image/teams/369.png",
+    "away": "عجمان",
+    "awayLogo": "https://jdwel.com/image/teams/2998.png",
+    "score": "2 - 1",
+    "time": "7:00 م"
+  },
+  {
+    "home": "دبا الفجيرة",
+    "homeLogo": "https://jdwel.com/image/teams/3758.png",
+    "away": "العين",
+    "awayLogo": "https://jdwel.com/image/teams/5235.png",
+    "score": "0 - 3",
+    "time": "4:30 م"
+  },
+  {
+    "home": "شباب الأهلي",
+    "homeLogo": "https://jdwel.com/image/teams/2802.png",
+    "away": "خورفكان",
+    "awayLogo": "https://jdwel.com/image/teams/367.png",
+    "score": "3 - 1",
+    "time": "3:15 م"
+  },
+  {
+    "home": "الوحدة",
+    "homeLogo": "https://jdwel.com/image/teams/1270.png",
+    "away": "دبي يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/755.png",
+    "score": "2 - 4",
+    "time": "6:00 م"
+  },
+  {
+    "home": "بني ياس",
+    "homeLogo": "https://jdwel.com/image/teams/uni_bani_yas.png",
+    "away": "الجزيرة",
+    "awayLogo": "https://jdwel.com/image/teams/369.png",
+    "score": "0 - 0",
+    "time": "4:35 م"
+  }
+]

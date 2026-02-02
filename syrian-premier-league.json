@@ -1,0 +1,386 @@
+[
+  {
+    "home": "أهلي حلب",
+    "homeLogo": "https://jdwel.com/image/teams/syr_al_ittihad.png",
+    "away": "خان شيخون",
+    "awayLogo": "https://jdwel.com/image/teams/5159.png",
+    "score": "2 - 1",
+    "time": "1:00 م"
+  },
+  {
+    "home": "الشرطة",
+    "homeLogo": "https://jdwel.com/image/teams/5231.png",
+    "away": "حطين",
+    "awayLogo": "https://jdwel.com/image/teams/5229.png",
+    "score": "3 - 3",
+    "time": "1:00 م"
+  },
+  {
+    "home": "الطليعة",
+    "homeLogo": "https://jdwel.com/image/teams/3283.png",
+    "away": "الفتوة",
+    "awayLogo": "https://jdwel.com/image/teams/1768.png",
+    "score": "3 - 0",
+    "time": "1:30 م"
+  },
+  {
+    "home": "أمية",
+    "homeLogo": "https://jdwel.com/image/teams/5162.png",
+    "away": "الحرية",
+    "awayLogo": "https://jdwel.com/image/teams/275.png",
+    "score": "0 - 0",
+    "time": "1:30 م"
+  },
+  {
+    "home": "الكرامة",
+    "homeLogo": "https://jdwel.com/image/teams/3198.png",
+    "away": "الوحدة",
+    "awayLogo": "https://jdwel.com/image/teams/5233.png",
+    "score": "0 - 2",
+    "time": "1:30 م"
+  },
+  {
+    "home": "الشعلة",
+    "homeLogo": "https://jdwel.com/image/teams/5230.png",
+    "away": "جبلة",
+    "awayLogo": "https://jdwel.com/image/teams/2970.png",
+    "score": "0 - 2",
+    "time": "1:30 م"
+  },
+  {
+    "home": "دمشق الأهلي",
+    "homeLogo": "https://jdwel.com/image/teams/5161.png",
+    "away": "حمص الفداء",
+    "awayLogo": "https://jdwel.com/image/teams/5160.png",
+    "score": "0 - 1",
+    "time": "1:00 م"
+  },
+  {
+    "home": "تشرين",
+    "homeLogo": "https://jdwel.com/image/teams/1767.png",
+    "away": "الجيش",
+    "awayLogo": "https://jdwel.com/image/teams/5164.png",
+    "score": "4 - 0",
+    "time": "1:00 م"
+  },
+  {
+    "home": "خان شيخون",
+    "homeLogo": "https://jdwel.com/image/teams/5159.png",
+    "away": "دمشق الأهلي",
+    "awayLogo": "https://jdwel.com/image/teams/5161.png",
+    "score": "2 - 1",
+    "time": "1:00 م"
+  },
+  {
+    "home": "جبلة",
+    "homeLogo": "https://jdwel.com/image/teams/2970.png",
+    "away": "الشرطة",
+    "awayLogo": "https://jdwel.com/image/teams/5231.png",
+    "score": "1 - 2",
+    "time": "1:00 م"
+  },
+  {
+    "home": "الوحدة",
+    "homeLogo": "https://jdwel.com/image/teams/5233.png",
+    "away": "أمية",
+    "awayLogo": "https://jdwel.com/image/teams/5162.png",
+    "score": "0 - 0",
+    "time": "1:30 م"
+  },
+  {
+    "home": "حطين",
+    "homeLogo": "https://jdwel.com/image/teams/5229.png",
+    "away": "تشرين",
+    "awayLogo": "https://jdwel.com/image/teams/1767.png",
+    "score": "0 - 0",
+    "time": "1:30 م"
+  },
+  {
+    "home": "الحرية",
+    "homeLogo": "https://jdwel.com/image/teams/275.png",
+    "away": "الشعلة",
+    "awayLogo": "https://jdwel.com/image/teams/5230.png",
+    "score": "2 - 0",
+    "time": "1:00 م"
+  },
+  {
+    "home": "الجيش",
+    "homeLogo": "https://jdwel.com/image/teams/5164.png",
+    "away": "الطليعة",
+    "awayLogo": "https://jdwel.com/image/teams/3283.png",
+    "score": "0 - 0",
+    "time": "1:00 م"
+  },
+  {
+    "home": "حمص الفداء",
+    "homeLogo": "https://jdwel.com/image/teams/5160.png",
+    "away": "الكرامة",
+    "awayLogo": "https://jdwel.com/image/teams/3198.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "تشرين",
+    "homeLogo": "https://jdwel.com/image/teams/1767.png",
+    "away": "خان شيخون",
+    "awayLogo": "https://jdwel.com/image/teams/5159.png",
+    "score": "3 - 0",
+    "time": "1:00 م"
+  },
+  {
+    "home": "أمية",
+    "homeLogo": "https://jdwel.com/image/teams/5162.png",
+    "away": "حطين",
+    "awayLogo": "https://jdwel.com/image/teams/5229.png",
+    "score": "0 - 1",
+    "time": "1:00 م"
+  },
+  {
+    "home": "الشرطة",
+    "homeLogo": "https://jdwel.com/image/teams/5231.png",
+    "away": "الفتوة",
+    "awayLogo": "https://jdwel.com/image/teams/1768.png",
+    "score": "1 - 0",
+    "time": "1:30 م"
+  },
+  {
+    "home": "أهلي حلب",
+    "homeLogo": "https://jdwel.com/image/teams/syr_al_ittihad.png",
+    "away": "دمشق الأهلي",
+    "awayLogo": "https://jdwel.com/image/teams/5161.png",
+    "score": "5 - 2",
+    "time": "1:30 م"
+  },
+  {
+    "home": "الطليعة",
+    "homeLogo": "https://jdwel.com/image/teams/3283.png",
+    "away": "حمص الفداء",
+    "awayLogo": "https://jdwel.com/image/teams/5160.png",
+    "score": "0 - 1",
+    "time": "1:30 م"
+  },
+  {
+    "home": "الكرامة",
+    "homeLogo": "https://jdwel.com/image/teams/3198.png",
+    "away": "الحرية",
+    "awayLogo": "https://jdwel.com/image/teams/275.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "الوحدة",
+    "homeLogo": "https://jdwel.com/image/teams/5233.png",
+    "away": "جبلة",
+    "awayLogo": "https://jdwel.com/image/teams/2970.png",
+    "score": "3 - 0",
+    "time": "1:00 م"
+  },
+  {
+    "home": "الشعلة",
+    "homeLogo": "https://jdwel.com/image/teams/5230.png",
+    "away": "الجيش",
+    "awayLogo": "https://jdwel.com/image/teams/5164.png",
+    "score": "0 - 1",
+    "time": "1:00 م"
+  },
+  {
+    "home": "الجيش",
+    "homeLogo": "https://jdwel.com/image/teams/5164.png",
+    "away": "الشرطة",
+    "awayLogo": "https://jdwel.com/image/teams/5231.png",
+    "score": "0 - 0",
+    "time": "1:00 م"
+  },
+  {
+    "home": "جبلة",
+    "homeLogo": "https://jdwel.com/image/teams/2970.png",
+    "away": "أمية",
+    "awayLogo": "https://jdwel.com/image/teams/5162.png",
+    "score": "2 - 2",
+    "time": "1:00 م"
+  },
+  {
+    "home": "الفتوة",
+    "homeLogo": "https://jdwel.com/image/teams/1768.png",
+    "away": "تشرين",
+    "awayLogo": "https://jdwel.com/image/teams/1767.png",
+    "score": "0 - 0",
+    "time": "1:30 م"
+  },
+  {
+    "home": "خان شيخون",
+    "homeLogo": "https://jdwel.com/image/teams/5159.png",
+    "away": "الطليعة",
+    "awayLogo": "https://jdwel.com/image/teams/3283.png",
+    "score": "1 - 0",
+    "time": "1:30 م"
+  },
+  {
+    "home": "أهلي حلب",
+    "homeLogo": "https://jdwel.com/image/teams/syr_al_ittihad.png",
+    "away": "حمص الفداء",
+    "awayLogo": "https://jdwel.com/image/teams/5160.png",
+    "score": "0 - 0",
+    "time": "1:00 م"
+  },
+  {
+    "home": "حطين",
+    "homeLogo": "https://jdwel.com/image/teams/5229.png",
+    "away": "الشعلة",
+    "awayLogo": "https://jdwel.com/image/teams/5230.png",
+    "score": "0 - 0",
+    "time": "1:00 م"
+  },
+  {
+    "home": "تشرين",
+    "homeLogo": "https://jdwel.com/image/teams/1767.png",
+    "away": "دمشق الأهلي",
+    "awayLogo": "https://jdwel.com/image/teams/5161.png",
+    "score": "1 - 1",
+    "time": "1:00 م"
+  },
+  {
+    "home": "الوحدة",
+    "homeLogo": "https://jdwel.com/image/teams/5233.png",
+    "away": "الجيش",
+    "awayLogo": "https://jdwel.com/image/teams/5164.png",
+    "score": "5 - 1",
+    "time": "1:00 م"
+  },
+  {
+    "home": "الطليعة",
+    "homeLogo": "https://jdwel.com/image/teams/3283.png",
+    "away": "أهلي حلب",
+    "awayLogo": "https://jdwel.com/image/teams/syr_al_ittihad.png",
+    "score": "2 - 2",
+    "time": "1:30 م"
+  },
+  {
+    "home": "الحرية",
+    "homeLogo": "https://jdwel.com/image/teams/275.png",
+    "away": "حطين",
+    "awayLogo": "https://jdwel.com/image/teams/5229.png",
+    "score": "0 - 1",
+    "time": "1:30 م"
+  },
+  {
+    "home": "أمية",
+    "homeLogo": "https://jdwel.com/image/teams/5162.png",
+    "away": "الفتوة",
+    "awayLogo": "https://jdwel.com/image/teams/1768.png",
+    "score": "1 - 3",
+    "time": "1:30 م"
+  },
+  {
+    "home": "الشعلة",
+    "homeLogo": "https://jdwel.com/image/teams/5230.png",
+    "away": "خان شيخون",
+    "awayLogo": "https://jdwel.com/image/teams/5159.png",
+    "score": "1 - 0",
+    "time": "1:00 م"
+  },
+  {
+    "home": "الشرطة",
+    "homeLogo": "https://jdwel.com/image/teams/5231.png",
+    "away": "حمص الفداء",
+    "awayLogo": "https://jdwel.com/image/teams/5160.png",
+    "score": "1 - 2",
+    "time": "1:00 م"
+  },
+  {
+    "home": "الكرامة",
+    "homeLogo": "https://jdwel.com/image/teams/3198.png",
+    "away": "جبلة",
+    "awayLogo": "https://jdwel.com/image/teams/2970.png",
+    "score": "2 - 0",
+    "time": "1:00 م"
+  },
+  {
+    "home": "الجيش",
+    "homeLogo": "https://jdwel.com/image/teams/5164.png",
+    "away": "أمية",
+    "awayLogo": "https://jdwel.com/image/teams/5162.png",
+    "score": "2 - 1",
+    "time": "1:30 م"
+  },
+  {
+    "home": "جبلة",
+    "homeLogo": "https://jdwel.com/image/teams/2970.png",
+    "away": "الحرية",
+    "awayLogo": "https://jdwel.com/image/teams/275.png",
+    "score": "2 - 2",
+    "time": "1:30 م"
+  },
+  {
+    "home": "أهلي حلب",
+    "homeLogo": "https://jdwel.com/image/teams/syr_al_ittihad.png",
+    "away": "الكرامة",
+    "awayLogo": "https://jdwel.com/image/teams/3198.png",
+    "score": "1 - 0",
+    "time": "1:30 م"
+  },
+  {
+    "home": "الفتوة",
+    "homeLogo": "https://jdwel.com/image/teams/1768.png",
+    "away": "الشعلة",
+    "awayLogo": "https://jdwel.com/image/teams/5230.png",
+    "score": "1 - 0",
+    "time": "1:30 م"
+  },
+  {
+    "home": "حطين",
+    "homeLogo": "https://jdwel.com/image/teams/5229.png",
+    "away": "الوحدة",
+    "awayLogo": "https://jdwel.com/image/teams/5233.png",
+    "score": "2 - 1",
+    "time": "1:30 م"
+  },
+  {
+    "home": "دمشق الأهلي",
+    "homeLogo": "https://jdwel.com/image/teams/5161.png",
+    "away": "الطليعة",
+    "awayLogo": "https://jdwel.com/image/teams/3283.png",
+    "score": "0 - 0",
+    "time": "1:30 م"
+  },
+  {
+    "home": "خان شيخون",
+    "homeLogo": "https://jdwel.com/image/teams/5159.png",
+    "away": "الشرطة",
+    "awayLogo": "https://jdwel.com/image/teams/5231.png",
+    "score": "0 - 1",
+    "time": "1:30 م"
+  },
+  {
+    "home": "حمص الفداء",
+    "homeLogo": "https://jdwel.com/image/teams/5160.png",
+    "away": "تشرين",
+    "awayLogo": "https://jdwel.com/image/teams/1767.png",
+    "score": "0 - 0",
+    "time": "1:00 م"
+  },
+  {
+    "home": "الفتوة",
+    "homeLogo": "https://jdwel.com/image/teams/1768.png",
+    "away": "أهلي حلب",
+    "awayLogo": "https://jdwel.com/image/teams/syr_al_ittihad.png",
+    "score": "0 - 0",
+    "time": "1:00 م"
+  },
+  {
+    "home": "الحرية",
+    "homeLogo": "https://jdwel.com/image/teams/275.png",
+    "away": "الوحدة",
+    "awayLogo": "https://jdwel.com/image/teams/5233.png",
+    "score": "0 - 0",
+    "time": "1:00 م"
+  },
+  {
+    "home": "دمشق الأهلي",
+    "homeLogo": "https://jdwel.com/image/teams/5161.png",
+    "away": "الكرامة",
+    "awayLogo": "https://jdwel.com/image/teams/3198.png",
+    "score": "0 - 0",
+    "time": "1:00 م"
+  }
+]

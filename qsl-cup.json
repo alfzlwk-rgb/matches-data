@@ -1,0 +1,906 @@
+[
+  {
+    "home": "الوعب",
+    "homeLogo": "https://jdwel.com/image/teams/2878.png",
+    "away": "مسيمير",
+    "awayLogo": "https://jdwel.com/image/teams/1507.png",
+    "score": "1 - 1",
+    "time": "6:30 م"
+  },
+  {
+    "home": "الخريطيات",
+    "homeLogo": "https://jdwel.com/image/teams/792.png",
+    "away": "لوسيل",
+    "awayLogo": "https://jdwel.com/image/teams/3208.png",
+    "score": "5 - 1",
+    "time": "6:30 م"
+  },
+  {
+    "home": "المرخية",
+    "homeLogo": "https://jdwel.com/image/teams/158.png",
+    "away": "معيذر",
+    "awayLogo": "https://jdwel.com/image/teams/161.png",
+    "score": "0 - 0",
+    "time": "8:30 م"
+  },
+  {
+    "home": "الغرافة",
+    "homeLogo": "https://jdwel.com/image/teams/2995.png",
+    "away": "السد",
+    "awayLogo": "https://jdwel.com/image/teams/1109.png",
+    "score": "3 - 3",
+    "time": "8:30 م"
+  },
+  {
+    "home": "الوكرة",
+    "homeLogo": "https://jdwel.com/image/teams/4214.png",
+    "away": "العربي",
+    "awayLogo": "https://jdwel.com/image/teams/5435.png",
+    "score": "1 - 3",
+    "time": "6:30 م"
+  },
+  {
+    "home": "الأهلي",
+    "homeLogo": "https://jdwel.com/image/teams/1110.png",
+    "away": "الدحيل",
+    "awayLogo": "https://jdwel.com/image/teams/2993.png",
+    "score": "0 - 0",
+    "time": "8:30 م"
+  },
+  {
+    "home": "الخور",
+    "homeLogo": "https://jdwel.com/image/teams/2996.png",
+    "away": "البدع",
+    "awayLogo": "https://jdwel.com/image/teams/2880.png",
+    "score": "3 - 0",
+    "time": "6:30 م"
+  },
+  {
+    "home": "الشحانية",
+    "homeLogo": "https://jdwel.com/image/teams/2997.png",
+    "away": "السيلية",
+    "awayLogo": "https://jdwel.com/image/teams/4852.png",
+    "score": "1 - 2",
+    "time": "6:30 م"
+  },
+  {
+    "home": "الشمال",
+    "homeLogo": "https://jdwel.com/image/teams/2795.png",
+    "away": "أم صلال",
+    "awayLogo": "https://jdwel.com/image/teams/2348.png",
+    "score": "1 - 3",
+    "time": "8:30 م"
+  },
+  {
+    "home": "الريان",
+    "homeLogo": "https://jdwel.com/image/teams/2994.png",
+    "away": "نادي قطر",
+    "awayLogo": "https://jdwel.com/image/teams/3882.png",
+    "score": "4 - 1",
+    "time": "8:30 م"
+  },
+  {
+    "home": "مسيمير",
+    "homeLogo": "https://jdwel.com/image/teams/1507.png",
+    "away": "الدحيل",
+    "awayLogo": "https://jdwel.com/image/teams/2993.png",
+    "score": "1 - 2",
+    "time": "6:00 م"
+  },
+  {
+    "home": "العربي",
+    "homeLogo": "https://jdwel.com/image/teams/5435.png",
+    "away": "الوعب",
+    "awayLogo": "https://jdwel.com/image/teams/2878.png",
+    "score": "1 - 1",
+    "time": "6:00 م"
+  },
+  {
+    "home": "معيذر",
+    "homeLogo": "https://jdwel.com/image/teams/161.png",
+    "away": "الغرافة",
+    "awayLogo": "https://jdwel.com/image/teams/2995.png",
+    "score": "5 - 2",
+    "time": "8:00 م"
+  },
+  {
+    "home": "البدع",
+    "homeLogo": "https://jdwel.com/image/teams/2880.png",
+    "away": "السد",
+    "awayLogo": "https://jdwel.com/image/teams/1109.png",
+    "score": "3 - 1",
+    "time": "8:00 م"
+  },
+  {
+    "home": "الشحانية",
+    "homeLogo": "https://jdwel.com/image/teams/2997.png",
+    "away": "الشمال",
+    "awayLogo": "https://jdwel.com/image/teams/2795.png",
+    "score": "0 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "الريان",
+    "homeLogo": "https://jdwel.com/image/teams/2994.png",
+    "away": "الوكرة",
+    "awayLogo": "https://jdwel.com/image/teams/4214.png",
+    "score": "4 - 3",
+    "time": "8:00 م"
+  },
+  {
+    "home": "أم صلال",
+    "homeLogo": "https://jdwel.com/image/teams/2348.png",
+    "away": "الخور",
+    "awayLogo": "https://jdwel.com/image/teams/2996.png",
+    "score": "1 - 1",
+    "time": "6:00 م"
+  },
+  {
+    "home": "نادي قطر",
+    "homeLogo": "https://jdwel.com/image/teams/3882.png",
+    "away": "الخريطيات",
+    "awayLogo": "https://jdwel.com/image/teams/792.png",
+    "score": "1 - 4",
+    "time": "6:00 م"
+  },
+  {
+    "home": "السيلية",
+    "homeLogo": "https://jdwel.com/image/teams/4852.png",
+    "away": "المرخية",
+    "awayLogo": "https://jdwel.com/image/teams/158.png",
+    "score": "1 - 0",
+    "time": "8:00 م"
+  },
+  {
+    "home": "لوسيل",
+    "homeLogo": "https://jdwel.com/image/teams/3208.png",
+    "away": "الأهلي",
+    "awayLogo": "https://jdwel.com/image/teams/1110.png",
+    "score": "4 - 1",
+    "time": "8:00 م"
+  },
+  {
+    "home": "الدحيل",
+    "homeLogo": "https://jdwel.com/image/teams/2993.png",
+    "away": "الخريطيات",
+    "awayLogo": "https://jdwel.com/image/teams/792.png",
+    "score": "0 - 4",
+    "time": "6:00 م"
+  },
+  {
+    "home": "الشحانية",
+    "homeLogo": "https://jdwel.com/image/teams/2997.png",
+    "away": "معيذر",
+    "awayLogo": "https://jdwel.com/image/teams/161.png",
+    "score": "2 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "الغرافة",
+    "homeLogo": "https://jdwel.com/image/teams/2995.png",
+    "away": "الخور",
+    "awayLogo": "https://jdwel.com/image/teams/2996.png",
+    "score": "0 - 1",
+    "time": "8:00 م"
+  },
+  {
+    "home": "الوكرة",
+    "homeLogo": "https://jdwel.com/image/teams/4214.png",
+    "away": "مسيمير",
+    "awayLogo": "https://jdwel.com/image/teams/1507.png",
+    "score": "2 - 3",
+    "time": "6:00 م"
+  },
+  {
+    "home": "الشمال",
+    "homeLogo": "https://jdwel.com/image/teams/2795.png",
+    "away": "البدع",
+    "awayLogo": "https://jdwel.com/image/teams/2880.png",
+    "score": "3 - 3",
+    "time": "6:00 م"
+  },
+  {
+    "home": "السد",
+    "homeLogo": "https://jdwel.com/image/teams/1109.png",
+    "away": "المرخية",
+    "awayLogo": "https://jdwel.com/image/teams/158.png",
+    "score": "2 - 3",
+    "time": "8:00 م"
+  },
+  {
+    "home": "الأهلي",
+    "homeLogo": "https://jdwel.com/image/teams/1110.png",
+    "away": "الوعب",
+    "awayLogo": "https://jdwel.com/image/teams/2878.png",
+    "score": "0 - 1",
+    "time": "6:00 م"
+  },
+  {
+    "home": "الريان",
+    "homeLogo": "https://jdwel.com/image/teams/2994.png",
+    "away": "لوسيل",
+    "awayLogo": "https://jdwel.com/image/teams/3208.png",
+    "score": "5 - 2",
+    "time": "6:00 م"
+  },
+  {
+    "home": "أم صلال",
+    "homeLogo": "https://jdwel.com/image/teams/2348.png",
+    "away": "السيلية",
+    "awayLogo": "https://jdwel.com/image/teams/4852.png",
+    "score": "3 - 1",
+    "time": "8:00 م"
+  },
+  {
+    "home": "العربي",
+    "homeLogo": "https://jdwel.com/image/teams/5435.png",
+    "away": "نادي قطر",
+    "awayLogo": "https://jdwel.com/image/teams/3882.png",
+    "score": "4 - 1",
+    "time": "8:00 م"
+  },
+  {
+    "home": "البدع",
+    "homeLogo": "https://jdwel.com/image/teams/2880.png",
+    "away": "معيذر",
+    "awayLogo": "https://jdwel.com/image/teams/161.png",
+    "score": "2 - 2",
+    "time": "5:30 م"
+  },
+  {
+    "home": "الغرافة",
+    "homeLogo": "https://jdwel.com/image/teams/2995.png",
+    "away": "السيلية",
+    "awayLogo": "https://jdwel.com/image/teams/4852.png",
+    "score": "0 - 3",
+    "time": "7:30 م"
+  },
+  {
+    "home": "الوكرة",
+    "homeLogo": "https://jdwel.com/image/teams/4214.png",
+    "away": "الخريطيات",
+    "awayLogo": "https://jdwel.com/image/teams/792.png",
+    "score": "1 - 1",
+    "time": "7:30 م"
+  },
+  {
+    "home": "الشحانية",
+    "homeLogo": "https://jdwel.com/image/teams/2997.png",
+    "away": "الخور",
+    "awayLogo": "https://jdwel.com/image/teams/2996.png",
+    "score": "3 - 2",
+    "time": "5:30 م"
+  },
+  {
+    "home": "مسيمير",
+    "homeLogo": "https://jdwel.com/image/teams/1507.png",
+    "away": "لوسيل",
+    "awayLogo": "https://jdwel.com/image/teams/3208.png",
+    "score": "1 - 1",
+    "time": "5:30 م"
+  },
+  {
+    "home": "الريان",
+    "homeLogo": "https://jdwel.com/image/teams/2994.png",
+    "away": "الوعب",
+    "awayLogo": "https://jdwel.com/image/teams/2878.png",
+    "score": "2 - 2",
+    "time": "7:30 م"
+  },
+  {
+    "home": "الشمال",
+    "homeLogo": "https://jdwel.com/image/teams/2795.png",
+    "away": "المرخية",
+    "awayLogo": "https://jdwel.com/image/teams/158.png",
+    "score": "5 - 0",
+    "time": "7:30 م"
+  },
+  {
+    "home": "الأهلي",
+    "homeLogo": "https://jdwel.com/image/teams/1110.png",
+    "away": "نادي قطر",
+    "awayLogo": "https://jdwel.com/image/teams/3882.png",
+    "score": "1 - 6",
+    "time": "5:30 م"
+  },
+  {
+    "home": "السد",
+    "homeLogo": "https://jdwel.com/image/teams/1109.png",
+    "away": "أم صلال",
+    "awayLogo": "https://jdwel.com/image/teams/2348.png",
+    "score": "0 - 5",
+    "time": "5:30 م"
+  },
+  {
+    "home": "الدحيل",
+    "homeLogo": "https://jdwel.com/image/teams/2993.png",
+    "away": "العربي",
+    "awayLogo": "https://jdwel.com/image/teams/5435.png",
+    "score": "0 - 4",
+    "time": "7:30 م"
+  },
+  {
+    "home": "الخريطيات",
+    "homeLogo": "https://jdwel.com/image/teams/792.png",
+    "away": "الوعب",
+    "awayLogo": "https://jdwel.com/image/teams/2878.png",
+    "score": "0 - 3",
+    "time": "5:30 م"
+  },
+  {
+    "home": "الغرافة",
+    "homeLogo": "https://jdwel.com/image/teams/2995.png",
+    "away": "الشمال",
+    "awayLogo": "https://jdwel.com/image/teams/2795.png",
+    "score": "0 - 1",
+    "time": "7:30 م"
+  },
+  {
+    "home": "نادي قطر",
+    "homeLogo": "https://jdwel.com/image/teams/3882.png",
+    "away": "مسيمير",
+    "awayLogo": "https://jdwel.com/image/teams/1507.png",
+    "score": "2 - 2",
+    "time": "5:30 م"
+  },
+  {
+    "home": "السد",
+    "homeLogo": "https://jdwel.com/image/teams/1109.png",
+    "away": "الشحانية",
+    "awayLogo": "https://jdwel.com/image/teams/2997.png",
+    "score": "1 - 2",
+    "time": "5:30 م"
+  },
+  {
+    "home": "العربي",
+    "homeLogo": "https://jdwel.com/image/teams/5435.png",
+    "away": "لوسيل",
+    "awayLogo": "https://jdwel.com/image/teams/3208.png",
+    "score": "6 - 1",
+    "time": "7:30 م"
+  },
+  {
+    "home": "الدحيل",
+    "homeLogo": "https://jdwel.com/image/teams/2993.png",
+    "away": "الريان",
+    "awayLogo": "https://jdwel.com/image/teams/2994.png",
+    "score": "1 - 3",
+    "time": "7:30 م"
+  },
+  {
+    "home": "السيلية",
+    "homeLogo": "https://jdwel.com/image/teams/4852.png",
+    "away": "البدع",
+    "awayLogo": "https://jdwel.com/image/teams/2880.png",
+    "score": "0 - 3",
+    "time": "5:30 م"
+  },
+  {
+    "home": "المرخية",
+    "homeLogo": "https://jdwel.com/image/teams/158.png",
+    "away": "الخور",
+    "awayLogo": "https://jdwel.com/image/teams/2996.png",
+    "score": "1 - 0",
+    "time": "7:30 م"
+  },
+  {
+    "home": "أم صلال",
+    "homeLogo": "https://jdwel.com/image/teams/2348.png",
+    "away": "معيذر",
+    "awayLogo": "https://jdwel.com/image/teams/161.png",
+    "score": "2 - 3",
+    "time": "7:30 م"
+  },
+  {
+    "home": "الأهلي",
+    "homeLogo": "https://jdwel.com/image/teams/1110.png",
+    "away": "الوكرة",
+    "awayLogo": "https://jdwel.com/image/teams/4214.png",
+    "score": "2 - 2",
+    "time": "4:30 م"
+  },
+  {
+    "home": "نادي قطر",
+    "homeLogo": "https://jdwel.com/image/teams/3882.png",
+    "away": "الشحانية",
+    "awayLogo": "https://jdwel.com/image/teams/2997.png",
+    "score": "0 - 1",
+    "time": "4:30 م"
+  },
+  {
+    "home": "العربي",
+    "homeLogo": "https://jdwel.com/image/teams/5435.png",
+    "away": "الشمال",
+    "awayLogo": "https://jdwel.com/image/teams/2795.png",
+    "score": "0 - 3",
+    "time": "4:30 م"
+  },
+  {
+    "home": "السيلية",
+    "homeLogo": "https://jdwel.com/image/teams/4852.png",
+    "away": "الريان",
+    "awayLogo": "https://jdwel.com/image/teams/2994.png",
+    "score": "1 - 4",
+    "time": "6:30 م"
+  },
+  {
+    "home": "الدحيل",
+    "homeLogo": "https://jdwel.com/image/teams/2993.png",
+    "away": "الغرافة",
+    "awayLogo": "https://jdwel.com/image/teams/2995.png",
+    "score": "1 - 0",
+    "time": "6:30 م"
+  },
+  {
+    "home": "البدع",
+    "homeLogo": "https://jdwel.com/image/teams/2880.png",
+    "away": "الوعب",
+    "awayLogo": "https://jdwel.com/image/teams/2878.png",
+    "score": "0 - 2",
+    "time": "4:30 م"
+  },
+  {
+    "home": "لوسيل",
+    "homeLogo": "https://jdwel.com/image/teams/3208.png",
+    "away": "المرخية",
+    "awayLogo": "https://jdwel.com/image/teams/158.png",
+    "score": "1 - 2",
+    "time": "6:30 م"
+  },
+  {
+    "home": "مسيمير",
+    "homeLogo": "https://jdwel.com/image/teams/1507.png",
+    "away": "الخور",
+    "awayLogo": "https://jdwel.com/image/teams/2996.png",
+    "score": "2 - 3",
+    "time": "4:30 م"
+  },
+  {
+    "home": "معيذر",
+    "homeLogo": "https://jdwel.com/image/teams/161.png",
+    "away": "الخريطيات",
+    "awayLogo": "https://jdwel.com/image/teams/792.png",
+    "score": "1 - 0",
+    "time": "4:30 م"
+  },
+  {
+    "home": "السد",
+    "homeLogo": "https://jdwel.com/image/teams/1109.png",
+    "away": "الأهلي",
+    "awayLogo": "https://jdwel.com/image/teams/1110.png",
+    "score": "2 - 2",
+    "time": "6:30 م"
+  },
+  {
+    "home": "أم صلال",
+    "homeLogo": "https://jdwel.com/image/teams/2348.png",
+    "away": "الوكرة",
+    "awayLogo": "https://jdwel.com/image/teams/4214.png",
+    "score": "3 - 1",
+    "time": "6:30 م"
+  },
+  {
+    "home": "المرخية",
+    "homeLogo": "https://jdwel.com/image/teams/158.png",
+    "away": "نادي قطر",
+    "awayLogo": "https://jdwel.com/image/teams/3882.png",
+    "score": "3 - 1",
+    "time": "3:00 م"
+  },
+  {
+    "home": "الدحيل",
+    "homeLogo": "https://jdwel.com/image/teams/2993.png",
+    "away": "البدع",
+    "awayLogo": "https://jdwel.com/image/teams/2880.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "الوكرة",
+    "homeLogo": "https://jdwel.com/image/teams/4214.png",
+    "away": "الشحانية",
+    "awayLogo": "https://jdwel.com/image/teams/2997.png",
+    "score": "3 - 0",
+    "time": "7:15 م"
+  },
+  {
+    "home": "السد",
+    "homeLogo": "https://jdwel.com/image/teams/1109.png",
+    "away": "مسيمير",
+    "awayLogo": "https://jdwel.com/image/teams/1507.png",
+    "score": "1 - 3",
+    "time": "7:15 م"
+  },
+  {
+    "home": "الأهلي",
+    "homeLogo": "https://jdwel.com/image/teams/1110.png",
+    "away": "معيذر",
+    "awayLogo": "https://jdwel.com/image/teams/161.png",
+    "score": "1 - 2",
+    "time": "4:30 م"
+  },
+  {
+    "home": "الشمال",
+    "homeLogo": "https://jdwel.com/image/teams/2795.png",
+    "away": "الريان",
+    "awayLogo": "https://jdwel.com/image/teams/2994.png",
+    "score": "1 - 2",
+    "time": "6:30 م"
+  },
+  {
+    "home": "الغرافة",
+    "homeLogo": "https://jdwel.com/image/teams/2995.png",
+    "away": "لوسيل",
+    "awayLogo": "https://jdwel.com/image/teams/3208.png",
+    "score": "1 - 1",
+    "time": "6:30 م"
+  },
+  {
+    "home": "الوعب",
+    "homeLogo": "https://jdwel.com/image/teams/2878.png",
+    "away": "أم صلال",
+    "awayLogo": "https://jdwel.com/image/teams/2348.png",
+    "score": "1 - 2",
+    "time": "4:30 م"
+  },
+  {
+    "home": "الخريطيات",
+    "homeLogo": "https://jdwel.com/image/teams/792.png",
+    "away": "السيلية",
+    "awayLogo": "https://jdwel.com/image/teams/4852.png",
+    "score": "2 - 3",
+    "time": "6:30 م"
+  },
+  {
+    "home": "الخور",
+    "homeLogo": "https://jdwel.com/image/teams/2996.png",
+    "away": "العربي",
+    "awayLogo": "https://jdwel.com/image/teams/5435.png",
+    "score": "3 - 4",
+    "time": "6:30 م"
+  },
+  {
+    "home": "الوعب",
+    "homeLogo": "https://jdwel.com/image/teams/2878.png",
+    "away": "الغرافة",
+    "awayLogo": "https://jdwel.com/image/teams/2995.png",
+    "score": "2 - 1",
+    "time": "3:00 م"
+  },
+  {
+    "home": "المرخية",
+    "homeLogo": "https://jdwel.com/image/teams/158.png",
+    "away": "الدحيل",
+    "awayLogo": "https://jdwel.com/image/teams/2993.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "الخريطيات",
+    "homeLogo": "https://jdwel.com/image/teams/792.png",
+    "away": "السد",
+    "awayLogo": "https://jdwel.com/image/teams/1109.png",
+    "score": "0 - 5",
+    "time": "3:00 م"
+  },
+  {
+    "home": "البدع",
+    "homeLogo": "https://jdwel.com/image/teams/2880.png",
+    "away": "الوكرة",
+    "awayLogo": "https://jdwel.com/image/teams/4214.png",
+    "score": "2 - 1",
+    "time": "4:30 م"
+  },
+  {
+    "home": "الخور",
+    "homeLogo": "https://jdwel.com/image/teams/2996.png",
+    "away": "الأهلي",
+    "awayLogo": "https://jdwel.com/image/teams/1110.png",
+    "score": "2 - 4",
+    "time": "6:30 م"
+  },
+  {
+    "home": "مسيمير",
+    "homeLogo": "https://jdwel.com/image/teams/1507.png",
+    "away": "الشمال",
+    "awayLogo": "https://jdwel.com/image/teams/2795.png",
+    "score": "1 - 1",
+    "time": "6:30 م"
+  },
+  {
+    "home": "السيلية",
+    "homeLogo": "https://jdwel.com/image/teams/4852.png",
+    "away": "العربي",
+    "awayLogo": "https://jdwel.com/image/teams/5435.png",
+    "score": "3 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "نادي قطر",
+    "homeLogo": "https://jdwel.com/image/teams/3882.png",
+    "away": "أم صلال",
+    "awayLogo": "https://jdwel.com/image/teams/2348.png",
+    "score": "6 - 1",
+    "time": "3:00 م"
+  },
+  {
+    "home": "معيذر",
+    "homeLogo": "https://jdwel.com/image/teams/161.png",
+    "away": "الريان",
+    "awayLogo": "https://jdwel.com/image/teams/2994.png",
+    "score": "1 - 3",
+    "time": "7:15 م"
+  },
+  {
+    "home": "لوسيل",
+    "homeLogo": "https://jdwel.com/image/teams/3208.png",
+    "away": "الشحانية",
+    "awayLogo": "https://jdwel.com/image/teams/2997.png",
+    "score": "1 - 1",
+    "time": "7:15 م"
+  },
+  {
+    "home": "الريان",
+    "homeLogo": "https://jdwel.com/image/teams/2994.png",
+    "away": "السد",
+    "awayLogo": "https://jdwel.com/image/teams/1109.png",
+    "score": "5 - 3",
+    "time": "4:30 م"
+  },
+  {
+    "home": "مسيمير",
+    "homeLogo": "https://jdwel.com/image/teams/1507.png",
+    "away": "السيلية",
+    "awayLogo": "https://jdwel.com/image/teams/4852.png",
+    "score": "3 - 0",
+    "time": "6:30 م"
+  },
+  {
+    "home": "البدع",
+    "homeLogo": "https://jdwel.com/image/teams/2880.png",
+    "away": "نادي قطر",
+    "awayLogo": "https://jdwel.com/image/teams/3882.png",
+    "score": "1 - 2",
+    "time": "6:30 م"
+  },
+  {
+    "home": "الخور",
+    "homeLogo": "https://jdwel.com/image/teams/2996.png",
+    "away": "الخريطيات",
+    "awayLogo": "https://jdwel.com/image/teams/792.png",
+    "score": "1 - 2",
+    "time": "3:00 م"
+  },
+  {
+    "home": "الوعب",
+    "homeLogo": "https://jdwel.com/image/teams/2878.png",
+    "away": "المرخية",
+    "awayLogo": "https://jdwel.com/image/teams/158.png",
+    "score": "1 - 3",
+    "time": "3:00 م"
+  },
+  {
+    "home": "الوكرة",
+    "homeLogo": "https://jdwel.com/image/teams/4214.png",
+    "away": "الغرافة",
+    "awayLogo": "https://jdwel.com/image/teams/2995.png",
+    "score": "2 - 3",
+    "time": "7:15 م"
+  },
+  {
+    "home": "معيذر",
+    "homeLogo": "https://jdwel.com/image/teams/161.png",
+    "away": "العربي",
+    "awayLogo": "https://jdwel.com/image/teams/5435.png",
+    "score": "3 - 0",
+    "time": "7:15 م"
+  },
+  {
+    "home": "الشحانية",
+    "homeLogo": "https://jdwel.com/image/teams/2997.png",
+    "away": "الدحيل",
+    "awayLogo": "https://jdwel.com/image/teams/2993.png",
+    "score": "2 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "لوسيل",
+    "homeLogo": "https://jdwel.com/image/teams/3208.png",
+    "away": "أم صلال",
+    "awayLogo": "https://jdwel.com/image/teams/2348.png",
+    "score": "3 - 3",
+    "time": "4:30 م"
+  },
+  {
+    "home": "الشمال",
+    "homeLogo": "https://jdwel.com/image/teams/2795.png",
+    "away": "الأهلي",
+    "awayLogo": "https://jdwel.com/image/teams/1110.png",
+    "score": "0 - 1",
+    "time": "6:30 م"
+  },
+  {
+    "home": "أم صلال",
+    "homeLogo": "https://jdwel.com/image/teams/2348.png",
+    "away": "الدحيل",
+    "awayLogo": "https://jdwel.com/image/teams/2993.png",
+    "score": "3 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "نادي قطر",
+    "homeLogo": "https://jdwel.com/image/teams/3882.png",
+    "away": "الغرافة",
+    "awayLogo": "https://jdwel.com/image/teams/2995.png",
+    "score": "3 - 2",
+    "time": "3:30 م"
+  },
+  {
+    "home": "السيلية",
+    "homeLogo": "https://jdwel.com/image/teams/4852.png",
+    "away": "الأهلي",
+    "awayLogo": "https://jdwel.com/image/teams/1110.png",
+    "score": "2 - 1",
+    "time": "5:30 م"
+  },
+  {
+    "home": "العربي",
+    "homeLogo": "https://jdwel.com/image/teams/5435.png",
+    "away": "السد",
+    "awayLogo": "https://jdwel.com/image/teams/1109.png",
+    "score": "5 - 0",
+    "time": "5:30 م"
+  },
+  {
+    "home": "المرخية",
+    "homeLogo": "https://jdwel.com/image/teams/158.png",
+    "away": "الوكرة",
+    "awayLogo": "https://jdwel.com/image/teams/4214.png",
+    "score": "1 - 1",
+    "time": "3:30 م"
+  },
+  {
+    "home": "الوعب",
+    "homeLogo": "https://jdwel.com/image/teams/2878.png",
+    "away": "الشحانية",
+    "awayLogo": "https://jdwel.com/image/teams/2997.png",
+    "score": "2 - 1",
+    "time": "5:30 م"
+  },
+  {
+    "home": "الخريطيات",
+    "homeLogo": "https://jdwel.com/image/teams/792.png",
+    "away": "الشمال",
+    "awayLogo": "https://jdwel.com/image/teams/2795.png",
+    "score": "1 - 4",
+    "time": "5:30 م"
+  },
+  {
+    "home": "الخور",
+    "homeLogo": "https://jdwel.com/image/teams/2996.png",
+    "away": "الريان",
+    "awayLogo": "https://jdwel.com/image/teams/2994.png",
+    "score": "2 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "لوسيل",
+    "homeLogo": "https://jdwel.com/image/teams/3208.png",
+    "away": "البدع",
+    "awayLogo": "https://jdwel.com/image/teams/2880.png",
+    "score": "0 - 1",
+    "time": "5:30 م"
+  },
+  {
+    "home": "معيذر",
+    "homeLogo": "https://jdwel.com/image/teams/161.png",
+    "away": "مسيمير",
+    "awayLogo": "https://jdwel.com/image/teams/1507.png",
+    "score": "4 - 1",
+    "time": "5:30 م"
+  },
+  {
+    "home": "معيذر",
+    "homeLogo": "https://jdwel.com/image/teams/161.png",
+    "away": "الخريطيات",
+    "awayLogo": "https://jdwel.com/image/teams/792.png",
+    "score": "2 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "الوعب",
+    "homeLogo": "https://jdwel.com/image/teams/2878.png",
+    "away": "مسيمير",
+    "awayLogo": "https://jdwel.com/image/teams/1507.png",
+    "score": "3 - 1",
+    "time": "5:30 م"
+  },
+  {
+    "home": "العربي",
+    "homeLogo": "https://jdwel.com/image/teams/5435.png",
+    "away": "نادي قطر",
+    "awayLogo": "https://jdwel.com/image/teams/3882.png",
+    "score": "2 - 212 - 11",
+    "time": "5:30 م"
+  },
+  {
+    "home": "المرخية",
+    "homeLogo": "https://jdwel.com/image/teams/158.png",
+    "away": "الخور",
+    "awayLogo": "https://jdwel.com/image/teams/2996.png",
+    "score": "2 - 1",
+    "time": "3:30 م"
+  },
+  {
+    "home": "الشحانية",
+    "homeLogo": "https://jdwel.com/image/teams/2997.png",
+    "away": "الشمال",
+    "awayLogo": "https://jdwel.com/image/teams/2795.png",
+    "score": "1 - 0",
+    "time": "5:30 م"
+  },
+  {
+    "home": "السيلية",
+    "homeLogo": "https://jdwel.com/image/teams/4852.png",
+    "away": "البدع",
+    "awayLogo": "https://jdwel.com/image/teams/2880.png",
+    "score": "1 - 3",
+    "time": "5:30 م"
+  },
+  {
+    "home": "أم صلال",
+    "homeLogo": "https://jdwel.com/image/teams/2348.png",
+    "away": "البدع",
+    "awayLogo": "https://jdwel.com/image/teams/2880.png",
+    "score": "0 - 0",
+    "time": "8:30 م"
+  },
+  {
+    "home": "الريان",
+    "homeLogo": "https://jdwel.com/image/teams/2994.png",
+    "away": "الشحانية",
+    "awayLogo": "https://jdwel.com/image/teams/2997.png",
+    "score": "0 - 0",
+    "time": "8:30 م"
+  },
+  {
+    "home": "العربي",
+    "homeLogo": "https://jdwel.com/image/teams/5435.png",
+    "away": "الوعب",
+    "awayLogo": "https://jdwel.com/image/teams/2878.png",
+    "score": "0 - 0",
+    "time": "8:30 م"
+  },
+  {
+    "home": "معيذر",
+    "homeLogo": "https://jdwel.com/image/teams/161.png",
+    "away": "المرخية",
+    "awayLogo": "https://jdwel.com/image/teams/158.png",
+    "score": "0 - 0",
+    "time": "8:30 م"
+  },
+  {
+    "home": "لم يحدد",
+    "homeLogo": "https://jdwel.com/image/teams/placeholder.png",
+    "away": "لم يحدد",
+    "awayLogo": "https://jdwel.com/image/teams/placeholder.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "لم يحدد",
+    "homeLogo": "https://jdwel.com/image/teams/placeholder.png",
+    "away": "لم يحدد",
+    "awayLogo": "https://jdwel.com/image/teams/placeholder.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "لم يحدد",
+    "homeLogo": "https://jdwel.com/image/teams/placeholder.png",
+    "away": "لم يحدد",
+    "awayLogo": "https://jdwel.com/image/teams/placeholder.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  }
+]

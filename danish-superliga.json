@@ -1,0 +1,1058 @@
+[
+  {
+    "home": "فيبورغ",
+    "homeLogo": "https://jdwel.com/image/teams/3429.png",
+    "away": "كوبنهاغن",
+    "awayLogo": "https://jdwel.com/image/teams/2324.png",
+    "score": "2 - 3",
+    "time": "8:00 م"
+  },
+  {
+    "home": "فريدريكيا",
+    "homeLogo": "https://jdwel.com/image/teams/4810.png",
+    "away": "نوردشيلاند",
+    "awayLogo": "https://jdwel.com/image/teams/1533.png",
+    "score": "2 - 3",
+    "time": "3:00 م"
+  },
+  {
+    "home": "فايله",
+    "homeLogo": "https://jdwel.com/image/teams/den_vejle.png",
+    "away": "راندرز",
+    "awayLogo": "https://jdwel.com/image/teams/1536.png",
+    "score": "1 - 1",
+    "time": "3:00 م"
+  },
+  {
+    "home": "سونويوسك",
+    "homeLogo": "https://jdwel.com/image/teams/den_sonderjyske.png",
+    "away": "آرهوس جمناستيك",
+    "awayLogo": "https://jdwel.com/image/teams/den_agf.png",
+    "score": "1 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "ميتييلاند",
+    "homeLogo": "https://jdwel.com/image/teams/1294.png",
+    "away": "أودنسه",
+    "awayLogo": "https://jdwel.com/image/teams/5096.png",
+    "score": "3 - 3",
+    "time": "7:00 م"
+  },
+  {
+    "home": "بروندبي",
+    "homeLogo": "https://jdwel.com/image/teams/den_brondby.png",
+    "away": "سيلكيبورغ",
+    "awayLogo": "https://jdwel.com/image/teams/den_silkeborg.png",
+    "score": "3 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "آرهوس جمناستيك",
+    "homeLogo": "https://jdwel.com/image/teams/den_agf.png",
+    "away": "راندرز",
+    "awayLogo": "https://jdwel.com/image/teams/1536.png",
+    "score": "1 - 2",
+    "time": "8:00 م"
+  },
+  {
+    "home": "كوبنهاغن",
+    "homeLogo": "https://jdwel.com/image/teams/2324.png",
+    "away": "فايله",
+    "awayLogo": "https://jdwel.com/image/teams/den_vejle.png",
+    "score": "2 - 0",
+    "time": "7:00 م"
+  },
+  {
+    "home": "أودنسه",
+    "homeLogo": "https://jdwel.com/image/teams/5096.png",
+    "away": "فيبورغ",
+    "awayLogo": "https://jdwel.com/image/teams/3429.png",
+    "score": "3 - 1",
+    "time": "3:00 م"
+  },
+  {
+    "home": "سيلكيبورغ",
+    "homeLogo": "https://jdwel.com/image/teams/den_silkeborg.png",
+    "away": "فريدريكيا",
+    "awayLogo": "https://jdwel.com/image/teams/4810.png",
+    "score": "0 - 2",
+    "time": "5:00 م"
+  },
+  {
+    "home": "نوردشيلاند",
+    "homeLogo": "https://jdwel.com/image/teams/1533.png",
+    "away": "بروندبي",
+    "awayLogo": "https://jdwel.com/image/teams/den_brondby.png",
+    "score": "0 - 1",
+    "time": "7:00 م"
+  },
+  {
+    "home": "ميتييلاند",
+    "homeLogo": "https://jdwel.com/image/teams/1294.png",
+    "away": "سونويوسك",
+    "awayLogo": "https://jdwel.com/image/teams/den_sonderjyske.png",
+    "score": "6 - 2",
+    "time": "8:00 م"
+  },
+  {
+    "home": "فريدريكيا",
+    "homeLogo": "https://jdwel.com/image/teams/4810.png",
+    "away": "كوبنهاغن",
+    "awayLogo": "https://jdwel.com/image/teams/2324.png",
+    "score": "0 - 2",
+    "time": "7:00 م"
+  },
+  {
+    "home": "فايله",
+    "homeLogo": "https://jdwel.com/image/teams/den_vejle.png",
+    "away": "أودنسه",
+    "awayLogo": "https://jdwel.com/image/teams/5096.png",
+    "score": "4 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "راندرز",
+    "homeLogo": "https://jdwel.com/image/teams/1536.png",
+    "away": "سيلكيبورغ",
+    "awayLogo": "https://jdwel.com/image/teams/den_silkeborg.png",
+    "score": "1 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "سونويوسك",
+    "homeLogo": "https://jdwel.com/image/teams/den_sonderjyske.png",
+    "away": "نوردشيلاند",
+    "awayLogo": "https://jdwel.com/image/teams/1533.png",
+    "score": "3 - 2",
+    "time": "3:00 م"
+  },
+  {
+    "home": "آرهوس جمناستيك",
+    "homeLogo": "https://jdwel.com/image/teams/den_agf.png",
+    "away": "ميتييلاند",
+    "awayLogo": "https://jdwel.com/image/teams/1294.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "بروندبي",
+    "homeLogo": "https://jdwel.com/image/teams/den_brondby.png",
+    "away": "فيبورغ",
+    "awayLogo": "https://jdwel.com/image/teams/3429.png",
+    "score": "0 - 2",
+    "time": "7:00 م"
+  },
+  {
+    "home": "كوبنهاغن",
+    "homeLogo": "https://jdwel.com/image/teams/2324.png",
+    "away": "آرهوس جمناستيك",
+    "awayLogo": "https://jdwel.com/image/teams/den_agf.png",
+    "score": "2 - 3",
+    "time": "7:00 م"
+  },
+  {
+    "home": "فيبورغ",
+    "homeLogo": "https://jdwel.com/image/teams/3429.png",
+    "away": "سونويوسك",
+    "awayLogo": "https://jdwel.com/image/teams/den_sonderjyske.png",
+    "score": "1 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "ميتييلاند",
+    "homeLogo": "https://jdwel.com/image/teams/1294.png",
+    "away": "فريدريكيا",
+    "awayLogo": "https://jdwel.com/image/teams/4810.png",
+    "score": "3 - 3",
+    "time": "3:00 م"
+  },
+  {
+    "home": "سيلكيبورغ",
+    "homeLogo": "https://jdwel.com/image/teams/den_silkeborg.png",
+    "away": "نوردشيلاند",
+    "awayLogo": "https://jdwel.com/image/teams/1533.png",
+    "score": "4 - 2",
+    "time": "5:00 م"
+  },
+  {
+    "home": "بروندبي",
+    "homeLogo": "https://jdwel.com/image/teams/den_brondby.png",
+    "away": "فايله",
+    "awayLogo": "https://jdwel.com/image/teams/den_vejle.png",
+    "score": "2 - 1",
+    "time": "7:00 م"
+  },
+  {
+    "home": "أودنسه",
+    "homeLogo": "https://jdwel.com/image/teams/5096.png",
+    "away": "راندرز",
+    "awayLogo": "https://jdwel.com/image/teams/1536.png",
+    "score": "3 - 2",
+    "time": "8:00 م"
+  },
+  {
+    "home": "نوردشيلاند",
+    "homeLogo": "https://jdwel.com/image/teams/1533.png",
+    "away": "كوبنهاغن",
+    "awayLogo": "https://jdwel.com/image/teams/2324.png",
+    "score": "1 - 3",
+    "time": "7:00 م"
+  },
+  {
+    "home": "فريدريكيا",
+    "homeLogo": "https://jdwel.com/image/teams/4810.png",
+    "away": "سونويوسك",
+    "awayLogo": "https://jdwel.com/image/teams/den_sonderjyske.png",
+    "score": "3 - 2",
+    "time": "9:00 م"
+  },
+  {
+    "home": "فايله",
+    "homeLogo": "https://jdwel.com/image/teams/den_vejle.png",
+    "away": "ميتييلاند",
+    "awayLogo": "https://jdwel.com/image/teams/1294.png",
+    "score": "0 - 2",
+    "time": "3:00 م"
+  },
+  {
+    "home": "فيبورغ",
+    "homeLogo": "https://jdwel.com/image/teams/3429.png",
+    "away": "سيلكيبورغ",
+    "awayLogo": "https://jdwel.com/image/teams/den_silkeborg.png",
+    "score": "2 - 3",
+    "time": "5:00 م"
+  },
+  {
+    "home": "راندرز",
+    "homeLogo": "https://jdwel.com/image/teams/1536.png",
+    "away": "بروندبي",
+    "awayLogo": "https://jdwel.com/image/teams/den_brondby.png",
+    "score": "0 - 2",
+    "time": "7:00 م"
+  },
+  {
+    "home": "أودنسه",
+    "homeLogo": "https://jdwel.com/image/teams/5096.png",
+    "away": "آرهوس جمناستيك",
+    "awayLogo": "https://jdwel.com/image/teams/den_agf.png",
+    "score": "1 - 5",
+    "time": "8:00 م"
+  },
+  {
+    "home": "كوبنهاغن",
+    "homeLogo": "https://jdwel.com/image/teams/2324.png",
+    "away": "أودنسه",
+    "awayLogo": "https://jdwel.com/image/teams/5096.png",
+    "score": "1 - 1",
+    "time": "7:00 م"
+  },
+  {
+    "home": "فريدريكيا",
+    "homeLogo": "https://jdwel.com/image/teams/4810.png",
+    "away": "راندرز",
+    "awayLogo": "https://jdwel.com/image/teams/1536.png",
+    "score": "1 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "ميتييلاند",
+    "homeLogo": "https://jdwel.com/image/teams/1294.png",
+    "away": "سيلكيبورغ",
+    "awayLogo": "https://jdwel.com/image/teams/den_silkeborg.png",
+    "score": "4 - 2",
+    "time": "3:00 م"
+  },
+  {
+    "home": "سونويوسك",
+    "homeLogo": "https://jdwel.com/image/teams/den_sonderjyske.png",
+    "away": "بروندبي",
+    "awayLogo": "https://jdwel.com/image/teams/den_brondby.png",
+    "score": "2 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "آرهوس جمناستيك",
+    "homeLogo": "https://jdwel.com/image/teams/den_agf.png",
+    "away": "فايله",
+    "awayLogo": "https://jdwel.com/image/teams/den_vejle.png",
+    "score": "1 - 0",
+    "time": "7:00 م"
+  },
+  {
+    "home": "نوردشيلاند",
+    "homeLogo": "https://jdwel.com/image/teams/1533.png",
+    "away": "فيبورغ",
+    "awayLogo": "https://jdwel.com/image/teams/3429.png",
+    "score": "1 - 0",
+    "time": "8:00 م"
+  },
+  {
+    "home": "فايله",
+    "homeLogo": "https://jdwel.com/image/teams/den_vejle.png",
+    "away": "فيبورغ",
+    "awayLogo": "https://jdwel.com/image/teams/3429.png",
+    "score": "1 - 2",
+    "time": "8:00 م"
+  },
+  {
+    "home": "آرهوس جمناستيك",
+    "homeLogo": "https://jdwel.com/image/teams/den_agf.png",
+    "away": "فريدريكيا",
+    "awayLogo": "https://jdwel.com/image/teams/4810.png",
+    "score": "4 - 1",
+    "time": "3:00 م"
+  },
+  {
+    "home": "سيلكيبورغ",
+    "homeLogo": "https://jdwel.com/image/teams/den_silkeborg.png",
+    "away": "سونويوسك",
+    "awayLogo": "https://jdwel.com/image/teams/den_sonderjyske.png",
+    "score": "0 - 2",
+    "time": "3:00 م"
+  },
+  {
+    "home": "أودنسه",
+    "homeLogo": "https://jdwel.com/image/teams/5096.png",
+    "away": "نوردشيلاند",
+    "awayLogo": "https://jdwel.com/image/teams/1533.png",
+    "score": "1 - 2",
+    "time": "5:00 م"
+  },
+  {
+    "home": "راندرز",
+    "homeLogo": "https://jdwel.com/image/teams/1536.png",
+    "away": "كوبنهاغن",
+    "awayLogo": "https://jdwel.com/image/teams/2324.png",
+    "score": "1 - 5",
+    "time": "7:00 م"
+  },
+  {
+    "home": "بروندبي",
+    "homeLogo": "https://jdwel.com/image/teams/den_brondby.png",
+    "away": "ميتييلاند",
+    "awayLogo": "https://jdwel.com/image/teams/1294.png",
+    "score": "1 - 3",
+    "time": "9:00 م"
+  },
+  {
+    "home": "سونويوسك",
+    "homeLogo": "https://jdwel.com/image/teams/den_sonderjyske.png",
+    "away": "راندرز",
+    "awayLogo": "https://jdwel.com/image/teams/1536.png",
+    "score": "0 - 1",
+    "time": "8:00 م"
+  },
+  {
+    "home": "بروندبي",
+    "homeLogo": "https://jdwel.com/image/teams/den_brondby.png",
+    "away": "كوبنهاغن",
+    "awayLogo": "https://jdwel.com/image/teams/2324.png",
+    "score": "2 - 1",
+    "time": "4:00 م"
+  },
+  {
+    "home": "فيبورغ",
+    "homeLogo": "https://jdwel.com/image/teams/3429.png",
+    "away": "آرهوس جمناستيك",
+    "awayLogo": "https://jdwel.com/image/teams/den_agf.png",
+    "score": "1 - 2",
+    "time": "3:00 م"
+  },
+  {
+    "home": "نوردشيلاند",
+    "homeLogo": "https://jdwel.com/image/teams/1533.png",
+    "away": "ميتييلاند",
+    "awayLogo": "https://jdwel.com/image/teams/1294.png",
+    "score": "1 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "سيلكيبورغ",
+    "homeLogo": "https://jdwel.com/image/teams/den_silkeborg.png",
+    "away": "أودنسه",
+    "awayLogo": "https://jdwel.com/image/teams/5096.png",
+    "score": "2 - 1",
+    "time": "7:00 م"
+  },
+  {
+    "home": "فريدريكيا",
+    "homeLogo": "https://jdwel.com/image/teams/4810.png",
+    "away": "فايله",
+    "awayLogo": "https://jdwel.com/image/teams/den_vejle.png",
+    "score": "1 - 1",
+    "time": "8:00 م"
+  },
+  {
+    "home": "أودنسه",
+    "homeLogo": "https://jdwel.com/image/teams/5096.png",
+    "away": "فريدريكيا",
+    "awayLogo": "https://jdwel.com/image/teams/4810.png",
+    "score": "3 - 2",
+    "time": "8:00 م"
+  },
+  {
+    "home": "ميتييلاند",
+    "homeLogo": "https://jdwel.com/image/teams/1294.png",
+    "away": "فيبورغ",
+    "awayLogo": "https://jdwel.com/image/teams/3429.png",
+    "score": "2 - 0",
+    "time": "7:00 م"
+  },
+  {
+    "home": "فايله",
+    "homeLogo": "https://jdwel.com/image/teams/den_vejle.png",
+    "away": "سونويوسك",
+    "awayLogo": "https://jdwel.com/image/teams/den_sonderjyske.png",
+    "score": "2 - 2",
+    "time": "3:00 م"
+  },
+  {
+    "home": "كوبنهاغن",
+    "homeLogo": "https://jdwel.com/image/teams/2324.png",
+    "away": "سيلكيبورغ",
+    "awayLogo": "https://jdwel.com/image/teams/den_silkeborg.png",
+    "score": "3 - 3",
+    "time": "5:00 م"
+  },
+  {
+    "home": "آرهوس جمناستيك",
+    "homeLogo": "https://jdwel.com/image/teams/den_agf.png",
+    "away": "بروندبي",
+    "awayLogo": "https://jdwel.com/image/teams/den_brondby.png",
+    "score": "1 - 0",
+    "time": "7:00 م"
+  },
+  {
+    "home": "راندرز",
+    "homeLogo": "https://jdwel.com/image/teams/1536.png",
+    "away": "نوردشيلاند",
+    "awayLogo": "https://jdwel.com/image/teams/1533.png",
+    "score": "3 - 0",
+    "time": "8:00 م"
+  },
+  {
+    "home": "سونويوسك",
+    "homeLogo": "https://jdwel.com/image/teams/den_sonderjyske.png",
+    "away": "كوبنهاغن",
+    "awayLogo": "https://jdwel.com/image/teams/2324.png",
+    "score": "1 - 2",
+    "time": "7:00 م"
+  },
+  {
+    "home": "فيبورغ",
+    "homeLogo": "https://jdwel.com/image/teams/3429.png",
+    "away": "فريدريكيا",
+    "awayLogo": "https://jdwel.com/image/teams/4810.png",
+    "score": "2 - 1",
+    "time": "3:00 م"
+  },
+  {
+    "home": "سيلكيبورغ",
+    "homeLogo": "https://jdwel.com/image/teams/den_silkeborg.png",
+    "away": "فايله",
+    "awayLogo": "https://jdwel.com/image/teams/den_vejle.png",
+    "score": "1 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "نوردشيلاند",
+    "homeLogo": "https://jdwel.com/image/teams/1533.png",
+    "away": "آرهوس جمناستيك",
+    "awayLogo": "https://jdwel.com/image/teams/den_agf.png",
+    "score": "1 - 2",
+    "time": "7:00 م"
+  },
+  {
+    "home": "بروندبي",
+    "homeLogo": "https://jdwel.com/image/teams/den_brondby.png",
+    "away": "أودنسه",
+    "awayLogo": "https://jdwel.com/image/teams/5096.png",
+    "score": "5 - 1",
+    "time": "9:00 م"
+  },
+  {
+    "home": "ميتييلاند",
+    "homeLogo": "https://jdwel.com/image/teams/1294.png",
+    "away": "راندرز",
+    "awayLogo": "https://jdwel.com/image/teams/1536.png",
+    "score": "2 - 1",
+    "time": "8:00 م"
+  },
+  {
+    "home": "أودنسه",
+    "homeLogo": "https://jdwel.com/image/teams/5096.png",
+    "away": "سونويوسك",
+    "awayLogo": "https://jdwel.com/image/teams/den_sonderjyske.png",
+    "score": "1 - 1",
+    "time": "8:00 م"
+  },
+  {
+    "home": "راندرز",
+    "homeLogo": "https://jdwel.com/image/teams/1536.png",
+    "away": "فيبورغ",
+    "awayLogo": "https://jdwel.com/image/teams/3429.png",
+    "score": "2 - 1",
+    "time": "3:00 م"
+  },
+  {
+    "home": "فايله",
+    "homeLogo": "https://jdwel.com/image/teams/den_vejle.png",
+    "away": "نوردشيلاند",
+    "awayLogo": "https://jdwel.com/image/teams/1533.png",
+    "score": "0 - 3",
+    "time": "3:00 م"
+  },
+  {
+    "home": "آرهوس جمناستيك",
+    "homeLogo": "https://jdwel.com/image/teams/den_agf.png",
+    "away": "سيلكيبورغ",
+    "awayLogo": "https://jdwel.com/image/teams/den_silkeborg.png",
+    "score": "3 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "كوبنهاغن",
+    "homeLogo": "https://jdwel.com/image/teams/2324.png",
+    "away": "ميتييلاند",
+    "awayLogo": "https://jdwel.com/image/teams/1294.png",
+    "score": "1 - 1",
+    "time": "7:00 م"
+  },
+  {
+    "home": "فريدريكيا",
+    "homeLogo": "https://jdwel.com/image/teams/4810.png",
+    "away": "بروندبي",
+    "awayLogo": "https://jdwel.com/image/teams/den_brondby.png",
+    "score": "0 - 2",
+    "time": "9:00 م"
+  },
+  {
+    "home": "سيلكيبورغ",
+    "homeLogo": "https://jdwel.com/image/teams/den_silkeborg.png",
+    "away": "كوبنهاغن",
+    "awayLogo": "https://jdwel.com/image/teams/2324.png",
+    "score": "3 - 1",
+    "time": "8:00 م"
+  },
+  {
+    "home": "نوردشيلاند",
+    "homeLogo": "https://jdwel.com/image/teams/1533.png",
+    "away": "راندرز",
+    "awayLogo": "https://jdwel.com/image/teams/1536.png",
+    "score": "1 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "فيبورغ",
+    "homeLogo": "https://jdwel.com/image/teams/3429.png",
+    "away": "أودنسه",
+    "awayLogo": "https://jdwel.com/image/teams/5096.png",
+    "score": "1 - 2",
+    "time": "3:00 م"
+  },
+  {
+    "home": "بروندبي",
+    "homeLogo": "https://jdwel.com/image/teams/den_brondby.png",
+    "away": "آرهوس جمناستيك",
+    "awayLogo": "https://jdwel.com/image/teams/den_agf.png",
+    "score": "3 - 3",
+    "time": "5:00 م"
+  },
+  {
+    "home": "ميتييلاند",
+    "homeLogo": "https://jdwel.com/image/teams/1294.png",
+    "away": "فايله",
+    "awayLogo": "https://jdwel.com/image/teams/den_vejle.png",
+    "score": "5 - 1",
+    "time": "7:00 م"
+  },
+  {
+    "home": "سونويوسك",
+    "homeLogo": "https://jdwel.com/image/teams/den_sonderjyske.png",
+    "away": "فريدريكيا",
+    "awayLogo": "https://jdwel.com/image/teams/4810.png",
+    "score": "3 - 0",
+    "time": "8:00 م"
+  },
+  {
+    "home": "آرهوس جمناستيك",
+    "homeLogo": "https://jdwel.com/image/teams/den_agf.png",
+    "away": "نوردشيلاند",
+    "awayLogo": "https://jdwel.com/image/teams/1533.png",
+    "score": "1 - 0",
+    "time": "8:00 م"
+  },
+  {
+    "home": "فريدريكيا",
+    "homeLogo": "https://jdwel.com/image/teams/4810.png",
+    "away": "ميتييلاند",
+    "awayLogo": "https://jdwel.com/image/teams/1294.png",
+    "score": "0 - 4",
+    "time": "4:00 م"
+  },
+  {
+    "home": "فايله",
+    "homeLogo": "https://jdwel.com/image/teams/den_vejle.png",
+    "away": "سيلكيبورغ",
+    "awayLogo": "https://jdwel.com/image/teams/den_silkeborg.png",
+    "score": "1 - 2",
+    "time": "4:00 م"
+  },
+  {
+    "home": "راندرز",
+    "homeLogo": "https://jdwel.com/image/teams/1536.png",
+    "away": "سونويوسك",
+    "awayLogo": "https://jdwel.com/image/teams/den_sonderjyske.png",
+    "score": "0 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "كوبنهاغن",
+    "homeLogo": "https://jdwel.com/image/teams/2324.png",
+    "away": "فيبورغ",
+    "awayLogo": "https://jdwel.com/image/teams/3429.png",
+    "score": "0 - 0",
+    "time": "8:00 م"
+  },
+  {
+    "home": "أودنسه",
+    "homeLogo": "https://jdwel.com/image/teams/5096.png",
+    "away": "بروندبي",
+    "awayLogo": "https://jdwel.com/image/teams/den_brondby.png",
+    "score": "1 - 4",
+    "time": "9:00 م"
+  },
+  {
+    "home": "كوبنهاغن",
+    "homeLogo": "https://jdwel.com/image/teams/2324.png",
+    "away": "فريدريكيا",
+    "awayLogo": "https://jdwel.com/image/teams/4810.png",
+    "score": "3 - 2",
+    "time": "7:00 م"
+  },
+  {
+    "home": "فيبورغ",
+    "homeLogo": "https://jdwel.com/image/teams/3429.png",
+    "away": "راندرز",
+    "awayLogo": "https://jdwel.com/image/teams/1536.png",
+    "score": "3 - 2",
+    "time": "3:00 م"
+  },
+  {
+    "home": "سونويوسك",
+    "homeLogo": "https://jdwel.com/image/teams/den_sonderjyske.png",
+    "away": "فايله",
+    "awayLogo": "https://jdwel.com/image/teams/den_vejle.png",
+    "score": "2 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "نوردشيلاند",
+    "homeLogo": "https://jdwel.com/image/teams/1533.png",
+    "away": "أودنسه",
+    "awayLogo": "https://jdwel.com/image/teams/5096.png",
+    "score": "2 - 4",
+    "time": "7:00 م"
+  },
+  {
+    "home": "سيلكيبورغ",
+    "homeLogo": "https://jdwel.com/image/teams/den_silkeborg.png",
+    "away": "بروندبي",
+    "awayLogo": "https://jdwel.com/image/teams/den_brondby.png",
+    "score": "0 - 2",
+    "time": "9:00 م"
+  },
+  {
+    "home": "ميتييلاند",
+    "homeLogo": "https://jdwel.com/image/teams/1294.png",
+    "away": "آرهوس جمناستيك",
+    "awayLogo": "https://jdwel.com/image/teams/den_agf.png",
+    "score": "1 - 1",
+    "time": "8:00 م"
+  },
+  {
+    "home": "أودنسه",
+    "homeLogo": "https://jdwel.com/image/teams/5096.png",
+    "away": "سيلكيبورغ",
+    "awayLogo": "https://jdwel.com/image/teams/den_silkeborg.png",
+    "score": "1 - 1",
+    "time": "8:00 م"
+  },
+  {
+    "home": "فريدريكيا",
+    "homeLogo": "https://jdwel.com/image/teams/4810.png",
+    "away": "فيبورغ",
+    "awayLogo": "https://jdwel.com/image/teams/3429.png",
+    "score": "0 - 3",
+    "time": "3:00 م"
+  },
+  {
+    "home": "فايله",
+    "homeLogo": "https://jdwel.com/image/teams/den_vejle.png",
+    "away": "كوبنهاغن",
+    "awayLogo": "https://jdwel.com/image/teams/2324.png",
+    "score": "2 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "راندرز",
+    "homeLogo": "https://jdwel.com/image/teams/1536.png",
+    "away": "ميتييلاند",
+    "awayLogo": "https://jdwel.com/image/teams/1294.png",
+    "score": "0 - 2",
+    "time": "5:00 م"
+  },
+  {
+    "home": "آرهوس جمناستيك",
+    "homeLogo": "https://jdwel.com/image/teams/den_agf.png",
+    "away": "سونويوسك",
+    "awayLogo": "https://jdwel.com/image/teams/den_sonderjyske.png",
+    "score": "2 - 3",
+    "time": "7:00 م"
+  },
+  {
+    "home": "بروندبي",
+    "homeLogo": "https://jdwel.com/image/teams/den_brondby.png",
+    "away": "نوردشيلاند",
+    "awayLogo": "https://jdwel.com/image/teams/1533.png",
+    "score": "2 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "سيلكيبورغ",
+    "homeLogo": "https://jdwel.com/image/teams/den_silkeborg.png",
+    "away": "آرهوس جمناستيك",
+    "awayLogo": "https://jdwel.com/image/teams/den_agf.png",
+    "score": "0 - 2",
+    "time": "8:00 م"
+  },
+  {
+    "home": "كوبنهاغن",
+    "homeLogo": "https://jdwel.com/image/teams/2324.png",
+    "away": "بروندبي",
+    "awayLogo": "https://jdwel.com/image/teams/den_brondby.png",
+    "score": "1 - 0",
+    "time": "1:00 م"
+  },
+  {
+    "home": "فيبورغ",
+    "homeLogo": "https://jdwel.com/image/teams/3429.png",
+    "away": "فايله",
+    "awayLogo": "https://jdwel.com/image/teams/den_vejle.png",
+    "score": "5 - 2",
+    "time": "3:00 م"
+  },
+  {
+    "home": "نوردشيلاند",
+    "homeLogo": "https://jdwel.com/image/teams/1533.png",
+    "away": "فريدريكيا",
+    "awayLogo": "https://jdwel.com/image/teams/4810.png",
+    "score": "5 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "سونويوسك",
+    "homeLogo": "https://jdwel.com/image/teams/den_sonderjyske.png",
+    "away": "ميتييلاند",
+    "awayLogo": "https://jdwel.com/image/teams/1294.png",
+    "score": "2 - 1",
+    "time": "7:00 م"
+  },
+  {
+    "home": "راندرز",
+    "homeLogo": "https://jdwel.com/image/teams/1536.png",
+    "away": "أودنسه",
+    "awayLogo": "https://jdwel.com/image/teams/5096.png",
+    "score": "0 - 0",
+    "time": "8:00 م"
+  },
+  {
+    "home": "سونويوسك",
+    "homeLogo": "https://jdwel.com/image/teams/den_sonderjyske.png",
+    "away": "فيبورغ",
+    "awayLogo": "https://jdwel.com/image/teams/3429.png",
+    "score": "2 - 2",
+    "time": "8:00 م"
+  },
+  {
+    "home": "آرهوس جمناستيك",
+    "homeLogo": "https://jdwel.com/image/teams/den_agf.png",
+    "away": "كوبنهاغن",
+    "awayLogo": "https://jdwel.com/image/teams/2324.png",
+    "score": "2 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "سيلكيبورغ",
+    "homeLogo": "https://jdwel.com/image/teams/den_silkeborg.png",
+    "away": "راندرز",
+    "awayLogo": "https://jdwel.com/image/teams/1536.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "ميتييلاند",
+    "homeLogo": "https://jdwel.com/image/teams/1294.png",
+    "away": "نوردشيلاند",
+    "awayLogo": "https://jdwel.com/image/teams/1533.png",
+    "score": "6 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "أودنسه",
+    "homeLogo": "https://jdwel.com/image/teams/5096.png",
+    "away": "فايله",
+    "awayLogo": "https://jdwel.com/image/teams/den_vejle.png",
+    "score": "3 - 0",
+    "time": "7:00 م"
+  },
+  {
+    "home": "بروندبي",
+    "homeLogo": "https://jdwel.com/image/teams/den_brondby.png",
+    "away": "فريدريكيا",
+    "awayLogo": "https://jdwel.com/image/teams/4810.png",
+    "score": "1 - 3",
+    "time": "8:00 م"
+  },
+  {
+    "home": "فريدريكيا",
+    "homeLogo": "https://jdwel.com/image/teams/4810.png",
+    "away": "أودنسه",
+    "awayLogo": "https://jdwel.com/image/teams/5096.png",
+    "score": "1 - 3",
+    "time": "8:00 م"
+  },
+  {
+    "home": "نوردشيلاند",
+    "homeLogo": "https://jdwel.com/image/teams/1533.png",
+    "away": "سيلكيبورغ",
+    "awayLogo": "https://jdwel.com/image/teams/den_silkeborg.png",
+    "score": "5 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "فيبورغ",
+    "homeLogo": "https://jdwel.com/image/teams/3429.png",
+    "away": "ميتييلاند",
+    "awayLogo": "https://jdwel.com/image/teams/1294.png",
+    "score": "3 - 3",
+    "time": "3:00 م"
+  },
+  {
+    "home": "راندرز",
+    "homeLogo": "https://jdwel.com/image/teams/1536.png",
+    "away": "آرهوس جمناستيك",
+    "awayLogo": "https://jdwel.com/image/teams/den_agf.png",
+    "score": "1 - 2",
+    "time": "5:00 م"
+  },
+  {
+    "home": "كوبنهاغن",
+    "homeLogo": "https://jdwel.com/image/teams/2324.png",
+    "away": "سونويوسك",
+    "awayLogo": "https://jdwel.com/image/teams/den_sonderjyske.png",
+    "score": "0 - 2",
+    "time": "7:00 م"
+  },
+  {
+    "home": "فايله",
+    "homeLogo": "https://jdwel.com/image/teams/den_vejle.png",
+    "away": "بروندبي",
+    "awayLogo": "https://jdwel.com/image/teams/den_brondby.png",
+    "score": "2 - 1",
+    "time": "8:00 م"
+  },
+  {
+    "home": "آرهوس جمناستيك",
+    "homeLogo": "https://jdwel.com/image/teams/den_agf.png",
+    "away": "أودنسه",
+    "awayLogo": "https://jdwel.com/image/teams/5096.png",
+    "score": "0 - 0",
+    "time": "8:00 م"
+  },
+  {
+    "home": "نوردشيلاند",
+    "homeLogo": "https://jdwel.com/image/teams/1533.png",
+    "away": "سونويوسك",
+    "awayLogo": "https://jdwel.com/image/teams/den_sonderjyske.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "سيلكيبورغ",
+    "homeLogo": "https://jdwel.com/image/teams/den_silkeborg.png",
+    "away": "فيبورغ",
+    "awayLogo": "https://jdwel.com/image/teams/3429.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "ميتييلاند",
+    "homeLogo": "https://jdwel.com/image/teams/1294.png",
+    "away": "كوبنهاغن",
+    "awayLogo": "https://jdwel.com/image/teams/2324.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "بروندبي",
+    "homeLogo": "https://jdwel.com/image/teams/den_brondby.png",
+    "away": "راندرز",
+    "awayLogo": "https://jdwel.com/image/teams/1536.png",
+    "score": "0 - 0",
+    "time": "7:00 م"
+  },
+  {
+    "home": "فايله",
+    "homeLogo": "https://jdwel.com/image/teams/den_vejle.png",
+    "away": "فريدريكيا",
+    "awayLogo": "https://jdwel.com/image/teams/4810.png",
+    "score": "0 - 0",
+    "time": "8:00 م"
+  },
+  {
+    "home": "راندرز",
+    "homeLogo": "https://jdwel.com/image/teams/1536.png",
+    "away": "فايله",
+    "awayLogo": "https://jdwel.com/image/teams/den_vejle.png",
+    "score": "0 - 0",
+    "time": "8:00 م"
+  },
+  {
+    "home": "كوبنهاغن",
+    "homeLogo": "https://jdwel.com/image/teams/2324.png",
+    "away": "نوردشيلاند",
+    "awayLogo": "https://jdwel.com/image/teams/1533.png",
+    "score": "0 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "فريدريكيا",
+    "homeLogo": "https://jdwel.com/image/teams/4810.png",
+    "away": "آرهوس جمناستيك",
+    "awayLogo": "https://jdwel.com/image/teams/den_agf.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "أودنسه",
+    "homeLogo": "https://jdwel.com/image/teams/5096.png",
+    "away": "ميتييلاند",
+    "awayLogo": "https://jdwel.com/image/teams/1294.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "فيبورغ",
+    "homeLogo": "https://jdwel.com/image/teams/3429.png",
+    "away": "بروندبي",
+    "awayLogo": "https://jdwel.com/image/teams/den_brondby.png",
+    "score": "0 - 0",
+    "time": "7:00 م"
+  },
+  {
+    "home": "سونويوسك",
+    "homeLogo": "https://jdwel.com/image/teams/den_sonderjyske.png",
+    "away": "سيلكيبورغ",
+    "awayLogo": "https://jdwel.com/image/teams/den_silkeborg.png",
+    "score": "0 - 0",
+    "time": "8:00 م"
+  },
+  {
+    "home": "نوردشيلاند",
+    "homeLogo": "https://jdwel.com/image/teams/1533.png",
+    "away": "فايله",
+    "awayLogo": "https://jdwel.com/image/teams/den_vejle.png",
+    "score": "0 - 0",
+    "time": "8:00 م"
+  },
+  {
+    "home": "أودنسه",
+    "homeLogo": "https://jdwel.com/image/teams/5096.png",
+    "away": "كوبنهاغن",
+    "awayLogo": "https://jdwel.com/image/teams/2324.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "راندرز",
+    "homeLogo": "https://jdwel.com/image/teams/1536.png",
+    "away": "فريدريكيا",
+    "awayLogo": "https://jdwel.com/image/teams/4810.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "سيلكيبورغ",
+    "homeLogo": "https://jdwel.com/image/teams/den_silkeborg.png",
+    "away": "ميتييلاند",
+    "awayLogo": "https://jdwel.com/image/teams/1294.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "آرهوس جمناستيك",
+    "homeLogo": "https://jdwel.com/image/teams/den_agf.png",
+    "away": "فيبورغ",
+    "awayLogo": "https://jdwel.com/image/teams/3429.png",
+    "score": "0 - 0",
+    "time": "7:00 م"
+  },
+  {
+    "home": "بروندبي",
+    "homeLogo": "https://jdwel.com/image/teams/den_brondby.png",
+    "away": "سونويوسك",
+    "awayLogo": "https://jdwel.com/image/teams/den_sonderjyske.png",
+    "score": "0 - 0",
+    "time": "8:00 م"
+  },
+  {
+    "home": "فريدريكيا",
+    "homeLogo": "https://jdwel.com/image/teams/4810.png",
+    "away": "سيلكيبورغ",
+    "awayLogo": "https://jdwel.com/image/teams/den_silkeborg.png",
+    "score": "0 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "كوبنهاغن",
+    "homeLogo": "https://jdwel.com/image/teams/2324.png",
+    "away": "راندرز",
+    "awayLogo": "https://jdwel.com/image/teams/1536.png",
+    "score": "0 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "ميتييلاند",
+    "homeLogo": "https://jdwel.com/image/teams/1294.png",
+    "away": "بروندبي",
+    "awayLogo": "https://jdwel.com/image/teams/den_brondby.png",
+    "score": "0 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "سونويوسك",
+    "homeLogo": "https://jdwel.com/image/teams/den_sonderjyske.png",
+    "away": "أودنسه",
+    "awayLogo": "https://jdwel.com/image/teams/5096.png",
+    "score": "0 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "فايله",
+    "homeLogo": "https://jdwel.com/image/teams/den_vejle.png",
+    "away": "آرهوس جمناستيك",
+    "awayLogo": "https://jdwel.com/image/teams/den_agf.png",
+    "score": "0 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "فيبورغ",
+    "homeLogo": "https://jdwel.com/image/teams/3429.png",
+    "away": "نوردشيلاند",
+    "awayLogo": "https://jdwel.com/image/teams/1533.png",
+    "score": "0 - 0",
+    "time": "6:00 م"
+  }
+]

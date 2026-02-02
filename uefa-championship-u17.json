@@ -1,0 +1,122 @@
+[
+  {
+    "home": "فرنسا",
+    "homeLogo": "https://jdwel.com/image/teams/4962.png",
+    "away": "البرتغال",
+    "awayLogo": "https://jdwel.com/image/teams/2562.png",
+    "score": "0 - 3",
+    "time": "9:30 م"
+  },
+  {
+    "home": "إيطاليا",
+    "homeLogo": "https://jdwel.com/image/teams/56.png",
+    "away": "البرتغال",
+    "awayLogo": "https://jdwel.com/image/teams/2562.png",
+    "score": "2 - 2 3 - 4",
+    "time": "9:30 م"
+  },
+  {
+    "home": "فرنسا",
+    "homeLogo": "https://jdwel.com/image/teams/4962.png",
+    "away": "بلجيكا",
+    "awayLogo": "https://jdwel.com/image/teams/43.png",
+    "score": "3 - 2",
+    "time": "7:00 م"
+  },
+  {
+    "home": "بلجيكا",
+    "homeLogo": "https://jdwel.com/image/teams/43.png",
+    "away": "إيطاليا",
+    "awayLogo": "https://jdwel.com/image/teams/56.png",
+    "score": "1 - 2",
+    "time": "9:30 م"
+  },
+  {
+    "home": "التشيك",
+    "homeLogo": "https://jdwel.com/image/teams/4218.png",
+    "away": "إنجلترا",
+    "awayLogo": "https://jdwel.com/image/teams/flag_england_v2.png",
+    "score": "2 - 4",
+    "time": "9:30 م"
+  },
+  {
+    "home": "فرنسا",
+    "homeLogo": "https://jdwel.com/image/teams/4962.png",
+    "away": "ألبانيا",
+    "awayLogo": "https://jdwel.com/image/teams/flag_albania.png",
+    "score": "4 - 0",
+    "time": "9:30 م"
+  },
+  {
+    "home": "البرتغال",
+    "homeLogo": "https://jdwel.com/image/teams/2562.png",
+    "away": "ألمانيا",
+    "awayLogo": "https://jdwel.com/image/teams/flag_germany_v2.png",
+    "score": "2 - 1",
+    "time": "9:30 م"
+  },
+  {
+    "home": "إيطاليا",
+    "homeLogo": "https://jdwel.com/image/teams/56.png",
+    "away": "إنجلترا",
+    "awayLogo": "https://jdwel.com/image/teams/flag_england_v2.png",
+    "score": "4 - 2",
+    "time": "9:30 م"
+  },
+  {
+    "home": "بلجيكا",
+    "homeLogo": "https://jdwel.com/image/teams/43.png",
+    "away": "التشيك",
+    "awayLogo": "https://jdwel.com/image/teams/4218.png",
+    "score": "3 - 1",
+    "time": "7:00 م"
+  },
+  {
+    "home": "فرنسا",
+    "homeLogo": "https://jdwel.com/image/teams/4962.png",
+    "away": "البرتغال",
+    "awayLogo": "https://jdwel.com/image/teams/2562.png",
+    "score": "0 - 0",
+    "time": "9:30 م"
+  },
+  {
+    "home": "ألبانيا",
+    "homeLogo": "https://jdwel.com/image/teams/flag_albania.png",
+    "away": "ألمانيا",
+    "awayLogo": "https://jdwel.com/image/teams/flag_germany_v2.png",
+    "score": "0 - 4",
+    "time": "7:00 م"
+  },
+  {
+    "home": "إيطاليا",
+    "homeLogo": "https://jdwel.com/image/teams/56.png",
+    "away": "التشيك",
+    "awayLogo": "https://jdwel.com/image/teams/4218.png",
+    "score": "2 - 1",
+    "time": "9:30 م"
+  },
+  {
+    "home": "إنجلترا",
+    "homeLogo": "https://jdwel.com/image/teams/flag_england_v2.png",
+    "away": "بلجيكا",
+    "awayLogo": "https://jdwel.com/image/teams/43.png",
+    "score": "1 - 1",
+    "time": "7:00 م"
+  },
+  {
+    "home": "ألمانيا",
+    "homeLogo": "https://jdwel.com/image/teams/flag_germany_v2.png",
+    "away": "فرنسا",
+    "awayLogo": "https://jdwel.com/image/teams/4962.png",
+    "score": "0 - 3",
+    "time": "9:30 م"
+  },
+  {
+    "home": "ألبانيا",
+    "homeLogo": "https://jdwel.com/image/teams/flag_albania.png",
+    "away": "البرتغال",
+    "awayLogo": "https://jdwel.com/image/teams/2562.png",
+    "score": "0 - 4",
+    "time": "7:00 م"
+  }
+]

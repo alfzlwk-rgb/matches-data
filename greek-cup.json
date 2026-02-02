@@ -1,0 +1,514 @@
+[
+  {
+    "home": "نيكي فولوس",
+    "homeLogo": "https://jdwel.com/image/teams/gre_niki_volos.png",
+    "away": "بانيتوليكوس",
+    "awayLogo": "https://jdwel.com/image/teams/770.png",
+    "score": "1 - 2",
+    "time": "5:00 م"
+  },
+  {
+    "home": "ماكيدونيكوس نيابوليس",
+    "homeLogo": "https://jdwel.com/image/teams/1696.png",
+    "away": "ليفادياكوس",
+    "awayLogo": "https://jdwel.com/image/teams/gre_levadiakos.png",
+    "score": "1 - 2",
+    "time": "5:00 م"
+  },
+  {
+    "home": "كالاماتا",
+    "homeLogo": "https://jdwel.com/image/teams/1828.png",
+    "away": "أثليتيكي لاريسا",
+    "awayLogo": "https://jdwel.com/image/teams/3545.png",
+    "score": "1 - 2",
+    "time": "5:00 م"
+  },
+  {
+    "home": "كافالا",
+    "homeLogo": "https://jdwel.com/image/teams/1054.png",
+    "away": "بانسيرايكوس",
+    "awayLogo": "https://jdwel.com/image/teams/2308.png",
+    "score": "1 - 15 - 4",
+    "time": "5:00 م"
+  },
+  {
+    "home": "أناجينيسي كارديتساس",
+    "homeLogo": "https://jdwel.com/image/teams/2000.png",
+    "away": "كيفيسيا",
+    "awayLogo": "https://jdwel.com/image/teams/3543.png",
+    "score": "1 - 12 - 3",
+    "time": "5:00 م"
+  },
+  {
+    "home": "باس جيانينا",
+    "homeLogo": "https://jdwel.com/image/teams/gre_pas_giannina.png",
+    "away": "فولوس",
+    "awayLogo": "https://jdwel.com/image/teams/gre_volos_nfc.png",
+    "score": "0 - 4",
+    "time": "5:00 م"
+  },
+  {
+    "home": "إيغاليو",
+    "homeLogo": "https://jdwel.com/image/teams/1223.png",
+    "away": "بانارجياكوس",
+    "awayLogo": "https://jdwel.com/image/teams/1006.png",
+    "score": "1 - 16 - 5",
+    "time": "5:00 م"
+  },
+  {
+    "home": "خانية",
+    "homeLogo": "https://jdwel.com/image/teams/906.png",
+    "away": "ماركو",
+    "awayLogo": "https://jdwel.com/image/teams/4452.png",
+    "score": "0 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "بانيونيوس",
+    "homeLogo": "https://jdwel.com/image/teams/gre_panionios.png",
+    "away": "ايراكليس سالونيك",
+    "awayLogo": "https://jdwel.com/image/teams/1998.png",
+    "score": "1 - 12 - 3",
+    "time": "5:00 م"
+  },
+  {
+    "home": "كامبانياكوس تشالاسترا",
+    "homeLogo": "https://jdwel.com/image/teams/placeholder.png",
+    "away": "كاليثيا",
+    "awayLogo": "https://jdwel.com/image/teams/2312.png",
+    "score": "0 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "إيلاس سيروس",
+    "homeLogo": "https://jdwel.com/image/teams/4451.png",
+    "away": "نيستوس كريسوبوليس",
+    "awayLogo": "https://jdwel.com/image/teams/gre_nestos_chrisoupolis.png",
+    "score": "1 - 0",
+    "time": "5:15 م"
+  },
+  {
+    "home": "إليوبولي",
+    "homeLogo": "https://jdwel.com/image/teams/gre_ilioupoli.png",
+    "away": "فولوس",
+    "awayLogo": "https://jdwel.com/image/teams/gre_volos_nfc.png",
+    "score": "1 - 3",
+    "time": "4:00 م"
+  },
+  {
+    "home": "بانيتوليكوس",
+    "homeLogo": "https://jdwel.com/image/teams/770.png",
+    "away": "آريس",
+    "awayLogo": "https://jdwel.com/image/teams/2307.png",
+    "score": "0 - 1",
+    "time": "3:00 م"
+  },
+  {
+    "home": "كيفيسيا",
+    "homeLogo": "https://jdwel.com/image/teams/3543.png",
+    "away": "أستيراس تريبوليس",
+    "awayLogo": "https://jdwel.com/image/teams/2309.png",
+    "score": "1 - 1",
+    "time": "3:00 م"
+  },
+  {
+    "home": "أتروميتوس",
+    "homeLogo": "https://jdwel.com/image/teams/2872.png",
+    "away": "إيلاس سيروس",
+    "awayLogo": "https://jdwel.com/image/teams/4451.png",
+    "score": "4 - 2",
+    "time": "4:00 م"
+  },
+  {
+    "home": "أوميلوس هراكليوس",
+    "homeLogo": "https://jdwel.com/image/teams/2310.png",
+    "away": "كافالا",
+    "awayLogo": "https://jdwel.com/image/teams/1054.png",
+    "score": "3 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "إيغاليو",
+    "homeLogo": "https://jdwel.com/image/teams/1223.png",
+    "away": "آيك أثينا",
+    "awayLogo": "https://jdwel.com/image/teams/2306.png",
+    "score": "0 - 1",
+    "time": "4:00 م"
+  },
+  {
+    "home": "ليفادياكوس",
+    "homeLogo": "https://jdwel.com/image/teams/gre_levadiakos.png",
+    "away": "باوك",
+    "awayLogo": "https://jdwel.com/image/teams/1281.png",
+    "score": "4 - 1",
+    "time": "5:30 م"
+  },
+  {
+    "home": "ماركو",
+    "homeLogo": "https://jdwel.com/image/teams/4452.png",
+    "away": "أثليتيكي لاريسا",
+    "awayLogo": "https://jdwel.com/image/teams/3545.png",
+    "score": "2 - 2",
+    "time": "5:30 م"
+  },
+  {
+    "home": "باناثينايكوس",
+    "homeLogo": "https://jdwel.com/image/teams/gre_panathinaikos.png",
+    "away": "كاليثيا",
+    "awayLogo": "https://jdwel.com/image/teams/2312.png",
+    "score": "1 - 0",
+    "time": "5:30 م"
+  },
+  {
+    "home": "كافالا",
+    "homeLogo": "https://jdwel.com/image/teams/1054.png",
+    "away": "كيفيسيا",
+    "awayLogo": "https://jdwel.com/image/teams/3543.png",
+    "score": "1 - 1",
+    "time": "3:00 م"
+  },
+  {
+    "home": "آريس",
+    "homeLogo": "https://jdwel.com/image/teams/2307.png",
+    "away": "ماركو",
+    "awayLogo": "https://jdwel.com/image/teams/4452.png",
+    "score": "1 - 0",
+    "time": "8:00 م"
+  },
+  {
+    "home": "كاليثيا",
+    "homeLogo": "https://jdwel.com/image/teams/2312.png",
+    "away": "أوميلوس هراكليوس",
+    "awayLogo": "https://jdwel.com/image/teams/2310.png",
+    "score": "0 - 1",
+    "time": "3:00 م"
+  },
+  {
+    "home": "فولوس",
+    "homeLogo": "https://jdwel.com/image/teams/gre_volos_nfc.png",
+    "away": "أتروميتوس",
+    "awayLogo": "https://jdwel.com/image/teams/2872.png",
+    "score": "1 - 1",
+    "time": "3:00 م"
+  },
+  {
+    "home": "إيلاس سيروس",
+    "homeLogo": "https://jdwel.com/image/teams/4451.png",
+    "away": "إيغاليو",
+    "awayLogo": "https://jdwel.com/image/teams/1223.png",
+    "score": "3 - 0",
+    "time": "4:30 م"
+  },
+  {
+    "home": "أستيراس تريبوليس",
+    "homeLogo": "https://jdwel.com/image/teams/2309.png",
+    "away": "أولمبياكوس بيرايوس",
+    "awayLogo": "https://jdwel.com/image/teams/1407.png",
+    "score": "1 - 2",
+    "time": "5:00 م"
+  },
+  {
+    "home": "أثليتيكي لاريسا",
+    "homeLogo": "https://jdwel.com/image/teams/3545.png",
+    "away": "ليفادياكوس",
+    "awayLogo": "https://jdwel.com/image/teams/gre_levadiakos.png",
+    "score": "1 - 2",
+    "time": "7:00 م"
+  },
+  {
+    "home": "آيك أثينا",
+    "homeLogo": "https://jdwel.com/image/teams/2306.png",
+    "away": "بانيتوليكوس",
+    "awayLogo": "https://jdwel.com/image/teams/770.png",
+    "score": "2 - 1",
+    "time": "7:00 م"
+  },
+  {
+    "home": "ايراكليس سالونيك",
+    "homeLogo": "https://jdwel.com/image/teams/1998.png",
+    "away": "إليوبولي",
+    "awayLogo": "https://jdwel.com/image/teams/gre_ilioupoli.png",
+    "score": "1 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "أوميلوس هراكليوس",
+    "homeLogo": "https://jdwel.com/image/teams/2310.png",
+    "away": "إراكليس",
+    "awayLogo": "https://jdwel.com/image/teams/gre_iraklis.png",
+    "score": "3 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "بانيتوليكوس",
+    "homeLogo": "https://jdwel.com/image/teams/770.png",
+    "away": "إيلاس سيروس",
+    "awayLogo": "https://jdwel.com/image/teams/4451.png",
+    "score": "4 - 1",
+    "time": "7:00 م"
+  },
+  {
+    "home": "كيفيسيا",
+    "homeLogo": "https://jdwel.com/image/teams/3543.png",
+    "away": "كاليثيا",
+    "awayLogo": "https://jdwel.com/image/teams/2312.png",
+    "score": "2 - 1",
+    "time": "9:00 م"
+  },
+  {
+    "home": "إيغاليو",
+    "homeLogo": "https://jdwel.com/image/teams/1223.png",
+    "away": "آريس",
+    "awayLogo": "https://jdwel.com/image/teams/2307.png",
+    "score": "1 - 3",
+    "time": "4:00 م"
+  },
+  {
+    "home": "إليوبولي",
+    "homeLogo": "https://jdwel.com/image/teams/gre_ilioupoli.png",
+    "away": "آيك أثينا",
+    "awayLogo": "https://jdwel.com/image/teams/2306.png",
+    "score": "0 - 1",
+    "time": "4:30 م"
+  },
+  {
+    "home": "أولمبياكوس بيرايوس",
+    "homeLogo": "https://jdwel.com/image/teams/1407.png",
+    "away": "فولوس",
+    "awayLogo": "https://jdwel.com/image/teams/gre_volos_nfc.png",
+    "score": "5 - 0",
+    "time": "6:30 م"
+  },
+  {
+    "home": "ليفادياكوس",
+    "homeLogo": "https://jdwel.com/image/teams/gre_levadiakos.png",
+    "away": "أستيراس تريبوليس",
+    "awayLogo": "https://jdwel.com/image/teams/2309.png",
+    "score": "1 - 0",
+    "time": "7:30 م"
+  },
+  {
+    "home": "أتروميتوس",
+    "homeLogo": "https://jdwel.com/image/teams/2872.png",
+    "away": "باناثينايكوس",
+    "awayLogo": "https://jdwel.com/image/teams/gre_panathinaikos.png",
+    "score": "1 - 2",
+    "time": "8:30 م"
+  },
+  {
+    "home": "باوك",
+    "homeLogo": "https://jdwel.com/image/teams/1281.png",
+    "away": "أثليتيكي لاريسا",
+    "awayLogo": "https://jdwel.com/image/teams/3545.png",
+    "score": "4 - 1",
+    "time": "10:30 م"
+  },
+  {
+    "home": "فولوس",
+    "homeLogo": "https://jdwel.com/image/teams/gre_volos_nfc.png",
+    "away": "إيغاليو",
+    "awayLogo": "https://jdwel.com/image/teams/1223.png",
+    "score": "6 - 0",
+    "time": "7:00 م"
+  },
+  {
+    "home": "إيلاس سيروس",
+    "homeLogo": "https://jdwel.com/image/teams/4451.png",
+    "away": "أولمبياكوس بيرايوس",
+    "awayLogo": "https://jdwel.com/image/teams/1407.png",
+    "score": "2 - 5",
+    "time": "1:30 م"
+  },
+  {
+    "home": "كاليثيا",
+    "homeLogo": "https://jdwel.com/image/teams/2312.png",
+    "away": "كافالا",
+    "awayLogo": "https://jdwel.com/image/teams/1054.png",
+    "score": "2 - 1",
+    "time": "3:00 م"
+  },
+  {
+    "home": "ماركو",
+    "homeLogo": "https://jdwel.com/image/teams/4452.png",
+    "away": "ليفادياكوس",
+    "awayLogo": "https://jdwel.com/image/teams/gre_levadiakos.png",
+    "score": "1 - 3",
+    "time": "3:00 م"
+  },
+  {
+    "home": "أثليتيكي لاريسا",
+    "homeLogo": "https://jdwel.com/image/teams/3545.png",
+    "away": "أتروميتوس",
+    "awayLogo": "https://jdwel.com/image/teams/2872.png",
+    "score": "0 - 1",
+    "time": "4:00 م"
+  },
+  {
+    "home": "أستيراس تريبوليس",
+    "homeLogo": "https://jdwel.com/image/teams/2309.png",
+    "away": "إليوبولي",
+    "awayLogo": "https://jdwel.com/image/teams/gre_ilioupoli.png",
+    "score": "5 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "آيك أثينا",
+    "homeLogo": "https://jdwel.com/image/teams/2306.png",
+    "away": "أوميلوس هراكليوس",
+    "awayLogo": "https://jdwel.com/image/teams/2310.png",
+    "score": "2 - 0",
+    "time": "5:30 م"
+  },
+  {
+    "home": "باناثينايكوس",
+    "homeLogo": "https://jdwel.com/image/teams/gre_panathinaikos.png",
+    "away": "كيفيسيا",
+    "awayLogo": "https://jdwel.com/image/teams/3543.png",
+    "score": "1 - 0",
+    "time": "7:30 م"
+  },
+  {
+    "home": "آريس",
+    "homeLogo": "https://jdwel.com/image/teams/2307.png",
+    "away": "باوك",
+    "awayLogo": "https://jdwel.com/image/teams/1281.png",
+    "score": "1 - 1",
+    "time": "9:30 م"
+  },
+  {
+    "home": "ايراكليس سالونيك",
+    "homeLogo": "https://jdwel.com/image/teams/1998.png",
+    "away": "بانيتوليكوس",
+    "awayLogo": "https://jdwel.com/image/teams/770.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "كافالا",
+    "homeLogo": "https://jdwel.com/image/teams/1054.png",
+    "away": "باناثينايكوس",
+    "awayLogo": "https://jdwel.com/image/teams/gre_panathinaikos.png",
+    "score": "1 - 2",
+    "time": "4:00 م"
+  },
+  {
+    "home": "أولمبياكوس بيرايوس",
+    "homeLogo": "https://jdwel.com/image/teams/1407.png",
+    "away": "ايراكليس سالونيك",
+    "awayLogo": "https://jdwel.com/image/teams/1998.png",
+    "score": "6 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "باوك",
+    "homeLogo": "https://jdwel.com/image/teams/1281.png",
+    "away": "ماركو",
+    "awayLogo": "https://jdwel.com/image/teams/4452.png",
+    "score": "4 - 1",
+    "time": "8:00 م"
+  },
+  {
+    "home": "آريس",
+    "homeLogo": "https://jdwel.com/image/teams/2307.png",
+    "away": "بانيتوليكوس",
+    "awayLogo": "https://jdwel.com/image/teams/770.png",
+    "score": "2 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "فولوس",
+    "homeLogo": "https://jdwel.com/image/teams/gre_volos_nfc.png",
+    "away": "كيفيسيا",
+    "awayLogo": "https://jdwel.com/image/teams/3543.png",
+    "score": "0 - 1",
+    "time": "5:30 م"
+  },
+  {
+    "home": "باوك",
+    "homeLogo": "https://jdwel.com/image/teams/1281.png",
+    "away": "أتروميتوس",
+    "awayLogo": "https://jdwel.com/image/teams/2872.png",
+    "score": "1 - 15 - 4",
+    "time": "8:00 م"
+  },
+  {
+    "home": "أوميلوس هراكليوس",
+    "homeLogo": "https://jdwel.com/image/teams/2310.png",
+    "away": "أستيراس تريبوليس",
+    "awayLogo": "https://jdwel.com/image/teams/2309.png",
+    "score": "2 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "ليفادياكوس",
+    "homeLogo": "https://jdwel.com/image/teams/gre_levadiakos.png",
+    "away": "كيفيسيا",
+    "awayLogo": "https://jdwel.com/image/teams/3543.png",
+    "score": "2 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "آيك أثينا",
+    "homeLogo": "https://jdwel.com/image/teams/2306.png",
+    "away": "أوميلوس هراكليوس",
+    "awayLogo": "https://jdwel.com/image/teams/2310.png",
+    "score": "0 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "أولمبياكوس بيرايوس",
+    "homeLogo": "https://jdwel.com/image/teams/1407.png",
+    "away": "باوك",
+    "awayLogo": "https://jdwel.com/image/teams/1281.png",
+    "score": "0 - 2",
+    "time": "6:30 م"
+  },
+  {
+    "home": "باناثينايكوس",
+    "homeLogo": "https://jdwel.com/image/teams/gre_panathinaikos.png",
+    "away": "آريس",
+    "awayLogo": "https://jdwel.com/image/teams/2307.png",
+    "score": "3 - 0",
+    "time": "8:30 م"
+  },
+  {
+    "home": "أوميلوس هراكليوس",
+    "homeLogo": "https://jdwel.com/image/teams/2310.png",
+    "away": "ليفادياكوس",
+    "awayLogo": "https://jdwel.com/image/teams/gre_levadiakos.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "باناثينايكوس",
+    "homeLogo": "https://jdwel.com/image/teams/gre_panathinaikos.png",
+    "away": "باوك",
+    "awayLogo": "https://jdwel.com/image/teams/1281.png",
+    "score": "0 - 0",
+    "time": "8:30 م"
+  },
+  {
+    "home": "ليفادياكوس",
+    "homeLogo": "https://jdwel.com/image/teams/gre_levadiakos.png",
+    "away": "أوميلوس هراكليوس",
+    "awayLogo": "https://jdwel.com/image/teams/2310.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "باوك",
+    "homeLogo": "https://jdwel.com/image/teams/1281.png",
+    "away": "باناثينايكوس",
+    "awayLogo": "https://jdwel.com/image/teams/gre_panathinaikos.png",
+    "score": "0 - 0",
+    "time": "8:30 م"
+  },
+  {
+    "home": "لم يحدد",
+    "homeLogo": "https://jdwel.com/image/teams/placeholder.png",
+    "away": "لم يحدد",
+    "awayLogo": "https://jdwel.com/image/teams/placeholder.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  }
+]

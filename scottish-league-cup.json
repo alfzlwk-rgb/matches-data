@@ -1,0 +1,762 @@
+[
+  {
+    "home": "سانت ميرين",
+    "homeLogo": "https://jdwel.com/image/teams/sco_st__mirren.png",
+    "away": "سيلتك",
+    "awayLogo": "https://jdwel.com/image/teams/4380.png",
+    "score": "3 - 1",
+    "time": "5:30 م"
+  },
+  {
+    "home": "سيلتك",
+    "homeLogo": "https://jdwel.com/image/teams/4380.png",
+    "away": "جلاسكو رينجرز",
+    "awayLogo": "https://jdwel.com/image/teams/810.png",
+    "score": "3 - 1",
+    "time": "4:00 م"
+  },
+  {
+    "home": "ماذرويل",
+    "homeLogo": "https://jdwel.com/image/teams/sco_motherwell.png",
+    "away": "سانت ميرين",
+    "awayLogo": "https://jdwel.com/image/teams/sco_st__mirren.png",
+    "score": "1 - 4",
+    "time": "7:30 م"
+  },
+  {
+    "home": "بارتيك ثيستل",
+    "homeLogo": "https://jdwel.com/image/teams/3481.png",
+    "away": "سيلتك",
+    "awayLogo": "https://jdwel.com/image/teams/4380.png",
+    "score": "0 - 4",
+    "time": "5:30 م"
+  },
+  {
+    "home": "جلاسكو رينجرز",
+    "homeLogo": "https://jdwel.com/image/teams/810.png",
+    "away": "هيبرنيان",
+    "awayLogo": "https://jdwel.com/image/teams/sco_hibernian.png",
+    "score": "2 - 0",
+    "time": "7:45 م"
+  },
+  {
+    "home": "أبردين",
+    "homeLogo": "https://jdwel.com/image/teams/sco_aberdeen.png",
+    "away": "ماذرويل",
+    "awayLogo": "https://jdwel.com/image/teams/sco_motherwell.png",
+    "score": "0 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "كيلمارنوك",
+    "homeLogo": "https://jdwel.com/image/teams/1505.png",
+    "away": "سانت ميرين",
+    "awayLogo": "https://jdwel.com/image/teams/sco_st__mirren.png",
+    "score": "2 - 2 3 - 5",
+    "time": "9:45 م"
+  },
+  {
+    "home": "ليفينغستون",
+    "homeLogo": "https://jdwel.com/image/teams/3476.png",
+    "away": "هيبرنيان",
+    "awayLogo": "https://jdwel.com/image/teams/sco_hibernian.png",
+    "score": "0 - 2",
+    "time": "5:00 م"
+  },
+  {
+    "home": "كيلمارنوك",
+    "homeLogo": "https://jdwel.com/image/teams/1505.png",
+    "away": "دندي يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/sco_dundee_united.png",
+    "score": "2 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "جلاسكو رينجرز",
+    "homeLogo": "https://jdwel.com/image/teams/810.png",
+    "away": "ألوا أثليتيك",
+    "awayLogo": "https://jdwel.com/image/teams/sco_alloa_athletic.png",
+    "score": "4 - 2",
+    "time": "7:45 م"
+  },
+  {
+    "home": "غرينوك مورتون",
+    "homeLogo": "https://jdwel.com/image/teams/sco_greenock_morton.png",
+    "away": "أبردين",
+    "awayLogo": "https://jdwel.com/image/teams/sco_aberdeen.png",
+    "score": "0 - 3",
+    "time": "5:00 م"
+  },
+  {
+    "home": "سانت جونستون",
+    "homeLogo": "https://jdwel.com/image/teams/3477.png",
+    "away": "ماذرويل",
+    "awayLogo": "https://jdwel.com/image/teams/sco_motherwell.png",
+    "score": "0 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "بارتيك ثيستل",
+    "homeLogo": "https://jdwel.com/image/teams/3481.png",
+    "away": "أير يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/3514.png",
+    "score": "2 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "سانت ميرين",
+    "homeLogo": "https://jdwel.com/image/teams/sco_st__mirren.png",
+    "away": "هارتس",
+    "awayLogo": "https://jdwel.com/image/teams/sco_hearts.png",
+    "score": "1 - 1 5 - 4",
+    "time": "5:00 م"
+  },
+  {
+    "home": "سيلتك",
+    "homeLogo": "https://jdwel.com/image/teams/4380.png",
+    "away": "فالكريك",
+    "awayLogo": "https://jdwel.com/image/teams/3377.png",
+    "score": "4 - 1",
+    "time": "9:45 م"
+  },
+  {
+    "home": "سانت ميرين",
+    "homeLogo": "https://jdwel.com/image/teams/sco_st__mirren.png",
+    "away": "أير يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/3514.png",
+    "score": "2 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "فالكريك",
+    "homeLogo": "https://jdwel.com/image/teams/3377.png",
+    "away": "سبارتنز",
+    "awayLogo": "https://jdwel.com/image/teams/3480.png",
+    "score": "4 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "كوينز بارك",
+    "homeLogo": "https://jdwel.com/image/teams/5546.png",
+    "away": "كوف رينجرز",
+    "awayLogo": "https://jdwel.com/image/teams/3478.png",
+    "score": "2 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "روس كاونتي",
+    "homeLogo": "https://jdwel.com/image/teams/1814.png",
+    "away": "بارتيك ثيستل",
+    "awayLogo": "https://jdwel.com/image/teams/3481.png",
+    "score": "1 - 3",
+    "time": "5:00 م"
+  },
+  {
+    "home": "سترانراير",
+    "homeLogo": "https://jdwel.com/image/teams/3483.png",
+    "away": "كوين أوف ساوث",
+    "awayLogo": "https://jdwel.com/image/teams/3482.png",
+    "score": "1 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "أيردريونيانس",
+    "homeLogo": "https://jdwel.com/image/teams/3484.png",
+    "away": "ألوا أثليتيك",
+    "awayLogo": "https://jdwel.com/image/teams/sco_alloa_athletic.png",
+    "score": "2 - 3",
+    "time": "5:00 م"
+  },
+  {
+    "home": "دندي",
+    "homeLogo": "https://jdwel.com/image/teams/1096.png",
+    "away": "مونتروز",
+    "awayLogo": "https://jdwel.com/image/teams/sco_montrose.png",
+    "score": "5 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "فوفار أثليتيك",
+    "homeLogo": "https://jdwel.com/image/teams/sco_forfar_athletic.png",
+    "away": "اربوراث",
+    "awayLogo": "https://jdwel.com/image/teams/sco_arbroath.png",
+    "score": "1 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "دونفرملين أثلتيك",
+    "homeLogo": "https://jdwel.com/image/teams/3515.png",
+    "away": "ستيرلينغ ألبيون",
+    "awayLogo": "https://jdwel.com/image/teams/sco_stirling_albion.png",
+    "score": "2 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "هاميلتون أكاديميكال",
+    "homeLogo": "https://jdwel.com/image/teams/sco_hamilton_academical.png",
+    "away": "دامبارتون",
+    "awayLogo": "https://jdwel.com/image/teams/sco_dumbarton.png",
+    "score": "0 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "ريث روفرز",
+    "homeLogo": "https://jdwel.com/image/teams/3520.png",
+    "away": "إنفيرنيس",
+    "awayLogo": "https://jdwel.com/image/teams/3519.png",
+    "score": "5 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "سانت جونستون",
+    "homeLogo": "https://jdwel.com/image/teams/3477.png",
+    "away": "إلغين سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/3518.png",
+    "score": "8 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "غرينوك مورتون",
+    "homeLogo": "https://jdwel.com/image/teams/sco_greenock_morton.png",
+    "away": "كلايد",
+    "awayLogo": "https://jdwel.com/image/teams/sco_clyde.png",
+    "score": "3 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "ستين هاوس ميور",
+    "homeLogo": "https://jdwel.com/image/teams/sco_stenhousemuir.png",
+    "away": "بيترهيد",
+    "awayLogo": "https://jdwel.com/image/teams/3521.png",
+    "score": "1 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "كيلمارنوك",
+    "homeLogo": "https://jdwel.com/image/teams/1505.png",
+    "away": "إيست فايف",
+    "awayLogo": "https://jdwel.com/image/teams/3522.png",
+    "score": "4 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "ليفينغستون",
+    "homeLogo": "https://jdwel.com/image/teams/3476.png",
+    "away": "كيلتي هارتز",
+    "awayLogo": "https://jdwel.com/image/teams/3305.png",
+    "score": "6 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "هارتس",
+    "homeLogo": "https://jdwel.com/image/teams/sco_hearts.png",
+    "away": "دامبارتون",
+    "awayLogo": "https://jdwel.com/image/teams/sco_dumbarton.png",
+    "score": "4 - 0",
+    "time": "9:45 م"
+  },
+  {
+    "home": "مونتروز",
+    "homeLogo": "https://jdwel.com/image/teams/sco_montrose.png",
+    "away": "أيردريونيانس",
+    "awayLogo": "https://jdwel.com/image/teams/3484.png",
+    "score": "1 - 2",
+    "time": "9:15 م"
+  },
+  {
+    "home": "بريتشين سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/sco_brechin_city.png",
+    "away": "كوف رينجرز",
+    "awayLogo": "https://jdwel.com/image/teams/3478.png",
+    "score": "0 - 3",
+    "time": "9:45 م"
+  },
+  {
+    "home": "فالكريك",
+    "homeLogo": "https://jdwel.com/image/teams/3377.png",
+    "away": "كوينز بارك",
+    "awayLogo": "https://jdwel.com/image/teams/5546.png",
+    "score": "3 - 1",
+    "time": "9:45 م"
+  },
+  {
+    "home": "بارتيك ثيستل",
+    "homeLogo": "https://jdwel.com/image/teams/3481.png",
+    "away": "كوين أوف ساوث",
+    "awayLogo": "https://jdwel.com/image/teams/3482.png",
+    "score": "2 - 0",
+    "time": "9:45 م"
+  },
+  {
+    "home": "روس كاونتي",
+    "homeLogo": "https://jdwel.com/image/teams/1814.png",
+    "away": "إدنبرة سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/3475.png",
+    "score": "8 - 0",
+    "time": "9:45 م"
+  },
+  {
+    "home": "بونيريغ روز أثلتيك",
+    "homeLogo": "https://jdwel.com/image/teams/3516.png",
+    "away": "دندي",
+    "awayLogo": "https://jdwel.com/image/teams/1096.png",
+    "score": "1 - 3",
+    "time": "9:45 م"
+  },
+  {
+    "home": "اربوراث",
+    "homeLogo": "https://jdwel.com/image/teams/sco_arbroath.png",
+    "away": "أننان اثلتيك",
+    "awayLogo": "https://jdwel.com/image/teams/3513.png",
+    "score": "6 - 0",
+    "time": "9:45 م"
+  },
+  {
+    "home": "أير يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/3514.png",
+    "away": "فوفار أثليتيك",
+    "awayLogo": "https://jdwel.com/image/teams/sco_forfar_athletic.png",
+    "score": "3 - 0",
+    "time": "9:45 م"
+  },
+  {
+    "home": "دونفرملين أثلتيك",
+    "homeLogo": "https://jdwel.com/image/teams/3515.png",
+    "away": "هاميلتون أكاديميكال",
+    "awayLogo": "https://jdwel.com/image/teams/sco_hamilton_academical.png",
+    "score": "2 - 1",
+    "time": "9:45 م"
+  },
+  {
+    "home": "إيست كيلبرايد",
+    "homeLogo": "https://jdwel.com/image/teams/3517.png",
+    "away": "إنفيرنيس",
+    "awayLogo": "https://jdwel.com/image/teams/3519.png",
+    "score": "2 - 6",
+    "time": "9:45 م"
+  },
+  {
+    "home": "سانت جونستون",
+    "homeLogo": "https://jdwel.com/image/teams/3477.png",
+    "away": "ريث روفرز",
+    "awayLogo": "https://jdwel.com/image/teams/3520.png",
+    "score": "3 - 1",
+    "time": "9:45 م"
+  },
+  {
+    "home": "كلايد",
+    "homeLogo": "https://jdwel.com/image/teams/sco_clyde.png",
+    "away": "ستين هاوس ميور",
+    "awayLogo": "https://jdwel.com/image/teams/sco_stenhousemuir.png",
+    "score": "2 - 2 3 - 2",
+    "time": "9:45 م"
+  },
+  {
+    "home": "ماذرويل",
+    "homeLogo": "https://jdwel.com/image/teams/sco_motherwell.png",
+    "away": "غرينوك مورتون",
+    "awayLogo": "https://jdwel.com/image/teams/sco_greenock_morton.png",
+    "score": "3 - 0",
+    "time": "9:45 م"
+  },
+  {
+    "home": "إيست فايف",
+    "homeLogo": "https://jdwel.com/image/teams/3522.png",
+    "away": "برورا رينجرز",
+    "awayLogo": "https://jdwel.com/image/teams/3524.png",
+    "score": "3 - 0",
+    "time": "9:45 م"
+  },
+  {
+    "home": "كيلتي هارتز",
+    "homeLogo": "https://jdwel.com/image/teams/3305.png",
+    "away": "كيلمارنوك",
+    "awayLogo": "https://jdwel.com/image/teams/1505.png",
+    "score": "0 - 0 4 - 3",
+    "time": "9:45 م"
+  },
+  {
+    "home": "ستيرلينغ ألبيون",
+    "homeLogo": "https://jdwel.com/image/teams/sco_stirling_albion.png",
+    "away": "هارتس",
+    "awayLogo": "https://jdwel.com/image/teams/sco_hearts.png",
+    "score": "0 - 4",
+    "time": "7:15 م"
+  },
+  {
+    "home": "كوف رينجرز",
+    "homeLogo": "https://jdwel.com/image/teams/3478.png",
+    "away": "فالكريك",
+    "awayLogo": "https://jdwel.com/image/teams/3377.png",
+    "score": "0 - 0 2 - 4",
+    "time": "5:00 م"
+  },
+  {
+    "home": "سبارتنز",
+    "homeLogo": "https://jdwel.com/image/teams/3480.png",
+    "away": "بريتشين سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/sco_brechin_city.png",
+    "score": "2 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "إدنبرة سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/3475.png",
+    "away": "سترانراير",
+    "awayLogo": "https://jdwel.com/image/teams/3483.png",
+    "score": "0 - 0 5 - 3",
+    "time": "5:00 م"
+  },
+  {
+    "home": "كوين أوف ساوث",
+    "homeLogo": "https://jdwel.com/image/teams/3482.png",
+    "away": "روس كاونتي",
+    "awayLogo": "https://jdwel.com/image/teams/1814.png",
+    "score": "0 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "ألوا أثليتيك",
+    "homeLogo": "https://jdwel.com/image/teams/sco_alloa_athletic.png",
+    "away": "دندي",
+    "awayLogo": "https://jdwel.com/image/teams/1096.png",
+    "score": "1 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "مونتروز",
+    "homeLogo": "https://jdwel.com/image/teams/sco_montrose.png",
+    "away": "بونيريغ روز أثلتيك",
+    "awayLogo": "https://jdwel.com/image/teams/3516.png",
+    "score": "4 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "أير يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/3514.png",
+    "away": "اربوراث",
+    "awayLogo": "https://jdwel.com/image/teams/sco_arbroath.png",
+    "score": "4 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "سانت ميرين",
+    "homeLogo": "https://jdwel.com/image/teams/sco_st__mirren.png",
+    "away": "أننان اثلتيك",
+    "awayLogo": "https://jdwel.com/image/teams/3513.png",
+    "score": "8 - 2",
+    "time": "5:00 م"
+  },
+  {
+    "home": "دامبارتون",
+    "homeLogo": "https://jdwel.com/image/teams/sco_dumbarton.png",
+    "away": "دونفرملين أثلتيك",
+    "awayLogo": "https://jdwel.com/image/teams/3515.png",
+    "score": "0 - 4",
+    "time": "5:00 م"
+  },
+  {
+    "home": "إلغين سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/3518.png",
+    "away": "إيست كيلبرايد",
+    "awayLogo": "https://jdwel.com/image/teams/3517.png",
+    "score": "1 - 4",
+    "time": "5:00 م"
+  },
+  {
+    "home": "إنفيرنيس",
+    "homeLogo": "https://jdwel.com/image/teams/3519.png",
+    "away": "سانت جونستون",
+    "awayLogo": "https://jdwel.com/image/teams/3477.png",
+    "score": "0 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "بيترهيد",
+    "homeLogo": "https://jdwel.com/image/teams/3521.png",
+    "away": "كلايد",
+    "awayLogo": "https://jdwel.com/image/teams/sco_clyde.png",
+    "score": "1 - 2",
+    "time": "5:00 م"
+  },
+  {
+    "home": "ستين هاوس ميور",
+    "homeLogo": "https://jdwel.com/image/teams/sco_stenhousemuir.png",
+    "away": "ماذرويل",
+    "awayLogo": "https://jdwel.com/image/teams/sco_motherwell.png",
+    "score": "0 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "كيلتي هارتز",
+    "homeLogo": "https://jdwel.com/image/teams/3305.png",
+    "away": "إيست فايف",
+    "awayLogo": "https://jdwel.com/image/teams/3522.png",
+    "score": "0 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "ليفينغستون",
+    "homeLogo": "https://jdwel.com/image/teams/3476.png",
+    "away": "برورا رينجرز",
+    "awayLogo": "https://jdwel.com/image/teams/3524.png",
+    "score": "2 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "كيلمارنوك",
+    "homeLogo": "https://jdwel.com/image/teams/1505.png",
+    "away": "ليفينغستون",
+    "awayLogo": "https://jdwel.com/image/teams/3476.png",
+    "score": "1 - 0",
+    "time": "9:45 م"
+  },
+  {
+    "home": "كوف رينجرز",
+    "homeLogo": "https://jdwel.com/image/teams/3478.png",
+    "away": "سبارتنز",
+    "awayLogo": "https://jdwel.com/image/teams/3480.png",
+    "score": "1 - 0",
+    "time": "9:45 م"
+  },
+  {
+    "home": "كوينز بارك",
+    "homeLogo": "https://jdwel.com/image/teams/5546.png",
+    "away": "بريتشين سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/sco_brechin_city.png",
+    "score": "5 - 0",
+    "time": "9:45 م"
+  },
+  {
+    "home": "بارتيك ثيستل",
+    "homeLogo": "https://jdwel.com/image/teams/3481.png",
+    "away": "سترانراير",
+    "awayLogo": "https://jdwel.com/image/teams/3483.png",
+    "score": "2 - 0",
+    "time": "9:45 م"
+  },
+  {
+    "home": "كوين أوف ساوث",
+    "homeLogo": "https://jdwel.com/image/teams/3482.png",
+    "away": "إدنبرة سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/3475.png",
+    "score": "4 - 0",
+    "time": "9:45 م"
+  },
+  {
+    "home": "أيردريونيانس",
+    "homeLogo": "https://jdwel.com/image/teams/3484.png",
+    "away": "بونيريغ روز أثلتيك",
+    "awayLogo": "https://jdwel.com/image/teams/3516.png",
+    "score": "3 - 0",
+    "time": "9:45 م"
+  },
+  {
+    "home": "ألوا أثليتيك",
+    "homeLogo": "https://jdwel.com/image/teams/sco_alloa_athletic.png",
+    "away": "مونتروز",
+    "awayLogo": "https://jdwel.com/image/teams/sco_montrose.png",
+    "score": "2 - 1",
+    "time": "9:45 م"
+  },
+  {
+    "home": "أننان اثلتيك",
+    "homeLogo": "https://jdwel.com/image/teams/3513.png",
+    "away": "أير يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/3514.png",
+    "score": "1 - 6",
+    "time": "9:45 م"
+  },
+  {
+    "home": "فوفار أثليتيك",
+    "homeLogo": "https://jdwel.com/image/teams/sco_forfar_athletic.png",
+    "away": "سانت ميرين",
+    "awayLogo": "https://jdwel.com/image/teams/sco_st__mirren.png",
+    "score": "1 - 2",
+    "time": "9:45 م"
+  },
+  {
+    "home": "دامبارتون",
+    "homeLogo": "https://jdwel.com/image/teams/sco_dumbarton.png",
+    "away": "ستيرلينغ ألبيون",
+    "awayLogo": "https://jdwel.com/image/teams/sco_stirling_albion.png",
+    "score": "1 - 0",
+    "time": "9:45 م"
+  },
+  {
+    "home": "هاميلتون أكاديميكال",
+    "homeLogo": "https://jdwel.com/image/teams/sco_hamilton_academical.png",
+    "away": "هارتس",
+    "awayLogo": "https://jdwel.com/image/teams/sco_hearts.png",
+    "score": "0 - 4",
+    "time": "9:45 م"
+  },
+  {
+    "home": "إنفيرنيس",
+    "homeLogo": "https://jdwel.com/image/teams/3519.png",
+    "away": "إلغين سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/3518.png",
+    "score": "2 - 0",
+    "time": "9:45 م"
+  },
+  {
+    "home": "ريث روفرز",
+    "homeLogo": "https://jdwel.com/image/teams/3520.png",
+    "away": "إيست كيلبرايد",
+    "awayLogo": "https://jdwel.com/image/teams/3517.png",
+    "score": "2 - 4",
+    "time": "9:45 م"
+  },
+  {
+    "home": "غرينوك مورتون",
+    "homeLogo": "https://jdwel.com/image/teams/sco_greenock_morton.png",
+    "away": "ستين هاوس ميور",
+    "awayLogo": "https://jdwel.com/image/teams/sco_stenhousemuir.png",
+    "score": "3 - 0",
+    "time": "9:45 م"
+  },
+  {
+    "home": "ماذرويل",
+    "homeLogo": "https://jdwel.com/image/teams/sco_motherwell.png",
+    "away": "بيترهيد",
+    "awayLogo": "https://jdwel.com/image/teams/3521.png",
+    "score": "2 - 1",
+    "time": "9:45 م"
+  },
+  {
+    "home": "برورا رينجرز",
+    "homeLogo": "https://jdwel.com/image/teams/3524.png",
+    "away": "كيلتي هارتز",
+    "awayLogo": "https://jdwel.com/image/teams/3305.png",
+    "score": "0 - 4",
+    "time": "9:45 م"
+  },
+  {
+    "home": "هارتس",
+    "homeLogo": "https://jdwel.com/image/teams/sco_hearts.png",
+    "away": "دونفرملين أثلتيك",
+    "awayLogo": "https://jdwel.com/image/teams/3515.png",
+    "score": "4 - 1",
+    "time": "7:15 م"
+  },
+  {
+    "home": "بريتشين سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/sco_brechin_city.png",
+    "away": "فالكريك",
+    "awayLogo": "https://jdwel.com/image/teams/3377.png",
+    "score": "0 - 7",
+    "time": "5:00 م"
+  },
+  {
+    "home": "سبارتنز",
+    "homeLogo": "https://jdwel.com/image/teams/3480.png",
+    "away": "كوينز بارك",
+    "awayLogo": "https://jdwel.com/image/teams/5546.png",
+    "score": "2 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "سترانراير",
+    "homeLogo": "https://jdwel.com/image/teams/3483.png",
+    "away": "روس كاونتي",
+    "awayLogo": "https://jdwel.com/image/teams/1814.png",
+    "score": "1 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "بونيريغ روز أثلتيك",
+    "homeLogo": "https://jdwel.com/image/teams/3516.png",
+    "away": "ألوا أثليتيك",
+    "awayLogo": "https://jdwel.com/image/teams/sco_alloa_athletic.png",
+    "score": "0 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "دندي",
+    "homeLogo": "https://jdwel.com/image/teams/1096.png",
+    "away": "أيردريونيانس",
+    "awayLogo": "https://jdwel.com/image/teams/3484.png",
+    "score": "0 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "أننان اثلتيك",
+    "homeLogo": "https://jdwel.com/image/teams/3513.png",
+    "away": "فوفار أثليتيك",
+    "awayLogo": "https://jdwel.com/image/teams/sco_forfar_athletic.png",
+    "score": "1 - 1 2 - 4",
+    "time": "5:00 م"
+  },
+  {
+    "home": "اربوراث",
+    "homeLogo": "https://jdwel.com/image/teams/sco_arbroath.png",
+    "away": "سانت ميرين",
+    "awayLogo": "https://jdwel.com/image/teams/sco_st__mirren.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "ستيرلينغ ألبيون",
+    "homeLogo": "https://jdwel.com/image/teams/sco_stirling_albion.png",
+    "away": "هاميلتون أكاديميكال",
+    "awayLogo": "https://jdwel.com/image/teams/sco_hamilton_academical.png",
+    "score": "0 - 2",
+    "time": "5:00 م"
+  },
+  {
+    "home": "إيست كيلبرايد",
+    "homeLogo": "https://jdwel.com/image/teams/3517.png",
+    "away": "سانت جونستون",
+    "awayLogo": "https://jdwel.com/image/teams/3477.png",
+    "score": "1 - 3",
+    "time": "5:00 م"
+  },
+  {
+    "home": "إلغين سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/3518.png",
+    "away": "ريث روفرز",
+    "awayLogo": "https://jdwel.com/image/teams/3520.png",
+    "score": "1 - 5",
+    "time": "5:00 م"
+  },
+  {
+    "home": "كلايد",
+    "homeLogo": "https://jdwel.com/image/teams/sco_clyde.png",
+    "away": "ماذرويل",
+    "awayLogo": "https://jdwel.com/image/teams/sco_motherwell.png",
+    "score": "2 - 2",
+    "time": "5:00 م"
+  },
+  {
+    "home": "بيترهيد",
+    "homeLogo": "https://jdwel.com/image/teams/3521.png",
+    "away": "غرينوك مورتون",
+    "awayLogo": "https://jdwel.com/image/teams/sco_greenock_morton.png",
+    "score": "2 - 4",
+    "time": "5:00 م"
+  },
+  {
+    "home": "برورا رينجرز",
+    "homeLogo": "https://jdwel.com/image/teams/3524.png",
+    "away": "كيلمارنوك",
+    "awayLogo": "https://jdwel.com/image/teams/1505.png",
+    "score": "0 - 2",
+    "time": "5:00 م"
+  },
+  {
+    "home": "إيست فايف",
+    "homeLogo": "https://jdwel.com/image/teams/3522.png",
+    "away": "ليفينغستون",
+    "awayLogo": "https://jdwel.com/image/teams/3476.png",
+    "score": "1 - 2",
+    "time": "5:00 م"
+  },
+  {
+    "home": "إدنبرة سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/3475.png",
+    "away": "بارتيك ثيستل",
+    "awayLogo": "https://jdwel.com/image/teams/3481.png",
+    "score": "1 - 4",
+    "time": "9:45 م"
+  }
+]

@@ -1,0 +1,210 @@
+[
+  {
+    "home": "المغرب",
+    "homeLogo": "https://jdwel.com/image/teams/3168.png",
+    "away": "نيجيريا",
+    "awayLogo": "https://jdwel.com/image/teams/236.png",
+    "score": "2 - 3",
+    "time": "11:00 م"
+  },
+  {
+    "home": "غانا",
+    "homeLogo": "https://jdwel.com/image/teams/flag_ghana_v2.png",
+    "away": "جنوب أفريقيا",
+    "awayLogo": "https://jdwel.com/image/teams/50.png",
+    "score": "1 - 1 4 - 3",
+    "time": "10:00 م"
+  },
+  {
+    "home": "المغرب",
+    "homeLogo": "https://jdwel.com/image/teams/3168.png",
+    "away": "غانا",
+    "awayLogo": "https://jdwel.com/image/teams/flag_ghana_v2.png",
+    "score": "1 - 1 4 - 2",
+    "time": "10:00 م"
+  },
+  {
+    "home": "نيجيريا",
+    "homeLogo": "https://jdwel.com/image/teams/236.png",
+    "away": "جنوب أفريقيا",
+    "awayLogo": "https://jdwel.com/image/teams/50.png",
+    "score": "2 - 1",
+    "time": "7:00 م"
+  },
+  {
+    "home": "جنوب أفريقيا",
+    "homeLogo": "https://jdwel.com/image/teams/50.png",
+    "away": "السنغال",
+    "awayLogo": "https://jdwel.com/image/teams/flag_senegal_v2.png",
+    "score": "0 - 0 4 - 1",
+    "time": "10:00 م"
+  },
+  {
+    "home": "الجزائر",
+    "homeLogo": "https://jdwel.com/image/teams/flag_algeria_v2.png",
+    "away": "غانا",
+    "awayLogo": "https://jdwel.com/image/teams/flag_ghana_v2.png",
+    "score": "0 - 0 2 - 4",
+    "time": "7:00 م"
+  },
+  {
+    "home": "المغرب",
+    "homeLogo": "https://jdwel.com/image/teams/3168.png",
+    "away": "مالي",
+    "awayLogo": "https://jdwel.com/image/teams/35.png",
+    "score": "3 - 1",
+    "time": "10:00 م"
+  },
+  {
+    "home": "نيجيريا",
+    "homeLogo": "https://jdwel.com/image/teams/236.png",
+    "away": "زامبيا",
+    "awayLogo": "https://jdwel.com/image/teams/flag_zambia_v2.png",
+    "score": "5 - 0",
+    "time": "7:00 م"
+  },
+  {
+    "home": "غانا",
+    "homeLogo": "https://jdwel.com/image/teams/flag_ghana_v2.png",
+    "away": "تنزانيا",
+    "awayLogo": "https://jdwel.com/image/teams/85.png",
+    "score": "4 - 1",
+    "time": "10:00 م"
+  },
+  {
+    "home": "جنوب أفريقيا",
+    "homeLogo": "https://jdwel.com/image/teams/50.png",
+    "away": "مالي",
+    "awayLogo": "https://jdwel.com/image/teams/35.png",
+    "score": "4 - 0",
+    "time": "10:00 م"
+  },
+  {
+    "home": "نيجيريا",
+    "homeLogo": "https://jdwel.com/image/teams/236.png",
+    "away": "الجزائر",
+    "awayLogo": "https://jdwel.com/image/teams/flag_algeria_v2.png",
+    "score": "0 - 0",
+    "time": "10:00 م"
+  },
+  {
+    "home": "تونس",
+    "homeLogo": "https://jdwel.com/image/teams/flag_tunisia_v2.png",
+    "away": "بوتسوانا",
+    "awayLogo": "https://jdwel.com/image/teams/196.png",
+    "score": "1 - 2",
+    "time": "10:00 م"
+  },
+  {
+    "home": "زامبيا",
+    "homeLogo": "https://jdwel.com/image/teams/flag_zambia_v2.png",
+    "away": "جمهورية الكونغو الديمقراطية",
+    "awayLogo": "https://jdwel.com/image/teams/47.png",
+    "score": "1 - 0",
+    "time": "10:00 م"
+  },
+  {
+    "home": "المغرب",
+    "homeLogo": "https://jdwel.com/image/teams/3168.png",
+    "away": "السنغال",
+    "awayLogo": "https://jdwel.com/image/teams/flag_senegal_v2.png",
+    "score": "1 - 0",
+    "time": "10:00 م"
+  },
+  {
+    "home": "تنزانيا",
+    "homeLogo": "https://jdwel.com/image/teams/85.png",
+    "away": "جنوب أفريقيا",
+    "awayLogo": "https://jdwel.com/image/teams/50.png",
+    "score": "1 - 1",
+    "time": "10:00 م"
+  },
+  {
+    "home": "غانا",
+    "homeLogo": "https://jdwel.com/image/teams/flag_ghana_v2.png",
+    "away": "مالي",
+    "awayLogo": "https://jdwel.com/image/teams/35.png",
+    "score": "1 - 1",
+    "time": "7:00 م"
+  },
+  {
+    "home": "بوتسوانا",
+    "homeLogo": "https://jdwel.com/image/teams/196.png",
+    "away": "نيجيريا",
+    "awayLogo": "https://jdwel.com/image/teams/236.png",
+    "score": "0 - 1",
+    "time": "10:00 م"
+  },
+  {
+    "home": "تونس",
+    "homeLogo": "https://jdwel.com/image/teams/flag_tunisia_v2.png",
+    "away": "الجزائر",
+    "awayLogo": "https://jdwel.com/image/teams/flag_algeria_v2.png",
+    "score": "0 - 0",
+    "time": "7:00 م"
+  },
+  {
+    "home": "جمهورية الكونغو الديمقراطية",
+    "homeLogo": "https://jdwel.com/image/teams/47.png",
+    "away": "المغرب",
+    "awayLogo": "https://jdwel.com/image/teams/3168.png",
+    "score": "2 - 4",
+    "time": "10:00 م"
+  },
+  {
+    "home": "زامبيا",
+    "homeLogo": "https://jdwel.com/image/teams/flag_zambia_v2.png",
+    "away": "السنغال",
+    "awayLogo": "https://jdwel.com/image/teams/flag_senegal_v2.png",
+    "score": "3 - 2",
+    "time": "7:00 م"
+  },
+  {
+    "home": "مالي",
+    "homeLogo": "https://jdwel.com/image/teams/35.png",
+    "away": "تنزانيا",
+    "awayLogo": "https://jdwel.com/image/teams/85.png",
+    "score": "1 - 0",
+    "time": "10:00 م"
+  },
+  {
+    "home": "جنوب أفريقيا",
+    "homeLogo": "https://jdwel.com/image/teams/50.png",
+    "away": "غانا",
+    "awayLogo": "https://jdwel.com/image/teams/flag_ghana_v2.png",
+    "score": "2 - 0",
+    "time": "7:00 م"
+  },
+  {
+    "home": "الجزائر",
+    "homeLogo": "https://jdwel.com/image/teams/flag_algeria_v2.png",
+    "away": "بوتسوانا",
+    "awayLogo": "https://jdwel.com/image/teams/196.png",
+    "score": "1 - 0",
+    "time": "10:00 م"
+  },
+  {
+    "home": "نيجيريا",
+    "homeLogo": "https://jdwel.com/image/teams/236.png",
+    "away": "تونس",
+    "awayLogo": "https://jdwel.com/image/teams/flag_tunisia_v2.png",
+    "score": "3 - 0",
+    "time": "7:00 م"
+  },
+  {
+    "home": "السنغال",
+    "homeLogo": "https://jdwel.com/image/teams/flag_senegal_v2.png",
+    "away": "جمهورية الكونغو الديمقراطية",
+    "awayLogo": "https://jdwel.com/image/teams/47.png",
+    "score": "4 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "المغرب",
+    "homeLogo": "https://jdwel.com/image/teams/3168.png",
+    "away": "زامبيا",
+    "awayLogo": "https://jdwel.com/image/teams/flag_zambia_v2.png",
+    "score": "2 - 2",
+    "time": "11:00 م"
+  }
+]

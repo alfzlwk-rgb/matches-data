@@ -1,0 +1,58 @@
+[
+  {
+    "home": "الأهلي طرابلس",
+    "homeLogo": "https://jdwel.com/image/teams/958.png",
+    "away": "الأهلي بنغازي",
+    "awayLogo": "https://jdwel.com/image/teams/lib_ahli_benghazi.png",
+    "score": "3 - 0",
+    "time": "7:00 م"
+  },
+  {
+    "home": "الأخضر",
+    "homeLogo": "https://jdwel.com/image/teams/lib_al_akhdar_v2.png",
+    "away": "الأهلي بنغازي",
+    "awayLogo": "https://jdwel.com/image/teams/lib_ahli_benghazi.png",
+    "score": "2 - 2 1 - 3",
+    "time": "4:00 م"
+  },
+  {
+    "home": "الاتحاد",
+    "homeLogo": "https://jdwel.com/image/teams/1528.png",
+    "away": "الأهلي طرابلس",
+    "awayLogo": "https://jdwel.com/image/teams/958.png",
+    "score": "0 - 0 2 - 3",
+    "time": "3:00 م"
+  },
+  {
+    "home": "الاتحاد",
+    "homeLogo": "https://jdwel.com/image/teams/1528.png",
+    "away": "المدينة",
+    "awayLogo": "https://jdwel.com/image/teams/1529.png",
+    "score": "1 - 0",
+    "time": "8:40 م"
+  },
+  {
+    "home": "السويحلي",
+    "homeLogo": "https://jdwel.com/image/teams/lib_asswehly_v2.png",
+    "away": "الأهلي طرابلس",
+    "awayLogo": "https://jdwel.com/image/teams/958.png",
+    "score": "1 - 4",
+    "time": "7:00 م"
+  },
+  {
+    "home": "الهلال",
+    "homeLogo": "https://jdwel.com/image/teams/lib_al_hilal.png",
+    "away": "الأهلي بنغازي",
+    "awayLogo": "https://jdwel.com/image/teams/lib_ahli_benghazi.png",
+    "score": "1 - 1 4 - 2",
+    "time": "9:30 م"
+  },
+  {
+    "home": "النصر",
+    "homeLogo": "https://jdwel.com/image/teams/lib_al-nasr_v2.png",
+    "away": "الأخضر",
+    "awayLogo": "https://jdwel.com/image/teams/lib_al_akhdar_v2.png",
+    "score": "1 - 2",
+    "time": "7:00 م"
+  }
+]
