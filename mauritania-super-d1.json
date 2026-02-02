@@ -1,0 +1,890 @@
+[
+  {
+    "home": "الشمال",
+    "homeLogo": "https://jdwel.com/image/teams/2942.png",
+    "away": "جمعية اسنيم",
+    "awayLogo": "https://jdwel.com/image/teams/2948.png",
+    "score": "0 - 0",
+    "time": "7:45 م"
+  },
+  {
+    "home": "لكصر",
+    "homeLogo": "https://jdwel.com/image/teams/2951.png",
+    "away": "الجمارك",
+    "awayLogo": "https://jdwel.com/image/teams/2941.png",
+    "score": "0 - 2",
+    "time": "7:45 م"
+  },
+  {
+    "home": "نواذيبو",
+    "homeLogo": "https://jdwel.com/image/teams/2938.png",
+    "away": "بومبير",
+    "awayLogo": "https://jdwel.com/image/teams/2947.png",
+    "score": "0 - 0",
+    "time": "10:00 م"
+  },
+  {
+    "home": "انزيدان",
+    "homeLogo": "https://jdwel.com/image/teams/2950.png",
+    "away": "الشرطة",
+    "awayLogo": "https://jdwel.com/image/teams/1332.png",
+    "score": "1 - 0",
+    "time": "7:00 م"
+  },
+  {
+    "home": "كيهيدي",
+    "homeLogo": "https://jdwel.com/image/teams/2946.png",
+    "away": "إنتر نواكشوط",
+    "awayLogo": "https://jdwel.com/image/teams/2945.png",
+    "score": "1 - 0",
+    "time": "7:30 م"
+  },
+  {
+    "home": "الدرك الوطني",
+    "homeLogo": "https://jdwel.com/image/teams/2940.png",
+    "away": "نواكشوط كينغز",
+    "awayLogo": "https://jdwel.com/image/teams/2943.png",
+    "score": "1 - 1",
+    "time": "7:45 م"
+  },
+  {
+    "home": "تفرغ زينه",
+    "homeLogo": "https://jdwel.com/image/teams/2944.png",
+    "away": "نواكشوط أكاديمي",
+    "awayLogo": "https://jdwel.com/image/teams/4528.png",
+    "score": "2 - 1",
+    "time": "7:30 م"
+  },
+  {
+    "home": "نواكشوط أكاديمي",
+    "homeLogo": "https://jdwel.com/image/teams/4528.png",
+    "away": "الشمال",
+    "awayLogo": "https://jdwel.com/image/teams/2942.png",
+    "score": "1 - 2",
+    "time": "7:30 م"
+  },
+  {
+    "home": "بومبير",
+    "homeLogo": "https://jdwel.com/image/teams/2947.png",
+    "away": "كيهيدي",
+    "awayLogo": "https://jdwel.com/image/teams/2946.png",
+    "score": "2 - 1",
+    "time": "7:30 م"
+  },
+  {
+    "home": "نواكشوط كينغز",
+    "homeLogo": "https://jdwel.com/image/teams/2943.png",
+    "away": "انزيدان",
+    "awayLogo": "https://jdwel.com/image/teams/2950.png",
+    "score": "1 - 1",
+    "time": "7:30 م"
+  },
+  {
+    "home": "الجمارك",
+    "homeLogo": "https://jdwel.com/image/teams/2941.png",
+    "away": "تفرغ زينه",
+    "awayLogo": "https://jdwel.com/image/teams/2944.png",
+    "score": "2 - 1",
+    "time": "7:30 م"
+  },
+  {
+    "home": "الشرطة",
+    "homeLogo": "https://jdwel.com/image/teams/1332.png",
+    "away": "لكصر",
+    "awayLogo": "https://jdwel.com/image/teams/2951.png",
+    "score": "3 - 0",
+    "time": "7:30 م"
+  },
+  {
+    "home": "إنتر نواكشوط",
+    "homeLogo": "https://jdwel.com/image/teams/2945.png",
+    "away": "الدرك الوطني",
+    "awayLogo": "https://jdwel.com/image/teams/2940.png",
+    "score": "0 - 1",
+    "time": "7:30 م"
+  },
+  {
+    "home": "تفرغ زينه",
+    "homeLogo": "https://jdwel.com/image/teams/2944.png",
+    "away": "الشمال",
+    "awayLogo": "https://jdwel.com/image/teams/2942.png",
+    "score": "1 - 1",
+    "time": "7:15 م"
+  },
+  {
+    "home": "الجمارك",
+    "homeLogo": "https://jdwel.com/image/teams/2941.png",
+    "away": "الشرطة",
+    "awayLogo": "https://jdwel.com/image/teams/1332.png",
+    "score": "3 - 3",
+    "time": "7:30 م"
+  },
+  {
+    "home": "لكصر",
+    "homeLogo": "https://jdwel.com/image/teams/2951.png",
+    "away": "نواكشوط كينغز",
+    "awayLogo": "https://jdwel.com/image/teams/2943.png",
+    "score": "0 - 1",
+    "time": "7:30 م"
+  },
+  {
+    "home": "كيهيدي",
+    "homeLogo": "https://jdwel.com/image/teams/2946.png",
+    "away": "جمعية اسنيم",
+    "awayLogo": "https://jdwel.com/image/teams/2948.png",
+    "score": "1 - 3",
+    "time": "7:30 م"
+  },
+  {
+    "home": "انزيدان",
+    "homeLogo": "https://jdwel.com/image/teams/2950.png",
+    "away": "إنتر نواكشوط",
+    "awayLogo": "https://jdwel.com/image/teams/2945.png",
+    "score": "4 - 1",
+    "time": "7:00 م"
+  },
+  {
+    "home": "الدرك الوطني",
+    "homeLogo": "https://jdwel.com/image/teams/2940.png",
+    "away": "بومبير",
+    "awayLogo": "https://jdwel.com/image/teams/2947.png",
+    "score": "0 - 0",
+    "time": "7:30 م"
+  },
+  {
+    "home": "إنتر نواكشوط",
+    "homeLogo": "https://jdwel.com/image/teams/2945.png",
+    "away": "لكصر",
+    "awayLogo": "https://jdwel.com/image/teams/2951.png",
+    "score": "3 - 0",
+    "time": "6:15 م"
+  },
+  {
+    "home": "نواكشوط كينغز",
+    "homeLogo": "https://jdwel.com/image/teams/2943.png",
+    "away": "الجمارك",
+    "awayLogo": "https://jdwel.com/image/teams/2941.png",
+    "score": "1 - 2",
+    "time": "6:15 م"
+  },
+  {
+    "home": "جمعية اسنيم",
+    "homeLogo": "https://jdwel.com/image/teams/2948.png",
+    "away": "الدرك الوطني",
+    "awayLogo": "https://jdwel.com/image/teams/2940.png",
+    "score": "1 - 2",
+    "time": "6:15 م"
+  },
+  {
+    "home": "بومبير",
+    "homeLogo": "https://jdwel.com/image/teams/2947.png",
+    "away": "انزيدان",
+    "awayLogo": "https://jdwel.com/image/teams/2950.png",
+    "score": "3 - 1",
+    "time": "6:15 م"
+  },
+  {
+    "home": "الشمال",
+    "homeLogo": "https://jdwel.com/image/teams/2942.png",
+    "away": "نواذيبو",
+    "awayLogo": "https://jdwel.com/image/teams/2938.png",
+    "score": "0 - 3",
+    "time": "6:15 م"
+  },
+  {
+    "home": "الشرطة",
+    "homeLogo": "https://jdwel.com/image/teams/1332.png",
+    "away": "تفرغ زينه",
+    "awayLogo": "https://jdwel.com/image/teams/2944.png",
+    "score": "1 - 1",
+    "time": "6:15 م"
+  },
+  {
+    "home": "نواكشوط أكاديمي",
+    "homeLogo": "https://jdwel.com/image/teams/4528.png",
+    "away": "كيهيدي",
+    "awayLogo": "https://jdwel.com/image/teams/2946.png",
+    "score": "3 - 0",
+    "time": "6:15 م"
+  },
+  {
+    "home": "انزيدان",
+    "homeLogo": "https://jdwel.com/image/teams/2950.png",
+    "away": "جمعية اسنيم",
+    "awayLogo": "https://jdwel.com/image/teams/2948.png",
+    "score": "1 - 1",
+    "time": "6:00 م"
+  },
+  {
+    "home": "تفرغ زينه",
+    "homeLogo": "https://jdwel.com/image/teams/2944.png",
+    "away": "نواذيبو",
+    "awayLogo": "https://jdwel.com/image/teams/2938.png",
+    "score": "0 - 2",
+    "time": "6:15 م"
+  },
+  {
+    "home": "الجمارك",
+    "homeLogo": "https://jdwel.com/image/teams/2941.png",
+    "away": "إنتر نواكشوط",
+    "awayLogo": "https://jdwel.com/image/teams/2945.png",
+    "score": "6 - 1",
+    "time": "6:15 م"
+  },
+  {
+    "home": "لكصر",
+    "homeLogo": "https://jdwel.com/image/teams/2951.png",
+    "away": "بومبير",
+    "awayLogo": "https://jdwel.com/image/teams/2947.png",
+    "score": "2 - 3",
+    "time": "6:15 م"
+  },
+  {
+    "home": "كيهيدي",
+    "homeLogo": "https://jdwel.com/image/teams/2946.png",
+    "away": "الشمال",
+    "awayLogo": "https://jdwel.com/image/teams/2942.png",
+    "score": "2 - 0",
+    "time": "6:15 م"
+  },
+  {
+    "home": "الدرك الوطني",
+    "homeLogo": "https://jdwel.com/image/teams/2940.png",
+    "away": "نواكشوط أكاديمي",
+    "awayLogo": "https://jdwel.com/image/teams/4528.png",
+    "score": "2 - 2",
+    "time": "6:15 م"
+  },
+  {
+    "home": "الشرطة",
+    "homeLogo": "https://jdwel.com/image/teams/1332.png",
+    "away": "نواكشوط كينغز",
+    "awayLogo": "https://jdwel.com/image/teams/2943.png",
+    "score": "2 - 0",
+    "time": "6:15 م"
+  },
+  {
+    "home": "الشمال",
+    "homeLogo": "https://jdwel.com/image/teams/2942.png",
+    "away": "الدرك الوطني",
+    "awayLogo": "https://jdwel.com/image/teams/2940.png",
+    "score": "3 - 4",
+    "time": "6:15 م"
+  },
+  {
+    "home": "جمعية اسنيم",
+    "homeLogo": "https://jdwel.com/image/teams/2948.png",
+    "away": "لكصر",
+    "awayLogo": "https://jdwel.com/image/teams/2951.png",
+    "score": "1 - 0",
+    "time": "6:15 م"
+  },
+  {
+    "home": "بومبير",
+    "homeLogo": "https://jdwel.com/image/teams/2947.png",
+    "away": "الجمارك",
+    "awayLogo": "https://jdwel.com/image/teams/2941.png",
+    "score": "0 - 0",
+    "time": "6:15 م"
+  },
+  {
+    "home": "نواكشوط كينغز",
+    "homeLogo": "https://jdwel.com/image/teams/2943.png",
+    "away": "تفرغ زينه",
+    "awayLogo": "https://jdwel.com/image/teams/2944.png",
+    "score": "1 - 1",
+    "time": "6:15 م"
+  },
+  {
+    "home": "نواكشوط أكاديمي",
+    "homeLogo": "https://jdwel.com/image/teams/4528.png",
+    "away": "انزيدان",
+    "awayLogo": "https://jdwel.com/image/teams/2950.png",
+    "score": "1 - 2",
+    "time": "6:15 م"
+  },
+  {
+    "home": "إنتر نواكشوط",
+    "homeLogo": "https://jdwel.com/image/teams/2945.png",
+    "away": "الشرطة",
+    "awayLogo": "https://jdwel.com/image/teams/1332.png",
+    "score": "1 - 1",
+    "time": "6:15 م"
+  },
+  {
+    "home": "لكصر",
+    "homeLogo": "https://jdwel.com/image/teams/2951.png",
+    "away": "نواكشوط أكاديمي",
+    "awayLogo": "https://jdwel.com/image/teams/4528.png",
+    "score": "0 - 2",
+    "time": "6:00 م"
+  },
+  {
+    "home": "انزيدان",
+    "homeLogo": "https://jdwel.com/image/teams/2950.png",
+    "away": "الشمال",
+    "awayLogo": "https://jdwel.com/image/teams/2942.png",
+    "score": "1 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "الشرطة",
+    "homeLogo": "https://jdwel.com/image/teams/1332.png",
+    "away": "بومبير",
+    "awayLogo": "https://jdwel.com/image/teams/2947.png",
+    "score": "1 - 1",
+    "time": "6:00 م"
+  },
+  {
+    "home": "نواكشوط كينغز",
+    "homeLogo": "https://jdwel.com/image/teams/2943.png",
+    "away": "إنتر نواكشوط",
+    "awayLogo": "https://jdwel.com/image/teams/2945.png",
+    "score": "1 - 1",
+    "time": "6:00 م"
+  },
+  {
+    "home": "تفرغ زينه",
+    "homeLogo": "https://jdwel.com/image/teams/2944.png",
+    "away": "كيهيدي",
+    "awayLogo": "https://jdwel.com/image/teams/2946.png",
+    "score": "2 - 1",
+    "time": "6:00 م"
+  },
+  {
+    "home": "الجمارك",
+    "homeLogo": "https://jdwel.com/image/teams/2941.png",
+    "away": "جمعية اسنيم",
+    "awayLogo": "https://jdwel.com/image/teams/2948.png",
+    "score": "2 - 1",
+    "time": "6:00 م"
+  },
+  {
+    "home": "الدرك الوطني",
+    "homeLogo": "https://jdwel.com/image/teams/2940.png",
+    "away": "نواذيبو",
+    "awayLogo": "https://jdwel.com/image/teams/2938.png",
+    "score": "0 - 2",
+    "time": "6:00 م"
+  },
+  {
+    "home": "بومبير",
+    "homeLogo": "https://jdwel.com/image/teams/2947.png",
+    "away": "نواكشوط كينغز",
+    "awayLogo": "https://jdwel.com/image/teams/2943.png",
+    "score": "2 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "الشمال",
+    "homeLogo": "https://jdwel.com/image/teams/2942.png",
+    "away": "لكصر",
+    "awayLogo": "https://jdwel.com/image/teams/2951.png",
+    "score": "1 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "جمعية اسنيم",
+    "homeLogo": "https://jdwel.com/image/teams/2948.png",
+    "away": "الشرطة",
+    "awayLogo": "https://jdwel.com/image/teams/1332.png",
+    "score": "1 - 1",
+    "time": "6:00 م"
+  },
+  {
+    "home": "نواذيبو",
+    "homeLogo": "https://jdwel.com/image/teams/2938.png",
+    "away": "انزيدان",
+    "awayLogo": "https://jdwel.com/image/teams/2950.png",
+    "score": "2 - 1",
+    "time": "6:00 م"
+  },
+  {
+    "home": "كيهيدي",
+    "homeLogo": "https://jdwel.com/image/teams/2946.png",
+    "away": "الدرك الوطني",
+    "awayLogo": "https://jdwel.com/image/teams/2940.png",
+    "score": "0 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "إنتر نواكشوط",
+    "homeLogo": "https://jdwel.com/image/teams/2945.png",
+    "away": "تفرغ زينه",
+    "awayLogo": "https://jdwel.com/image/teams/2944.png",
+    "score": "0 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "نواكشوط أكاديمي",
+    "homeLogo": "https://jdwel.com/image/teams/4528.png",
+    "away": "الجمارك",
+    "awayLogo": "https://jdwel.com/image/teams/2941.png",
+    "score": "2 - 4",
+    "time": "6:00 م"
+  },
+  {
+    "home": "جمعية اسنيم",
+    "homeLogo": "https://jdwel.com/image/teams/2948.png",
+    "away": "نواذيبو",
+    "awayLogo": "https://jdwel.com/image/teams/2938.png",
+    "score": "0 - 1",
+    "time": "6:00 م"
+  },
+  {
+    "home": "إنتر نواكشوط",
+    "homeLogo": "https://jdwel.com/image/teams/2945.png",
+    "away": "بومبير",
+    "awayLogo": "https://jdwel.com/image/teams/2947.png",
+    "score": "1 - 2",
+    "time": "6:00 م"
+  },
+  {
+    "home": "الجمارك",
+    "homeLogo": "https://jdwel.com/image/teams/2941.png",
+    "away": "الشمال",
+    "awayLogo": "https://jdwel.com/image/teams/2942.png",
+    "score": "0 - 3",
+    "time": "6:00 م"
+  },
+  {
+    "home": "تفرغ زينه",
+    "homeLogo": "https://jdwel.com/image/teams/2944.png",
+    "away": "الدرك الوطني",
+    "awayLogo": "https://jdwel.com/image/teams/2940.png",
+    "score": "1 - 2",
+    "time": "6:00 م"
+  },
+  {
+    "home": "انزيدان",
+    "homeLogo": "https://jdwel.com/image/teams/2950.png",
+    "away": "كيهيدي",
+    "awayLogo": "https://jdwel.com/image/teams/2946.png",
+    "score": "4 - 3",
+    "time": "6:00 م"
+  },
+  {
+    "home": "الشرطة",
+    "homeLogo": "https://jdwel.com/image/teams/1332.png",
+    "away": "نواكشوط أكاديمي",
+    "awayLogo": "https://jdwel.com/image/teams/4528.png",
+    "score": "0 - 1",
+    "time": "6:00 م"
+  },
+  {
+    "home": "لكصر",
+    "homeLogo": "https://jdwel.com/image/teams/2951.png",
+    "away": "نواذيبو",
+    "awayLogo": "https://jdwel.com/image/teams/2938.png",
+    "score": "0 - 2",
+    "time": "6:00 م"
+  },
+  {
+    "home": "نواكشوط كينغز",
+    "homeLogo": "https://jdwel.com/image/teams/2943.png",
+    "away": "جمعية اسنيم",
+    "awayLogo": "https://jdwel.com/image/teams/2948.png",
+    "score": "2 - 3",
+    "time": "6:00 م"
+  },
+  {
+    "home": "بومبير",
+    "homeLogo": "https://jdwel.com/image/teams/2947.png",
+    "away": "تفرغ زينه",
+    "awayLogo": "https://jdwel.com/image/teams/2944.png",
+    "score": "1 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "الدرك الوطني",
+    "homeLogo": "https://jdwel.com/image/teams/2940.png",
+    "away": "انزيدان",
+    "awayLogo": "https://jdwel.com/image/teams/2950.png",
+    "score": "1 - 2",
+    "time": "6:00 م"
+  },
+  {
+    "home": "نواكشوط أكاديمي",
+    "homeLogo": "https://jdwel.com/image/teams/4528.png",
+    "away": "نواكشوط كينغز",
+    "awayLogo": "https://jdwel.com/image/teams/2943.png",
+    "score": "2 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "كيهيدي",
+    "homeLogo": "https://jdwel.com/image/teams/2946.png",
+    "away": "لكصر",
+    "awayLogo": "https://jdwel.com/image/teams/2951.png",
+    "score": "1 - 1",
+    "time": "6:00 م"
+  },
+  {
+    "home": "الشمال",
+    "homeLogo": "https://jdwel.com/image/teams/2942.png",
+    "away": "الشرطة",
+    "awayLogo": "https://jdwel.com/image/teams/1332.png",
+    "score": "1 - 1",
+    "time": "6:00 م"
+  },
+  {
+    "home": "جمعية اسنيم",
+    "homeLogo": "https://jdwel.com/image/teams/2948.png",
+    "away": "إنتر نواكشوط",
+    "awayLogo": "https://jdwel.com/image/teams/2945.png",
+    "score": "3 - 2",
+    "time": "6:00 م"
+  },
+  {
+    "home": "نواذيبو",
+    "homeLogo": "https://jdwel.com/image/teams/2938.png",
+    "away": "الجمارك",
+    "awayLogo": "https://jdwel.com/image/teams/2941.png",
+    "score": "3 - 2",
+    "time": "6:00 م"
+  },
+  {
+    "home": "إنتر نواكشوط",
+    "homeLogo": "https://jdwel.com/image/teams/2945.png",
+    "away": "نواكشوط أكاديمي",
+    "awayLogo": "https://jdwel.com/image/teams/4528.png",
+    "score": "0 - 2",
+    "time": "6:00 م"
+  },
+  {
+    "home": "تفرغ زينه",
+    "homeLogo": "https://jdwel.com/image/teams/2944.png",
+    "away": "انزيدان",
+    "awayLogo": "https://jdwel.com/image/teams/2950.png",
+    "score": "2 - 2",
+    "time": "6:00 م"
+  },
+  {
+    "home": "الشرطة",
+    "homeLogo": "https://jdwel.com/image/teams/1332.png",
+    "away": "نواذيبو",
+    "awayLogo": "https://jdwel.com/image/teams/2938.png",
+    "score": "1 - 1",
+    "time": "6:00 م"
+  },
+  {
+    "home": "الجمارك",
+    "homeLogo": "https://jdwel.com/image/teams/2941.png",
+    "away": "كيهيدي",
+    "awayLogo": "https://jdwel.com/image/teams/2946.png",
+    "score": "1 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "بومبير",
+    "homeLogo": "https://jdwel.com/image/teams/2947.png",
+    "away": "جمعية اسنيم",
+    "awayLogo": "https://jdwel.com/image/teams/2948.png",
+    "score": "1 - 1",
+    "time": "6:00 م"
+  },
+  {
+    "home": "نواكشوط كينغز",
+    "homeLogo": "https://jdwel.com/image/teams/2943.png",
+    "away": "الشمال",
+    "awayLogo": "https://jdwel.com/image/teams/2942.png",
+    "score": "1 - 1",
+    "time": "6:00 م"
+  },
+  {
+    "home": "لكصر",
+    "homeLogo": "https://jdwel.com/image/teams/2951.png",
+    "away": "الدرك الوطني",
+    "awayLogo": "https://jdwel.com/image/teams/2940.png",
+    "score": "0 - 1",
+    "time": "6:00 م"
+  },
+  {
+    "home": "نواذيبو",
+    "homeLogo": "https://jdwel.com/image/teams/2938.png",
+    "away": "نواكشوط أكاديمي",
+    "awayLogo": "https://jdwel.com/image/teams/4528.png",
+    "score": "0 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "الشمال",
+    "homeLogo": "https://jdwel.com/image/teams/2942.png",
+    "away": "إنتر نواكشوط",
+    "awayLogo": "https://jdwel.com/image/teams/2945.png",
+    "score": "3 - 1",
+    "time": "6:00 م"
+  },
+  {
+    "home": "جمعية اسنيم",
+    "homeLogo": "https://jdwel.com/image/teams/2948.png",
+    "away": "تفرغ زينه",
+    "awayLogo": "https://jdwel.com/image/teams/2944.png",
+    "score": "1 - 1",
+    "time": "6:00 م"
+  },
+  {
+    "home": "كيهيدي",
+    "homeLogo": "https://jdwel.com/image/teams/2946.png",
+    "away": "الشرطة",
+    "awayLogo": "https://jdwel.com/image/teams/1332.png",
+    "score": "0 - 4",
+    "time": "6:00 م"
+  },
+  {
+    "home": "انزيدان",
+    "homeLogo": "https://jdwel.com/image/teams/2950.png",
+    "away": "لكصر",
+    "awayLogo": "https://jdwel.com/image/teams/2951.png",
+    "score": "1 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "الدرك الوطني",
+    "homeLogo": "https://jdwel.com/image/teams/2940.png",
+    "away": "الجمارك",
+    "awayLogo": "https://jdwel.com/image/teams/2941.png",
+    "score": "0 - 1",
+    "time": "6:00 م"
+  },
+  {
+    "home": "نواكشوط أكاديمي",
+    "homeLogo": "https://jdwel.com/image/teams/4528.png",
+    "away": "بومبير",
+    "awayLogo": "https://jdwel.com/image/teams/2947.png",
+    "score": "1 - 2",
+    "time": "6:00 م"
+  },
+  {
+    "home": "نواذيبو",
+    "homeLogo": "https://jdwel.com/image/teams/2938.png",
+    "away": "نواكشوط كينغز",
+    "awayLogo": "https://jdwel.com/image/teams/2943.png",
+    "score": "1 - 1",
+    "time": "6:00 م"
+  },
+  {
+    "home": "إنتر نواكشوط",
+    "homeLogo": "https://jdwel.com/image/teams/2945.png",
+    "away": "نواذيبو",
+    "awayLogo": "https://jdwel.com/image/teams/2938.png",
+    "score": "0 - 2",
+    "time": "6:00 م"
+  },
+  {
+    "home": "كيهيدي",
+    "homeLogo": "https://jdwel.com/image/teams/2946.png",
+    "away": "نواكشوط كينغز",
+    "awayLogo": "https://jdwel.com/image/teams/2943.png",
+    "score": "0 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "الجمارك",
+    "homeLogo": "https://jdwel.com/image/teams/2941.png",
+    "away": "انزيدان",
+    "awayLogo": "https://jdwel.com/image/teams/2950.png",
+    "score": "0 - 1",
+    "time": "6:00 م"
+  },
+  {
+    "home": "جمعية اسنيم",
+    "homeLogo": "https://jdwel.com/image/teams/2948.png",
+    "away": "نواكشوط أكاديمي",
+    "awayLogo": "https://jdwel.com/image/teams/4528.png",
+    "score": "0 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "تفرغ زينه",
+    "homeLogo": "https://jdwel.com/image/teams/2944.png",
+    "away": "لكصر",
+    "awayLogo": "https://jdwel.com/image/teams/2951.png",
+    "score": "0 - 2",
+    "time": "6:00 م"
+  },
+  {
+    "home": "بومبير",
+    "homeLogo": "https://jdwel.com/image/teams/2947.png",
+    "away": "الشمال",
+    "awayLogo": "https://jdwel.com/image/teams/2942.png",
+    "score": "1 - 2",
+    "time": "6:00 م"
+  },
+  {
+    "home": "الشرطة",
+    "homeLogo": "https://jdwel.com/image/teams/1332.png",
+    "away": "الدرك الوطني",
+    "awayLogo": "https://jdwel.com/image/teams/2940.png",
+    "score": "2 - 1",
+    "time": "6:00 م"
+  },
+  {
+    "home": "نواذيبو",
+    "homeLogo": "https://jdwel.com/image/teams/2938.png",
+    "away": "كيهيدي",
+    "awayLogo": "https://jdwel.com/image/teams/2946.png",
+    "score": "1 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "الجمارك",
+    "homeLogo": "https://jdwel.com/image/teams/2941.png",
+    "away": "لكصر",
+    "awayLogo": "https://jdwel.com/image/teams/2951.png",
+    "score": "3 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "إنتر نواكشوط",
+    "homeLogo": "https://jdwel.com/image/teams/2945.png",
+    "away": "كيهيدي",
+    "awayLogo": "https://jdwel.com/image/teams/2946.png",
+    "score": "1 - 1",
+    "time": "6:00 م"
+  },
+  {
+    "home": "جمعية اسنيم",
+    "homeLogo": "https://jdwel.com/image/teams/2948.png",
+    "away": "الشمال",
+    "awayLogo": "https://jdwel.com/image/teams/2942.png",
+    "score": "2 - 1",
+    "time": "6:00 م"
+  },
+  {
+    "home": "نواكشوط كينغز",
+    "homeLogo": "https://jdwel.com/image/teams/2943.png",
+    "away": "الدرك الوطني",
+    "awayLogo": "https://jdwel.com/image/teams/2940.png",
+    "score": "2 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "الشرطة",
+    "homeLogo": "https://jdwel.com/image/teams/1332.png",
+    "away": "انزيدان",
+    "awayLogo": "https://jdwel.com/image/teams/2950.png",
+    "score": "1 - 2",
+    "time": "6:00 م"
+  },
+  {
+    "home": "بومبير",
+    "homeLogo": "https://jdwel.com/image/teams/2947.png",
+    "away": "نواذيبو",
+    "awayLogo": "https://jdwel.com/image/teams/2938.png",
+    "score": "0 - 4",
+    "time": "6:00 م"
+  },
+  {
+    "home": "نواكشوط أكاديمي",
+    "homeLogo": "https://jdwel.com/image/teams/4528.png",
+    "away": "تفرغ زينه",
+    "awayLogo": "https://jdwel.com/image/teams/2944.png",
+    "score": "3 - 1",
+    "time": "6:00 م"
+  },
+  {
+    "home": "نواذيبو",
+    "homeLogo": "https://jdwel.com/image/teams/2938.png",
+    "away": "جمعية اسنيم",
+    "awayLogo": "https://jdwel.com/image/teams/2948.png",
+    "score": "0 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "لكصر",
+    "homeLogo": "https://jdwel.com/image/teams/2951.png",
+    "away": "الشرطة",
+    "awayLogo": "https://jdwel.com/image/teams/1332.png",
+    "score": "1 - 1",
+    "time": "6:00 م"
+  },
+  {
+    "home": "كيهيدي",
+    "homeLogo": "https://jdwel.com/image/teams/2946.png",
+    "away": "بومبير",
+    "awayLogo": "https://jdwel.com/image/teams/2947.png",
+    "score": "1 - 1",
+    "time": "6:00 م"
+  },
+  {
+    "home": "انزيدان",
+    "homeLogo": "https://jdwel.com/image/teams/2950.png",
+    "away": "نواكشوط كينغز",
+    "awayLogo": "https://jdwel.com/image/teams/2943.png",
+    "score": "2 - 6",
+    "time": "6:00 م"
+  },
+  {
+    "home": "تفرغ زينه",
+    "homeLogo": "https://jdwel.com/image/teams/2944.png",
+    "away": "الجمارك",
+    "awayLogo": "https://jdwel.com/image/teams/2941.png",
+    "score": "0 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "الدرك الوطني",
+    "homeLogo": "https://jdwel.com/image/teams/2940.png",
+    "away": "إنتر نواكشوط",
+    "awayLogo": "https://jdwel.com/image/teams/2945.png",
+    "score": "0 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "الشمال",
+    "homeLogo": "https://jdwel.com/image/teams/2942.png",
+    "away": "نواكشوط أكاديمي",
+    "awayLogo": "https://jdwel.com/image/teams/4528.png",
+    "score": "0 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "نواكشوط كينغز",
+    "homeLogo": "https://jdwel.com/image/teams/2943.png",
+    "away": "لكصر",
+    "awayLogo": "https://jdwel.com/image/teams/2951.png",
+    "score": "0 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "الشرطة",
+    "homeLogo": "https://jdwel.com/image/teams/1332.png",
+    "away": "الجمارك",
+    "awayLogo": "https://jdwel.com/image/teams/2941.png",
+    "score": "0 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "الشمال",
+    "homeLogo": "https://jdwel.com/image/teams/2942.png",
+    "away": "تفرغ زينه",
+    "awayLogo": "https://jdwel.com/image/teams/2944.png",
+    "score": "0 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "إنتر نواكشوط",
+    "homeLogo": "https://jdwel.com/image/teams/2945.png",
+    "away": "انزيدان",
+    "awayLogo": "https://jdwel.com/image/teams/2950.png",
+    "score": "0 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "نواكشوط أكاديمي",
+    "homeLogo": "https://jdwel.com/image/teams/4528.png",
+    "away": "نواذيبو",
+    "awayLogo": "https://jdwel.com/image/teams/2938.png",
+    "score": "0 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "بومبير",
+    "homeLogo": "https://jdwel.com/image/teams/2947.png",
+    "away": "الدرك الوطني",
+    "awayLogo": "https://jdwel.com/image/teams/2940.png",
+    "score": "0 - 0",
+    "time": "6:00 م"
+  }
+]

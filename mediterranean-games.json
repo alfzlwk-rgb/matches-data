@@ -1,0 +1,130 @@
+[
+  {
+    "home": "فرنسا",
+    "homeLogo": "https://jdwel.com/image/teams/4962.png",
+    "away": "إيطاليا",
+    "awayLogo": "https://jdwel.com/image/teams/56.png",
+    "score": "1 - 0",
+    "time": "9:45 م"
+  },
+  {
+    "home": "تركيا",
+    "homeLogo": "https://jdwel.com/image/teams/238.png",
+    "away": "المغرب",
+    "awayLogo": "https://jdwel.com/image/teams/3168.png",
+    "score": "2 - 4",
+    "time": "6:00 م"
+  },
+  {
+    "home": "إيطاليا",
+    "homeLogo": "https://jdwel.com/image/teams/56.png",
+    "away": "المغرب",
+    "awayLogo": "https://jdwel.com/image/teams/3168.png",
+    "score": "2 - 1",
+    "time": "10:00 م"
+  },
+  {
+    "home": "فرنسا",
+    "homeLogo": "https://jdwel.com/image/teams/4962.png",
+    "away": "تركيا",
+    "awayLogo": "https://jdwel.com/image/teams/238.png",
+    "score": "2 - 0",
+    "time": "6:30 م"
+  },
+  {
+    "home": "المغرب",
+    "homeLogo": "https://jdwel.com/image/teams/3168.png",
+    "away": "إسبانيا",
+    "awayLogo": "https://jdwel.com/image/teams/flag_spain_v2.png",
+    "score": "1 - 1",
+    "time": "9:00 م"
+  },
+  {
+    "home": "الجزائر",
+    "homeLogo": "https://jdwel.com/image/teams/flag_algeria_v2.png",
+    "away": "فرنسا",
+    "awayLogo": "https://jdwel.com/image/teams/4962.png",
+    "score": "2 - 3",
+    "time": "9:00 م"
+  },
+  {
+    "home": "تركيا",
+    "homeLogo": "https://jdwel.com/image/teams/238.png",
+    "away": "إيطاليا",
+    "awayLogo": "https://jdwel.com/image/teams/56.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "البرتغال",
+    "homeLogo": "https://jdwel.com/image/teams/2562.png",
+    "away": "اليونان",
+    "awayLogo": "https://jdwel.com/image/teams/221.png",
+    "score": "0 - 2",
+    "time": "6:00 م"
+  },
+  {
+    "home": "إسبانيا",
+    "homeLogo": "https://jdwel.com/image/teams/flag_spain_v2.png",
+    "away": "فرنسا",
+    "awayLogo": "https://jdwel.com/image/teams/4962.png",
+    "score": "1 - 1",
+    "time": "9:00 م"
+  },
+  {
+    "home": "البرتغال",
+    "homeLogo": "https://jdwel.com/image/teams/2562.png",
+    "away": "تركيا",
+    "awayLogo": "https://jdwel.com/image/teams/238.png",
+    "score": "2 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "الجزائر",
+    "homeLogo": "https://jdwel.com/image/teams/flag_algeria_v2.png",
+    "away": "المغرب",
+    "awayLogo": "https://jdwel.com/image/teams/3168.png",
+    "score": "0 - 2",
+    "time": "6:00 م"
+  },
+  {
+    "home": "إيطاليا",
+    "homeLogo": "https://jdwel.com/image/teams/56.png",
+    "away": "اليونان",
+    "awayLogo": "https://jdwel.com/image/teams/221.png",
+    "score": "4 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "فرنسا",
+    "homeLogo": "https://jdwel.com/image/teams/4962.png",
+    "away": "المغرب",
+    "awayLogo": "https://jdwel.com/image/teams/3168.png",
+    "score": "1 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "إيطاليا",
+    "homeLogo": "https://jdwel.com/image/teams/56.png",
+    "away": "البرتغال",
+    "awayLogo": "https://jdwel.com/image/teams/2562.png",
+    "score": "1 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "إسبانيا",
+    "homeLogo": "https://jdwel.com/image/teams/flag_spain_v2.png",
+    "away": "الجزائر",
+    "awayLogo": "https://jdwel.com/image/teams/flag_algeria_v2.png",
+    "score": "0 - 1",
+    "time": "6:00 م"
+  },
+  {
+    "home": "اليونان",
+    "homeLogo": "https://jdwel.com/image/teams/221.png",
+    "away": "تركيا",
+    "awayLogo": "https://jdwel.com/image/teams/238.png",
+    "score": "1 - 2",
+    "time": "6:00 م"
+  }
+]

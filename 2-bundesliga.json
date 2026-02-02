@@ -1,0 +1,2450 @@
+[
+  {
+    "home": "شالكه 04",
+    "homeLogo": "https://jdwel.com/image/teams/3263.png",
+    "away": "هيرتا برلين",
+    "awayLogo": "https://jdwel.com/image/teams/ger_hertha_bsc.png",
+    "score": "2 - 1",
+    "time": "9:30 م"
+  },
+  {
+    "home": "دارمشتات 98",
+    "homeLogo": "https://jdwel.com/image/teams/1292.png",
+    "away": "بوخوم",
+    "awayLogo": "https://jdwel.com/image/teams/3696.png",
+    "score": "4 - 1",
+    "time": "2:00 م"
+  },
+  {
+    "home": "كارلشروهر",
+    "homeLogo": "https://jdwel.com/image/teams/ger_karlsruher_sc.png",
+    "away": "بروسيا مونستر",
+    "awayLogo": "https://jdwel.com/image/teams/1016.png",
+    "score": "3 - 2",
+    "time": "2:00 م"
+  },
+  {
+    "home": "بادربورن",
+    "homeLogo": "https://jdwel.com/image/teams/3264.png",
+    "away": "هولشتاين كيل",
+    "awayLogo": "https://jdwel.com/image/teams/2147.png",
+    "score": "2 - 1",
+    "time": "2:00 م"
+  },
+  {
+    "home": "إلفيرسبيرغ",
+    "homeLogo": "https://jdwel.com/image/teams/1017.png",
+    "away": "نورنبيرغ",
+    "awayLogo": "https://jdwel.com/image/teams/1291.png",
+    "score": "1 - 0",
+    "time": "2:00 م"
+  },
+  {
+    "home": "أرمينيا بيليفيلد",
+    "homeLogo": "https://jdwel.com/image/teams/1456.png",
+    "away": "فورتونا دوسلدورف",
+    "awayLogo": "https://jdwel.com/image/teams/ger_fortuna_dusseldorf.png",
+    "score": "5 - 1",
+    "time": "9:30 م"
+  },
+  {
+    "home": "ماغديبورغ",
+    "homeLogo": "https://jdwel.com/image/teams/ger_magdeburg.png",
+    "away": "آينتراخت براونشفايغ",
+    "awayLogo": "https://jdwel.com/image/teams/ger_eintracht_braunschweig.png",
+    "score": "0 - 1",
+    "time": "2:30 م"
+  },
+  {
+    "home": "هانوفر 96",
+    "homeLogo": "https://jdwel.com/image/teams/ger_hannover_96.png",
+    "away": "كايزرسلاوترن",
+    "awayLogo": "https://jdwel.com/image/teams/1534.png",
+    "score": "1 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "غرويثر فورت",
+    "homeLogo": "https://jdwel.com/image/teams/ger_greuther_furth_v2.png",
+    "away": "دينامو دريسدين",
+    "awayLogo": "https://jdwel.com/image/teams/3413.png",
+    "score": "3 - 2",
+    "time": "2:30 م"
+  },
+  {
+    "home": "نورنبيرغ",
+    "homeLogo": "https://jdwel.com/image/teams/1291.png",
+    "away": "دارمشتات 98",
+    "awayLogo": "https://jdwel.com/image/teams/1292.png",
+    "score": "0 - 1",
+    "time": "7:30 م"
+  },
+  {
+    "home": "بروسيا مونستر",
+    "homeLogo": "https://jdwel.com/image/teams/1016.png",
+    "away": "بادربورن",
+    "awayLogo": "https://jdwel.com/image/teams/3264.png",
+    "score": "1 - 1",
+    "time": "7:30 م"
+  },
+  {
+    "home": "آينتراخت براونشفايغ",
+    "homeLogo": "https://jdwel.com/image/teams/ger_eintracht_braunschweig.png",
+    "away": "غرويثر فورت",
+    "awayLogo": "https://jdwel.com/image/teams/ger_greuther_furth_v2.png",
+    "score": "3 - 2",
+    "time": "2:00 م"
+  },
+  {
+    "home": "فورتونا دوسلدورف",
+    "homeLogo": "https://jdwel.com/image/teams/ger_fortuna_dusseldorf.png",
+    "away": "هانوفر 96",
+    "awayLogo": "https://jdwel.com/image/teams/ger_hannover_96.png",
+    "score": "0 - 2",
+    "time": "2:00 م"
+  },
+  {
+    "home": "دينامو دريسدين",
+    "homeLogo": "https://jdwel.com/image/teams/3413.png",
+    "away": "ماغديبورغ",
+    "awayLogo": "https://jdwel.com/image/teams/ger_magdeburg.png",
+    "score": "1 - 2",
+    "time": "2:00 م"
+  },
+  {
+    "home": "كايزرسلاوترن",
+    "homeLogo": "https://jdwel.com/image/teams/1534.png",
+    "away": "شالكه 04",
+    "awayLogo": "https://jdwel.com/image/teams/3263.png",
+    "score": "1 - 0",
+    "time": "9:30 م"
+  },
+  {
+    "home": "هيرتا برلين",
+    "homeLogo": "https://jdwel.com/image/teams/ger_hertha_bsc.png",
+    "away": "كارلشروهر",
+    "awayLogo": "https://jdwel.com/image/teams/ger_karlsruher_sc.png",
+    "score": "0 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "هولشتاين كيل",
+    "homeLogo": "https://jdwel.com/image/teams/2147.png",
+    "away": "أرمينيا بيليفيلد",
+    "awayLogo": "https://jdwel.com/image/teams/1456.png",
+    "score": "0 - 2",
+    "time": "2:30 م"
+  },
+  {
+    "home": "بوخوم",
+    "homeLogo": "https://jdwel.com/image/teams/3696.png",
+    "away": "إلفيرسبيرغ",
+    "awayLogo": "https://jdwel.com/image/teams/1017.png",
+    "score": "2 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "بروسيا مونستر",
+    "homeLogo": "https://jdwel.com/image/teams/1016.png",
+    "away": "نورنبيرغ",
+    "awayLogo": "https://jdwel.com/image/teams/1291.png",
+    "score": "2 - 1",
+    "time": "7:30 م"
+  },
+  {
+    "home": "إلفيرسبيرغ",
+    "homeLogo": "https://jdwel.com/image/teams/1017.png",
+    "away": "كايزرسلاوترن",
+    "awayLogo": "https://jdwel.com/image/teams/1534.png",
+    "score": "2 - 1",
+    "time": "7:30 م"
+  },
+  {
+    "home": "هانوفر 96",
+    "homeLogo": "https://jdwel.com/image/teams/ger_hannover_96.png",
+    "away": "ماغديبورغ",
+    "awayLogo": "https://jdwel.com/image/teams/ger_magdeburg.png",
+    "score": "3 - 1",
+    "time": "2:00 م"
+  },
+  {
+    "home": "كارلشروهر",
+    "homeLogo": "https://jdwel.com/image/teams/ger_karlsruher_sc.png",
+    "away": "آينتراخت براونشفايغ",
+    "awayLogo": "https://jdwel.com/image/teams/ger_eintracht_braunschweig.png",
+    "score": "2 - 0",
+    "time": "2:00 م"
+  },
+  {
+    "home": "بادربورن",
+    "homeLogo": "https://jdwel.com/image/teams/3264.png",
+    "away": "فورتونا دوسلدورف",
+    "awayLogo": "https://jdwel.com/image/teams/ger_fortuna_dusseldorf.png",
+    "score": "1 - 2",
+    "time": "2:00 م"
+  },
+  {
+    "home": "شالكه 04",
+    "homeLogo": "https://jdwel.com/image/teams/3263.png",
+    "away": "بوخوم",
+    "awayLogo": "https://jdwel.com/image/teams/3696.png",
+    "score": "2 - 1",
+    "time": "9:30 م"
+  },
+  {
+    "home": "أرمينيا بيليفيلد",
+    "homeLogo": "https://jdwel.com/image/teams/1456.png",
+    "away": "دينامو دريسدين",
+    "awayLogo": "https://jdwel.com/image/teams/3413.png",
+    "score": "1 - 2",
+    "time": "2:30 م"
+  },
+  {
+    "home": "دارمشتات 98",
+    "homeLogo": "https://jdwel.com/image/teams/1292.png",
+    "away": "هيرتا برلين",
+    "awayLogo": "https://jdwel.com/image/teams/ger_hertha_bsc.png",
+    "score": "0 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "غرويثر فورت",
+    "homeLogo": "https://jdwel.com/image/teams/ger_greuther_furth_v2.png",
+    "away": "هولشتاين كيل",
+    "awayLogo": "https://jdwel.com/image/teams/2147.png",
+    "score": "0 - 2",
+    "time": "2:30 م"
+  },
+  {
+    "home": "نورنبيرغ",
+    "homeLogo": "https://jdwel.com/image/teams/1291.png",
+    "away": "بادربورن",
+    "awayLogo": "https://jdwel.com/image/teams/3264.png",
+    "score": "0 - 0",
+    "time": "7:30 م"
+  },
+  {
+    "home": "هيرتا برلين",
+    "homeLogo": "https://jdwel.com/image/teams/ger_hertha_bsc.png",
+    "away": "إلفيرسبيرغ",
+    "awayLogo": "https://jdwel.com/image/teams/1017.png",
+    "score": "0 - 2",
+    "time": "7:30 م"
+  },
+  {
+    "home": "آينتراخت براونشفايغ",
+    "homeLogo": "https://jdwel.com/image/teams/ger_eintracht_braunschweig.png",
+    "away": "أرمينيا بيليفيلد",
+    "awayLogo": "https://jdwel.com/image/teams/1456.png",
+    "score": "1 - 1",
+    "time": "2:00 م"
+  },
+  {
+    "home": "هولشتاين كيل",
+    "homeLogo": "https://jdwel.com/image/teams/2147.png",
+    "away": "هانوفر 96",
+    "awayLogo": "https://jdwel.com/image/teams/ger_hannover_96.png",
+    "score": "1 - 2",
+    "time": "2:00 م"
+  },
+  {
+    "home": "بوخوم",
+    "homeLogo": "https://jdwel.com/image/teams/3696.png",
+    "away": "بروسيا مونستر",
+    "awayLogo": "https://jdwel.com/image/teams/1016.png",
+    "score": "1 - 2",
+    "time": "2:00 م"
+  },
+  {
+    "home": "فورتونا دوسلدورف",
+    "homeLogo": "https://jdwel.com/image/teams/ger_fortuna_dusseldorf.png",
+    "away": "كارلشروهر",
+    "awayLogo": "https://jdwel.com/image/teams/ger_karlsruher_sc.png",
+    "score": "0 - 0",
+    "time": "9:30 م"
+  },
+  {
+    "home": "كايزرسلاوترن",
+    "homeLogo": "https://jdwel.com/image/teams/1534.png",
+    "away": "دارمشتات 98",
+    "awayLogo": "https://jdwel.com/image/teams/1292.png",
+    "score": "3 - 1",
+    "time": "2:30 م"
+  },
+  {
+    "home": "ماغديبورغ",
+    "homeLogo": "https://jdwel.com/image/teams/ger_magdeburg.png",
+    "away": "غرويثر فورت",
+    "awayLogo": "https://jdwel.com/image/teams/ger_greuther_furth_v2.png",
+    "score": "4 - 5",
+    "time": "2:30 م"
+  },
+  {
+    "home": "دينامو دريسدين",
+    "homeLogo": "https://jdwel.com/image/teams/3413.png",
+    "away": "شالكه 04",
+    "awayLogo": "https://jdwel.com/image/teams/3263.png",
+    "score": "0 - 1",
+    "time": "2:30 م"
+  },
+  {
+    "home": "أرمينيا بيليفيلد",
+    "homeLogo": "https://jdwel.com/image/teams/1456.png",
+    "away": "ماغديبورغ",
+    "awayLogo": "https://jdwel.com/image/teams/ger_magdeburg.png",
+    "score": "2 - 0",
+    "time": "7:30 م"
+  },
+  {
+    "home": "بادربورن",
+    "homeLogo": "https://jdwel.com/image/teams/3264.png",
+    "away": "بوخوم",
+    "awayLogo": "https://jdwel.com/image/teams/3696.png",
+    "score": "1 - 0",
+    "time": "7:30 م"
+  },
+  {
+    "home": "دارمشتات 98",
+    "homeLogo": "https://jdwel.com/image/teams/1292.png",
+    "away": "آينتراخت براونشفايغ",
+    "awayLogo": "https://jdwel.com/image/teams/ger_eintracht_braunschweig.png",
+    "score": "2 - 1",
+    "time": "2:00 م"
+  },
+  {
+    "home": "شالكه 04",
+    "homeLogo": "https://jdwel.com/image/teams/3263.png",
+    "away": "هولشتاين كيل",
+    "awayLogo": "https://jdwel.com/image/teams/2147.png",
+    "score": "0 - 1",
+    "time": "2:00 م"
+  },
+  {
+    "home": "كارلشروهر",
+    "homeLogo": "https://jdwel.com/image/teams/ger_karlsruher_sc.png",
+    "away": "نورنبيرغ",
+    "awayLogo": "https://jdwel.com/image/teams/1291.png",
+    "score": "2 - 1",
+    "time": "2:00 م"
+  },
+  {
+    "home": "هانوفر 96",
+    "homeLogo": "https://jdwel.com/image/teams/ger_hannover_96.png",
+    "away": "هيرتا برلين",
+    "awayLogo": "https://jdwel.com/image/teams/ger_hertha_bsc.png",
+    "score": "0 - 3",
+    "time": "9:30 م"
+  },
+  {
+    "home": "بروسيا مونستر",
+    "homeLogo": "https://jdwel.com/image/teams/1016.png",
+    "away": "فورتونا دوسلدورف",
+    "awayLogo": "https://jdwel.com/image/teams/ger_fortuna_dusseldorf.png",
+    "score": "1 - 2",
+    "time": "2:30 م"
+  },
+  {
+    "home": "غرويثر فورت",
+    "homeLogo": "https://jdwel.com/image/teams/ger_greuther_furth_v2.png",
+    "away": "كايزرسلاوترن",
+    "awayLogo": "https://jdwel.com/image/teams/1534.png",
+    "score": "0 - 3",
+    "time": "2:30 م"
+  },
+  {
+    "home": "إلفيرسبيرغ",
+    "homeLogo": "https://jdwel.com/image/teams/1017.png",
+    "away": "دينامو دريسدين",
+    "awayLogo": "https://jdwel.com/image/teams/3413.png",
+    "score": "2 - 2",
+    "time": "2:30 م"
+  },
+  {
+    "home": "كايزرسلاوترن",
+    "homeLogo": "https://jdwel.com/image/teams/1534.png",
+    "away": "بروسيا مونستر",
+    "awayLogo": "https://jdwel.com/image/teams/1016.png",
+    "score": "4 - 1",
+    "time": "7:30 م"
+  },
+  {
+    "home": "أرمينيا بيليفيلد",
+    "homeLogo": "https://jdwel.com/image/teams/1456.png",
+    "away": "غرويثر فورت",
+    "awayLogo": "https://jdwel.com/image/teams/ger_greuther_furth_v2.png",
+    "score": "1 - 3",
+    "time": "7:30 م"
+  },
+  {
+    "home": "ماغديبورغ",
+    "homeLogo": "https://jdwel.com/image/teams/ger_magdeburg.png",
+    "away": "شالكه 04",
+    "awayLogo": "https://jdwel.com/image/teams/3263.png",
+    "score": "0 - 2",
+    "time": "2:00 م"
+  },
+  {
+    "home": "آينتراخت براونشفايغ",
+    "homeLogo": "https://jdwel.com/image/teams/ger_eintracht_braunschweig.png",
+    "away": "إلفيرسبيرغ",
+    "awayLogo": "https://jdwel.com/image/teams/1017.png",
+    "score": "1 - 4",
+    "time": "2:00 م"
+  },
+  {
+    "home": "هيرتا برلين",
+    "homeLogo": "https://jdwel.com/image/teams/ger_hertha_bsc.png",
+    "away": "بادربورن",
+    "awayLogo": "https://jdwel.com/image/teams/3264.png",
+    "score": "0 - 2",
+    "time": "2:00 م"
+  },
+  {
+    "home": "نورنبيرغ",
+    "homeLogo": "https://jdwel.com/image/teams/1291.png",
+    "away": "بوخوم",
+    "awayLogo": "https://jdwel.com/image/teams/3696.png",
+    "score": "2 - 1",
+    "time": "9:30 م"
+  },
+  {
+    "home": "فورتونا دوسلدورف",
+    "homeLogo": "https://jdwel.com/image/teams/ger_fortuna_dusseldorf.png",
+    "away": "دارمشتات 98",
+    "awayLogo": "https://jdwel.com/image/teams/1292.png",
+    "score": "0 - 3",
+    "time": "2:30 م"
+  },
+  {
+    "home": "هولشتاين كيل",
+    "homeLogo": "https://jdwel.com/image/teams/2147.png",
+    "away": "كارلشروهر",
+    "awayLogo": "https://jdwel.com/image/teams/ger_karlsruher_sc.png",
+    "score": "3 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "دينامو دريسدين",
+    "homeLogo": "https://jdwel.com/image/teams/3413.png",
+    "away": "هانوفر 96",
+    "awayLogo": "https://jdwel.com/image/teams/ger_hannover_96.png",
+    "score": "2 - 2",
+    "time": "2:30 م"
+  },
+  {
+    "home": "دارمشتات 98",
+    "homeLogo": "https://jdwel.com/image/teams/1292.png",
+    "away": "دينامو دريسدين",
+    "awayLogo": "https://jdwel.com/image/teams/3413.png",
+    "score": "2 - 0",
+    "time": "7:30 م"
+  },
+  {
+    "home": "شالكه 04",
+    "homeLogo": "https://jdwel.com/image/teams/3263.png",
+    "away": "غرويثر فورت",
+    "awayLogo": "https://jdwel.com/image/teams/ger_greuther_furth_v2.png",
+    "score": "1 - 0",
+    "time": "7:30 م"
+  },
+  {
+    "home": "كارلشروهر",
+    "homeLogo": "https://jdwel.com/image/teams/ger_karlsruher_sc.png",
+    "away": "ماغديبورغ",
+    "awayLogo": "https://jdwel.com/image/teams/ger_magdeburg.png",
+    "score": "1 - 0",
+    "time": "2:00 م"
+  },
+  {
+    "home": "بادربورن",
+    "homeLogo": "https://jdwel.com/image/teams/3264.png",
+    "away": "كايزرسلاوترن",
+    "awayLogo": "https://jdwel.com/image/teams/1534.png",
+    "score": "2 - 0",
+    "time": "2:00 م"
+  },
+  {
+    "home": "إلفيرسبيرغ",
+    "homeLogo": "https://jdwel.com/image/teams/1017.png",
+    "away": "هولشتاين كيل",
+    "awayLogo": "https://jdwel.com/image/teams/2147.png",
+    "score": "1 - 0",
+    "time": "2:00 م"
+  },
+  {
+    "home": "بوخوم",
+    "homeLogo": "https://jdwel.com/image/teams/3696.png",
+    "away": "فورتونا دوسلدورف",
+    "awayLogo": "https://jdwel.com/image/teams/ger_fortuna_dusseldorf.png",
+    "score": "0 - 1",
+    "time": "9:30 م"
+  },
+  {
+    "home": "نورنبيرغ",
+    "homeLogo": "https://jdwel.com/image/teams/1291.png",
+    "away": "هيرتا برلين",
+    "awayLogo": "https://jdwel.com/image/teams/ger_hertha_bsc.png",
+    "score": "0 - 3",
+    "time": "2:30 م"
+  },
+  {
+    "home": "هانوفر 96",
+    "homeLogo": "https://jdwel.com/image/teams/ger_hannover_96.png",
+    "away": "أرمينيا بيليفيلد",
+    "awayLogo": "https://jdwel.com/image/teams/1456.png",
+    "score": "3 - 1",
+    "time": "2:30 م"
+  },
+  {
+    "home": "بروسيا مونستر",
+    "homeLogo": "https://jdwel.com/image/teams/1016.png",
+    "away": "آينتراخت براونشفايغ",
+    "awayLogo": "https://jdwel.com/image/teams/ger_eintracht_braunschweig.png",
+    "score": "3 - 1",
+    "time": "2:30 م"
+  },
+  {
+    "home": "آينتراخت براونشفايغ",
+    "homeLogo": "https://jdwel.com/image/teams/ger_eintracht_braunschweig.png",
+    "away": "بادربورن",
+    "awayLogo": "https://jdwel.com/image/teams/3264.png",
+    "score": "1 - 2",
+    "time": "7:30 م"
+  },
+  {
+    "home": "فورتونا دوسلدورف",
+    "homeLogo": "https://jdwel.com/image/teams/ger_fortuna_dusseldorf.png",
+    "away": "نورنبيرغ",
+    "awayLogo": "https://jdwel.com/image/teams/1291.png",
+    "score": "2 - 3",
+    "time": "7:30 م"
+  },
+  {
+    "home": "كايزرسلاوترن",
+    "homeLogo": "https://jdwel.com/image/teams/1534.png",
+    "away": "بوخوم",
+    "awayLogo": "https://jdwel.com/image/teams/3696.png",
+    "score": "3 - 2",
+    "time": "2:00 م"
+  },
+  {
+    "home": "هيرتا برلين",
+    "homeLogo": "https://jdwel.com/image/teams/ger_hertha_bsc.png",
+    "away": "بروسيا مونستر",
+    "awayLogo": "https://jdwel.com/image/teams/1016.png",
+    "score": "2 - 1",
+    "time": "2:00 م"
+  },
+  {
+    "home": "هولشتاين كيل",
+    "homeLogo": "https://jdwel.com/image/teams/2147.png",
+    "away": "دارمشتات 98",
+    "awayLogo": "https://jdwel.com/image/teams/1292.png",
+    "score": "1 - 1",
+    "time": "2:00 م"
+  },
+  {
+    "home": "دينامو دريسدين",
+    "homeLogo": "https://jdwel.com/image/teams/3413.png",
+    "away": "كارلشروهر",
+    "awayLogo": "https://jdwel.com/image/teams/ger_karlsruher_sc.png",
+    "score": "3 - 3",
+    "time": "9:30 م"
+  },
+  {
+    "home": "ماغديبورغ",
+    "homeLogo": "https://jdwel.com/image/teams/ger_magdeburg.png",
+    "away": "إلفيرسبيرغ",
+    "awayLogo": "https://jdwel.com/image/teams/1017.png",
+    "score": "0 - 4",
+    "time": "2:30 م"
+  },
+  {
+    "home": "أرمينيا بيليفيلد",
+    "homeLogo": "https://jdwel.com/image/teams/1456.png",
+    "away": "شالكه 04",
+    "awayLogo": "https://jdwel.com/image/teams/3263.png",
+    "score": "1 - 2",
+    "time": "2:30 م"
+  },
+  {
+    "home": "غرويثر فورت",
+    "homeLogo": "https://jdwel.com/image/teams/ger_greuther_furth_v2.png",
+    "away": "هانوفر 96",
+    "awayLogo": "https://jdwel.com/image/teams/ger_hannover_96.png",
+    "score": "2 - 2",
+    "time": "2:30 م"
+  },
+  {
+    "home": "فورتونا دوسلدورف",
+    "homeLogo": "https://jdwel.com/image/teams/ger_fortuna_dusseldorf.png",
+    "away": "آينتراخت براونشفايغ",
+    "awayLogo": "https://jdwel.com/image/teams/ger_eintracht_braunschweig.png",
+    "score": "1 - 2",
+    "time": "7:30 م"
+  },
+  {
+    "home": "هانوفر 96",
+    "homeLogo": "https://jdwel.com/image/teams/ger_hannover_96.png",
+    "away": "شالكه 04",
+    "awayLogo": "https://jdwel.com/image/teams/3263.png",
+    "score": "0 - 3",
+    "time": "7:30 م"
+  },
+  {
+    "home": "كارلشروهر",
+    "homeLogo": "https://jdwel.com/image/teams/ger_karlsruher_sc.png",
+    "away": "كايزرسلاوترن",
+    "awayLogo": "https://jdwel.com/image/teams/1534.png",
+    "score": "2 - 3",
+    "time": "2:00 م"
+  },
+  {
+    "home": "بروسيا مونستر",
+    "homeLogo": "https://jdwel.com/image/teams/1016.png",
+    "away": "دينامو دريسدين",
+    "awayLogo": "https://jdwel.com/image/teams/3413.png",
+    "score": "2 - 2",
+    "time": "2:00 م"
+  },
+  {
+    "home": "بادربورن",
+    "homeLogo": "https://jdwel.com/image/teams/3264.png",
+    "away": "أرمينيا بيليفيلد",
+    "awayLogo": "https://jdwel.com/image/teams/1456.png",
+    "score": "4 - 3",
+    "time": "2:00 م"
+  },
+  {
+    "home": "بوخوم",
+    "homeLogo": "https://jdwel.com/image/teams/3696.png",
+    "away": "هيرتا برلين",
+    "awayLogo": "https://jdwel.com/image/teams/ger_hertha_bsc.png",
+    "score": "3 - 2",
+    "time": "9:30 م"
+  },
+  {
+    "home": "نورنبيرغ",
+    "homeLogo": "https://jdwel.com/image/teams/1291.png",
+    "away": "هولشتاين كيل",
+    "awayLogo": "https://jdwel.com/image/teams/2147.png",
+    "score": "1 - 1",
+    "time": "2:30 م"
+  },
+  {
+    "home": "دارمشتات 98",
+    "homeLogo": "https://jdwel.com/image/teams/1292.png",
+    "away": "ماغديبورغ",
+    "awayLogo": "https://jdwel.com/image/teams/ger_magdeburg.png",
+    "score": "0 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "إلفيرسبيرغ",
+    "homeLogo": "https://jdwel.com/image/teams/1017.png",
+    "away": "غرويثر فورت",
+    "awayLogo": "https://jdwel.com/image/teams/ger_greuther_furth_v2.png",
+    "score": "6 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "شالكه 04",
+    "homeLogo": "https://jdwel.com/image/teams/3263.png",
+    "away": "دارمشتات 98",
+    "awayLogo": "https://jdwel.com/image/teams/1292.png",
+    "score": "1 - 0",
+    "time": "7:30 م"
+  },
+  {
+    "home": "غرويثر فورت",
+    "homeLogo": "https://jdwel.com/image/teams/ger_greuther_furth_v2.png",
+    "away": "كارلشروهر",
+    "awayLogo": "https://jdwel.com/image/teams/ger_karlsruher_sc.png",
+    "score": "1 - 4",
+    "time": "7:30 م"
+  },
+  {
+    "home": "أرمينيا بيليفيلد",
+    "homeLogo": "https://jdwel.com/image/teams/1456.png",
+    "away": "إلفيرسبيرغ",
+    "awayLogo": "https://jdwel.com/image/teams/1017.png",
+    "score": "2 - 0",
+    "time": "2:00 م"
+  },
+  {
+    "home": "هولشتاين كيل",
+    "homeLogo": "https://jdwel.com/image/teams/2147.png",
+    "away": "بوخوم",
+    "awayLogo": "https://jdwel.com/image/teams/3696.png",
+    "score": "1 - 1",
+    "time": "2:00 م"
+  },
+  {
+    "home": "دينامو دريسدين",
+    "homeLogo": "https://jdwel.com/image/teams/3413.png",
+    "away": "بادربورن",
+    "awayLogo": "https://jdwel.com/image/teams/3264.png",
+    "score": "1 - 2",
+    "time": "2:00 م"
+  },
+  {
+    "home": "هيرتا برلين",
+    "homeLogo": "https://jdwel.com/image/teams/ger_hertha_bsc.png",
+    "away": "فورتونا دوسلدورف",
+    "awayLogo": "https://jdwel.com/image/teams/ger_fortuna_dusseldorf.png",
+    "score": "1 - 0",
+    "time": "9:30 م"
+  },
+  {
+    "home": "كايزرسلاوترن",
+    "homeLogo": "https://jdwel.com/image/teams/1534.png",
+    "away": "نورنبيرغ",
+    "awayLogo": "https://jdwel.com/image/teams/1291.png",
+    "score": "1 - 1",
+    "time": "3:30 م"
+  },
+  {
+    "home": "ماغديبورغ",
+    "homeLogo": "https://jdwel.com/image/teams/ger_magdeburg.png",
+    "away": "بروسيا مونستر",
+    "awayLogo": "https://jdwel.com/image/teams/1016.png",
+    "score": "2 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "آينتراخت براونشفايغ",
+    "homeLogo": "https://jdwel.com/image/teams/ger_eintracht_braunschweig.png",
+    "away": "هانوفر 96",
+    "awayLogo": "https://jdwel.com/image/teams/ger_hannover_96.png",
+    "score": "0 - 3",
+    "time": "3:30 م"
+  },
+  {
+    "home": "بروسيا مونستر",
+    "homeLogo": "https://jdwel.com/image/teams/1016.png",
+    "away": "هولشتاين كيل",
+    "awayLogo": "https://jdwel.com/image/teams/2147.png",
+    "score": "2 - 1",
+    "time": "7:30 م"
+  },
+  {
+    "home": "إلفيرسبيرغ",
+    "homeLogo": "https://jdwel.com/image/teams/1017.png",
+    "away": "هانوفر 96",
+    "awayLogo": "https://jdwel.com/image/teams/ger_hannover_96.png",
+    "score": "2 - 2",
+    "time": "7:30 م"
+  },
+  {
+    "home": "نورنبيرغ",
+    "homeLogo": "https://jdwel.com/image/teams/1291.png",
+    "away": "آينتراخت براونشفايغ",
+    "awayLogo": "https://jdwel.com/image/teams/ger_eintracht_braunschweig.png",
+    "score": "2 - 1",
+    "time": "2:00 م"
+  },
+  {
+    "home": "هيرتا برلين",
+    "homeLogo": "https://jdwel.com/image/teams/ger_hertha_bsc.png",
+    "away": "دينامو دريسدين",
+    "awayLogo": "https://jdwel.com/image/teams/3413.png",
+    "score": "2 - 0",
+    "time": "2:00 م"
+  },
+  {
+    "home": "كارلشروهر",
+    "homeLogo": "https://jdwel.com/image/teams/ger_karlsruher_sc.png",
+    "away": "شالكه 04",
+    "awayLogo": "https://jdwel.com/image/teams/3263.png",
+    "score": "2 - 1",
+    "time": "2:00 م"
+  },
+  {
+    "home": "دارمشتات 98",
+    "homeLogo": "https://jdwel.com/image/teams/1292.png",
+    "away": "أرمينيا بيليفيلد",
+    "awayLogo": "https://jdwel.com/image/teams/1456.png",
+    "score": "2 - 2",
+    "time": "9:30 م"
+  },
+  {
+    "home": "فورتونا دوسلدورف",
+    "homeLogo": "https://jdwel.com/image/teams/ger_fortuna_dusseldorf.png",
+    "away": "كايزرسلاوترن",
+    "awayLogo": "https://jdwel.com/image/teams/1534.png",
+    "score": "1 - 1",
+    "time": "2:30 م"
+  },
+  {
+    "home": "بادربورن",
+    "homeLogo": "https://jdwel.com/image/teams/3264.png",
+    "away": "غرويثر فورت",
+    "awayLogo": "https://jdwel.com/image/teams/ger_greuther_furth_v2.png",
+    "score": "2 - 1",
+    "time": "2:30 م"
+  },
+  {
+    "home": "بوخوم",
+    "homeLogo": "https://jdwel.com/image/teams/3696.png",
+    "away": "ماغديبورغ",
+    "awayLogo": "https://jdwel.com/image/teams/ger_magdeburg.png",
+    "score": "2 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "دينامو دريسدين",
+    "homeLogo": "https://jdwel.com/image/teams/3413.png",
+    "away": "نورنبيرغ",
+    "awayLogo": "https://jdwel.com/image/teams/1291.png",
+    "score": "1 - 2",
+    "time": "7:30 م"
+  },
+  {
+    "home": "غرويثر فورت",
+    "homeLogo": "https://jdwel.com/image/teams/ger_greuther_furth_v2.png",
+    "away": "بروسيا مونستر",
+    "awayLogo": "https://jdwel.com/image/teams/1016.png",
+    "score": "1 - 0",
+    "time": "7:30 م"
+  },
+  {
+    "home": "أرمينيا بيليفيلد",
+    "homeLogo": "https://jdwel.com/image/teams/1456.png",
+    "away": "كارلشروهر",
+    "awayLogo": "https://jdwel.com/image/teams/ger_karlsruher_sc.png",
+    "score": "4 - 0",
+    "time": "2:00 م"
+  },
+  {
+    "home": "شالكه 04",
+    "homeLogo": "https://jdwel.com/image/teams/3263.png",
+    "away": "إلفيرسبيرغ",
+    "awayLogo": "https://jdwel.com/image/teams/1017.png",
+    "score": "1 - 0",
+    "time": "2:00 م"
+  },
+  {
+    "home": "هانوفر 96",
+    "homeLogo": "https://jdwel.com/image/teams/ger_hannover_96.png",
+    "away": "دارمشتات 98",
+    "awayLogo": "https://jdwel.com/image/teams/1292.png",
+    "score": "2 - 3",
+    "time": "2:00 م"
+  },
+  {
+    "home": "كايزرسلاوترن",
+    "homeLogo": "https://jdwel.com/image/teams/1534.png",
+    "away": "هيرتا برلين",
+    "awayLogo": "https://jdwel.com/image/teams/ger_hertha_bsc.png",
+    "score": "0 - 1",
+    "time": "9:30 م"
+  },
+  {
+    "home": "ماغديبورغ",
+    "homeLogo": "https://jdwel.com/image/teams/ger_magdeburg.png",
+    "away": "بادربورن",
+    "awayLogo": "https://jdwel.com/image/teams/3264.png",
+    "score": "0 - 1",
+    "time": "2:30 م"
+  },
+  {
+    "home": "آينتراخت براونشفايغ",
+    "homeLogo": "https://jdwel.com/image/teams/ger_eintracht_braunschweig.png",
+    "away": "بوخوم",
+    "awayLogo": "https://jdwel.com/image/teams/3696.png",
+    "score": "0 - 2",
+    "time": "2:30 م"
+  },
+  {
+    "home": "هولشتاين كيل",
+    "homeLogo": "https://jdwel.com/image/teams/2147.png",
+    "away": "فورتونا دوسلدورف",
+    "awayLogo": "https://jdwel.com/image/teams/ger_fortuna_dusseldorf.png",
+    "score": "1 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "هيرتا برلين",
+    "homeLogo": "https://jdwel.com/image/teams/ger_hertha_bsc.png",
+    "away": "آينتراخت براونشفايغ",
+    "awayLogo": "https://jdwel.com/image/teams/ger_eintracht_braunschweig.png",
+    "score": "1 - 0",
+    "time": "7:30 م"
+  },
+  {
+    "home": "بوخوم",
+    "homeLogo": "https://jdwel.com/image/teams/3696.png",
+    "away": "دينامو دريسدين",
+    "awayLogo": "https://jdwel.com/image/teams/3413.png",
+    "score": "1 - 2",
+    "time": "7:30 م"
+  },
+  {
+    "home": "فورتونا دوسلدورف",
+    "homeLogo": "https://jdwel.com/image/teams/ger_fortuna_dusseldorf.png",
+    "away": "ماغديبورغ",
+    "awayLogo": "https://jdwel.com/image/teams/ger_magdeburg.png",
+    "score": "2 - 1",
+    "time": "2:00 م"
+  },
+  {
+    "home": "بروسيا مونستر",
+    "homeLogo": "https://jdwel.com/image/teams/1016.png",
+    "away": "شالكه 04",
+    "awayLogo": "https://jdwel.com/image/teams/3263.png",
+    "score": "0 - 0",
+    "time": "2:00 م"
+  },
+  {
+    "home": "بادربورن",
+    "homeLogo": "https://jdwel.com/image/teams/3264.png",
+    "away": "هانوفر 96",
+    "awayLogo": "https://jdwel.com/image/teams/ger_hannover_96.png",
+    "score": "0 - 2",
+    "time": "2:00 م"
+  },
+  {
+    "home": "دارمشتات 98",
+    "homeLogo": "https://jdwel.com/image/teams/1292.png",
+    "away": "غرويثر فورت",
+    "awayLogo": "https://jdwel.com/image/teams/ger_greuther_furth_v2.png",
+    "score": "4 - 2",
+    "time": "9:30 م"
+  },
+  {
+    "home": "كايزرسلاوترن",
+    "homeLogo": "https://jdwel.com/image/teams/1534.png",
+    "away": "هولشتاين كيل",
+    "awayLogo": "https://jdwel.com/image/teams/2147.png",
+    "score": "4 - 1",
+    "time": "2:30 م"
+  },
+  {
+    "home": "نورنبيرغ",
+    "homeLogo": "https://jdwel.com/image/teams/1291.png",
+    "away": "أرمينيا بيليفيلد",
+    "awayLogo": "https://jdwel.com/image/teams/1456.png",
+    "score": "2 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "كارلشروهر",
+    "homeLogo": "https://jdwel.com/image/teams/ger_karlsruher_sc.png",
+    "away": "إلفيرسبيرغ",
+    "awayLogo": "https://jdwel.com/image/teams/1017.png",
+    "score": "2 - 3",
+    "time": "2:30 م"
+  },
+  {
+    "home": "شالكه 04",
+    "homeLogo": "https://jdwel.com/image/teams/3263.png",
+    "away": "بادربورن",
+    "awayLogo": "https://jdwel.com/image/teams/3264.png",
+    "score": "2 - 1",
+    "time": "7:30 م"
+  },
+  {
+    "home": "هانوفر 96",
+    "homeLogo": "https://jdwel.com/image/teams/ger_hannover_96.png",
+    "away": "كارلشروهر",
+    "awayLogo": "https://jdwel.com/image/teams/ger_karlsruher_sc.png",
+    "score": "3 - 0",
+    "time": "7:30 م"
+  },
+  {
+    "home": "آينتراخت براونشفايغ",
+    "homeLogo": "https://jdwel.com/image/teams/ger_eintracht_braunschweig.png",
+    "away": "كايزرسلاوترن",
+    "awayLogo": "https://jdwel.com/image/teams/1534.png",
+    "score": "2 - 0",
+    "time": "2:00 م"
+  },
+  {
+    "home": "هولشتاين كيل",
+    "homeLogo": "https://jdwel.com/image/teams/2147.png",
+    "away": "هيرتا برلين",
+    "awayLogo": "https://jdwel.com/image/teams/ger_hertha_bsc.png",
+    "score": "0 - 1",
+    "time": "2:00 م"
+  },
+  {
+    "home": "غرويثر فورت",
+    "homeLogo": "https://jdwel.com/image/teams/ger_greuther_furth_v2.png",
+    "away": "بوخوم",
+    "awayLogo": "https://jdwel.com/image/teams/3696.png",
+    "score": "0 - 3",
+    "time": "2:00 م"
+  },
+  {
+    "home": "ماغديبورغ",
+    "homeLogo": "https://jdwel.com/image/teams/ger_magdeburg.png",
+    "away": "نورنبيرغ",
+    "awayLogo": "https://jdwel.com/image/teams/1291.png",
+    "score": "3 - 0",
+    "time": "9:30 م"
+  },
+  {
+    "home": "أرمينيا بيليفيلد",
+    "homeLogo": "https://jdwel.com/image/teams/1456.png",
+    "away": "بروسيا مونستر",
+    "awayLogo": "https://jdwel.com/image/teams/1016.png",
+    "score": "1 - 2",
+    "time": "2:30 م"
+  },
+  {
+    "home": "دينامو دريسدين",
+    "homeLogo": "https://jdwel.com/image/teams/3413.png",
+    "away": "فورتونا دوسلدورف",
+    "awayLogo": "https://jdwel.com/image/teams/ger_fortuna_dusseldorf.png",
+    "score": "2 - 1",
+    "time": "2:30 م"
+  },
+  {
+    "home": "إلفيرسبيرغ",
+    "homeLogo": "https://jdwel.com/image/teams/1017.png",
+    "away": "دارمشتات 98",
+    "awayLogo": "https://jdwel.com/image/teams/1292.png",
+    "score": "0 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "فورتونا دوسلدورف",
+    "homeLogo": "https://jdwel.com/image/teams/ger_fortuna_dusseldorf.png",
+    "away": "شالكه 04",
+    "awayLogo": "https://jdwel.com/image/teams/3263.png",
+    "score": "0 - 2",
+    "time": "7:30 م"
+  },
+  {
+    "home": "بروسيا مونستر",
+    "homeLogo": "https://jdwel.com/image/teams/1016.png",
+    "away": "هانوفر 96",
+    "awayLogo": "https://jdwel.com/image/teams/ger_hannover_96.png",
+    "score": "2 - 2",
+    "time": "7:30 م"
+  },
+  {
+    "home": "كايزرسلاوترن",
+    "homeLogo": "https://jdwel.com/image/teams/1534.png",
+    "away": "دينامو دريسدين",
+    "awayLogo": "https://jdwel.com/image/teams/3413.png",
+    "score": "3 - 1",
+    "time": "2:00 م"
+  },
+  {
+    "home": "بادربورن",
+    "homeLogo": "https://jdwel.com/image/teams/3264.png",
+    "away": "إلفيرسبيرغ",
+    "awayLogo": "https://jdwel.com/image/teams/1017.png",
+    "score": "1 - 2",
+    "time": "2:00 م"
+  },
+  {
+    "home": "بوخوم",
+    "homeLogo": "https://jdwel.com/image/teams/3696.png",
+    "away": "أرمينيا بيليفيلد",
+    "awayLogo": "https://jdwel.com/image/teams/1456.png",
+    "score": "1 - 0",
+    "time": "2:00 م"
+  },
+  {
+    "home": "دارمشتات 98",
+    "homeLogo": "https://jdwel.com/image/teams/1292.png",
+    "away": "كارلشروهر",
+    "awayLogo": "https://jdwel.com/image/teams/ger_karlsruher_sc.png",
+    "score": "3 - 2",
+    "time": "9:30 م"
+  },
+  {
+    "home": "نورنبيرغ",
+    "homeLogo": "https://jdwel.com/image/teams/1291.png",
+    "away": "غرويثر فورت",
+    "awayLogo": "https://jdwel.com/image/teams/ger_greuther_furth_v2.png",
+    "score": "2 - 2",
+    "time": "2:30 م"
+  },
+  {
+    "home": "آينتراخت براونشفايغ",
+    "homeLogo": "https://jdwel.com/image/teams/ger_eintracht_braunschweig.png",
+    "away": "هولشتاين كيل",
+    "awayLogo": "https://jdwel.com/image/teams/2147.png",
+    "score": "1 - 1",
+    "time": "2:30 م"
+  },
+  {
+    "home": "هيرتا برلين",
+    "homeLogo": "https://jdwel.com/image/teams/ger_hertha_bsc.png",
+    "away": "ماغديبورغ",
+    "awayLogo": "https://jdwel.com/image/teams/ger_magdeburg.png",
+    "score": "0 - 2",
+    "time": "2:30 م"
+  },
+  {
+    "home": "دينامو دريسدين",
+    "homeLogo": "https://jdwel.com/image/teams/3413.png",
+    "away": "آينتراخت براونشفايغ",
+    "awayLogo": "https://jdwel.com/image/teams/ger_eintracht_braunschweig.png",
+    "score": "2 - 3",
+    "time": "7:30 م"
+  },
+  {
+    "home": "غرويثر فورت",
+    "homeLogo": "https://jdwel.com/image/teams/ger_greuther_furth_v2.png",
+    "away": "هيرتا برلين",
+    "awayLogo": "https://jdwel.com/image/teams/ger_hertha_bsc.png",
+    "score": "3 - 3",
+    "time": "7:30 م"
+  },
+  {
+    "home": "ماغديبورغ",
+    "homeLogo": "https://jdwel.com/image/teams/ger_magdeburg.png",
+    "away": "هولشتاين كيل",
+    "awayLogo": "https://jdwel.com/image/teams/2147.png",
+    "score": "3 - 3",
+    "time": "2:00 م"
+  },
+  {
+    "home": "أرمينيا بيليفيلد",
+    "homeLogo": "https://jdwel.com/image/teams/1456.png",
+    "away": "كايزرسلاوترن",
+    "awayLogo": "https://jdwel.com/image/teams/1534.png",
+    "score": "0 - 0",
+    "time": "2:00 م"
+  },
+  {
+    "home": "كارلشروهر",
+    "homeLogo": "https://jdwel.com/image/teams/ger_karlsruher_sc.png",
+    "away": "بادربورن",
+    "awayLogo": "https://jdwel.com/image/teams/3264.png",
+    "score": "0 - 4",
+    "time": "2:00 م"
+  },
+  {
+    "home": "هانوفر 96",
+    "homeLogo": "https://jdwel.com/image/teams/ger_hannover_96.png",
+    "away": "بوخوم",
+    "awayLogo": "https://jdwel.com/image/teams/3696.png",
+    "score": "0 - 0",
+    "time": "9:30 م"
+  },
+  {
+    "home": "دارمشتات 98",
+    "homeLogo": "https://jdwel.com/image/teams/1292.png",
+    "away": "بروسيا مونستر",
+    "awayLogo": "https://jdwel.com/image/teams/1016.png",
+    "score": "1 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "شالكه 04",
+    "homeLogo": "https://jdwel.com/image/teams/3263.png",
+    "away": "نورنبيرغ",
+    "awayLogo": "https://jdwel.com/image/teams/1291.png",
+    "score": "1 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "إلفيرسبيرغ",
+    "homeLogo": "https://jdwel.com/image/teams/1017.png",
+    "away": "فورتونا دوسلدورف",
+    "awayLogo": "https://jdwel.com/image/teams/ger_fortuna_dusseldorf.png",
+    "score": "1 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "هيرتا برلين",
+    "homeLogo": "https://jdwel.com/image/teams/ger_hertha_bsc.png",
+    "away": "أرمينيا بيليفيلد",
+    "awayLogo": "https://jdwel.com/image/teams/1456.png",
+    "score": "1 - 1",
+    "time": "7:30 م"
+  },
+  {
+    "home": "بادربورن",
+    "homeLogo": "https://jdwel.com/image/teams/3264.png",
+    "away": "دارمشتات 98",
+    "awayLogo": "https://jdwel.com/image/teams/1292.png",
+    "score": "2 - 2",
+    "time": "7:30 م"
+  },
+  {
+    "home": "كايزرسلاوترن",
+    "homeLogo": "https://jdwel.com/image/teams/1534.png",
+    "away": "ماغديبورغ",
+    "awayLogo": "https://jdwel.com/image/teams/ger_magdeburg.png",
+    "score": "2 - 3",
+    "time": "2:00 م"
+  },
+  {
+    "home": "فورتونا دوسلدورف",
+    "homeLogo": "https://jdwel.com/image/teams/ger_fortuna_dusseldorf.png",
+    "away": "غرويثر فورت",
+    "awayLogo": "https://jdwel.com/image/teams/ger_greuther_furth_v2.png",
+    "score": "2 - 1",
+    "time": "2:00 م"
+  },
+  {
+    "home": "بوخوم",
+    "homeLogo": "https://jdwel.com/image/teams/3696.png",
+    "away": "كارلشروهر",
+    "awayLogo": "https://jdwel.com/image/teams/ger_karlsruher_sc.png",
+    "score": "2 - 2",
+    "time": "2:00 م"
+  },
+  {
+    "home": "هولشتاين كيل",
+    "homeLogo": "https://jdwel.com/image/teams/2147.png",
+    "away": "دينامو دريسدين",
+    "awayLogo": "https://jdwel.com/image/teams/3413.png",
+    "score": "2 - 1",
+    "time": "9:30 م"
+  },
+  {
+    "home": "نورنبيرغ",
+    "homeLogo": "https://jdwel.com/image/teams/1291.png",
+    "away": "هانوفر 96",
+    "awayLogo": "https://jdwel.com/image/teams/ger_hannover_96.png",
+    "score": "2 - 1",
+    "time": "2:30 م"
+  },
+  {
+    "home": "آينتراخت براونشفايغ",
+    "homeLogo": "https://jdwel.com/image/teams/ger_eintracht_braunschweig.png",
+    "away": "شالكه 04",
+    "awayLogo": "https://jdwel.com/image/teams/3263.png",
+    "score": "2 - 1",
+    "time": "2:30 م"
+  },
+  {
+    "home": "بروسيا مونستر",
+    "homeLogo": "https://jdwel.com/image/teams/1016.png",
+    "away": "إلفيرسبيرغ",
+    "awayLogo": "https://jdwel.com/image/teams/1017.png",
+    "score": "1 - 1",
+    "time": "2:30 م"
+  },
+  {
+    "home": "آينتراخت براونشفايغ",
+    "homeLogo": "https://jdwel.com/image/teams/ger_eintracht_braunschweig.png",
+    "away": "ماغديبورغ",
+    "awayLogo": "https://jdwel.com/image/teams/ger_magdeburg.png",
+    "score": "0 - 3",
+    "time": "7:30 م"
+  },
+  {
+    "home": "فورتونا دوسلدورف",
+    "homeLogo": "https://jdwel.com/image/teams/ger_fortuna_dusseldorf.png",
+    "away": "أرمينيا بيليفيلد",
+    "awayLogo": "https://jdwel.com/image/teams/1456.png",
+    "score": "1 - 0",
+    "time": "7:30 م"
+  },
+  {
+    "home": "نورنبيرغ",
+    "homeLogo": "https://jdwel.com/image/teams/1291.png",
+    "away": "إلفيرسبيرغ",
+    "awayLogo": "https://jdwel.com/image/teams/1017.png",
+    "score": "3 - 2",
+    "time": "2:00 م"
+  },
+  {
+    "home": "بروسيا مونستر",
+    "homeLogo": "https://jdwel.com/image/teams/1016.png",
+    "away": "كارلشروهر",
+    "awayLogo": "https://jdwel.com/image/teams/ger_karlsruher_sc.png",
+    "score": "0 - 2",
+    "time": "2:00 م"
+  },
+  {
+    "home": "دينامو دريسدين",
+    "homeLogo": "https://jdwel.com/image/teams/3413.png",
+    "away": "غرويثر فورت",
+    "awayLogo": "https://jdwel.com/image/teams/ger_greuther_furth_v2.png",
+    "score": "2 - 0",
+    "time": "2:00 م"
+  },
+  {
+    "home": "هيرتا برلين",
+    "homeLogo": "https://jdwel.com/image/teams/ger_hertha_bsc.png",
+    "away": "شالكه 04",
+    "awayLogo": "https://jdwel.com/image/teams/3263.png",
+    "score": "0 - 0",
+    "time": "9:30 م"
+  },
+  {
+    "home": "كايزرسلاوترن",
+    "homeLogo": "https://jdwel.com/image/teams/1534.png",
+    "away": "هانوفر 96",
+    "awayLogo": "https://jdwel.com/image/teams/ger_hannover_96.png",
+    "score": "3 - 1",
+    "time": "2:30 م"
+  },
+  {
+    "home": "هولشتاين كيل",
+    "homeLogo": "https://jdwel.com/image/teams/2147.png",
+    "away": "بادربورن",
+    "awayLogo": "https://jdwel.com/image/teams/3264.png",
+    "score": "2 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "بوخوم",
+    "homeLogo": "https://jdwel.com/image/teams/3696.png",
+    "away": "دارمشتات 98",
+    "awayLogo": "https://jdwel.com/image/teams/1292.png",
+    "score": "3 - 3",
+    "time": "2:30 م"
+  },
+  {
+    "home": "أرمينيا بيليفيلد",
+    "homeLogo": "https://jdwel.com/image/teams/1456.png",
+    "away": "هولشتاين كيل",
+    "awayLogo": "https://jdwel.com/image/teams/2147.png",
+    "score": "2 - 2",
+    "time": "7:30 م"
+  },
+  {
+    "home": "دارمشتات 98",
+    "homeLogo": "https://jdwel.com/image/teams/1292.png",
+    "away": "نورنبيرغ",
+    "awayLogo": "https://jdwel.com/image/teams/1291.png",
+    "score": "2 - 0",
+    "time": "7:30 م"
+  },
+  {
+    "home": "هانوفر 96",
+    "homeLogo": "https://jdwel.com/image/teams/ger_hannover_96.png",
+    "away": "فورتونا دوسلدورف",
+    "awayLogo": "https://jdwel.com/image/teams/ger_fortuna_dusseldorf.png",
+    "score": "2 - 1",
+    "time": "2:00 م"
+  },
+  {
+    "home": "كارلشروهر",
+    "homeLogo": "https://jdwel.com/image/teams/ger_karlsruher_sc.png",
+    "away": "هيرتا برلين",
+    "awayLogo": "https://jdwel.com/image/teams/ger_hertha_bsc.png",
+    "score": "2 - 2",
+    "time": "2:00 م"
+  },
+  {
+    "home": "غرويثر فورت",
+    "homeLogo": "https://jdwel.com/image/teams/ger_greuther_furth_v2.png",
+    "away": "آينتراخت براونشفايغ",
+    "awayLogo": "https://jdwel.com/image/teams/ger_eintracht_braunschweig.png",
+    "score": "0 - 0",
+    "time": "2:00 م"
+  },
+  {
+    "home": "ماغديبورغ",
+    "homeLogo": "https://jdwel.com/image/teams/ger_magdeburg.png",
+    "away": "دينامو دريسدين",
+    "awayLogo": "https://jdwel.com/image/teams/3413.png",
+    "score": "1 - 2",
+    "time": "9:30 م"
+  },
+  {
+    "home": "شالكه 04",
+    "homeLogo": "https://jdwel.com/image/teams/3263.png",
+    "away": "كايزرسلاوترن",
+    "awayLogo": "https://jdwel.com/image/teams/1534.png",
+    "score": "2 - 2",
+    "time": "2:30 م"
+  },
+  {
+    "home": "بادربورن",
+    "homeLogo": "https://jdwel.com/image/teams/3264.png",
+    "away": "بروسيا مونستر",
+    "awayLogo": "https://jdwel.com/image/teams/1016.png",
+    "score": "2 - 1",
+    "time": "2:30 م"
+  },
+  {
+    "home": "إلفيرسبيرغ",
+    "homeLogo": "https://jdwel.com/image/teams/1017.png",
+    "away": "بوخوم",
+    "awayLogo": "https://jdwel.com/image/teams/3696.png",
+    "score": "1 - 1",
+    "time": "2:30 م"
+  },
+  {
+    "home": "ماغديبورغ",
+    "homeLogo": "https://jdwel.com/image/teams/ger_magdeburg.png",
+    "away": "هانوفر 96",
+    "awayLogo": "https://jdwel.com/image/teams/ger_hannover_96.png",
+    "score": "1 - 2",
+    "time": "7:30 م"
+  },
+  {
+    "home": "نورنبيرغ",
+    "homeLogo": "https://jdwel.com/image/teams/1291.png",
+    "away": "بروسيا مونستر",
+    "awayLogo": "https://jdwel.com/image/teams/1016.png",
+    "score": "1 - 1",
+    "time": "7:30 م"
+  },
+  {
+    "home": "آينتراخت براونشفايغ",
+    "homeLogo": "https://jdwel.com/image/teams/ger_eintracht_braunschweig.png",
+    "away": "كارلشروهر",
+    "awayLogo": "https://jdwel.com/image/teams/ger_karlsruher_sc.png",
+    "score": "1 - 0",
+    "time": "2:00 م"
+  },
+  {
+    "home": "هولشتاين كيل",
+    "homeLogo": "https://jdwel.com/image/teams/2147.png",
+    "away": "غرويثر فورت",
+    "awayLogo": "https://jdwel.com/image/teams/ger_greuther_furth_v2.png",
+    "score": "1 - 2",
+    "time": "2:00 م"
+  },
+  {
+    "home": "بوخوم",
+    "homeLogo": "https://jdwel.com/image/teams/3696.png",
+    "away": "شالكه 04",
+    "awayLogo": "https://jdwel.com/image/teams/3263.png",
+    "score": "2 - 0",
+    "time": "2:00 م"
+  },
+  {
+    "home": "كايزرسلاوترن",
+    "homeLogo": "https://jdwel.com/image/teams/1534.png",
+    "away": "إلفيرسبيرغ",
+    "awayLogo": "https://jdwel.com/image/teams/1017.png",
+    "score": "1 - 3",
+    "time": "9:30 م"
+  },
+  {
+    "home": "فورتونا دوسلدورف",
+    "homeLogo": "https://jdwel.com/image/teams/ger_fortuna_dusseldorf.png",
+    "away": "بادربورن",
+    "awayLogo": "https://jdwel.com/image/teams/3264.png",
+    "score": "2 - 1",
+    "time": "2:30 م"
+  },
+  {
+    "home": "هيرتا برلين",
+    "homeLogo": "https://jdwel.com/image/teams/ger_hertha_bsc.png",
+    "away": "دارمشتات 98",
+    "awayLogo": "https://jdwel.com/image/teams/1292.png",
+    "score": "2 - 2",
+    "time": "2:30 م"
+  },
+  {
+    "home": "دينامو دريسدين",
+    "homeLogo": "https://jdwel.com/image/teams/3413.png",
+    "away": "أرمينيا بيليفيلد",
+    "awayLogo": "https://jdwel.com/image/teams/1456.png",
+    "score": "1 - 1",
+    "time": "2:30 م"
+  },
+  {
+    "home": "بروسيا مونستر",
+    "homeLogo": "https://jdwel.com/image/teams/1016.png",
+    "away": "بوخوم",
+    "awayLogo": "https://jdwel.com/image/teams/3696.png",
+    "score": "0 - 0",
+    "time": "7:30 م"
+  },
+  {
+    "home": "غرويثر فورت",
+    "homeLogo": "https://jdwel.com/image/teams/ger_greuther_furth_v2.png",
+    "away": "ماغديبورغ",
+    "awayLogo": "https://jdwel.com/image/teams/ger_magdeburg.png",
+    "score": "0 - 0",
+    "time": "7:30 م"
+  },
+  {
+    "home": "شالكه 04",
+    "homeLogo": "https://jdwel.com/image/teams/3263.png",
+    "away": "دينامو دريسدين",
+    "awayLogo": "https://jdwel.com/image/teams/3413.png",
+    "score": "0 - 0",
+    "time": "2:00 م"
+  },
+  {
+    "home": "بادربورن",
+    "homeLogo": "https://jdwel.com/image/teams/3264.png",
+    "away": "نورنبيرغ",
+    "awayLogo": "https://jdwel.com/image/teams/1291.png",
+    "score": "0 - 0",
+    "time": "2:00 م"
+  },
+  {
+    "home": "إلفيرسبيرغ",
+    "homeLogo": "https://jdwel.com/image/teams/1017.png",
+    "away": "هيرتا برلين",
+    "awayLogo": "https://jdwel.com/image/teams/ger_hertha_bsc.png",
+    "score": "0 - 0",
+    "time": "2:00 م"
+  },
+  {
+    "home": "دارمشتات 98",
+    "homeLogo": "https://jdwel.com/image/teams/1292.png",
+    "away": "كايزرسلاوترن",
+    "awayLogo": "https://jdwel.com/image/teams/1534.png",
+    "score": "0 - 0",
+    "time": "9:30 م"
+  },
+  {
+    "home": "أرمينيا بيليفيلد",
+    "homeLogo": "https://jdwel.com/image/teams/1456.png",
+    "away": "آينتراخت براونشفايغ",
+    "awayLogo": "https://jdwel.com/image/teams/ger_eintracht_braunschweig.png",
+    "score": "0 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "هانوفر 96",
+    "homeLogo": "https://jdwel.com/image/teams/ger_hannover_96.png",
+    "away": "هولشتاين كيل",
+    "awayLogo": "https://jdwel.com/image/teams/2147.png",
+    "score": "0 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "كارلشروهر",
+    "homeLogo": "https://jdwel.com/image/teams/ger_karlsruher_sc.png",
+    "away": "فورتونا دوسلدورف",
+    "awayLogo": "https://jdwel.com/image/teams/ger_fortuna_dusseldorf.png",
+    "score": "0 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "نورنبيرغ",
+    "homeLogo": "https://jdwel.com/image/teams/1291.png",
+    "away": "كارلشروهر",
+    "awayLogo": "https://jdwel.com/image/teams/ger_karlsruher_sc.png",
+    "score": "0 - 0",
+    "time": "7:30 م"
+  },
+  {
+    "home": "فورتونا دوسلدورف",
+    "homeLogo": "https://jdwel.com/image/teams/ger_fortuna_dusseldorf.png",
+    "away": "بروسيا مونستر",
+    "awayLogo": "https://jdwel.com/image/teams/1016.png",
+    "score": "0 - 0",
+    "time": "7:30 م"
+  },
+  {
+    "home": "كايزرسلاوترن",
+    "homeLogo": "https://jdwel.com/image/teams/1534.png",
+    "away": "غرويثر فورت",
+    "awayLogo": "https://jdwel.com/image/teams/ger_greuther_furth_v2.png",
+    "score": "0 - 0",
+    "time": "2:00 م"
+  },
+  {
+    "home": "آينتراخت براونشفايغ",
+    "homeLogo": "https://jdwel.com/image/teams/ger_eintracht_braunschweig.png",
+    "away": "دارمشتات 98",
+    "awayLogo": "https://jdwel.com/image/teams/1292.png",
+    "score": "0 - 0",
+    "time": "2:00 م"
+  },
+  {
+    "home": "هيرتا برلين",
+    "homeLogo": "https://jdwel.com/image/teams/ger_hertha_bsc.png",
+    "away": "هانوفر 96",
+    "awayLogo": "https://jdwel.com/image/teams/ger_hannover_96.png",
+    "score": "0 - 0",
+    "time": "2:00 م"
+  },
+  {
+    "home": "دينامو دريسدين",
+    "homeLogo": "https://jdwel.com/image/teams/3413.png",
+    "away": "إلفيرسبيرغ",
+    "awayLogo": "https://jdwel.com/image/teams/1017.png",
+    "score": "0 - 0",
+    "time": "9:30 م"
+  },
+  {
+    "home": "ماغديبورغ",
+    "homeLogo": "https://jdwel.com/image/teams/ger_magdeburg.png",
+    "away": "أرمينيا بيليفيلد",
+    "awayLogo": "https://jdwel.com/image/teams/1456.png",
+    "score": "0 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "هولشتاين كيل",
+    "homeLogo": "https://jdwel.com/image/teams/2147.png",
+    "away": "شالكه 04",
+    "awayLogo": "https://jdwel.com/image/teams/3263.png",
+    "score": "0 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "بوخوم",
+    "homeLogo": "https://jdwel.com/image/teams/3696.png",
+    "away": "بادربورن",
+    "awayLogo": "https://jdwel.com/image/teams/3264.png",
+    "score": "0 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "غرويثر فورت",
+    "homeLogo": "https://jdwel.com/image/teams/ger_greuther_furth_v2.png",
+    "away": "أرمينيا بيليفيلد",
+    "awayLogo": "https://jdwel.com/image/teams/1456.png",
+    "score": "0 - 0",
+    "time": "7:30 م"
+  },
+  {
+    "home": "بوخوم",
+    "homeLogo": "https://jdwel.com/image/teams/3696.png",
+    "away": "نورنبيرغ",
+    "awayLogo": "https://jdwel.com/image/teams/1291.png",
+    "score": "0 - 0",
+    "time": "7:30 م"
+  },
+  {
+    "home": "دارمشتات 98",
+    "homeLogo": "https://jdwel.com/image/teams/1292.png",
+    "away": "فورتونا دوسلدورف",
+    "awayLogo": "https://jdwel.com/image/teams/ger_fortuna_dusseldorf.png",
+    "score": "0 - 0",
+    "time": "2:00 م"
+  },
+  {
+    "home": "كارلشروهر",
+    "homeLogo": "https://jdwel.com/image/teams/ger_karlsruher_sc.png",
+    "away": "هولشتاين كيل",
+    "awayLogo": "https://jdwel.com/image/teams/2147.png",
+    "score": "0 - 0",
+    "time": "2:00 م"
+  },
+  {
+    "home": "إلفيرسبيرغ",
+    "homeLogo": "https://jdwel.com/image/teams/1017.png",
+    "away": "آينتراخت براونشفايغ",
+    "awayLogo": "https://jdwel.com/image/teams/ger_eintracht_braunschweig.png",
+    "score": "0 - 0",
+    "time": "2:00 م"
+  },
+  {
+    "home": "شالكه 04",
+    "homeLogo": "https://jdwel.com/image/teams/3263.png",
+    "away": "ماغديبورغ",
+    "awayLogo": "https://jdwel.com/image/teams/ger_magdeburg.png",
+    "score": "0 - 0",
+    "time": "9:30 م"
+  },
+  {
+    "home": "هانوفر 96",
+    "homeLogo": "https://jdwel.com/image/teams/ger_hannover_96.png",
+    "away": "دينامو دريسدين",
+    "awayLogo": "https://jdwel.com/image/teams/3413.png",
+    "score": "0 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "بروسيا مونستر",
+    "homeLogo": "https://jdwel.com/image/teams/1016.png",
+    "away": "كايزرسلاوترن",
+    "awayLogo": "https://jdwel.com/image/teams/1534.png",
+    "score": "0 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "بادربورن",
+    "homeLogo": "https://jdwel.com/image/teams/3264.png",
+    "away": "هيرتا برلين",
+    "awayLogo": "https://jdwel.com/image/teams/ger_hertha_bsc.png",
+    "score": "0 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "فورتونا دوسلدورف",
+    "homeLogo": "https://jdwel.com/image/teams/ger_fortuna_dusseldorf.png",
+    "away": "بوخوم",
+    "awayLogo": "https://jdwel.com/image/teams/3696.png",
+    "score": "0 - 0",
+    "time": "7:30 م"
+  },
+  {
+    "home": "دينامو دريسدين",
+    "homeLogo": "https://jdwel.com/image/teams/3413.png",
+    "away": "دارمشتات 98",
+    "awayLogo": "https://jdwel.com/image/teams/1292.png",
+    "score": "0 - 0",
+    "time": "7:30 م"
+  },
+  {
+    "home": "كايزرسلاوترن",
+    "homeLogo": "https://jdwel.com/image/teams/1534.png",
+    "away": "بادربورن",
+    "awayLogo": "https://jdwel.com/image/teams/3264.png",
+    "score": "0 - 0",
+    "time": "2:00 م"
+  },
+  {
+    "home": "أرمينيا بيليفيلد",
+    "homeLogo": "https://jdwel.com/image/teams/1456.png",
+    "away": "هانوفر 96",
+    "awayLogo": "https://jdwel.com/image/teams/ger_hannover_96.png",
+    "score": "0 - 0",
+    "time": "2:00 م"
+  },
+  {
+    "home": "هولشتاين كيل",
+    "homeLogo": "https://jdwel.com/image/teams/2147.png",
+    "away": "إلفيرسبيرغ",
+    "awayLogo": "https://jdwel.com/image/teams/1017.png",
+    "score": "0 - 0",
+    "time": "2:00 م"
+  },
+  {
+    "home": "غرويثر فورت",
+    "homeLogo": "https://jdwel.com/image/teams/ger_greuther_furth_v2.png",
+    "away": "شالكه 04",
+    "awayLogo": "https://jdwel.com/image/teams/3263.png",
+    "score": "0 - 0",
+    "time": "9:30 م"
+  },
+  {
+    "home": "ماغديبورغ",
+    "homeLogo": "https://jdwel.com/image/teams/ger_magdeburg.png",
+    "away": "كارلشروهر",
+    "awayLogo": "https://jdwel.com/image/teams/ger_karlsruher_sc.png",
+    "score": "0 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "آينتراخت براونشفايغ",
+    "homeLogo": "https://jdwel.com/image/teams/ger_eintracht_braunschweig.png",
+    "away": "بروسيا مونستر",
+    "awayLogo": "https://jdwel.com/image/teams/1016.png",
+    "score": "0 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "هيرتا برلين",
+    "homeLogo": "https://jdwel.com/image/teams/ger_hertha_bsc.png",
+    "away": "نورنبيرغ",
+    "awayLogo": "https://jdwel.com/image/teams/1291.png",
+    "score": "0 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "نورنبيرغ",
+    "homeLogo": "https://jdwel.com/image/teams/1291.png",
+    "away": "فورتونا دوسلدورف",
+    "awayLogo": "https://jdwel.com/image/teams/ger_fortuna_dusseldorf.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "دارمشتات 98",
+    "homeLogo": "https://jdwel.com/image/teams/1292.png",
+    "away": "هولشتاين كيل",
+    "awayLogo": "https://jdwel.com/image/teams/2147.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "شالكه 04",
+    "homeLogo": "https://jdwel.com/image/teams/3263.png",
+    "away": "أرمينيا بيليفيلد",
+    "awayLogo": "https://jdwel.com/image/teams/1456.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "هانوفر 96",
+    "homeLogo": "https://jdwel.com/image/teams/ger_hannover_96.png",
+    "away": "غرويثر فورت",
+    "awayLogo": "https://jdwel.com/image/teams/ger_greuther_furth_v2.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "كارلشروهر",
+    "homeLogo": "https://jdwel.com/image/teams/ger_karlsruher_sc.png",
+    "away": "دينامو دريسدين",
+    "awayLogo": "https://jdwel.com/image/teams/3413.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "بروسيا مونستر",
+    "homeLogo": "https://jdwel.com/image/teams/1016.png",
+    "away": "هيرتا برلين",
+    "awayLogo": "https://jdwel.com/image/teams/ger_hertha_bsc.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "بادربورن",
+    "homeLogo": "https://jdwel.com/image/teams/3264.png",
+    "away": "آينتراخت براونشفايغ",
+    "awayLogo": "https://jdwel.com/image/teams/ger_eintracht_braunschweig.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "إلفيرسبيرغ",
+    "homeLogo": "https://jdwel.com/image/teams/1017.png",
+    "away": "ماغديبورغ",
+    "awayLogo": "https://jdwel.com/image/teams/ger_magdeburg.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "بوخوم",
+    "homeLogo": "https://jdwel.com/image/teams/3696.png",
+    "away": "كايزرسلاوترن",
+    "awayLogo": "https://jdwel.com/image/teams/1534.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "كايزرسلاوترن",
+    "homeLogo": "https://jdwel.com/image/teams/1534.png",
+    "away": "كارلشروهر",
+    "awayLogo": "https://jdwel.com/image/teams/ger_karlsruher_sc.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "ماغديبورغ",
+    "homeLogo": "https://jdwel.com/image/teams/ger_magdeburg.png",
+    "away": "دارمشتات 98",
+    "awayLogo": "https://jdwel.com/image/teams/1292.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "أرمينيا بيليفيلد",
+    "homeLogo": "https://jdwel.com/image/teams/1456.png",
+    "away": "بادربورن",
+    "awayLogo": "https://jdwel.com/image/teams/3264.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "آينتراخت براونشفايغ",
+    "homeLogo": "https://jdwel.com/image/teams/ger_eintracht_braunschweig.png",
+    "away": "فورتونا دوسلدورف",
+    "awayLogo": "https://jdwel.com/image/teams/ger_fortuna_dusseldorf.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "شالكه 04",
+    "homeLogo": "https://jdwel.com/image/teams/3263.png",
+    "away": "هانوفر 96",
+    "awayLogo": "https://jdwel.com/image/teams/ger_hannover_96.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "هيرتا برلين",
+    "homeLogo": "https://jdwel.com/image/teams/ger_hertha_bsc.png",
+    "away": "بوخوم",
+    "awayLogo": "https://jdwel.com/image/teams/3696.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "هولشتاين كيل",
+    "homeLogo": "https://jdwel.com/image/teams/2147.png",
+    "away": "نورنبيرغ",
+    "awayLogo": "https://jdwel.com/image/teams/1291.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "دينامو دريسدين",
+    "homeLogo": "https://jdwel.com/image/teams/3413.png",
+    "away": "بروسيا مونستر",
+    "awayLogo": "https://jdwel.com/image/teams/1016.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "غرويثر فورت",
+    "homeLogo": "https://jdwel.com/image/teams/ger_greuther_furth_v2.png",
+    "away": "إلفيرسبيرغ",
+    "awayLogo": "https://jdwel.com/image/teams/1017.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "نورنبيرغ",
+    "homeLogo": "https://jdwel.com/image/teams/1291.png",
+    "away": "كايزرسلاوترن",
+    "awayLogo": "https://jdwel.com/image/teams/1534.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "دارمشتات 98",
+    "homeLogo": "https://jdwel.com/image/teams/1292.png",
+    "away": "شالكه 04",
+    "awayLogo": "https://jdwel.com/image/teams/3263.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "فورتونا دوسلدورف",
+    "homeLogo": "https://jdwel.com/image/teams/ger_fortuna_dusseldorf.png",
+    "away": "هيرتا برلين",
+    "awayLogo": "https://jdwel.com/image/teams/ger_hertha_bsc.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "هانوفر 96",
+    "homeLogo": "https://jdwel.com/image/teams/ger_hannover_96.png",
+    "away": "آينتراخت براونشفايغ",
+    "awayLogo": "https://jdwel.com/image/teams/ger_eintracht_braunschweig.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "كارلشروهر",
+    "homeLogo": "https://jdwel.com/image/teams/ger_karlsruher_sc.png",
+    "away": "غرويثر فورت",
+    "awayLogo": "https://jdwel.com/image/teams/ger_greuther_furth_v2.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "بروسيا مونستر",
+    "homeLogo": "https://jdwel.com/image/teams/1016.png",
+    "away": "ماغديبورغ",
+    "awayLogo": "https://jdwel.com/image/teams/ger_magdeburg.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "بادربورن",
+    "homeLogo": "https://jdwel.com/image/teams/3264.png",
+    "away": "دينامو دريسدين",
+    "awayLogo": "https://jdwel.com/image/teams/3413.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "إلفيرسبيرغ",
+    "homeLogo": "https://jdwel.com/image/teams/1017.png",
+    "away": "أرمينيا بيليفيلد",
+    "awayLogo": "https://jdwel.com/image/teams/1456.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "بوخوم",
+    "homeLogo": "https://jdwel.com/image/teams/3696.png",
+    "away": "هولشتاين كيل",
+    "awayLogo": "https://jdwel.com/image/teams/2147.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "كايزرسلاوترن",
+    "homeLogo": "https://jdwel.com/image/teams/1534.png",
+    "away": "فورتونا دوسلدورف",
+    "awayLogo": "https://jdwel.com/image/teams/ger_fortuna_dusseldorf.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "ماغديبورغ",
+    "homeLogo": "https://jdwel.com/image/teams/ger_magdeburg.png",
+    "away": "بوخوم",
+    "awayLogo": "https://jdwel.com/image/teams/3696.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "أرمينيا بيليفيلد",
+    "homeLogo": "https://jdwel.com/image/teams/1456.png",
+    "away": "دارمشتات 98",
+    "awayLogo": "https://jdwel.com/image/teams/1292.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "آينتراخت براونشفايغ",
+    "homeLogo": "https://jdwel.com/image/teams/ger_eintracht_braunschweig.png",
+    "away": "نورنبيرغ",
+    "awayLogo": "https://jdwel.com/image/teams/1291.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "شالكه 04",
+    "homeLogo": "https://jdwel.com/image/teams/3263.png",
+    "away": "كارلشروهر",
+    "awayLogo": "https://jdwel.com/image/teams/ger_karlsruher_sc.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "هانوفر 96",
+    "homeLogo": "https://jdwel.com/image/teams/ger_hannover_96.png",
+    "away": "إلفيرسبيرغ",
+    "awayLogo": "https://jdwel.com/image/teams/1017.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "هولشتاين كيل",
+    "homeLogo": "https://jdwel.com/image/teams/2147.png",
+    "away": "بروسيا مونستر",
+    "awayLogo": "https://jdwel.com/image/teams/1016.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "دينامو دريسدين",
+    "homeLogo": "https://jdwel.com/image/teams/3413.png",
+    "away": "هيرتا برلين",
+    "awayLogo": "https://jdwel.com/image/teams/ger_hertha_bsc.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "غرويثر فورت",
+    "homeLogo": "https://jdwel.com/image/teams/ger_greuther_furth_v2.png",
+    "away": "بادربورن",
+    "awayLogo": "https://jdwel.com/image/teams/3264.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "نورنبيرغ",
+    "homeLogo": "https://jdwel.com/image/teams/1291.png",
+    "away": "دينامو دريسدين",
+    "awayLogo": "https://jdwel.com/image/teams/3413.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "دارمشتات 98",
+    "homeLogo": "https://jdwel.com/image/teams/1292.png",
+    "away": "هانوفر 96",
+    "awayLogo": "https://jdwel.com/image/teams/ger_hannover_96.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "فورتونا دوسلدورف",
+    "homeLogo": "https://jdwel.com/image/teams/ger_fortuna_dusseldorf.png",
+    "away": "هولشتاين كيل",
+    "awayLogo": "https://jdwel.com/image/teams/2147.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "هيرتا برلين",
+    "homeLogo": "https://jdwel.com/image/teams/ger_hertha_bsc.png",
+    "away": "كايزرسلاوترن",
+    "awayLogo": "https://jdwel.com/image/teams/1534.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "كارلشروهر",
+    "homeLogo": "https://jdwel.com/image/teams/ger_karlsruher_sc.png",
+    "away": "أرمينيا بيليفيلد",
+    "awayLogo": "https://jdwel.com/image/teams/1456.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "بروسيا مونستر",
+    "homeLogo": "https://jdwel.com/image/teams/1016.png",
+    "away": "غرويثر فورت",
+    "awayLogo": "https://jdwel.com/image/teams/ger_greuther_furth_v2.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "بادربورن",
+    "homeLogo": "https://jdwel.com/image/teams/3264.png",
+    "away": "ماغديبورغ",
+    "awayLogo": "https://jdwel.com/image/teams/ger_magdeburg.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "إلفيرسبيرغ",
+    "homeLogo": "https://jdwel.com/image/teams/1017.png",
+    "away": "شالكه 04",
+    "awayLogo": "https://jdwel.com/image/teams/3263.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "بوخوم",
+    "homeLogo": "https://jdwel.com/image/teams/3696.png",
+    "away": "آينتراخت براونشفايغ",
+    "awayLogo": "https://jdwel.com/image/teams/ger_eintracht_braunschweig.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "ماغديبورغ",
+    "homeLogo": "https://jdwel.com/image/teams/ger_magdeburg.png",
+    "away": "فورتونا دوسلدورف",
+    "awayLogo": "https://jdwel.com/image/teams/ger_fortuna_dusseldorf.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "أرمينيا بيليفيلد",
+    "homeLogo": "https://jdwel.com/image/teams/1456.png",
+    "away": "نورنبيرغ",
+    "awayLogo": "https://jdwel.com/image/teams/1291.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "آينتراخت براونشفايغ",
+    "homeLogo": "https://jdwel.com/image/teams/ger_eintracht_braunschweig.png",
+    "away": "هيرتا برلين",
+    "awayLogo": "https://jdwel.com/image/teams/ger_hertha_bsc.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "شالكه 04",
+    "homeLogo": "https://jdwel.com/image/teams/3263.png",
+    "away": "بروسيا مونستر",
+    "awayLogo": "https://jdwel.com/image/teams/1016.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "هانوفر 96",
+    "homeLogo": "https://jdwel.com/image/teams/ger_hannover_96.png",
+    "away": "بادربورن",
+    "awayLogo": "https://jdwel.com/image/teams/3264.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "هولشتاين كيل",
+    "homeLogo": "https://jdwel.com/image/teams/2147.png",
+    "away": "كايزرسلاوترن",
+    "awayLogo": "https://jdwel.com/image/teams/1534.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "دينامو دريسدين",
+    "homeLogo": "https://jdwel.com/image/teams/3413.png",
+    "away": "بوخوم",
+    "awayLogo": "https://jdwel.com/image/teams/3696.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "غرويثر فورت",
+    "homeLogo": "https://jdwel.com/image/teams/ger_greuther_furth_v2.png",
+    "away": "دارمشتات 98",
+    "awayLogo": "https://jdwel.com/image/teams/1292.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "إلفيرسبيرغ",
+    "homeLogo": "https://jdwel.com/image/teams/1017.png",
+    "away": "كارلشروهر",
+    "awayLogo": "https://jdwel.com/image/teams/ger_karlsruher_sc.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "كايزرسلاوترن",
+    "homeLogo": "https://jdwel.com/image/teams/1534.png",
+    "away": "آينتراخت براونشفايغ",
+    "awayLogo": "https://jdwel.com/image/teams/ger_eintracht_braunschweig.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "نورنبيرغ",
+    "homeLogo": "https://jdwel.com/image/teams/1291.png",
+    "away": "ماغديبورغ",
+    "awayLogo": "https://jdwel.com/image/teams/ger_magdeburg.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "دارمشتات 98",
+    "homeLogo": "https://jdwel.com/image/teams/1292.png",
+    "away": "إلفيرسبيرغ",
+    "awayLogo": "https://jdwel.com/image/teams/1017.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "فورتونا دوسلدورف",
+    "homeLogo": "https://jdwel.com/image/teams/ger_fortuna_dusseldorf.png",
+    "away": "دينامو دريسدين",
+    "awayLogo": "https://jdwel.com/image/teams/3413.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "هيرتا برلين",
+    "homeLogo": "https://jdwel.com/image/teams/ger_hertha_bsc.png",
+    "away": "هولشتاين كيل",
+    "awayLogo": "https://jdwel.com/image/teams/2147.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "كارلشروهر",
+    "homeLogo": "https://jdwel.com/image/teams/ger_karlsruher_sc.png",
+    "away": "هانوفر 96",
+    "awayLogo": "https://jdwel.com/image/teams/ger_hannover_96.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "بروسيا مونستر",
+    "homeLogo": "https://jdwel.com/image/teams/1016.png",
+    "away": "أرمينيا بيليفيلد",
+    "awayLogo": "https://jdwel.com/image/teams/1456.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "بادربورن",
+    "homeLogo": "https://jdwel.com/image/teams/3264.png",
+    "away": "شالكه 04",
+    "awayLogo": "https://jdwel.com/image/teams/3263.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "بوخوم",
+    "homeLogo": "https://jdwel.com/image/teams/3696.png",
+    "away": "غرويثر فورت",
+    "awayLogo": "https://jdwel.com/image/teams/ger_greuther_furth_v2.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "ماغديبورغ",
+    "homeLogo": "https://jdwel.com/image/teams/ger_magdeburg.png",
+    "away": "هيرتا برلين",
+    "awayLogo": "https://jdwel.com/image/teams/ger_hertha_bsc.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "أرمينيا بيليفيلد",
+    "homeLogo": "https://jdwel.com/image/teams/1456.png",
+    "away": "بوخوم",
+    "awayLogo": "https://jdwel.com/image/teams/3696.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "شالكه 04",
+    "homeLogo": "https://jdwel.com/image/teams/3263.png",
+    "away": "فورتونا دوسلدورف",
+    "awayLogo": "https://jdwel.com/image/teams/ger_fortuna_dusseldorf.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "هانوفر 96",
+    "homeLogo": "https://jdwel.com/image/teams/ger_hannover_96.png",
+    "away": "بروسيا مونستر",
+    "awayLogo": "https://jdwel.com/image/teams/1016.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "هولشتاين كيل",
+    "homeLogo": "https://jdwel.com/image/teams/2147.png",
+    "away": "آينتراخت براونشفايغ",
+    "awayLogo": "https://jdwel.com/image/teams/ger_eintracht_braunschweig.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "كارلشروهر",
+    "homeLogo": "https://jdwel.com/image/teams/ger_karlsruher_sc.png",
+    "away": "دارمشتات 98",
+    "awayLogo": "https://jdwel.com/image/teams/1292.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "دينامو دريسدين",
+    "homeLogo": "https://jdwel.com/image/teams/3413.png",
+    "away": "كايزرسلاوترن",
+    "awayLogo": "https://jdwel.com/image/teams/1534.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "غرويثر فورت",
+    "homeLogo": "https://jdwel.com/image/teams/ger_greuther_furth_v2.png",
+    "away": "نورنبيرغ",
+    "awayLogo": "https://jdwel.com/image/teams/1291.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "إلفيرسبيرغ",
+    "homeLogo": "https://jdwel.com/image/teams/1017.png",
+    "away": "بادربورن",
+    "awayLogo": "https://jdwel.com/image/teams/3264.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "كايزرسلاوترن",
+    "homeLogo": "https://jdwel.com/image/teams/1534.png",
+    "away": "أرمينيا بيليفيلد",
+    "awayLogo": "https://jdwel.com/image/teams/1456.png",
+    "score": "0 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "نورنبيرغ",
+    "homeLogo": "https://jdwel.com/image/teams/1291.png",
+    "away": "شالكه 04",
+    "awayLogo": "https://jdwel.com/image/teams/3263.png",
+    "score": "0 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "آينتراخت براونشفايغ",
+    "homeLogo": "https://jdwel.com/image/teams/ger_eintracht_braunschweig.png",
+    "away": "دينامو دريسدين",
+    "awayLogo": "https://jdwel.com/image/teams/3413.png",
+    "score": "0 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "فورتونا دوسلدورف",
+    "homeLogo": "https://jdwel.com/image/teams/ger_fortuna_dusseldorf.png",
+    "away": "إلفيرسبيرغ",
+    "awayLogo": "https://jdwel.com/image/teams/1017.png",
+    "score": "0 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "هيرتا برلين",
+    "homeLogo": "https://jdwel.com/image/teams/ger_hertha_bsc.png",
+    "away": "غرويثر فورت",
+    "awayLogo": "https://jdwel.com/image/teams/ger_greuther_furth_v2.png",
+    "score": "0 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "هولشتاين كيل",
+    "homeLogo": "https://jdwel.com/image/teams/2147.png",
+    "away": "ماغديبورغ",
+    "awayLogo": "https://jdwel.com/image/teams/ger_magdeburg.png",
+    "score": "0 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "بروسيا مونستر",
+    "homeLogo": "https://jdwel.com/image/teams/1016.png",
+    "away": "دارمشتات 98",
+    "awayLogo": "https://jdwel.com/image/teams/1292.png",
+    "score": "0 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "بادربورن",
+    "homeLogo": "https://jdwel.com/image/teams/3264.png",
+    "away": "كارلشروهر",
+    "awayLogo": "https://jdwel.com/image/teams/ger_karlsruher_sc.png",
+    "score": "0 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "بوخوم",
+    "homeLogo": "https://jdwel.com/image/teams/3696.png",
+    "away": "هانوفر 96",
+    "awayLogo": "https://jdwel.com/image/teams/ger_hannover_96.png",
+    "score": "0 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "ماغديبورغ",
+    "homeLogo": "https://jdwel.com/image/teams/ger_magdeburg.png",
+    "away": "كايزرسلاوترن",
+    "awayLogo": "https://jdwel.com/image/teams/1534.png",
+    "score": "0 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "أرمينيا بيليفيلد",
+    "homeLogo": "https://jdwel.com/image/teams/1456.png",
+    "away": "هيرتا برلين",
+    "awayLogo": "https://jdwel.com/image/teams/ger_hertha_bsc.png",
+    "score": "0 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "دارمشتات 98",
+    "homeLogo": "https://jdwel.com/image/teams/1292.png",
+    "away": "بادربورن",
+    "awayLogo": "https://jdwel.com/image/teams/3264.png",
+    "score": "0 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "شالكه 04",
+    "homeLogo": "https://jdwel.com/image/teams/3263.png",
+    "away": "آينتراخت براونشفايغ",
+    "awayLogo": "https://jdwel.com/image/teams/ger_eintracht_braunschweig.png",
+    "score": "0 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "هانوفر 96",
+    "homeLogo": "https://jdwel.com/image/teams/ger_hannover_96.png",
+    "away": "نورنبيرغ",
+    "awayLogo": "https://jdwel.com/image/teams/1291.png",
+    "score": "0 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "كارلشروهر",
+    "homeLogo": "https://jdwel.com/image/teams/ger_karlsruher_sc.png",
+    "away": "بوخوم",
+    "awayLogo": "https://jdwel.com/image/teams/3696.png",
+    "score": "0 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "دينامو دريسدين",
+    "homeLogo": "https://jdwel.com/image/teams/3413.png",
+    "away": "هولشتاين كيل",
+    "awayLogo": "https://jdwel.com/image/teams/2147.png",
+    "score": "0 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "غرويثر فورت",
+    "homeLogo": "https://jdwel.com/image/teams/ger_greuther_furth_v2.png",
+    "away": "فورتونا دوسلدورف",
+    "awayLogo": "https://jdwel.com/image/teams/ger_fortuna_dusseldorf.png",
+    "score": "0 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "إلفيرسبيرغ",
+    "homeLogo": "https://jdwel.com/image/teams/1017.png",
+    "away": "بروسيا مونستر",
+    "awayLogo": "https://jdwel.com/image/teams/1016.png",
+    "score": "0 - 0",
+    "time": "3:30 م"
+  }
+]

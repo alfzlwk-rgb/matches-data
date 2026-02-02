@@ -1,0 +1,1922 @@
+[
+  {
+    "home": "هام كام",
+    "homeLogo": "https://jdwel.com/image/teams/nor_hamkam.png",
+    "away": "فايكنغ",
+    "awayLogo": "https://jdwel.com/image/teams/2338.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "مولده",
+    "homeLogo": "https://jdwel.com/image/teams/nor_molde.png",
+    "away": "روزنبورغ",
+    "awayLogo": "https://jdwel.com/image/teams/nor_rosenborg.png",
+    "score": "0 - 0",
+    "time": "7:00 م"
+  },
+  {
+    "home": "كريستيانسوند",
+    "homeLogo": "https://jdwel.com/image/teams/4829.png",
+    "away": "بران",
+    "awayLogo": "https://jdwel.com/image/teams/nor_brann.png",
+    "score": "0 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "أوليسوند",
+    "homeLogo": "https://jdwel.com/image/teams/nor_aalesund.png",
+    "away": "ليلستروم",
+    "awayLogo": "https://jdwel.com/image/teams/nor_lillestrom.png",
+    "score": "0 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "فاليرينغا",
+    "homeLogo": "https://jdwel.com/image/teams/nor_valerenga.png",
+    "away": "سانديفيورد",
+    "awayLogo": "https://jdwel.com/image/teams/nor_sandefjord.png",
+    "score": "0 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "ساربسبورغ 08",
+    "homeLogo": "https://jdwel.com/image/teams/4849.png",
+    "away": "بودو غليمت",
+    "awayLogo": "https://jdwel.com/image/teams/1459.png",
+    "score": "0 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "كفوم",
+    "homeLogo": "https://jdwel.com/image/teams/773.png",
+    "away": "ستارت",
+    "awayLogo": "https://jdwel.com/image/teams/nor_start.png",
+    "score": "0 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "ترومسو",
+    "homeLogo": "https://jdwel.com/image/teams/nor_tromso.png",
+    "away": "فريدريكستاد",
+    "awayLogo": "https://jdwel.com/image/teams/nor_fredrikstad.png",
+    "score": "0 - 0",
+    "time": "8:15 م"
+  },
+  {
+    "home": "ستارت",
+    "homeLogo": "https://jdwel.com/image/teams/nor_start.png",
+    "away": "أوليسوند",
+    "awayLogo": "https://jdwel.com/image/teams/nor_aalesund.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "فايكنغ",
+    "homeLogo": "https://jdwel.com/image/teams/2338.png",
+    "away": "مولده",
+    "awayLogo": "https://jdwel.com/image/teams/nor_molde.png",
+    "score": "0 - 0",
+    "time": "7:00 م"
+  },
+  {
+    "home": "روزنبورغ",
+    "homeLogo": "https://jdwel.com/image/teams/nor_rosenborg.png",
+    "away": "فاليرينغا",
+    "awayLogo": "https://jdwel.com/image/teams/nor_valerenga.png",
+    "score": "0 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "سانديفيورد",
+    "homeLogo": "https://jdwel.com/image/teams/nor_sandefjord.png",
+    "away": "ساربسبورغ 08",
+    "awayLogo": "https://jdwel.com/image/teams/4849.png",
+    "score": "0 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "ليلستروم",
+    "homeLogo": "https://jdwel.com/image/teams/nor_lillestrom.png",
+    "away": "كريستيانسوند",
+    "awayLogo": "https://jdwel.com/image/teams/4829.png",
+    "score": "0 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "فريدريكستاد",
+    "homeLogo": "https://jdwel.com/image/teams/nor_fredrikstad.png",
+    "away": "كفوم",
+    "awayLogo": "https://jdwel.com/image/teams/773.png",
+    "score": "0 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "بران",
+    "homeLogo": "https://jdwel.com/image/teams/nor_brann.png",
+    "away": "ترومسو",
+    "awayLogo": "https://jdwel.com/image/teams/nor_tromso.png",
+    "score": "0 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "بودو غليمت",
+    "homeLogo": "https://jdwel.com/image/teams/1459.png",
+    "away": "هام كام",
+    "awayLogo": "https://jdwel.com/image/teams/nor_hamkam.png",
+    "score": "0 - 0",
+    "time": "8:15 م"
+  },
+  {
+    "home": "فاليرينغا",
+    "homeLogo": "https://jdwel.com/image/teams/nor_valerenga.png",
+    "away": "فايكنغ",
+    "awayLogo": "https://jdwel.com/image/teams/2338.png",
+    "score": "0 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "ساربسبورغ 08",
+    "homeLogo": "https://jdwel.com/image/teams/4849.png",
+    "away": "ستارت",
+    "awayLogo": "https://jdwel.com/image/teams/nor_start.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "مولده",
+    "homeLogo": "https://jdwel.com/image/teams/nor_molde.png",
+    "away": "ليلستروم",
+    "awayLogo": "https://jdwel.com/image/teams/nor_lillestrom.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "كريستيانسوند",
+    "homeLogo": "https://jdwel.com/image/teams/4829.png",
+    "away": "بودو غليمت",
+    "awayLogo": "https://jdwel.com/image/teams/1459.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "هام كام",
+    "homeLogo": "https://jdwel.com/image/teams/nor_hamkam.png",
+    "away": "بران",
+    "awayLogo": "https://jdwel.com/image/teams/nor_brann.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "ترومسو",
+    "homeLogo": "https://jdwel.com/image/teams/nor_tromso.png",
+    "away": "روزنبورغ",
+    "awayLogo": "https://jdwel.com/image/teams/nor_rosenborg.png",
+    "score": "0 - 0",
+    "time": "7:15 م"
+  },
+  {
+    "home": "كفوم",
+    "homeLogo": "https://jdwel.com/image/teams/773.png",
+    "away": "سانديفيورد",
+    "awayLogo": "https://jdwel.com/image/teams/nor_sandefjord.png",
+    "score": "0 - 0",
+    "time": "7:00 م"
+  },
+  {
+    "home": "أوليسوند",
+    "homeLogo": "https://jdwel.com/image/teams/nor_aalesund.png",
+    "away": "فريدريكستاد",
+    "awayLogo": "https://jdwel.com/image/teams/nor_fredrikstad.png",
+    "score": "0 - 0",
+    "time": "7:00 م"
+  },
+  {
+    "home": "ليلستروم",
+    "homeLogo": "https://jdwel.com/image/teams/nor_lillestrom.png",
+    "away": "ستارت",
+    "awayLogo": "https://jdwel.com/image/teams/nor_start.png",
+    "score": "0 - 0",
+    "time": "2:00 م"
+  },
+  {
+    "home": "ترومسو",
+    "homeLogo": "https://jdwel.com/image/teams/nor_tromso.png",
+    "away": "كريستيانسوند",
+    "awayLogo": "https://jdwel.com/image/teams/4829.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "فايكنغ",
+    "homeLogo": "https://jdwel.com/image/teams/2338.png",
+    "away": "بودو غليمت",
+    "awayLogo": "https://jdwel.com/image/teams/1459.png",
+    "score": "0 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "روزنبورغ",
+    "homeLogo": "https://jdwel.com/image/teams/nor_rosenborg.png",
+    "away": "ساربسبورغ 08",
+    "awayLogo": "https://jdwel.com/image/teams/4849.png",
+    "score": "0 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "أوليسوند",
+    "homeLogo": "https://jdwel.com/image/teams/nor_aalesund.png",
+    "away": "كفوم",
+    "awayLogo": "https://jdwel.com/image/teams/773.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "مولده",
+    "homeLogo": "https://jdwel.com/image/teams/nor_molde.png",
+    "away": "هام كام",
+    "awayLogo": "https://jdwel.com/image/teams/nor_hamkam.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "فريدريكستاد",
+    "homeLogo": "https://jdwel.com/image/teams/nor_fredrikstad.png",
+    "away": "فاليرينغا",
+    "awayLogo": "https://jdwel.com/image/teams/nor_valerenga.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "بران",
+    "homeLogo": "https://jdwel.com/image/teams/nor_brann.png",
+    "away": "سانديفيورد",
+    "awayLogo": "https://jdwel.com/image/teams/nor_sandefjord.png",
+    "score": "0 - 0",
+    "time": "7:15 م"
+  },
+  {
+    "home": "ترومسو",
+    "homeLogo": "https://jdwel.com/image/teams/nor_tromso.png",
+    "away": "ليلستروم",
+    "awayLogo": "https://jdwel.com/image/teams/nor_lillestrom.png",
+    "score": "0 - 0",
+    "time": "7:00 م"
+  },
+  {
+    "home": "بودو غليمت",
+    "homeLogo": "https://jdwel.com/image/teams/1459.png",
+    "away": "أوليسوند",
+    "awayLogo": "https://jdwel.com/image/teams/nor_aalesund.png",
+    "score": "0 - 0",
+    "time": "2:00 م"
+  },
+  {
+    "home": "سانديفيورد",
+    "homeLogo": "https://jdwel.com/image/teams/nor_sandefjord.png",
+    "away": "روزنبورغ",
+    "awayLogo": "https://jdwel.com/image/teams/nor_rosenborg.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "فايكنغ",
+    "homeLogo": "https://jdwel.com/image/teams/2338.png",
+    "away": "بران",
+    "awayLogo": "https://jdwel.com/image/teams/nor_brann.png",
+    "score": "0 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "فاليرينغا",
+    "homeLogo": "https://jdwel.com/image/teams/nor_valerenga.png",
+    "away": "ليلستروم",
+    "awayLogo": "https://jdwel.com/image/teams/nor_lillestrom.png",
+    "score": "0 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "ساربسبورغ 08",
+    "homeLogo": "https://jdwel.com/image/teams/4849.png",
+    "away": "ترومسو",
+    "awayLogo": "https://jdwel.com/image/teams/nor_tromso.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "كريستيانسوند",
+    "homeLogo": "https://jdwel.com/image/teams/4829.png",
+    "away": "فريدريكستاد",
+    "awayLogo": "https://jdwel.com/image/teams/nor_fredrikstad.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "هام كام",
+    "homeLogo": "https://jdwel.com/image/teams/nor_hamkam.png",
+    "away": "كفوم",
+    "awayLogo": "https://jdwel.com/image/teams/773.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "ستارت",
+    "homeLogo": "https://jdwel.com/image/teams/nor_start.png",
+    "away": "مولده",
+    "awayLogo": "https://jdwel.com/image/teams/nor_molde.png",
+    "score": "0 - 0",
+    "time": "7:15 م"
+  },
+  {
+    "home": "فريدريكستاد",
+    "homeLogo": "https://jdwel.com/image/teams/nor_fredrikstad.png",
+    "away": "فايكنغ",
+    "awayLogo": "https://jdwel.com/image/teams/2338.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "روزنبورغ",
+    "homeLogo": "https://jdwel.com/image/teams/nor_rosenborg.png",
+    "away": "بران",
+    "awayLogo": "https://jdwel.com/image/teams/nor_brann.png",
+    "score": "0 - 0",
+    "time": "7:00 م"
+  },
+  {
+    "home": "مولده",
+    "homeLogo": "https://jdwel.com/image/teams/nor_molde.png",
+    "away": "فاليرينغا",
+    "awayLogo": "https://jdwel.com/image/teams/nor_valerenga.png",
+    "score": "0 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "أوليسوند",
+    "homeLogo": "https://jdwel.com/image/teams/nor_aalesund.png",
+    "away": "كريستيانسوند",
+    "awayLogo": "https://jdwel.com/image/teams/4829.png",
+    "score": "0 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "ترومسو",
+    "homeLogo": "https://jdwel.com/image/teams/nor_tromso.png",
+    "away": "سانديفيورد",
+    "awayLogo": "https://jdwel.com/image/teams/nor_sandefjord.png",
+    "score": "0 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "كفوم",
+    "homeLogo": "https://jdwel.com/image/teams/773.png",
+    "away": "ساربسبورغ 08",
+    "awayLogo": "https://jdwel.com/image/teams/4849.png",
+    "score": "0 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "هام كام",
+    "homeLogo": "https://jdwel.com/image/teams/nor_hamkam.png",
+    "away": "ستارت",
+    "awayLogo": "https://jdwel.com/image/teams/nor_start.png",
+    "score": "0 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "ليلستروم",
+    "homeLogo": "https://jdwel.com/image/teams/nor_lillestrom.png",
+    "away": "بودو غليمت",
+    "awayLogo": "https://jdwel.com/image/teams/1459.png",
+    "score": "0 - 0",
+    "time": "8:15 م"
+  },
+  {
+    "home": "ترومسو",
+    "homeLogo": "https://jdwel.com/image/teams/nor_tromso.png",
+    "away": "بران",
+    "awayLogo": "https://jdwel.com/image/teams/nor_brann.png",
+    "score": "0 - 0",
+    "time": "8:00 م"
+  },
+  {
+    "home": "بودو غليمت",
+    "homeLogo": "https://jdwel.com/image/teams/1459.png",
+    "away": "ستارت",
+    "awayLogo": "https://jdwel.com/image/teams/nor_start.png",
+    "score": "0 - 0",
+    "time": "8:00 م"
+  },
+  {
+    "home": "فايكنغ",
+    "homeLogo": "https://jdwel.com/image/teams/2338.png",
+    "away": "روزنبورغ",
+    "awayLogo": "https://jdwel.com/image/teams/nor_rosenborg.png",
+    "score": "0 - 0",
+    "time": "7:00 م"
+  },
+  {
+    "home": "بران",
+    "homeLogo": "https://jdwel.com/image/teams/nor_brann.png",
+    "away": "فريدريكستاد",
+    "awayLogo": "https://jdwel.com/image/teams/nor_fredrikstad.png",
+    "score": "0 - 0",
+    "time": "7:00 م"
+  },
+  {
+    "home": "ليلستروم",
+    "homeLogo": "https://jdwel.com/image/teams/nor_lillestrom.png",
+    "away": "ساربسبورغ 08",
+    "awayLogo": "https://jdwel.com/image/teams/4849.png",
+    "score": "0 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "ستارت",
+    "homeLogo": "https://jdwel.com/image/teams/nor_start.png",
+    "away": "ترومسو",
+    "awayLogo": "https://jdwel.com/image/teams/nor_tromso.png",
+    "score": "0 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "سانديفيورد",
+    "homeLogo": "https://jdwel.com/image/teams/nor_sandefjord.png",
+    "away": "أوليسوند",
+    "awayLogo": "https://jdwel.com/image/teams/nor_aalesund.png",
+    "score": "0 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "كريستيانسوند",
+    "homeLogo": "https://jdwel.com/image/teams/4829.png",
+    "away": "هام كام",
+    "awayLogo": "https://jdwel.com/image/teams/nor_hamkam.png",
+    "score": "0 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "فاليرينغا",
+    "homeLogo": "https://jdwel.com/image/teams/nor_valerenga.png",
+    "away": "كفوم",
+    "awayLogo": "https://jdwel.com/image/teams/773.png",
+    "score": "0 - 0",
+    "time": "8:15 م"
+  },
+  {
+    "home": "بودو غليمت",
+    "homeLogo": "https://jdwel.com/image/teams/1459.png",
+    "away": "مولده",
+    "awayLogo": "https://jdwel.com/image/teams/nor_molde.png",
+    "score": "0 - 0",
+    "time": "8:00 م"
+  },
+  {
+    "home": "هام كام",
+    "homeLogo": "https://jdwel.com/image/teams/nor_hamkam.png",
+    "away": "فاليرينغا",
+    "awayLogo": "https://jdwel.com/image/teams/nor_valerenga.png",
+    "score": "0 - 0",
+    "time": "8:00 م"
+  },
+  {
+    "home": "ساربسبورغ 08",
+    "homeLogo": "https://jdwel.com/image/teams/4849.png",
+    "away": "فريدريكستاد",
+    "awayLogo": "https://jdwel.com/image/teams/nor_fredrikstad.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "روزنبورغ",
+    "homeLogo": "https://jdwel.com/image/teams/nor_rosenborg.png",
+    "away": "ليلستروم",
+    "awayLogo": "https://jdwel.com/image/teams/nor_lillestrom.png",
+    "score": "0 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "ترومسو",
+    "homeLogo": "https://jdwel.com/image/teams/nor_tromso.png",
+    "away": "مولده",
+    "awayLogo": "https://jdwel.com/image/teams/nor_molde.png",
+    "score": "0 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "ستارت",
+    "homeLogo": "https://jdwel.com/image/teams/nor_start.png",
+    "away": "بودو غليمت",
+    "awayLogo": "https://jdwel.com/image/teams/1459.png",
+    "score": "0 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "سانديفيورد",
+    "homeLogo": "https://jdwel.com/image/teams/nor_sandefjord.png",
+    "away": "كريستيانسوند",
+    "awayLogo": "https://jdwel.com/image/teams/4829.png",
+    "score": "0 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "كفوم",
+    "homeLogo": "https://jdwel.com/image/teams/773.png",
+    "away": "فايكنغ",
+    "awayLogo": "https://jdwel.com/image/teams/2338.png",
+    "score": "0 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "أوليسوند",
+    "homeLogo": "https://jdwel.com/image/teams/nor_aalesund.png",
+    "away": "بران",
+    "awayLogo": "https://jdwel.com/image/teams/nor_brann.png",
+    "score": "0 - 0",
+    "time": "8:15 م"
+  },
+  {
+    "home": "بران",
+    "homeLogo": "https://jdwel.com/image/teams/nor_brann.png",
+    "away": "كفوم",
+    "awayLogo": "https://jdwel.com/image/teams/773.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "فايكنغ",
+    "homeLogo": "https://jdwel.com/image/teams/2338.png",
+    "away": "ستارت",
+    "awayLogo": "https://jdwel.com/image/teams/nor_start.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "روزنبورغ",
+    "homeLogo": "https://jdwel.com/image/teams/nor_rosenborg.png",
+    "away": "أوليسوند",
+    "awayLogo": "https://jdwel.com/image/teams/nor_aalesund.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "مولده",
+    "homeLogo": "https://jdwel.com/image/teams/nor_molde.png",
+    "away": "كريستيانسوند",
+    "awayLogo": "https://jdwel.com/image/teams/4829.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "ليلستروم",
+    "homeLogo": "https://jdwel.com/image/teams/nor_lillestrom.png",
+    "away": "سانديفيورد",
+    "awayLogo": "https://jdwel.com/image/teams/nor_sandefjord.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "فريدريكستاد",
+    "homeLogo": "https://jdwel.com/image/teams/nor_fredrikstad.png",
+    "away": "هام كام",
+    "awayLogo": "https://jdwel.com/image/teams/nor_hamkam.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "بودو غليمت",
+    "homeLogo": "https://jdwel.com/image/teams/1459.png",
+    "away": "ترومسو",
+    "awayLogo": "https://jdwel.com/image/teams/nor_tromso.png",
+    "score": "0 - 0",
+    "time": "7:00 م"
+  },
+  {
+    "home": "فاليرينغا",
+    "homeLogo": "https://jdwel.com/image/teams/nor_valerenga.png",
+    "away": "ساربسبورغ 08",
+    "awayLogo": "https://jdwel.com/image/teams/4849.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "ترومسو",
+    "homeLogo": "https://jdwel.com/image/teams/nor_tromso.png",
+    "away": "أوليسوند",
+    "awayLogo": "https://jdwel.com/image/teams/nor_aalesund.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "ستارت",
+    "homeLogo": "https://jdwel.com/image/teams/nor_start.png",
+    "away": "فاليرينغا",
+    "awayLogo": "https://jdwel.com/image/teams/nor_valerenga.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "ساربسبورغ 08",
+    "homeLogo": "https://jdwel.com/image/teams/4849.png",
+    "away": "مولده",
+    "awayLogo": "https://jdwel.com/image/teams/nor_molde.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "سانديفيورد",
+    "homeLogo": "https://jdwel.com/image/teams/nor_sandefjord.png",
+    "away": "فريدريكستاد",
+    "awayLogo": "https://jdwel.com/image/teams/nor_fredrikstad.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "كريستيانسوند",
+    "homeLogo": "https://jdwel.com/image/teams/4829.png",
+    "away": "فايكنغ",
+    "awayLogo": "https://jdwel.com/image/teams/2338.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "كفوم",
+    "homeLogo": "https://jdwel.com/image/teams/773.png",
+    "away": "روزنبورغ",
+    "awayLogo": "https://jdwel.com/image/teams/nor_rosenborg.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "هام كام",
+    "homeLogo": "https://jdwel.com/image/teams/nor_hamkam.png",
+    "away": "ليلستروم",
+    "awayLogo": "https://jdwel.com/image/teams/nor_lillestrom.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "بودو غليمت",
+    "homeLogo": "https://jdwel.com/image/teams/1459.png",
+    "away": "بران",
+    "awayLogo": "https://jdwel.com/image/teams/nor_brann.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "أوليسوند",
+    "homeLogo": "https://jdwel.com/image/teams/nor_aalesund.png",
+    "away": "هام كام",
+    "awayLogo": "https://jdwel.com/image/teams/nor_hamkam.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "فاليرينغا",
+    "homeLogo": "https://jdwel.com/image/teams/nor_valerenga.png",
+    "away": "كريستيانسوند",
+    "awayLogo": "https://jdwel.com/image/teams/4829.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "روزنبورغ",
+    "homeLogo": "https://jdwel.com/image/teams/nor_rosenborg.png",
+    "away": "بودو غليمت",
+    "awayLogo": "https://jdwel.com/image/teams/1459.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "مولده",
+    "homeLogo": "https://jdwel.com/image/teams/nor_molde.png",
+    "away": "سانديفيورد",
+    "awayLogo": "https://jdwel.com/image/teams/nor_sandefjord.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "ليلستروم",
+    "homeLogo": "https://jdwel.com/image/teams/nor_lillestrom.png",
+    "away": "فايكنغ",
+    "awayLogo": "https://jdwel.com/image/teams/2338.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "كفوم",
+    "homeLogo": "https://jdwel.com/image/teams/773.png",
+    "away": "ترومسو",
+    "awayLogo": "https://jdwel.com/image/teams/nor_tromso.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "فريدريكستاد",
+    "homeLogo": "https://jdwel.com/image/teams/nor_fredrikstad.png",
+    "away": "ستارت",
+    "awayLogo": "https://jdwel.com/image/teams/nor_start.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "بران",
+    "homeLogo": "https://jdwel.com/image/teams/nor_brann.png",
+    "away": "ساربسبورغ 08",
+    "awayLogo": "https://jdwel.com/image/teams/4849.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "فايكنغ",
+    "homeLogo": "https://jdwel.com/image/teams/2338.png",
+    "away": "ترومسو",
+    "awayLogo": "https://jdwel.com/image/teams/nor_tromso.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "ستارت",
+    "homeLogo": "https://jdwel.com/image/teams/nor_start.png",
+    "away": "سانديفيورد",
+    "awayLogo": "https://jdwel.com/image/teams/nor_sandefjord.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "ساربسبورغ 08",
+    "homeLogo": "https://jdwel.com/image/teams/4849.png",
+    "away": "أوليسوند",
+    "awayLogo": "https://jdwel.com/image/teams/nor_aalesund.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "مولده",
+    "homeLogo": "https://jdwel.com/image/teams/nor_molde.png",
+    "away": "فريدريكستاد",
+    "awayLogo": "https://jdwel.com/image/teams/nor_fredrikstad.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "ليلستروم",
+    "homeLogo": "https://jdwel.com/image/teams/nor_lillestrom.png",
+    "away": "بران",
+    "awayLogo": "https://jdwel.com/image/teams/nor_brann.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "كريستيانسوند",
+    "homeLogo": "https://jdwel.com/image/teams/4829.png",
+    "away": "كفوم",
+    "awayLogo": "https://jdwel.com/image/teams/773.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "هام كام",
+    "homeLogo": "https://jdwel.com/image/teams/nor_hamkam.png",
+    "away": "روزنبورغ",
+    "awayLogo": "https://jdwel.com/image/teams/nor_rosenborg.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "بودو غليمت",
+    "homeLogo": "https://jdwel.com/image/teams/1459.png",
+    "away": "فاليرينغا",
+    "awayLogo": "https://jdwel.com/image/teams/nor_valerenga.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "أوليسوند",
+    "homeLogo": "https://jdwel.com/image/teams/nor_aalesund.png",
+    "away": "مولده",
+    "awayLogo": "https://jdwel.com/image/teams/nor_molde.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "ترومسو",
+    "homeLogo": "https://jdwel.com/image/teams/nor_tromso.png",
+    "away": "فاليرينغا",
+    "awayLogo": "https://jdwel.com/image/teams/nor_valerenga.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "ساربسبورغ 08",
+    "homeLogo": "https://jdwel.com/image/teams/4849.png",
+    "away": "فايكنغ",
+    "awayLogo": "https://jdwel.com/image/teams/2338.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "سانديفيورد",
+    "homeLogo": "https://jdwel.com/image/teams/nor_sandefjord.png",
+    "away": "هام كام",
+    "awayLogo": "https://jdwel.com/image/teams/nor_hamkam.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "روزنبورغ",
+    "homeLogo": "https://jdwel.com/image/teams/nor_rosenborg.png",
+    "away": "كريستيانسوند",
+    "awayLogo": "https://jdwel.com/image/teams/4829.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "كفوم",
+    "homeLogo": "https://jdwel.com/image/teams/773.png",
+    "away": "بودو غليمت",
+    "awayLogo": "https://jdwel.com/image/teams/1459.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "فريدريكستاد",
+    "homeLogo": "https://jdwel.com/image/teams/nor_fredrikstad.png",
+    "away": "ليلستروم",
+    "awayLogo": "https://jdwel.com/image/teams/nor_lillestrom.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "بران",
+    "homeLogo": "https://jdwel.com/image/teams/nor_brann.png",
+    "away": "ستارت",
+    "awayLogo": "https://jdwel.com/image/teams/nor_start.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "فاليرينغا",
+    "homeLogo": "https://jdwel.com/image/teams/nor_valerenga.png",
+    "away": "أوليسوند",
+    "awayLogo": "https://jdwel.com/image/teams/nor_aalesund.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "فايكنغ",
+    "homeLogo": "https://jdwel.com/image/teams/2338.png",
+    "away": "سانديفيورد",
+    "awayLogo": "https://jdwel.com/image/teams/nor_sandefjord.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "ستارت",
+    "homeLogo": "https://jdwel.com/image/teams/nor_start.png",
+    "away": "روزنبورغ",
+    "awayLogo": "https://jdwel.com/image/teams/nor_rosenborg.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "مولده",
+    "homeLogo": "https://jdwel.com/image/teams/nor_molde.png",
+    "away": "بران",
+    "awayLogo": "https://jdwel.com/image/teams/nor_brann.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "ليلستروم",
+    "homeLogo": "https://jdwel.com/image/teams/nor_lillestrom.png",
+    "away": "كفوم",
+    "awayLogo": "https://jdwel.com/image/teams/773.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "كريستيانسوند",
+    "homeLogo": "https://jdwel.com/image/teams/4829.png",
+    "away": "ساربسبورغ 08",
+    "awayLogo": "https://jdwel.com/image/teams/4849.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "هام كام",
+    "homeLogo": "https://jdwel.com/image/teams/nor_hamkam.png",
+    "away": "ترومسو",
+    "awayLogo": "https://jdwel.com/image/teams/nor_tromso.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "بودو غليمت",
+    "homeLogo": "https://jdwel.com/image/teams/1459.png",
+    "away": "فريدريكستاد",
+    "awayLogo": "https://jdwel.com/image/teams/nor_fredrikstad.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "أوليسوند",
+    "homeLogo": "https://jdwel.com/image/teams/nor_aalesund.png",
+    "away": "فايكنغ",
+    "awayLogo": "https://jdwel.com/image/teams/2338.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "ساربسبورغ 08",
+    "homeLogo": "https://jdwel.com/image/teams/4849.png",
+    "away": "هام كام",
+    "awayLogo": "https://jdwel.com/image/teams/nor_hamkam.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "سانديفيورد",
+    "homeLogo": "https://jdwel.com/image/teams/nor_sandefjord.png",
+    "away": "بودو غليمت",
+    "awayLogo": "https://jdwel.com/image/teams/1459.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "روزنبورغ",
+    "homeLogo": "https://jdwel.com/image/teams/nor_rosenborg.png",
+    "away": "فريدريكستاد",
+    "awayLogo": "https://jdwel.com/image/teams/nor_fredrikstad.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "كريستيانسوند",
+    "homeLogo": "https://jdwel.com/image/teams/4829.png",
+    "away": "ستارت",
+    "awayLogo": "https://jdwel.com/image/teams/nor_start.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "كفوم",
+    "homeLogo": "https://jdwel.com/image/teams/773.png",
+    "away": "مولده",
+    "awayLogo": "https://jdwel.com/image/teams/nor_molde.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "بران",
+    "homeLogo": "https://jdwel.com/image/teams/nor_brann.png",
+    "away": "فاليرينغا",
+    "awayLogo": "https://jdwel.com/image/teams/nor_valerenga.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "أوليسوند",
+    "homeLogo": "https://jdwel.com/image/teams/nor_aalesund.png",
+    "away": "ترومسو",
+    "awayLogo": "https://jdwel.com/image/teams/nor_tromso.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "فاليرينغا",
+    "homeLogo": "https://jdwel.com/image/teams/nor_valerenga.png",
+    "away": "هام كام",
+    "awayLogo": "https://jdwel.com/image/teams/nor_hamkam.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "ستارت",
+    "homeLogo": "https://jdwel.com/image/teams/nor_start.png",
+    "away": "فايكنغ",
+    "awayLogo": "https://jdwel.com/image/teams/2338.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "مولده",
+    "homeLogo": "https://jdwel.com/image/teams/nor_molde.png",
+    "away": "ساربسبورغ 08",
+    "awayLogo": "https://jdwel.com/image/teams/4849.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "كفوم",
+    "homeLogo": "https://jdwel.com/image/teams/773.png",
+    "away": "كريستيانسوند",
+    "awayLogo": "https://jdwel.com/image/teams/4829.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "فريدريكستاد",
+    "homeLogo": "https://jdwel.com/image/teams/nor_fredrikstad.png",
+    "away": "سانديفيورد",
+    "awayLogo": "https://jdwel.com/image/teams/nor_sandefjord.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "بران",
+    "homeLogo": "https://jdwel.com/image/teams/nor_brann.png",
+    "away": "روزنبورغ",
+    "awayLogo": "https://jdwel.com/image/teams/nor_rosenborg.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "بودو غليمت",
+    "homeLogo": "https://jdwel.com/image/teams/1459.png",
+    "away": "ليلستروم",
+    "awayLogo": "https://jdwel.com/image/teams/nor_lillestrom.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "فاليرينغا",
+    "homeLogo": "https://jdwel.com/image/teams/nor_valerenga.png",
+    "away": "بودو غليمت",
+    "awayLogo": "https://jdwel.com/image/teams/1459.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "فايكنغ",
+    "homeLogo": "https://jdwel.com/image/teams/2338.png",
+    "away": "ساربسبورغ 08",
+    "awayLogo": "https://jdwel.com/image/teams/4849.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "ستارت",
+    "homeLogo": "https://jdwel.com/image/teams/nor_start.png",
+    "away": "فريدريكستاد",
+    "awayLogo": "https://jdwel.com/image/teams/nor_fredrikstad.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "سانديفيورد",
+    "homeLogo": "https://jdwel.com/image/teams/nor_sandefjord.png",
+    "away": "كفوم",
+    "awayLogo": "https://jdwel.com/image/teams/773.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "ليلستروم",
+    "homeLogo": "https://jdwel.com/image/teams/nor_lillestrom.png",
+    "away": "روزنبورغ",
+    "awayLogo": "https://jdwel.com/image/teams/nor_rosenborg.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "كريستيانسوند",
+    "homeLogo": "https://jdwel.com/image/teams/4829.png",
+    "away": "مولده",
+    "awayLogo": "https://jdwel.com/image/teams/nor_molde.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "هام كام",
+    "homeLogo": "https://jdwel.com/image/teams/nor_hamkam.png",
+    "away": "أوليسوند",
+    "awayLogo": "https://jdwel.com/image/teams/nor_aalesund.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "أوليسوند",
+    "homeLogo": "https://jdwel.com/image/teams/nor_aalesund.png",
+    "away": "فاليرينغا",
+    "awayLogo": "https://jdwel.com/image/teams/nor_valerenga.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "ساربسبورغ 08",
+    "homeLogo": "https://jdwel.com/image/teams/4849.png",
+    "away": "سانديفيورد",
+    "awayLogo": "https://jdwel.com/image/teams/nor_sandefjord.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "روزنبورغ",
+    "homeLogo": "https://jdwel.com/image/teams/nor_rosenborg.png",
+    "away": "فايكنغ",
+    "awayLogo": "https://jdwel.com/image/teams/2338.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "مولده",
+    "homeLogo": "https://jdwel.com/image/teams/nor_molde.png",
+    "away": "ترومسو",
+    "awayLogo": "https://jdwel.com/image/teams/nor_tromso.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "كفوم",
+    "homeLogo": "https://jdwel.com/image/teams/773.png",
+    "away": "ليلستروم",
+    "awayLogo": "https://jdwel.com/image/teams/nor_lillestrom.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "فريدريكستاد",
+    "homeLogo": "https://jdwel.com/image/teams/nor_fredrikstad.png",
+    "away": "كريستيانسوند",
+    "awayLogo": "https://jdwel.com/image/teams/4829.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "بران",
+    "homeLogo": "https://jdwel.com/image/teams/nor_brann.png",
+    "away": "هام كام",
+    "awayLogo": "https://jdwel.com/image/teams/nor_hamkam.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "فاليرينغا",
+    "homeLogo": "https://jdwel.com/image/teams/nor_valerenga.png",
+    "away": "مولده",
+    "awayLogo": "https://jdwel.com/image/teams/nor_molde.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "فايكنغ",
+    "homeLogo": "https://jdwel.com/image/teams/2338.png",
+    "away": "أوليسوند",
+    "awayLogo": "https://jdwel.com/image/teams/nor_aalesund.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "ترومسو",
+    "homeLogo": "https://jdwel.com/image/teams/nor_tromso.png",
+    "away": "ساربسبورغ 08",
+    "awayLogo": "https://jdwel.com/image/teams/4849.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "ستارت",
+    "homeLogo": "https://jdwel.com/image/teams/nor_start.png",
+    "away": "كفوم",
+    "awayLogo": "https://jdwel.com/image/teams/773.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "سانديفيورد",
+    "homeLogo": "https://jdwel.com/image/teams/nor_sandefjord.png",
+    "away": "بران",
+    "awayLogo": "https://jdwel.com/image/teams/nor_brann.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "ليلستروم",
+    "homeLogo": "https://jdwel.com/image/teams/nor_lillestrom.png",
+    "away": "فريدريكستاد",
+    "awayLogo": "https://jdwel.com/image/teams/nor_fredrikstad.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "هام كام",
+    "homeLogo": "https://jdwel.com/image/teams/nor_hamkam.png",
+    "away": "كريستيانسوند",
+    "awayLogo": "https://jdwel.com/image/teams/4829.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "بودو غليمت",
+    "homeLogo": "https://jdwel.com/image/teams/1459.png",
+    "away": "روزنبورغ",
+    "awayLogo": "https://jdwel.com/image/teams/nor_rosenborg.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "أوليسوند",
+    "homeLogo": "https://jdwel.com/image/teams/nor_aalesund.png",
+    "away": "ستارت",
+    "awayLogo": "https://jdwel.com/image/teams/nor_start.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "ساربسبورغ 08",
+    "homeLogo": "https://jdwel.com/image/teams/4849.png",
+    "away": "فاليرينغا",
+    "awayLogo": "https://jdwel.com/image/teams/nor_valerenga.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "سانديفيورد",
+    "homeLogo": "https://jdwel.com/image/teams/nor_sandefjord.png",
+    "away": "فايكنغ",
+    "awayLogo": "https://jdwel.com/image/teams/2338.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "روزنبورغ",
+    "homeLogo": "https://jdwel.com/image/teams/nor_rosenborg.png",
+    "away": "هام كام",
+    "awayLogo": "https://jdwel.com/image/teams/nor_hamkam.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "مولده",
+    "homeLogo": "https://jdwel.com/image/teams/nor_molde.png",
+    "away": "كفوم",
+    "awayLogo": "https://jdwel.com/image/teams/773.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "كريستيانسوند",
+    "homeLogo": "https://jdwel.com/image/teams/4829.png",
+    "away": "ترومسو",
+    "awayLogo": "https://jdwel.com/image/teams/nor_tromso.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "فريدريكستاد",
+    "homeLogo": "https://jdwel.com/image/teams/nor_fredrikstad.png",
+    "away": "بودو غليمت",
+    "awayLogo": "https://jdwel.com/image/teams/1459.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "بران",
+    "homeLogo": "https://jdwel.com/image/teams/nor_brann.png",
+    "away": "ليلستروم",
+    "awayLogo": "https://jdwel.com/image/teams/nor_lillestrom.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "فايكنغ",
+    "homeLogo": "https://jdwel.com/image/teams/2338.png",
+    "away": "كريستيانسوند",
+    "awayLogo": "https://jdwel.com/image/teams/4829.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "ستارت",
+    "homeLogo": "https://jdwel.com/image/teams/nor_start.png",
+    "away": "بران",
+    "awayLogo": "https://jdwel.com/image/teams/nor_brann.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "روزنبورغ",
+    "homeLogo": "https://jdwel.com/image/teams/nor_rosenborg.png",
+    "away": "ترومسو",
+    "awayLogo": "https://jdwel.com/image/teams/nor_tromso.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "ليلستروم",
+    "homeLogo": "https://jdwel.com/image/teams/nor_lillestrom.png",
+    "away": "فاليرينغا",
+    "awayLogo": "https://jdwel.com/image/teams/nor_valerenga.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "كفوم",
+    "homeLogo": "https://jdwel.com/image/teams/773.png",
+    "away": "أوليسوند",
+    "awayLogo": "https://jdwel.com/image/teams/nor_aalesund.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "هام كام",
+    "homeLogo": "https://jdwel.com/image/teams/nor_hamkam.png",
+    "away": "مولده",
+    "awayLogo": "https://jdwel.com/image/teams/nor_molde.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "فريدريكستاد",
+    "homeLogo": "https://jdwel.com/image/teams/nor_fredrikstad.png",
+    "away": "ساربسبورغ 08",
+    "awayLogo": "https://jdwel.com/image/teams/4849.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "بودو غليمت",
+    "homeLogo": "https://jdwel.com/image/teams/1459.png",
+    "away": "سانديفيورد",
+    "awayLogo": "https://jdwel.com/image/teams/nor_sandefjord.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "فاليرينغا",
+    "homeLogo": "https://jdwel.com/image/teams/nor_valerenga.png",
+    "away": "فريدريكستاد",
+    "awayLogo": "https://jdwel.com/image/teams/nor_fredrikstad.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "فايكنغ",
+    "homeLogo": "https://jdwel.com/image/teams/2338.png",
+    "away": "ليلستروم",
+    "awayLogo": "https://jdwel.com/image/teams/nor_lillestrom.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "ترومسو",
+    "homeLogo": "https://jdwel.com/image/teams/nor_tromso.png",
+    "away": "هام كام",
+    "awayLogo": "https://jdwel.com/image/teams/nor_hamkam.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "ساربسبورغ 08",
+    "homeLogo": "https://jdwel.com/image/teams/4849.png",
+    "away": "كفوم",
+    "awayLogo": "https://jdwel.com/image/teams/773.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "سانديفيورد",
+    "homeLogo": "https://jdwel.com/image/teams/nor_sandefjord.png",
+    "away": "ستارت",
+    "awayLogo": "https://jdwel.com/image/teams/nor_start.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "مولده",
+    "homeLogo": "https://jdwel.com/image/teams/nor_molde.png",
+    "away": "أوليسوند",
+    "awayLogo": "https://jdwel.com/image/teams/nor_aalesund.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "كريستيانسوند",
+    "homeLogo": "https://jdwel.com/image/teams/4829.png",
+    "away": "روزنبورغ",
+    "awayLogo": "https://jdwel.com/image/teams/nor_rosenborg.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "بران",
+    "homeLogo": "https://jdwel.com/image/teams/nor_brann.png",
+    "away": "بودو غليمت",
+    "awayLogo": "https://jdwel.com/image/teams/1459.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "أوليسوند",
+    "homeLogo": "https://jdwel.com/image/teams/nor_aalesund.png",
+    "away": "ساربسبورغ 08",
+    "awayLogo": "https://jdwel.com/image/teams/4849.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "ستارت",
+    "homeLogo": "https://jdwel.com/image/teams/nor_start.png",
+    "away": "هام كام",
+    "awayLogo": "https://jdwel.com/image/teams/nor_hamkam.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "روزنبورغ",
+    "homeLogo": "https://jdwel.com/image/teams/nor_rosenborg.png",
+    "away": "سانديفيورد",
+    "awayLogo": "https://jdwel.com/image/teams/nor_sandefjord.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "ليلستروم",
+    "homeLogo": "https://jdwel.com/image/teams/nor_lillestrom.png",
+    "away": "مولده",
+    "awayLogo": "https://jdwel.com/image/teams/nor_molde.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "كفوم",
+    "homeLogo": "https://jdwel.com/image/teams/773.png",
+    "away": "فاليرينغا",
+    "awayLogo": "https://jdwel.com/image/teams/nor_valerenga.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "فريدريكستاد",
+    "homeLogo": "https://jdwel.com/image/teams/nor_fredrikstad.png",
+    "away": "ترومسو",
+    "awayLogo": "https://jdwel.com/image/teams/nor_tromso.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "بران",
+    "homeLogo": "https://jdwel.com/image/teams/nor_brann.png",
+    "away": "فايكنغ",
+    "awayLogo": "https://jdwel.com/image/teams/2338.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "بودو غليمت",
+    "homeLogo": "https://jdwel.com/image/teams/1459.png",
+    "away": "كريستيانسوند",
+    "awayLogo": "https://jdwel.com/image/teams/4829.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "فاليرينغا",
+    "homeLogo": "https://jdwel.com/image/teams/nor_valerenga.png",
+    "away": "بران",
+    "awayLogo": "https://jdwel.com/image/teams/nor_brann.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "فايكنغ",
+    "homeLogo": "https://jdwel.com/image/teams/2338.png",
+    "away": "فريدريكستاد",
+    "awayLogo": "https://jdwel.com/image/teams/nor_fredrikstad.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "ترومسو",
+    "homeLogo": "https://jdwel.com/image/teams/nor_tromso.png",
+    "away": "كفوم",
+    "awayLogo": "https://jdwel.com/image/teams/773.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "ساربسبورغ 08",
+    "homeLogo": "https://jdwel.com/image/teams/4849.png",
+    "away": "روزنبورغ",
+    "awayLogo": "https://jdwel.com/image/teams/nor_rosenborg.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "سانديفيورد",
+    "homeLogo": "https://jdwel.com/image/teams/nor_sandefjord.png",
+    "away": "ليلستروم",
+    "awayLogo": "https://jdwel.com/image/teams/nor_lillestrom.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "مولده",
+    "homeLogo": "https://jdwel.com/image/teams/nor_molde.png",
+    "away": "ستارت",
+    "awayLogo": "https://jdwel.com/image/teams/nor_start.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "كريستيانسوند",
+    "homeLogo": "https://jdwel.com/image/teams/4829.png",
+    "away": "أوليسوند",
+    "awayLogo": "https://jdwel.com/image/teams/nor_aalesund.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "هام كام",
+    "homeLogo": "https://jdwel.com/image/teams/nor_hamkam.png",
+    "away": "بودو غليمت",
+    "awayLogo": "https://jdwel.com/image/teams/1459.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "أوليسوند",
+    "homeLogo": "https://jdwel.com/image/teams/nor_aalesund.png",
+    "away": "سانديفيورد",
+    "awayLogo": "https://jdwel.com/image/teams/nor_sandefjord.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "فاليرينغا",
+    "homeLogo": "https://jdwel.com/image/teams/nor_valerenga.png",
+    "away": "ترومسو",
+    "awayLogo": "https://jdwel.com/image/teams/nor_tromso.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "ستارت",
+    "homeLogo": "https://jdwel.com/image/teams/nor_start.png",
+    "away": "ليلستروم",
+    "awayLogo": "https://jdwel.com/image/teams/nor_lillestrom.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "ساربسبورغ 08",
+    "homeLogo": "https://jdwel.com/image/teams/4849.png",
+    "away": "كريستيانسوند",
+    "awayLogo": "https://jdwel.com/image/teams/4829.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "كفوم",
+    "homeLogo": "https://jdwel.com/image/teams/773.png",
+    "away": "هام كام",
+    "awayLogo": "https://jdwel.com/image/teams/nor_hamkam.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "فريدريكستاد",
+    "homeLogo": "https://jdwel.com/image/teams/nor_fredrikstad.png",
+    "away": "روزنبورغ",
+    "awayLogo": "https://jdwel.com/image/teams/nor_rosenborg.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "بران",
+    "homeLogo": "https://jdwel.com/image/teams/nor_brann.png",
+    "away": "مولده",
+    "awayLogo": "https://jdwel.com/image/teams/nor_molde.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "بودو غليمت",
+    "homeLogo": "https://jdwel.com/image/teams/1459.png",
+    "away": "فايكنغ",
+    "awayLogo": "https://jdwel.com/image/teams/2338.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "فايكنغ",
+    "homeLogo": "https://jdwel.com/image/teams/2338.png",
+    "away": "كفوم",
+    "awayLogo": "https://jdwel.com/image/teams/773.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "ترومسو",
+    "homeLogo": "https://jdwel.com/image/teams/nor_tromso.png",
+    "away": "بودو غليمت",
+    "awayLogo": "https://jdwel.com/image/teams/1459.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "سانديفيورد",
+    "homeLogo": "https://jdwel.com/image/teams/nor_sandefjord.png",
+    "away": "مولده",
+    "awayLogo": "https://jdwel.com/image/teams/nor_molde.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "روزنبورغ",
+    "homeLogo": "https://jdwel.com/image/teams/nor_rosenborg.png",
+    "away": "ستارت",
+    "awayLogo": "https://jdwel.com/image/teams/nor_start.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "ليلستروم",
+    "homeLogo": "https://jdwel.com/image/teams/nor_lillestrom.png",
+    "away": "أوليسوند",
+    "awayLogo": "https://jdwel.com/image/teams/nor_aalesund.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "كريستيانسوند",
+    "homeLogo": "https://jdwel.com/image/teams/4829.png",
+    "away": "فاليرينغا",
+    "awayLogo": "https://jdwel.com/image/teams/nor_valerenga.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "هام كام",
+    "homeLogo": "https://jdwel.com/image/teams/nor_hamkam.png",
+    "away": "ساربسبورغ 08",
+    "awayLogo": "https://jdwel.com/image/teams/4849.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "فريدريكستاد",
+    "homeLogo": "https://jdwel.com/image/teams/nor_fredrikstad.png",
+    "away": "بران",
+    "awayLogo": "https://jdwel.com/image/teams/nor_brann.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "أوليسوند",
+    "homeLogo": "https://jdwel.com/image/teams/nor_aalesund.png",
+    "away": "روزنبورغ",
+    "awayLogo": "https://jdwel.com/image/teams/nor_rosenborg.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "فاليرينغا",
+    "homeLogo": "https://jdwel.com/image/teams/nor_valerenga.png",
+    "away": "ستارت",
+    "awayLogo": "https://jdwel.com/image/teams/nor_start.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "ترومسو",
+    "homeLogo": "https://jdwel.com/image/teams/nor_tromso.png",
+    "away": "فايكنغ",
+    "awayLogo": "https://jdwel.com/image/teams/2338.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "ساربسبورغ 08",
+    "homeLogo": "https://jdwel.com/image/teams/4849.png",
+    "away": "ليلستروم",
+    "awayLogo": "https://jdwel.com/image/teams/nor_lillestrom.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "مولده",
+    "homeLogo": "https://jdwel.com/image/teams/nor_molde.png",
+    "away": "بودو غليمت",
+    "awayLogo": "https://jdwel.com/image/teams/1459.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "كريستيانسوند",
+    "homeLogo": "https://jdwel.com/image/teams/4829.png",
+    "away": "سانديفيورد",
+    "awayLogo": "https://jdwel.com/image/teams/nor_sandefjord.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "كفوم",
+    "homeLogo": "https://jdwel.com/image/teams/773.png",
+    "away": "بران",
+    "awayLogo": "https://jdwel.com/image/teams/nor_brann.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "هام كام",
+    "homeLogo": "https://jdwel.com/image/teams/nor_hamkam.png",
+    "away": "فريدريكستاد",
+    "awayLogo": "https://jdwel.com/image/teams/nor_fredrikstad.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "فايكنغ",
+    "homeLogo": "https://jdwel.com/image/teams/2338.png",
+    "away": "فاليرينغا",
+    "awayLogo": "https://jdwel.com/image/teams/nor_valerenga.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "ستارت",
+    "homeLogo": "https://jdwel.com/image/teams/nor_start.png",
+    "away": "ساربسبورغ 08",
+    "awayLogo": "https://jdwel.com/image/teams/4849.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "سانديفيورد",
+    "homeLogo": "https://jdwel.com/image/teams/nor_sandefjord.png",
+    "away": "ترومسو",
+    "awayLogo": "https://jdwel.com/image/teams/nor_tromso.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "روزنبورغ",
+    "homeLogo": "https://jdwel.com/image/teams/nor_rosenborg.png",
+    "away": "مولده",
+    "awayLogo": "https://jdwel.com/image/teams/nor_molde.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "ليلستروم",
+    "homeLogo": "https://jdwel.com/image/teams/nor_lillestrom.png",
+    "away": "هام كام",
+    "awayLogo": "https://jdwel.com/image/teams/nor_hamkam.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "فريدريكستاد",
+    "homeLogo": "https://jdwel.com/image/teams/nor_fredrikstad.png",
+    "away": "أوليسوند",
+    "awayLogo": "https://jdwel.com/image/teams/nor_aalesund.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "بران",
+    "homeLogo": "https://jdwel.com/image/teams/nor_brann.png",
+    "away": "كريستيانسوند",
+    "awayLogo": "https://jdwel.com/image/teams/4829.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "بودو غليمت",
+    "homeLogo": "https://jdwel.com/image/teams/1459.png",
+    "away": "كفوم",
+    "awayLogo": "https://jdwel.com/image/teams/773.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "أوليسوند",
+    "homeLogo": "https://jdwel.com/image/teams/nor_aalesund.png",
+    "away": "بودو غليمت",
+    "awayLogo": "https://jdwel.com/image/teams/1459.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "فاليرينغا",
+    "homeLogo": "https://jdwel.com/image/teams/nor_valerenga.png",
+    "away": "روزنبورغ",
+    "awayLogo": "https://jdwel.com/image/teams/nor_rosenborg.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "ترومسو",
+    "homeLogo": "https://jdwel.com/image/teams/nor_tromso.png",
+    "away": "ستارت",
+    "awayLogo": "https://jdwel.com/image/teams/nor_start.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "ساربسبورغ 08",
+    "homeLogo": "https://jdwel.com/image/teams/4849.png",
+    "away": "بران",
+    "awayLogo": "https://jdwel.com/image/teams/nor_brann.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "مولده",
+    "homeLogo": "https://jdwel.com/image/teams/nor_molde.png",
+    "away": "فايكنغ",
+    "awayLogo": "https://jdwel.com/image/teams/2338.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "كريستيانسوند",
+    "homeLogo": "https://jdwel.com/image/teams/4829.png",
+    "away": "ليلستروم",
+    "awayLogo": "https://jdwel.com/image/teams/nor_lillestrom.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "كفوم",
+    "homeLogo": "https://jdwel.com/image/teams/773.png",
+    "away": "فريدريكستاد",
+    "awayLogo": "https://jdwel.com/image/teams/nor_fredrikstad.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "هام كام",
+    "homeLogo": "https://jdwel.com/image/teams/nor_hamkam.png",
+    "away": "سانديفيورد",
+    "awayLogo": "https://jdwel.com/image/teams/nor_sandefjord.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "فايكنغ",
+    "homeLogo": "https://jdwel.com/image/teams/2338.png",
+    "away": "هام كام",
+    "awayLogo": "https://jdwel.com/image/teams/nor_hamkam.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "ستارت",
+    "homeLogo": "https://jdwel.com/image/teams/nor_start.png",
+    "away": "كريستيانسوند",
+    "awayLogo": "https://jdwel.com/image/teams/4829.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "سانديفيورد",
+    "homeLogo": "https://jdwel.com/image/teams/nor_sandefjord.png",
+    "away": "فاليرينغا",
+    "awayLogo": "https://jdwel.com/image/teams/nor_valerenga.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "روزنبورغ",
+    "homeLogo": "https://jdwel.com/image/teams/nor_rosenborg.png",
+    "away": "كفوم",
+    "awayLogo": "https://jdwel.com/image/teams/773.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "ليلستروم",
+    "homeLogo": "https://jdwel.com/image/teams/nor_lillestrom.png",
+    "away": "ترومسو",
+    "awayLogo": "https://jdwel.com/image/teams/nor_tromso.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "فريدريكستاد",
+    "homeLogo": "https://jdwel.com/image/teams/nor_fredrikstad.png",
+    "away": "مولده",
+    "awayLogo": "https://jdwel.com/image/teams/nor_molde.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "بران",
+    "homeLogo": "https://jdwel.com/image/teams/nor_brann.png",
+    "away": "أوليسوند",
+    "awayLogo": "https://jdwel.com/image/teams/nor_aalesund.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "بودو غليمت",
+    "homeLogo": "https://jdwel.com/image/teams/1459.png",
+    "away": "ساربسبورغ 08",
+    "awayLogo": "https://jdwel.com/image/teams/4849.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  }
+]

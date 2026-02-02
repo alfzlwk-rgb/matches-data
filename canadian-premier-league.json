@@ -1,0 +1,938 @@
+[
+  {
+    "home": "أتلتيكو أوتاوا",
+    "homeLogo": "https://jdwel.com/image/teams/514.png",
+    "away": "كافالري",
+    "awayLogo": "https://jdwel.com/image/teams/518.png",
+    "score": "2 - 1",
+    "time": "12:00 ص"
+  },
+  {
+    "home": "فورجي",
+    "homeLogo": "https://jdwel.com/image/teams/519.png",
+    "away": "كافالري",
+    "awayLogo": "https://jdwel.com/image/teams/518.png",
+    "score": "0 - 1",
+    "time": "11:00 م"
+  },
+  {
+    "home": "كافالري",
+    "homeLogo": "https://jdwel.com/image/teams/518.png",
+    "away": "يورك يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/517.png",
+    "score": "4 - 1",
+    "time": "1:00 ص"
+  },
+  {
+    "home": "فورجي",
+    "homeLogo": "https://jdwel.com/image/teams/519.png",
+    "away": "أتلتيكو أوتاوا",
+    "awayLogo": "https://jdwel.com/image/teams/514.png",
+    "score": "1 - 2",
+    "time": "9:00 م"
+  },
+  {
+    "home": "هاليفاكس واندررز",
+    "homeLogo": "https://jdwel.com/image/teams/515.png",
+    "away": "يورك يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/517.png",
+    "score": "2 - 2 4 - 5",
+    "time": "1:30 ص"
+  },
+  {
+    "home": "هاليفاكس واندررز",
+    "homeLogo": "https://jdwel.com/image/teams/515.png",
+    "away": "أتلتيكو أوتاوا",
+    "awayLogo": "https://jdwel.com/image/teams/514.png",
+    "score": "0 - 1",
+    "time": "11:00 م"
+  },
+  {
+    "home": "فورجي",
+    "homeLogo": "https://jdwel.com/image/teams/519.png",
+    "away": "يورك يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/517.png",
+    "score": "3 - 0",
+    "time": "11:00 م"
+  },
+  {
+    "home": "فانكوفر",
+    "homeLogo": "https://jdwel.com/image/teams/512.png",
+    "away": "كافالري",
+    "awayLogo": "https://jdwel.com/image/teams/518.png",
+    "score": "2 - 2",
+    "time": "11:00 م"
+  },
+  {
+    "home": "باسيفيك",
+    "homeLogo": "https://jdwel.com/image/teams/513.png",
+    "away": "فالور",
+    "awayLogo": "https://jdwel.com/image/teams/516.png",
+    "score": "1 - 4",
+    "time": "11:00 م"
+  },
+  {
+    "home": "أتلتيكو أوتاوا",
+    "homeLogo": "https://jdwel.com/image/teams/514.png",
+    "away": "فانكوفر",
+    "awayLogo": "https://jdwel.com/image/teams/512.png",
+    "score": "0 - 0",
+    "time": "10:00 م"
+  },
+  {
+    "home": "فالور",
+    "homeLogo": "https://jdwel.com/image/teams/516.png",
+    "away": "هاليفاكس واندررز",
+    "awayLogo": "https://jdwel.com/image/teams/515.png",
+    "score": "0 - 3",
+    "time": "10:00 م"
+  },
+  {
+    "home": "كافالري",
+    "homeLogo": "https://jdwel.com/image/teams/518.png",
+    "away": "فورجي",
+    "awayLogo": "https://jdwel.com/image/teams/519.png",
+    "score": "1 - 1",
+    "time": "4:30 ص"
+  },
+  {
+    "home": "يورك يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/517.png",
+    "away": "باسيفيك",
+    "awayLogo": "https://jdwel.com/image/teams/513.png",
+    "score": "2 - 2",
+    "time": "2:30 ص"
+  },
+  {
+    "home": "باسيفيك",
+    "homeLogo": "https://jdwel.com/image/teams/513.png",
+    "away": "كافالري",
+    "awayLogo": "https://jdwel.com/image/teams/518.png",
+    "score": "3 - 3",
+    "time": "1:00 ص"
+  },
+  {
+    "home": "فالور",
+    "homeLogo": "https://jdwel.com/image/teams/516.png",
+    "away": "أتلتيكو أوتاوا",
+    "awayLogo": "https://jdwel.com/image/teams/514.png",
+    "score": "3 - 3",
+    "time": "10:00 م"
+  },
+  {
+    "home": "فورجي",
+    "homeLogo": "https://jdwel.com/image/teams/519.png",
+    "away": "فانكوفر",
+    "awayLogo": "https://jdwel.com/image/teams/512.png",
+    "score": "1 - 1",
+    "time": "11:30 م"
+  },
+  {
+    "home": "هاليفاكس واندررز",
+    "homeLogo": "https://jdwel.com/image/teams/515.png",
+    "away": "يورك يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/517.png",
+    "score": "1 - 1",
+    "time": "9:00 م"
+  },
+  {
+    "home": "فانكوفر",
+    "homeLogo": "https://jdwel.com/image/teams/512.png",
+    "away": "هاليفاكس واندررز",
+    "awayLogo": "https://jdwel.com/image/teams/515.png",
+    "score": "3 - 1",
+    "time": "1:00 ص"
+  },
+  {
+    "home": "يورك يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/517.png",
+    "away": "فالور",
+    "awayLogo": "https://jdwel.com/image/teams/516.png",
+    "score": "1 - 0",
+    "time": "10:00 م"
+  },
+  {
+    "home": "فورجي",
+    "homeLogo": "https://jdwel.com/image/teams/519.png",
+    "away": "باسيفيك",
+    "awayLogo": "https://jdwel.com/image/teams/513.png",
+    "score": "4 - 0",
+    "time": "11:00 م"
+  },
+  {
+    "home": "أتلتيكو أوتاوا",
+    "homeLogo": "https://jdwel.com/image/teams/514.png",
+    "away": "كافالري",
+    "awayLogo": "https://jdwel.com/image/teams/518.png",
+    "score": "3 - 0",
+    "time": "8:00 م"
+  },
+  {
+    "home": "فانكوفر",
+    "homeLogo": "https://jdwel.com/image/teams/512.png",
+    "away": "يورك يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/517.png",
+    "score": "2 - 1",
+    "time": "1:00 ص"
+  },
+  {
+    "home": "أتلتيكو أوتاوا",
+    "homeLogo": "https://jdwel.com/image/teams/514.png",
+    "away": "فورجي",
+    "awayLogo": "https://jdwel.com/image/teams/519.png",
+    "score": "1 - 1",
+    "time": "10:00 م"
+  },
+  {
+    "home": "كافالري",
+    "homeLogo": "https://jdwel.com/image/teams/518.png",
+    "away": "فالور",
+    "awayLogo": "https://jdwel.com/image/teams/516.png",
+    "score": "3 - 0",
+    "time": "1:00 ص"
+  },
+  {
+    "home": "هاليفاكس واندررز",
+    "homeLogo": "https://jdwel.com/image/teams/515.png",
+    "away": "باسيفيك",
+    "awayLogo": "https://jdwel.com/image/teams/513.png",
+    "score": "3 - 0",
+    "time": "10:00 م"
+  },
+  {
+    "home": "يورك يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/517.png",
+    "away": "أتلتيكو أوتاوا",
+    "awayLogo": "https://jdwel.com/image/teams/514.png",
+    "score": "2 - 2",
+    "time": "9:00 م"
+  },
+  {
+    "home": "باسيفيك",
+    "homeLogo": "https://jdwel.com/image/teams/513.png",
+    "away": "فانكوفر",
+    "awayLogo": "https://jdwel.com/image/teams/512.png",
+    "score": "1 - 1",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "كافالري",
+    "homeLogo": "https://jdwel.com/image/teams/518.png",
+    "away": "هاليفاكس واندررز",
+    "awayLogo": "https://jdwel.com/image/teams/515.png",
+    "score": "3 - 1",
+    "time": "11:00 م"
+  },
+  {
+    "home": "فالور",
+    "homeLogo": "https://jdwel.com/image/teams/516.png",
+    "away": "فورجي",
+    "awayLogo": "https://jdwel.com/image/teams/519.png",
+    "score": "2 - 1",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "أتلتيكو أوتاوا",
+    "homeLogo": "https://jdwel.com/image/teams/514.png",
+    "away": "باسيفيك",
+    "awayLogo": "https://jdwel.com/image/teams/513.png",
+    "score": "2 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "فورجي",
+    "homeLogo": "https://jdwel.com/image/teams/519.png",
+    "away": "هاليفاكس واندررز",
+    "awayLogo": "https://jdwel.com/image/teams/515.png",
+    "score": "1 - 0",
+    "time": "11:00 م"
+  },
+  {
+    "home": "فانكوفر",
+    "homeLogo": "https://jdwel.com/image/teams/512.png",
+    "away": "فالور",
+    "awayLogo": "https://jdwel.com/image/teams/516.png",
+    "score": "2 - 5",
+    "time": "5:30 ص"
+  },
+  {
+    "home": "يورك يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/517.png",
+    "away": "كافالري",
+    "awayLogo": "https://jdwel.com/image/teams/518.png",
+    "score": "3 - 1",
+    "time": "2:30 ص"
+  },
+  {
+    "home": "هاليفاكس واندررز",
+    "homeLogo": "https://jdwel.com/image/teams/515.png",
+    "away": "يورك يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/517.png",
+    "score": "4 - 0",
+    "time": "10:00 م"
+  },
+  {
+    "home": "فالور",
+    "homeLogo": "https://jdwel.com/image/teams/516.png",
+    "away": "باسيفيك",
+    "awayLogo": "https://jdwel.com/image/teams/513.png",
+    "score": "1 - 1",
+    "time": "10:00 م"
+  },
+  {
+    "home": "أتلتيكو أوتاوا",
+    "homeLogo": "https://jdwel.com/image/teams/514.png",
+    "away": "فانكوفر",
+    "awayLogo": "https://jdwel.com/image/teams/512.png",
+    "score": "3 - 1",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "كافالري",
+    "homeLogo": "https://jdwel.com/image/teams/518.png",
+    "away": "فورجي",
+    "awayLogo": "https://jdwel.com/image/teams/519.png",
+    "score": "4 - 1",
+    "time": "11:00 م"
+  },
+  {
+    "home": "يورك يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/517.png",
+    "away": "باسيفيك",
+    "awayLogo": "https://jdwel.com/image/teams/513.png",
+    "score": "5 - 1",
+    "time": "11:00 م"
+  },
+  {
+    "home": "أتلتيكو أوتاوا",
+    "homeLogo": "https://jdwel.com/image/teams/514.png",
+    "away": "كافالري",
+    "awayLogo": "https://jdwel.com/image/teams/518.png",
+    "score": "2 - 2",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "فانكوفر",
+    "homeLogo": "https://jdwel.com/image/teams/512.png",
+    "away": "فورجي",
+    "awayLogo": "https://jdwel.com/image/teams/519.png",
+    "score": "0 - 1",
+    "time": "5:00 ص"
+  },
+  {
+    "home": "هاليفاكس واندررز",
+    "homeLogo": "https://jdwel.com/image/teams/515.png",
+    "away": "فالور",
+    "awayLogo": "https://jdwel.com/image/teams/516.png",
+    "score": "4 - 1",
+    "time": "1:00 ص"
+  },
+  {
+    "home": "كافالري",
+    "homeLogo": "https://jdwel.com/image/teams/518.png",
+    "away": "فانكوفر",
+    "awayLogo": "https://jdwel.com/image/teams/512.png",
+    "score": "5 - 4",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "فورجي",
+    "homeLogo": "https://jdwel.com/image/teams/519.png",
+    "away": "أتلتيكو أوتاوا",
+    "awayLogo": "https://jdwel.com/image/teams/514.png",
+    "score": "2 - 0",
+    "time": "11:00 م"
+  },
+  {
+    "home": "فالور",
+    "homeLogo": "https://jdwel.com/image/teams/516.png",
+    "away": "يورك يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/517.png",
+    "score": "0 - 0",
+    "time": "8:30 م"
+  },
+  {
+    "home": "باسيفيك",
+    "homeLogo": "https://jdwel.com/image/teams/513.png",
+    "away": "هاليفاكس واندررز",
+    "awayLogo": "https://jdwel.com/image/teams/515.png",
+    "score": "2 - 2",
+    "time": "1:00 ص"
+  },
+  {
+    "home": "فانكوفر",
+    "homeLogo": "https://jdwel.com/image/teams/512.png",
+    "away": "باسيفيك",
+    "awayLogo": "https://jdwel.com/image/teams/513.png",
+    "score": "2 - 3",
+    "time": "1:00 ص"
+  },
+  {
+    "home": "فالور",
+    "homeLogo": "https://jdwel.com/image/teams/516.png",
+    "away": "أتلتيكو أوتاوا",
+    "awayLogo": "https://jdwel.com/image/teams/514.png",
+    "score": "1 - 2",
+    "time": "10:00 م"
+  },
+  {
+    "home": "كافالري",
+    "homeLogo": "https://jdwel.com/image/teams/518.png",
+    "away": "هاليفاكس واندررز",
+    "awayLogo": "https://jdwel.com/image/teams/515.png",
+    "score": "0 - 0",
+    "time": "12:00 ص"
+  },
+  {
+    "home": "يورك يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/517.png",
+    "away": "فورجي",
+    "awayLogo": "https://jdwel.com/image/teams/519.png",
+    "score": "1 - 2",
+    "time": "8:00 م"
+  },
+  {
+    "home": "باسيفيك",
+    "homeLogo": "https://jdwel.com/image/teams/513.png",
+    "away": "كافالري",
+    "awayLogo": "https://jdwel.com/image/teams/518.png",
+    "score": "1 - 0",
+    "time": "1:00 ص"
+  },
+  {
+    "home": "هاليفاكس واندررز",
+    "homeLogo": "https://jdwel.com/image/teams/515.png",
+    "away": "فانكوفر",
+    "awayLogo": "https://jdwel.com/image/teams/512.png",
+    "score": "1 - 2",
+    "time": "10:00 م"
+  },
+  {
+    "home": "أتلتيكو أوتاوا",
+    "homeLogo": "https://jdwel.com/image/teams/514.png",
+    "away": "يورك يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/517.png",
+    "score": "0 - 0",
+    "time": "11:00 م"
+  },
+  {
+    "home": "فورجي",
+    "homeLogo": "https://jdwel.com/image/teams/519.png",
+    "away": "فالور",
+    "awayLogo": "https://jdwel.com/image/teams/516.png",
+    "score": "5 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "فالور",
+    "homeLogo": "https://jdwel.com/image/teams/516.png",
+    "away": "كافالري",
+    "awayLogo": "https://jdwel.com/image/teams/518.png",
+    "score": "2 - 1",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "باسيفيك",
+    "homeLogo": "https://jdwel.com/image/teams/513.png",
+    "away": "أتلتيكو أوتاوا",
+    "awayLogo": "https://jdwel.com/image/teams/514.png",
+    "score": "0 - 2",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "كافالري",
+    "homeLogo": "https://jdwel.com/image/teams/518.png",
+    "away": "يورك يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/517.png",
+    "score": "0 - 1",
+    "time": "12:00 ص"
+  },
+  {
+    "home": "فانكوفر",
+    "homeLogo": "https://jdwel.com/image/teams/512.png",
+    "away": "فالور",
+    "awayLogo": "https://jdwel.com/image/teams/516.png",
+    "score": "1 - 3",
+    "time": "5:00 ص"
+  },
+  {
+    "home": "هاليفاكس واندررز",
+    "homeLogo": "https://jdwel.com/image/teams/515.png",
+    "away": "فورجي",
+    "awayLogo": "https://jdwel.com/image/teams/519.png",
+    "score": "1 - 2",
+    "time": "1:00 ص"
+  },
+  {
+    "home": "فالور",
+    "homeLogo": "https://jdwel.com/image/teams/516.png",
+    "away": "كافالري",
+    "awayLogo": "https://jdwel.com/image/teams/518.png",
+    "score": "1 - 2",
+    "time": "10:00 م"
+  },
+  {
+    "home": "يورك يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/517.png",
+    "away": "فانكوفر",
+    "awayLogo": "https://jdwel.com/image/teams/512.png",
+    "score": "4 - 0",
+    "time": "11:00 م"
+  },
+  {
+    "home": "أتلتيكو أوتاوا",
+    "homeLogo": "https://jdwel.com/image/teams/514.png",
+    "away": "هاليفاكس واندررز",
+    "awayLogo": "https://jdwel.com/image/teams/515.png",
+    "score": "2 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "فورجي",
+    "homeLogo": "https://jdwel.com/image/teams/519.png",
+    "away": "باسيفيك",
+    "awayLogo": "https://jdwel.com/image/teams/513.png",
+    "score": "2 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "فانكوفر",
+    "homeLogo": "https://jdwel.com/image/teams/512.png",
+    "away": "كافالري",
+    "awayLogo": "https://jdwel.com/image/teams/518.png",
+    "score": "0 - 0",
+    "time": "4:00 ص"
+  },
+  {
+    "home": "يورك يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/517.png",
+    "away": "فالور",
+    "awayLogo": "https://jdwel.com/image/teams/516.png",
+    "score": "3 - 2",
+    "time": "1:00 ص"
+  },
+  {
+    "home": "باسيفيك",
+    "homeLogo": "https://jdwel.com/image/teams/513.png",
+    "away": "هاليفاكس واندررز",
+    "awayLogo": "https://jdwel.com/image/teams/515.png",
+    "score": "3 - 2",
+    "time": "1:00 ص"
+  },
+  {
+    "home": "أتلتيكو أوتاوا",
+    "homeLogo": "https://jdwel.com/image/teams/514.png",
+    "away": "فورجي",
+    "awayLogo": "https://jdwel.com/image/teams/519.png",
+    "score": "1 - 1",
+    "time": "10:00 م"
+  },
+  {
+    "home": "فورجي",
+    "homeLogo": "https://jdwel.com/image/teams/519.png",
+    "away": "فانكوفر",
+    "awayLogo": "https://jdwel.com/image/teams/512.png",
+    "score": "2 - 1",
+    "time": "12:00 ص"
+  },
+  {
+    "home": "هاليفاكس واندررز",
+    "homeLogo": "https://jdwel.com/image/teams/515.png",
+    "away": "فالور",
+    "awayLogo": "https://jdwel.com/image/teams/516.png",
+    "score": "3 - 1",
+    "time": "10:00 م"
+  },
+  {
+    "home": "فورجي",
+    "homeLogo": "https://jdwel.com/image/teams/519.png",
+    "away": "يورك يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/517.png",
+    "score": "2 - 2",
+    "time": "11:00 م"
+  },
+  {
+    "home": "كافالري",
+    "homeLogo": "https://jdwel.com/image/teams/518.png",
+    "away": "أتلتيكو أوتاوا",
+    "awayLogo": "https://jdwel.com/image/teams/514.png",
+    "score": "0 - 2",
+    "time": "1:00 ص"
+  },
+  {
+    "home": "باسيفيك",
+    "homeLogo": "https://jdwel.com/image/teams/513.png",
+    "away": "فانكوفر",
+    "awayLogo": "https://jdwel.com/image/teams/512.png",
+    "score": "4 - 4",
+    "time": "5:00 ص"
+  },
+  {
+    "home": "كافالري",
+    "homeLogo": "https://jdwel.com/image/teams/518.png",
+    "away": "باسيفيك",
+    "awayLogo": "https://jdwel.com/image/teams/513.png",
+    "score": "1 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "فالور",
+    "homeLogo": "https://jdwel.com/image/teams/516.png",
+    "away": "فورجي",
+    "awayLogo": "https://jdwel.com/image/teams/519.png",
+    "score": "0 - 5",
+    "time": "11:30 م"
+  },
+  {
+    "home": "يورك يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/517.png",
+    "away": "أتلتيكو أوتاوا",
+    "awayLogo": "https://jdwel.com/image/teams/514.png",
+    "score": "0 - 0",
+    "time": "8:00 م"
+  },
+  {
+    "home": "هاليفاكس واندررز",
+    "homeLogo": "https://jdwel.com/image/teams/515.png",
+    "away": "فانكوفر",
+    "awayLogo": "https://jdwel.com/image/teams/512.png",
+    "score": "1 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "أتلتيكو أوتاوا",
+    "homeLogo": "https://jdwel.com/image/teams/514.png",
+    "away": "فالور",
+    "awayLogo": "https://jdwel.com/image/teams/516.png",
+    "score": "3 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "فانكوفر",
+    "homeLogo": "https://jdwel.com/image/teams/512.png",
+    "away": "فورجي",
+    "awayLogo": "https://jdwel.com/image/teams/519.png",
+    "score": "0 - 2",
+    "time": "11:00 م"
+  },
+  {
+    "home": "باسيفيك",
+    "homeLogo": "https://jdwel.com/image/teams/513.png",
+    "away": "يورك يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/517.png",
+    "score": "1 - 3",
+    "time": "1:00 ص"
+  },
+  {
+    "home": "هاليفاكس واندررز",
+    "homeLogo": "https://jdwel.com/image/teams/515.png",
+    "away": "كافالري",
+    "awayLogo": "https://jdwel.com/image/teams/518.png",
+    "score": "1 - 1",
+    "time": "10:00 م"
+  },
+  {
+    "home": "كافالري",
+    "homeLogo": "https://jdwel.com/image/teams/518.png",
+    "away": "يورك يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/517.png",
+    "score": "2 - 1",
+    "time": "1:00 ص"
+  },
+  {
+    "home": "فورجي",
+    "homeLogo": "https://jdwel.com/image/teams/519.png",
+    "away": "هاليفاكس واندررز",
+    "awayLogo": "https://jdwel.com/image/teams/515.png",
+    "score": "2 - 1",
+    "time": "10:30 م"
+  },
+  {
+    "home": "باسيفيك",
+    "homeLogo": "https://jdwel.com/image/teams/513.png",
+    "away": "أتلتيكو أوتاوا",
+    "awayLogo": "https://jdwel.com/image/teams/514.png",
+    "score": "0 - 1",
+    "time": "1:00 ص"
+  },
+  {
+    "home": "فالور",
+    "homeLogo": "https://jdwel.com/image/teams/516.png",
+    "away": "فانكوفر",
+    "awayLogo": "https://jdwel.com/image/teams/512.png",
+    "score": "3 - 1",
+    "time": "7:30 م"
+  },
+  {
+    "home": "فالور",
+    "homeLogo": "https://jdwel.com/image/teams/516.png",
+    "away": "باسيفيك",
+    "awayLogo": "https://jdwel.com/image/teams/513.png",
+    "score": "0 - 0",
+    "time": "1:00 ص"
+  },
+  {
+    "home": "يورك يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/517.png",
+    "away": "هاليفاكس واندررز",
+    "awayLogo": "https://jdwel.com/image/teams/515.png",
+    "score": "2 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "فورجي",
+    "homeLogo": "https://jdwel.com/image/teams/519.png",
+    "away": "كافالري",
+    "awayLogo": "https://jdwel.com/image/teams/518.png",
+    "score": "1 - 1",
+    "time": "12:00 ص"
+  },
+  {
+    "home": "فانكوفر",
+    "homeLogo": "https://jdwel.com/image/teams/512.png",
+    "away": "أتلتيكو أوتاوا",
+    "awayLogo": "https://jdwel.com/image/teams/514.png",
+    "score": "2 - 2",
+    "time": "5:00 ص"
+  },
+  {
+    "home": "كافالري",
+    "homeLogo": "https://jdwel.com/image/teams/518.png",
+    "away": "فالور",
+    "awayLogo": "https://jdwel.com/image/teams/516.png",
+    "score": "4 - 0",
+    "time": "12:00 ص"
+  },
+  {
+    "home": "يورك يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/517.png",
+    "away": "فانكوفر",
+    "awayLogo": "https://jdwel.com/image/teams/512.png",
+    "score": "1 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "باسيفيك",
+    "homeLogo": "https://jdwel.com/image/teams/513.png",
+    "away": "فورجي",
+    "awayLogo": "https://jdwel.com/image/teams/519.png",
+    "score": "0 - 1",
+    "time": "12:00 ص"
+  },
+  {
+    "home": "هاليفاكس واندررز",
+    "homeLogo": "https://jdwel.com/image/teams/515.png",
+    "away": "أتلتيكو أوتاوا",
+    "awayLogo": "https://jdwel.com/image/teams/514.png",
+    "score": "2 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "فانكوفر",
+    "homeLogo": "https://jdwel.com/image/teams/512.png",
+    "away": "هاليفاكس واندررز",
+    "awayLogo": "https://jdwel.com/image/teams/515.png",
+    "score": "0 - 2",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "كافالري",
+    "homeLogo": "https://jdwel.com/image/teams/518.png",
+    "away": "باسيفيك",
+    "awayLogo": "https://jdwel.com/image/teams/513.png",
+    "score": "4 - 0",
+    "time": "12:30 ص"
+  },
+  {
+    "home": "فالور",
+    "homeLogo": "https://jdwel.com/image/teams/516.png",
+    "away": "يورك يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/517.png",
+    "score": "2 - 1",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "فورجي",
+    "homeLogo": "https://jdwel.com/image/teams/519.png",
+    "away": "أتلتيكو أوتاوا",
+    "awayLogo": "https://jdwel.com/image/teams/514.png",
+    "score": "2 - 2",
+    "time": "6:00 م"
+  },
+  {
+    "home": "باسيفيك",
+    "homeLogo": "https://jdwel.com/image/teams/513.png",
+    "away": "يورك يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/517.png",
+    "score": "2 - 1",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "هاليفاكس واندررز",
+    "homeLogo": "https://jdwel.com/image/teams/515.png",
+    "away": "كافالري",
+    "awayLogo": "https://jdwel.com/image/teams/518.png",
+    "score": "0 - 3",
+    "time": "12:30 ص"
+  },
+  {
+    "home": "أتلتيكو أوتاوا",
+    "homeLogo": "https://jdwel.com/image/teams/514.png",
+    "away": "فالور",
+    "awayLogo": "https://jdwel.com/image/teams/516.png",
+    "score": "5 - 2",
+    "time": "9:00 م"
+  },
+  {
+    "home": "فالور",
+    "homeLogo": "https://jdwel.com/image/teams/516.png",
+    "away": "فانكوفر",
+    "awayLogo": "https://jdwel.com/image/teams/512.png",
+    "score": "1 - 3",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "هاليفاكس واندررز",
+    "homeLogo": "https://jdwel.com/image/teams/515.png",
+    "away": "فورجي",
+    "awayLogo": "https://jdwel.com/image/teams/519.png",
+    "score": "0 - 0",
+    "time": "11:00 م"
+  },
+  {
+    "home": "أتلتيكو أوتاوا",
+    "homeLogo": "https://jdwel.com/image/teams/514.png",
+    "away": "باسيفيك",
+    "awayLogo": "https://jdwel.com/image/teams/513.png",
+    "score": "3 - 1",
+    "time": "8:00 م"
+  },
+  {
+    "home": "يورك يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/517.png",
+    "away": "كافالري",
+    "awayLogo": "https://jdwel.com/image/teams/518.png",
+    "score": "1 - 2",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "يورك يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/517.png",
+    "away": "فورجي",
+    "awayLogo": "https://jdwel.com/image/teams/519.png",
+    "score": "2 - 2",
+    "time": "9:00 م"
+  },
+  {
+    "home": "فانكوفر",
+    "homeLogo": "https://jdwel.com/image/teams/512.png",
+    "away": "باسيفيك",
+    "awayLogo": "https://jdwel.com/image/teams/513.png",
+    "score": "1 - 1",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "كافالري",
+    "homeLogo": "https://jdwel.com/image/teams/518.png",
+    "away": "أتلتيكو أوتاوا",
+    "awayLogo": "https://jdwel.com/image/teams/514.png",
+    "score": "1 - 3",
+    "time": "12:00 ص"
+  },
+  {
+    "home": "فالور",
+    "homeLogo": "https://jdwel.com/image/teams/516.png",
+    "away": "هاليفاكس واندررز",
+    "awayLogo": "https://jdwel.com/image/teams/515.png",
+    "score": "0 - 1",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "فورجي",
+    "homeLogo": "https://jdwel.com/image/teams/519.png",
+    "away": "فالور",
+    "awayLogo": "https://jdwel.com/image/teams/516.png",
+    "score": "1 - 1",
+    "time": "12:00 ص"
+  },
+  {
+    "home": "هاليفاكس واندررز",
+    "homeLogo": "https://jdwel.com/image/teams/515.png",
+    "away": "باسيفيك",
+    "awayLogo": "https://jdwel.com/image/teams/513.png",
+    "score": "3 - 1",
+    "time": "9:30 م"
+  },
+  {
+    "home": "أتلتيكو أوتاوا",
+    "homeLogo": "https://jdwel.com/image/teams/514.png",
+    "away": "يورك يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/517.png",
+    "score": "3 - 2",
+    "time": "7:00 م"
+  },
+  {
+    "home": "كافالري",
+    "homeLogo": "https://jdwel.com/image/teams/518.png",
+    "away": "فانكوفر",
+    "awayLogo": "https://jdwel.com/image/teams/512.png",
+    "score": "1 - 1",
+    "time": "1:00 ص"
+  },
+  {
+    "home": "فانكوفر",
+    "homeLogo": "https://jdwel.com/image/teams/512.png",
+    "away": "أتلتيكو أوتاوا",
+    "awayLogo": "https://jdwel.com/image/teams/514.png",
+    "score": "1 - 4",
+    "time": "12:00 ص"
+  },
+  {
+    "home": "يورك يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/517.png",
+    "away": "هاليفاكس واندررز",
+    "awayLogo": "https://jdwel.com/image/teams/515.png",
+    "score": "1 - 2",
+    "time": "9:00 م"
+  },
+  {
+    "home": "باسيفيك",
+    "homeLogo": "https://jdwel.com/image/teams/513.png",
+    "away": "فورجي",
+    "awayLogo": "https://jdwel.com/image/teams/519.png",
+    "score": "0 - 2",
+    "time": "11:00 م"
+  },
+  {
+    "home": "فانكوفر",
+    "homeLogo": "https://jdwel.com/image/teams/512.png",
+    "away": "يورك يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/517.png",
+    "score": "0 - 2",
+    "time": "1:00 ص"
+  },
+  {
+    "home": "باسيفيك",
+    "homeLogo": "https://jdwel.com/image/teams/513.png",
+    "away": "فالور",
+    "awayLogo": "https://jdwel.com/image/teams/516.png",
+    "score": "2 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "فورجي",
+    "homeLogo": "https://jdwel.com/image/teams/519.png",
+    "away": "كافالري",
+    "awayLogo": "https://jdwel.com/image/teams/518.png",
+    "score": "1 - 0",
+    "time": "11:30 م"
+  },
+  {
+    "home": "أتلتيكو أوتاوا",
+    "homeLogo": "https://jdwel.com/image/teams/514.png",
+    "away": "هاليفاكس واندررز",
+    "awayLogo": "https://jdwel.com/image/teams/515.png",
+    "score": "2 - 2",
+    "time": "8:00 م"
+  }
+]

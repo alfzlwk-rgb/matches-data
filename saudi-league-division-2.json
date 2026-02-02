@@ -1,0 +1,3842 @@
+[
+  {
+    "home": "الروضة",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al_rawdhah.png",
+    "away": "النجوم",
+    "awayLogo": "https://jdwel.com/image/teams/11.png",
+    "score": "1 - 1",
+    "time": "3:15 م"
+  },
+  {
+    "home": "الشعلة",
+    "homeLogo": "https://jdwel.com/image/teams/2798.png",
+    "away": "السد",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al-sadd.png",
+    "score": "0 - 2",
+    "time": "3:25 م"
+  },
+  {
+    "home": "الوشم",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al-washm_v2.png",
+    "away": "الساحل",
+    "awayLogo": "https://jdwel.com/image/teams/3241.png",
+    "score": "0 - 1",
+    "time": "3:35 م"
+  },
+  {
+    "home": "عفيف",
+    "homeLogo": "https://jdwel.com/image/teams/sau_afief.png",
+    "away": "الجيل",
+    "awayLogo": "https://jdwel.com/image/teams/951.png",
+    "score": "3 - 2",
+    "time": "3:45 م"
+  },
+  {
+    "home": "العين",
+    "homeLogo": "https://jdwel.com/image/teams/3242.png",
+    "away": "جبة",
+    "awayLogo": "https://jdwel.com/image/teams/3946.png",
+    "score": "1 - 0",
+    "time": "3:50 م"
+  },
+  {
+    "home": "الإنتصار",
+    "homeLogo": "https://jdwel.com/image/teams/379.png",
+    "away": "نجران",
+    "awayLogo": "https://jdwel.com/image/teams/3240.png",
+    "score": "1 - 2",
+    "time": "4:00 م"
+  },
+  {
+    "home": "الترجي",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al_taraji.png",
+    "away": "الشرق",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al_sharq.png",
+    "score": "3 - 3",
+    "time": "6:05 م"
+  },
+  {
+    "home": "الصفا",
+    "homeLogo": "https://jdwel.com/image/teams/3239.png",
+    "away": "القلعة",
+    "awayLogo": "https://jdwel.com/image/teams/3947.png",
+    "score": "0 - 2",
+    "time": "3:15 م"
+  },
+  {
+    "home": "مضر",
+    "homeLogo": "https://jdwel.com/image/teams/sau_mudhar.png",
+    "away": "هجر",
+    "awayLogo": "https://jdwel.com/image/teams/sau_hajer.png",
+    "score": "0 - 0",
+    "time": "3:15 م"
+  },
+  {
+    "home": "النعيرية",
+    "homeLogo": "https://jdwel.com/image/teams/sau_alnairyah.png",
+    "away": "أحد",
+    "awayLogo": "https://jdwel.com/image/teams/2799.png",
+    "score": "3 - 0",
+    "time": "3:20 م"
+  },
+  {
+    "home": "الكوكب",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al-kawkab.png",
+    "away": "الريان",
+    "awayLogo": "https://jdwel.com/image/teams/3303.png",
+    "score": "0 - 1",
+    "time": "3:25 م"
+  },
+  {
+    "home": "طويق",
+    "homeLogo": "https://jdwel.com/image/teams/sau_tuwaiq.png",
+    "away": "جرش",
+    "awayLogo": "https://jdwel.com/image/teams/4935.png",
+    "score": "0 - 6",
+    "time": "3:35 م"
+  },
+  {
+    "home": "الصقر",
+    "homeLogo": "https://jdwel.com/image/teams/371.png",
+    "away": "بيشة",
+    "awayLogo": "https://jdwel.com/image/teams/sau_bisha.png",
+    "score": "3 - 0",
+    "time": "3:40 م"
+  },
+  {
+    "home": "القوس",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al_qous.png",
+    "away": "اللواء",
+    "awayLogo": "https://jdwel.com/image/teams/3321.png",
+    "score": "1 - 3",
+    "time": "3:45 م"
+  },
+  {
+    "home": "الغوطة",
+    "homeLogo": "https://jdwel.com/image/teams/593.png",
+    "away": "وج",
+    "awayLogo": "https://jdwel.com/image/teams/4520.png",
+    "score": "1 - 3",
+    "time": "3:45 م"
+  },
+  {
+    "home": "عرعر",
+    "homeLogo": "https://jdwel.com/image/teams/sau_arar_v2.png",
+    "away": "حطين",
+    "awayLogo": "https://jdwel.com/image/teams/1126.png",
+    "score": "0 - 2",
+    "time": "3:50 م"
+  },
+  {
+    "home": "الساحل",
+    "homeLogo": "https://jdwel.com/image/teams/3241.png",
+    "away": "العين",
+    "awayLogo": "https://jdwel.com/image/teams/3242.png",
+    "score": "0 - 0",
+    "time": "3:10 م"
+  },
+  {
+    "home": "النجوم",
+    "homeLogo": "https://jdwel.com/image/teams/11.png",
+    "away": "الشعلة",
+    "awayLogo": "https://jdwel.com/image/teams/2798.png",
+    "score": "0 - 0",
+    "time": "3:10 م"
+  },
+  {
+    "home": "الجيل",
+    "homeLogo": "https://jdwel.com/image/teams/951.png",
+    "away": "الإنتصار",
+    "awayLogo": "https://jdwel.com/image/teams/379.png",
+    "score": "0 - 1",
+    "time": "3:10 م"
+  },
+  {
+    "home": "الشرق",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al_sharq.png",
+    "away": "الروضة",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al_rawdhah.png",
+    "score": "0 - 0",
+    "time": "3:20 م"
+  },
+  {
+    "home": "السد",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al-sadd.png",
+    "away": "طويق",
+    "awayLogo": "https://jdwel.com/image/teams/sau_tuwaiq.png",
+    "score": "1 - 1",
+    "time": "3:20 م"
+  },
+  {
+    "home": "نجران",
+    "homeLogo": "https://jdwel.com/image/teams/3240.png",
+    "away": "الوشم",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al-washm_v2.png",
+    "score": "1 - 1",
+    "time": "3:35 م"
+  },
+  {
+    "home": "جرش",
+    "homeLogo": "https://jdwel.com/image/teams/4935.png",
+    "away": "الترجي",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al_taraji.png",
+    "score": "2 - 2",
+    "time": "3:40 م"
+  },
+  {
+    "home": "جبة",
+    "homeLogo": "https://jdwel.com/image/teams/3946.png",
+    "away": "عفيف",
+    "awayLogo": "https://jdwel.com/image/teams/sau_afief.png",
+    "score": "0 - 1",
+    "time": "3:45 م"
+  },
+  {
+    "home": "هجر",
+    "homeLogo": "https://jdwel.com/image/teams/sau_hajer.png",
+    "away": "القوس",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al_qous.png",
+    "score": "1 - 0",
+    "time": "3:10 م"
+  },
+  {
+    "home": "الريان",
+    "homeLogo": "https://jdwel.com/image/teams/3303.png",
+    "away": "الصفا",
+    "awayLogo": "https://jdwel.com/image/teams/3239.png",
+    "score": "1 - 1",
+    "time": "3:40 م"
+  },
+  {
+    "home": "بيشة",
+    "homeLogo": "https://jdwel.com/image/teams/sau_bisha.png",
+    "away": "مضر",
+    "awayLogo": "https://jdwel.com/image/teams/sau_mudhar.png",
+    "score": "0 - 1",
+    "time": "3:40 م"
+  },
+  {
+    "home": "حطين",
+    "homeLogo": "https://jdwel.com/image/teams/1126.png",
+    "away": "الصقر",
+    "awayLogo": "https://jdwel.com/image/teams/371.png",
+    "score": "1 - 2",
+    "time": "3:40 م"
+  },
+  {
+    "home": "اللواء",
+    "homeLogo": "https://jdwel.com/image/teams/3321.png",
+    "away": "عرعر",
+    "awayLogo": "https://jdwel.com/image/teams/sau_arar_v2.png",
+    "score": "3 - 0",
+    "time": "3:40 م"
+  },
+  {
+    "home": "القلعة",
+    "homeLogo": "https://jdwel.com/image/teams/3947.png",
+    "away": "النعيرية",
+    "awayLogo": "https://jdwel.com/image/teams/sau_alnairyah.png",
+    "score": "2 - 0",
+    "time": "3:45 م"
+  },
+  {
+    "home": "وج",
+    "homeLogo": "https://jdwel.com/image/teams/4520.png",
+    "away": "الكوكب",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al-kawkab.png",
+    "score": "2 - 0",
+    "time": "3:50 م"
+  },
+  {
+    "home": "أحد",
+    "homeLogo": "https://jdwel.com/image/teams/2799.png",
+    "away": "الغوطة",
+    "awayLogo": "https://jdwel.com/image/teams/593.png",
+    "score": "0 - 3",
+    "time": "3:50 م"
+  },
+  {
+    "home": "الشعلة",
+    "homeLogo": "https://jdwel.com/image/teams/2798.png",
+    "away": "الشرق",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al_sharq.png",
+    "score": "2 - 1",
+    "time": "3:15 م"
+  },
+  {
+    "home": "السد",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al-sadd.png",
+    "away": "الترجي",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al_taraji.png",
+    "score": "0 - 0",
+    "time": "3:20 م"
+  },
+  {
+    "home": "طويق",
+    "homeLogo": "https://jdwel.com/image/teams/sau_tuwaiq.png",
+    "away": "النجوم",
+    "awayLogo": "https://jdwel.com/image/teams/11.png",
+    "score": "1 - 1",
+    "time": "3:25 م"
+  },
+  {
+    "home": "الوشم",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al-washm_v2.png",
+    "away": "الجيل",
+    "awayLogo": "https://jdwel.com/image/teams/951.png",
+    "score": "0 - 2",
+    "time": "3:25 م"
+  },
+  {
+    "home": "عفيف",
+    "homeLogo": "https://jdwel.com/image/teams/sau_afief.png",
+    "away": "الساحل",
+    "awayLogo": "https://jdwel.com/image/teams/3241.png",
+    "score": "0 - 2",
+    "time": "3:35 م"
+  },
+  {
+    "home": "العين",
+    "homeLogo": "https://jdwel.com/image/teams/3242.png",
+    "away": "نجران",
+    "awayLogo": "https://jdwel.com/image/teams/3240.png",
+    "score": "3 - 1",
+    "time": "3:40 م"
+  },
+  {
+    "home": "جرش",
+    "homeLogo": "https://jdwel.com/image/teams/4935.png",
+    "away": "الروضة",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al_rawdhah.png",
+    "score": "1 - 0",
+    "time": "3:40 م"
+  },
+  {
+    "home": "الإنتصار",
+    "homeLogo": "https://jdwel.com/image/teams/379.png",
+    "away": "جبة",
+    "awayLogo": "https://jdwel.com/image/teams/3946.png",
+    "score": "1 - 1",
+    "time": "3:50 م"
+  },
+  {
+    "home": "هجر",
+    "homeLogo": "https://jdwel.com/image/teams/sau_hajer.png",
+    "away": "عرعر",
+    "awayLogo": "https://jdwel.com/image/teams/sau_arar_v2.png",
+    "score": "1 - 0",
+    "time": "3:05 م"
+  },
+  {
+    "home": "مضر",
+    "homeLogo": "https://jdwel.com/image/teams/sau_mudhar.png",
+    "away": "حطين",
+    "awayLogo": "https://jdwel.com/image/teams/1126.png",
+    "score": "3 - 0",
+    "time": "3:05 م"
+  },
+  {
+    "home": "الصفا",
+    "homeLogo": "https://jdwel.com/image/teams/3239.png",
+    "away": "وج",
+    "awayLogo": "https://jdwel.com/image/teams/4520.png",
+    "score": "2 - 1",
+    "time": "3:05 م"
+  },
+  {
+    "home": "النعيرية",
+    "homeLogo": "https://jdwel.com/image/teams/sau_alnairyah.png",
+    "away": "الريان",
+    "awayLogo": "https://jdwel.com/image/teams/3303.png",
+    "score": "2 - 1",
+    "time": "3:10 م"
+  },
+  {
+    "home": "الكوكب",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al-kawkab.png",
+    "away": "أحد",
+    "awayLogo": "https://jdwel.com/image/teams/2799.png",
+    "score": "3 - 1",
+    "time": "3:15 م"
+  },
+  {
+    "home": "الصقر",
+    "homeLogo": "https://jdwel.com/image/teams/371.png",
+    "away": "اللواء",
+    "awayLogo": "https://jdwel.com/image/teams/3321.png",
+    "score": "1 - 1",
+    "time": "3:30 م"
+  },
+  {
+    "home": "بيشة",
+    "homeLogo": "https://jdwel.com/image/teams/sau_bisha.png",
+    "away": "القوس",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al_qous.png",
+    "score": "1 - 1",
+    "time": "3:35 م"
+  },
+  {
+    "home": "الغوطة",
+    "homeLogo": "https://jdwel.com/image/teams/593.png",
+    "away": "القلعة",
+    "awayLogo": "https://jdwel.com/image/teams/3947.png",
+    "score": "0 - 1",
+    "time": "3:35 م"
+  },
+  {
+    "home": "جبة",
+    "homeLogo": "https://jdwel.com/image/teams/3946.png",
+    "away": "الوشم",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al-washm_v2.png",
+    "score": "1 - 2",
+    "time": "3:35 م"
+  },
+  {
+    "home": "الساحل",
+    "homeLogo": "https://jdwel.com/image/teams/3241.png",
+    "away": "الجيل",
+    "awayLogo": "https://jdwel.com/image/teams/951.png",
+    "score": "0 - 2",
+    "time": "3:00 م"
+  },
+  {
+    "home": "الترجي",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al_taraji.png",
+    "away": "الشعلة",
+    "awayLogo": "https://jdwel.com/image/teams/2798.png",
+    "score": "2 - 2",
+    "time": "3:00 م"
+  },
+  {
+    "home": "النجوم",
+    "homeLogo": "https://jdwel.com/image/teams/11.png",
+    "away": "جرش",
+    "awayLogo": "https://jdwel.com/image/teams/4935.png",
+    "score": "1 - 1",
+    "time": "3:05 م"
+  },
+  {
+    "home": "الروضة",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al_rawdhah.png",
+    "away": "السد",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al-sadd.png",
+    "score": "3 - 2",
+    "time": "3:05 م"
+  },
+  {
+    "home": "طويق",
+    "homeLogo": "https://jdwel.com/image/teams/sau_tuwaiq.png",
+    "away": "الشرق",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al_sharq.png",
+    "score": "1 - 1",
+    "time": "3:20 م"
+  },
+  {
+    "home": "عفيف",
+    "homeLogo": "https://jdwel.com/image/teams/sau_afief.png",
+    "away": "نجران",
+    "awayLogo": "https://jdwel.com/image/teams/3240.png",
+    "score": "2 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "الإنتصار",
+    "homeLogo": "https://jdwel.com/image/teams/379.png",
+    "away": "العين",
+    "awayLogo": "https://jdwel.com/image/teams/3242.png",
+    "score": "2 - 2",
+    "time": "3:45 م"
+  },
+  {
+    "home": "مضر",
+    "homeLogo": "https://jdwel.com/image/teams/sau_mudhar.png",
+    "away": "اللواء",
+    "awayLogo": "https://jdwel.com/image/teams/3321.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "النعيرية",
+    "homeLogo": "https://jdwel.com/image/teams/sau_alnairyah.png",
+    "away": "وج",
+    "awayLogo": "https://jdwel.com/image/teams/4520.png",
+    "score": "2 - 2",
+    "time": "3:05 م"
+  },
+  {
+    "home": "عرعر",
+    "homeLogo": "https://jdwel.com/image/teams/sau_arar_v2.png",
+    "away": "بيشة",
+    "awayLogo": "https://jdwel.com/image/teams/sau_bisha.png",
+    "score": "2 - 1",
+    "time": "3:30 م"
+  },
+  {
+    "home": "القلعة",
+    "homeLogo": "https://jdwel.com/image/teams/3947.png",
+    "away": "الكوكب",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al-kawkab.png",
+    "score": "1 - 0",
+    "time": "3:35 م"
+  },
+  {
+    "home": "الريان",
+    "homeLogo": "https://jdwel.com/image/teams/3303.png",
+    "away": "أحد",
+    "awayLogo": "https://jdwel.com/image/teams/2799.png",
+    "score": "4 - 1",
+    "time": "3:35 م"
+  },
+  {
+    "home": "القوس",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al_qous.png",
+    "away": "الصقر",
+    "awayLogo": "https://jdwel.com/image/teams/371.png",
+    "score": "1 - 1",
+    "time": "3:35 م"
+  },
+  {
+    "home": "حطين",
+    "homeLogo": "https://jdwel.com/image/teams/1126.png",
+    "away": "هجر",
+    "awayLogo": "https://jdwel.com/image/teams/sau_hajer.png",
+    "score": "0 - 1",
+    "time": "3:35 م"
+  },
+  {
+    "home": "الغوطة",
+    "homeLogo": "https://jdwel.com/image/teams/593.png",
+    "away": "الصفا",
+    "awayLogo": "https://jdwel.com/image/teams/3239.png",
+    "score": "0 - 1",
+    "time": "6:15 م"
+  },
+  {
+    "home": "الشعلة",
+    "homeLogo": "https://jdwel.com/image/teams/2798.png",
+    "away": "جبة",
+    "awayLogo": "https://jdwel.com/image/teams/3946.png",
+    "score": "1 - 2",
+    "time": "3:10 م"
+  },
+  {
+    "home": "الساحل",
+    "homeLogo": "https://jdwel.com/image/teams/3241.png",
+    "away": "الروضة",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al_rawdhah.png",
+    "score": "2 - 1",
+    "time": "1:55 م"
+  },
+  {
+    "home": "الجيل",
+    "homeLogo": "https://jdwel.com/image/teams/951.png",
+    "away": "طويق",
+    "awayLogo": "https://jdwel.com/image/teams/sau_tuwaiq.png",
+    "score": "1 - 1",
+    "time": "2:00 م"
+  },
+  {
+    "home": "السد",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al-sadd.png",
+    "away": "العين",
+    "awayLogo": "https://jdwel.com/image/teams/3242.png",
+    "score": "1 - 2",
+    "time": "2:10 م"
+  },
+  {
+    "home": "الشرق",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al_sharq.png",
+    "away": "الإنتصار",
+    "awayLogo": "https://jdwel.com/image/teams/379.png",
+    "score": "0 - 0",
+    "time": "2:10 م"
+  },
+  {
+    "home": "الوشم",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al-washm_v2.png",
+    "away": "النجوم",
+    "awayLogo": "https://jdwel.com/image/teams/11.png",
+    "score": "0 - 0",
+    "time": "2:15 م"
+  },
+  {
+    "home": "نجران",
+    "homeLogo": "https://jdwel.com/image/teams/3240.png",
+    "away": "الترجي",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al_taraji.png",
+    "score": "1 - 0",
+    "time": "2:25 م"
+  },
+  {
+    "home": "جرش",
+    "homeLogo": "https://jdwel.com/image/teams/4935.png",
+    "away": "عفيف",
+    "awayLogo": "https://jdwel.com/image/teams/sau_afief.png",
+    "score": "0 - 2",
+    "time": "2:35 م"
+  },
+  {
+    "home": "هجر",
+    "homeLogo": "https://jdwel.com/image/teams/sau_hajer.png",
+    "away": "النعيرية",
+    "awayLogo": "https://jdwel.com/image/teams/sau_alnairyah.png",
+    "score": "1 - 2",
+    "time": "2:00 م"
+  },
+  {
+    "home": "الكوكب",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al-kawkab.png",
+    "away": "حطين",
+    "awayLogo": "https://jdwel.com/image/teams/1126.png",
+    "score": "1 - 1",
+    "time": "2:10 م"
+  },
+  {
+    "home": "الصقر",
+    "homeLogo": "https://jdwel.com/image/teams/371.png",
+    "away": "القلعة",
+    "awayLogo": "https://jdwel.com/image/teams/3947.png",
+    "score": "2 - 1",
+    "time": "2:20 م"
+  },
+  {
+    "home": "اللواء",
+    "homeLogo": "https://jdwel.com/image/teams/3321.png",
+    "away": "الغوطة",
+    "awayLogo": "https://jdwel.com/image/teams/593.png",
+    "score": "2 - 1",
+    "time": "2:25 م"
+  },
+  {
+    "home": "بيشة",
+    "homeLogo": "https://jdwel.com/image/teams/sau_bisha.png",
+    "away": "الصفا",
+    "awayLogo": "https://jdwel.com/image/teams/3239.png",
+    "score": "2 - 3",
+    "time": "2:30 م"
+  },
+  {
+    "home": "الريان",
+    "homeLogo": "https://jdwel.com/image/teams/3303.png",
+    "away": "عرعر",
+    "awayLogo": "https://jdwel.com/image/teams/sau_arar_v2.png",
+    "score": "1 - 2",
+    "time": "2:30 م"
+  },
+  {
+    "home": "أحد",
+    "homeLogo": "https://jdwel.com/image/teams/2799.png",
+    "away": "مضر",
+    "awayLogo": "https://jdwel.com/image/teams/sau_mudhar.png",
+    "score": "0 - 4",
+    "time": "2:40 م"
+  },
+  {
+    "home": "وج",
+    "homeLogo": "https://jdwel.com/image/teams/4520.png",
+    "away": "القوس",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al_qous.png",
+    "score": "1 - 1",
+    "time": "2:40 م"
+  },
+  {
+    "home": "هجر",
+    "homeLogo": "https://jdwel.com/image/teams/sau_hajer.png",
+    "away": "الصقر",
+    "awayLogo": "https://jdwel.com/image/teams/371.png",
+    "score": "1 - 3",
+    "time": "1:55 م"
+  },
+  {
+    "home": "النعيرية",
+    "homeLogo": "https://jdwel.com/image/teams/sau_alnairyah.png",
+    "away": "مضر",
+    "awayLogo": "https://jdwel.com/image/teams/sau_mudhar.png",
+    "score": "0 - 0",
+    "time": "2:00 م"
+  },
+  {
+    "home": "اللواء",
+    "homeLogo": "https://jdwel.com/image/teams/3321.png",
+    "away": "الكوكب",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al-kawkab.png",
+    "score": "2 - 0",
+    "time": "2:20 م"
+  },
+  {
+    "home": "الغوطة",
+    "homeLogo": "https://jdwel.com/image/teams/593.png",
+    "away": "الريان",
+    "awayLogo": "https://jdwel.com/image/teams/3303.png",
+    "score": "1 - 1",
+    "time": "2:20 م"
+  },
+  {
+    "home": "عرعر",
+    "homeLogo": "https://jdwel.com/image/teams/sau_arar_v2.png",
+    "away": "وج",
+    "awayLogo": "https://jdwel.com/image/teams/4520.png",
+    "score": "0 - 3",
+    "time": "2:25 م"
+  },
+  {
+    "home": "القوس",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al_qous.png",
+    "away": "حطين",
+    "awayLogo": "https://jdwel.com/image/teams/1126.png",
+    "score": "0 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "القلعة",
+    "homeLogo": "https://jdwel.com/image/teams/3947.png",
+    "away": "بيشة",
+    "awayLogo": "https://jdwel.com/image/teams/sau_bisha.png",
+    "score": "1 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "الروضة",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al_rawdhah.png",
+    "away": "نجران",
+    "awayLogo": "https://jdwel.com/image/teams/3240.png",
+    "score": "1 - 1",
+    "time": "1:55 م"
+  },
+  {
+    "home": "الترجي",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al_taraji.png",
+    "away": "النجوم",
+    "awayLogo": "https://jdwel.com/image/teams/11.png",
+    "score": "1 - 4",
+    "time": "1:55 م"
+  },
+  {
+    "home": "الصفا",
+    "homeLogo": "https://jdwel.com/image/teams/3239.png",
+    "away": "أحد",
+    "awayLogo": "https://jdwel.com/image/teams/2799.png",
+    "score": "3 - 1",
+    "time": "1:55 م"
+  },
+  {
+    "home": "الشرق",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al_sharq.png",
+    "away": "الوشم",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al-washm_v2.png",
+    "score": "0 - 0",
+    "time": "2:05 م"
+  },
+  {
+    "home": "جبة",
+    "homeLogo": "https://jdwel.com/image/teams/3946.png",
+    "away": "السد",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al-sadd.png",
+    "score": "2 - 2",
+    "time": "2:20 م"
+  },
+  {
+    "home": "عفيف",
+    "homeLogo": "https://jdwel.com/image/teams/sau_afief.png",
+    "away": "طويق",
+    "awayLogo": "https://jdwel.com/image/teams/sau_tuwaiq.png",
+    "score": "4 - 0",
+    "time": "2:25 م"
+  },
+  {
+    "home": "جرش",
+    "homeLogo": "https://jdwel.com/image/teams/4935.png",
+    "away": "الشعلة",
+    "awayLogo": "https://jdwel.com/image/teams/2798.png",
+    "score": "0 - 3",
+    "time": "2:30 م"
+  },
+  {
+    "home": "العين",
+    "homeLogo": "https://jdwel.com/image/teams/3242.png",
+    "away": "الجيل",
+    "awayLogo": "https://jdwel.com/image/teams/951.png",
+    "score": "4 - 1",
+    "time": "2:35 م"
+  },
+  {
+    "home": "الإنتصار",
+    "homeLogo": "https://jdwel.com/image/teams/379.png",
+    "away": "الساحل",
+    "awayLogo": "https://jdwel.com/image/teams/3241.png",
+    "score": "3 - 3",
+    "time": "2:40 م"
+  },
+  {
+    "home": "مضر",
+    "homeLogo": "https://jdwel.com/image/teams/sau_mudhar.png",
+    "away": "القوس",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al_qous.png",
+    "score": "0 - 1",
+    "time": "1:50 م"
+  },
+  {
+    "home": "الكوكب",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al-kawkab.png",
+    "away": "الغوطة",
+    "awayLogo": "https://jdwel.com/image/teams/593.png",
+    "score": "1 - 1",
+    "time": "2:05 م"
+  },
+  {
+    "home": "عرعر",
+    "homeLogo": "https://jdwel.com/image/teams/sau_arar_v2.png",
+    "away": "الصقر",
+    "awayLogo": "https://jdwel.com/image/teams/371.png",
+    "score": "0 - 3",
+    "time": "2:20 م"
+  },
+  {
+    "home": "الريان",
+    "homeLogo": "https://jdwel.com/image/teams/3303.png",
+    "away": "اللواء",
+    "awayLogo": "https://jdwel.com/image/teams/3321.png",
+    "score": "0 - 4",
+    "time": "2:25 م"
+  },
+  {
+    "home": "حطين",
+    "homeLogo": "https://jdwel.com/image/teams/1126.png",
+    "away": "القلعة",
+    "awayLogo": "https://jdwel.com/image/teams/3947.png",
+    "score": "2 - 3",
+    "time": "2:30 م"
+  },
+  {
+    "home": "أحد",
+    "homeLogo": "https://jdwel.com/image/teams/2799.png",
+    "away": "بيشة",
+    "awayLogo": "https://jdwel.com/image/teams/sau_bisha.png",
+    "score": "0 - 3",
+    "time": "2:35 م"
+  },
+  {
+    "home": "وج",
+    "homeLogo": "https://jdwel.com/image/teams/4520.png",
+    "away": "هجر",
+    "awayLogo": "https://jdwel.com/image/teams/sau_hajer.png",
+    "score": "0 - 0",
+    "time": "2:35 م"
+  },
+  {
+    "home": "الصفا",
+    "homeLogo": "https://jdwel.com/image/teams/3239.png",
+    "away": "النعيرية",
+    "awayLogo": "https://jdwel.com/image/teams/sau_alnairyah.png",
+    "score": "0 - 1",
+    "time": "3:05 م"
+  },
+  {
+    "home": "الساحل",
+    "homeLogo": "https://jdwel.com/image/teams/3241.png",
+    "away": "الشرق",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al_sharq.png",
+    "score": "1 - 1",
+    "time": "1:50 م"
+  },
+  {
+    "home": "الروضة",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al_rawdhah.png",
+    "away": "الشعلة",
+    "awayLogo": "https://jdwel.com/image/teams/2798.png",
+    "score": "0 - 0",
+    "time": "1:55 م"
+  },
+  {
+    "home": "النجوم",
+    "homeLogo": "https://jdwel.com/image/teams/11.png",
+    "away": "جبة",
+    "awayLogo": "https://jdwel.com/image/teams/3946.png",
+    "score": "2 - 1",
+    "time": "1:55 م"
+  },
+  {
+    "home": "طويق",
+    "homeLogo": "https://jdwel.com/image/teams/sau_tuwaiq.png",
+    "away": "الترجي",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al_taraji.png",
+    "score": "1 - 2",
+    "time": "2:10 م"
+  },
+  {
+    "home": "الوشم",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al-washm_v2.png",
+    "away": "الإنتصار",
+    "awayLogo": "https://jdwel.com/image/teams/379.png",
+    "score": "0 - 1",
+    "time": "2:10 م"
+  },
+  {
+    "home": "نجران",
+    "homeLogo": "https://jdwel.com/image/teams/3240.png",
+    "away": "جرش",
+    "awayLogo": "https://jdwel.com/image/teams/4935.png",
+    "score": "0 - 0",
+    "time": "2:25 م"
+  },
+  {
+    "home": "العين",
+    "homeLogo": "https://jdwel.com/image/teams/3242.png",
+    "away": "عفيف",
+    "awayLogo": "https://jdwel.com/image/teams/sau_afief.png",
+    "score": "2 - 1",
+    "time": "2:35 م"
+  },
+  {
+    "home": "الجيل",
+    "homeLogo": "https://jdwel.com/image/teams/951.png",
+    "away": "السد",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al-sadd.png",
+    "score": "3 - 1",
+    "time": "4:35 م"
+  },
+  {
+    "home": "هجر",
+    "homeLogo": "https://jdwel.com/image/teams/sau_hajer.png",
+    "away": "الصفا",
+    "awayLogo": "https://jdwel.com/image/teams/3239.png",
+    "score": "3 - 0",
+    "time": "1:55 م"
+  },
+  {
+    "home": "النعيرية",
+    "homeLogo": "https://jdwel.com/image/teams/sau_alnairyah.png",
+    "away": "اللواء",
+    "awayLogo": "https://jdwel.com/image/teams/3321.png",
+    "score": "2 - 2",
+    "time": "1:55 م"
+  },
+  {
+    "home": "الصقر",
+    "homeLogo": "https://jdwel.com/image/teams/371.png",
+    "away": "الريان",
+    "awayLogo": "https://jdwel.com/image/teams/3303.png",
+    "score": "3 - 2",
+    "time": "2:15 م"
+  },
+  {
+    "home": "القلعة",
+    "homeLogo": "https://jdwel.com/image/teams/3947.png",
+    "away": "عرعر",
+    "awayLogo": "https://jdwel.com/image/teams/sau_arar_v2.png",
+    "score": "3 - 0",
+    "time": "2:25 م"
+  },
+  {
+    "home": "بيشة",
+    "homeLogo": "https://jdwel.com/image/teams/sau_bisha.png",
+    "away": "الكوكب",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al-kawkab.png",
+    "score": "0 - 1",
+    "time": "2:30 م"
+  },
+  {
+    "home": "حطين",
+    "homeLogo": "https://jdwel.com/image/teams/1126.png",
+    "away": "الغوطة",
+    "awayLogo": "https://jdwel.com/image/teams/593.png",
+    "score": "1 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "أحد",
+    "homeLogo": "https://jdwel.com/image/teams/2799.png",
+    "away": "القوس",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al_qous.png",
+    "score": "0 - 6",
+    "time": "2:35 م"
+  },
+  {
+    "home": "وج",
+    "homeLogo": "https://jdwel.com/image/teams/4520.png",
+    "away": "مضر",
+    "awayLogo": "https://jdwel.com/image/teams/sau_mudhar.png",
+    "score": "2 - 0",
+    "time": "2:35 م"
+  },
+  {
+    "home": "الجيل",
+    "homeLogo": "https://jdwel.com/image/teams/951.png",
+    "away": "الترجي",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al_taraji.png",
+    "score": "3 - 1",
+    "time": "1:55 م"
+  },
+  {
+    "home": "النجوم",
+    "homeLogo": "https://jdwel.com/image/teams/11.png",
+    "away": "الإنتصار",
+    "awayLogo": "https://jdwel.com/image/teams/379.png",
+    "score": "0 - 0",
+    "time": "1:55 م"
+  },
+  {
+    "home": "الشعلة",
+    "homeLogo": "https://jdwel.com/image/teams/2798.png",
+    "away": "الساحل",
+    "awayLogo": "https://jdwel.com/image/teams/3241.png",
+    "score": "0 - 0",
+    "time": "2:05 م"
+  },
+  {
+    "home": "السد",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al-sadd.png",
+    "away": "الوشم",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al-washm_v2.png",
+    "score": "1 - 1",
+    "time": "2:15 م"
+  },
+  {
+    "home": "جبة",
+    "homeLogo": "https://jdwel.com/image/teams/3946.png",
+    "away": "الروضة",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al_rawdhah.png",
+    "score": "0 - 1",
+    "time": "2:20 م"
+  },
+  {
+    "home": "عفيف",
+    "homeLogo": "https://jdwel.com/image/teams/sau_afief.png",
+    "away": "الشرق",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al_sharq.png",
+    "score": "0 - 0",
+    "time": "2:20 م"
+  },
+  {
+    "home": "نجران",
+    "homeLogo": "https://jdwel.com/image/teams/3240.png",
+    "away": "طويق",
+    "awayLogo": "https://jdwel.com/image/teams/sau_tuwaiq.png",
+    "score": "4 - 3",
+    "time": "2:25 م"
+  },
+  {
+    "home": "جرش",
+    "homeLogo": "https://jdwel.com/image/teams/4935.png",
+    "away": "العين",
+    "awayLogo": "https://jdwel.com/image/teams/3242.png",
+    "score": "1 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "مضر",
+    "homeLogo": "https://jdwel.com/image/teams/sau_mudhar.png",
+    "away": "الريان",
+    "awayLogo": "https://jdwel.com/image/teams/3303.png",
+    "score": "1 - 0",
+    "time": "1:50 م"
+  },
+  {
+    "home": "النعيرية",
+    "homeLogo": "https://jdwel.com/image/teams/sau_alnairyah.png",
+    "away": "حطين",
+    "awayLogo": "https://jdwel.com/image/teams/1126.png",
+    "score": "1 - 2",
+    "time": "1:55 م"
+  },
+  {
+    "home": "الكوكب",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al-kawkab.png",
+    "away": "هجر",
+    "awayLogo": "https://jdwel.com/image/teams/sau_hajer.png",
+    "score": "0 - 1",
+    "time": "2:05 م"
+  },
+  {
+    "home": "الصقر",
+    "homeLogo": "https://jdwel.com/image/teams/371.png",
+    "away": "وج",
+    "awayLogo": "https://jdwel.com/image/teams/4520.png",
+    "score": "2 - 2",
+    "time": "2:15 م"
+  },
+  {
+    "home": "اللواء",
+    "homeLogo": "https://jdwel.com/image/teams/3321.png",
+    "away": "الصفا",
+    "awayLogo": "https://jdwel.com/image/teams/3239.png",
+    "score": "5 - 0",
+    "time": "2:20 م"
+  },
+  {
+    "home": "عرعر",
+    "homeLogo": "https://jdwel.com/image/teams/sau_arar_v2.png",
+    "away": "أحد",
+    "awayLogo": "https://jdwel.com/image/teams/2799.png",
+    "score": "2 - 1",
+    "time": "2:20 م"
+  },
+  {
+    "home": "الغوطة",
+    "homeLogo": "https://jdwel.com/image/teams/593.png",
+    "away": "بيشة",
+    "awayLogo": "https://jdwel.com/image/teams/sau_bisha.png",
+    "score": "2 - 0",
+    "time": "2:20 م"
+  },
+  {
+    "home": "القوس",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al_qous.png",
+    "away": "القلعة",
+    "awayLogo": "https://jdwel.com/image/teams/3947.png",
+    "score": "1 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "الترجي",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al_taraji.png",
+    "away": "جبة",
+    "awayLogo": "https://jdwel.com/image/teams/3946.png",
+    "score": "2 - 2",
+    "time": "1:50 م"
+  },
+  {
+    "home": "الروضة",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al_rawdhah.png",
+    "away": "الجيل",
+    "awayLogo": "https://jdwel.com/image/teams/951.png",
+    "score": "0 - 2",
+    "time": "1:55 م"
+  },
+  {
+    "home": "الشعلة",
+    "homeLogo": "https://jdwel.com/image/teams/2798.png",
+    "away": "نجران",
+    "awayLogo": "https://jdwel.com/image/teams/3240.png",
+    "score": "0 - 3",
+    "time": "2:05 م"
+  },
+  {
+    "home": "الشرق",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al_sharq.png",
+    "away": "العين",
+    "awayLogo": "https://jdwel.com/image/teams/3242.png",
+    "score": "1 - 1",
+    "time": "2:05 م"
+  },
+  {
+    "home": "الوشم",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al-washm_v2.png",
+    "away": "جرش",
+    "awayLogo": "https://jdwel.com/image/teams/4935.png",
+    "score": "2 - 0",
+    "time": "2:10 م"
+  },
+  {
+    "home": "طويق",
+    "homeLogo": "https://jdwel.com/image/teams/sau_tuwaiq.png",
+    "away": "الساحل",
+    "awayLogo": "https://jdwel.com/image/teams/3241.png",
+    "score": "1 - 0",
+    "time": "2:10 م"
+  },
+  {
+    "home": "عفيف",
+    "homeLogo": "https://jdwel.com/image/teams/sau_afief.png",
+    "away": "النجوم",
+    "awayLogo": "https://jdwel.com/image/teams/11.png",
+    "score": "0 - 0",
+    "time": "2:20 م"
+  },
+  {
+    "home": "الإنتصار",
+    "homeLogo": "https://jdwel.com/image/teams/379.png",
+    "away": "السد",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al-sadd.png",
+    "score": "5 - 1",
+    "time": "2:40 م"
+  },
+  {
+    "home": "الصفا",
+    "homeLogo": "https://jdwel.com/image/teams/3239.png",
+    "away": "حطين",
+    "awayLogo": "https://jdwel.com/image/teams/1126.png",
+    "score": "0 - 0",
+    "time": "1:50 م"
+  },
+  {
+    "home": "الغوطة",
+    "homeLogo": "https://jdwel.com/image/teams/593.png",
+    "away": "هجر",
+    "awayLogo": "https://jdwel.com/image/teams/sau_hajer.png",
+    "score": "2 - 0",
+    "time": "2:15 م"
+  },
+  {
+    "home": "اللواء",
+    "homeLogo": "https://jdwel.com/image/teams/3321.png",
+    "away": "وج",
+    "awayLogo": "https://jdwel.com/image/teams/4520.png",
+    "score": "2 - 4",
+    "time": "2:15 م"
+  },
+  {
+    "home": "الريان",
+    "homeLogo": "https://jdwel.com/image/teams/3303.png",
+    "away": "القوس",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al_qous.png",
+    "score": "0 - 2",
+    "time": "2:20 م"
+  },
+  {
+    "home": "القلعة",
+    "homeLogo": "https://jdwel.com/image/teams/3947.png",
+    "away": "مضر",
+    "awayLogo": "https://jdwel.com/image/teams/sau_mudhar.png",
+    "score": "1 - 1",
+    "time": "2:20 م"
+  },
+  {
+    "home": "بيشة",
+    "homeLogo": "https://jdwel.com/image/teams/sau_bisha.png",
+    "away": "النعيرية",
+    "awayLogo": "https://jdwel.com/image/teams/sau_alnairyah.png",
+    "score": "0 - 1",
+    "time": "2:30 م"
+  },
+  {
+    "home": "أحد",
+    "homeLogo": "https://jdwel.com/image/teams/2799.png",
+    "away": "الصقر",
+    "awayLogo": "https://jdwel.com/image/teams/371.png",
+    "score": "0 - 4",
+    "time": "2:35 م"
+  },
+  {
+    "home": "الكوكب",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al-kawkab.png",
+    "away": "عرعر",
+    "awayLogo": "https://jdwel.com/image/teams/sau_arar_v2.png",
+    "score": "0 - 1",
+    "time": "4:40 م"
+  },
+  {
+    "home": "الساحل",
+    "homeLogo": "https://jdwel.com/image/teams/3241.png",
+    "away": "الترجي",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al_taraji.png",
+    "score": "2 - 1",
+    "time": "1:50 م"
+  },
+  {
+    "home": "الجيل",
+    "homeLogo": "https://jdwel.com/image/teams/951.png",
+    "away": "الشعلة",
+    "awayLogo": "https://jdwel.com/image/teams/2798.png",
+    "score": "4 - 2",
+    "time": "1:55 م"
+  },
+  {
+    "home": "الشرق",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al_sharq.png",
+    "away": "نجران",
+    "awayLogo": "https://jdwel.com/image/teams/3240.png",
+    "score": "2 - 1",
+    "time": "2:05 م"
+  },
+  {
+    "home": "السد",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al-sadd.png",
+    "away": "عفيف",
+    "awayLogo": "https://jdwel.com/image/teams/sau_afief.png",
+    "score": "1 - 1",
+    "time": "2:05 م"
+  },
+  {
+    "home": "الوشم",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al-washm_v2.png",
+    "away": "الروضة",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al_rawdhah.png",
+    "score": "1 - 3",
+    "time": "2:10 م"
+  },
+  {
+    "home": "العين",
+    "homeLogo": "https://jdwel.com/image/teams/3242.png",
+    "away": "النجوم",
+    "awayLogo": "https://jdwel.com/image/teams/11.png",
+    "score": "1 - 1",
+    "time": "2:35 م"
+  },
+  {
+    "home": "الإنتصار",
+    "homeLogo": "https://jdwel.com/image/teams/379.png",
+    "away": "جرش",
+    "awayLogo": "https://jdwel.com/image/teams/4935.png",
+    "score": "1 - 1",
+    "time": "2:40 م"
+  },
+  {
+    "home": "جبة",
+    "homeLogo": "https://jdwel.com/image/teams/3946.png",
+    "away": "طويق",
+    "awayLogo": "https://jdwel.com/image/teams/sau_tuwaiq.png",
+    "score": "1 - 0",
+    "time": "2:20 م"
+  },
+  {
+    "home": "الترجي",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al_taraji.png",
+    "away": "الوشم",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al-washm_v2.png",
+    "score": "0 - 4",
+    "time": "1:50 م"
+  },
+  {
+    "home": "الروضة",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al_rawdhah.png",
+    "away": "العين",
+    "awayLogo": "https://jdwel.com/image/teams/3242.png",
+    "score": "1 - 1",
+    "time": "1:55 م"
+  },
+  {
+    "home": "النجوم",
+    "homeLogo": "https://jdwel.com/image/teams/11.png",
+    "away": "الشرق",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al_sharq.png",
+    "score": "1 - 1",
+    "time": "1:55 م"
+  },
+  {
+    "home": "الشعلة",
+    "homeLogo": "https://jdwel.com/image/teams/2798.png",
+    "away": "عفيف",
+    "awayLogo": "https://jdwel.com/image/teams/sau_afief.png",
+    "score": "1 - 4",
+    "time": "2:05 م"
+  },
+  {
+    "home": "طويق",
+    "homeLogo": "https://jdwel.com/image/teams/sau_tuwaiq.png",
+    "away": "الإنتصار",
+    "awayLogo": "https://jdwel.com/image/teams/379.png",
+    "score": "1 - 1",
+    "time": "2:10 م"
+  },
+  {
+    "home": "جبة",
+    "homeLogo": "https://jdwel.com/image/teams/3946.png",
+    "away": "الساحل",
+    "awayLogo": "https://jdwel.com/image/teams/3241.png",
+    "score": "1 - 0",
+    "time": "2:20 م"
+  },
+  {
+    "home": "نجران",
+    "homeLogo": "https://jdwel.com/image/teams/3240.png",
+    "away": "الجيل",
+    "awayLogo": "https://jdwel.com/image/teams/951.png",
+    "score": "1 - 2",
+    "time": "2:25 م"
+  },
+  {
+    "home": "جرش",
+    "homeLogo": "https://jdwel.com/image/teams/4935.png",
+    "away": "السد",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al-sadd.png",
+    "score": "3 - 1",
+    "time": "2:35 م"
+  },
+  {
+    "home": "مضر",
+    "homeLogo": "https://jdwel.com/image/teams/sau_mudhar.png",
+    "away": "الغوطة",
+    "awayLogo": "https://jdwel.com/image/teams/593.png",
+    "score": "1 - 1",
+    "time": "1:50 م"
+  },
+  {
+    "home": "هجر",
+    "homeLogo": "https://jdwel.com/image/teams/sau_hajer.png",
+    "away": "بيشة",
+    "awayLogo": "https://jdwel.com/image/teams/sau_bisha.png",
+    "score": "4 - 0",
+    "time": "1:55 م"
+  },
+  {
+    "home": "عرعر",
+    "homeLogo": "https://jdwel.com/image/teams/sau_arar_v2.png",
+    "away": "الصفا",
+    "awayLogo": "https://jdwel.com/image/teams/3239.png",
+    "score": "0 - 2",
+    "time": "2:15 م"
+  },
+  {
+    "home": "الصقر",
+    "homeLogo": "https://jdwel.com/image/teams/371.png",
+    "away": "النعيرية",
+    "awayLogo": "https://jdwel.com/image/teams/sau_alnairyah.png",
+    "score": "2 - 0",
+    "time": "2:15 م"
+  },
+  {
+    "home": "القلعة",
+    "homeLogo": "https://jdwel.com/image/teams/3947.png",
+    "away": "الريان",
+    "awayLogo": "https://jdwel.com/image/teams/3303.png",
+    "score": "1 - 1",
+    "time": "2:25 م"
+  },
+  {
+    "home": "القوس",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al_qous.png",
+    "away": "الكوكب",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al-kawkab.png",
+    "score": "0 - 2",
+    "time": "2:30 م"
+  },
+  {
+    "home": "وج",
+    "homeLogo": "https://jdwel.com/image/teams/4520.png",
+    "away": "أحد",
+    "awayLogo": "https://jdwel.com/image/teams/2799.png",
+    "score": "5 - 0",
+    "time": "2:35 م"
+  },
+  {
+    "home": "حطين",
+    "homeLogo": "https://jdwel.com/image/teams/1126.png",
+    "away": "اللواء",
+    "awayLogo": "https://jdwel.com/image/teams/3321.png",
+    "score": "2 - 2",
+    "time": "2:35 م"
+  },
+  {
+    "home": "الساحل",
+    "homeLogo": "https://jdwel.com/image/teams/3241.png",
+    "away": "النجوم",
+    "awayLogo": "https://jdwel.com/image/teams/11.png",
+    "score": "1 - 1",
+    "time": "1:50 م"
+  },
+  {
+    "home": "الجيل",
+    "homeLogo": "https://jdwel.com/image/teams/951.png",
+    "away": "جرش",
+    "awayLogo": "https://jdwel.com/image/teams/4935.png",
+    "score": "3 - 1",
+    "time": "1:55 م"
+  },
+  {
+    "home": "الشرق",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al_sharq.png",
+    "away": "جبة",
+    "awayLogo": "https://jdwel.com/image/teams/3946.png",
+    "score": "1 - 1",
+    "time": "2:05 م"
+  },
+  {
+    "home": "السد",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al-sadd.png",
+    "away": "نجران",
+    "awayLogo": "https://jdwel.com/image/teams/3240.png",
+    "score": "1 - 4",
+    "time": "2:10 م"
+  },
+  {
+    "home": "الوشم",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al-washm_v2.png",
+    "away": "طويق",
+    "awayLogo": "https://jdwel.com/image/teams/sau_tuwaiq.png",
+    "score": "3 - 1",
+    "time": "2:10 م"
+  },
+  {
+    "home": "عفيف",
+    "homeLogo": "https://jdwel.com/image/teams/sau_afief.png",
+    "away": "الروضة",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al_rawdhah.png",
+    "score": "1 - 1",
+    "time": "2:25 م"
+  },
+  {
+    "home": "العين",
+    "homeLogo": "https://jdwel.com/image/teams/3242.png",
+    "away": "الشعلة",
+    "awayLogo": "https://jdwel.com/image/teams/2798.png",
+    "score": "0 - 0",
+    "time": "2:35 م"
+  },
+  {
+    "home": "الإنتصار",
+    "homeLogo": "https://jdwel.com/image/teams/379.png",
+    "away": "الترجي",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al_taraji.png",
+    "score": "3 - 0",
+    "time": "2:40 م"
+  },
+  {
+    "home": "الغوطة",
+    "homeLogo": "https://jdwel.com/image/teams/593.png",
+    "away": "القوس",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al_qous.png",
+    "score": "0 - 0",
+    "time": "1:10 م"
+  },
+  {
+    "home": "الصفا",
+    "homeLogo": "https://jdwel.com/image/teams/3239.png",
+    "away": "الصقر",
+    "awayLogo": "https://jdwel.com/image/teams/371.png",
+    "score": "1 - 0",
+    "time": "1:50 م"
+  },
+  {
+    "home": "النعيرية",
+    "homeLogo": "https://jdwel.com/image/teams/sau_alnairyah.png",
+    "away": "عرعر",
+    "awayLogo": "https://jdwel.com/image/teams/sau_arar_v2.png",
+    "score": "2 - 3",
+    "time": "1:55 م"
+  },
+  {
+    "home": "الكوكب",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al-kawkab.png",
+    "away": "مضر",
+    "awayLogo": "https://jdwel.com/image/teams/sau_mudhar.png",
+    "score": "1 - 1",
+    "time": "2:05 م"
+  },
+  {
+    "home": "اللواء",
+    "homeLogo": "https://jdwel.com/image/teams/3321.png",
+    "away": "القلعة",
+    "awayLogo": "https://jdwel.com/image/teams/3947.png",
+    "score": "1 - 0",
+    "time": "2:20 م"
+  },
+  {
+    "home": "الريان",
+    "homeLogo": "https://jdwel.com/image/teams/3303.png",
+    "away": "حطين",
+    "awayLogo": "https://jdwel.com/image/teams/1126.png",
+    "score": "1 - 0",
+    "time": "2:25 م"
+  },
+  {
+    "home": "بيشة",
+    "homeLogo": "https://jdwel.com/image/teams/sau_bisha.png",
+    "away": "وج",
+    "awayLogo": "https://jdwel.com/image/teams/4520.png",
+    "score": "1 - 1",
+    "time": "2:30 م"
+  },
+  {
+    "home": "أحد",
+    "homeLogo": "https://jdwel.com/image/teams/2799.png",
+    "away": "هجر",
+    "awayLogo": "https://jdwel.com/image/teams/sau_hajer.png",
+    "score": "0 - 3",
+    "time": "2:35 م"
+  },
+  {
+    "home": "الروضة",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al_rawdhah.png",
+    "away": "الإنتصار",
+    "awayLogo": "https://jdwel.com/image/teams/379.png",
+    "score": "0 - 1",
+    "time": "1:55 م"
+  },
+  {
+    "home": "الترجي",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al_taraji.png",
+    "away": "عفيف",
+    "awayLogo": "https://jdwel.com/image/teams/sau_afief.png",
+    "score": "1 - 1",
+    "time": "1:55 م"
+  },
+  {
+    "home": "النجوم",
+    "homeLogo": "https://jdwel.com/image/teams/11.png",
+    "away": "السد",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al-sadd.png",
+    "score": "2 - 1",
+    "time": "1:55 م"
+  },
+  {
+    "home": "الشعلة",
+    "homeLogo": "https://jdwel.com/image/teams/2798.png",
+    "away": "الوشم",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al-washm_v2.png",
+    "score": "3 - 1",
+    "time": "2:10 م"
+  },
+  {
+    "home": "الشرق",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al_sharq.png",
+    "away": "جرش",
+    "awayLogo": "https://jdwel.com/image/teams/4935.png",
+    "score": "1 - 3",
+    "time": "2:10 م"
+  },
+  {
+    "home": "طويق",
+    "homeLogo": "https://jdwel.com/image/teams/sau_tuwaiq.png",
+    "away": "العين",
+    "awayLogo": "https://jdwel.com/image/teams/3242.png",
+    "score": "1 - 2",
+    "time": "2:15 م"
+  },
+  {
+    "home": "جبة",
+    "homeLogo": "https://jdwel.com/image/teams/3946.png",
+    "away": "الجيل",
+    "awayLogo": "https://jdwel.com/image/teams/951.png",
+    "score": "0 - 0",
+    "time": "2:20 م"
+  },
+  {
+    "home": "نجران",
+    "homeLogo": "https://jdwel.com/image/teams/3240.png",
+    "away": "الساحل",
+    "awayLogo": "https://jdwel.com/image/teams/3241.png",
+    "score": "0 - 1",
+    "time": "2:30 م"
+  },
+  {
+    "home": "الصفا",
+    "homeLogo": "https://jdwel.com/image/teams/3239.png",
+    "away": "مضر",
+    "awayLogo": "https://jdwel.com/image/teams/sau_mudhar.png",
+    "score": "0 - 1",
+    "time": "1:55 م"
+  },
+  {
+    "home": "الصقر",
+    "homeLogo": "https://jdwel.com/image/teams/371.png",
+    "away": "الكوكب",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al-kawkab.png",
+    "score": "2 - 0",
+    "time": "2:20 م"
+  },
+  {
+    "home": "اللواء",
+    "homeLogo": "https://jdwel.com/image/teams/3321.png",
+    "away": "هجر",
+    "awayLogo": "https://jdwel.com/image/teams/sau_hajer.png",
+    "score": "0 - 1",
+    "time": "2:20 م"
+  },
+  {
+    "home": "عرعر",
+    "homeLogo": "https://jdwel.com/image/teams/sau_arar_v2.png",
+    "away": "الغوطة",
+    "awayLogo": "https://jdwel.com/image/teams/593.png",
+    "score": "1 - 3",
+    "time": "2:20 م"
+  },
+  {
+    "home": "القلعة",
+    "homeLogo": "https://jdwel.com/image/teams/3947.png",
+    "away": "أحد",
+    "awayLogo": "https://jdwel.com/image/teams/2799.png",
+    "score": "1 - 0",
+    "time": "2:25 م"
+  },
+  {
+    "home": "القوس",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al_qous.png",
+    "away": "النعيرية",
+    "awayLogo": "https://jdwel.com/image/teams/sau_alnairyah.png",
+    "score": "2 - 2",
+    "time": "2:35 م"
+  },
+  {
+    "home": "حطين",
+    "homeLogo": "https://jdwel.com/image/teams/1126.png",
+    "away": "بيشة",
+    "awayLogo": "https://jdwel.com/image/teams/sau_bisha.png",
+    "score": "2 - 0",
+    "time": "2:40 م"
+  },
+  {
+    "home": "الروضة",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al_rawdhah.png",
+    "away": "طويق",
+    "awayLogo": "https://jdwel.com/image/teams/sau_tuwaiq.png",
+    "score": "1 - 0",
+    "time": "2:00 م"
+  },
+  {
+    "home": "الشعلة",
+    "homeLogo": "https://jdwel.com/image/teams/2798.png",
+    "away": "الإنتصار",
+    "awayLogo": "https://jdwel.com/image/teams/379.png",
+    "score": "0 - 0",
+    "time": "2:10 م"
+  },
+  {
+    "home": "السد",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al-sadd.png",
+    "away": "الشرق",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al_sharq.png",
+    "score": "1 - 1",
+    "time": "2:15 م"
+  },
+  {
+    "home": "عفيف",
+    "homeLogo": "https://jdwel.com/image/teams/sau_afief.png",
+    "away": "الوشم",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al-washm_v2.png",
+    "score": "1 - 1",
+    "time": "2:30 م"
+  },
+  {
+    "home": "الجيل",
+    "homeLogo": "https://jdwel.com/image/teams/951.png",
+    "away": "النجوم",
+    "awayLogo": "https://jdwel.com/image/teams/11.png",
+    "score": "1 - 1",
+    "time": "6:00 م"
+  },
+  {
+    "home": "الصفا",
+    "homeLogo": "https://jdwel.com/image/teams/3239.png",
+    "away": "القوس",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al_qous.png",
+    "score": "1 - 0",
+    "time": "1:55 م"
+  },
+  {
+    "home": "هجر",
+    "homeLogo": "https://jdwel.com/image/teams/sau_hajer.png",
+    "away": "الريان",
+    "awayLogo": "https://jdwel.com/image/teams/3303.png",
+    "score": "1 - 0",
+    "time": "2:00 م"
+  },
+  {
+    "home": "النعيرية",
+    "homeLogo": "https://jdwel.com/image/teams/sau_alnairyah.png",
+    "away": "الكوكب",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al-kawkab.png",
+    "score": "0 - 1",
+    "time": "2:00 م"
+  },
+  {
+    "home": "الصقر",
+    "homeLogo": "https://jdwel.com/image/teams/371.png",
+    "away": "الغوطة",
+    "awayLogo": "https://jdwel.com/image/teams/593.png",
+    "score": "1 - 1",
+    "time": "2:20 م"
+  },
+  {
+    "home": "بيشة",
+    "homeLogo": "https://jdwel.com/image/teams/sau_bisha.png",
+    "away": "اللواء",
+    "awayLogo": "https://jdwel.com/image/teams/3321.png",
+    "score": "1 - 3",
+    "time": "2:35 م"
+  },
+  {
+    "home": "أحد",
+    "homeLogo": "https://jdwel.com/image/teams/2799.png",
+    "away": "حطين",
+    "awayLogo": "https://jdwel.com/image/teams/1126.png",
+    "score": "1 - 4",
+    "time": "2:40 م"
+  },
+  {
+    "home": "النجوم",
+    "homeLogo": "https://jdwel.com/image/teams/11.png",
+    "away": "نجران",
+    "awayLogo": "https://jdwel.com/image/teams/3240.png",
+    "score": "2 - 2",
+    "time": "2:00 م"
+  },
+  {
+    "home": "الساحل",
+    "homeLogo": "https://jdwel.com/image/teams/3241.png",
+    "away": "السد",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al-sadd.png",
+    "score": "5 - 1",
+    "time": "2:00 م"
+  },
+  {
+    "home": "الشرق",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al_sharq.png",
+    "away": "الجيل",
+    "awayLogo": "https://jdwel.com/image/teams/951.png",
+    "score": "1 - 2",
+    "time": "2:15 م"
+  },
+  {
+    "home": "الوشم",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al-washm_v2.png",
+    "away": "العين",
+    "awayLogo": "https://jdwel.com/image/teams/3242.png",
+    "score": "2 - 0",
+    "time": "2:20 م"
+  },
+  {
+    "home": "جبة",
+    "homeLogo": "https://jdwel.com/image/teams/3946.png",
+    "away": "جرش",
+    "awayLogo": "https://jdwel.com/image/teams/4935.png",
+    "score": "1 - 1",
+    "time": "2:25 م"
+  },
+  {
+    "home": "الإنتصار",
+    "homeLogo": "https://jdwel.com/image/teams/379.png",
+    "away": "عفيف",
+    "awayLogo": "https://jdwel.com/image/teams/sau_afief.png",
+    "score": "1 - 0",
+    "time": "2:50 م"
+  },
+  {
+    "home": "الترجي",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al_taraji.png",
+    "away": "الروضة",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al_rawdhah.png",
+    "score": "0 - 1",
+    "time": "2:00 م"
+  },
+  {
+    "home": "مضر",
+    "homeLogo": "https://jdwel.com/image/teams/sau_mudhar.png",
+    "away": "الصقر",
+    "awayLogo": "https://jdwel.com/image/teams/371.png",
+    "score": "0 - 2",
+    "time": "2:00 م"
+  },
+  {
+    "home": "الكوكب",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al-kawkab.png",
+    "away": "الصفا",
+    "awayLogo": "https://jdwel.com/image/teams/3239.png",
+    "score": "2 - 0",
+    "time": "2:15 م"
+  },
+  {
+    "home": "طويق",
+    "homeLogo": "https://jdwel.com/image/teams/sau_tuwaiq.png",
+    "away": "الشعلة",
+    "awayLogo": "https://jdwel.com/image/teams/2798.png",
+    "score": "1 - 1",
+    "time": "2:20 م"
+  },
+  {
+    "home": "اللواء",
+    "homeLogo": "https://jdwel.com/image/teams/3321.png",
+    "away": "أحد",
+    "awayLogo": "https://jdwel.com/image/teams/2799.png",
+    "score": "2 - 0",
+    "time": "2:25 م"
+  },
+  {
+    "home": "الغوطة",
+    "homeLogo": "https://jdwel.com/image/teams/593.png",
+    "away": "النعيرية",
+    "awayLogo": "https://jdwel.com/image/teams/sau_alnairyah.png",
+    "score": "1 - 4",
+    "time": "2:25 م"
+  },
+  {
+    "home": "القلعة",
+    "homeLogo": "https://jdwel.com/image/teams/3947.png",
+    "away": "هجر",
+    "awayLogo": "https://jdwel.com/image/teams/sau_hajer.png",
+    "score": "0 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "الريان",
+    "homeLogo": "https://jdwel.com/image/teams/3303.png",
+    "away": "بيشة",
+    "awayLogo": "https://jdwel.com/image/teams/sau_bisha.png",
+    "score": "2 - 2",
+    "time": "2:30 م"
+  },
+  {
+    "home": "حطين",
+    "homeLogo": "https://jdwel.com/image/teams/1126.png",
+    "away": "وج",
+    "awayLogo": "https://jdwel.com/image/teams/4520.png",
+    "score": "2 - 1",
+    "time": "2:45 م"
+  },
+  {
+    "home": "القوس",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al_qous.png",
+    "away": "عرعر",
+    "awayLogo": "https://jdwel.com/image/teams/sau_arar_v2.png",
+    "score": "2 - 1",
+    "time": "2:40 م"
+  },
+  {
+    "home": "وج",
+    "homeLogo": "https://jdwel.com/image/teams/4520.png",
+    "away": "الريان",
+    "awayLogo": "https://jdwel.com/image/teams/3303.png",
+    "score": "1 - 1",
+    "time": "2:50 م"
+  },
+  {
+    "home": "عرعر",
+    "homeLogo": "https://jdwel.com/image/teams/sau_arar_v2.png",
+    "away": "مضر",
+    "awayLogo": "https://jdwel.com/image/teams/sau_mudhar.png",
+    "score": "0 - 2",
+    "time": "2:30 م"
+  },
+  {
+    "home": "العين",
+    "homeLogo": "https://jdwel.com/image/teams/3242.png",
+    "away": "الترجي",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al_taraji.png",
+    "score": "0 - 2",
+    "time": "2:50 م"
+  },
+  {
+    "home": "جرش",
+    "homeLogo": "https://jdwel.com/image/teams/4935.png",
+    "away": "الساحل",
+    "awayLogo": "https://jdwel.com/image/teams/3241.png",
+    "score": "2 - 0",
+    "time": "2:50 م"
+  },
+  {
+    "home": "نجران",
+    "homeLogo": "https://jdwel.com/image/teams/3240.png",
+    "away": "جبة",
+    "awayLogo": "https://jdwel.com/image/teams/3946.png",
+    "score": "1 - 1",
+    "time": "2:40 م"
+  },
+  {
+    "home": "اللواء",
+    "homeLogo": "https://jdwel.com/image/teams/3321.png",
+    "away": "القوس",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al_qous.png",
+    "score": "3 - 0",
+    "time": "1:25 م"
+  },
+  {
+    "home": "هجر",
+    "homeLogo": "https://jdwel.com/image/teams/sau_hajer.png",
+    "away": "مضر",
+    "awayLogo": "https://jdwel.com/image/teams/sau_mudhar.png",
+    "score": "2 - 0",
+    "time": "2:10 م"
+  },
+  {
+    "home": "القلعة",
+    "homeLogo": "https://jdwel.com/image/teams/3947.png",
+    "away": "الصفا",
+    "awayLogo": "https://jdwel.com/image/teams/3239.png",
+    "score": "0 - 2",
+    "time": "2:40 م"
+  },
+  {
+    "home": "بيشة",
+    "homeLogo": "https://jdwel.com/image/teams/sau_bisha.png",
+    "away": "الصقر",
+    "awayLogo": "https://jdwel.com/image/teams/371.png",
+    "score": "0 - 3",
+    "time": "2:45 م"
+  },
+  {
+    "home": "حطين",
+    "homeLogo": "https://jdwel.com/image/teams/1126.png",
+    "away": "عرعر",
+    "awayLogo": "https://jdwel.com/image/teams/sau_arar_v2.png",
+    "score": "1 - 0",
+    "time": "2:50 م"
+  },
+  {
+    "home": "أحد",
+    "homeLogo": "https://jdwel.com/image/teams/2799.png",
+    "away": "النعيرية",
+    "awayLogo": "https://jdwel.com/image/teams/sau_alnairyah.png",
+    "score": "1 - 4",
+    "time": "2:50 م"
+  },
+  {
+    "home": "وج",
+    "homeLogo": "https://jdwel.com/image/teams/4520.png",
+    "away": "الغوطة",
+    "awayLogo": "https://jdwel.com/image/teams/593.png",
+    "score": "0 - 2",
+    "time": "2:55 م"
+  },
+  {
+    "home": "الريان",
+    "homeLogo": "https://jdwel.com/image/teams/3303.png",
+    "away": "الكوكب",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al-kawkab.png",
+    "score": "3 - 1",
+    "time": "5:15 م"
+  },
+  {
+    "home": "الجيل",
+    "homeLogo": "https://jdwel.com/image/teams/951.png",
+    "away": "عفيف",
+    "awayLogo": "https://jdwel.com/image/teams/sau_afief.png",
+    "score": "2 - 1",
+    "time": "2:10 م"
+  },
+  {
+    "home": "النجوم",
+    "homeLogo": "https://jdwel.com/image/teams/11.png",
+    "away": "الروضة",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al_rawdhah.png",
+    "score": "3 - 0",
+    "time": "2:10 م"
+  },
+  {
+    "home": "الساحل",
+    "homeLogo": "https://jdwel.com/image/teams/3241.png",
+    "away": "الوشم",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al-washm_v2.png",
+    "score": "1 - 1",
+    "time": "2:10 م"
+  },
+  {
+    "home": "السد",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al-sadd.png",
+    "away": "الشعلة",
+    "awayLogo": "https://jdwel.com/image/teams/2798.png",
+    "score": "1 - 2",
+    "time": "2:25 م"
+  },
+  {
+    "home": "الشرق",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al_sharq.png",
+    "away": "الترجي",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al_taraji.png",
+    "score": "1 - 0",
+    "time": "2:25 م"
+  },
+  {
+    "home": "جبة",
+    "homeLogo": "https://jdwel.com/image/teams/3946.png",
+    "away": "العين",
+    "awayLogo": "https://jdwel.com/image/teams/3242.png",
+    "score": "3 - 4",
+    "time": "2:35 م"
+  },
+  {
+    "home": "نجران",
+    "homeLogo": "https://jdwel.com/image/teams/3240.png",
+    "away": "الإنتصار",
+    "awayLogo": "https://jdwel.com/image/teams/379.png",
+    "score": "4 - 2",
+    "time": "2:45 م"
+  },
+  {
+    "home": "جرش",
+    "homeLogo": "https://jdwel.com/image/teams/4935.png",
+    "away": "طويق",
+    "awayLogo": "https://jdwel.com/image/teams/sau_tuwaiq.png",
+    "score": "3 - 2",
+    "time": "2:50 م"
+  },
+  {
+    "home": "الصفا",
+    "homeLogo": "https://jdwel.com/image/teams/3239.png",
+    "away": "الريان",
+    "awayLogo": "https://jdwel.com/image/teams/3303.png",
+    "score": "1 - 2",
+    "time": "2:10 م"
+  },
+  {
+    "home": "مضر",
+    "homeLogo": "https://jdwel.com/image/teams/sau_mudhar.png",
+    "away": "بيشة",
+    "awayLogo": "https://jdwel.com/image/teams/sau_bisha.png",
+    "score": "4 - 1",
+    "time": "2:10 م"
+  },
+  {
+    "home": "النعيرية",
+    "homeLogo": "https://jdwel.com/image/teams/sau_alnairyah.png",
+    "away": "القلعة",
+    "awayLogo": "https://jdwel.com/image/teams/3947.png",
+    "score": "4 - 3",
+    "time": "2:15 م"
+  },
+  {
+    "home": "الكوكب",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al-kawkab.png",
+    "away": "وج",
+    "awayLogo": "https://jdwel.com/image/teams/4520.png",
+    "score": "2 - 1",
+    "time": "2:25 م"
+  },
+  {
+    "home": "الصقر",
+    "homeLogo": "https://jdwel.com/image/teams/371.png",
+    "away": "حطين",
+    "awayLogo": "https://jdwel.com/image/teams/1126.png",
+    "score": "1 - 1",
+    "time": "2:35 م"
+  },
+  {
+    "home": "عرعر",
+    "homeLogo": "https://jdwel.com/image/teams/sau_arar_v2.png",
+    "away": "اللواء",
+    "awayLogo": "https://jdwel.com/image/teams/3321.png",
+    "score": "3 - 4",
+    "time": "2:40 م"
+  },
+  {
+    "home": "الغوطة",
+    "homeLogo": "https://jdwel.com/image/teams/593.png",
+    "away": "أحد",
+    "awayLogo": "https://jdwel.com/image/teams/2799.png",
+    "score": "3 - 0",
+    "time": "2:40 م"
+  },
+  {
+    "home": "القوس",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al_qous.png",
+    "away": "هجر",
+    "awayLogo": "https://jdwel.com/image/teams/sau_hajer.png",
+    "score": "1 - 1",
+    "time": "2:50 م"
+  },
+  {
+    "home": "الترجي",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al_taraji.png",
+    "away": "جرش",
+    "awayLogo": "https://jdwel.com/image/teams/4935.png",
+    "score": "2 - 1",
+    "time": "2:10 م"
+  },
+  {
+    "home": "الروضة",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al_rawdhah.png",
+    "away": "الشرق",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al_sharq.png",
+    "score": "3 - 1",
+    "time": "2:15 م"
+  },
+  {
+    "home": "الشعلة",
+    "homeLogo": "https://jdwel.com/image/teams/2798.png",
+    "away": "النجوم",
+    "awayLogo": "https://jdwel.com/image/teams/11.png",
+    "score": "2 - 2",
+    "time": "2:25 م"
+  },
+  {
+    "home": "الوشم",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al-washm_v2.png",
+    "away": "نجران",
+    "awayLogo": "https://jdwel.com/image/teams/3240.png",
+    "score": "2 - 0",
+    "time": "2:35 م"
+  },
+  {
+    "home": "طويق",
+    "homeLogo": "https://jdwel.com/image/teams/sau_tuwaiq.png",
+    "away": "السد",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al-sadd.png",
+    "score": "1 - 1",
+    "time": "2:35 م"
+  },
+  {
+    "home": "عفيف",
+    "homeLogo": "https://jdwel.com/image/teams/sau_afief.png",
+    "away": "جبة",
+    "awayLogo": "https://jdwel.com/image/teams/3946.png",
+    "score": "0 - 0",
+    "time": "2:45 م"
+  },
+  {
+    "home": "العين",
+    "homeLogo": "https://jdwel.com/image/teams/3242.png",
+    "away": "الساحل",
+    "awayLogo": "https://jdwel.com/image/teams/3241.png",
+    "score": "2 - 0",
+    "time": "2:55 م"
+  },
+  {
+    "home": "الإنتصار",
+    "homeLogo": "https://jdwel.com/image/teams/379.png",
+    "away": "الجيل",
+    "awayLogo": "https://jdwel.com/image/teams/951.png",
+    "score": "1 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "عرعر",
+    "homeLogo": "https://jdwel.com/image/teams/sau_arar_v2.png",
+    "away": "هجر",
+    "awayLogo": "https://jdwel.com/image/teams/sau_hajer.png",
+    "score": "1 - 2",
+    "time": "2:45 م"
+  },
+  {
+    "home": "الريان",
+    "homeLogo": "https://jdwel.com/image/teams/3303.png",
+    "away": "النعيرية",
+    "awayLogo": "https://jdwel.com/image/teams/sau_alnairyah.png",
+    "score": "1 - 1",
+    "time": "2:45 م"
+  },
+  {
+    "home": "اللواء",
+    "homeLogo": "https://jdwel.com/image/teams/3321.png",
+    "away": "الصقر",
+    "awayLogo": "https://jdwel.com/image/teams/371.png",
+    "score": "0 - 1",
+    "time": "2:45 م"
+  },
+  {
+    "home": "القلعة",
+    "homeLogo": "https://jdwel.com/image/teams/3947.png",
+    "away": "الغوطة",
+    "awayLogo": "https://jdwel.com/image/teams/593.png",
+    "score": "0 - 0",
+    "time": "2:50 م"
+  },
+  {
+    "home": "حطين",
+    "homeLogo": "https://jdwel.com/image/teams/1126.png",
+    "away": "مضر",
+    "awayLogo": "https://jdwel.com/image/teams/sau_mudhar.png",
+    "score": "2 - 0",
+    "time": "2:55 م"
+  },
+  {
+    "home": "القوس",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al_qous.png",
+    "away": "بيشة",
+    "awayLogo": "https://jdwel.com/image/teams/sau_bisha.png",
+    "score": "3 - 0",
+    "time": "2:55 م"
+  },
+  {
+    "home": "أحد",
+    "homeLogo": "https://jdwel.com/image/teams/2799.png",
+    "away": "الكوكب",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al-kawkab.png",
+    "score": "0 - 1",
+    "time": "3:00 م"
+  },
+  {
+    "home": "وج",
+    "homeLogo": "https://jdwel.com/image/teams/4520.png",
+    "away": "الصفا",
+    "awayLogo": "https://jdwel.com/image/teams/3239.png",
+    "score": "1 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "الساحل",
+    "homeLogo": "https://jdwel.com/image/teams/3241.png",
+    "away": "عفيف",
+    "awayLogo": "https://jdwel.com/image/teams/sau_afief.png",
+    "score": "2 - 0",
+    "time": "2:15 م"
+  },
+  {
+    "home": "الترجي",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al_taraji.png",
+    "away": "السد",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al-sadd.png",
+    "score": "2 - 2",
+    "time": "2:15 م"
+  },
+  {
+    "home": "الجيل",
+    "homeLogo": "https://jdwel.com/image/teams/951.png",
+    "away": "الوشم",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al-washm_v2.png",
+    "score": "0 - 1",
+    "time": "2:20 م"
+  },
+  {
+    "home": "الروضة",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al_rawdhah.png",
+    "away": "جرش",
+    "awayLogo": "https://jdwel.com/image/teams/4935.png",
+    "score": "0 - 1",
+    "time": "2:20 م"
+  },
+  {
+    "home": "النجوم",
+    "homeLogo": "https://jdwel.com/image/teams/11.png",
+    "away": "طويق",
+    "awayLogo": "https://jdwel.com/image/teams/sau_tuwaiq.png",
+    "score": "0 - 0",
+    "time": "2:20 م"
+  },
+  {
+    "home": "الشرق",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al_sharq.png",
+    "away": "الشعلة",
+    "awayLogo": "https://jdwel.com/image/teams/2798.png",
+    "score": "2 - 2",
+    "time": "2:30 م"
+  },
+  {
+    "home": "جبة",
+    "homeLogo": "https://jdwel.com/image/teams/3946.png",
+    "away": "الإنتصار",
+    "awayLogo": "https://jdwel.com/image/teams/379.png",
+    "score": "4 - 0",
+    "time": "2:45 م"
+  },
+  {
+    "home": "نجران",
+    "homeLogo": "https://jdwel.com/image/teams/3240.png",
+    "away": "العين",
+    "awayLogo": "https://jdwel.com/image/teams/3242.png",
+    "score": "2 - 0",
+    "time": "2:50 م"
+  },
+  {
+    "home": "الصفا",
+    "homeLogo": "https://jdwel.com/image/teams/3239.png",
+    "away": "الغوطة",
+    "awayLogo": "https://jdwel.com/image/teams/593.png",
+    "score": "0 - 0",
+    "time": "2:20 م"
+  },
+  {
+    "home": "هجر",
+    "homeLogo": "https://jdwel.com/image/teams/sau_hajer.png",
+    "away": "حطين",
+    "awayLogo": "https://jdwel.com/image/teams/1126.png",
+    "score": "3 - 1",
+    "time": "2:20 م"
+  },
+  {
+    "home": "الكوكب",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al-kawkab.png",
+    "away": "القلعة",
+    "awayLogo": "https://jdwel.com/image/teams/3947.png",
+    "score": "2 - 1",
+    "time": "2:35 م"
+  },
+  {
+    "home": "الصقر",
+    "homeLogo": "https://jdwel.com/image/teams/371.png",
+    "away": "القوس",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al_qous.png",
+    "score": "1 - 0",
+    "time": "2:40 م"
+  },
+  {
+    "home": "اللواء",
+    "homeLogo": "https://jdwel.com/image/teams/3321.png",
+    "away": "مضر",
+    "awayLogo": "https://jdwel.com/image/teams/sau_mudhar.png",
+    "score": "3 - 2",
+    "time": "2:45 م"
+  },
+  {
+    "home": "بيشة",
+    "homeLogo": "https://jdwel.com/image/teams/sau_bisha.png",
+    "away": "عرعر",
+    "awayLogo": "https://jdwel.com/image/teams/sau_arar_v2.png",
+    "score": "2 - 4",
+    "time": "2:55 م"
+  },
+  {
+    "home": "أحد",
+    "homeLogo": "https://jdwel.com/image/teams/2799.png",
+    "away": "الريان",
+    "awayLogo": "https://jdwel.com/image/teams/3303.png",
+    "score": "0 - 3",
+    "time": "3:00 م"
+  },
+  {
+    "home": "وج",
+    "homeLogo": "https://jdwel.com/image/teams/4520.png",
+    "away": "النعيرية",
+    "awayLogo": "https://jdwel.com/image/teams/sau_alnairyah.png",
+    "score": "0 - 0",
+    "time": "3:05 م"
+  },
+  {
+    "home": "الجيل",
+    "homeLogo": "https://jdwel.com/image/teams/951.png",
+    "away": "الساحل",
+    "awayLogo": "https://jdwel.com/image/teams/3241.png",
+    "score": "0 - 2",
+    "time": "2:20 م"
+  },
+  {
+    "home": "الشرق",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al_sharq.png",
+    "away": "طويق",
+    "awayLogo": "https://jdwel.com/image/teams/sau_tuwaiq.png",
+    "score": "1 - 2",
+    "time": "2:35 م"
+  },
+  {
+    "home": "السد",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al-sadd.png",
+    "away": "الروضة",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al_rawdhah.png",
+    "score": "0 - 1",
+    "time": "2:35 م"
+  },
+  {
+    "home": "الوشم",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al-washm_v2.png",
+    "away": "جبة",
+    "awayLogo": "https://jdwel.com/image/teams/3946.png",
+    "score": "4 - 3",
+    "time": "2:40 م"
+  },
+  {
+    "home": "العين",
+    "homeLogo": "https://jdwel.com/image/teams/3242.png",
+    "away": "الإنتصار",
+    "awayLogo": "https://jdwel.com/image/teams/379.png",
+    "score": "1 - 1",
+    "time": "2:50 م"
+  },
+  {
+    "home": "نجران",
+    "homeLogo": "https://jdwel.com/image/teams/3240.png",
+    "away": "عفيف",
+    "awayLogo": "https://jdwel.com/image/teams/sau_afief.png",
+    "score": "2 - 0",
+    "time": "2:55 م"
+  },
+  {
+    "home": "جرش",
+    "homeLogo": "https://jdwel.com/image/teams/4935.png",
+    "away": "النجوم",
+    "awayLogo": "https://jdwel.com/image/teams/11.png",
+    "score": "2 - 2",
+    "time": "3:00 م"
+  },
+  {
+    "home": "الشعلة",
+    "homeLogo": "https://jdwel.com/image/teams/2798.png",
+    "away": "الترجي",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al_taraji.png",
+    "score": "0 - 2",
+    "time": "2:35 م"
+  },
+  {
+    "home": "مضر",
+    "homeLogo": "https://jdwel.com/image/teams/sau_mudhar.png",
+    "away": "أحد",
+    "awayLogo": "https://jdwel.com/image/teams/2799.png",
+    "score": "3 - 1",
+    "time": "2:20 م"
+  },
+  {
+    "home": "النعيرية",
+    "homeLogo": "https://jdwel.com/image/teams/sau_alnairyah.png",
+    "away": "هجر",
+    "awayLogo": "https://jdwel.com/image/teams/sau_hajer.png",
+    "score": "1 - 2",
+    "time": "2:25 م"
+  },
+  {
+    "home": "عرعر",
+    "homeLogo": "https://jdwel.com/image/teams/sau_arar_v2.png",
+    "away": "الريان",
+    "awayLogo": "https://jdwel.com/image/teams/3303.png",
+    "score": "2 - 2",
+    "time": "2:50 م"
+  },
+  {
+    "home": "الغوطة",
+    "homeLogo": "https://jdwel.com/image/teams/593.png",
+    "away": "اللواء",
+    "awayLogo": "https://jdwel.com/image/teams/3321.png",
+    "score": "4 - 4",
+    "time": "2:50 م"
+  },
+  {
+    "home": "القلعة",
+    "homeLogo": "https://jdwel.com/image/teams/3947.png",
+    "away": "الصقر",
+    "awayLogo": "https://jdwel.com/image/teams/371.png",
+    "score": "0 - 1",
+    "time": "2:55 م"
+  },
+  {
+    "home": "القوس",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al_qous.png",
+    "away": "وج",
+    "awayLogo": "https://jdwel.com/image/teams/4520.png",
+    "score": "0 - 2",
+    "time": "3:00 م"
+  },
+  {
+    "home": "حطين",
+    "homeLogo": "https://jdwel.com/image/teams/1126.png",
+    "away": "الكوكب",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al-kawkab.png",
+    "score": "2 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "الترجي",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al_taraji.png",
+    "away": "نجران",
+    "awayLogo": "https://jdwel.com/image/teams/3240.png",
+    "score": "1 - 1",
+    "time": "2:20 م"
+  },
+  {
+    "home": "الصفا",
+    "homeLogo": "https://jdwel.com/image/teams/3239.png",
+    "away": "بيشة",
+    "awayLogo": "https://jdwel.com/image/teams/sau_bisha.png",
+    "score": "2 - 1",
+    "time": "2:20 م"
+  },
+  {
+    "home": "الروضة",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al_rawdhah.png",
+    "away": "الساحل",
+    "awayLogo": "https://jdwel.com/image/teams/3241.png",
+    "score": "1 - 5",
+    "time": "2:25 م"
+  },
+  {
+    "home": "النجوم",
+    "homeLogo": "https://jdwel.com/image/teams/11.png",
+    "away": "الوشم",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al-washm_v2.png",
+    "score": "2 - 2",
+    "time": "2:25 م"
+  },
+  {
+    "home": "طويق",
+    "homeLogo": "https://jdwel.com/image/teams/sau_tuwaiq.png",
+    "away": "الجيل",
+    "awayLogo": "https://jdwel.com/image/teams/951.png",
+    "score": "0 - 1",
+    "time": "2:45 م"
+  },
+  {
+    "home": "عفيف",
+    "homeLogo": "https://jdwel.com/image/teams/sau_afief.png",
+    "away": "جرش",
+    "awayLogo": "https://jdwel.com/image/teams/4935.png",
+    "score": "1 - 2",
+    "time": "2:55 م"
+  },
+  {
+    "home": "العين",
+    "homeLogo": "https://jdwel.com/image/teams/3242.png",
+    "away": "السد",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al-sadd.png",
+    "score": "3 - 0",
+    "time": "3:05 م"
+  },
+  {
+    "home": "الإنتصار",
+    "homeLogo": "https://jdwel.com/image/teams/379.png",
+    "away": "الشرق",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al_sharq.png",
+    "score": "0 - 0",
+    "time": "3:10 م"
+  },
+  {
+    "home": "جبة",
+    "homeLogo": "https://jdwel.com/image/teams/3946.png",
+    "away": "الشعلة",
+    "awayLogo": "https://jdwel.com/image/teams/2798.png",
+    "score": "1 - 0",
+    "time": "5:35 م"
+  },
+  {
+    "home": "وج",
+    "homeLogo": "https://jdwel.com/image/teams/4520.png",
+    "away": "القلعة",
+    "awayLogo": "https://jdwel.com/image/teams/3947.png",
+    "score": "0 - 0",
+    "time": "3:10 م"
+  },
+  {
+    "home": "الساحل",
+    "homeLogo": "https://jdwel.com/image/teams/3241.png",
+    "away": "الإنتصار",
+    "awayLogo": "https://jdwel.com/image/teams/379.png",
+    "score": "0 - 0",
+    "time": "2:25 م"
+  },
+  {
+    "home": "الجيل",
+    "homeLogo": "https://jdwel.com/image/teams/951.png",
+    "away": "العين",
+    "awayLogo": "https://jdwel.com/image/teams/3242.png",
+    "score": "0 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "النجوم",
+    "homeLogo": "https://jdwel.com/image/teams/11.png",
+    "away": "الترجي",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al_taraji.png",
+    "score": "0 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "السد",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al-sadd.png",
+    "away": "جبة",
+    "awayLogo": "https://jdwel.com/image/teams/3946.png",
+    "score": "0 - 0",
+    "time": "2:40 م"
+  },
+  {
+    "home": "الشعلة",
+    "homeLogo": "https://jdwel.com/image/teams/2798.png",
+    "away": "جرش",
+    "awayLogo": "https://jdwel.com/image/teams/4935.png",
+    "score": "0 - 0",
+    "time": "2:40 م"
+  },
+  {
+    "home": "الوشم",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al-washm_v2.png",
+    "away": "الشرق",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al_sharq.png",
+    "score": "0 - 0",
+    "time": "2:45 م"
+  },
+  {
+    "home": "طويق",
+    "homeLogo": "https://jdwel.com/image/teams/sau_tuwaiq.png",
+    "away": "عفيف",
+    "awayLogo": "https://jdwel.com/image/teams/sau_afief.png",
+    "score": "0 - 0",
+    "time": "2:45 م"
+  },
+  {
+    "home": "نجران",
+    "homeLogo": "https://jdwel.com/image/teams/3240.png",
+    "away": "الروضة",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al_rawdhah.png",
+    "score": "0 - 0",
+    "time": "2:55 م"
+  },
+  {
+    "home": "مضر",
+    "homeLogo": "https://jdwel.com/image/teams/sau_mudhar.png",
+    "away": "النعيرية",
+    "awayLogo": "https://jdwel.com/image/teams/sau_alnairyah.png",
+    "score": "0 - 0",
+    "time": "2:25 م"
+  },
+  {
+    "home": "الكوكب",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al-kawkab.png",
+    "away": "اللواء",
+    "awayLogo": "https://jdwel.com/image/teams/3321.png",
+    "score": "0 - 0",
+    "time": "2:40 م"
+  },
+  {
+    "home": "الصقر",
+    "homeLogo": "https://jdwel.com/image/teams/371.png",
+    "away": "هجر",
+    "awayLogo": "https://jdwel.com/image/teams/sau_hajer.png",
+    "score": "0 - 0",
+    "time": "2:50 م"
+  },
+  {
+    "home": "بيشة",
+    "homeLogo": "https://jdwel.com/image/teams/sau_bisha.png",
+    "away": "القلعة",
+    "awayLogo": "https://jdwel.com/image/teams/3947.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "الريان",
+    "homeLogo": "https://jdwel.com/image/teams/3303.png",
+    "away": "الغوطة",
+    "awayLogo": "https://jdwel.com/image/teams/593.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "حطين",
+    "homeLogo": "https://jdwel.com/image/teams/1126.png",
+    "away": "القوس",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al_qous.png",
+    "score": "0 - 0",
+    "time": "3:05 م"
+  },
+  {
+    "home": "أحد",
+    "homeLogo": "https://jdwel.com/image/teams/2799.png",
+    "away": "الصفا",
+    "awayLogo": "https://jdwel.com/image/teams/3239.png",
+    "score": "0 - 0",
+    "time": "3:10 م"
+  },
+  {
+    "home": "وج",
+    "homeLogo": "https://jdwel.com/image/teams/4520.png",
+    "away": "عرعر",
+    "awayLogo": "https://jdwel.com/image/teams/sau_arar_v2.png",
+    "score": "0 - 0",
+    "time": "3:10 م"
+  },
+  {
+    "home": "الترجي",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al_taraji.png",
+    "away": "طويق",
+    "awayLogo": "https://jdwel.com/image/teams/sau_tuwaiq.png",
+    "score": "0 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "الشعلة",
+    "homeLogo": "https://jdwel.com/image/teams/2798.png",
+    "away": "الروضة",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al_rawdhah.png",
+    "score": "0 - 0",
+    "time": "2:40 م"
+  },
+  {
+    "home": "الشرق",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al_sharq.png",
+    "away": "الساحل",
+    "awayLogo": "https://jdwel.com/image/teams/3241.png",
+    "score": "0 - 0",
+    "time": "2:40 م"
+  },
+  {
+    "home": "السد",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al-sadd.png",
+    "away": "الجيل",
+    "awayLogo": "https://jdwel.com/image/teams/951.png",
+    "score": "0 - 0",
+    "time": "2:45 م"
+  },
+  {
+    "home": "جبة",
+    "homeLogo": "https://jdwel.com/image/teams/3946.png",
+    "away": "النجوم",
+    "awayLogo": "https://jdwel.com/image/teams/11.png",
+    "score": "0 - 0",
+    "time": "2:55 م"
+  },
+  {
+    "home": "عفيف",
+    "homeLogo": "https://jdwel.com/image/teams/sau_afief.png",
+    "away": "العين",
+    "awayLogo": "https://jdwel.com/image/teams/3242.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "جرش",
+    "homeLogo": "https://jdwel.com/image/teams/4935.png",
+    "away": "نجران",
+    "awayLogo": "https://jdwel.com/image/teams/3240.png",
+    "score": "0 - 0",
+    "time": "3:05 م"
+  },
+  {
+    "home": "الإنتصار",
+    "homeLogo": "https://jdwel.com/image/teams/379.png",
+    "away": "الوشم",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al-washm_v2.png",
+    "score": "0 - 0",
+    "time": "3:15 م"
+  },
+  {
+    "home": "هجر",
+    "homeLogo": "https://jdwel.com/image/teams/sau_hajer.png",
+    "away": "وج",
+    "awayLogo": "https://jdwel.com/image/teams/4520.png",
+    "score": "0 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "النعيرية",
+    "homeLogo": "https://jdwel.com/image/teams/sau_alnairyah.png",
+    "away": "الصفا",
+    "awayLogo": "https://jdwel.com/image/teams/3239.png",
+    "score": "0 - 0",
+    "time": "2:35 م"
+  },
+  {
+    "home": "الصقر",
+    "homeLogo": "https://jdwel.com/image/teams/371.png",
+    "away": "عرعر",
+    "awayLogo": "https://jdwel.com/image/teams/sau_arar_v2.png",
+    "score": "0 - 0",
+    "time": "2:55 م"
+  },
+  {
+    "home": "الغوطة",
+    "homeLogo": "https://jdwel.com/image/teams/593.png",
+    "away": "الكوكب",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al-kawkab.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "اللواء",
+    "homeLogo": "https://jdwel.com/image/teams/3321.png",
+    "away": "الريان",
+    "awayLogo": "https://jdwel.com/image/teams/3303.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "القلعة",
+    "homeLogo": "https://jdwel.com/image/teams/3947.png",
+    "away": "حطين",
+    "awayLogo": "https://jdwel.com/image/teams/1126.png",
+    "score": "0 - 0",
+    "time": "3:05 م"
+  },
+  {
+    "home": "بيشة",
+    "homeLogo": "https://jdwel.com/image/teams/sau_bisha.png",
+    "away": "أحد",
+    "awayLogo": "https://jdwel.com/image/teams/2799.png",
+    "score": "0 - 0",
+    "time": "3:05 م"
+  },
+  {
+    "home": "القوس",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al_qous.png",
+    "away": "مضر",
+    "awayLogo": "https://jdwel.com/image/teams/sau_mudhar.png",
+    "score": "0 - 0",
+    "time": "3:05 م"
+  },
+  {
+    "home": "الساحل",
+    "homeLogo": "https://jdwel.com/image/teams/3241.png",
+    "away": "الشعلة",
+    "awayLogo": "https://jdwel.com/image/teams/2798.png",
+    "score": "0 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "الترجي",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al_taraji.png",
+    "away": "الجيل",
+    "awayLogo": "https://jdwel.com/image/teams/951.png",
+    "score": "0 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "الروضة",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al_rawdhah.png",
+    "away": "جبة",
+    "awayLogo": "https://jdwel.com/image/teams/3946.png",
+    "score": "0 - 0",
+    "time": "2:35 م"
+  },
+  {
+    "home": "الشرق",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al_sharq.png",
+    "away": "عفيف",
+    "awayLogo": "https://jdwel.com/image/teams/sau_afief.png",
+    "score": "0 - 0",
+    "time": "2:45 م"
+  },
+  {
+    "home": "طويق",
+    "homeLogo": "https://jdwel.com/image/teams/sau_tuwaiq.png",
+    "away": "نجران",
+    "awayLogo": "https://jdwel.com/image/teams/3240.png",
+    "score": "0 - 0",
+    "time": "2:50 م"
+  },
+  {
+    "home": "الوشم",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al-washm_v2.png",
+    "away": "السد",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al-sadd.png",
+    "score": "0 - 0",
+    "time": "2:50 م"
+  },
+  {
+    "home": "العين",
+    "homeLogo": "https://jdwel.com/image/teams/3242.png",
+    "away": "جرش",
+    "awayLogo": "https://jdwel.com/image/teams/4935.png",
+    "score": "0 - 0",
+    "time": "3:10 م"
+  },
+  {
+    "home": "الإنتصار",
+    "homeLogo": "https://jdwel.com/image/teams/379.png",
+    "away": "النجوم",
+    "awayLogo": "https://jdwel.com/image/teams/11.png",
+    "score": "0 - 0",
+    "time": "3:15 م"
+  },
+  {
+    "home": "الصفا",
+    "homeLogo": "https://jdwel.com/image/teams/3239.png",
+    "away": "هجر",
+    "awayLogo": "https://jdwel.com/image/teams/sau_hajer.png",
+    "score": "0 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "مضر",
+    "homeLogo": "https://jdwel.com/image/teams/sau_mudhar.png",
+    "away": "وج",
+    "awayLogo": "https://jdwel.com/image/teams/4520.png",
+    "score": "0 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "الكوكب",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al-kawkab.png",
+    "away": "بيشة",
+    "awayLogo": "https://jdwel.com/image/teams/sau_bisha.png",
+    "score": "0 - 0",
+    "time": "2:45 م"
+  },
+  {
+    "home": "اللواء",
+    "homeLogo": "https://jdwel.com/image/teams/3321.png",
+    "away": "النعيرية",
+    "awayLogo": "https://jdwel.com/image/teams/sau_alnairyah.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "الغوطة",
+    "homeLogo": "https://jdwel.com/image/teams/593.png",
+    "away": "حطين",
+    "awayLogo": "https://jdwel.com/image/teams/1126.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "عرعر",
+    "homeLogo": "https://jdwel.com/image/teams/sau_arar_v2.png",
+    "away": "القلعة",
+    "awayLogo": "https://jdwel.com/image/teams/3947.png",
+    "score": "0 - 0",
+    "time": "3:05 م"
+  },
+  {
+    "home": "القوس",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al_qous.png",
+    "away": "أحد",
+    "awayLogo": "https://jdwel.com/image/teams/2799.png",
+    "score": "0 - 0",
+    "time": "3:05 م"
+  },
+  {
+    "home": "الريان",
+    "homeLogo": "https://jdwel.com/image/teams/3303.png",
+    "away": "الصقر",
+    "awayLogo": "https://jdwel.com/image/teams/371.png",
+    "score": "0 - 0",
+    "time": "3:05 م"
+  },
+  {
+    "home": "العين",
+    "homeLogo": "https://jdwel.com/image/teams/3242.png",
+    "away": "الشرق",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al_sharq.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "الجيل",
+    "homeLogo": "https://jdwel.com/image/teams/951.png",
+    "away": "الروضة",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al_rawdhah.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "نجران",
+    "homeLogo": "https://jdwel.com/image/teams/3240.png",
+    "away": "الشعلة",
+    "awayLogo": "https://jdwel.com/image/teams/2798.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "السد",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al-sadd.png",
+    "away": "الإنتصار",
+    "awayLogo": "https://jdwel.com/image/teams/379.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "الساحل",
+    "homeLogo": "https://jdwel.com/image/teams/3241.png",
+    "away": "طويق",
+    "awayLogo": "https://jdwel.com/image/teams/sau_tuwaiq.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "النجوم",
+    "homeLogo": "https://jdwel.com/image/teams/11.png",
+    "away": "عفيف",
+    "awayLogo": "https://jdwel.com/image/teams/sau_afief.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "جرش",
+    "homeLogo": "https://jdwel.com/image/teams/4935.png",
+    "away": "الوشم",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al-washm_v2.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "جبة",
+    "homeLogo": "https://jdwel.com/image/teams/3946.png",
+    "away": "الترجي",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al_taraji.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "القلعة",
+    "homeLogo": "https://jdwel.com/image/teams/3947.png",
+    "away": "القوس",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al_qous.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "الصفا",
+    "homeLogo": "https://jdwel.com/image/teams/3239.png",
+    "away": "اللواء",
+    "awayLogo": "https://jdwel.com/image/teams/3321.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "هجر",
+    "homeLogo": "https://jdwel.com/image/teams/sau_hajer.png",
+    "away": "الكوكب",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al-kawkab.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "بيشة",
+    "homeLogo": "https://jdwel.com/image/teams/sau_bisha.png",
+    "away": "الغوطة",
+    "awayLogo": "https://jdwel.com/image/teams/593.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "الريان",
+    "homeLogo": "https://jdwel.com/image/teams/3303.png",
+    "away": "مضر",
+    "awayLogo": "https://jdwel.com/image/teams/sau_mudhar.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "حطين",
+    "homeLogo": "https://jdwel.com/image/teams/1126.png",
+    "away": "النعيرية",
+    "awayLogo": "https://jdwel.com/image/teams/sau_alnairyah.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "أحد",
+    "homeLogo": "https://jdwel.com/image/teams/2799.png",
+    "away": "عرعر",
+    "awayLogo": "https://jdwel.com/image/teams/sau_arar_v2.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "وج",
+    "homeLogo": "https://jdwel.com/image/teams/4520.png",
+    "away": "الصقر",
+    "awayLogo": "https://jdwel.com/image/teams/371.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "النجوم",
+    "homeLogo": "https://jdwel.com/image/teams/11.png",
+    "away": "العين",
+    "awayLogo": "https://jdwel.com/image/teams/3242.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "الشعلة",
+    "homeLogo": "https://jdwel.com/image/teams/2798.png",
+    "away": "الجيل",
+    "awayLogo": "https://jdwel.com/image/teams/951.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "جرش",
+    "homeLogo": "https://jdwel.com/image/teams/4935.png",
+    "away": "الإنتصار",
+    "awayLogo": "https://jdwel.com/image/teams/379.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "نجران",
+    "homeLogo": "https://jdwel.com/image/teams/3240.png",
+    "away": "الشرق",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al_sharq.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "الروضة",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al_rawdhah.png",
+    "away": "الوشم",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al-washm_v2.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "الترجي",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al_taraji.png",
+    "away": "الساحل",
+    "awayLogo": "https://jdwel.com/image/teams/3241.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "عفيف",
+    "homeLogo": "https://jdwel.com/image/teams/sau_afief.png",
+    "away": "السد",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al-sadd.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "طويق",
+    "homeLogo": "https://jdwel.com/image/teams/sau_tuwaiq.png",
+    "away": "جبة",
+    "awayLogo": "https://jdwel.com/image/teams/3946.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "مضر",
+    "homeLogo": "https://jdwel.com/image/teams/sau_mudhar.png",
+    "away": "القلعة",
+    "awayLogo": "https://jdwel.com/image/teams/3947.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "حطين",
+    "homeLogo": "https://jdwel.com/image/teams/1126.png",
+    "away": "الصفا",
+    "awayLogo": "https://jdwel.com/image/teams/3239.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "الصقر",
+    "homeLogo": "https://jdwel.com/image/teams/371.png",
+    "away": "أحد",
+    "awayLogo": "https://jdwel.com/image/teams/2799.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "هجر",
+    "homeLogo": "https://jdwel.com/image/teams/sau_hajer.png",
+    "away": "الغوطة",
+    "awayLogo": "https://jdwel.com/image/teams/593.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "وج",
+    "homeLogo": "https://jdwel.com/image/teams/4520.png",
+    "away": "اللواء",
+    "awayLogo": "https://jdwel.com/image/teams/3321.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "عرعر",
+    "homeLogo": "https://jdwel.com/image/teams/sau_arar_v2.png",
+    "away": "الكوكب",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al-kawkab.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "القوس",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al_qous.png",
+    "away": "الريان",
+    "awayLogo": "https://jdwel.com/image/teams/3303.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "النعيرية",
+    "homeLogo": "https://jdwel.com/image/teams/sau_alnairyah.png",
+    "away": "بيشة",
+    "awayLogo": "https://jdwel.com/image/teams/sau_bisha.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "الريان",
+    "homeLogo": "https://jdwel.com/image/teams/3303.png",
+    "away": "القلعة",
+    "awayLogo": "https://jdwel.com/image/teams/3947.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "الصفا",
+    "homeLogo": "https://jdwel.com/image/teams/3239.png",
+    "away": "عرعر",
+    "awayLogo": "https://jdwel.com/image/teams/sau_arar_v2.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "أحد",
+    "homeLogo": "https://jdwel.com/image/teams/2799.png",
+    "away": "وج",
+    "awayLogo": "https://jdwel.com/image/teams/4520.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "النعيرية",
+    "homeLogo": "https://jdwel.com/image/teams/sau_alnairyah.png",
+    "away": "الصقر",
+    "awayLogo": "https://jdwel.com/image/teams/371.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "بيشة",
+    "homeLogo": "https://jdwel.com/image/teams/sau_bisha.png",
+    "away": "هجر",
+    "awayLogo": "https://jdwel.com/image/teams/sau_hajer.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "الغوطة",
+    "homeLogo": "https://jdwel.com/image/teams/593.png",
+    "away": "مضر",
+    "awayLogo": "https://jdwel.com/image/teams/sau_mudhar.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "الكوكب",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al-kawkab.png",
+    "away": "القوس",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al_qous.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "اللواء",
+    "homeLogo": "https://jdwel.com/image/teams/3321.png",
+    "away": "حطين",
+    "awayLogo": "https://jdwel.com/image/teams/1126.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "الساحل",
+    "homeLogo": "https://jdwel.com/image/teams/3241.png",
+    "away": "جبة",
+    "awayLogo": "https://jdwel.com/image/teams/3946.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "العين",
+    "homeLogo": "https://jdwel.com/image/teams/3242.png",
+    "away": "الروضة",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al_rawdhah.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "الجيل",
+    "homeLogo": "https://jdwel.com/image/teams/951.png",
+    "away": "نجران",
+    "awayLogo": "https://jdwel.com/image/teams/3240.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "عفيف",
+    "homeLogo": "https://jdwel.com/image/teams/sau_afief.png",
+    "away": "الشعلة",
+    "awayLogo": "https://jdwel.com/image/teams/2798.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "السد",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al-sadd.png",
+    "away": "جرش",
+    "awayLogo": "https://jdwel.com/image/teams/4935.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "الشرق",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al_sharq.png",
+    "away": "النجوم",
+    "awayLogo": "https://jdwel.com/image/teams/11.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "الوشم",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al-washm_v2.png",
+    "away": "الترجي",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al_taraji.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "الإنتصار",
+    "homeLogo": "https://jdwel.com/image/teams/379.png",
+    "away": "طويق",
+    "awayLogo": "https://jdwel.com/image/teams/sau_tuwaiq.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "القلعة",
+    "homeLogo": "https://jdwel.com/image/teams/3947.png",
+    "away": "اللواء",
+    "awayLogo": "https://jdwel.com/image/teams/3321.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "الصقر",
+    "homeLogo": "https://jdwel.com/image/teams/371.png",
+    "away": "الصفا",
+    "awayLogo": "https://jdwel.com/image/teams/3239.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "هجر",
+    "homeLogo": "https://jdwel.com/image/teams/sau_hajer.png",
+    "away": "أحد",
+    "awayLogo": "https://jdwel.com/image/teams/2799.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "وج",
+    "homeLogo": "https://jdwel.com/image/teams/4520.png",
+    "away": "بيشة",
+    "awayLogo": "https://jdwel.com/image/teams/sau_bisha.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "مضر",
+    "homeLogo": "https://jdwel.com/image/teams/sau_mudhar.png",
+    "away": "الكوكب",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al-kawkab.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "القوس",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al_qous.png",
+    "away": "الغوطة",
+    "awayLogo": "https://jdwel.com/image/teams/593.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "عرعر",
+    "homeLogo": "https://jdwel.com/image/teams/sau_arar_v2.png",
+    "away": "النعيرية",
+    "awayLogo": "https://jdwel.com/image/teams/sau_alnairyah.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "حطين",
+    "homeLogo": "https://jdwel.com/image/teams/1126.png",
+    "away": "الريان",
+    "awayLogo": "https://jdwel.com/image/teams/3303.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "جبة",
+    "homeLogo": "https://jdwel.com/image/teams/3946.png",
+    "away": "الشرق",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al_sharq.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "الشعلة",
+    "homeLogo": "https://jdwel.com/image/teams/2798.png",
+    "away": "العين",
+    "awayLogo": "https://jdwel.com/image/teams/3242.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "الروضة",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al_rawdhah.png",
+    "away": "عفيف",
+    "awayLogo": "https://jdwel.com/image/teams/sau_afief.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "الترجي",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al_taraji.png",
+    "away": "الإنتصار",
+    "awayLogo": "https://jdwel.com/image/teams/379.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "النجوم",
+    "homeLogo": "https://jdwel.com/image/teams/11.png",
+    "away": "الساحل",
+    "awayLogo": "https://jdwel.com/image/teams/3241.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "جرش",
+    "homeLogo": "https://jdwel.com/image/teams/4935.png",
+    "away": "الجيل",
+    "awayLogo": "https://jdwel.com/image/teams/951.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "نجران",
+    "homeLogo": "https://jdwel.com/image/teams/3240.png",
+    "away": "السد",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al-sadd.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "طويق",
+    "homeLogo": "https://jdwel.com/image/teams/sau_tuwaiq.png",
+    "away": "الوشم",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al-washm_v2.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "مضر",
+    "homeLogo": "https://jdwel.com/image/teams/sau_mudhar.png",
+    "away": "الصفا",
+    "awayLogo": "https://jdwel.com/image/teams/3239.png",
+    "score": "0 - 0",
+    "time": "2:35 م"
+  },
+  {
+    "home": "هجر",
+    "homeLogo": "https://jdwel.com/image/teams/sau_hajer.png",
+    "away": "اللواء",
+    "awayLogo": "https://jdwel.com/image/teams/3321.png",
+    "score": "0 - 0",
+    "time": "2:35 م"
+  },
+  {
+    "home": "الكوكب",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al-kawkab.png",
+    "away": "الصقر",
+    "awayLogo": "https://jdwel.com/image/teams/371.png",
+    "score": "0 - 0",
+    "time": "2:45 م"
+  },
+  {
+    "home": "النعيرية",
+    "homeLogo": "https://jdwel.com/image/teams/sau_alnairyah.png",
+    "away": "القوس",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al_qous.png",
+    "score": "0 - 0",
+    "time": "2:45 م"
+  },
+  {
+    "home": "بيشة",
+    "homeLogo": "https://jdwel.com/image/teams/sau_bisha.png",
+    "away": "حطين",
+    "awayLogo": "https://jdwel.com/image/teams/1126.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "الغوطة",
+    "homeLogo": "https://jdwel.com/image/teams/593.png",
+    "away": "عرعر",
+    "awayLogo": "https://jdwel.com/image/teams/sau_arar_v2.png",
+    "score": "0 - 0",
+    "time": "3:05 م"
+  },
+  {
+    "home": "الريان",
+    "homeLogo": "https://jdwel.com/image/teams/3303.png",
+    "away": "وج",
+    "awayLogo": "https://jdwel.com/image/teams/4520.png",
+    "score": "0 - 0",
+    "time": "3:10 م"
+  },
+  {
+    "home": "أحد",
+    "homeLogo": "https://jdwel.com/image/teams/2799.png",
+    "away": "القلعة",
+    "awayLogo": "https://jdwel.com/image/teams/3947.png",
+    "score": "0 - 0",
+    "time": "3:15 م"
+  },
+  {
+    "home": "الجيل",
+    "homeLogo": "https://jdwel.com/image/teams/951.png",
+    "away": "جبة",
+    "awayLogo": "https://jdwel.com/image/teams/3946.png",
+    "score": "0 - 0",
+    "time": "2:35 م"
+  },
+  {
+    "home": "الساحل",
+    "homeLogo": "https://jdwel.com/image/teams/3241.png",
+    "away": "نجران",
+    "awayLogo": "https://jdwel.com/image/teams/3240.png",
+    "score": "0 - 0",
+    "time": "2:35 م"
+  },
+  {
+    "home": "السد",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al-sadd.png",
+    "away": "النجوم",
+    "awayLogo": "https://jdwel.com/image/teams/11.png",
+    "score": "0 - 0",
+    "time": "2:45 م"
+  },
+  {
+    "home": "الوشم",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al-washm_v2.png",
+    "away": "الشعلة",
+    "awayLogo": "https://jdwel.com/image/teams/2798.png",
+    "score": "0 - 0",
+    "time": "2:55 م"
+  },
+  {
+    "home": "جرش",
+    "homeLogo": "https://jdwel.com/image/teams/4935.png",
+    "away": "الشرق",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al_sharq.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "العين",
+    "homeLogo": "https://jdwel.com/image/teams/3242.png",
+    "away": "طويق",
+    "awayLogo": "https://jdwel.com/image/teams/sau_tuwaiq.png",
+    "score": "0 - 0",
+    "time": "3:05 م"
+  },
+  {
+    "home": "عفيف",
+    "homeLogo": "https://jdwel.com/image/teams/sau_afief.png",
+    "away": "الترجي",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al_taraji.png",
+    "score": "0 - 0",
+    "time": "3:05 م"
+  },
+  {
+    "home": "الإنتصار",
+    "homeLogo": "https://jdwel.com/image/teams/379.png",
+    "away": "الروضة",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al_rawdhah.png",
+    "score": "0 - 0",
+    "time": "3:20 م"
+  },
+  {
+    "home": "القوس",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al_qous.png",
+    "away": "الصفا",
+    "awayLogo": "https://jdwel.com/image/teams/3239.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "حطين",
+    "homeLogo": "https://jdwel.com/image/teams/1126.png",
+    "away": "أحد",
+    "awayLogo": "https://jdwel.com/image/teams/2799.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "الغوطة",
+    "homeLogo": "https://jdwel.com/image/teams/593.png",
+    "away": "الصقر",
+    "awayLogo": "https://jdwel.com/image/teams/371.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "اللواء",
+    "homeLogo": "https://jdwel.com/image/teams/3321.png",
+    "away": "بيشة",
+    "awayLogo": "https://jdwel.com/image/teams/sau_bisha.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "القلعة",
+    "homeLogo": "https://jdwel.com/image/teams/3947.png",
+    "away": "وج",
+    "awayLogo": "https://jdwel.com/image/teams/4520.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "الريان",
+    "homeLogo": "https://jdwel.com/image/teams/3303.png",
+    "away": "هجر",
+    "awayLogo": "https://jdwel.com/image/teams/sau_hajer.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "الكوكب",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al-kawkab.png",
+    "away": "النعيرية",
+    "awayLogo": "https://jdwel.com/image/teams/sau_alnairyah.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "مضر",
+    "homeLogo": "https://jdwel.com/image/teams/sau_mudhar.png",
+    "away": "عرعر",
+    "awayLogo": "https://jdwel.com/image/teams/sau_arar_v2.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "الترجي",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al_taraji.png",
+    "away": "العين",
+    "awayLogo": "https://jdwel.com/image/teams/3242.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "النجوم",
+    "homeLogo": "https://jdwel.com/image/teams/11.png",
+    "away": "الجيل",
+    "awayLogo": "https://jdwel.com/image/teams/951.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "الساحل",
+    "homeLogo": "https://jdwel.com/image/teams/3241.png",
+    "away": "جرش",
+    "awayLogo": "https://jdwel.com/image/teams/4935.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "الإنتصار",
+    "homeLogo": "https://jdwel.com/image/teams/379.png",
+    "away": "الشعلة",
+    "awayLogo": "https://jdwel.com/image/teams/2798.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "طويق",
+    "homeLogo": "https://jdwel.com/image/teams/sau_tuwaiq.png",
+    "away": "الروضة",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al_rawdhah.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "الشرق",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al_sharq.png",
+    "away": "السد",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al-sadd.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "الوشم",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al-washm_v2.png",
+    "away": "عفيف",
+    "awayLogo": "https://jdwel.com/image/teams/sau_afief.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "جبة",
+    "homeLogo": "https://jdwel.com/image/teams/3946.png",
+    "away": "نجران",
+    "awayLogo": "https://jdwel.com/image/teams/3240.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "هجر",
+    "homeLogo": "https://jdwel.com/image/teams/sau_hajer.png",
+    "away": "القلعة",
+    "awayLogo": "https://jdwel.com/image/teams/3947.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "الصفا",
+    "homeLogo": "https://jdwel.com/image/teams/3239.png",
+    "away": "الكوكب",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al-kawkab.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "الصقر",
+    "homeLogo": "https://jdwel.com/image/teams/371.png",
+    "away": "مضر",
+    "awayLogo": "https://jdwel.com/image/teams/sau_mudhar.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "أحد",
+    "homeLogo": "https://jdwel.com/image/teams/2799.png",
+    "away": "اللواء",
+    "awayLogo": "https://jdwel.com/image/teams/3321.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "عرعر",
+    "homeLogo": "https://jdwel.com/image/teams/sau_arar_v2.png",
+    "away": "القوس",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al_qous.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "وج",
+    "homeLogo": "https://jdwel.com/image/teams/4520.png",
+    "away": "حطين",
+    "awayLogo": "https://jdwel.com/image/teams/1126.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "النعيرية",
+    "homeLogo": "https://jdwel.com/image/teams/sau_alnairyah.png",
+    "away": "الغوطة",
+    "awayLogo": "https://jdwel.com/image/teams/593.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "بيشة",
+    "homeLogo": "https://jdwel.com/image/teams/sau_bisha.png",
+    "away": "الريان",
+    "awayLogo": "https://jdwel.com/image/teams/3303.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "العين",
+    "homeLogo": "https://jdwel.com/image/teams/3242.png",
+    "away": "الوشم",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al-washm_v2.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "الجيل",
+    "homeLogo": "https://jdwel.com/image/teams/951.png",
+    "away": "الشرق",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al_sharq.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "الشعلة",
+    "homeLogo": "https://jdwel.com/image/teams/2798.png",
+    "away": "طويق",
+    "awayLogo": "https://jdwel.com/image/teams/sau_tuwaiq.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "جرش",
+    "homeLogo": "https://jdwel.com/image/teams/4935.png",
+    "away": "جبة",
+    "awayLogo": "https://jdwel.com/image/teams/3946.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "الروضة",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al_rawdhah.png",
+    "away": "الترجي",
+    "awayLogo": "https://jdwel.com/image/teams/sau_al_taraji.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "نجران",
+    "homeLogo": "https://jdwel.com/image/teams/3240.png",
+    "away": "النجوم",
+    "awayLogo": "https://jdwel.com/image/teams/11.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "عفيف",
+    "homeLogo": "https://jdwel.com/image/teams/sau_afief.png",
+    "away": "الإنتصار",
+    "awayLogo": "https://jdwel.com/image/teams/379.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "السد",
+    "homeLogo": "https://jdwel.com/image/teams/sau_al-sadd.png",
+    "away": "الساحل",
+    "awayLogo": "https://jdwel.com/image/teams/3241.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  }
+]

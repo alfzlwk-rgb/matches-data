@@ -1,0 +1,34 @@
+[
+  {
+    "home": "الزمالك",
+    "homeLogo": "https://jdwel.com/image/teams/339.png",
+    "away": "الأهلي",
+    "awayLogo": "https://jdwel.com/image/teams/3404.png",
+    "score": "3 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "الرجاء الرياضي",
+    "homeLogo": "https://jdwel.com/image/teams/mor_raja_casablanca.png",
+    "away": "ووهان ثري تاونز",
+    "awayLogo": "https://jdwel.com/image/teams/3078.png",
+    "score": "1 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "الأهلي",
+    "homeLogo": "https://jdwel.com/image/teams/3404.png",
+    "away": "ووهان ثري تاونز",
+    "awayLogo": "https://jdwel.com/image/teams/3078.png",
+    "score": "3 - 1",
+    "time": "4:00 م"
+  },
+  {
+    "home": "الزمالك",
+    "homeLogo": "https://jdwel.com/image/teams/339.png",
+    "away": "الرجاء الرياضي",
+    "awayLogo": "https://jdwel.com/image/teams/mor_raja_casablanca.png",
+    "score": "2 - 2 4 - 2",
+    "time": "4:00 م"
+  }
+]

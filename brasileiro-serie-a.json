@@ -1,0 +1,3042 @@
+[
+  {
+    "home": "فيتوريا",
+    "homeLogo": "https://jdwel.com/image/teams/892.png",
+    "away": "ريمو",
+    "awayLogo": "https://jdwel.com/image/teams/bra_remo.png",
+    "score": "2 - 0",
+    "time": "12:00 ص"
+  },
+  {
+    "home": "كوريتيبا",
+    "homeLogo": "https://jdwel.com/image/teams/1450.png",
+    "away": "براغانتينو",
+    "awayLogo": "https://jdwel.com/image/teams/894.png",
+    "score": "0 - 1",
+    "time": "12:00 ص"
+  },
+  {
+    "home": "إنترناسيونال",
+    "homeLogo": "https://jdwel.com/image/teams/889.png",
+    "away": "أتلتيكو باراناينسي",
+    "awayLogo": "https://jdwel.com/image/teams/888.png",
+    "score": "0 - 1",
+    "time": "12:00 ص"
+  },
+  {
+    "home": "أتليتيكو مينيرو",
+    "homeLogo": "https://jdwel.com/image/teams/2968.png",
+    "away": "بالميراس",
+    "awayLogo": "https://jdwel.com/image/teams/2762.png",
+    "score": "2 - 2",
+    "time": "12:00 ص"
+  },
+  {
+    "home": "فلومينينسي",
+    "homeLogo": "https://jdwel.com/image/teams/bra_fluminense.png",
+    "away": "غريميو",
+    "awayLogo": "https://jdwel.com/image/teams/bra_gremio.png",
+    "score": "2 - 1",
+    "time": "12:30 ص"
+  },
+  {
+    "home": "شابيكوينسي",
+    "homeLogo": "https://jdwel.com/image/teams/bra_chapecoense.png",
+    "away": "سانتوس",
+    "awayLogo": "https://jdwel.com/image/teams/1446.png",
+    "score": "4 - 2",
+    "time": "1:00 ص"
+  },
+  {
+    "home": "كورينثيانز",
+    "homeLogo": "https://jdwel.com/image/teams/900.png",
+    "away": "باهيا",
+    "awayLogo": "https://jdwel.com/image/teams/3056.png",
+    "score": "1 - 2",
+    "time": "1:00 ص"
+  },
+  {
+    "home": "ساو باولو",
+    "homeLogo": "https://jdwel.com/image/teams/2763.png",
+    "away": "فلامنغو",
+    "awayLogo": "https://jdwel.com/image/teams/2764.png",
+    "score": "2 - 1",
+    "time": "2:30 ص"
+  },
+  {
+    "home": "ميراسول",
+    "homeLogo": "https://jdwel.com/image/teams/2765.png",
+    "away": "فاسكو دا غاما",
+    "awayLogo": "https://jdwel.com/image/teams/891.png",
+    "score": "2 - 1",
+    "time": "1:00 ص"
+  },
+  {
+    "home": "بوتافوغو",
+    "homeLogo": "https://jdwel.com/image/teams/1098.png",
+    "away": "كروزيرو",
+    "awayLogo": "https://jdwel.com/image/teams/886.png",
+    "score": "4 - 0",
+    "time": "2:30 ص"
+  },
+  {
+    "home": "براغانتينو",
+    "homeLogo": "https://jdwel.com/image/teams/894.png",
+    "away": "أتليتيكو مينيرو",
+    "awayLogo": "https://jdwel.com/image/teams/2968.png",
+    "score": "0 - 0",
+    "time": "12:00 ص"
+  },
+  {
+    "home": "فلامنغو",
+    "homeLogo": "https://jdwel.com/image/teams/2764.png",
+    "away": "إنترناسيونال",
+    "awayLogo": "https://jdwel.com/image/teams/889.png",
+    "score": "0 - 0",
+    "time": "12:00 ص"
+  },
+  {
+    "home": "ريمو",
+    "homeLogo": "https://jdwel.com/image/teams/bra_remo.png",
+    "away": "ميراسول",
+    "awayLogo": "https://jdwel.com/image/teams/2765.png",
+    "score": "0 - 0",
+    "time": "1:00 ص"
+  },
+  {
+    "home": "سانتوس",
+    "homeLogo": "https://jdwel.com/image/teams/1446.png",
+    "away": "ساو باولو",
+    "awayLogo": "https://jdwel.com/image/teams/2763.png",
+    "score": "0 - 0",
+    "time": "1:00 ص"
+  },
+  {
+    "home": "غريميو",
+    "homeLogo": "https://jdwel.com/image/teams/bra_gremio.png",
+    "away": "بوتافوغو",
+    "awayLogo": "https://jdwel.com/image/teams/1098.png",
+    "score": "0 - 0",
+    "time": "2:30 ص"
+  },
+  {
+    "home": "بالميراس",
+    "homeLogo": "https://jdwel.com/image/teams/2762.png",
+    "away": "فيتوريا",
+    "awayLogo": "https://jdwel.com/image/teams/892.png",
+    "score": "0 - 0",
+    "time": "2:30 ص"
+  },
+  {
+    "home": "باهيا",
+    "homeLogo": "https://jdwel.com/image/teams/3056.png",
+    "away": "فلومينينسي",
+    "awayLogo": "https://jdwel.com/image/teams/bra_fluminense.png",
+    "score": "0 - 0",
+    "time": "12:00 ص"
+  },
+  {
+    "home": "فاسكو دا غاما",
+    "homeLogo": "https://jdwel.com/image/teams/891.png",
+    "away": "شابيكوينسي",
+    "awayLogo": "https://jdwel.com/image/teams/bra_chapecoense.png",
+    "score": "0 - 0",
+    "time": "1:00 ص"
+  },
+  {
+    "home": "كروزيرو",
+    "homeLogo": "https://jdwel.com/image/teams/886.png",
+    "away": "كوريتيبا",
+    "awayLogo": "https://jdwel.com/image/teams/1450.png",
+    "score": "0 - 0",
+    "time": "2:30 ص"
+  },
+  {
+    "home": "فيتوريا",
+    "homeLogo": "https://jdwel.com/image/teams/892.png",
+    "away": "فلامنغو",
+    "awayLogo": "https://jdwel.com/image/teams/2764.png",
+    "score": "0 - 0",
+    "time": "2:30 ص"
+  },
+  {
+    "home": "شابيكوينسي",
+    "homeLogo": "https://jdwel.com/image/teams/bra_chapecoense.png",
+    "away": "كوريتيبا",
+    "awayLogo": "https://jdwel.com/image/teams/1450.png",
+    "score": "0 - 0",
+    "time": "12:00 ص"
+  },
+  {
+    "home": "ميراسول",
+    "homeLogo": "https://jdwel.com/image/teams/2765.png",
+    "away": "كروزيرو",
+    "awayLogo": "https://jdwel.com/image/teams/886.png",
+    "score": "0 - 0",
+    "time": "12:00 ص"
+  },
+  {
+    "home": "أتليتيكو مينيرو",
+    "homeLogo": "https://jdwel.com/image/teams/2968.png",
+    "away": "ريمو",
+    "awayLogo": "https://jdwel.com/image/teams/bra_remo.png",
+    "score": "0 - 0",
+    "time": "1:00 ص"
+  },
+  {
+    "home": "ساو باولو",
+    "homeLogo": "https://jdwel.com/image/teams/2763.png",
+    "away": "غريميو",
+    "awayLogo": "https://jdwel.com/image/teams/bra_gremio.png",
+    "score": "0 - 0",
+    "time": "2:30 ص"
+  },
+  {
+    "home": "فاسكو دا غاما",
+    "homeLogo": "https://jdwel.com/image/teams/891.png",
+    "away": "باهيا",
+    "awayLogo": "https://jdwel.com/image/teams/3056.png",
+    "score": "0 - 0",
+    "time": "2:30 ص"
+  },
+  {
+    "home": "أتلتيكو باراناينسي",
+    "homeLogo": "https://jdwel.com/image/teams/888.png",
+    "away": "سانتوس",
+    "awayLogo": "https://jdwel.com/image/teams/1446.png",
+    "score": "0 - 0",
+    "time": "12:00 ص"
+  },
+  {
+    "home": "فلومينينسي",
+    "homeLogo": "https://jdwel.com/image/teams/bra_fluminense.png",
+    "away": "بوتافوغو",
+    "awayLogo": "https://jdwel.com/image/teams/1098.png",
+    "score": "0 - 0",
+    "time": "12:30 ص"
+  },
+  {
+    "home": "كورينثيانز",
+    "homeLogo": "https://jdwel.com/image/teams/900.png",
+    "away": "براغانتينو",
+    "awayLogo": "https://jdwel.com/image/teams/894.png",
+    "score": "0 - 0",
+    "time": "1:00 ص"
+  },
+  {
+    "home": "إنترناسيونال",
+    "homeLogo": "https://jdwel.com/image/teams/889.png",
+    "away": "بالميراس",
+    "awayLogo": "https://jdwel.com/image/teams/2762.png",
+    "score": "0 - 0",
+    "time": "2:30 ص"
+  },
+  {
+    "home": "أتلتيكو باراناينسي",
+    "homeLogo": "https://jdwel.com/image/teams/888.png",
+    "away": "كورينثيانز",
+    "awayLogo": "https://jdwel.com/image/teams/900.png",
+    "score": "0 - 0",
+    "time": "12:30 ص"
+  },
+  {
+    "home": "باهيا",
+    "homeLogo": "https://jdwel.com/image/teams/3056.png",
+    "away": "شابيكوينسي",
+    "awayLogo": "https://jdwel.com/image/teams/bra_chapecoense.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "بوتافوغو",
+    "homeLogo": "https://jdwel.com/image/teams/1098.png",
+    "away": "فيتوريا",
+    "awayLogo": "https://jdwel.com/image/teams/892.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "فلامنغو",
+    "homeLogo": "https://jdwel.com/image/teams/2764.png",
+    "away": "ميراسول",
+    "awayLogo": "https://jdwel.com/image/teams/2765.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "ريمو",
+    "homeLogo": "https://jdwel.com/image/teams/bra_remo.png",
+    "away": "إنترناسيونال",
+    "awayLogo": "https://jdwel.com/image/teams/889.png",
+    "score": "0 - 0",
+    "time": "12:00 ص"
+  },
+  {
+    "home": "براغانتينو",
+    "homeLogo": "https://jdwel.com/image/teams/894.png",
+    "away": "أتلتيكو باراناينسي",
+    "awayLogo": "https://jdwel.com/image/teams/888.png",
+    "score": "0 - 0",
+    "time": "12:00 ص"
+  },
+  {
+    "home": "كروزيرو",
+    "homeLogo": "https://jdwel.com/image/teams/886.png",
+    "away": "كورينثيانز",
+    "awayLogo": "https://jdwel.com/image/teams/900.png",
+    "score": "0 - 0",
+    "time": "1:00 ص"
+  },
+  {
+    "home": "غريميو",
+    "homeLogo": "https://jdwel.com/image/teams/bra_gremio.png",
+    "away": "أتليتيكو مينيرو",
+    "awayLogo": "https://jdwel.com/image/teams/2968.png",
+    "score": "0 - 0",
+    "time": "2:30 ص"
+  },
+  {
+    "home": "بالميراس",
+    "homeLogo": "https://jdwel.com/image/teams/2762.png",
+    "away": "فلومينينسي",
+    "awayLogo": "https://jdwel.com/image/teams/bra_fluminense.png",
+    "score": "0 - 0",
+    "time": "2:30 ص"
+  },
+  {
+    "home": "سانتوس",
+    "homeLogo": "https://jdwel.com/image/teams/1446.png",
+    "away": "فاسكو دا غاما",
+    "awayLogo": "https://jdwel.com/image/teams/891.png",
+    "score": "0 - 0",
+    "time": "12:00 ص"
+  },
+  {
+    "home": "كوريتيبا",
+    "homeLogo": "https://jdwel.com/image/teams/1450.png",
+    "away": "ساو باولو",
+    "awayLogo": "https://jdwel.com/image/teams/2763.png",
+    "score": "0 - 0",
+    "time": "1:00 ص"
+  },
+  {
+    "home": "ميراسول",
+    "homeLogo": "https://jdwel.com/image/teams/2765.png",
+    "away": "سانتوس",
+    "awayLogo": "https://jdwel.com/image/teams/1446.png",
+    "score": "0 - 0",
+    "time": "2:30 ص"
+  },
+  {
+    "home": "أتلتيكو باراناينسي",
+    "homeLogo": "https://jdwel.com/image/teams/888.png",
+    "away": "بوتافوغو",
+    "awayLogo": "https://jdwel.com/image/teams/1098.png",
+    "score": "0 - 0",
+    "time": "12:00 ص"
+  },
+  {
+    "home": "أتليتيكو مينيرو",
+    "homeLogo": "https://jdwel.com/image/teams/2968.png",
+    "away": "إنترناسيونال",
+    "awayLogo": "https://jdwel.com/image/teams/889.png",
+    "score": "0 - 0",
+    "time": "12:00 ص"
+  },
+  {
+    "home": "باهيا",
+    "homeLogo": "https://jdwel.com/image/teams/3056.png",
+    "away": "فيتوريا",
+    "awayLogo": "https://jdwel.com/image/teams/892.png",
+    "score": "0 - 0",
+    "time": "1:00 ص"
+  },
+  {
+    "home": "كورينثيانز",
+    "homeLogo": "https://jdwel.com/image/teams/900.png",
+    "away": "كوريتيبا",
+    "awayLogo": "https://jdwel.com/image/teams/1450.png",
+    "score": "0 - 0",
+    "time": "2:30 ص"
+  },
+  {
+    "home": "فلامنغو",
+    "homeLogo": "https://jdwel.com/image/teams/2764.png",
+    "away": "كروزيرو",
+    "awayLogo": "https://jdwel.com/image/teams/886.png",
+    "score": "0 - 0",
+    "time": "2:30 ص"
+  },
+  {
+    "home": "ريمو",
+    "homeLogo": "https://jdwel.com/image/teams/bra_remo.png",
+    "away": "فلومينينسي",
+    "awayLogo": "https://jdwel.com/image/teams/bra_fluminense.png",
+    "score": "0 - 0",
+    "time": "12:00 ص"
+  },
+  {
+    "home": "فاسكو دا غاما",
+    "homeLogo": "https://jdwel.com/image/teams/891.png",
+    "away": "بالميراس",
+    "awayLogo": "https://jdwel.com/image/teams/2762.png",
+    "score": "0 - 0",
+    "time": "12:30 ص"
+  },
+  {
+    "home": "ساو باولو",
+    "homeLogo": "https://jdwel.com/image/teams/2763.png",
+    "away": "شابيكوينسي",
+    "awayLogo": "https://jdwel.com/image/teams/bra_chapecoense.png",
+    "score": "0 - 0",
+    "time": "1:00 ص"
+  },
+  {
+    "home": "غريميو",
+    "homeLogo": "https://jdwel.com/image/teams/bra_gremio.png",
+    "away": "براغانتينو",
+    "awayLogo": "https://jdwel.com/image/teams/894.png",
+    "score": "0 - 0",
+    "time": "2:30 ص"
+  },
+  {
+    "home": "فيتوريا",
+    "homeLogo": "https://jdwel.com/image/teams/892.png",
+    "away": "أتليتيكو مينيرو",
+    "awayLogo": "https://jdwel.com/image/teams/2968.png",
+    "score": "0 - 0",
+    "time": "11:30 م"
+  },
+  {
+    "home": "بوتافوغو",
+    "homeLogo": "https://jdwel.com/image/teams/1098.png",
+    "away": "فلامنغو",
+    "awayLogo": "https://jdwel.com/image/teams/2764.png",
+    "score": "0 - 0",
+    "time": "1:30 ص"
+  },
+  {
+    "home": "إنترناسيونال",
+    "homeLogo": "https://jdwel.com/image/teams/889.png",
+    "away": "باهيا",
+    "awayLogo": "https://jdwel.com/image/teams/3056.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "سانتوس",
+    "homeLogo": "https://jdwel.com/image/teams/1446.png",
+    "away": "كورينثيانز",
+    "awayLogo": "https://jdwel.com/image/teams/900.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "فلومينينسي",
+    "homeLogo": "https://jdwel.com/image/teams/bra_fluminense.png",
+    "away": "أتلتيكو باراناينسي",
+    "awayLogo": "https://jdwel.com/image/teams/888.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "كوريتيبا",
+    "homeLogo": "https://jdwel.com/image/teams/1450.png",
+    "away": "ريمو",
+    "awayLogo": "https://jdwel.com/image/teams/bra_remo.png",
+    "score": "0 - 0",
+    "time": "11:30 م"
+  },
+  {
+    "home": "بالميراس",
+    "homeLogo": "https://jdwel.com/image/teams/2762.png",
+    "away": "ميراسول",
+    "awayLogo": "https://jdwel.com/image/teams/2765.png",
+    "score": "0 - 0",
+    "time": "11:30 م"
+  },
+  {
+    "home": "كروزيرو",
+    "homeLogo": "https://jdwel.com/image/teams/886.png",
+    "away": "فاسكو دا غاما",
+    "awayLogo": "https://jdwel.com/image/teams/891.png",
+    "score": "0 - 0",
+    "time": "1:30 ص"
+  },
+  {
+    "home": "براغانتينو",
+    "homeLogo": "https://jdwel.com/image/teams/894.png",
+    "away": "ساو باولو",
+    "awayLogo": "https://jdwel.com/image/teams/2763.png",
+    "score": "0 - 0",
+    "time": "1:30 ص"
+  },
+  {
+    "home": "شابيكوينسي",
+    "homeLogo": "https://jdwel.com/image/teams/bra_chapecoense.png",
+    "away": "غريميو",
+    "awayLogo": "https://jdwel.com/image/teams/bra_gremio.png",
+    "score": "0 - 0",
+    "time": "1:00 ص"
+  },
+  {
+    "home": "باهيا",
+    "homeLogo": "https://jdwel.com/image/teams/3056.png",
+    "away": "براغانتينو",
+    "awayLogo": "https://jdwel.com/image/teams/894.png",
+    "score": "0 - 0",
+    "time": "12:00 ص"
+  },
+  {
+    "home": "بالميراس",
+    "homeLogo": "https://jdwel.com/image/teams/2762.png",
+    "away": "بوتافوغو",
+    "awayLogo": "https://jdwel.com/image/teams/1098.png",
+    "score": "0 - 0",
+    "time": "12:00 ص"
+  },
+  {
+    "home": "أتلتيكو باراناينسي",
+    "homeLogo": "https://jdwel.com/image/teams/888.png",
+    "away": "كروزيرو",
+    "awayLogo": "https://jdwel.com/image/teams/886.png",
+    "score": "0 - 0",
+    "time": "12:30 ص"
+  },
+  {
+    "home": "أتليتيكو مينيرو",
+    "homeLogo": "https://jdwel.com/image/teams/2968.png",
+    "away": "ساو باولو",
+    "awayLogo": "https://jdwel.com/image/teams/2763.png",
+    "score": "0 - 0",
+    "time": "1:00 ص"
+  },
+  {
+    "home": "ميراسول",
+    "homeLogo": "https://jdwel.com/image/teams/2765.png",
+    "away": "كوريتيبا",
+    "awayLogo": "https://jdwel.com/image/teams/1450.png",
+    "score": "0 - 0",
+    "time": "1:00 ص"
+  },
+  {
+    "home": "سانتوس",
+    "homeLogo": "https://jdwel.com/image/teams/1446.png",
+    "away": "إنترناسيونال",
+    "awayLogo": "https://jdwel.com/image/teams/889.png",
+    "score": "0 - 0",
+    "time": "2:30 ص"
+  },
+  {
+    "home": "فاسكو دا غاما",
+    "homeLogo": "https://jdwel.com/image/teams/891.png",
+    "away": "فلومينينسي",
+    "awayLogo": "https://jdwel.com/image/teams/bra_fluminense.png",
+    "score": "0 - 0",
+    "time": "2:30 ص"
+  },
+  {
+    "home": "غريميو",
+    "homeLogo": "https://jdwel.com/image/teams/bra_gremio.png",
+    "away": "فيتوريا",
+    "awayLogo": "https://jdwel.com/image/teams/892.png",
+    "score": "0 - 0",
+    "time": "12:00 ص"
+  },
+  {
+    "home": "فلامنغو",
+    "homeLogo": "https://jdwel.com/image/teams/2764.png",
+    "away": "ريمو",
+    "awayLogo": "https://jdwel.com/image/teams/bra_remo.png",
+    "score": "0 - 0",
+    "time": "1:00 ص"
+  },
+  {
+    "home": "شابيكوينسي",
+    "homeLogo": "https://jdwel.com/image/teams/bra_chapecoense.png",
+    "away": "كورينثيانز",
+    "awayLogo": "https://jdwel.com/image/teams/900.png",
+    "score": "0 - 0",
+    "time": "2:30 ص"
+  },
+  {
+    "home": "براغانتينو",
+    "homeLogo": "https://jdwel.com/image/teams/894.png",
+    "away": "بوتافوغو",
+    "awayLogo": "https://jdwel.com/image/teams/1098.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "فلومينينسي",
+    "homeLogo": "https://jdwel.com/image/teams/bra_fluminense.png",
+    "away": "أتليتيكو مينيرو",
+    "awayLogo": "https://jdwel.com/image/teams/2968.png",
+    "score": "0 - 0",
+    "time": "11:30 م"
+  },
+  {
+    "home": "ساو باولو",
+    "homeLogo": "https://jdwel.com/image/teams/2763.png",
+    "away": "بالميراس",
+    "awayLogo": "https://jdwel.com/image/teams/2762.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "ريمو",
+    "homeLogo": "https://jdwel.com/image/teams/bra_remo.png",
+    "away": "باهيا",
+    "awayLogo": "https://jdwel.com/image/teams/3056.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "أتلتيكو باراناينسي",
+    "homeLogo": "https://jdwel.com/image/teams/888.png",
+    "away": "كوريتيبا",
+    "awayLogo": "https://jdwel.com/image/teams/1450.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "كروزيرو",
+    "homeLogo": "https://jdwel.com/image/teams/886.png",
+    "away": "سانتوس",
+    "awayLogo": "https://jdwel.com/image/teams/1446.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "فاسكو دا غاما",
+    "homeLogo": "https://jdwel.com/image/teams/891.png",
+    "away": "غريميو",
+    "awayLogo": "https://jdwel.com/image/teams/bra_gremio.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "فيتوريا",
+    "homeLogo": "https://jdwel.com/image/teams/892.png",
+    "away": "ميراسول",
+    "awayLogo": "https://jdwel.com/image/teams/2765.png",
+    "score": "0 - 0",
+    "time": "11:30 م"
+  },
+  {
+    "home": "إنترناسيونال",
+    "homeLogo": "https://jdwel.com/image/teams/889.png",
+    "away": "شابيكوينسي",
+    "awayLogo": "https://jdwel.com/image/teams/bra_chapecoense.png",
+    "score": "0 - 0",
+    "time": "11:30 م"
+  },
+  {
+    "home": "كورينثيانز",
+    "homeLogo": "https://jdwel.com/image/teams/900.png",
+    "away": "فلامنغو",
+    "awayLogo": "https://jdwel.com/image/teams/2764.png",
+    "score": "0 - 0",
+    "time": "1:30 ص"
+  },
+  {
+    "home": "شابيكوينسي",
+    "homeLogo": "https://jdwel.com/image/teams/bra_chapecoense.png",
+    "away": "أتليتيكو مينيرو",
+    "awayLogo": "https://jdwel.com/image/teams/2968.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "باهيا",
+    "homeLogo": "https://jdwel.com/image/teams/3056.png",
+    "away": "أتلتيكو باراناينسي",
+    "awayLogo": "https://jdwel.com/image/teams/888.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "كوريتيبا",
+    "homeLogo": "https://jdwel.com/image/teams/1450.png",
+    "away": "فاسكو دا غاما",
+    "awayLogo": "https://jdwel.com/image/teams/891.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "إنترناسيونال",
+    "homeLogo": "https://jdwel.com/image/teams/889.png",
+    "away": "ساو باولو",
+    "awayLogo": "https://jdwel.com/image/teams/2763.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "كروزيرو",
+    "homeLogo": "https://jdwel.com/image/teams/886.png",
+    "away": "فيتوريا",
+    "awayLogo": "https://jdwel.com/image/teams/892.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "براغانتينو",
+    "homeLogo": "https://jdwel.com/image/teams/894.png",
+    "away": "فلامنغو",
+    "awayLogo": "https://jdwel.com/image/teams/2764.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "بالميراس",
+    "homeLogo": "https://jdwel.com/image/teams/2762.png",
+    "away": "غريميو",
+    "awayLogo": "https://jdwel.com/image/teams/bra_gremio.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "سانتوس",
+    "homeLogo": "https://jdwel.com/image/teams/1446.png",
+    "away": "ريمو",
+    "awayLogo": "https://jdwel.com/image/teams/bra_remo.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "بوتافوغو",
+    "homeLogo": "https://jdwel.com/image/teams/1098.png",
+    "away": "ميراسول",
+    "awayLogo": "https://jdwel.com/image/teams/2765.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "فلومينينسي",
+    "homeLogo": "https://jdwel.com/image/teams/bra_fluminense.png",
+    "away": "كورينثيانز",
+    "awayLogo": "https://jdwel.com/image/teams/900.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "شابيكوينسي",
+    "homeLogo": "https://jdwel.com/image/teams/bra_chapecoense.png",
+    "away": "فيتوريا",
+    "awayLogo": "https://jdwel.com/image/teams/892.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "باهيا",
+    "homeLogo": "https://jdwel.com/image/teams/3056.png",
+    "away": "بالميراس",
+    "awayLogo": "https://jdwel.com/image/teams/2762.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "كوريتيبا",
+    "homeLogo": "https://jdwel.com/image/teams/1450.png",
+    "away": "فلومينينسي",
+    "awayLogo": "https://jdwel.com/image/teams/bra_fluminense.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "غريميو",
+    "homeLogo": "https://jdwel.com/image/teams/bra_gremio.png",
+    "away": "ريمو",
+    "awayLogo": "https://jdwel.com/image/teams/bra_remo.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "أتليتيكو مينيرو",
+    "homeLogo": "https://jdwel.com/image/teams/2968.png",
+    "away": "أتلتيكو باراناينسي",
+    "awayLogo": "https://jdwel.com/image/teams/888.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "ميراسول",
+    "homeLogo": "https://jdwel.com/image/teams/2765.png",
+    "away": "براغانتينو",
+    "awayLogo": "https://jdwel.com/image/teams/894.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "كورينثيانز",
+    "homeLogo": "https://jdwel.com/image/teams/900.png",
+    "away": "إنترناسيونال",
+    "awayLogo": "https://jdwel.com/image/teams/889.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "ساو باولو",
+    "homeLogo": "https://jdwel.com/image/teams/2763.png",
+    "away": "كروزيرو",
+    "awayLogo": "https://jdwel.com/image/teams/886.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "فاسكو دا غاما",
+    "homeLogo": "https://jdwel.com/image/teams/891.png",
+    "away": "بوتافوغو",
+    "awayLogo": "https://jdwel.com/image/teams/1098.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "فلامنغو",
+    "homeLogo": "https://jdwel.com/image/teams/2764.png",
+    "away": "سانتوس",
+    "awayLogo": "https://jdwel.com/image/teams/1446.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "ريمو",
+    "homeLogo": "https://jdwel.com/image/teams/bra_remo.png",
+    "away": "فاسكو دا غاما",
+    "awayLogo": "https://jdwel.com/image/teams/891.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "فيتوريا",
+    "homeLogo": "https://jdwel.com/image/teams/892.png",
+    "away": "ساو باولو",
+    "awayLogo": "https://jdwel.com/image/teams/2763.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "أتلتيكو باراناينسي",
+    "homeLogo": "https://jdwel.com/image/teams/888.png",
+    "away": "شابيكوينسي",
+    "awayLogo": "https://jdwel.com/image/teams/bra_chapecoense.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "إنترناسيونال",
+    "homeLogo": "https://jdwel.com/image/teams/889.png",
+    "away": "غريميو",
+    "awayLogo": "https://jdwel.com/image/teams/bra_gremio.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "كروزيرو",
+    "homeLogo": "https://jdwel.com/image/teams/886.png",
+    "away": "براغانتينو",
+    "awayLogo": "https://jdwel.com/image/teams/894.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "ميراسول",
+    "homeLogo": "https://jdwel.com/image/teams/2765.png",
+    "away": "باهيا",
+    "awayLogo": "https://jdwel.com/image/teams/3056.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "كورينثيانز",
+    "homeLogo": "https://jdwel.com/image/teams/900.png",
+    "away": "بالميراس",
+    "awayLogo": "https://jdwel.com/image/teams/2762.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "سانتوس",
+    "homeLogo": "https://jdwel.com/image/teams/1446.png",
+    "away": "أتليتيكو مينيرو",
+    "awayLogo": "https://jdwel.com/image/teams/2968.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "بوتافوغو",
+    "homeLogo": "https://jdwel.com/image/teams/1098.png",
+    "away": "كوريتيبا",
+    "awayLogo": "https://jdwel.com/image/teams/1450.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "فلومينينسي",
+    "homeLogo": "https://jdwel.com/image/teams/bra_fluminense.png",
+    "away": "فلامنغو",
+    "awayLogo": "https://jdwel.com/image/teams/2764.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "شابيكوينسي",
+    "homeLogo": "https://jdwel.com/image/teams/bra_chapecoense.png",
+    "away": "بوتافوغو",
+    "awayLogo": "https://jdwel.com/image/teams/1098.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "فيتوريا",
+    "homeLogo": "https://jdwel.com/image/teams/892.png",
+    "away": "كورينثيانز",
+    "awayLogo": "https://jdwel.com/image/teams/900.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "كوريتيبا",
+    "homeLogo": "https://jdwel.com/image/teams/1450.png",
+    "away": "أتليتيكو مينيرو",
+    "awayLogo": "https://jdwel.com/image/teams/2968.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "إنترناسيونال",
+    "homeLogo": "https://jdwel.com/image/teams/889.png",
+    "away": "ميراسول",
+    "awayLogo": "https://jdwel.com/image/teams/2765.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "كروزيرو",
+    "homeLogo": "https://jdwel.com/image/teams/886.png",
+    "away": "غريميو",
+    "awayLogo": "https://jdwel.com/image/teams/bra_gremio.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "براغانتينو",
+    "homeLogo": "https://jdwel.com/image/teams/894.png",
+    "away": "ريمو",
+    "awayLogo": "https://jdwel.com/image/teams/bra_remo.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "بالميراس",
+    "homeLogo": "https://jdwel.com/image/teams/2762.png",
+    "away": "أتلتيكو باراناينسي",
+    "awayLogo": "https://jdwel.com/image/teams/888.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "سانتوس",
+    "homeLogo": "https://jdwel.com/image/teams/1446.png",
+    "away": "فلومينينسي",
+    "awayLogo": "https://jdwel.com/image/teams/bra_fluminense.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "فاسكو دا غاما",
+    "homeLogo": "https://jdwel.com/image/teams/891.png",
+    "away": "ساو باولو",
+    "awayLogo": "https://jdwel.com/image/teams/2763.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "فلامنغو",
+    "homeLogo": "https://jdwel.com/image/teams/2764.png",
+    "away": "باهيا",
+    "awayLogo": "https://jdwel.com/image/teams/3056.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "ريمو",
+    "homeLogo": "https://jdwel.com/image/teams/bra_remo.png",
+    "away": "كروزيرو",
+    "awayLogo": "https://jdwel.com/image/teams/886.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "باهيا",
+    "homeLogo": "https://jdwel.com/image/teams/3056.png",
+    "away": "سانتوس",
+    "awayLogo": "https://jdwel.com/image/teams/1446.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "أتلتيكو باراناينسي",
+    "homeLogo": "https://jdwel.com/image/teams/888.png",
+    "away": "فيتوريا",
+    "awayLogo": "https://jdwel.com/image/teams/892.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "غريميو",
+    "homeLogo": "https://jdwel.com/image/teams/bra_gremio.png",
+    "away": "كوريتيبا",
+    "awayLogo": "https://jdwel.com/image/teams/1450.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "أتليتيكو مينيرو",
+    "homeLogo": "https://jdwel.com/image/teams/2968.png",
+    "away": "فلامنغو",
+    "awayLogo": "https://jdwel.com/image/teams/2764.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "براغانتينو",
+    "homeLogo": "https://jdwel.com/image/teams/894.png",
+    "away": "بالميراس",
+    "awayLogo": "https://jdwel.com/image/teams/2762.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "كورينثيانز",
+    "homeLogo": "https://jdwel.com/image/teams/900.png",
+    "away": "فاسكو دا غاما",
+    "awayLogo": "https://jdwel.com/image/teams/891.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "ساو باولو",
+    "homeLogo": "https://jdwel.com/image/teams/2763.png",
+    "away": "ميراسول",
+    "awayLogo": "https://jdwel.com/image/teams/2765.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "بوتافوغو",
+    "homeLogo": "https://jdwel.com/image/teams/1098.png",
+    "away": "إنترناسيونال",
+    "awayLogo": "https://jdwel.com/image/teams/889.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "فلومينينسي",
+    "homeLogo": "https://jdwel.com/image/teams/bra_fluminense.png",
+    "away": "شابيكوينسي",
+    "awayLogo": "https://jdwel.com/image/teams/bra_chapecoense.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "شابيكوينسي",
+    "homeLogo": "https://jdwel.com/image/teams/bra_chapecoense.png",
+    "away": "براغانتينو",
+    "awayLogo": "https://jdwel.com/image/teams/894.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "فيتوريا",
+    "homeLogo": "https://jdwel.com/image/teams/892.png",
+    "away": "كوريتيبا",
+    "awayLogo": "https://jdwel.com/image/teams/1450.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "أتلتيكو باراناينسي",
+    "homeLogo": "https://jdwel.com/image/teams/888.png",
+    "away": "غريميو",
+    "awayLogo": "https://jdwel.com/image/teams/bra_gremio.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "إنترناسيونال",
+    "homeLogo": "https://jdwel.com/image/teams/889.png",
+    "away": "فلومينينسي",
+    "awayLogo": "https://jdwel.com/image/teams/bra_fluminense.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "كروزيرو",
+    "homeLogo": "https://jdwel.com/image/teams/886.png",
+    "away": "أتليتيكو مينيرو",
+    "awayLogo": "https://jdwel.com/image/teams/2968.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "ميراسول",
+    "homeLogo": "https://jdwel.com/image/teams/2765.png",
+    "away": "كورينثيانز",
+    "awayLogo": "https://jdwel.com/image/teams/900.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "بالميراس",
+    "homeLogo": "https://jdwel.com/image/teams/2762.png",
+    "away": "سانتوس",
+    "awayLogo": "https://jdwel.com/image/teams/1446.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "ساو باولو",
+    "homeLogo": "https://jdwel.com/image/teams/2763.png",
+    "away": "باهيا",
+    "awayLogo": "https://jdwel.com/image/teams/3056.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "بوتافوغو",
+    "homeLogo": "https://jdwel.com/image/teams/1098.png",
+    "away": "ريمو",
+    "awayLogo": "https://jdwel.com/image/teams/bra_remo.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "فلامنغو",
+    "homeLogo": "https://jdwel.com/image/teams/2764.png",
+    "away": "فاسكو دا غاما",
+    "awayLogo": "https://jdwel.com/image/teams/891.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "ريمو",
+    "homeLogo": "https://jdwel.com/image/teams/bra_remo.png",
+    "away": "بالميراس",
+    "awayLogo": "https://jdwel.com/image/teams/2762.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "باهيا",
+    "homeLogo": "https://jdwel.com/image/teams/3056.png",
+    "away": "كروزيرو",
+    "awayLogo": "https://jdwel.com/image/teams/886.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "كوريتيبا",
+    "homeLogo": "https://jdwel.com/image/teams/1450.png",
+    "away": "إنترناسيونال",
+    "awayLogo": "https://jdwel.com/image/teams/889.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "غريميو",
+    "homeLogo": "https://jdwel.com/image/teams/bra_gremio.png",
+    "away": "فلامنغو",
+    "awayLogo": "https://jdwel.com/image/teams/2764.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "أتليتيكو مينيرو",
+    "homeLogo": "https://jdwel.com/image/teams/2968.png",
+    "away": "بوتافوغو",
+    "awayLogo": "https://jdwel.com/image/teams/1098.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "ميراسول",
+    "homeLogo": "https://jdwel.com/image/teams/2765.png",
+    "away": "شابيكوينسي",
+    "awayLogo": "https://jdwel.com/image/teams/bra_chapecoense.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "كورينثيانز",
+    "homeLogo": "https://jdwel.com/image/teams/900.png",
+    "away": "ساو باولو",
+    "awayLogo": "https://jdwel.com/image/teams/2763.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "سانتوس",
+    "homeLogo": "https://jdwel.com/image/teams/1446.png",
+    "away": "براغانتينو",
+    "awayLogo": "https://jdwel.com/image/teams/894.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "فاسكو دا غاما",
+    "homeLogo": "https://jdwel.com/image/teams/891.png",
+    "away": "أتلتيكو باراناينسي",
+    "awayLogo": "https://jdwel.com/image/teams/888.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "فلومينينسي",
+    "homeLogo": "https://jdwel.com/image/teams/bra_fluminense.png",
+    "away": "فيتوريا",
+    "awayLogo": "https://jdwel.com/image/teams/892.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "شابيكوينسي",
+    "homeLogo": "https://jdwel.com/image/teams/bra_chapecoense.png",
+    "away": "ريمو",
+    "awayLogo": "https://jdwel.com/image/teams/bra_remo.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "باهيا",
+    "homeLogo": "https://jdwel.com/image/teams/3056.png",
+    "away": "غريميو",
+    "awayLogo": "https://jdwel.com/image/teams/bra_gremio.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "أتلتيكو باراناينسي",
+    "homeLogo": "https://jdwel.com/image/teams/888.png",
+    "away": "فلامنغو",
+    "awayLogo": "https://jdwel.com/image/teams/2764.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "إنترناسيونال",
+    "homeLogo": "https://jdwel.com/image/teams/889.png",
+    "away": "فاسكو دا غاما",
+    "awayLogo": "https://jdwel.com/image/teams/891.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "أتليتيكو مينيرو",
+    "homeLogo": "https://jdwel.com/image/teams/2968.png",
+    "away": "ميراسول",
+    "awayLogo": "https://jdwel.com/image/teams/2765.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "براغانتينو",
+    "homeLogo": "https://jdwel.com/image/teams/894.png",
+    "away": "فيتوريا",
+    "awayLogo": "https://jdwel.com/image/teams/892.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "بالميراس",
+    "homeLogo": "https://jdwel.com/image/teams/2762.png",
+    "away": "كروزيرو",
+    "awayLogo": "https://jdwel.com/image/teams/886.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "سانتوس",
+    "homeLogo": "https://jdwel.com/image/teams/1446.png",
+    "away": "كوريتيبا",
+    "awayLogo": "https://jdwel.com/image/teams/1450.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "بوتافوغو",
+    "homeLogo": "https://jdwel.com/image/teams/1098.png",
+    "away": "كورينثيانز",
+    "awayLogo": "https://jdwel.com/image/teams/900.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "فلومينينسي",
+    "homeLogo": "https://jdwel.com/image/teams/bra_fluminense.png",
+    "away": "ساو باولو",
+    "awayLogo": "https://jdwel.com/image/teams/2763.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "ريمو",
+    "homeLogo": "https://jdwel.com/image/teams/bra_remo.png",
+    "away": "أتلتيكو باراناينسي",
+    "awayLogo": "https://jdwel.com/image/teams/888.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "فيتوريا",
+    "homeLogo": "https://jdwel.com/image/teams/892.png",
+    "away": "إنترناسيونال",
+    "awayLogo": "https://jdwel.com/image/teams/889.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "كوريتيبا",
+    "homeLogo": "https://jdwel.com/image/teams/1450.png",
+    "away": "باهيا",
+    "awayLogo": "https://jdwel.com/image/teams/3056.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "غريميو",
+    "homeLogo": "https://jdwel.com/image/teams/bra_gremio.png",
+    "away": "سانتوس",
+    "awayLogo": "https://jdwel.com/image/teams/1446.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "كروزيرو",
+    "homeLogo": "https://jdwel.com/image/teams/886.png",
+    "away": "شابيكوينسي",
+    "awayLogo": "https://jdwel.com/image/teams/bra_chapecoense.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "ميراسول",
+    "homeLogo": "https://jdwel.com/image/teams/2765.png",
+    "away": "فلومينينسي",
+    "awayLogo": "https://jdwel.com/image/teams/bra_fluminense.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "كورينثيانز",
+    "homeLogo": "https://jdwel.com/image/teams/900.png",
+    "away": "أتليتيكو مينيرو",
+    "awayLogo": "https://jdwel.com/image/teams/2968.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "ساو باولو",
+    "homeLogo": "https://jdwel.com/image/teams/2763.png",
+    "away": "بوتافوغو",
+    "awayLogo": "https://jdwel.com/image/teams/1098.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "فاسكو دا غاما",
+    "homeLogo": "https://jdwel.com/image/teams/891.png",
+    "away": "براغانتينو",
+    "awayLogo": "https://jdwel.com/image/teams/894.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "فلامنغو",
+    "homeLogo": "https://jdwel.com/image/teams/2764.png",
+    "away": "بالميراس",
+    "awayLogo": "https://jdwel.com/image/teams/2762.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "كروزيرو",
+    "homeLogo": "https://jdwel.com/image/teams/886.png",
+    "away": "فلومينينسي",
+    "awayLogo": "https://jdwel.com/image/teams/bra_fluminense.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "بالميراس",
+    "homeLogo": "https://jdwel.com/image/teams/2762.png",
+    "away": "شابيكوينسي",
+    "awayLogo": "https://jdwel.com/image/teams/bra_chapecoense.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "سانتوس",
+    "homeLogo": "https://jdwel.com/image/teams/1446.png",
+    "away": "فيتوريا",
+    "awayLogo": "https://jdwel.com/image/teams/892.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "فاسكو دا غاما",
+    "homeLogo": "https://jdwel.com/image/teams/891.png",
+    "away": "أتليتيكو مينيرو",
+    "awayLogo": "https://jdwel.com/image/teams/2968.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "فلامنغو",
+    "homeLogo": "https://jdwel.com/image/teams/2764.png",
+    "away": "كوريتيبا",
+    "awayLogo": "https://jdwel.com/image/teams/1450.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "براغانتينو",
+    "homeLogo": "https://jdwel.com/image/teams/894.png",
+    "away": "إنترناسيونال",
+    "awayLogo": "https://jdwel.com/image/teams/889.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "ريمو",
+    "homeLogo": "https://jdwel.com/image/teams/bra_remo.png",
+    "away": "ساو باولو",
+    "awayLogo": "https://jdwel.com/image/teams/2763.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "باهيا",
+    "homeLogo": "https://jdwel.com/image/teams/3056.png",
+    "away": "بوتافوغو",
+    "awayLogo": "https://jdwel.com/image/teams/1098.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "أتلتيكو باراناينسي",
+    "homeLogo": "https://jdwel.com/image/teams/888.png",
+    "away": "ميراسول",
+    "awayLogo": "https://jdwel.com/image/teams/2765.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "غريميو",
+    "homeLogo": "https://jdwel.com/image/teams/bra_gremio.png",
+    "away": "كورينثيانز",
+    "awayLogo": "https://jdwel.com/image/teams/900.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "شابيكوينسي",
+    "homeLogo": "https://jdwel.com/image/teams/bra_chapecoense.png",
+    "away": "فلامنغو",
+    "awayLogo": "https://jdwel.com/image/teams/2764.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "فيتوريا",
+    "homeLogo": "https://jdwel.com/image/teams/892.png",
+    "away": "فاسكو دا غاما",
+    "awayLogo": "https://jdwel.com/image/teams/891.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "كوريتيبا",
+    "homeLogo": "https://jdwel.com/image/teams/1450.png",
+    "away": "بالميراس",
+    "awayLogo": "https://jdwel.com/image/teams/2762.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "إنترناسيونال",
+    "homeLogo": "https://jdwel.com/image/teams/889.png",
+    "away": "كروزيرو",
+    "awayLogo": "https://jdwel.com/image/teams/886.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "أتليتيكو مينيرو",
+    "homeLogo": "https://jdwel.com/image/teams/2968.png",
+    "away": "باهيا",
+    "awayLogo": "https://jdwel.com/image/teams/3056.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "ميراسول",
+    "homeLogo": "https://jdwel.com/image/teams/2765.png",
+    "away": "غريميو",
+    "awayLogo": "https://jdwel.com/image/teams/bra_gremio.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "كورينثيانز",
+    "homeLogo": "https://jdwel.com/image/teams/900.png",
+    "away": "ريمو",
+    "awayLogo": "https://jdwel.com/image/teams/bra_remo.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "ساو باولو",
+    "homeLogo": "https://jdwel.com/image/teams/2763.png",
+    "away": "أتلتيكو باراناينسي",
+    "awayLogo": "https://jdwel.com/image/teams/888.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "بوتافوغو",
+    "homeLogo": "https://jdwel.com/image/teams/1098.png",
+    "away": "سانتوس",
+    "awayLogo": "https://jdwel.com/image/teams/1446.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "فلومينينسي",
+    "homeLogo": "https://jdwel.com/image/teams/bra_fluminense.png",
+    "away": "براغانتينو",
+    "awayLogo": "https://jdwel.com/image/teams/894.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "ريمو",
+    "homeLogo": "https://jdwel.com/image/teams/bra_remo.png",
+    "away": "فيتوريا",
+    "awayLogo": "https://jdwel.com/image/teams/892.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "باهيا",
+    "homeLogo": "https://jdwel.com/image/teams/3056.png",
+    "away": "كورينثيانز",
+    "awayLogo": "https://jdwel.com/image/teams/900.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "أتلتيكو باراناينسي",
+    "homeLogo": "https://jdwel.com/image/teams/888.png",
+    "away": "إنترناسيونال",
+    "awayLogo": "https://jdwel.com/image/teams/889.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "غريميو",
+    "homeLogo": "https://jdwel.com/image/teams/bra_gremio.png",
+    "away": "فلومينينسي",
+    "awayLogo": "https://jdwel.com/image/teams/bra_fluminense.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "كروزيرو",
+    "homeLogo": "https://jdwel.com/image/teams/886.png",
+    "away": "بوتافوغو",
+    "awayLogo": "https://jdwel.com/image/teams/1098.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "براغانتينو",
+    "homeLogo": "https://jdwel.com/image/teams/894.png",
+    "away": "كوريتيبا",
+    "awayLogo": "https://jdwel.com/image/teams/1450.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "بالميراس",
+    "homeLogo": "https://jdwel.com/image/teams/2762.png",
+    "away": "أتليتيكو مينيرو",
+    "awayLogo": "https://jdwel.com/image/teams/2968.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "سانتوس",
+    "homeLogo": "https://jdwel.com/image/teams/1446.png",
+    "away": "شابيكوينسي",
+    "awayLogo": "https://jdwel.com/image/teams/bra_chapecoense.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "فاسكو دا غاما",
+    "homeLogo": "https://jdwel.com/image/teams/891.png",
+    "away": "ميراسول",
+    "awayLogo": "https://jdwel.com/image/teams/2765.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "فلامنغو",
+    "homeLogo": "https://jdwel.com/image/teams/2764.png",
+    "away": "ساو باولو",
+    "awayLogo": "https://jdwel.com/image/teams/2763.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "شابيكوينسي",
+    "homeLogo": "https://jdwel.com/image/teams/bra_chapecoense.png",
+    "away": "فاسكو دا غاما",
+    "awayLogo": "https://jdwel.com/image/teams/891.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "فيتوريا",
+    "homeLogo": "https://jdwel.com/image/teams/892.png",
+    "away": "بالميراس",
+    "awayLogo": "https://jdwel.com/image/teams/2762.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "كوريتيبا",
+    "homeLogo": "https://jdwel.com/image/teams/1450.png",
+    "away": "كروزيرو",
+    "awayLogo": "https://jdwel.com/image/teams/886.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "إنترناسيونال",
+    "homeLogo": "https://jdwel.com/image/teams/889.png",
+    "away": "فلامنغو",
+    "awayLogo": "https://jdwel.com/image/teams/2764.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "أتليتيكو مينيرو",
+    "homeLogo": "https://jdwel.com/image/teams/2968.png",
+    "away": "براغانتينو",
+    "awayLogo": "https://jdwel.com/image/teams/894.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "ميراسول",
+    "homeLogo": "https://jdwel.com/image/teams/2765.png",
+    "away": "ريمو",
+    "awayLogo": "https://jdwel.com/image/teams/bra_remo.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "كورينثيانز",
+    "homeLogo": "https://jdwel.com/image/teams/900.png",
+    "away": "أتلتيكو باراناينسي",
+    "awayLogo": "https://jdwel.com/image/teams/888.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "ساو باولو",
+    "homeLogo": "https://jdwel.com/image/teams/2763.png",
+    "away": "سانتوس",
+    "awayLogo": "https://jdwel.com/image/teams/1446.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "بوتافوغو",
+    "homeLogo": "https://jdwel.com/image/teams/1098.png",
+    "away": "غريميو",
+    "awayLogo": "https://jdwel.com/image/teams/bra_gremio.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "فلومينينسي",
+    "homeLogo": "https://jdwel.com/image/teams/bra_fluminense.png",
+    "away": "باهيا",
+    "awayLogo": "https://jdwel.com/image/teams/3056.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "ريمو",
+    "homeLogo": "https://jdwel.com/image/teams/bra_remo.png",
+    "away": "أتليتيكو مينيرو",
+    "awayLogo": "https://jdwel.com/image/teams/2968.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "باهيا",
+    "homeLogo": "https://jdwel.com/image/teams/3056.png",
+    "away": "فاسكو دا غاما",
+    "awayLogo": "https://jdwel.com/image/teams/891.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "كوريتيبا",
+    "homeLogo": "https://jdwel.com/image/teams/1450.png",
+    "away": "شابيكوينسي",
+    "awayLogo": "https://jdwel.com/image/teams/bra_chapecoense.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "غريميو",
+    "homeLogo": "https://jdwel.com/image/teams/bra_gremio.png",
+    "away": "ساو باولو",
+    "awayLogo": "https://jdwel.com/image/teams/2763.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "كروزيرو",
+    "homeLogo": "https://jdwel.com/image/teams/886.png",
+    "away": "ميراسول",
+    "awayLogo": "https://jdwel.com/image/teams/2765.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "براغانتينو",
+    "homeLogo": "https://jdwel.com/image/teams/894.png",
+    "away": "كورينثيانز",
+    "awayLogo": "https://jdwel.com/image/teams/900.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "بالميراس",
+    "homeLogo": "https://jdwel.com/image/teams/2762.png",
+    "away": "إنترناسيونال",
+    "awayLogo": "https://jdwel.com/image/teams/889.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "سانتوس",
+    "homeLogo": "https://jdwel.com/image/teams/1446.png",
+    "away": "أتلتيكو باراناينسي",
+    "awayLogo": "https://jdwel.com/image/teams/888.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "بوتافوغو",
+    "homeLogo": "https://jdwel.com/image/teams/1098.png",
+    "away": "فلومينينسي",
+    "awayLogo": "https://jdwel.com/image/teams/bra_fluminense.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "فلامنغو",
+    "homeLogo": "https://jdwel.com/image/teams/2764.png",
+    "away": "فيتوريا",
+    "awayLogo": "https://jdwel.com/image/teams/892.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "شابيكوينسي",
+    "homeLogo": "https://jdwel.com/image/teams/bra_chapecoense.png",
+    "away": "باهيا",
+    "awayLogo": "https://jdwel.com/image/teams/3056.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "فيتوريا",
+    "homeLogo": "https://jdwel.com/image/teams/892.png",
+    "away": "بوتافوغو",
+    "awayLogo": "https://jdwel.com/image/teams/1098.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "أتلتيكو باراناينسي",
+    "homeLogo": "https://jdwel.com/image/teams/888.png",
+    "away": "براغانتينو",
+    "awayLogo": "https://jdwel.com/image/teams/894.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "إنترناسيونال",
+    "homeLogo": "https://jdwel.com/image/teams/889.png",
+    "away": "ريمو",
+    "awayLogo": "https://jdwel.com/image/teams/bra_remo.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "أتليتيكو مينيرو",
+    "homeLogo": "https://jdwel.com/image/teams/2968.png",
+    "away": "غريميو",
+    "awayLogo": "https://jdwel.com/image/teams/bra_gremio.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "ميراسول",
+    "homeLogo": "https://jdwel.com/image/teams/2765.png",
+    "away": "فلامنغو",
+    "awayLogo": "https://jdwel.com/image/teams/2764.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "كورينثيانز",
+    "homeLogo": "https://jdwel.com/image/teams/900.png",
+    "away": "كروزيرو",
+    "awayLogo": "https://jdwel.com/image/teams/886.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "ساو باولو",
+    "homeLogo": "https://jdwel.com/image/teams/2763.png",
+    "away": "كوريتيبا",
+    "awayLogo": "https://jdwel.com/image/teams/1450.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "فاسكو دا غاما",
+    "homeLogo": "https://jdwel.com/image/teams/891.png",
+    "away": "سانتوس",
+    "awayLogo": "https://jdwel.com/image/teams/1446.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "فلومينينسي",
+    "homeLogo": "https://jdwel.com/image/teams/bra_fluminense.png",
+    "away": "بالميراس",
+    "awayLogo": "https://jdwel.com/image/teams/2762.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "شابيكوينسي",
+    "homeLogo": "https://jdwel.com/image/teams/bra_chapecoense.png",
+    "away": "ساو باولو",
+    "awayLogo": "https://jdwel.com/image/teams/2763.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "فيتوريا",
+    "homeLogo": "https://jdwel.com/image/teams/892.png",
+    "away": "باهيا",
+    "awayLogo": "https://jdwel.com/image/teams/3056.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "كوريتيبا",
+    "homeLogo": "https://jdwel.com/image/teams/1450.png",
+    "away": "كورينثيانز",
+    "awayLogo": "https://jdwel.com/image/teams/900.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "إنترناسيونال",
+    "homeLogo": "https://jdwel.com/image/teams/889.png",
+    "away": "أتليتيكو مينيرو",
+    "awayLogo": "https://jdwel.com/image/teams/2968.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "كروزيرو",
+    "homeLogo": "https://jdwel.com/image/teams/886.png",
+    "away": "فلامنغو",
+    "awayLogo": "https://jdwel.com/image/teams/2764.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "براغانتينو",
+    "homeLogo": "https://jdwel.com/image/teams/894.png",
+    "away": "غريميو",
+    "awayLogo": "https://jdwel.com/image/teams/bra_gremio.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "بالميراس",
+    "homeLogo": "https://jdwel.com/image/teams/2762.png",
+    "away": "فاسكو دا غاما",
+    "awayLogo": "https://jdwel.com/image/teams/891.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "سانتوس",
+    "homeLogo": "https://jdwel.com/image/teams/1446.png",
+    "away": "ميراسول",
+    "awayLogo": "https://jdwel.com/image/teams/2765.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "بوتافوغو",
+    "homeLogo": "https://jdwel.com/image/teams/1098.png",
+    "away": "أتلتيكو باراناينسي",
+    "awayLogo": "https://jdwel.com/image/teams/888.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "فلومينينسي",
+    "homeLogo": "https://jdwel.com/image/teams/bra_fluminense.png",
+    "away": "ريمو",
+    "awayLogo": "https://jdwel.com/image/teams/bra_remo.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "فاسكو دا غاما",
+    "homeLogo": "https://jdwel.com/image/teams/891.png",
+    "away": "كروزيرو",
+    "awayLogo": "https://jdwel.com/image/teams/886.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "فلامنغو",
+    "homeLogo": "https://jdwel.com/image/teams/2764.png",
+    "away": "بوتافوغو",
+    "awayLogo": "https://jdwel.com/image/teams/1098.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "ريمو",
+    "homeLogo": "https://jdwel.com/image/teams/bra_remo.png",
+    "away": "كوريتيبا",
+    "awayLogo": "https://jdwel.com/image/teams/1450.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "باهيا",
+    "homeLogo": "https://jdwel.com/image/teams/3056.png",
+    "away": "إنترناسيونال",
+    "awayLogo": "https://jdwel.com/image/teams/889.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "أتلتيكو باراناينسي",
+    "homeLogo": "https://jdwel.com/image/teams/888.png",
+    "away": "فلومينينسي",
+    "awayLogo": "https://jdwel.com/image/teams/bra_fluminense.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "غريميو",
+    "homeLogo": "https://jdwel.com/image/teams/bra_gremio.png",
+    "away": "شابيكوينسي",
+    "awayLogo": "https://jdwel.com/image/teams/bra_chapecoense.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "أتليتيكو مينيرو",
+    "homeLogo": "https://jdwel.com/image/teams/2968.png",
+    "away": "فيتوريا",
+    "awayLogo": "https://jdwel.com/image/teams/892.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "ميراسول",
+    "homeLogo": "https://jdwel.com/image/teams/2765.png",
+    "away": "بالميراس",
+    "awayLogo": "https://jdwel.com/image/teams/2762.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "كورينثيانز",
+    "homeLogo": "https://jdwel.com/image/teams/900.png",
+    "away": "سانتوس",
+    "awayLogo": "https://jdwel.com/image/teams/1446.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "ساو باولو",
+    "homeLogo": "https://jdwel.com/image/teams/2763.png",
+    "away": "براغانتينو",
+    "awayLogo": "https://jdwel.com/image/teams/894.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "ريمو",
+    "homeLogo": "https://jdwel.com/image/teams/bra_remo.png",
+    "away": "فلامنغو",
+    "awayLogo": "https://jdwel.com/image/teams/2764.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "فيتوريا",
+    "homeLogo": "https://jdwel.com/image/teams/892.png",
+    "away": "غريميو",
+    "awayLogo": "https://jdwel.com/image/teams/bra_gremio.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "كوريتيبا",
+    "homeLogo": "https://jdwel.com/image/teams/1450.png",
+    "away": "ميراسول",
+    "awayLogo": "https://jdwel.com/image/teams/2765.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "إنترناسيونال",
+    "homeLogo": "https://jdwel.com/image/teams/889.png",
+    "away": "سانتوس",
+    "awayLogo": "https://jdwel.com/image/teams/1446.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "كروزيرو",
+    "homeLogo": "https://jdwel.com/image/teams/886.png",
+    "away": "أتلتيكو باراناينسي",
+    "awayLogo": "https://jdwel.com/image/teams/888.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "براغانتينو",
+    "homeLogo": "https://jdwel.com/image/teams/894.png",
+    "away": "باهيا",
+    "awayLogo": "https://jdwel.com/image/teams/3056.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "كورينثيانز",
+    "homeLogo": "https://jdwel.com/image/teams/900.png",
+    "away": "شابيكوينسي",
+    "awayLogo": "https://jdwel.com/image/teams/bra_chapecoense.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "ساو باولو",
+    "homeLogo": "https://jdwel.com/image/teams/2763.png",
+    "away": "أتليتيكو مينيرو",
+    "awayLogo": "https://jdwel.com/image/teams/2968.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "بوتافوغو",
+    "homeLogo": "https://jdwel.com/image/teams/1098.png",
+    "away": "بالميراس",
+    "awayLogo": "https://jdwel.com/image/teams/2762.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "فلومينينسي",
+    "homeLogo": "https://jdwel.com/image/teams/bra_fluminense.png",
+    "away": "فاسكو دا غاما",
+    "awayLogo": "https://jdwel.com/image/teams/891.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "شابيكوينسي",
+    "homeLogo": "https://jdwel.com/image/teams/bra_chapecoense.png",
+    "away": "إنترناسيونال",
+    "awayLogo": "https://jdwel.com/image/teams/889.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "باهيا",
+    "homeLogo": "https://jdwel.com/image/teams/3056.png",
+    "away": "ريمو",
+    "awayLogo": "https://jdwel.com/image/teams/bra_remo.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "كوريتيبا",
+    "homeLogo": "https://jdwel.com/image/teams/1450.png",
+    "away": "أتلتيكو باراناينسي",
+    "awayLogo": "https://jdwel.com/image/teams/888.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "غريميو",
+    "homeLogo": "https://jdwel.com/image/teams/bra_gremio.png",
+    "away": "فاسكو دا غاما",
+    "awayLogo": "https://jdwel.com/image/teams/891.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "أتليتيكو مينيرو",
+    "homeLogo": "https://jdwel.com/image/teams/2968.png",
+    "away": "فلومينينسي",
+    "awayLogo": "https://jdwel.com/image/teams/bra_fluminense.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "ميراسول",
+    "homeLogo": "https://jdwel.com/image/teams/2765.png",
+    "away": "فيتوريا",
+    "awayLogo": "https://jdwel.com/image/teams/892.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "بالميراس",
+    "homeLogo": "https://jdwel.com/image/teams/2762.png",
+    "away": "ساو باولو",
+    "awayLogo": "https://jdwel.com/image/teams/2763.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "سانتوس",
+    "homeLogo": "https://jdwel.com/image/teams/1446.png",
+    "away": "كروزيرو",
+    "awayLogo": "https://jdwel.com/image/teams/886.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "بوتافوغو",
+    "homeLogo": "https://jdwel.com/image/teams/1098.png",
+    "away": "براغانتينو",
+    "awayLogo": "https://jdwel.com/image/teams/894.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "فلامنغو",
+    "homeLogo": "https://jdwel.com/image/teams/2764.png",
+    "away": "كورينثيانز",
+    "awayLogo": "https://jdwel.com/image/teams/900.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "ريمو",
+    "homeLogo": "https://jdwel.com/image/teams/bra_remo.png",
+    "away": "سانتوس",
+    "awayLogo": "https://jdwel.com/image/teams/1446.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "فيتوريا",
+    "homeLogo": "https://jdwel.com/image/teams/892.png",
+    "away": "كروزيرو",
+    "awayLogo": "https://jdwel.com/image/teams/886.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "أتلتيكو باراناينسي",
+    "homeLogo": "https://jdwel.com/image/teams/888.png",
+    "away": "باهيا",
+    "awayLogo": "https://jdwel.com/image/teams/3056.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "غريميو",
+    "homeLogo": "https://jdwel.com/image/teams/bra_gremio.png",
+    "away": "بالميراس",
+    "awayLogo": "https://jdwel.com/image/teams/2762.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "أتليتيكو مينيرو",
+    "homeLogo": "https://jdwel.com/image/teams/2968.png",
+    "away": "شابيكوينسي",
+    "awayLogo": "https://jdwel.com/image/teams/bra_chapecoense.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "ميراسول",
+    "homeLogo": "https://jdwel.com/image/teams/2765.png",
+    "away": "بوتافوغو",
+    "awayLogo": "https://jdwel.com/image/teams/1098.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "كورينثيانز",
+    "homeLogo": "https://jdwel.com/image/teams/900.png",
+    "away": "فلومينينسي",
+    "awayLogo": "https://jdwel.com/image/teams/bra_fluminense.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "ساو باولو",
+    "homeLogo": "https://jdwel.com/image/teams/2763.png",
+    "away": "إنترناسيونال",
+    "awayLogo": "https://jdwel.com/image/teams/889.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "فاسكو دا غاما",
+    "homeLogo": "https://jdwel.com/image/teams/891.png",
+    "away": "كوريتيبا",
+    "awayLogo": "https://jdwel.com/image/teams/1450.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "فلامنغو",
+    "homeLogo": "https://jdwel.com/image/teams/2764.png",
+    "away": "براغانتينو",
+    "awayLogo": "https://jdwel.com/image/teams/894.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "ريمو",
+    "homeLogo": "https://jdwel.com/image/teams/bra_remo.png",
+    "away": "غريميو",
+    "awayLogo": "https://jdwel.com/image/teams/bra_gremio.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "فيتوريا",
+    "homeLogo": "https://jdwel.com/image/teams/892.png",
+    "away": "شابيكوينسي",
+    "awayLogo": "https://jdwel.com/image/teams/bra_chapecoense.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "أتلتيكو باراناينسي",
+    "homeLogo": "https://jdwel.com/image/teams/888.png",
+    "away": "أتليتيكو مينيرو",
+    "awayLogo": "https://jdwel.com/image/teams/2968.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "إنترناسيونال",
+    "homeLogo": "https://jdwel.com/image/teams/889.png",
+    "away": "كورينثيانز",
+    "awayLogo": "https://jdwel.com/image/teams/900.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "كروزيرو",
+    "homeLogo": "https://jdwel.com/image/teams/886.png",
+    "away": "ساو باولو",
+    "awayLogo": "https://jdwel.com/image/teams/2763.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "براغانتينو",
+    "homeLogo": "https://jdwel.com/image/teams/894.png",
+    "away": "ميراسول",
+    "awayLogo": "https://jdwel.com/image/teams/2765.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "بالميراس",
+    "homeLogo": "https://jdwel.com/image/teams/2762.png",
+    "away": "باهيا",
+    "awayLogo": "https://jdwel.com/image/teams/3056.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "سانتوس",
+    "homeLogo": "https://jdwel.com/image/teams/1446.png",
+    "away": "فلامنغو",
+    "awayLogo": "https://jdwel.com/image/teams/2764.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "بوتافوغو",
+    "homeLogo": "https://jdwel.com/image/teams/1098.png",
+    "away": "فاسكو دا غاما",
+    "awayLogo": "https://jdwel.com/image/teams/891.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "فلومينينسي",
+    "homeLogo": "https://jdwel.com/image/teams/bra_fluminense.png",
+    "away": "كوريتيبا",
+    "awayLogo": "https://jdwel.com/image/teams/1450.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "شابيكوينسي",
+    "homeLogo": "https://jdwel.com/image/teams/bra_chapecoense.png",
+    "away": "أتلتيكو باراناينسي",
+    "awayLogo": "https://jdwel.com/image/teams/888.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "باهيا",
+    "homeLogo": "https://jdwel.com/image/teams/3056.png",
+    "away": "ميراسول",
+    "awayLogo": "https://jdwel.com/image/teams/2765.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "كوريتيبا",
+    "homeLogo": "https://jdwel.com/image/teams/1450.png",
+    "away": "بوتافوغو",
+    "awayLogo": "https://jdwel.com/image/teams/1098.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "غريميو",
+    "homeLogo": "https://jdwel.com/image/teams/bra_gremio.png",
+    "away": "إنترناسيونال",
+    "awayLogo": "https://jdwel.com/image/teams/889.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "أتليتيكو مينيرو",
+    "homeLogo": "https://jdwel.com/image/teams/2968.png",
+    "away": "سانتوس",
+    "awayLogo": "https://jdwel.com/image/teams/1446.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "براغانتينو",
+    "homeLogo": "https://jdwel.com/image/teams/894.png",
+    "away": "كروزيرو",
+    "awayLogo": "https://jdwel.com/image/teams/886.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "بالميراس",
+    "homeLogo": "https://jdwel.com/image/teams/2762.png",
+    "away": "كورينثيانز",
+    "awayLogo": "https://jdwel.com/image/teams/900.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "ساو باولو",
+    "homeLogo": "https://jdwel.com/image/teams/2763.png",
+    "away": "فيتوريا",
+    "awayLogo": "https://jdwel.com/image/teams/892.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "فاسكو دا غاما",
+    "homeLogo": "https://jdwel.com/image/teams/891.png",
+    "away": "ريمو",
+    "awayLogo": "https://jdwel.com/image/teams/bra_remo.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "فلامنغو",
+    "homeLogo": "https://jdwel.com/image/teams/2764.png",
+    "away": "فلومينينسي",
+    "awayLogo": "https://jdwel.com/image/teams/bra_fluminense.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "ريمو",
+    "homeLogo": "https://jdwel.com/image/teams/bra_remo.png",
+    "away": "براغانتينو",
+    "awayLogo": "https://jdwel.com/image/teams/894.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "باهيا",
+    "homeLogo": "https://jdwel.com/image/teams/3056.png",
+    "away": "فلامنغو",
+    "awayLogo": "https://jdwel.com/image/teams/2764.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "أتلتيكو باراناينسي",
+    "homeLogo": "https://jdwel.com/image/teams/888.png",
+    "away": "بالميراس",
+    "awayLogo": "https://jdwel.com/image/teams/2762.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "غريميو",
+    "homeLogo": "https://jdwel.com/image/teams/bra_gremio.png",
+    "away": "كروزيرو",
+    "awayLogo": "https://jdwel.com/image/teams/886.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "أتليتيكو مينيرو",
+    "homeLogo": "https://jdwel.com/image/teams/2968.png",
+    "away": "كوريتيبا",
+    "awayLogo": "https://jdwel.com/image/teams/1450.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "ميراسول",
+    "homeLogo": "https://jdwel.com/image/teams/2765.png",
+    "away": "إنترناسيونال",
+    "awayLogo": "https://jdwel.com/image/teams/889.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "كورينثيانز",
+    "homeLogo": "https://jdwel.com/image/teams/900.png",
+    "away": "فيتوريا",
+    "awayLogo": "https://jdwel.com/image/teams/892.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "ساو باولو",
+    "homeLogo": "https://jdwel.com/image/teams/2763.png",
+    "away": "فاسكو دا غاما",
+    "awayLogo": "https://jdwel.com/image/teams/891.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "بوتافوغو",
+    "homeLogo": "https://jdwel.com/image/teams/1098.png",
+    "away": "شابيكوينسي",
+    "awayLogo": "https://jdwel.com/image/teams/bra_chapecoense.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "فلومينينسي",
+    "homeLogo": "https://jdwel.com/image/teams/bra_fluminense.png",
+    "away": "سانتوس",
+    "awayLogo": "https://jdwel.com/image/teams/1446.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "شابيكوينسي",
+    "homeLogo": "https://jdwel.com/image/teams/bra_chapecoense.png",
+    "away": "فلومينينسي",
+    "awayLogo": "https://jdwel.com/image/teams/bra_fluminense.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "فيتوريا",
+    "homeLogo": "https://jdwel.com/image/teams/892.png",
+    "away": "أتلتيكو باراناينسي",
+    "awayLogo": "https://jdwel.com/image/teams/888.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "كوريتيبا",
+    "homeLogo": "https://jdwel.com/image/teams/1450.png",
+    "away": "غريميو",
+    "awayLogo": "https://jdwel.com/image/teams/bra_gremio.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "إنترناسيونال",
+    "homeLogo": "https://jdwel.com/image/teams/889.png",
+    "away": "بوتافوغو",
+    "awayLogo": "https://jdwel.com/image/teams/1098.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "كروزيرو",
+    "homeLogo": "https://jdwel.com/image/teams/886.png",
+    "away": "ريمو",
+    "awayLogo": "https://jdwel.com/image/teams/bra_remo.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "ميراسول",
+    "homeLogo": "https://jdwel.com/image/teams/2765.png",
+    "away": "ساو باولو",
+    "awayLogo": "https://jdwel.com/image/teams/2763.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "بالميراس",
+    "homeLogo": "https://jdwel.com/image/teams/2762.png",
+    "away": "براغانتينو",
+    "awayLogo": "https://jdwel.com/image/teams/894.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "سانتوس",
+    "homeLogo": "https://jdwel.com/image/teams/1446.png",
+    "away": "باهيا",
+    "awayLogo": "https://jdwel.com/image/teams/3056.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "فاسكو دا غاما",
+    "homeLogo": "https://jdwel.com/image/teams/891.png",
+    "away": "كورينثيانز",
+    "awayLogo": "https://jdwel.com/image/teams/900.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "فلامنغو",
+    "homeLogo": "https://jdwel.com/image/teams/2764.png",
+    "away": "أتليتيكو مينيرو",
+    "awayLogo": "https://jdwel.com/image/teams/2968.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "ريمو",
+    "homeLogo": "https://jdwel.com/image/teams/bra_remo.png",
+    "away": "بوتافوغو",
+    "awayLogo": "https://jdwel.com/image/teams/1098.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "باهيا",
+    "homeLogo": "https://jdwel.com/image/teams/3056.png",
+    "away": "ساو باولو",
+    "awayLogo": "https://jdwel.com/image/teams/2763.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "كوريتيبا",
+    "homeLogo": "https://jdwel.com/image/teams/1450.png",
+    "away": "فيتوريا",
+    "awayLogo": "https://jdwel.com/image/teams/892.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "غريميو",
+    "homeLogo": "https://jdwel.com/image/teams/bra_gremio.png",
+    "away": "أتلتيكو باراناينسي",
+    "awayLogo": "https://jdwel.com/image/teams/888.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "أتليتيكو مينيرو",
+    "homeLogo": "https://jdwel.com/image/teams/2968.png",
+    "away": "كروزيرو",
+    "awayLogo": "https://jdwel.com/image/teams/886.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "براغانتينو",
+    "homeLogo": "https://jdwel.com/image/teams/894.png",
+    "away": "شابيكوينسي",
+    "awayLogo": "https://jdwel.com/image/teams/bra_chapecoense.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "كورينثيانز",
+    "homeLogo": "https://jdwel.com/image/teams/900.png",
+    "away": "ميراسول",
+    "awayLogo": "https://jdwel.com/image/teams/2765.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "سانتوس",
+    "homeLogo": "https://jdwel.com/image/teams/1446.png",
+    "away": "بالميراس",
+    "awayLogo": "https://jdwel.com/image/teams/2762.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "فاسكو دا غاما",
+    "homeLogo": "https://jdwel.com/image/teams/891.png",
+    "away": "فلامنغو",
+    "awayLogo": "https://jdwel.com/image/teams/2764.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "فلومينينسي",
+    "homeLogo": "https://jdwel.com/image/teams/bra_fluminense.png",
+    "away": "إنترناسيونال",
+    "awayLogo": "https://jdwel.com/image/teams/889.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "شابيكوينسي",
+    "homeLogo": "https://jdwel.com/image/teams/bra_chapecoense.png",
+    "away": "ميراسول",
+    "awayLogo": "https://jdwel.com/image/teams/2765.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "فيتوريا",
+    "homeLogo": "https://jdwel.com/image/teams/892.png",
+    "away": "فلومينينسي",
+    "awayLogo": "https://jdwel.com/image/teams/bra_fluminense.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "أتلتيكو باراناينسي",
+    "homeLogo": "https://jdwel.com/image/teams/888.png",
+    "away": "فاسكو دا غاما",
+    "awayLogo": "https://jdwel.com/image/teams/891.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "إنترناسيونال",
+    "homeLogo": "https://jdwel.com/image/teams/889.png",
+    "away": "كوريتيبا",
+    "awayLogo": "https://jdwel.com/image/teams/1450.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "كروزيرو",
+    "homeLogo": "https://jdwel.com/image/teams/886.png",
+    "away": "باهيا",
+    "awayLogo": "https://jdwel.com/image/teams/3056.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "براغانتينو",
+    "homeLogo": "https://jdwel.com/image/teams/894.png",
+    "away": "سانتوس",
+    "awayLogo": "https://jdwel.com/image/teams/1446.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "بالميراس",
+    "homeLogo": "https://jdwel.com/image/teams/2762.png",
+    "away": "ريمو",
+    "awayLogo": "https://jdwel.com/image/teams/bra_remo.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "ساو باولو",
+    "homeLogo": "https://jdwel.com/image/teams/2763.png",
+    "away": "كورينثيانز",
+    "awayLogo": "https://jdwel.com/image/teams/900.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "بوتافوغو",
+    "homeLogo": "https://jdwel.com/image/teams/1098.png",
+    "away": "أتليتيكو مينيرو",
+    "awayLogo": "https://jdwel.com/image/teams/2968.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "فلامنغو",
+    "homeLogo": "https://jdwel.com/image/teams/2764.png",
+    "away": "غريميو",
+    "awayLogo": "https://jdwel.com/image/teams/bra_gremio.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "ريمو",
+    "homeLogo": "https://jdwel.com/image/teams/bra_remo.png",
+    "away": "شابيكوينسي",
+    "awayLogo": "https://jdwel.com/image/teams/bra_chapecoense.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "فيتوريا",
+    "homeLogo": "https://jdwel.com/image/teams/892.png",
+    "away": "براغانتينو",
+    "awayLogo": "https://jdwel.com/image/teams/894.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "كوريتيبا",
+    "homeLogo": "https://jdwel.com/image/teams/1450.png",
+    "away": "سانتوس",
+    "awayLogo": "https://jdwel.com/image/teams/1446.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "غريميو",
+    "homeLogo": "https://jdwel.com/image/teams/bra_gremio.png",
+    "away": "باهيا",
+    "awayLogo": "https://jdwel.com/image/teams/3056.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "كروزيرو",
+    "homeLogo": "https://jdwel.com/image/teams/886.png",
+    "away": "بالميراس",
+    "awayLogo": "https://jdwel.com/image/teams/2762.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "ميراسول",
+    "homeLogo": "https://jdwel.com/image/teams/2765.png",
+    "away": "أتليتيكو مينيرو",
+    "awayLogo": "https://jdwel.com/image/teams/2968.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "كورينثيانز",
+    "homeLogo": "https://jdwel.com/image/teams/900.png",
+    "away": "بوتافوغو",
+    "awayLogo": "https://jdwel.com/image/teams/1098.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "ساو باولو",
+    "homeLogo": "https://jdwel.com/image/teams/2763.png",
+    "away": "فلومينينسي",
+    "awayLogo": "https://jdwel.com/image/teams/bra_fluminense.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "فاسكو دا غاما",
+    "homeLogo": "https://jdwel.com/image/teams/891.png",
+    "away": "إنترناسيونال",
+    "awayLogo": "https://jdwel.com/image/teams/889.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "فلامنغو",
+    "homeLogo": "https://jdwel.com/image/teams/2764.png",
+    "away": "أتلتيكو باراناينسي",
+    "awayLogo": "https://jdwel.com/image/teams/888.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "شابيكوينسي",
+    "homeLogo": "https://jdwel.com/image/teams/bra_chapecoense.png",
+    "away": "كروزيرو",
+    "awayLogo": "https://jdwel.com/image/teams/886.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "باهيا",
+    "homeLogo": "https://jdwel.com/image/teams/3056.png",
+    "away": "كوريتيبا",
+    "awayLogo": "https://jdwel.com/image/teams/1450.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "أتلتيكو باراناينسي",
+    "homeLogo": "https://jdwel.com/image/teams/888.png",
+    "away": "ريمو",
+    "awayLogo": "https://jdwel.com/image/teams/bra_remo.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "إنترناسيونال",
+    "homeLogo": "https://jdwel.com/image/teams/889.png",
+    "away": "فيتوريا",
+    "awayLogo": "https://jdwel.com/image/teams/892.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "أتليتيكو مينيرو",
+    "homeLogo": "https://jdwel.com/image/teams/2968.png",
+    "away": "كورينثيانز",
+    "awayLogo": "https://jdwel.com/image/teams/900.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "براغانتينو",
+    "homeLogo": "https://jdwel.com/image/teams/894.png",
+    "away": "فاسكو دا غاما",
+    "awayLogo": "https://jdwel.com/image/teams/891.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "بالميراس",
+    "homeLogo": "https://jdwel.com/image/teams/2762.png",
+    "away": "فلامنغو",
+    "awayLogo": "https://jdwel.com/image/teams/2764.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "سانتوس",
+    "homeLogo": "https://jdwel.com/image/teams/1446.png",
+    "away": "غريميو",
+    "awayLogo": "https://jdwel.com/image/teams/bra_gremio.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "بوتافوغو",
+    "homeLogo": "https://jdwel.com/image/teams/1098.png",
+    "away": "ساو باولو",
+    "awayLogo": "https://jdwel.com/image/teams/2763.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "فلومينينسي",
+    "homeLogo": "https://jdwel.com/image/teams/bra_fluminense.png",
+    "away": "ميراسول",
+    "awayLogo": "https://jdwel.com/image/teams/2765.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "شابيكوينسي",
+    "homeLogo": "https://jdwel.com/image/teams/bra_chapecoense.png",
+    "away": "بالميراس",
+    "awayLogo": "https://jdwel.com/image/teams/2762.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "فيتوريا",
+    "homeLogo": "https://jdwel.com/image/teams/892.png",
+    "away": "سانتوس",
+    "awayLogo": "https://jdwel.com/image/teams/1446.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "كوريتيبا",
+    "homeLogo": "https://jdwel.com/image/teams/1450.png",
+    "away": "فلامنغو",
+    "awayLogo": "https://jdwel.com/image/teams/2764.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "إنترناسيونال",
+    "homeLogo": "https://jdwel.com/image/teams/889.png",
+    "away": "براغانتينو",
+    "awayLogo": "https://jdwel.com/image/teams/894.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "أتليتيكو مينيرو",
+    "homeLogo": "https://jdwel.com/image/teams/2968.png",
+    "away": "فاسكو دا غاما",
+    "awayLogo": "https://jdwel.com/image/teams/891.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "ميراسول",
+    "homeLogo": "https://jdwel.com/image/teams/2765.png",
+    "away": "أتلتيكو باراناينسي",
+    "awayLogo": "https://jdwel.com/image/teams/888.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "كورينثيانز",
+    "homeLogo": "https://jdwel.com/image/teams/900.png",
+    "away": "غريميو",
+    "awayLogo": "https://jdwel.com/image/teams/bra_gremio.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "ساو باولو",
+    "homeLogo": "https://jdwel.com/image/teams/2763.png",
+    "away": "ريمو",
+    "awayLogo": "https://jdwel.com/image/teams/bra_remo.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "بوتافوغو",
+    "homeLogo": "https://jdwel.com/image/teams/1098.png",
+    "away": "باهيا",
+    "awayLogo": "https://jdwel.com/image/teams/3056.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "فلومينينسي",
+    "homeLogo": "https://jdwel.com/image/teams/bra_fluminense.png",
+    "away": "كروزيرو",
+    "awayLogo": "https://jdwel.com/image/teams/886.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "ريمو",
+    "homeLogo": "https://jdwel.com/image/teams/bra_remo.png",
+    "away": "كورينثيانز",
+    "awayLogo": "https://jdwel.com/image/teams/900.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "باهيا",
+    "homeLogo": "https://jdwel.com/image/teams/3056.png",
+    "away": "أتليتيكو مينيرو",
+    "awayLogo": "https://jdwel.com/image/teams/2968.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "أتلتيكو باراناينسي",
+    "homeLogo": "https://jdwel.com/image/teams/888.png",
+    "away": "ساو باولو",
+    "awayLogo": "https://jdwel.com/image/teams/2763.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "غريميو",
+    "homeLogo": "https://jdwel.com/image/teams/bra_gremio.png",
+    "away": "ميراسول",
+    "awayLogo": "https://jdwel.com/image/teams/2765.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "كروزيرو",
+    "homeLogo": "https://jdwel.com/image/teams/886.png",
+    "away": "إنترناسيونال",
+    "awayLogo": "https://jdwel.com/image/teams/889.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "براغانتينو",
+    "homeLogo": "https://jdwel.com/image/teams/894.png",
+    "away": "فلومينينسي",
+    "awayLogo": "https://jdwel.com/image/teams/bra_fluminense.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "بالميراس",
+    "homeLogo": "https://jdwel.com/image/teams/2762.png",
+    "away": "كوريتيبا",
+    "awayLogo": "https://jdwel.com/image/teams/1450.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "سانتوس",
+    "homeLogo": "https://jdwel.com/image/teams/1446.png",
+    "away": "بوتافوغو",
+    "awayLogo": "https://jdwel.com/image/teams/1098.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "فاسكو دا غاما",
+    "homeLogo": "https://jdwel.com/image/teams/891.png",
+    "away": "فيتوريا",
+    "awayLogo": "https://jdwel.com/image/teams/892.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "فلامنغو",
+    "homeLogo": "https://jdwel.com/image/teams/2764.png",
+    "away": "شابيكوينسي",
+    "awayLogo": "https://jdwel.com/image/teams/bra_chapecoense.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  }
+]

@@ -1,0 +1,1442 @@
+[
+  {
+    "home": "لوكوموتيفا",
+    "homeLogo": "https://jdwel.com/image/teams/3030.png",
+    "away": "فوكوفار",
+    "awayLogo": "https://jdwel.com/image/teams/3431.png",
+    "score": "1 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "أوسييك",
+    "homeLogo": "https://jdwel.com/image/teams/cro_osijek.png",
+    "away": "دينامو زغرب",
+    "awayLogo": "https://jdwel.com/image/teams/1458.png",
+    "score": "0 - 2",
+    "time": "10:00 م"
+  },
+  {
+    "home": "رييكا",
+    "homeLogo": "https://jdwel.com/image/teams/2354.png",
+    "away": "سلافن بيلوبو",
+    "awayLogo": "https://jdwel.com/image/teams/2356.png",
+    "score": "2 - 0",
+    "time": "7:45 م"
+  },
+  {
+    "home": "هايدوك سبليت",
+    "homeLogo": "https://jdwel.com/image/teams/3432.png",
+    "away": "إسترا 1961",
+    "awayLogo": "https://jdwel.com/image/teams/cro_istra_1961.png",
+    "score": "2 - 1",
+    "time": "10:45 م"
+  },
+  {
+    "home": "فارازدين",
+    "homeLogo": "https://jdwel.com/image/teams/2355.png",
+    "away": "غوريسا",
+    "awayLogo": "https://jdwel.com/image/teams/cro_gorica.png",
+    "score": "1 - 1",
+    "time": "9:00 م"
+  },
+  {
+    "home": "دينامو زغرب",
+    "homeLogo": "https://jdwel.com/image/teams/1458.png",
+    "away": "فوكوفار",
+    "awayLogo": "https://jdwel.com/image/teams/3431.png",
+    "score": "3 - 0",
+    "time": "10:00 م"
+  },
+  {
+    "home": "إسترا 1961",
+    "homeLogo": "https://jdwel.com/image/teams/cro_istra_1961.png",
+    "away": "لوكوموتيفا",
+    "awayLogo": "https://jdwel.com/image/teams/3030.png",
+    "score": "2 - 2",
+    "time": "7:15 م"
+  },
+  {
+    "home": "أوسييك",
+    "homeLogo": "https://jdwel.com/image/teams/cro_osijek.png",
+    "away": "رييكا",
+    "awayLogo": "https://jdwel.com/image/teams/2354.png",
+    "score": "0 - 0",
+    "time": "10:00 م"
+  },
+  {
+    "home": "سلافن بيلوبو",
+    "homeLogo": "https://jdwel.com/image/teams/2356.png",
+    "away": "فارازدين",
+    "awayLogo": "https://jdwel.com/image/teams/2355.png",
+    "score": "3 - 1",
+    "time": "7:45 م"
+  },
+  {
+    "home": "هايدوك سبليت",
+    "homeLogo": "https://jdwel.com/image/teams/3432.png",
+    "away": "غوريسا",
+    "awayLogo": "https://jdwel.com/image/teams/cro_gorica.png",
+    "score": "2 - 0",
+    "time": "10:00 م"
+  },
+  {
+    "home": "فوكوفار",
+    "homeLogo": "https://jdwel.com/image/teams/3431.png",
+    "away": "إسترا 1961",
+    "awayLogo": "https://jdwel.com/image/teams/cro_istra_1961.png",
+    "score": "1 - 1",
+    "time": "7:45 م"
+  },
+  {
+    "home": "لوكوموتيفا",
+    "homeLogo": "https://jdwel.com/image/teams/3030.png",
+    "away": "غوريسا",
+    "awayLogo": "https://jdwel.com/image/teams/cro_gorica.png",
+    "score": "1 - 3",
+    "time": "7:15 م"
+  },
+  {
+    "home": "رييكا",
+    "homeLogo": "https://jdwel.com/image/teams/2354.png",
+    "away": "دينامو زغرب",
+    "awayLogo": "https://jdwel.com/image/teams/1458.png",
+    "score": "0 - 2",
+    "time": "10:00 م"
+  },
+  {
+    "home": "فارازدين",
+    "homeLogo": "https://jdwel.com/image/teams/2355.png",
+    "away": "أوسييك",
+    "awayLogo": "https://jdwel.com/image/teams/cro_osijek.png",
+    "score": "0 - 0",
+    "time": "7:45 م"
+  },
+  {
+    "home": "هايدوك سبليت",
+    "homeLogo": "https://jdwel.com/image/teams/3432.png",
+    "away": "سلافن بيلوبو",
+    "awayLogo": "https://jdwel.com/image/teams/2356.png",
+    "score": "3 - 0",
+    "time": "10:00 م"
+  },
+  {
+    "home": "فوكوفار",
+    "homeLogo": "https://jdwel.com/image/teams/3431.png",
+    "away": "غوريسا",
+    "awayLogo": "https://jdwel.com/image/teams/cro_gorica.png",
+    "score": "2 - 2",
+    "time": "9:00 م"
+  },
+  {
+    "home": "سلافن بيلوبو",
+    "homeLogo": "https://jdwel.com/image/teams/2356.png",
+    "away": "لوكوموتيفا",
+    "awayLogo": "https://jdwel.com/image/teams/3030.png",
+    "score": "1 - 2",
+    "time": "7:45 م"
+  },
+  {
+    "home": "دينامو زغرب",
+    "homeLogo": "https://jdwel.com/image/teams/1458.png",
+    "away": "إسترا 1961",
+    "awayLogo": "https://jdwel.com/image/teams/cro_istra_1961.png",
+    "score": "3 - 0",
+    "time": "10:00 م"
+  },
+  {
+    "home": "أوسييك",
+    "homeLogo": "https://jdwel.com/image/teams/cro_osijek.png",
+    "away": "هايدوك سبليت",
+    "awayLogo": "https://jdwel.com/image/teams/3432.png",
+    "score": "0 - 2",
+    "time": "7:30 م"
+  },
+  {
+    "home": "رييكا",
+    "homeLogo": "https://jdwel.com/image/teams/2354.png",
+    "away": "فارازدين",
+    "awayLogo": "https://jdwel.com/image/teams/2355.png",
+    "score": "1 - 2",
+    "time": "10:00 م"
+  },
+  {
+    "home": "إسترا 1961",
+    "homeLogo": "https://jdwel.com/image/teams/cro_istra_1961.png",
+    "away": "غوريسا",
+    "awayLogo": "https://jdwel.com/image/teams/cro_gorica.png",
+    "score": "1 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "فوكوفار",
+    "homeLogo": "https://jdwel.com/image/teams/3431.png",
+    "away": "سلافن بيلوبو",
+    "awayLogo": "https://jdwel.com/image/teams/2356.png",
+    "score": "1 - 2",
+    "time": "7:45 م"
+  },
+  {
+    "home": "فارازدين",
+    "homeLogo": "https://jdwel.com/image/teams/2355.png",
+    "away": "دينامو زغرب",
+    "awayLogo": "https://jdwel.com/image/teams/1458.png",
+    "score": "2 - 2",
+    "time": "10:00 م"
+  },
+  {
+    "home": "لوكوموتيفا",
+    "homeLogo": "https://jdwel.com/image/teams/3030.png",
+    "away": "أوسييك",
+    "awayLogo": "https://jdwel.com/image/teams/cro_osijek.png",
+    "score": "1 - 1",
+    "time": "7:15 م"
+  },
+  {
+    "home": "هايدوك سبليت",
+    "homeLogo": "https://jdwel.com/image/teams/3432.png",
+    "away": "رييكا",
+    "awayLogo": "https://jdwel.com/image/teams/2354.png",
+    "score": "2 - 2",
+    "time": "10:00 م"
+  },
+  {
+    "home": "سلافن بيلوبو",
+    "homeLogo": "https://jdwel.com/image/teams/2356.png",
+    "away": "إسترا 1961",
+    "awayLogo": "https://jdwel.com/image/teams/cro_istra_1961.png",
+    "score": "2 - 1",
+    "time": "9:00 م"
+  },
+  {
+    "home": "فارازدين",
+    "homeLogo": "https://jdwel.com/image/teams/2355.png",
+    "away": "هايدوك سبليت",
+    "awayLogo": "https://jdwel.com/image/teams/3432.png",
+    "score": "2 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "رييكا",
+    "homeLogo": "https://jdwel.com/image/teams/2354.png",
+    "away": "لوكوموتيفا",
+    "awayLogo": "https://jdwel.com/image/teams/3030.png",
+    "score": "1 - 1",
+    "time": "8:45 م"
+  },
+  {
+    "home": "أوسييك",
+    "homeLogo": "https://jdwel.com/image/teams/cro_osijek.png",
+    "away": "فوكوفار",
+    "awayLogo": "https://jdwel.com/image/teams/3431.png",
+    "score": "4 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "دينامو زغرب",
+    "homeLogo": "https://jdwel.com/image/teams/1458.png",
+    "away": "غوريسا",
+    "awayLogo": "https://jdwel.com/image/teams/cro_gorica.png",
+    "score": "1 - 2",
+    "time": "8:15 م"
+  },
+  {
+    "home": "هايدوك سبليت",
+    "homeLogo": "https://jdwel.com/image/teams/3432.png",
+    "away": "دينامو زغرب",
+    "awayLogo": "https://jdwel.com/image/teams/1458.png",
+    "score": "0 - 2",
+    "time": "6:00 م"
+  },
+  {
+    "home": "لوكوموتيفا",
+    "homeLogo": "https://jdwel.com/image/teams/3030.png",
+    "away": "فارازدين",
+    "awayLogo": "https://jdwel.com/image/teams/2355.png",
+    "score": "1 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "غوريسا",
+    "homeLogo": "https://jdwel.com/image/teams/cro_gorica.png",
+    "away": "سلافن بيلوبو",
+    "awayLogo": "https://jdwel.com/image/teams/2356.png",
+    "score": "2 - 1",
+    "time": "6:00 م"
+  },
+  {
+    "home": "إسترا 1961",
+    "homeLogo": "https://jdwel.com/image/teams/cro_istra_1961.png",
+    "away": "أوسييك",
+    "awayLogo": "https://jdwel.com/image/teams/cro_osijek.png",
+    "score": "2 - 1",
+    "time": "8:15 م"
+  },
+  {
+    "home": "فوكوفار",
+    "homeLogo": "https://jdwel.com/image/teams/3431.png",
+    "away": "رييكا",
+    "awayLogo": "https://jdwel.com/image/teams/2354.png",
+    "score": "3 - 2",
+    "time": "7:00 م"
+  },
+  {
+    "home": "فارازدين",
+    "homeLogo": "https://jdwel.com/image/teams/2355.png",
+    "away": "فوكوفار",
+    "awayLogo": "https://jdwel.com/image/teams/3431.png",
+    "score": "2 - 1",
+    "time": "7:00 م"
+  },
+  {
+    "home": "رييكا",
+    "homeLogo": "https://jdwel.com/image/teams/2354.png",
+    "away": "إسترا 1961",
+    "awayLogo": "https://jdwel.com/image/teams/cro_istra_1961.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "هايدوك سبليت",
+    "homeLogo": "https://jdwel.com/image/teams/3432.png",
+    "away": "لوكوموتيفا",
+    "awayLogo": "https://jdwel.com/image/teams/3030.png",
+    "score": "2 - 0",
+    "time": "7:45 م"
+  },
+  {
+    "home": "غوريسا",
+    "homeLogo": "https://jdwel.com/image/teams/cro_gorica.png",
+    "away": "أوسييك",
+    "awayLogo": "https://jdwel.com/image/teams/cro_osijek.png",
+    "score": "0 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "دينامو زغرب",
+    "homeLogo": "https://jdwel.com/image/teams/1458.png",
+    "away": "سلافن بيلوبو",
+    "awayLogo": "https://jdwel.com/image/teams/2356.png",
+    "score": "4 - 1",
+    "time": "7:15 م"
+  },
+  {
+    "home": "إسترا 1961",
+    "homeLogo": "https://jdwel.com/image/teams/cro_istra_1961.png",
+    "away": "فارازدين",
+    "awayLogo": "https://jdwel.com/image/teams/2355.png",
+    "score": "1 - 0",
+    "time": "7:00 م"
+  },
+  {
+    "home": "فوكوفار",
+    "homeLogo": "https://jdwel.com/image/teams/3431.png",
+    "away": "هايدوك سبليت",
+    "awayLogo": "https://jdwel.com/image/teams/3432.png",
+    "score": "0 - 1",
+    "time": "4:45 م"
+  },
+  {
+    "home": "سلافن بيلوبو",
+    "homeLogo": "https://jdwel.com/image/teams/2356.png",
+    "away": "أوسييك",
+    "awayLogo": "https://jdwel.com/image/teams/cro_osijek.png",
+    "score": "2 - 1",
+    "time": "7:00 م"
+  },
+  {
+    "home": "غوريسا",
+    "homeLogo": "https://jdwel.com/image/teams/cro_gorica.png",
+    "away": "رييكا",
+    "awayLogo": "https://jdwel.com/image/teams/2354.png",
+    "score": "1 - 3",
+    "time": "4:45 م"
+  },
+  {
+    "home": "لوكوموتيفا",
+    "homeLogo": "https://jdwel.com/image/teams/3030.png",
+    "away": "دينامو زغرب",
+    "awayLogo": "https://jdwel.com/image/teams/1458.png",
+    "score": "2 - 1",
+    "time": "7:45 م"
+  },
+  {
+    "home": "فوكوفار",
+    "homeLogo": "https://jdwel.com/image/teams/3431.png",
+    "away": "لوكوموتيفا",
+    "awayLogo": "https://jdwel.com/image/teams/3030.png",
+    "score": "1 - 1",
+    "time": "7:00 م"
+  },
+  {
+    "home": "سلافن بيلوبو",
+    "homeLogo": "https://jdwel.com/image/teams/2356.png",
+    "away": "رييكا",
+    "awayLogo": "https://jdwel.com/image/teams/2354.png",
+    "score": "1 - 1",
+    "time": "4:30 م"
+  },
+  {
+    "home": "دينامو زغرب",
+    "homeLogo": "https://jdwel.com/image/teams/1458.png",
+    "away": "أوسييك",
+    "awayLogo": "https://jdwel.com/image/teams/cro_osijek.png",
+    "score": "2 - 1",
+    "time": "7:00 م"
+  },
+  {
+    "home": "إسترا 1961",
+    "homeLogo": "https://jdwel.com/image/teams/cro_istra_1961.png",
+    "away": "هايدوك سبليت",
+    "awayLogo": "https://jdwel.com/image/teams/3432.png",
+    "score": "0 - 3",
+    "time": "5:00 م"
+  },
+  {
+    "home": "غوريسا",
+    "homeLogo": "https://jdwel.com/image/teams/cro_gorica.png",
+    "away": "فارازدين",
+    "awayLogo": "https://jdwel.com/image/teams/2355.png",
+    "score": "1 - 3",
+    "time": "7:15 م"
+  },
+  {
+    "home": "غوريسا",
+    "homeLogo": "https://jdwel.com/image/teams/cro_gorica.png",
+    "away": "هايدوك سبليت",
+    "awayLogo": "https://jdwel.com/image/teams/3432.png",
+    "score": "1 - 3",
+    "time": "7:00 م"
+  },
+  {
+    "home": "لوكوموتيفا",
+    "homeLogo": "https://jdwel.com/image/teams/3030.png",
+    "away": "إسترا 1961",
+    "awayLogo": "https://jdwel.com/image/teams/cro_istra_1961.png",
+    "score": "1 - 2",
+    "time": "4:45 م"
+  },
+  {
+    "home": "فارازدين",
+    "homeLogo": "https://jdwel.com/image/teams/2355.png",
+    "away": "سلافن بيلوبو",
+    "awayLogo": "https://jdwel.com/image/teams/2356.png",
+    "score": "1 - 3",
+    "time": "7:00 م"
+  },
+  {
+    "home": "رييكا",
+    "homeLogo": "https://jdwel.com/image/teams/2354.png",
+    "away": "أوسييك",
+    "awayLogo": "https://jdwel.com/image/teams/cro_osijek.png",
+    "score": "4 - 2",
+    "time": "6:30 م"
+  },
+  {
+    "home": "فوكوفار",
+    "homeLogo": "https://jdwel.com/image/teams/3431.png",
+    "away": "دينامو زغرب",
+    "awayLogo": "https://jdwel.com/image/teams/1458.png",
+    "score": "1 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "دينامو زغرب",
+    "homeLogo": "https://jdwel.com/image/teams/1458.png",
+    "away": "رييكا",
+    "awayLogo": "https://jdwel.com/image/teams/2354.png",
+    "score": "2 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "إسترا 1961",
+    "homeLogo": "https://jdwel.com/image/teams/cro_istra_1961.png",
+    "away": "فوكوفار",
+    "awayLogo": "https://jdwel.com/image/teams/3431.png",
+    "score": "1 - 1",
+    "time": "7:45 م"
+  },
+  {
+    "home": "سلافن بيلوبو",
+    "homeLogo": "https://jdwel.com/image/teams/2356.png",
+    "away": "هايدوك سبليت",
+    "awayLogo": "https://jdwel.com/image/teams/3432.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "أوسييك",
+    "homeLogo": "https://jdwel.com/image/teams/cro_osijek.png",
+    "away": "فارازدين",
+    "awayLogo": "https://jdwel.com/image/teams/2355.png",
+    "score": "0 - 0",
+    "time": "7:15 م"
+  },
+  {
+    "home": "غوريسا",
+    "homeLogo": "https://jdwel.com/image/teams/cro_gorica.png",
+    "away": "لوكوموتيفا",
+    "awayLogo": "https://jdwel.com/image/teams/3030.png",
+    "score": "4 - 1",
+    "time": "7:00 م"
+  },
+  {
+    "home": "غوريسا",
+    "homeLogo": "https://jdwel.com/image/teams/cro_gorica.png",
+    "away": "فوكوفار",
+    "awayLogo": "https://jdwel.com/image/teams/3431.png",
+    "score": "1 - 1",
+    "time": "7:00 م"
+  },
+  {
+    "home": "لوكوموتيفا",
+    "homeLogo": "https://jdwel.com/image/teams/3030.png",
+    "away": "سلافن بيلوبو",
+    "awayLogo": "https://jdwel.com/image/teams/2356.png",
+    "score": "1 - 1",
+    "time": "4:00 م"
+  },
+  {
+    "home": "هايدوك سبليت",
+    "homeLogo": "https://jdwel.com/image/teams/3432.png",
+    "away": "أوسييك",
+    "awayLogo": "https://jdwel.com/image/teams/cro_osijek.png",
+    "score": "2 - 0",
+    "time": "6:45 م"
+  },
+  {
+    "home": "إسترا 1961",
+    "homeLogo": "https://jdwel.com/image/teams/cro_istra_1961.png",
+    "away": "دينامو زغرب",
+    "awayLogo": "https://jdwel.com/image/teams/1458.png",
+    "score": "2 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "فارازدين",
+    "homeLogo": "https://jdwel.com/image/teams/2355.png",
+    "away": "رييكا",
+    "awayLogo": "https://jdwel.com/image/teams/2354.png",
+    "score": "1 - 0",
+    "time": "7:15 م"
+  },
+  {
+    "home": "سلافن بيلوبو",
+    "homeLogo": "https://jdwel.com/image/teams/2356.png",
+    "away": "فوكوفار",
+    "awayLogo": "https://jdwel.com/image/teams/3431.png",
+    "score": "4 - 1",
+    "time": "7:00 م"
+  },
+  {
+    "home": "دينامو زغرب",
+    "homeLogo": "https://jdwel.com/image/teams/1458.png",
+    "away": "فارازدين",
+    "awayLogo": "https://jdwel.com/image/teams/2355.png",
+    "score": "3 - 1",
+    "time": "4:00 م"
+  },
+  {
+    "home": "رييكا",
+    "homeLogo": "https://jdwel.com/image/teams/2354.png",
+    "away": "هايدوك سبليت",
+    "awayLogo": "https://jdwel.com/image/teams/3432.png",
+    "score": "5 - 0",
+    "time": "7:00 م"
+  },
+  {
+    "home": "أوسييك",
+    "homeLogo": "https://jdwel.com/image/teams/cro_osijek.png",
+    "away": "لوكوموتيفا",
+    "awayLogo": "https://jdwel.com/image/teams/3030.png",
+    "score": "1 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "غوريسا",
+    "homeLogo": "https://jdwel.com/image/teams/cro_gorica.png",
+    "away": "إسترا 1961",
+    "awayLogo": "https://jdwel.com/image/teams/cro_istra_1961.png",
+    "score": "1 - 0",
+    "time": "7:15 م"
+  },
+  {
+    "home": "فوكوفار",
+    "homeLogo": "https://jdwel.com/image/teams/3431.png",
+    "away": "أوسييك",
+    "awayLogo": "https://jdwel.com/image/teams/cro_osijek.png",
+    "score": "2 - 2",
+    "time": "7:00 م"
+  },
+  {
+    "home": "هايدوك سبليت",
+    "homeLogo": "https://jdwel.com/image/teams/3432.png",
+    "away": "فارازدين",
+    "awayLogo": "https://jdwel.com/image/teams/2355.png",
+    "score": "1 - 1",
+    "time": "4:30 م"
+  },
+  {
+    "home": "إسترا 1961",
+    "homeLogo": "https://jdwel.com/image/teams/cro_istra_1961.png",
+    "away": "سلافن بيلوبو",
+    "awayLogo": "https://jdwel.com/image/teams/2356.png",
+    "score": "1 - 1",
+    "time": "7:15 م"
+  },
+  {
+    "home": "لوكوموتيفا",
+    "homeLogo": "https://jdwel.com/image/teams/3030.png",
+    "away": "رييكا",
+    "awayLogo": "https://jdwel.com/image/teams/2354.png",
+    "score": "1 - 1",
+    "time": "4:00 م"
+  },
+  {
+    "home": "غوريسا",
+    "homeLogo": "https://jdwel.com/image/teams/cro_gorica.png",
+    "away": "دينامو زغرب",
+    "awayLogo": "https://jdwel.com/image/teams/1458.png",
+    "score": "0 - 2",
+    "time": "7:00 م"
+  },
+  {
+    "home": "سلافن بيلوبو",
+    "homeLogo": "https://jdwel.com/image/teams/2356.png",
+    "away": "غوريسا",
+    "awayLogo": "https://jdwel.com/image/teams/cro_gorica.png",
+    "score": "2 - 1",
+    "time": "7:00 م"
+  },
+  {
+    "home": "دينامو زغرب",
+    "homeLogo": "https://jdwel.com/image/teams/1458.png",
+    "away": "هايدوك سبليت",
+    "awayLogo": "https://jdwel.com/image/teams/3432.png",
+    "score": "1 - 1",
+    "time": "4:00 م"
+  },
+  {
+    "home": "رييكا",
+    "homeLogo": "https://jdwel.com/image/teams/2354.png",
+    "away": "فوكوفار",
+    "awayLogo": "https://jdwel.com/image/teams/3431.png",
+    "score": "3 - 1",
+    "time": "7:00 م"
+  },
+  {
+    "home": "فارازدين",
+    "homeLogo": "https://jdwel.com/image/teams/2355.png",
+    "away": "لوكوموتيفا",
+    "awayLogo": "https://jdwel.com/image/teams/3030.png",
+    "score": "4 - 2",
+    "time": "4:00 م"
+  },
+  {
+    "home": "أوسييك",
+    "homeLogo": "https://jdwel.com/image/teams/cro_osijek.png",
+    "away": "إسترا 1961",
+    "awayLogo": "https://jdwel.com/image/teams/cro_istra_1961.png",
+    "score": "1 - 5",
+    "time": "6:30 م"
+  },
+  {
+    "home": "فوكوفار",
+    "homeLogo": "https://jdwel.com/image/teams/3431.png",
+    "away": "فارازدين",
+    "awayLogo": "https://jdwel.com/image/teams/2355.png",
+    "score": "2 - 0",
+    "time": "7:00 م"
+  },
+  {
+    "home": "أوسييك",
+    "homeLogo": "https://jdwel.com/image/teams/cro_osijek.png",
+    "away": "غوريسا",
+    "awayLogo": "https://jdwel.com/image/teams/cro_gorica.png",
+    "score": "1 - 1",
+    "time": "4:00 م"
+  },
+  {
+    "home": "لوكوموتيفا",
+    "homeLogo": "https://jdwel.com/image/teams/3030.png",
+    "away": "هايدوك سبليت",
+    "awayLogo": "https://jdwel.com/image/teams/3432.png",
+    "score": "1 - 3",
+    "time": "6:45 م"
+  },
+  {
+    "home": "سلافن بيلوبو",
+    "homeLogo": "https://jdwel.com/image/teams/2356.png",
+    "away": "دينامو زغرب",
+    "awayLogo": "https://jdwel.com/image/teams/1458.png",
+    "score": "2 - 5",
+    "time": "4:00 م"
+  },
+  {
+    "home": "فارازدين",
+    "homeLogo": "https://jdwel.com/image/teams/2355.png",
+    "away": "إسترا 1961",
+    "awayLogo": "https://jdwel.com/image/teams/cro_istra_1961.png",
+    "score": "1 - 3",
+    "time": "5:00 م"
+  },
+  {
+    "home": "أوسييك",
+    "homeLogo": "https://jdwel.com/image/teams/cro_osijek.png",
+    "away": "سلافن بيلوبو",
+    "awayLogo": "https://jdwel.com/image/teams/2356.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "دينامو زغرب",
+    "homeLogo": "https://jdwel.com/image/teams/1458.png",
+    "away": "لوكوموتيفا",
+    "awayLogo": "https://jdwel.com/image/teams/3030.png",
+    "score": "2 - 0",
+    "time": "6:45 م"
+  },
+  {
+    "home": "هايدوك سبليت",
+    "homeLogo": "https://jdwel.com/image/teams/3432.png",
+    "away": "فوكوفار",
+    "awayLogo": "https://jdwel.com/image/teams/3431.png",
+    "score": "2 - 1",
+    "time": "4:00 م"
+  },
+  {
+    "home": "رييكا",
+    "homeLogo": "https://jdwel.com/image/teams/2354.png",
+    "away": "غوريسا",
+    "awayLogo": "https://jdwel.com/image/teams/cro_gorica.png",
+    "score": "1 - 0",
+    "time": "6:45 م"
+  },
+  {
+    "home": "إسترا 1961",
+    "homeLogo": "https://jdwel.com/image/teams/cro_istra_1961.png",
+    "away": "رييكا",
+    "awayLogo": "https://jdwel.com/image/teams/2354.png",
+    "score": "1 - 2",
+    "time": "5:00 م"
+  },
+  {
+    "home": "لوكوموتيفا",
+    "homeLogo": "https://jdwel.com/image/teams/3030.png",
+    "away": "فوكوفار",
+    "awayLogo": "https://jdwel.com/image/teams/3431.png",
+    "score": "2 - 1",
+    "time": "4:00 م"
+  },
+  {
+    "home": "رييكا",
+    "homeLogo": "https://jdwel.com/image/teams/2354.png",
+    "away": "سلافن بيلوبو",
+    "awayLogo": "https://jdwel.com/image/teams/2356.png",
+    "score": "2 - 2",
+    "time": "6:15 م"
+  },
+  {
+    "home": "هايدوك سبليت",
+    "homeLogo": "https://jdwel.com/image/teams/3432.png",
+    "away": "إسترا 1961",
+    "awayLogo": "https://jdwel.com/image/teams/cro_istra_1961.png",
+    "score": "1 - 2",
+    "time": "4:00 م"
+  },
+  {
+    "home": "أوسييك",
+    "homeLogo": "https://jdwel.com/image/teams/cro_osijek.png",
+    "away": "دينامو زغرب",
+    "awayLogo": "https://jdwel.com/image/teams/1458.png",
+    "score": "0 - 3",
+    "time": "6:45 م"
+  },
+  {
+    "home": "غوريسا",
+    "homeLogo": "https://jdwel.com/image/teams/cro_gorica.png",
+    "away": "فارازدين",
+    "awayLogo": "https://jdwel.com/image/teams/2355.png",
+    "score": "1 - 2",
+    "time": "5:00 م"
+  },
+  {
+    "home": "إسترا 1961",
+    "homeLogo": "https://jdwel.com/image/teams/cro_istra_1961.png",
+    "away": "لوكوموتيفا",
+    "awayLogo": "https://jdwel.com/image/teams/3030.png",
+    "score": "1 - 1",
+    "time": "7:00 م"
+  },
+  {
+    "home": "غوريسا",
+    "homeLogo": "https://jdwel.com/image/teams/cro_gorica.png",
+    "away": "هايدوك سبليت",
+    "awayLogo": "https://jdwel.com/image/teams/3432.png",
+    "score": "1 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "سلافن بيلوبو",
+    "homeLogo": "https://jdwel.com/image/teams/2356.png",
+    "away": "فارازدين",
+    "awayLogo": "https://jdwel.com/image/teams/2355.png",
+    "score": "0 - 2",
+    "time": "6:45 م"
+  },
+  {
+    "home": "أوسييك",
+    "homeLogo": "https://jdwel.com/image/teams/cro_osijek.png",
+    "away": "رييكا",
+    "awayLogo": "https://jdwel.com/image/teams/2354.png",
+    "score": "1 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "دينامو زغرب",
+    "homeLogo": "https://jdwel.com/image/teams/1458.png",
+    "away": "فوكوفار",
+    "awayLogo": "https://jdwel.com/image/teams/3431.png",
+    "score": "0 - 0",
+    "time": "7:00 م"
+  },
+  {
+    "home": "لوكوموتيفا",
+    "homeLogo": "https://jdwel.com/image/teams/3030.png",
+    "away": "غوريسا",
+    "awayLogo": "https://jdwel.com/image/teams/cro_gorica.png",
+    "score": "0 - 0",
+    "time": "7:00 م"
+  },
+  {
+    "home": "فوكوفار",
+    "homeLogo": "https://jdwel.com/image/teams/3431.png",
+    "away": "إسترا 1961",
+    "awayLogo": "https://jdwel.com/image/teams/cro_istra_1961.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "هايدوك سبليت",
+    "homeLogo": "https://jdwel.com/image/teams/3432.png",
+    "away": "سلافن بيلوبو",
+    "awayLogo": "https://jdwel.com/image/teams/2356.png",
+    "score": "0 - 0",
+    "time": "6:15 م"
+  },
+  {
+    "home": "فارازدين",
+    "homeLogo": "https://jdwel.com/image/teams/2355.png",
+    "away": "أوسييك",
+    "awayLogo": "https://jdwel.com/image/teams/cro_osijek.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "رييكا",
+    "homeLogo": "https://jdwel.com/image/teams/2354.png",
+    "away": "دينامو زغرب",
+    "awayLogo": "https://jdwel.com/image/teams/1458.png",
+    "score": "0 - 0",
+    "time": "6:45 م"
+  },
+  {
+    "home": "دينامو زغرب",
+    "homeLogo": "https://jdwel.com/image/teams/1458.png",
+    "away": "إسترا 1961",
+    "awayLogo": "https://jdwel.com/image/teams/cro_istra_1961.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "غوريسا",
+    "homeLogo": "https://jdwel.com/image/teams/cro_gorica.png",
+    "away": "فوكوفار",
+    "awayLogo": "https://jdwel.com/image/teams/3431.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "رييكا",
+    "homeLogo": "https://jdwel.com/image/teams/2354.png",
+    "away": "فارازدين",
+    "awayLogo": "https://jdwel.com/image/teams/2355.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "أوسييك",
+    "homeLogo": "https://jdwel.com/image/teams/cro_osijek.png",
+    "away": "هايدوك سبليت",
+    "awayLogo": "https://jdwel.com/image/teams/3432.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "سلافن بيلوبو",
+    "homeLogo": "https://jdwel.com/image/teams/2356.png",
+    "away": "لوكوموتيفا",
+    "awayLogo": "https://jdwel.com/image/teams/3030.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "هايدوك سبليت",
+    "homeLogo": "https://jdwel.com/image/teams/3432.png",
+    "away": "رييكا",
+    "awayLogo": "https://jdwel.com/image/teams/2354.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "فوكوفار",
+    "homeLogo": "https://jdwel.com/image/teams/3431.png",
+    "away": "سلافن بيلوبو",
+    "awayLogo": "https://jdwel.com/image/teams/2356.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "إسترا 1961",
+    "homeLogo": "https://jdwel.com/image/teams/cro_istra_1961.png",
+    "away": "غوريسا",
+    "awayLogo": "https://jdwel.com/image/teams/cro_gorica.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "لوكوموتيفا",
+    "homeLogo": "https://jdwel.com/image/teams/3030.png",
+    "away": "أوسييك",
+    "awayLogo": "https://jdwel.com/image/teams/cro_osijek.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "فارازدين",
+    "homeLogo": "https://jdwel.com/image/teams/2355.png",
+    "away": "دينامو زغرب",
+    "awayLogo": "https://jdwel.com/image/teams/1458.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "دينامو زغرب",
+    "homeLogo": "https://jdwel.com/image/teams/1458.png",
+    "away": "غوريسا",
+    "awayLogo": "https://jdwel.com/image/teams/cro_gorica.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "رييكا",
+    "homeLogo": "https://jdwel.com/image/teams/2354.png",
+    "away": "لوكوموتيفا",
+    "awayLogo": "https://jdwel.com/image/teams/3030.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "أوسييك",
+    "homeLogo": "https://jdwel.com/image/teams/cro_osijek.png",
+    "away": "فوكوفار",
+    "awayLogo": "https://jdwel.com/image/teams/3431.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "سلافن بيلوبو",
+    "homeLogo": "https://jdwel.com/image/teams/2356.png",
+    "away": "إسترا 1961",
+    "awayLogo": "https://jdwel.com/image/teams/cro_istra_1961.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "فارازدين",
+    "homeLogo": "https://jdwel.com/image/teams/2355.png",
+    "away": "هايدوك سبليت",
+    "awayLogo": "https://jdwel.com/image/teams/3432.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "غوريسا",
+    "homeLogo": "https://jdwel.com/image/teams/cro_gorica.png",
+    "away": "سلافن بيلوبو",
+    "awayLogo": "https://jdwel.com/image/teams/2356.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "هايدوك سبليت",
+    "homeLogo": "https://jdwel.com/image/teams/3432.png",
+    "away": "دينامو زغرب",
+    "awayLogo": "https://jdwel.com/image/teams/1458.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "فوكوفار",
+    "homeLogo": "https://jdwel.com/image/teams/3431.png",
+    "away": "رييكا",
+    "awayLogo": "https://jdwel.com/image/teams/2354.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "إسترا 1961",
+    "homeLogo": "https://jdwel.com/image/teams/cro_istra_1961.png",
+    "away": "أوسييك",
+    "awayLogo": "https://jdwel.com/image/teams/cro_osijek.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "لوكوموتيفا",
+    "homeLogo": "https://jdwel.com/image/teams/3030.png",
+    "away": "فارازدين",
+    "awayLogo": "https://jdwel.com/image/teams/2355.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "دينامو زغرب",
+    "homeLogo": "https://jdwel.com/image/teams/1458.png",
+    "away": "سلافن بيلوبو",
+    "awayLogo": "https://jdwel.com/image/teams/2356.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "هايدوك سبليت",
+    "homeLogo": "https://jdwel.com/image/teams/3432.png",
+    "away": "لوكوموتيفا",
+    "awayLogo": "https://jdwel.com/image/teams/3030.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "رييكا",
+    "homeLogo": "https://jdwel.com/image/teams/2354.png",
+    "away": "إسترا 1961",
+    "awayLogo": "https://jdwel.com/image/teams/cro_istra_1961.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "أوسييك",
+    "homeLogo": "https://jdwel.com/image/teams/cro_osijek.png",
+    "away": "غوريسا",
+    "awayLogo": "https://jdwel.com/image/teams/cro_gorica.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "فارازدين",
+    "homeLogo": "https://jdwel.com/image/teams/2355.png",
+    "away": "فوكوفار",
+    "awayLogo": "https://jdwel.com/image/teams/3431.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "غوريسا",
+    "homeLogo": "https://jdwel.com/image/teams/cro_gorica.png",
+    "away": "رييكا",
+    "awayLogo": "https://jdwel.com/image/teams/2354.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "فوكوفار",
+    "homeLogo": "https://jdwel.com/image/teams/3431.png",
+    "away": "هايدوك سبليت",
+    "awayLogo": "https://jdwel.com/image/teams/3432.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "إسترا 1961",
+    "homeLogo": "https://jdwel.com/image/teams/cro_istra_1961.png",
+    "away": "فارازدين",
+    "awayLogo": "https://jdwel.com/image/teams/2355.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "لوكوموتيفا",
+    "homeLogo": "https://jdwel.com/image/teams/3030.png",
+    "away": "دينامو زغرب",
+    "awayLogo": "https://jdwel.com/image/teams/1458.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "سلافن بيلوبو",
+    "homeLogo": "https://jdwel.com/image/teams/2356.png",
+    "away": "أوسييك",
+    "awayLogo": "https://jdwel.com/image/teams/cro_osijek.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "فارازدين",
+    "homeLogo": "https://jdwel.com/image/teams/2355.png",
+    "away": "غوريسا",
+    "awayLogo": "https://jdwel.com/image/teams/cro_gorica.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "دينامو زغرب",
+    "homeLogo": "https://jdwel.com/image/teams/1458.png",
+    "away": "أوسييك",
+    "awayLogo": "https://jdwel.com/image/teams/cro_osijek.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "فوكوفار",
+    "homeLogo": "https://jdwel.com/image/teams/3431.png",
+    "away": "لوكوموتيفا",
+    "awayLogo": "https://jdwel.com/image/teams/3030.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "إسترا 1961",
+    "homeLogo": "https://jdwel.com/image/teams/cro_istra_1961.png",
+    "away": "هايدوك سبليت",
+    "awayLogo": "https://jdwel.com/image/teams/3432.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "سلافن بيلوبو",
+    "homeLogo": "https://jdwel.com/image/teams/2356.png",
+    "away": "رييكا",
+    "awayLogo": "https://jdwel.com/image/teams/2354.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "هايدوك سبليت",
+    "homeLogo": "https://jdwel.com/image/teams/3432.png",
+    "away": "غوريسا",
+    "awayLogo": "https://jdwel.com/image/teams/cro_gorica.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "رييكا",
+    "homeLogo": "https://jdwel.com/image/teams/2354.png",
+    "away": "أوسييك",
+    "awayLogo": "https://jdwel.com/image/teams/cro_osijek.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "فوكوفار",
+    "homeLogo": "https://jdwel.com/image/teams/3431.png",
+    "away": "دينامو زغرب",
+    "awayLogo": "https://jdwel.com/image/teams/1458.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "لوكوموتيفا",
+    "homeLogo": "https://jdwel.com/image/teams/3030.png",
+    "away": "إسترا 1961",
+    "awayLogo": "https://jdwel.com/image/teams/cro_istra_1961.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "فارازدين",
+    "homeLogo": "https://jdwel.com/image/teams/2355.png",
+    "away": "سلافن بيلوبو",
+    "awayLogo": "https://jdwel.com/image/teams/2356.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "دينامو زغرب",
+    "homeLogo": "https://jdwel.com/image/teams/1458.png",
+    "away": "رييكا",
+    "awayLogo": "https://jdwel.com/image/teams/2354.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "غوريسا",
+    "homeLogo": "https://jdwel.com/image/teams/cro_gorica.png",
+    "away": "لوكوموتيفا",
+    "awayLogo": "https://jdwel.com/image/teams/3030.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "إسترا 1961",
+    "homeLogo": "https://jdwel.com/image/teams/cro_istra_1961.png",
+    "away": "فوكوفار",
+    "awayLogo": "https://jdwel.com/image/teams/3431.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "أوسييك",
+    "homeLogo": "https://jdwel.com/image/teams/cro_osijek.png",
+    "away": "فارازدين",
+    "awayLogo": "https://jdwel.com/image/teams/2355.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "سلافن بيلوبو",
+    "homeLogo": "https://jdwel.com/image/teams/2356.png",
+    "away": "هايدوك سبليت",
+    "awayLogo": "https://jdwel.com/image/teams/3432.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "هايدوك سبليت",
+    "homeLogo": "https://jdwel.com/image/teams/3432.png",
+    "away": "أوسييك",
+    "awayLogo": "https://jdwel.com/image/teams/cro_osijek.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "فوكوفار",
+    "homeLogo": "https://jdwel.com/image/teams/3431.png",
+    "away": "غوريسا",
+    "awayLogo": "https://jdwel.com/image/teams/cro_gorica.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "إسترا 1961",
+    "homeLogo": "https://jdwel.com/image/teams/cro_istra_1961.png",
+    "away": "دينامو زغرب",
+    "awayLogo": "https://jdwel.com/image/teams/1458.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "لوكوموتيفا",
+    "homeLogo": "https://jdwel.com/image/teams/3030.png",
+    "away": "سلافن بيلوبو",
+    "awayLogo": "https://jdwel.com/image/teams/2356.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "فارازدين",
+    "homeLogo": "https://jdwel.com/image/teams/2355.png",
+    "away": "رييكا",
+    "awayLogo": "https://jdwel.com/image/teams/2354.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "دينامو زغرب",
+    "homeLogo": "https://jdwel.com/image/teams/1458.png",
+    "away": "فارازدين",
+    "awayLogo": "https://jdwel.com/image/teams/2355.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "غوريسا",
+    "homeLogo": "https://jdwel.com/image/teams/cro_gorica.png",
+    "away": "إسترا 1961",
+    "awayLogo": "https://jdwel.com/image/teams/cro_istra_1961.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "رييكا",
+    "homeLogo": "https://jdwel.com/image/teams/2354.png",
+    "away": "هايدوك سبليت",
+    "awayLogo": "https://jdwel.com/image/teams/3432.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "أوسييك",
+    "homeLogo": "https://jdwel.com/image/teams/cro_osijek.png",
+    "away": "لوكوموتيفا",
+    "awayLogo": "https://jdwel.com/image/teams/3030.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "سلافن بيلوبو",
+    "homeLogo": "https://jdwel.com/image/teams/2356.png",
+    "away": "فوكوفار",
+    "awayLogo": "https://jdwel.com/image/teams/3431.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "غوريسا",
+    "homeLogo": "https://jdwel.com/image/teams/cro_gorica.png",
+    "away": "دينامو زغرب",
+    "awayLogo": "https://jdwel.com/image/teams/1458.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "هايدوك سبليت",
+    "homeLogo": "https://jdwel.com/image/teams/3432.png",
+    "away": "فارازدين",
+    "awayLogo": "https://jdwel.com/image/teams/2355.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "فوكوفار",
+    "homeLogo": "https://jdwel.com/image/teams/3431.png",
+    "away": "أوسييك",
+    "awayLogo": "https://jdwel.com/image/teams/cro_osijek.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "إسترا 1961",
+    "homeLogo": "https://jdwel.com/image/teams/cro_istra_1961.png",
+    "away": "سلافن بيلوبو",
+    "awayLogo": "https://jdwel.com/image/teams/2356.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "لوكوموتيفا",
+    "homeLogo": "https://jdwel.com/image/teams/3030.png",
+    "away": "رييكا",
+    "awayLogo": "https://jdwel.com/image/teams/2354.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "دينامو زغرب",
+    "homeLogo": "https://jdwel.com/image/teams/1458.png",
+    "away": "هايدوك سبليت",
+    "awayLogo": "https://jdwel.com/image/teams/3432.png",
+    "score": "0 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "رييكا",
+    "homeLogo": "https://jdwel.com/image/teams/2354.png",
+    "away": "فوكوفار",
+    "awayLogo": "https://jdwel.com/image/teams/3431.png",
+    "score": "0 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "أوسييك",
+    "homeLogo": "https://jdwel.com/image/teams/cro_osijek.png",
+    "away": "إسترا 1961",
+    "awayLogo": "https://jdwel.com/image/teams/cro_istra_1961.png",
+    "score": "0 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "سلافن بيلوبو",
+    "homeLogo": "https://jdwel.com/image/teams/2356.png",
+    "away": "غوريسا",
+    "awayLogo": "https://jdwel.com/image/teams/cro_gorica.png",
+    "score": "0 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "فارازدين",
+    "homeLogo": "https://jdwel.com/image/teams/2355.png",
+    "away": "لوكوموتيفا",
+    "awayLogo": "https://jdwel.com/image/teams/3030.png",
+    "score": "0 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "غوريسا",
+    "homeLogo": "https://jdwel.com/image/teams/cro_gorica.png",
+    "away": "أوسييك",
+    "awayLogo": "https://jdwel.com/image/teams/cro_osijek.png",
+    "score": "0 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "فوكوفار",
+    "homeLogo": "https://jdwel.com/image/teams/3431.png",
+    "away": "فارازدين",
+    "awayLogo": "https://jdwel.com/image/teams/2355.png",
+    "score": "0 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "إسترا 1961",
+    "homeLogo": "https://jdwel.com/image/teams/cro_istra_1961.png",
+    "away": "رييكا",
+    "awayLogo": "https://jdwel.com/image/teams/2354.png",
+    "score": "0 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "لوكوموتيفا",
+    "homeLogo": "https://jdwel.com/image/teams/3030.png",
+    "away": "هايدوك سبليت",
+    "awayLogo": "https://jdwel.com/image/teams/3432.png",
+    "score": "0 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "سلافن بيلوبو",
+    "homeLogo": "https://jdwel.com/image/teams/2356.png",
+    "away": "دينامو زغرب",
+    "awayLogo": "https://jdwel.com/image/teams/1458.png",
+    "score": "0 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "دينامو زغرب",
+    "homeLogo": "https://jdwel.com/image/teams/1458.png",
+    "away": "لوكوموتيفا",
+    "awayLogo": "https://jdwel.com/image/teams/3030.png",
+    "score": "0 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "هايدوك سبليت",
+    "homeLogo": "https://jdwel.com/image/teams/3432.png",
+    "away": "فوكوفار",
+    "awayLogo": "https://jdwel.com/image/teams/3431.png",
+    "score": "0 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "رييكا",
+    "homeLogo": "https://jdwel.com/image/teams/2354.png",
+    "away": "غوريسا",
+    "awayLogo": "https://jdwel.com/image/teams/cro_gorica.png",
+    "score": "0 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "أوسييك",
+    "homeLogo": "https://jdwel.com/image/teams/cro_osijek.png",
+    "away": "سلافن بيلوبو",
+    "awayLogo": "https://jdwel.com/image/teams/2356.png",
+    "score": "0 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "فارازدين",
+    "homeLogo": "https://jdwel.com/image/teams/2355.png",
+    "away": "إسترا 1961",
+    "awayLogo": "https://jdwel.com/image/teams/cro_istra_1961.png",
+    "score": "0 - 0",
+    "time": "6:00 م"
+  }
+]

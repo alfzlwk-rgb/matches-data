@@ -1,0 +1,762 @@
+[
+  {
+    "home": "أوستن",
+    "homeLogo": "https://jdwel.com/image/teams/usa_austin.png",
+    "away": "ناشفيل",
+    "awayLogo": "https://jdwel.com/image/teams/usa_nashville.png",
+    "score": "1 - 2",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "مينيسوتا يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/2155.png",
+    "away": "أوستن",
+    "awayLogo": "https://jdwel.com/image/teams/usa_austin.png",
+    "score": "1 - 2",
+    "time": "3:30 ص"
+  },
+  {
+    "home": "ناشفيل",
+    "homeLogo": "https://jdwel.com/image/teams/usa_nashville.png",
+    "away": "فيلادلفيا يونيون",
+    "awayLogo": "https://jdwel.com/image/teams/1432.png",
+    "score": "3 - 1",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "فيلادلفيا يونيون",
+    "homeLogo": "https://jdwel.com/image/teams/1432.png",
+    "away": "نيويورك ريد بولز",
+    "awayLogo": "https://jdwel.com/image/teams/usa_new_york_rb.png",
+    "score": "3 - 2",
+    "time": "2:30 ص"
+  },
+  {
+    "home": "ناشفيل",
+    "homeLogo": "https://jdwel.com/image/teams/usa_nashville.png",
+    "away": "دي سي يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/2873.png",
+    "score": "5 - 2",
+    "time": "4:00 ص"
+  },
+  {
+    "home": "سان خوسيه إيرثكويكس",
+    "homeLogo": "https://jdwel.com/image/teams/usa_sj_earthquakes.png",
+    "away": "أوستن",
+    "awayLogo": "https://jdwel.com/image/teams/usa_austin.png",
+    "score": "2 - 2 2 - 4",
+    "time": "5:30 ص"
+  },
+  {
+    "home": "مينيسوتا يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/2155.png",
+    "away": "شيكاغو فاير",
+    "awayLogo": "https://jdwel.com/image/teams/1421.png",
+    "score": "3 - 1",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "أوستن",
+    "homeLogo": "https://jdwel.com/image/teams/usa_austin.png",
+    "away": "هيوستن دينامو",
+    "awayLogo": "https://jdwel.com/image/teams/1422.png",
+    "score": "3 - 1",
+    "time": "4:00 ص"
+  },
+  {
+    "home": "دي سي يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/2873.png",
+    "away": "شارلوت",
+    "awayLogo": "https://jdwel.com/image/teams/1479.png",
+    "score": "3 - 3 2 - 1",
+    "time": "2:30 ص"
+  },
+  {
+    "home": "مينيسوتا يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/2155.png",
+    "away": "سانت لويس سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1426.png",
+    "score": "3 - 2",
+    "time": "2:30 ص"
+  },
+  {
+    "home": "نيويورك ريد بولز",
+    "homeLogo": "https://jdwel.com/image/teams/usa_new_york_rb.png",
+    "away": "دالاس",
+    "awayLogo": "https://jdwel.com/image/teams/1428.png",
+    "score": "2 - 2 4 - 3",
+    "time": "2:30 ص"
+  },
+  {
+    "home": "أورلاندو سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1430.png",
+    "away": "ناشفيل",
+    "awayLogo": "https://jdwel.com/image/teams/usa_nashville.png",
+    "score": "2 - 3",
+    "time": "2:30 ص"
+  },
+  {
+    "home": "فيلادلفيا يونيون",
+    "homeLogo": "https://jdwel.com/image/teams/1432.png",
+    "away": "بيتسبرغ ريفرهاوندز",
+    "awayLogo": "https://jdwel.com/image/teams/usa_pittsburgh_riverhounds.png",
+    "score": "4 - 1",
+    "time": "2:30 ص"
+  },
+  {
+    "home": "سان خوسيه إيرثكويكس",
+    "homeLogo": "https://jdwel.com/image/teams/usa_sj_earthquakes.png",
+    "away": "بورتلاند تيمبرز",
+    "awayLogo": "https://jdwel.com/image/teams/1424.png",
+    "score": "1 - 0",
+    "time": "5:30 ص"
+  },
+  {
+    "home": "نيو إنجلاند",
+    "homeLogo": "https://jdwel.com/image/teams/1418.png",
+    "away": "شيكاغو فاير",
+    "awayLogo": "https://jdwel.com/image/teams/1421.png",
+    "score": "1 - 3",
+    "time": "2:30 ص"
+  },
+  {
+    "home": "سان خوسيه إيرثكويكس",
+    "homeLogo": "https://jdwel.com/image/teams/usa_sj_earthquakes.png",
+    "away": "ساكرامينتو ريببلك",
+    "awayLogo": "https://jdwel.com/image/teams/3121.png",
+    "score": "2 - 1",
+    "time": "5:30 ص"
+  },
+  {
+    "home": "فينيكس رايزينج",
+    "homeLogo": "https://jdwel.com/image/teams/usa_phoenix_rising.png",
+    "away": "هيوستن دينامو",
+    "awayLogo": "https://jdwel.com/image/teams/1422.png",
+    "score": "1 - 4",
+    "time": "5:00 ص"
+  },
+  {
+    "home": "أوستن",
+    "homeLogo": "https://jdwel.com/image/teams/usa_austin.png",
+    "away": "ألباسو لوكوموتيف",
+    "awayLogo": "https://jdwel.com/image/teams/2432.png",
+    "score": "3 - 2",
+    "time": "3:30 ص"
+  },
+  {
+    "home": "شيكاغو فاير",
+    "homeLogo": "https://jdwel.com/image/teams/1421.png",
+    "away": "ديترويت سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/usa_detroit_city.png",
+    "score": "4 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "سانت لويس سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/1426.png",
+    "away": "يونيون أوماها",
+    "awayLogo": "https://jdwel.com/image/teams/407.png",
+    "score": "2 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "دالاس",
+    "homeLogo": "https://jdwel.com/image/teams/1428.png",
+    "away": "ألتا",
+    "awayLogo": "https://jdwel.com/image/teams/2056.png",
+    "score": "3 - 1",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "رود آيلاند",
+    "homeLogo": "https://jdwel.com/image/teams/2253.png",
+    "away": "نيو إنجلاند",
+    "awayLogo": "https://jdwel.com/image/teams/1418.png",
+    "score": "1 - 2",
+    "time": "2:30 ص"
+  },
+  {
+    "home": "فيلادلفيا يونيون",
+    "homeLogo": "https://jdwel.com/image/teams/1432.png",
+    "away": "إندي إليفن",
+    "awayLogo": "https://jdwel.com/image/teams/usa_indy_eleven.png",
+    "score": "1 - 1 5 - 4",
+    "time": "2:30 ص"
+  },
+  {
+    "home": "تامبا باي راوديز",
+    "homeLogo": "https://jdwel.com/image/teams/3122.png",
+    "away": "أورلاندو سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1430.png",
+    "score": "0 - 5",
+    "time": "2:30 ص"
+  },
+  {
+    "home": "لويفيل سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/405.png",
+    "away": "مينيسوتا يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/2155.png",
+    "score": "0 - 1",
+    "time": "2:30 ص"
+  },
+  {
+    "home": "بيتسبرغ ريفرهاوندز",
+    "homeLogo": "https://jdwel.com/image/teams/usa_pittsburgh_riverhounds.png",
+    "away": "نيويورك سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/1853.png",
+    "score": "1 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "تاكوما ديفاينس",
+    "homeLogo": "https://jdwel.com/image/teams/2684.png",
+    "away": "بورتلاند تيمبرز",
+    "awayLogo": "https://jdwel.com/image/teams/1424.png",
+    "score": "2 - 3",
+    "time": "5:00 ص"
+  },
+  {
+    "home": "كولورادو سبرينغس",
+    "homeLogo": "https://jdwel.com/image/teams/403.png",
+    "away": "نيويورك ريد بولز",
+    "awayLogo": "https://jdwel.com/image/teams/usa_new_york_rb.png",
+    "score": "1 - 4",
+    "time": "4:30 ص"
+  },
+  {
+    "home": "ناشفيل",
+    "homeLogo": "https://jdwel.com/image/teams/usa_nashville.png",
+    "away": "شاتانوغا ريد وولفز",
+    "awayLogo": "https://jdwel.com/image/teams/3105.png",
+    "score": "1 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "نورث كارولينا",
+    "homeLogo": "https://jdwel.com/image/teams/usa_north_carolina.png",
+    "away": "شارلوت",
+    "awayLogo": "https://jdwel.com/image/teams/1479.png",
+    "score": "1 - 4",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "دي سي يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/2873.png",
+    "away": "شارلستون باتري",
+    "awayLogo": "https://jdwel.com/image/teams/usa_charleston_battery.png",
+    "score": "2 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "لاس فيغاس لايتس",
+    "homeLogo": "https://jdwel.com/image/teams/404.png",
+    "away": "شاتانوغا ريد وولفز",
+    "awayLogo": "https://jdwel.com/image/teams/3105.png",
+    "score": "2 - 2 3 - 4",
+    "time": "4:30 ص"
+  },
+  {
+    "home": "ساكرامينتو ريببلك",
+    "homeLogo": "https://jdwel.com/image/teams/3121.png",
+    "away": "إل فاروليتو",
+    "awayLogo": "https://jdwel.com/image/teams/2664.png",
+    "score": "1 - 0",
+    "time": "4:00 ص"
+  },
+  {
+    "home": "نيو مكسيكو يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/406.png",
+    "away": "ألباسو لوكوموتيف",
+    "awayLogo": "https://jdwel.com/image/teams/2432.png",
+    "score": "2 - 2 1 - 4",
+    "time": "3:30 ص"
+  },
+  {
+    "home": "كولورادو سبرينغس",
+    "homeLogo": "https://jdwel.com/image/teams/403.png",
+    "away": "ون نوكسفيل",
+    "awayLogo": "https://jdwel.com/image/teams/2669.png",
+    "score": "3 - 2",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "تولسا رونيكس",
+    "homeLogo": "https://jdwel.com/image/teams/393.png",
+    "away": "فينيكس رايزينج",
+    "awayLogo": "https://jdwel.com/image/teams/usa_phoenix_rising.png",
+    "score": "1 - 1 2 - 4",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "إندي إليفن",
+    "homeLogo": "https://jdwel.com/image/teams/usa_indy_eleven.png",
+    "away": "ميامي ب",
+    "awayLogo": "https://jdwel.com/image/teams/803.png",
+    "score": "1 - 0",
+    "time": "1:30 ص"
+  },
+  {
+    "home": "ديترويت سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/usa_detroit_city.png",
+    "away": "ويستشيستر SC",
+    "awayLogo": "https://jdwel.com/image/teams/2662.png",
+    "score": "3 - 1",
+    "time": "1:00 ص"
+  },
+  {
+    "home": "نابليز",
+    "homeLogo": "https://jdwel.com/image/teams/2648.png",
+    "away": "تامبا باي راوديز",
+    "awayLogo": "https://jdwel.com/image/teams/3122.png",
+    "score": "1 - 1 8 - 9",
+    "time": "1:00 ص"
+  },
+  {
+    "home": "تاكوما ديفاينس",
+    "homeLogo": "https://jdwel.com/image/teams/2684.png",
+    "away": "أوكلاند رووتس",
+    "awayLogo": "https://jdwel.com/image/teams/397.png",
+    "score": "2 - 1",
+    "time": "4:30 ص"
+  },
+  {
+    "home": "ألتا",
+    "homeLogo": "https://jdwel.com/image/teams/2056.png",
+    "away": "أورناج كانتري",
+    "awayLogo": "https://jdwel.com/image/teams/usa_orange_county.png",
+    "score": "2 - 2 4 - 2",
+    "time": "4:00 ص"
+  },
+  {
+    "home": "يونيون أوماها",
+    "homeLogo": "https://jdwel.com/image/teams/407.png",
+    "away": "سان أنطونيو سبرز",
+    "awayLogo": "https://jdwel.com/image/teams/usa_san_antonio.png",
+    "score": "1 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "شارلستون باتري",
+    "homeLogo": "https://jdwel.com/image/teams/usa_charleston_battery.png",
+    "away": "تورمينتا",
+    "awayLogo": "https://jdwel.com/image/teams/409.png",
+    "score": "4 - 0",
+    "time": "1:30 ص"
+  },
+  {
+    "home": "شارلوت انديبندنس",
+    "homeLogo": "https://jdwel.com/image/teams/395.png",
+    "away": "نورث كارولينا",
+    "awayLogo": "https://jdwel.com/image/teams/usa_north_carolina.png",
+    "score": "1 - 3",
+    "time": "1:00 ص"
+  },
+  {
+    "home": "بورتلاند هارتس أوف باين",
+    "homeLogo": "https://jdwel.com/image/teams/2675.png",
+    "away": "رود آيلاند",
+    "awayLogo": "https://jdwel.com/image/teams/2253.png",
+    "score": "1 - 2",
+    "time": "1:00 ص"
+  },
+  {
+    "home": "لويفيل سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/405.png",
+    "away": "لودون يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/398.png",
+    "score": "2 - 1",
+    "time": "1:00 ص"
+  },
+  {
+    "home": "كولومبوس كرو ب",
+    "homeLogo": "https://jdwel.com/image/teams/1417.png",
+    "away": "بيتسبرغ ريفرهاوندز",
+    "awayLogo": "https://jdwel.com/image/teams/usa_pittsburgh_riverhounds.png",
+    "score": "0 - 1",
+    "time": "12:00 ص"
+  },
+  {
+    "home": "لوس أنجلوس جالاكسي ب",
+    "homeLogo": "https://jdwel.com/image/teams/1435.png",
+    "away": "ألباسو لوكوموتيف",
+    "awayLogo": "https://jdwel.com/image/teams/2432.png",
+    "score": "0 - 3",
+    "time": "4:30 ص"
+  },
+  {
+    "home": "تاكوما ديفاينس",
+    "homeLogo": "https://jdwel.com/image/teams/2684.png",
+    "away": "سبوكان فيلوسيتي",
+    "awayLogo": "https://jdwel.com/image/teams/2678.png",
+    "score": "2 - 1",
+    "time": "4:00 ص"
+  },
+  {
+    "home": "دي موين مانس",
+    "homeLogo": "https://jdwel.com/image/teams/usa_des_moines_menace.png",
+    "away": "يونيون أوماها",
+    "awayLogo": "https://jdwel.com/image/teams/407.png",
+    "score": "1 - 2",
+    "time": "2:30 ص"
+  },
+  {
+    "home": "نابليز",
+    "homeLogo": "https://jdwel.com/image/teams/2648.png",
+    "away": "ليتل روك رينجرز",
+    "awayLogo": "https://jdwel.com/image/teams/2608.png",
+    "score": "3 - 0",
+    "time": "1:30 ص"
+  },
+  {
+    "home": "فورورد ماديسون",
+    "homeLogo": "https://jdwel.com/image/teams/2268.png",
+    "away": "تولسا رونيكس",
+    "awayLogo": "https://jdwel.com/image/teams/393.png",
+    "score": "1 - 3",
+    "time": "1:30 ص"
+  },
+  {
+    "home": "ويستشيستر SC",
+    "homeLogo": "https://jdwel.com/image/teams/2662.png",
+    "away": "نيويورك بانسيبريان فريدومز",
+    "awayLogo": "https://jdwel.com/image/teams/2682.png",
+    "score": "3 - 2",
+    "time": "1:00 ص"
+  },
+  {
+    "home": "تشاتانوغا موكس",
+    "homeLogo": "https://jdwel.com/image/teams/2679.png",
+    "away": "شاتانوغا ريد وولفز",
+    "awayLogo": "https://jdwel.com/image/teams/3105.png",
+    "score": "1 - 1 4 - 5",
+    "time": "1:00 ص"
+  },
+  {
+    "home": "غرينفيل ترمف",
+    "homeLogo": "https://jdwel.com/image/teams/2661.png",
+    "away": "ون نوكسفيل",
+    "awayLogo": "https://jdwel.com/image/teams/2669.png",
+    "score": "1 - 3",
+    "time": "1:00 ص"
+  },
+  {
+    "home": "لودون يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/398.png",
+    "away": "فيرجينيا دريم",
+    "awayLogo": "https://jdwel.com/image/teams/2672.png",
+    "score": "4 - 2",
+    "time": "12:30 ص"
+  },
+  {
+    "home": "بورتلاند هارتس أوف باين",
+    "homeLogo": "https://jdwel.com/image/teams/2675.png",
+    "away": "هارتفورد أتلتيك",
+    "awayLogo": "https://jdwel.com/image/teams/usa_hartford_athletic.png",
+    "score": "1 - 1 4 - 2",
+    "time": "12:30 ص"
+  },
+  {
+    "home": "ألتا",
+    "homeLogo": "https://jdwel.com/image/teams/2056.png",
+    "away": "لوس أنجلوس ب",
+    "awayLogo": "https://jdwel.com/image/teams/1434.png",
+    "score": "2 - 1",
+    "time": "4:30 ص"
+  },
+  {
+    "home": "مونتيري باي",
+    "homeLogo": "https://jdwel.com/image/teams/396.png",
+    "away": "إل فاروليتو",
+    "awayLogo": "https://jdwel.com/image/teams/2664.png",
+    "score": "1 - 2",
+    "time": "4:00 ص"
+  },
+  {
+    "home": "إنتر ميامي ب",
+    "homeLogo": "https://jdwel.com/image/teams/usa_inter_miami.png",
+    "away": "ميامي ب",
+    "awayLogo": "https://jdwel.com/image/teams/803.png",
+    "score": "0 - 1",
+    "time": "1:30 ص"
+  },
+  {
+    "home": "شارلوت انديبندنس",
+    "homeLogo": "https://jdwel.com/image/teams/395.png",
+    "away": "كارولينا كور",
+    "awayLogo": "https://jdwel.com/image/teams/2610.png",
+    "score": "2 - 1",
+    "time": "1:30 ص"
+  },
+  {
+    "home": "تورمينتا",
+    "homeLogo": "https://jdwel.com/image/teams/409.png",
+    "away": "فورو",
+    "awayLogo": "https://jdwel.com/image/teams/2660.png",
+    "score": "3 - 2",
+    "time": "1:00 ص"
+  },
+  {
+    "home": "كولومبوس كرو ب",
+    "homeLogo": "https://jdwel.com/image/teams/1417.png",
+    "away": "ليكسينغتون",
+    "awayLogo": "https://jdwel.com/image/teams/2109.png",
+    "score": "3 - 0",
+    "time": "12:00 ص"
+  },
+  {
+    "home": "فلاتيرونز راش",
+    "homeLogo": "https://jdwel.com/image/teams/2687.png",
+    "away": "يونيون أوماها",
+    "awayLogo": "https://jdwel.com/image/teams/407.png",
+    "score": "1 - 2",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "تاكوما ديفاينس",
+    "homeLogo": "https://jdwel.com/image/teams/2684.png",
+    "away": "واشنطن أثلتيك",
+    "awayLogo": "https://jdwel.com/image/teams/2674.png",
+    "score": "3 - 1",
+    "time": "4:00 ص"
+  },
+  {
+    "home": "كارولينا كور",
+    "homeLogo": "https://jdwel.com/image/teams/2610.png",
+    "away": "صودا سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/2683.png",
+    "score": "4 - 2",
+    "time": "1:30 ص"
+  },
+  {
+    "home": "سينسيناتي ب",
+    "homeLogo": "https://jdwel.com/image/teams/1419.png",
+    "away": "نيويورك بانسيبريان فريدومز",
+    "awayLogo": "https://jdwel.com/image/teams/2682.png",
+    "score": "0 - 0 4 - 5",
+    "time": "1:30 ص"
+  },
+  {
+    "home": "لونج آيلاند روف رايدرز",
+    "homeLogo": "https://jdwel.com/image/teams/2685.png",
+    "away": "شارلوت انديبندنس",
+    "awayLogo": "https://jdwel.com/image/teams/395.png",
+    "score": "2 - 3",
+    "time": "1:00 ص"
+  },
+  {
+    "home": "فورورد ماديسون",
+    "homeLogo": "https://jdwel.com/image/teams/2268.png",
+    "away": "دولوث",
+    "awayLogo": "https://jdwel.com/image/teams/2686.png",
+    "score": "5 - 1",
+    "time": "1:00 ص"
+  },
+  {
+    "home": "تورمينتا",
+    "homeLogo": "https://jdwel.com/image/teams/409.png",
+    "away": "هاربور سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/2676.png",
+    "score": "3 - 0",
+    "time": "1:00 ص"
+  },
+  {
+    "home": "بورتلاند هارتس أوف باين",
+    "homeLogo": "https://jdwel.com/image/teams/2675.png",
+    "away": "فيالينسي",
+    "awayLogo": "https://jdwel.com/image/teams/2690.png",
+    "score": "4 - 0",
+    "time": "12:30 ص"
+  },
+  {
+    "home": "بالارد",
+    "homeLogo": "https://jdwel.com/image/teams/2668.png",
+    "away": "سبوكان فيلوسيتي",
+    "awayLogo": "https://jdwel.com/image/teams/2678.png",
+    "score": "0 - 1",
+    "time": "4:30 ص"
+  },
+  {
+    "home": "لوس أنجلوس ب",
+    "homeLogo": "https://jdwel.com/image/teams/1434.png",
+    "away": "نادي أريزونا",
+    "awayLogo": "https://jdwel.com/image/teams/2671.png",
+    "score": "7 - 1",
+    "time": "4:30 ص"
+  },
+  {
+    "home": "مونتيري باي",
+    "homeLogo": "https://jdwel.com/image/teams/396.png",
+    "away": "إنترناشيونال سان فرانسيسكو",
+    "awayLogo": "https://jdwel.com/image/teams/2670.png",
+    "score": "4 - 0",
+    "time": "4:00 ص"
+  },
+  {
+    "home": "ريال موناركس",
+    "homeLogo": "https://jdwel.com/image/teams/549.png",
+    "away": "إل فاروليتو",
+    "awayLogo": "https://jdwel.com/image/teams/2664.png",
+    "score": "1 - 3",
+    "time": "3:30 ص"
+  },
+  {
+    "home": "ألباسو لوكوموتيف",
+    "homeLogo": "https://jdwel.com/image/teams/2432.png",
+    "away": "هاربوس",
+    "awayLogo": "https://jdwel.com/image/teams/2673.png",
+    "score": "5 - 1",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "ليتل روك رينجرز",
+    "homeLogo": "https://jdwel.com/image/teams/2608.png",
+    "away": "برمنغهام ليجون",
+    "awayLogo": "https://jdwel.com/image/teams/408.png",
+    "score": "1 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "سوب بارك رينجرز",
+    "homeLogo": "https://jdwel.com/image/teams/1970.png",
+    "away": "دي موين مانس",
+    "awayLogo": "https://jdwel.com/image/teams/usa_des_moines_menace.png",
+    "score": "1 - 2",
+    "time": "1:30 ص"
+  },
+  {
+    "home": "ليكسينغتون",
+    "homeLogo": "https://jdwel.com/image/teams/2109.png",
+    "away": "ساوثيرن إنديانا",
+    "awayLogo": "https://jdwel.com/image/teams/5451.png",
+    "score": "5 - 0",
+    "time": "1:30 ص"
+  },
+  {
+    "home": "أبالاشيان",
+    "homeLogo": "https://jdwel.com/image/teams/2667.png",
+    "away": "ون نوكسفيل",
+    "awayLogo": "https://jdwel.com/image/teams/2669.png",
+    "score": "0 - 3",
+    "time": "1:00 ص"
+  },
+  {
+    "home": "ريتشموند كيكرز",
+    "homeLogo": "https://jdwel.com/image/teams/usa_richmond_kickers.png",
+    "away": "فيرجينيا دريم",
+    "awayLogo": "https://jdwel.com/image/teams/2672.png",
+    "score": "1 - 3",
+    "time": "1:00 ص"
+  },
+  {
+    "home": "إنتر ميامي ب",
+    "homeLogo": "https://jdwel.com/image/teams/usa_inter_miami.png",
+    "away": "ميامي يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/usa_miami_united.png",
+    "score": "4 - 2",
+    "time": "1:00 ص"
+  },
+  {
+    "home": "تشاتانوغا موكس",
+    "homeLogo": "https://jdwel.com/image/teams/2679.png",
+    "away": "كوربوس كريستي",
+    "awayLogo": "https://jdwel.com/image/teams/2666.png",
+    "score": "1 - 0",
+    "time": "12:30 ص"
+  },
+  {
+    "home": "كولومبوس كرو ب",
+    "homeLogo": "https://jdwel.com/image/teams/1417.png",
+    "away": "نيويورك رينيجيدز",
+    "awayLogo": "https://jdwel.com/image/teams/2665.png",
+    "score": "4 - 1",
+    "time": "12:00 ص"
+  },
+  {
+    "home": "ألتا",
+    "homeLogo": "https://jdwel.com/image/teams/2056.png",
+    "away": "فينتورا كاونتي فيوجن",
+    "awayLogo": "https://jdwel.com/image/teams/usa_ventura_county_fusion.png",
+    "score": "3 - 1",
+    "time": "4:30 ص"
+  },
+  {
+    "home": "لوس أنجلوس جالاكسي ب",
+    "homeLogo": "https://jdwel.com/image/teams/1435.png",
+    "away": "لاجونا يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/2653.png",
+    "score": "7 - 0",
+    "time": "4:30 ص"
+  },
+  {
+    "home": "تولسا أثلتيكس",
+    "homeLogo": "https://jdwel.com/image/teams/usa_tulsa_athletics.png",
+    "away": "تولسا رونيكس",
+    "awayLogo": "https://jdwel.com/image/teams/393.png",
+    "score": "0 - 1",
+    "time": "2:30 ص"
+  },
+  {
+    "home": "تيكسوما",
+    "homeLogo": "https://jdwel.com/image/teams/2654.png",
+    "away": "فورو",
+    "awayLogo": "https://jdwel.com/image/teams/2660.png",
+    "score": "1 - 2",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "موتاون",
+    "homeLogo": "https://jdwel.com/image/teams/2657.png",
+    "away": "ويستشيستر SC",
+    "awayLogo": "https://jdwel.com/image/teams/2662.png",
+    "score": "0 - 1",
+    "time": "1:30 ص"
+  },
+  {
+    "home": "آشفيل سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/2656.png",
+    "away": "غرينفيل ترمف",
+    "awayLogo": "https://jdwel.com/image/teams/2661.png",
+    "score": "0 - 0 3 - 4",
+    "time": "1:30 ص"
+  },
+  {
+    "home": "ويست شيستر",
+    "homeLogo": "https://jdwel.com/image/teams/2659.png",
+    "away": "لودون يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/398.png",
+    "score": "2 - 3",
+    "time": "1:30 ص"
+  },
+  {
+    "home": "ساراسوتا بارادايس",
+    "homeLogo": "https://jdwel.com/image/teams/2652.png",
+    "away": "نابليز",
+    "awayLogo": "https://jdwel.com/image/teams/2648.png",
+    "score": "1 - 2",
+    "time": "1:00 ص"
+  },
+  {
+    "home": "ميامي ب",
+    "homeLogo": "https://jdwel.com/image/teams/803.png",
+    "away": "نابليز يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/2655.png",
+    "score": "4 - 1",
+    "time": "1:00 ص"
+  },
+  {
+    "home": "نورث جيرسي ألاينس",
+    "homeLogo": "https://jdwel.com/image/teams/2663.png",
+    "away": "شاتانوغا ريد وولفز",
+    "awayLogo": "https://jdwel.com/image/teams/3105.png",
+    "score": "2 - 2 2 - 4",
+    "time": "1:00 ص"
+  },
+  {
+    "home": "هارتفورد أتلتيك",
+    "homeLogo": "https://jdwel.com/image/teams/usa_hartford_athletic.png",
+    "away": "نيويورك شوكرز",
+    "awayLogo": "https://jdwel.com/image/teams/2587.png",
+    "score": "3 - 0",
+    "time": "12:30 ص"
+  }
+]

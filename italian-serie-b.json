@@ -1,0 +1,3042 @@
+[
+  {
+    "home": "بيسكارا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_pescara.png",
+    "away": "تشيزينا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_cesena.png",
+    "score": "1 - 3",
+    "time": "9:30 م"
+  },
+  {
+    "home": "فيرتوس إينتيلا",
+    "homeLogo": "https://jdwel.com/image/teams/3887.png",
+    "away": "يوفي ستابيا",
+    "awayLogo": "https://jdwel.com/image/teams/1117.png",
+    "score": "1 - 1",
+    "time": "8:00 م"
+  },
+  {
+    "home": "إمبولي",
+    "homeLogo": "https://jdwel.com/image/teams/2046.png",
+    "away": "كالتشيو بادوفا",
+    "awayLogo": "https://jdwel.com/image/teams/3888.png",
+    "score": "3 - 1",
+    "time": "8:00 م"
+  },
+  {
+    "home": "مونزا",
+    "homeLogo": "https://jdwel.com/image/teams/2152.png",
+    "away": "مانتوفا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_mantova.png",
+    "score": "1 - 0",
+    "time": "10:00 م"
+  },
+  {
+    "home": "باليرمو",
+    "homeLogo": "https://jdwel.com/image/teams/1116.png",
+    "away": "ريجيانا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_reggiana.png",
+    "score": "2 - 1",
+    "time": "10:00 م"
+  },
+  {
+    "home": "سبيزيا",
+    "homeLogo": "https://jdwel.com/image/teams/4732.png",
+    "away": "كاراريسي",
+    "awayLogo": "https://jdwel.com/image/teams/1125.png",
+    "score": "0 - 2",
+    "time": "8:00 م"
+  },
+  {
+    "home": "فينيزيا",
+    "homeLogo": "https://jdwel.com/image/teams/3358.png",
+    "away": "باري",
+    "awayLogo": "https://jdwel.com/image/teams/3133.png",
+    "score": "2 - 1",
+    "time": "8:00 م"
+  },
+  {
+    "home": "كاتانزارو",
+    "homeLogo": "https://jdwel.com/image/teams/ita_catanzaro.png",
+    "away": "سودتيرول",
+    "awayLogo": "https://jdwel.com/image/teams/328.png",
+    "score": "1 - 1",
+    "time": "10:00 م"
+  },
+  {
+    "home": "فروسينوني",
+    "homeLogo": "https://jdwel.com/image/teams/1124.png",
+    "away": "أفيلينو",
+    "awayLogo": "https://jdwel.com/image/teams/4736.png",
+    "score": "2 - 0",
+    "time": "10:00 م"
+  },
+  {
+    "home": "سامبدوريا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_sampdoria.png",
+    "away": "مودينا",
+    "awayLogo": "https://jdwel.com/image/teams/1115.png",
+    "score": "0 - 2",
+    "time": "9:30 م"
+  },
+  {
+    "home": "ريجيانا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_reggiana.png",
+    "away": "إمبولي",
+    "awayLogo": "https://jdwel.com/image/teams/2046.png",
+    "score": "3 - 1",
+    "time": "9:30 م"
+  },
+  {
+    "home": "مانتوفا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_mantova.png",
+    "away": "بيسكارا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_pescara.png",
+    "score": "2 - 1",
+    "time": "8:00 م"
+  },
+  {
+    "home": "يوفي ستابيا",
+    "homeLogo": "https://jdwel.com/image/teams/1117.png",
+    "away": "فينيزيا",
+    "awayLogo": "https://jdwel.com/image/teams/3358.png",
+    "score": "0 - 0",
+    "time": "8:00 م"
+  },
+  {
+    "home": "سبيزيا",
+    "homeLogo": "https://jdwel.com/image/teams/4732.png",
+    "away": "كاتانزارو",
+    "awayLogo": "https://jdwel.com/image/teams/ita_catanzaro.png",
+    "score": "0 - 0",
+    "time": "10:00 م"
+  },
+  {
+    "home": "باليرمو",
+    "homeLogo": "https://jdwel.com/image/teams/1116.png",
+    "away": "فروسينوني",
+    "awayLogo": "https://jdwel.com/image/teams/1124.png",
+    "score": "0 - 0",
+    "time": "10:00 م"
+  },
+  {
+    "home": "تشيزينا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_cesena.png",
+    "away": "فيرتوس إينتيلا",
+    "awayLogo": "https://jdwel.com/image/teams/3887.png",
+    "score": "1 - 1",
+    "time": "10:00 م"
+  },
+  {
+    "home": "كاراريسي",
+    "homeLogo": "https://jdwel.com/image/teams/1125.png",
+    "away": "كالتشيو بادوفا",
+    "awayLogo": "https://jdwel.com/image/teams/3888.png",
+    "score": "0 - 0",
+    "time": "8:00 م"
+  },
+  {
+    "home": "سودتيرول",
+    "homeLogo": "https://jdwel.com/image/teams/328.png",
+    "away": "سامبدوريا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_sampdoria.png",
+    "score": "3 - 1",
+    "time": "8:00 م"
+  },
+  {
+    "home": "مودينا",
+    "homeLogo": "https://jdwel.com/image/teams/1115.png",
+    "away": "أفيلينو",
+    "awayLogo": "https://jdwel.com/image/teams/4736.png",
+    "score": "1 - 1",
+    "time": "10:00 م"
+  },
+  {
+    "home": "باري",
+    "homeLogo": "https://jdwel.com/image/teams/3133.png",
+    "away": "مونزا",
+    "awayLogo": "https://jdwel.com/image/teams/2152.png",
+    "score": "1 - 1",
+    "time": "10:00 م"
+  },
+  {
+    "home": "أفيلينو",
+    "homeLogo": "https://jdwel.com/image/teams/4736.png",
+    "away": "مونزا",
+    "awayLogo": "https://jdwel.com/image/teams/2152.png",
+    "score": "2 - 1",
+    "time": "9:30 م"
+  },
+  {
+    "home": "بيسكارا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_pescara.png",
+    "away": "فينيزيا",
+    "awayLogo": "https://jdwel.com/image/teams/3358.png",
+    "score": "2 - 2",
+    "time": "4:00 م"
+  },
+  {
+    "home": "مودينا",
+    "homeLogo": "https://jdwel.com/image/teams/1115.png",
+    "away": "باري",
+    "awayLogo": "https://jdwel.com/image/teams/3133.png",
+    "score": "3 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "يوفي ستابيا",
+    "homeLogo": "https://jdwel.com/image/teams/1117.png",
+    "away": "ريجيانا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_reggiana.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "كالتشيو بادوفا",
+    "homeLogo": "https://jdwel.com/image/teams/3888.png",
+    "away": "فروسينوني",
+    "awayLogo": "https://jdwel.com/image/teams/1124.png",
+    "score": "0 - 1",
+    "time": "4:00 م"
+  },
+  {
+    "home": "كاتانزارو",
+    "homeLogo": "https://jdwel.com/image/teams/ita_catanzaro.png",
+    "away": "كاراريسي",
+    "awayLogo": "https://jdwel.com/image/teams/1125.png",
+    "score": "1 - 1",
+    "time": "6:15 م"
+  },
+  {
+    "home": "سامبدوريا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_sampdoria.png",
+    "away": "تشيزينا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_cesena.png",
+    "score": "1 - 2",
+    "time": "8:30 م"
+  },
+  {
+    "home": "فيرتوس إينتيلا",
+    "homeLogo": "https://jdwel.com/image/teams/3887.png",
+    "away": "مانتوفا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_mantova.png",
+    "score": "1 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "سودتيرول",
+    "homeLogo": "https://jdwel.com/image/teams/328.png",
+    "away": "باليرمو",
+    "awayLogo": "https://jdwel.com/image/teams/1116.png",
+    "score": "0 - 2",
+    "time": "6:15 م"
+  },
+  {
+    "home": "إمبولي",
+    "homeLogo": "https://jdwel.com/image/teams/2046.png",
+    "away": "سبيزيا",
+    "awayLogo": "https://jdwel.com/image/teams/4732.png",
+    "score": "1 - 1",
+    "time": "8:30 م"
+  },
+  {
+    "home": "فروسينوني",
+    "homeLogo": "https://jdwel.com/image/teams/1124.png",
+    "away": "سودتيرول",
+    "awayLogo": "https://jdwel.com/image/teams/328.png",
+    "score": "2 - 2",
+    "time": "8:00 م"
+  },
+  {
+    "home": "باليرمو",
+    "homeLogo": "https://jdwel.com/image/teams/1116.png",
+    "away": "باري",
+    "awayLogo": "https://jdwel.com/image/teams/3133.png",
+    "score": "2 - 0",
+    "time": "10:00 م"
+  },
+  {
+    "home": "سبيزيا",
+    "homeLogo": "https://jdwel.com/image/teams/4732.png",
+    "away": "يوفي ستابيا",
+    "awayLogo": "https://jdwel.com/image/teams/1117.png",
+    "score": "1 - 3",
+    "time": "4:00 م"
+  },
+  {
+    "home": "ريجيانا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_reggiana.png",
+    "away": "كاتانزارو",
+    "awayLogo": "https://jdwel.com/image/teams/ita_catanzaro.png",
+    "score": "2 - 2",
+    "time": "4:00 م"
+  },
+  {
+    "home": "فينيزيا",
+    "homeLogo": "https://jdwel.com/image/teams/3358.png",
+    "away": "تشيزينا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_cesena.png",
+    "score": "1 - 2",
+    "time": "4:00 م"
+  },
+  {
+    "home": "مونزا",
+    "homeLogo": "https://jdwel.com/image/teams/2152.png",
+    "away": "سامبدوريا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_sampdoria.png",
+    "score": "1 - 0",
+    "time": "6:15 م"
+  },
+  {
+    "home": "مانتوفا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_mantova.png",
+    "away": "مودينا",
+    "awayLogo": "https://jdwel.com/image/teams/1115.png",
+    "score": "1 - 3",
+    "time": "8:30 م"
+  },
+  {
+    "home": "كاراريسي",
+    "homeLogo": "https://jdwel.com/image/teams/1125.png",
+    "away": "أفيلينو",
+    "awayLogo": "https://jdwel.com/image/teams/4736.png",
+    "score": "3 - 4",
+    "time": "4:00 م"
+  },
+  {
+    "home": "بيسكارا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_pescara.png",
+    "away": "إمبولي",
+    "awayLogo": "https://jdwel.com/image/teams/2046.png",
+    "score": "4 - 0",
+    "time": "6:15 م"
+  },
+  {
+    "home": "كالتشيو بادوفا",
+    "homeLogo": "https://jdwel.com/image/teams/3888.png",
+    "away": "فيرتوس إينتيلا",
+    "awayLogo": "https://jdwel.com/image/teams/3887.png",
+    "score": "2 - 1",
+    "time": "8:30 م"
+  },
+  {
+    "home": "كاتانزارو",
+    "homeLogo": "https://jdwel.com/image/teams/ita_catanzaro.png",
+    "away": "يوفي ستابيا",
+    "awayLogo": "https://jdwel.com/image/teams/1117.png",
+    "score": "2 - 2",
+    "time": "9:30 م"
+  },
+  {
+    "home": "تشيزينا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_cesena.png",
+    "away": "باليرمو",
+    "awayLogo": "https://jdwel.com/image/teams/1116.png",
+    "score": "1 - 1",
+    "time": "4:00 م"
+  },
+  {
+    "home": "مانتوفا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_mantova.png",
+    "away": "فروسينوني",
+    "awayLogo": "https://jdwel.com/image/teams/1124.png",
+    "score": "1 - 5",
+    "time": "4:00 م"
+  },
+  {
+    "home": "أفيلينو",
+    "homeLogo": "https://jdwel.com/image/teams/4736.png",
+    "away": "فيرتوس إينتيلا",
+    "awayLogo": "https://jdwel.com/image/teams/3887.png",
+    "score": "2 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "سودتيرول",
+    "homeLogo": "https://jdwel.com/image/teams/328.png",
+    "away": "ريجيانا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_reggiana.png",
+    "score": "3 - 1",
+    "time": "4:00 م"
+  },
+  {
+    "home": "فينيزيا",
+    "homeLogo": "https://jdwel.com/image/teams/3358.png",
+    "away": "سبيزيا",
+    "awayLogo": "https://jdwel.com/image/teams/4732.png",
+    "score": "2 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "مونزا",
+    "homeLogo": "https://jdwel.com/image/teams/2152.png",
+    "away": "كالتشيو بادوفا",
+    "awayLogo": "https://jdwel.com/image/teams/3888.png",
+    "score": "0 - 1",
+    "time": "6:15 م"
+  },
+  {
+    "home": "باري",
+    "homeLogo": "https://jdwel.com/image/teams/3133.png",
+    "away": "سامبدوريا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_sampdoria.png",
+    "score": "1 - 1",
+    "time": "8:30 م"
+  },
+  {
+    "home": "مودينا",
+    "homeLogo": "https://jdwel.com/image/teams/1115.png",
+    "away": "بيسكارا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_pescara.png",
+    "score": "2 - 1",
+    "time": "6:15 م"
+  },
+  {
+    "home": "إمبولي",
+    "homeLogo": "https://jdwel.com/image/teams/2046.png",
+    "away": "كاراريسي",
+    "awayLogo": "https://jdwel.com/image/teams/1125.png",
+    "score": "2 - 2",
+    "time": "8:30 م"
+  },
+  {
+    "home": "فيرتوس إينتيلا",
+    "homeLogo": "https://jdwel.com/image/teams/3887.png",
+    "away": "باري",
+    "awayLogo": "https://jdwel.com/image/teams/3133.png",
+    "score": "2 - 2",
+    "time": "9:30 م"
+  },
+  {
+    "home": "يوفي ستابيا",
+    "homeLogo": "https://jdwel.com/image/teams/1117.png",
+    "away": "مانتوفا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_mantova.png",
+    "score": "2 - 1",
+    "time": "9:30 م"
+  },
+  {
+    "home": "باليرمو",
+    "homeLogo": "https://jdwel.com/image/teams/1116.png",
+    "away": "فينيزيا",
+    "awayLogo": "https://jdwel.com/image/teams/3358.png",
+    "score": "0 - 0",
+    "time": "9:30 م"
+  },
+  {
+    "home": "ريجيانا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_reggiana.png",
+    "away": "سبيزيا",
+    "awayLogo": "https://jdwel.com/image/teams/4732.png",
+    "score": "1 - 1",
+    "time": "9:30 م"
+  },
+  {
+    "home": "كالتشيو بادوفا",
+    "homeLogo": "https://jdwel.com/image/teams/3888.png",
+    "away": "أفيلينو",
+    "awayLogo": "https://jdwel.com/image/teams/4736.png",
+    "score": "2 - 2",
+    "time": "9:30 م"
+  },
+  {
+    "home": "فروسينوني",
+    "homeLogo": "https://jdwel.com/image/teams/1124.png",
+    "away": "تشيزينا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_cesena.png",
+    "score": "3 - 1",
+    "time": "9:30 م"
+  },
+  {
+    "home": "سامبدوريا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_sampdoria.png",
+    "away": "كاتانزارو",
+    "awayLogo": "https://jdwel.com/image/teams/ita_catanzaro.png",
+    "score": "0 - 0",
+    "time": "9:30 م"
+  },
+  {
+    "home": "إمبولي",
+    "homeLogo": "https://jdwel.com/image/teams/2046.png",
+    "away": "مونزا",
+    "awayLogo": "https://jdwel.com/image/teams/2152.png",
+    "score": "1 - 1",
+    "time": "9:30 م"
+  },
+  {
+    "home": "بيسكارا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_pescara.png",
+    "away": "سودتيرول",
+    "awayLogo": "https://jdwel.com/image/teams/328.png",
+    "score": "1 - 1",
+    "time": "9:30 م"
+  },
+  {
+    "home": "كاراريسي",
+    "homeLogo": "https://jdwel.com/image/teams/1125.png",
+    "away": "مودينا",
+    "awayLogo": "https://jdwel.com/image/teams/1115.png",
+    "score": "0 - 0",
+    "time": "9:30 م"
+  },
+  {
+    "home": "باري",
+    "homeLogo": "https://jdwel.com/image/teams/3133.png",
+    "away": "كالتشيو بادوفا",
+    "awayLogo": "https://jdwel.com/image/teams/3888.png",
+    "score": "2 - 1",
+    "time": "4:00 م"
+  },
+  {
+    "home": "فينيزيا",
+    "homeLogo": "https://jdwel.com/image/teams/3358.png",
+    "away": "فروسينوني",
+    "awayLogo": "https://jdwel.com/image/teams/1124.png",
+    "score": "3 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "مونزا",
+    "homeLogo": "https://jdwel.com/image/teams/2152.png",
+    "away": "كاتانزارو",
+    "awayLogo": "https://jdwel.com/image/teams/ita_catanzaro.png",
+    "score": "2 - 1",
+    "time": "4:00 م"
+  },
+  {
+    "home": "أفيلينو",
+    "homeLogo": "https://jdwel.com/image/teams/4736.png",
+    "away": "مانتوفا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_mantova.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "سبيزيا",
+    "homeLogo": "https://jdwel.com/image/teams/4732.png",
+    "away": "باليرمو",
+    "awayLogo": "https://jdwel.com/image/teams/1116.png",
+    "score": "1 - 2",
+    "time": "6:15 م"
+  },
+  {
+    "home": "تشيزينا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_cesena.png",
+    "away": "ريجيانا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_reggiana.png",
+    "score": "1 - 2",
+    "time": "8:30 م"
+  },
+  {
+    "home": "سودتيرول",
+    "homeLogo": "https://jdwel.com/image/teams/328.png",
+    "away": "إمبولي",
+    "awayLogo": "https://jdwel.com/image/teams/2046.png",
+    "score": "1 - 2",
+    "time": "4:00 م"
+  },
+  {
+    "home": "كاراريسي",
+    "homeLogo": "https://jdwel.com/image/teams/1125.png",
+    "away": "يوفي ستابيا",
+    "awayLogo": "https://jdwel.com/image/teams/1117.png",
+    "score": "3 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "سامبدوريا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_sampdoria.png",
+    "away": "بيسكارا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_pescara.png",
+    "score": "4 - 1",
+    "time": "6:15 م"
+  },
+  {
+    "home": "مودينا",
+    "homeLogo": "https://jdwel.com/image/teams/1115.png",
+    "away": "فيرتوس إينتيلا",
+    "awayLogo": "https://jdwel.com/image/teams/3887.png",
+    "score": "2 - 0",
+    "time": "8:30 م"
+  },
+  {
+    "home": "فيرتوس إينتيلا",
+    "homeLogo": "https://jdwel.com/image/teams/3887.png",
+    "away": "سامبدوريا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_sampdoria.png",
+    "score": "3 - 1",
+    "time": "9:30 م"
+  },
+  {
+    "home": "فروسينوني",
+    "homeLogo": "https://jdwel.com/image/teams/1124.png",
+    "away": "مونزا",
+    "awayLogo": "https://jdwel.com/image/teams/2152.png",
+    "score": "0 - 1",
+    "time": "4:00 م"
+  },
+  {
+    "home": "ريجيانا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_reggiana.png",
+    "away": "باري",
+    "awayLogo": "https://jdwel.com/image/teams/3133.png",
+    "score": "3 - 1",
+    "time": "4:00 م"
+  },
+  {
+    "home": "مانتوفا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_mantova.png",
+    "away": "سودتيرول",
+    "awayLogo": "https://jdwel.com/image/teams/328.png",
+    "score": "1 - 1",
+    "time": "4:00 م"
+  },
+  {
+    "home": "بيسكارا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_pescara.png",
+    "away": "كاراريسي",
+    "awayLogo": "https://jdwel.com/image/teams/1125.png",
+    "score": "2 - 2",
+    "time": "4:00 م"
+  },
+  {
+    "home": "يوفي ستابيا",
+    "homeLogo": "https://jdwel.com/image/teams/1117.png",
+    "away": "أفيلينو",
+    "awayLogo": "https://jdwel.com/image/teams/4736.png",
+    "score": "2 - 0",
+    "time": "6:15 م"
+  },
+  {
+    "home": "سبيزيا",
+    "homeLogo": "https://jdwel.com/image/teams/4732.png",
+    "away": "تشيزينا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_cesena.png",
+    "score": "1 - 2",
+    "time": "8:30 م"
+  },
+  {
+    "home": "باليرمو",
+    "homeLogo": "https://jdwel.com/image/teams/1116.png",
+    "away": "مودينا",
+    "awayLogo": "https://jdwel.com/image/teams/1115.png",
+    "score": "1 - 1",
+    "time": "4:00 م"
+  },
+  {
+    "home": "إمبولي",
+    "homeLogo": "https://jdwel.com/image/teams/2046.png",
+    "away": "فينيزيا",
+    "awayLogo": "https://jdwel.com/image/teams/3358.png",
+    "score": "1 - 1",
+    "time": "6:15 م"
+  },
+  {
+    "home": "كاتانزارو",
+    "homeLogo": "https://jdwel.com/image/teams/ita_catanzaro.png",
+    "away": "كالتشيو بادوفا",
+    "awayLogo": "https://jdwel.com/image/teams/3888.png",
+    "score": "0 - 1",
+    "time": "8:30 م"
+  },
+  {
+    "home": "مودينا",
+    "homeLogo": "https://jdwel.com/image/teams/1115.png",
+    "away": "إمبولي",
+    "awayLogo": "https://jdwel.com/image/teams/2046.png",
+    "score": "2 - 1",
+    "time": "9:30 م"
+  },
+  {
+    "home": "سودتيرول",
+    "homeLogo": "https://jdwel.com/image/teams/328.png",
+    "away": "تشيزينا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_cesena.png",
+    "score": "0 - 1",
+    "time": "4:00 م"
+  },
+  {
+    "home": "سامبدوريا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_sampdoria.png",
+    "away": "فروسينوني",
+    "awayLogo": "https://jdwel.com/image/teams/1124.png",
+    "score": "1 - 1",
+    "time": "4:00 م"
+  },
+  {
+    "home": "مونزا",
+    "homeLogo": "https://jdwel.com/image/teams/2152.png",
+    "away": "ريجيانا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_reggiana.png",
+    "score": "3 - 1",
+    "time": "4:00 م"
+  },
+  {
+    "home": "أفيلينو",
+    "homeLogo": "https://jdwel.com/image/teams/4736.png",
+    "away": "سبيزيا",
+    "awayLogo": "https://jdwel.com/image/teams/4732.png",
+    "score": "0 - 4",
+    "time": "4:00 م"
+  },
+  {
+    "home": "فيرتوس إينتيلا",
+    "homeLogo": "https://jdwel.com/image/teams/3887.png",
+    "away": "بيسكارا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_pescara.png",
+    "score": "1 - 1",
+    "time": "4:00 م"
+  },
+  {
+    "home": "كاراريسي",
+    "homeLogo": "https://jdwel.com/image/teams/1125.png",
+    "away": "فينيزيا",
+    "awayLogo": "https://jdwel.com/image/teams/3358.png",
+    "score": "3 - 2",
+    "time": "6:15 م"
+  },
+  {
+    "home": "كاتانزارو",
+    "homeLogo": "https://jdwel.com/image/teams/ita_catanzaro.png",
+    "away": "باليرمو",
+    "awayLogo": "https://jdwel.com/image/teams/1116.png",
+    "score": "1 - 0",
+    "time": "8:30 م"
+  },
+  {
+    "home": "كالتشيو بادوفا",
+    "homeLogo": "https://jdwel.com/image/teams/3888.png",
+    "away": "يوفي ستابيا",
+    "awayLogo": "https://jdwel.com/image/teams/1117.png",
+    "score": "2 - 2",
+    "time": "5:00 م"
+  },
+  {
+    "home": "باري",
+    "homeLogo": "https://jdwel.com/image/teams/3133.png",
+    "away": "مانتوفا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_mantova.png",
+    "score": "1 - 0",
+    "time": "7:15 م"
+  },
+  {
+    "home": "بيسكارا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_pescara.png",
+    "away": "أفيلينو",
+    "awayLogo": "https://jdwel.com/image/teams/4736.png",
+    "score": "1 - 1",
+    "time": "10:30 م"
+  },
+  {
+    "home": "إمبولي",
+    "homeLogo": "https://jdwel.com/image/teams/2046.png",
+    "away": "سامبدوريا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_sampdoria.png",
+    "score": "1 - 1",
+    "time": "10:30 م"
+  },
+  {
+    "home": "باليرمو",
+    "homeLogo": "https://jdwel.com/image/teams/1116.png",
+    "away": "مونزا",
+    "awayLogo": "https://jdwel.com/image/teams/2152.png",
+    "score": "0 - 3",
+    "time": "10:30 م"
+  },
+  {
+    "home": "ريجيانا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_reggiana.png",
+    "away": "مودينا",
+    "awayLogo": "https://jdwel.com/image/teams/1115.png",
+    "score": "1 - 0",
+    "time": "10:30 م"
+  },
+  {
+    "home": "تشيزينا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_cesena.png",
+    "away": "كاراريسي",
+    "awayLogo": "https://jdwel.com/image/teams/1125.png",
+    "score": "2 - 1",
+    "time": "10:30 م"
+  },
+  {
+    "home": "فروسينوني",
+    "homeLogo": "https://jdwel.com/image/teams/1124.png",
+    "away": "فيرتوس إينتيلا",
+    "awayLogo": "https://jdwel.com/image/teams/3887.png",
+    "score": "4 - 0",
+    "time": "10:30 م"
+  },
+  {
+    "home": "سبيزيا",
+    "homeLogo": "https://jdwel.com/image/teams/4732.png",
+    "away": "كالتشيو بادوفا",
+    "awayLogo": "https://jdwel.com/image/teams/3888.png",
+    "score": "1 - 1",
+    "time": "10:30 م"
+  },
+  {
+    "home": "مانتوفا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_mantova.png",
+    "away": "كاتانزارو",
+    "awayLogo": "https://jdwel.com/image/teams/ita_catanzaro.png",
+    "score": "1 - 3",
+    "time": "10:30 م"
+  },
+  {
+    "home": "فينيزيا",
+    "homeLogo": "https://jdwel.com/image/teams/3358.png",
+    "away": "سودتيرول",
+    "awayLogo": "https://jdwel.com/image/teams/328.png",
+    "score": "3 - 0",
+    "time": "10:30 م"
+  },
+  {
+    "home": "أفيلينو",
+    "homeLogo": "https://jdwel.com/image/teams/4736.png",
+    "away": "ريجيانا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_reggiana.png",
+    "score": "4 - 3",
+    "time": "1:30 م"
+  },
+  {
+    "home": "كاراريسي",
+    "homeLogo": "https://jdwel.com/image/teams/1125.png",
+    "away": "فروسينوني",
+    "awayLogo": "https://jdwel.com/image/teams/1124.png",
+    "score": "0 - 2",
+    "time": "4:00 م"
+  },
+  {
+    "home": "كالتشيو بادوفا",
+    "homeLogo": "https://jdwel.com/image/teams/3888.png",
+    "away": "سودتيرول",
+    "awayLogo": "https://jdwel.com/image/teams/328.png",
+    "score": "1 - 1",
+    "time": "4:00 م"
+  },
+  {
+    "home": "فيرتوس إينتيلا",
+    "homeLogo": "https://jdwel.com/image/teams/3887.png",
+    "away": "إمبولي",
+    "awayLogo": "https://jdwel.com/image/teams/2046.png",
+    "score": "1 - 0",
+    "time": "6:15 م"
+  },
+  {
+    "home": "باليرمو",
+    "homeLogo": "https://jdwel.com/image/teams/1116.png",
+    "away": "بيسكارا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_pescara.png",
+    "score": "5 - 0",
+    "time": "8:30 م"
+  },
+  {
+    "home": "مودينا",
+    "homeLogo": "https://jdwel.com/image/teams/1115.png",
+    "away": "يوفي ستابيا",
+    "awayLogo": "https://jdwel.com/image/teams/1117.png",
+    "score": "3 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "باري",
+    "homeLogo": "https://jdwel.com/image/teams/3133.png",
+    "away": "تشيزينا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_cesena.png",
+    "score": "1 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "كاتانزارو",
+    "homeLogo": "https://jdwel.com/image/teams/ita_catanzaro.png",
+    "away": "فينيزيا",
+    "awayLogo": "https://jdwel.com/image/teams/3358.png",
+    "score": "2 - 1",
+    "time": "4:00 م"
+  },
+  {
+    "home": "مونزا",
+    "homeLogo": "https://jdwel.com/image/teams/2152.png",
+    "away": "سبيزيا",
+    "awayLogo": "https://jdwel.com/image/teams/4732.png",
+    "score": "1 - 0",
+    "time": "6:15 م"
+  },
+  {
+    "home": "سامبدوريا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_sampdoria.png",
+    "away": "مانتوفا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_mantova.png",
+    "score": "0 - 1",
+    "time": "8:30 م"
+  },
+  {
+    "home": "سبيزيا",
+    "homeLogo": "https://jdwel.com/image/teams/4732.png",
+    "away": "باري",
+    "awayLogo": "https://jdwel.com/image/teams/3133.png",
+    "score": "1 - 1",
+    "time": "9:30 م"
+  },
+  {
+    "home": "ريجيانا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_reggiana.png",
+    "away": "فيرتوس إينتيلا",
+    "awayLogo": "https://jdwel.com/image/teams/3887.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "إمبولي",
+    "homeLogo": "https://jdwel.com/image/teams/2046.png",
+    "away": "كاتانزارو",
+    "awayLogo": "https://jdwel.com/image/teams/ita_catanzaro.png",
+    "score": "1 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "فروسينوني",
+    "homeLogo": "https://jdwel.com/image/teams/1124.png",
+    "away": "مودينا",
+    "awayLogo": "https://jdwel.com/image/teams/1115.png",
+    "score": "2 - 2",
+    "time": "4:00 م"
+  },
+  {
+    "home": "مانتوفا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_mantova.png",
+    "away": "كالتشيو بادوفا",
+    "awayLogo": "https://jdwel.com/image/teams/3888.png",
+    "score": "1 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "سودتيرول",
+    "homeLogo": "https://jdwel.com/image/teams/328.png",
+    "away": "كاراريسي",
+    "awayLogo": "https://jdwel.com/image/teams/1125.png",
+    "score": "1 - 1",
+    "time": "4:00 م"
+  },
+  {
+    "home": "يوفي ستابيا",
+    "homeLogo": "https://jdwel.com/image/teams/1117.png",
+    "away": "باليرمو",
+    "awayLogo": "https://jdwel.com/image/teams/1116.png",
+    "score": "1 - 0",
+    "time": "6:15 م"
+  },
+  {
+    "home": "فينيزيا",
+    "homeLogo": "https://jdwel.com/image/teams/3358.png",
+    "away": "سامبدوريا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_sampdoria.png",
+    "score": "3 - 1",
+    "time": "8:30 م"
+  },
+  {
+    "home": "تشيزينا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_cesena.png",
+    "away": "أفيلينو",
+    "awayLogo": "https://jdwel.com/image/teams/4736.png",
+    "score": "3 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "بيسكارا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_pescara.png",
+    "away": "مونزا",
+    "awayLogo": "https://jdwel.com/image/teams/2152.png",
+    "score": "0 - 2",
+    "time": "6:15 م"
+  },
+  {
+    "home": "كاتانزارو",
+    "homeLogo": "https://jdwel.com/image/teams/ita_catanzaro.png",
+    "away": "بيسكارا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_pescara.png",
+    "score": "3 - 3",
+    "time": "9:30 م"
+  },
+  {
+    "home": "فيرتوس إينتيلا",
+    "homeLogo": "https://jdwel.com/image/teams/3887.png",
+    "away": "باليرمو",
+    "awayLogo": "https://jdwel.com/image/teams/1116.png",
+    "score": "1 - 1",
+    "time": "4:00 م"
+  },
+  {
+    "home": "كاراريسي",
+    "homeLogo": "https://jdwel.com/image/teams/1125.png",
+    "away": "ريجيانا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_reggiana.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "أفيلينو",
+    "homeLogo": "https://jdwel.com/image/teams/4736.png",
+    "away": "إمبولي",
+    "awayLogo": "https://jdwel.com/image/teams/2046.png",
+    "score": "0 - 3",
+    "time": "4:00 م"
+  },
+  {
+    "home": "كالتشيو بادوفا",
+    "homeLogo": "https://jdwel.com/image/teams/3888.png",
+    "away": "فينيزيا",
+    "awayLogo": "https://jdwel.com/image/teams/3358.png",
+    "score": "0 - 2",
+    "time": "6:15 م"
+  },
+  {
+    "home": "باري",
+    "homeLogo": "https://jdwel.com/image/teams/3133.png",
+    "away": "فروسينوني",
+    "awayLogo": "https://jdwel.com/image/teams/1124.png",
+    "score": "2 - 3",
+    "time": "8:30 م"
+  },
+  {
+    "home": "مودينا",
+    "homeLogo": "https://jdwel.com/image/teams/1115.png",
+    "away": "سودتيرول",
+    "awayLogo": "https://jdwel.com/image/teams/328.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "مانتوفا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_mantova.png",
+    "away": "سبيزيا",
+    "awayLogo": "https://jdwel.com/image/teams/4732.png",
+    "score": "4 - 1",
+    "time": "4:00 م"
+  },
+  {
+    "home": "مونزا",
+    "homeLogo": "https://jdwel.com/image/teams/2152.png",
+    "away": "تشيزينا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_cesena.png",
+    "score": "1 - 0",
+    "time": "6:15 م"
+  },
+  {
+    "home": "سامبدوريا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_sampdoria.png",
+    "away": "يوفي ستابيا",
+    "awayLogo": "https://jdwel.com/image/teams/1117.png",
+    "score": "1 - 0",
+    "time": "9:30 م"
+  },
+  {
+    "home": "تشيزينا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_cesena.png",
+    "away": "مودينا",
+    "awayLogo": "https://jdwel.com/image/teams/1115.png",
+    "score": "1 - 0",
+    "time": "9:30 م"
+  },
+  {
+    "home": "إمبولي",
+    "homeLogo": "https://jdwel.com/image/teams/2046.png",
+    "away": "باري",
+    "awayLogo": "https://jdwel.com/image/teams/3133.png",
+    "score": "5 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "بيسكارا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_pescara.png",
+    "away": "كالتشيو بادوفا",
+    "awayLogo": "https://jdwel.com/image/teams/3888.png",
+    "score": "0 - 1",
+    "time": "4:00 م"
+  },
+  {
+    "home": "فينيزيا",
+    "homeLogo": "https://jdwel.com/image/teams/3358.png",
+    "away": "مانتوفا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_mantova.png",
+    "score": "3 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "ريجيانا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_reggiana.png",
+    "away": "فروسينوني",
+    "awayLogo": "https://jdwel.com/image/teams/1124.png",
+    "score": "0 - 1",
+    "time": "4:00 م"
+  },
+  {
+    "home": "سودتيرول",
+    "homeLogo": "https://jdwel.com/image/teams/328.png",
+    "away": "أفيلينو",
+    "awayLogo": "https://jdwel.com/image/teams/4736.png",
+    "score": "0 - 1",
+    "time": "4:30 م"
+  },
+  {
+    "home": "كاتانزارو",
+    "homeLogo": "https://jdwel.com/image/teams/ita_catanzaro.png",
+    "away": "فيرتوس إينتيلا",
+    "awayLogo": "https://jdwel.com/image/teams/3887.png",
+    "score": "3 - 2",
+    "time": "6:15 م"
+  },
+  {
+    "home": "باليرمو",
+    "homeLogo": "https://jdwel.com/image/teams/1116.png",
+    "away": "كاراريسي",
+    "awayLogo": "https://jdwel.com/image/teams/1125.png",
+    "score": "5 - 0",
+    "time": "8:30 م"
+  },
+  {
+    "home": "يوفي ستابيا",
+    "homeLogo": "https://jdwel.com/image/teams/1117.png",
+    "away": "مونزا",
+    "awayLogo": "https://jdwel.com/image/teams/2152.png",
+    "score": "2 - 2",
+    "time": "4:00 م"
+  },
+  {
+    "home": "سبيزيا",
+    "homeLogo": "https://jdwel.com/image/teams/4732.png",
+    "away": "سامبدوريا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_sampdoria.png",
+    "score": "1 - 0",
+    "time": "6:15 م"
+  },
+  {
+    "home": "يوفي ستابيا",
+    "homeLogo": "https://jdwel.com/image/teams/1117.png",
+    "away": "باري",
+    "awayLogo": "https://jdwel.com/image/teams/3133.png",
+    "score": "0 - 0",
+    "time": "8:30 م"
+  },
+  {
+    "home": "إمبولي",
+    "homeLogo": "https://jdwel.com/image/teams/2046.png",
+    "away": "باليرمو",
+    "awayLogo": "https://jdwel.com/image/teams/1116.png",
+    "score": "1 - 3",
+    "time": "6:15 م"
+  },
+  {
+    "home": "سامبدوريا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_sampdoria.png",
+    "away": "كاراريسي",
+    "awayLogo": "https://jdwel.com/image/teams/1125.png",
+    "score": "3 - 2",
+    "time": "8:30 م"
+  },
+  {
+    "home": "مودينا",
+    "homeLogo": "https://jdwel.com/image/teams/1115.png",
+    "away": "كاتانزارو",
+    "awayLogo": "https://jdwel.com/image/teams/ita_catanzaro.png",
+    "score": "1 - 2",
+    "time": "1:30 م"
+  },
+  {
+    "home": "مانتوفا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_mantova.png",
+    "away": "ريجيانا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_reggiana.png",
+    "score": "0 - 1",
+    "time": "4:00 م"
+  },
+  {
+    "home": "أفيلينو",
+    "homeLogo": "https://jdwel.com/image/teams/4736.png",
+    "away": "فينيزيا",
+    "awayLogo": "https://jdwel.com/image/teams/3358.png",
+    "score": "1 - 1",
+    "time": "4:00 م"
+  },
+  {
+    "home": "فروسينوني",
+    "homeLogo": "https://jdwel.com/image/teams/1124.png",
+    "away": "يوفي ستابيا",
+    "awayLogo": "https://jdwel.com/image/teams/1117.png",
+    "score": "3 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "مونزا",
+    "homeLogo": "https://jdwel.com/image/teams/2152.png",
+    "away": "سودتيرول",
+    "awayLogo": "https://jdwel.com/image/teams/328.png",
+    "score": "1 - 1",
+    "time": "4:00 م"
+  },
+  {
+    "home": "كالتشيو بادوفا",
+    "homeLogo": "https://jdwel.com/image/teams/3888.png",
+    "away": "تشيزينا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_cesena.png",
+    "score": "1 - 1",
+    "time": "4:00 م"
+  },
+  {
+    "home": "باري",
+    "homeLogo": "https://jdwel.com/image/teams/3133.png",
+    "away": "بيسكارا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_pescara.png",
+    "score": "1 - 1",
+    "time": "6:15 م"
+  },
+  {
+    "home": "فيرتوس إينتيلا",
+    "homeLogo": "https://jdwel.com/image/teams/3887.png",
+    "away": "سبيزيا",
+    "awayLogo": "https://jdwel.com/image/teams/4732.png",
+    "score": "0 - 1",
+    "time": "8:30 م"
+  },
+  {
+    "home": "باليرمو",
+    "homeLogo": "https://jdwel.com/image/teams/1116.png",
+    "away": "سامبدوريا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_sampdoria.png",
+    "score": "1 - 0",
+    "time": "9:30 م"
+  },
+  {
+    "home": "يوفي ستابيا",
+    "homeLogo": "https://jdwel.com/image/teams/1117.png",
+    "away": "إمبولي",
+    "awayLogo": "https://jdwel.com/image/teams/2046.png",
+    "score": "2 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "فينيزيا",
+    "homeLogo": "https://jdwel.com/image/teams/3358.png",
+    "away": "مونزا",
+    "awayLogo": "https://jdwel.com/image/teams/2152.png",
+    "score": "2 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "ريجيانا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_reggiana.png",
+    "away": "كالتشيو بادوفا",
+    "awayLogo": "https://jdwel.com/image/teams/3888.png",
+    "score": "1 - 2",
+    "time": "4:00 م"
+  },
+  {
+    "home": "سودتيرول",
+    "homeLogo": "https://jdwel.com/image/teams/328.png",
+    "away": "باري",
+    "awayLogo": "https://jdwel.com/image/teams/3133.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "سبيزيا",
+    "homeLogo": "https://jdwel.com/image/teams/4732.png",
+    "away": "مودينا",
+    "awayLogo": "https://jdwel.com/image/teams/1115.png",
+    "score": "0 - 2",
+    "time": "4:00 م"
+  },
+  {
+    "home": "كاتانزارو",
+    "homeLogo": "https://jdwel.com/image/teams/ita_catanzaro.png",
+    "away": "أفيلينو",
+    "awayLogo": "https://jdwel.com/image/teams/4736.png",
+    "score": "1 - 0",
+    "time": "6:15 م"
+  },
+  {
+    "home": "تشيزينا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_cesena.png",
+    "away": "مانتوفا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_mantova.png",
+    "score": "3 - 2",
+    "time": "8:30 م"
+  },
+  {
+    "home": "كاراريسي",
+    "homeLogo": "https://jdwel.com/image/teams/1125.png",
+    "away": "فيرتوس إينتيلا",
+    "awayLogo": "https://jdwel.com/image/teams/3887.png",
+    "score": "3 - 1",
+    "time": "4:00 م"
+  },
+  {
+    "home": "بيسكارا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_pescara.png",
+    "away": "فروسينوني",
+    "awayLogo": "https://jdwel.com/image/teams/1124.png",
+    "score": "1 - 2",
+    "time": "6:15 م"
+  },
+  {
+    "home": "باري",
+    "homeLogo": "https://jdwel.com/image/teams/3133.png",
+    "away": "كاتانزارو",
+    "awayLogo": "https://jdwel.com/image/teams/ita_catanzaro.png",
+    "score": "1 - 2",
+    "time": "9:30 م"
+  },
+  {
+    "home": "مونزا",
+    "homeLogo": "https://jdwel.com/image/teams/2152.png",
+    "away": "كاراريسي",
+    "awayLogo": "https://jdwel.com/image/teams/1125.png",
+    "score": "4 - 1",
+    "time": "4:00 م"
+  },
+  {
+    "home": "فروسينوني",
+    "homeLogo": "https://jdwel.com/image/teams/1124.png",
+    "away": "سبيزيا",
+    "awayLogo": "https://jdwel.com/image/teams/4732.png",
+    "score": "2 - 1",
+    "time": "4:00 م"
+  },
+  {
+    "home": "تشيزينا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_cesena.png",
+    "away": "يوفي ستابيا",
+    "awayLogo": "https://jdwel.com/image/teams/1117.png",
+    "score": "1 - 1",
+    "time": "4:00 م"
+  },
+  {
+    "home": "مودينا",
+    "homeLogo": "https://jdwel.com/image/teams/1115.png",
+    "away": "فينيزيا",
+    "awayLogo": "https://jdwel.com/image/teams/3358.png",
+    "score": "1 - 2",
+    "time": "4:00 م"
+  },
+  {
+    "home": "كالتشيو بادوفا",
+    "homeLogo": "https://jdwel.com/image/teams/3888.png",
+    "away": "سامبدوريا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_sampdoria.png",
+    "score": "1 - 1",
+    "time": "4:00 م"
+  },
+  {
+    "home": "أفيلينو",
+    "homeLogo": "https://jdwel.com/image/teams/4736.png",
+    "away": "باليرمو",
+    "awayLogo": "https://jdwel.com/image/teams/1116.png",
+    "score": "2 - 2",
+    "time": "6:15 م"
+  },
+  {
+    "home": "بيسكارا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_pescara.png",
+    "away": "ريجيانا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_reggiana.png",
+    "score": "2 - 1",
+    "time": "8:30 م"
+  },
+  {
+    "home": "فيرتوس إينتيلا",
+    "homeLogo": "https://jdwel.com/image/teams/3887.png",
+    "away": "سودتيرول",
+    "awayLogo": "https://jdwel.com/image/teams/328.png",
+    "score": "1 - 1",
+    "time": "4:00 م"
+  },
+  {
+    "home": "مانتوفا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_mantova.png",
+    "away": "إمبولي",
+    "awayLogo": "https://jdwel.com/image/teams/2046.png",
+    "score": "0 - 1",
+    "time": "6:15 م"
+  },
+  {
+    "home": "مودينا",
+    "homeLogo": "https://jdwel.com/image/teams/1115.png",
+    "away": "مونزا",
+    "awayLogo": "https://jdwel.com/image/teams/2152.png",
+    "score": "1 - 2",
+    "time": "6:15 م"
+  },
+  {
+    "home": "سبيزيا",
+    "homeLogo": "https://jdwel.com/image/teams/4732.png",
+    "away": "بيسكارا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_pescara.png",
+    "score": "2 - 1",
+    "time": "1:30 م"
+  },
+  {
+    "home": "يوفي ستابيا",
+    "homeLogo": "https://jdwel.com/image/teams/1117.png",
+    "away": "سودتيرول",
+    "awayLogo": "https://jdwel.com/image/teams/328.png",
+    "score": "1 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "فينيزيا",
+    "homeLogo": "https://jdwel.com/image/teams/3358.png",
+    "away": "فيرتوس إينتيلا",
+    "awayLogo": "https://jdwel.com/image/teams/3887.png",
+    "score": "1 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "سامبدوريا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_sampdoria.png",
+    "away": "ريجيانا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_reggiana.png",
+    "score": "2 - 1",
+    "time": "4:00 م"
+  },
+  {
+    "home": "كاراريسي",
+    "homeLogo": "https://jdwel.com/image/teams/1125.png",
+    "away": "مانتوفا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_mantova.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "كاتانزارو",
+    "homeLogo": "https://jdwel.com/image/teams/ita_catanzaro.png",
+    "away": "تشيزينا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_cesena.png",
+    "score": "2 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "إمبولي",
+    "homeLogo": "https://jdwel.com/image/teams/2046.png",
+    "away": "فروسينوني",
+    "awayLogo": "https://jdwel.com/image/teams/1124.png",
+    "score": "1 - 1",
+    "time": "4:00 م"
+  },
+  {
+    "home": "باليرمو",
+    "homeLogo": "https://jdwel.com/image/teams/1116.png",
+    "away": "كالتشيو بادوفا",
+    "awayLogo": "https://jdwel.com/image/teams/3888.png",
+    "score": "1 - 0",
+    "time": "6:15 م"
+  },
+  {
+    "home": "باري",
+    "homeLogo": "https://jdwel.com/image/teams/3133.png",
+    "away": "أفيلينو",
+    "awayLogo": "https://jdwel.com/image/teams/4736.png",
+    "score": "1 - 1",
+    "time": "8:30 م"
+  },
+  {
+    "home": "سودتيرول",
+    "homeLogo": "https://jdwel.com/image/teams/328.png",
+    "away": "سبيزيا",
+    "awayLogo": "https://jdwel.com/image/teams/4732.png",
+    "score": "2 - 1",
+    "time": "4:00 م"
+  },
+  {
+    "home": "فروسينوني",
+    "homeLogo": "https://jdwel.com/image/teams/1124.png",
+    "away": "كاتانزارو",
+    "awayLogo": "https://jdwel.com/image/teams/ita_catanzaro.png",
+    "score": "2 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "فيرتوس إينتيلا",
+    "homeLogo": "https://jdwel.com/image/teams/3887.png",
+    "away": "مونزا",
+    "awayLogo": "https://jdwel.com/image/teams/2152.png",
+    "score": "1 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "أفيلينو",
+    "homeLogo": "https://jdwel.com/image/teams/4736.png",
+    "away": "سامبدوريا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_sampdoria.png",
+    "score": "2 - 1",
+    "time": "4:00 م"
+  },
+  {
+    "home": "كاراريسي",
+    "homeLogo": "https://jdwel.com/image/teams/1125.png",
+    "away": "باري",
+    "awayLogo": "https://jdwel.com/image/teams/3133.png",
+    "score": "1 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "ريجيانا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_reggiana.png",
+    "away": "فينيزيا",
+    "awayLogo": "https://jdwel.com/image/teams/3358.png",
+    "score": "1 - 3",
+    "time": "4:00 م"
+  },
+  {
+    "home": "يوفي ستابيا",
+    "homeLogo": "https://jdwel.com/image/teams/1117.png",
+    "away": "بيسكارا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_pescara.png",
+    "score": "2 - 2",
+    "time": "6:15 م"
+  },
+  {
+    "home": "تشيزينا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_cesena.png",
+    "away": "إمبولي",
+    "awayLogo": "https://jdwel.com/image/teams/2046.png",
+    "score": "0 - 1",
+    "time": "8:30 م"
+  },
+  {
+    "home": "مانتوفا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_mantova.png",
+    "away": "باليرمو",
+    "awayLogo": "https://jdwel.com/image/teams/1116.png",
+    "score": "1 - 1",
+    "time": "4:00 م"
+  },
+  {
+    "home": "كالتشيو بادوفا",
+    "homeLogo": "https://jdwel.com/image/teams/3888.png",
+    "away": "مودينا",
+    "awayLogo": "https://jdwel.com/image/teams/1115.png",
+    "score": "2 - 0",
+    "time": "6:15 م"
+  },
+  {
+    "home": "سامبدوريا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_sampdoria.png",
+    "away": "فيرتوس إينتيلا",
+    "awayLogo": "https://jdwel.com/image/teams/3887.png",
+    "score": "1 - 1",
+    "time": "9:30 م"
+  },
+  {
+    "home": "مونزا",
+    "homeLogo": "https://jdwel.com/image/teams/2152.png",
+    "away": "فروسينوني",
+    "awayLogo": "https://jdwel.com/image/teams/1124.png",
+    "score": "2 - 2",
+    "time": "4:00 م"
+  },
+  {
+    "home": "أفيلينو",
+    "homeLogo": "https://jdwel.com/image/teams/4736.png",
+    "away": "كاراريسي",
+    "awayLogo": "https://jdwel.com/image/teams/1125.png",
+    "score": "1 - 2",
+    "time": "4:00 م"
+  },
+  {
+    "home": "كالتشيو بادوفا",
+    "homeLogo": "https://jdwel.com/image/teams/3888.png",
+    "away": "مانتوفا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_mantova.png",
+    "score": "1 - 2",
+    "time": "4:00 م"
+  },
+  {
+    "home": "فينيزيا",
+    "homeLogo": "https://jdwel.com/image/teams/3358.png",
+    "away": "كاتانزارو",
+    "awayLogo": "https://jdwel.com/image/teams/ita_catanzaro.png",
+    "score": "3 - 1",
+    "time": "4:00 م"
+  },
+  {
+    "home": "إمبولي",
+    "homeLogo": "https://jdwel.com/image/teams/2046.png",
+    "away": "سودتيرول",
+    "awayLogo": "https://jdwel.com/image/teams/328.png",
+    "score": "0 - 1",
+    "time": "4:00 م"
+  },
+  {
+    "home": "ريجيانا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_reggiana.png",
+    "away": "تشيزينا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_cesena.png",
+    "score": "1 - 2",
+    "time": "6:15 م"
+  },
+  {
+    "home": "باري",
+    "homeLogo": "https://jdwel.com/image/teams/3133.png",
+    "away": "يوفي ستابيا",
+    "awayLogo": "https://jdwel.com/image/teams/1117.png",
+    "score": "0 - 1",
+    "time": "8:30 م"
+  },
+  {
+    "home": "بيسكارا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_pescara.png",
+    "away": "مودينا",
+    "awayLogo": "https://jdwel.com/image/teams/1115.png",
+    "score": "0 - 2",
+    "time": "4:00 م"
+  },
+  {
+    "home": "باليرمو",
+    "homeLogo": "https://jdwel.com/image/teams/1116.png",
+    "away": "سبيزيا",
+    "awayLogo": "https://jdwel.com/image/teams/4732.png",
+    "score": "1 - 0",
+    "time": "6:15 م"
+  },
+  {
+    "home": "كاراريسي",
+    "homeLogo": "https://jdwel.com/image/teams/1125.png",
+    "away": "إمبولي",
+    "awayLogo": "https://jdwel.com/image/teams/2046.png",
+    "score": "3 - 0",
+    "time": "9:30 م"
+  },
+  {
+    "home": "تشيزينا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_cesena.png",
+    "away": "باري",
+    "awayLogo": "https://jdwel.com/image/teams/3133.png",
+    "score": "1 - 2",
+    "time": "4:00 م"
+  },
+  {
+    "home": "مونزا",
+    "homeLogo": "https://jdwel.com/image/teams/2152.png",
+    "away": "بيسكارا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_pescara.png",
+    "score": "3 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "يوفي ستابيا",
+    "homeLogo": "https://jdwel.com/image/teams/1117.png",
+    "away": "فيرتوس إينتيلا",
+    "awayLogo": "https://jdwel.com/image/teams/3887.png",
+    "score": "1 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "فروسينوني",
+    "homeLogo": "https://jdwel.com/image/teams/1124.png",
+    "away": "ريجيانا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_reggiana.png",
+    "score": "1 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "مانتوفا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_mantova.png",
+    "away": "فينيزيا",
+    "awayLogo": "https://jdwel.com/image/teams/3358.png",
+    "score": "2 - 5",
+    "time": "4:00 م"
+  },
+  {
+    "home": "مودينا",
+    "homeLogo": "https://jdwel.com/image/teams/1115.png",
+    "away": "باليرمو",
+    "awayLogo": "https://jdwel.com/image/teams/1116.png",
+    "score": "0 - 0",
+    "time": "6:15 م"
+  },
+  {
+    "home": "سبيزيا",
+    "homeLogo": "https://jdwel.com/image/teams/4732.png",
+    "away": "أفيلينو",
+    "awayLogo": "https://jdwel.com/image/teams/4736.png",
+    "score": "1 - 0",
+    "time": "8:30 م"
+  },
+  {
+    "home": "سودتيرول",
+    "homeLogo": "https://jdwel.com/image/teams/328.png",
+    "away": "كالتشيو بادوفا",
+    "awayLogo": "https://jdwel.com/image/teams/3888.png",
+    "score": "3 - 0",
+    "time": "5:30 م"
+  },
+  {
+    "home": "كاتانزارو",
+    "homeLogo": "https://jdwel.com/image/teams/ita_catanzaro.png",
+    "away": "سامبدوريا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_sampdoria.png",
+    "score": "0 - 0",
+    "time": "6:15 م"
+  },
+  {
+    "home": "باري",
+    "homeLogo": "https://jdwel.com/image/teams/3133.png",
+    "away": "باليرمو",
+    "awayLogo": "https://jdwel.com/image/teams/1116.png",
+    "score": "0 - 3",
+    "time": "9:30 م"
+  },
+  {
+    "home": "فيرتوس إينتيلا",
+    "homeLogo": "https://jdwel.com/image/teams/3887.png",
+    "away": "فروسينوني",
+    "awayLogo": "https://jdwel.com/image/teams/1124.png",
+    "score": "1 - 1",
+    "time": "4:00 م"
+  },
+  {
+    "home": "إمبولي",
+    "homeLogo": "https://jdwel.com/image/teams/2046.png",
+    "away": "مودينا",
+    "awayLogo": "https://jdwel.com/image/teams/1115.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "فينيزيا",
+    "homeLogo": "https://jdwel.com/image/teams/3358.png",
+    "away": "كاراريسي",
+    "awayLogo": "https://jdwel.com/image/teams/1125.png",
+    "score": "2 - 1",
+    "time": "4:00 م"
+  },
+  {
+    "home": "أفيلينو",
+    "homeLogo": "https://jdwel.com/image/teams/4736.png",
+    "away": "تشيزينا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_cesena.png",
+    "score": "3 - 1",
+    "time": "4:00 م"
+  },
+  {
+    "home": "سودتيرول",
+    "homeLogo": "https://jdwel.com/image/teams/328.png",
+    "away": "كاتانزارو",
+    "awayLogo": "https://jdwel.com/image/teams/ita_catanzaro.png",
+    "score": "2 - 1",
+    "time": "4:00 م"
+  },
+  {
+    "home": "بيسكارا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_pescara.png",
+    "away": "مانتوفا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_mantova.png",
+    "score": "2 - 2",
+    "time": "6:15 م"
+  },
+  {
+    "home": "سامبدوريا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_sampdoria.png",
+    "away": "سبيزيا",
+    "awayLogo": "https://jdwel.com/image/teams/4732.png",
+    "score": "1 - 0",
+    "time": "8:30 م"
+  },
+  {
+    "home": "ريجيانا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_reggiana.png",
+    "away": "يوفي ستابيا",
+    "awayLogo": "https://jdwel.com/image/teams/1117.png",
+    "score": "1 - 1",
+    "time": "4:00 م"
+  },
+  {
+    "home": "كالتشيو بادوفا",
+    "homeLogo": "https://jdwel.com/image/teams/3888.png",
+    "away": "مونزا",
+    "awayLogo": "https://jdwel.com/image/teams/2152.png",
+    "score": "1 - 2",
+    "time": "6:15 م"
+  },
+  {
+    "home": "تشيزينا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_cesena.png",
+    "away": "بيسكارا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_pescara.png",
+    "score": "0 - 0",
+    "time": "9:30 م"
+  },
+  {
+    "home": "مودينا",
+    "homeLogo": "https://jdwel.com/image/teams/1115.png",
+    "away": "سامبدوريا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_sampdoria.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "كاتانزارو",
+    "homeLogo": "https://jdwel.com/image/teams/ita_catanzaro.png",
+    "away": "ريجيانا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_reggiana.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "فروسينوني",
+    "homeLogo": "https://jdwel.com/image/teams/1124.png",
+    "away": "فينيزيا",
+    "awayLogo": "https://jdwel.com/image/teams/3358.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "يوفي ستابيا",
+    "homeLogo": "https://jdwel.com/image/teams/1117.png",
+    "away": "كالتشيو بادوفا",
+    "awayLogo": "https://jdwel.com/image/teams/3888.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "كاراريسي",
+    "homeLogo": "https://jdwel.com/image/teams/1125.png",
+    "away": "سودتيرول",
+    "awayLogo": "https://jdwel.com/image/teams/328.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "مانتوفا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_mantova.png",
+    "away": "باري",
+    "awayLogo": "https://jdwel.com/image/teams/3133.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "باليرمو",
+    "homeLogo": "https://jdwel.com/image/teams/1116.png",
+    "away": "إمبولي",
+    "awayLogo": "https://jdwel.com/image/teams/2046.png",
+    "score": "0 - 0",
+    "time": "6:15 م"
+  },
+  {
+    "home": "سبيزيا",
+    "homeLogo": "https://jdwel.com/image/teams/4732.png",
+    "away": "فيرتوس إينتيلا",
+    "awayLogo": "https://jdwel.com/image/teams/3887.png",
+    "score": "0 - 0",
+    "time": "8:30 م"
+  },
+  {
+    "home": "مونزا",
+    "homeLogo": "https://jdwel.com/image/teams/2152.png",
+    "away": "أفيلينو",
+    "awayLogo": "https://jdwel.com/image/teams/4736.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "سامبدوريا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_sampdoria.png",
+    "away": "باليرمو",
+    "awayLogo": "https://jdwel.com/image/teams/1116.png",
+    "score": "0 - 0",
+    "time": "8:00 م"
+  },
+  {
+    "home": "فينيزيا",
+    "homeLogo": "https://jdwel.com/image/teams/3358.png",
+    "away": "مودينا",
+    "awayLogo": "https://jdwel.com/image/teams/1115.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "كالتشيو بادوفا",
+    "homeLogo": "https://jdwel.com/image/teams/3888.png",
+    "away": "كاراريسي",
+    "awayLogo": "https://jdwel.com/image/teams/1125.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "بيسكارا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_pescara.png",
+    "away": "كاتانزارو",
+    "awayLogo": "https://jdwel.com/image/teams/ita_catanzaro.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "فيرتوس إينتيلا",
+    "homeLogo": "https://jdwel.com/image/teams/3887.png",
+    "away": "تشيزينا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_cesena.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "ريجيانا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_reggiana.png",
+    "away": "مانتوفا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_mantova.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "سودتيرول",
+    "homeLogo": "https://jdwel.com/image/teams/328.png",
+    "away": "مونزا",
+    "awayLogo": "https://jdwel.com/image/teams/2152.png",
+    "score": "0 - 0",
+    "time": "8:00 م"
+  },
+  {
+    "home": "إمبولي",
+    "homeLogo": "https://jdwel.com/image/teams/2046.png",
+    "away": "يوفي ستابيا",
+    "awayLogo": "https://jdwel.com/image/teams/1117.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "باري",
+    "homeLogo": "https://jdwel.com/image/teams/3133.png",
+    "away": "سبيزيا",
+    "awayLogo": "https://jdwel.com/image/teams/4732.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "أفيلينو",
+    "homeLogo": "https://jdwel.com/image/teams/4736.png",
+    "away": "فروسينوني",
+    "awayLogo": "https://jdwel.com/image/teams/1124.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "سامبدوريا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_sampdoria.png",
+    "away": "كالتشيو بادوفا",
+    "awayLogo": "https://jdwel.com/image/teams/3888.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "باليرمو",
+    "homeLogo": "https://jdwel.com/image/teams/1116.png",
+    "away": "فيرتوس إينتيلا",
+    "awayLogo": "https://jdwel.com/image/teams/3887.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "مودينا",
+    "homeLogo": "https://jdwel.com/image/teams/1115.png",
+    "away": "كاراريسي",
+    "awayLogo": "https://jdwel.com/image/teams/1125.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "كاتانزارو",
+    "homeLogo": "https://jdwel.com/image/teams/ita_catanzaro.png",
+    "away": "مانتوفا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_mantova.png",
+    "score": "0 - 0",
+    "time": "6:15 م"
+  },
+  {
+    "home": "تشيزينا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_cesena.png",
+    "away": "فينيزيا",
+    "awayLogo": "https://jdwel.com/image/teams/3358.png",
+    "score": "0 - 0",
+    "time": "8:30 م"
+  },
+  {
+    "home": "مونزا",
+    "homeLogo": "https://jdwel.com/image/teams/2152.png",
+    "away": "يوفي ستابيا",
+    "awayLogo": "https://jdwel.com/image/teams/1117.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "باري",
+    "homeLogo": "https://jdwel.com/image/teams/3133.png",
+    "away": "سودتيرول",
+    "awayLogo": "https://jdwel.com/image/teams/328.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "سبيزيا",
+    "homeLogo": "https://jdwel.com/image/teams/4732.png",
+    "away": "فروسينوني",
+    "awayLogo": "https://jdwel.com/image/teams/1124.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "إمبولي",
+    "homeLogo": "https://jdwel.com/image/teams/2046.png",
+    "away": "ريجيانا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_reggiana.png",
+    "score": "0 - 0",
+    "time": "6:15 م"
+  },
+  {
+    "home": "أفيلينو",
+    "homeLogo": "https://jdwel.com/image/teams/4736.png",
+    "away": "بيسكارا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_pescara.png",
+    "score": "0 - 0",
+    "time": "8:30 م"
+  },
+  {
+    "home": "فروسينوني",
+    "homeLogo": "https://jdwel.com/image/teams/1124.png",
+    "away": "إمبولي",
+    "awayLogo": "https://jdwel.com/image/teams/2046.png",
+    "score": "0 - 0",
+    "time": "9:30 م"
+  },
+  {
+    "home": "كالتشيو بادوفا",
+    "homeLogo": "https://jdwel.com/image/teams/3888.png",
+    "away": "باري",
+    "awayLogo": "https://jdwel.com/image/teams/3133.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "فينيزيا",
+    "homeLogo": "https://jdwel.com/image/teams/3358.png",
+    "away": "بيسكارا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_pescara.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "مانتوفا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_mantova.png",
+    "away": "سامبدوريا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_sampdoria.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "فيرتوس إينتيلا",
+    "homeLogo": "https://jdwel.com/image/teams/3887.png",
+    "away": "كاتانزارو",
+    "awayLogo": "https://jdwel.com/image/teams/ita_catanzaro.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "باليرمو",
+    "homeLogo": "https://jdwel.com/image/teams/1116.png",
+    "away": "سودتيرول",
+    "awayLogo": "https://jdwel.com/image/teams/328.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "تشيزينا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_cesena.png",
+    "away": "سبيزيا",
+    "awayLogo": "https://jdwel.com/image/teams/4732.png",
+    "score": "0 - 0",
+    "time": "6:15 م"
+  },
+  {
+    "home": "كاراريسي",
+    "homeLogo": "https://jdwel.com/image/teams/1125.png",
+    "away": "مونزا",
+    "awayLogo": "https://jdwel.com/image/teams/2152.png",
+    "score": "0 - 0",
+    "time": "8:30 م"
+  },
+  {
+    "home": "يوفي ستابيا",
+    "homeLogo": "https://jdwel.com/image/teams/1117.png",
+    "away": "مودينا",
+    "awayLogo": "https://jdwel.com/image/teams/1115.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "ريجيانا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_reggiana.png",
+    "away": "أفيلينو",
+    "awayLogo": "https://jdwel.com/image/teams/4736.png",
+    "score": "0 - 0",
+    "time": "6:15 م"
+  },
+  {
+    "home": "مونزا",
+    "homeLogo": "https://jdwel.com/image/teams/2152.png",
+    "away": "فيرتوس إينتيلا",
+    "awayLogo": "https://jdwel.com/image/teams/3887.png",
+    "score": "0 - 0",
+    "time": "8:00 م"
+  },
+  {
+    "home": "سامبدوريا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_sampdoria.png",
+    "away": "باري",
+    "awayLogo": "https://jdwel.com/image/teams/3133.png",
+    "score": "0 - 0",
+    "time": "10:00 م"
+  },
+  {
+    "home": "إمبولي",
+    "homeLogo": "https://jdwel.com/image/teams/2046.png",
+    "away": "تشيزينا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_cesena.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "مودينا",
+    "homeLogo": "https://jdwel.com/image/teams/1115.png",
+    "away": "كالتشيو بادوفا",
+    "awayLogo": "https://jdwel.com/image/teams/3888.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "سودتيرول",
+    "homeLogo": "https://jdwel.com/image/teams/328.png",
+    "away": "فينيزيا",
+    "awayLogo": "https://jdwel.com/image/teams/3358.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "سبيزيا",
+    "homeLogo": "https://jdwel.com/image/teams/4732.png",
+    "away": "ريجيانا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_reggiana.png",
+    "score": "0 - 0",
+    "time": "6:15 م"
+  },
+  {
+    "home": "أفيلينو",
+    "homeLogo": "https://jdwel.com/image/teams/4736.png",
+    "away": "يوفي ستابيا",
+    "awayLogo": "https://jdwel.com/image/teams/1117.png",
+    "score": "0 - 0",
+    "time": "8:30 م"
+  },
+  {
+    "home": "كاتانزارو",
+    "homeLogo": "https://jdwel.com/image/teams/ita_catanzaro.png",
+    "away": "فروسينوني",
+    "awayLogo": "https://jdwel.com/image/teams/1124.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "بيسكارا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_pescara.png",
+    "away": "باليرمو",
+    "awayLogo": "https://jdwel.com/image/teams/1116.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "مانتوفا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_mantova.png",
+    "away": "كاراريسي",
+    "awayLogo": "https://jdwel.com/image/teams/1125.png",
+    "score": "0 - 0",
+    "time": "6:15 م"
+  },
+  {
+    "home": "كالتشيو بادوفا",
+    "homeLogo": "https://jdwel.com/image/teams/3888.png",
+    "away": "سبيزيا",
+    "awayLogo": "https://jdwel.com/image/teams/4732.png",
+    "score": "0 - 0",
+    "time": "8:00 م"
+  },
+  {
+    "home": "فينيزيا",
+    "homeLogo": "https://jdwel.com/image/teams/3358.png",
+    "away": "أفيلينو",
+    "awayLogo": "https://jdwel.com/image/teams/4736.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "فيرتوس إينتيلا",
+    "homeLogo": "https://jdwel.com/image/teams/3887.png",
+    "away": "مودينا",
+    "awayLogo": "https://jdwel.com/image/teams/1115.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "ريجيانا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_reggiana.png",
+    "away": "سودتيرول",
+    "awayLogo": "https://jdwel.com/image/teams/328.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "تشيزينا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_cesena.png",
+    "away": "مونزا",
+    "awayLogo": "https://jdwel.com/image/teams/2152.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "كاراريسي",
+    "homeLogo": "https://jdwel.com/image/teams/1125.png",
+    "away": "كاتانزارو",
+    "awayLogo": "https://jdwel.com/image/teams/ita_catanzaro.png",
+    "score": "0 - 0",
+    "time": "8:00 م"
+  },
+  {
+    "home": "باري",
+    "homeLogo": "https://jdwel.com/image/teams/3133.png",
+    "away": "إمبولي",
+    "awayLogo": "https://jdwel.com/image/teams/2046.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "يوفي ستابيا",
+    "homeLogo": "https://jdwel.com/image/teams/1117.png",
+    "away": "سامبدوريا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_sampdoria.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "باليرمو",
+    "homeLogo": "https://jdwel.com/image/teams/1116.png",
+    "away": "مانتوفا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_mantova.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "فروسينوني",
+    "homeLogo": "https://jdwel.com/image/teams/1124.png",
+    "away": "بيسكارا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_pescara.png",
+    "score": "0 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "سبيزيا",
+    "homeLogo": "https://jdwel.com/image/teams/4732.png",
+    "away": "مونزا",
+    "awayLogo": "https://jdwel.com/image/teams/2152.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "أفيلينو",
+    "homeLogo": "https://jdwel.com/image/teams/4736.png",
+    "away": "كالتشيو بادوفا",
+    "awayLogo": "https://jdwel.com/image/teams/3888.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "سودتيرول",
+    "homeLogo": "https://jdwel.com/image/teams/328.png",
+    "away": "فيرتوس إينتيلا",
+    "awayLogo": "https://jdwel.com/image/teams/3887.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "فينيزيا",
+    "homeLogo": "https://jdwel.com/image/teams/3358.png",
+    "away": "ريجيانا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_reggiana.png",
+    "score": "0 - 0",
+    "time": "6:15 م"
+  },
+  {
+    "home": "مودينا",
+    "homeLogo": "https://jdwel.com/image/teams/1115.png",
+    "away": "تشيزينا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_cesena.png",
+    "score": "0 - 0",
+    "time": "8:30 م"
+  },
+  {
+    "home": "فروسينوني",
+    "homeLogo": "https://jdwel.com/image/teams/1124.png",
+    "away": "سامبدوريا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_sampdoria.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "كاتانزارو",
+    "homeLogo": "https://jdwel.com/image/teams/ita_catanzaro.png",
+    "away": "إمبولي",
+    "awayLogo": "https://jdwel.com/image/teams/2046.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "مانتوفا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_mantova.png",
+    "away": "يوفي ستابيا",
+    "awayLogo": "https://jdwel.com/image/teams/1117.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "كاراريسي",
+    "homeLogo": "https://jdwel.com/image/teams/1125.png",
+    "away": "باليرمو",
+    "awayLogo": "https://jdwel.com/image/teams/1116.png",
+    "score": "0 - 0",
+    "time": "6:15 م"
+  },
+  {
+    "home": "بيسكارا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_pescara.png",
+    "away": "باري",
+    "awayLogo": "https://jdwel.com/image/teams/3133.png",
+    "score": "0 - 0",
+    "time": "8:30 م"
+  },
+  {
+    "home": "سامبدوريا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_sampdoria.png",
+    "away": "فينيزيا",
+    "awayLogo": "https://jdwel.com/image/teams/3358.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "باري",
+    "homeLogo": "https://jdwel.com/image/teams/3133.png",
+    "away": "ريجيانا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_reggiana.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "إمبولي",
+    "homeLogo": "https://jdwel.com/image/teams/2046.png",
+    "away": "مانتوفا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_mantova.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "مودينا",
+    "homeLogo": "https://jdwel.com/image/teams/1115.png",
+    "away": "سبيزيا",
+    "awayLogo": "https://jdwel.com/image/teams/4732.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "كالتشيو بادوفا",
+    "homeLogo": "https://jdwel.com/image/teams/3888.png",
+    "away": "كاتانزارو",
+    "awayLogo": "https://jdwel.com/image/teams/ita_catanzaro.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "سودتيرول",
+    "homeLogo": "https://jdwel.com/image/teams/328.png",
+    "away": "بيسكارا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_pescara.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "مونزا",
+    "homeLogo": "https://jdwel.com/image/teams/2152.png",
+    "away": "باليرمو",
+    "awayLogo": "https://jdwel.com/image/teams/1116.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "فيرتوس إينتيلا",
+    "homeLogo": "https://jdwel.com/image/teams/3887.png",
+    "away": "أفيلينو",
+    "awayLogo": "https://jdwel.com/image/teams/4736.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "يوفي ستابيا",
+    "homeLogo": "https://jdwel.com/image/teams/1117.png",
+    "away": "كاراريسي",
+    "awayLogo": "https://jdwel.com/image/teams/1125.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "تشيزينا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_cesena.png",
+    "away": "فروسينوني",
+    "awayLogo": "https://jdwel.com/image/teams/1124.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "فينيزيا",
+    "homeLogo": "https://jdwel.com/image/teams/3358.png",
+    "away": "كالتشيو بادوفا",
+    "awayLogo": "https://jdwel.com/image/teams/3888.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "كاراريسي",
+    "homeLogo": "https://jdwel.com/image/teams/1125.png",
+    "away": "سامبدوريا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_sampdoria.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "مانتوفا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_mantova.png",
+    "away": "تشيزينا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_cesena.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "بيسكارا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_pescara.png",
+    "away": "فيرتوس إينتيلا",
+    "awayLogo": "https://jdwel.com/image/teams/3887.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "سبيزيا",
+    "homeLogo": "https://jdwel.com/image/teams/4732.png",
+    "away": "إمبولي",
+    "awayLogo": "https://jdwel.com/image/teams/2046.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "فروسينوني",
+    "homeLogo": "https://jdwel.com/image/teams/1124.png",
+    "away": "باري",
+    "awayLogo": "https://jdwel.com/image/teams/3133.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "باليرمو",
+    "homeLogo": "https://jdwel.com/image/teams/1116.png",
+    "away": "يوفي ستابيا",
+    "awayLogo": "https://jdwel.com/image/teams/1117.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "ريجيانا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_reggiana.png",
+    "away": "مونزا",
+    "awayLogo": "https://jdwel.com/image/teams/2152.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "كاتانزارو",
+    "homeLogo": "https://jdwel.com/image/teams/ita_catanzaro.png",
+    "away": "مودينا",
+    "awayLogo": "https://jdwel.com/image/teams/1115.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "أفيلينو",
+    "homeLogo": "https://jdwel.com/image/teams/4736.png",
+    "away": "سودتيرول",
+    "awayLogo": "https://jdwel.com/image/teams/328.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "كالتشيو بادوفا",
+    "homeLogo": "https://jdwel.com/image/teams/3888.png",
+    "away": "باليرمو",
+    "awayLogo": "https://jdwel.com/image/teams/1116.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "مودينا",
+    "homeLogo": "https://jdwel.com/image/teams/1115.png",
+    "away": "مانتوفا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_mantova.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "باري",
+    "homeLogo": "https://jdwel.com/image/teams/3133.png",
+    "away": "كاراريسي",
+    "awayLogo": "https://jdwel.com/image/teams/1125.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "سامبدوريا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_sampdoria.png",
+    "away": "أفيلينو",
+    "awayLogo": "https://jdwel.com/image/teams/4736.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "تشيزينا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_cesena.png",
+    "away": "كاتانزارو",
+    "awayLogo": "https://jdwel.com/image/teams/ita_catanzaro.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "سودتيرول",
+    "homeLogo": "https://jdwel.com/image/teams/328.png",
+    "away": "فروسينوني",
+    "awayLogo": "https://jdwel.com/image/teams/1124.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "مونزا",
+    "homeLogo": "https://jdwel.com/image/teams/2152.png",
+    "away": "فينيزيا",
+    "awayLogo": "https://jdwel.com/image/teams/3358.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "إمبولي",
+    "homeLogo": "https://jdwel.com/image/teams/2046.png",
+    "away": "بيسكارا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_pescara.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "يوفي ستابيا",
+    "homeLogo": "https://jdwel.com/image/teams/1117.png",
+    "away": "سبيزيا",
+    "awayLogo": "https://jdwel.com/image/teams/4732.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "فيرتوس إينتيلا",
+    "homeLogo": "https://jdwel.com/image/teams/3887.png",
+    "away": "ريجيانا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_reggiana.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "ريجيانا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_reggiana.png",
+    "away": "بيسكارا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_pescara.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "فينيزيا",
+    "homeLogo": "https://jdwel.com/image/teams/3358.png",
+    "away": "يوفي ستابيا",
+    "awayLogo": "https://jdwel.com/image/teams/1117.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "تشيزينا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_cesena.png",
+    "away": "سودتيرول",
+    "awayLogo": "https://jdwel.com/image/teams/328.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "سامبدوريا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_sampdoria.png",
+    "away": "إمبولي",
+    "awayLogo": "https://jdwel.com/image/teams/2046.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "كاتانزارو",
+    "homeLogo": "https://jdwel.com/image/teams/ita_catanzaro.png",
+    "away": "مونزا",
+    "awayLogo": "https://jdwel.com/image/teams/2152.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "باليرمو",
+    "homeLogo": "https://jdwel.com/image/teams/1116.png",
+    "away": "أفيلينو",
+    "awayLogo": "https://jdwel.com/image/teams/4736.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "كاراريسي",
+    "homeLogo": "https://jdwel.com/image/teams/1125.png",
+    "away": "سبيزيا",
+    "awayLogo": "https://jdwel.com/image/teams/4732.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "فروسينوني",
+    "homeLogo": "https://jdwel.com/image/teams/1124.png",
+    "away": "كالتشيو بادوفا",
+    "awayLogo": "https://jdwel.com/image/teams/3888.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "باري",
+    "homeLogo": "https://jdwel.com/image/teams/3133.png",
+    "away": "مودينا",
+    "awayLogo": "https://jdwel.com/image/teams/1115.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "مانتوفا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_mantova.png",
+    "away": "فيرتوس إينتيلا",
+    "awayLogo": "https://jdwel.com/image/teams/3887.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "كالتشيو بادوفا",
+    "homeLogo": "https://jdwel.com/image/teams/3888.png",
+    "away": "إمبولي",
+    "awayLogo": "https://jdwel.com/image/teams/2046.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "سودتيرول",
+    "homeLogo": "https://jdwel.com/image/teams/328.png",
+    "away": "مودينا",
+    "awayLogo": "https://jdwel.com/image/teams/1115.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "فيرتوس إينتيلا",
+    "homeLogo": "https://jdwel.com/image/teams/3887.png",
+    "away": "فينيزيا",
+    "awayLogo": "https://jdwel.com/image/teams/3358.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "بيسكارا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_pescara.png",
+    "away": "سامبدوريا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_sampdoria.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "يوفي ستابيا",
+    "homeLogo": "https://jdwel.com/image/teams/1117.png",
+    "away": "تشيزينا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_cesena.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "فروسينوني",
+    "homeLogo": "https://jdwel.com/image/teams/1124.png",
+    "away": "باليرمو",
+    "awayLogo": "https://jdwel.com/image/teams/1116.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "أفيلينو",
+    "homeLogo": "https://jdwel.com/image/teams/4736.png",
+    "away": "كاتانزارو",
+    "awayLogo": "https://jdwel.com/image/teams/ita_catanzaro.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "سبيزيا",
+    "homeLogo": "https://jdwel.com/image/teams/4732.png",
+    "away": "مانتوفا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_mantova.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "ريجيانا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_reggiana.png",
+    "away": "كاراريسي",
+    "awayLogo": "https://jdwel.com/image/teams/1125.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "مونزا",
+    "homeLogo": "https://jdwel.com/image/teams/2152.png",
+    "away": "باري",
+    "awayLogo": "https://jdwel.com/image/teams/3133.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "باري",
+    "homeLogo": "https://jdwel.com/image/teams/3133.png",
+    "away": "فينيزيا",
+    "awayLogo": "https://jdwel.com/image/teams/3358.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "مودينا",
+    "homeLogo": "https://jdwel.com/image/teams/1115.png",
+    "away": "فروسينوني",
+    "awayLogo": "https://jdwel.com/image/teams/1124.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "مانتوفا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_mantova.png",
+    "away": "أفيلينو",
+    "awayLogo": "https://jdwel.com/image/teams/4736.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "باليرمو",
+    "homeLogo": "https://jdwel.com/image/teams/1116.png",
+    "away": "تشيزينا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_cesena.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "سبيزيا",
+    "homeLogo": "https://jdwel.com/image/teams/4732.png",
+    "away": "سودتيرول",
+    "awayLogo": "https://jdwel.com/image/teams/328.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "يوفي ستابيا",
+    "homeLogo": "https://jdwel.com/image/teams/1117.png",
+    "away": "كاتانزارو",
+    "awayLogo": "https://jdwel.com/image/teams/ita_catanzaro.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "كاراريسي",
+    "homeLogo": "https://jdwel.com/image/teams/1125.png",
+    "away": "بيسكارا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_pescara.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "كالتشيو بادوفا",
+    "homeLogo": "https://jdwel.com/image/teams/3888.png",
+    "away": "ريجيانا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_reggiana.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "إمبولي",
+    "homeLogo": "https://jdwel.com/image/teams/2046.png",
+    "away": "فيرتوس إينتيلا",
+    "awayLogo": "https://jdwel.com/image/teams/3887.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "سامبدوريا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_sampdoria.png",
+    "away": "مونزا",
+    "awayLogo": "https://jdwel.com/image/teams/2152.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "تشيزينا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_cesena.png",
+    "away": "سامبدوريا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_sampdoria.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "ريجيانا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_reggiana.png",
+    "away": "باليرمو",
+    "awayLogo": "https://jdwel.com/image/teams/1116.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "فينيزيا",
+    "homeLogo": "https://jdwel.com/image/teams/3358.png",
+    "away": "إمبولي",
+    "awayLogo": "https://jdwel.com/image/teams/2046.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "سودتيرول",
+    "homeLogo": "https://jdwel.com/image/teams/328.png",
+    "away": "مانتوفا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_mantova.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "أفيلينو",
+    "homeLogo": "https://jdwel.com/image/teams/4736.png",
+    "away": "باري",
+    "awayLogo": "https://jdwel.com/image/teams/3133.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "كاتانزارو",
+    "homeLogo": "https://jdwel.com/image/teams/ita_catanzaro.png",
+    "away": "سبيزيا",
+    "awayLogo": "https://jdwel.com/image/teams/4732.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "مونزا",
+    "homeLogo": "https://jdwel.com/image/teams/2152.png",
+    "away": "مودينا",
+    "awayLogo": "https://jdwel.com/image/teams/1115.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "بيسكارا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_pescara.png",
+    "away": "يوفي ستابيا",
+    "awayLogo": "https://jdwel.com/image/teams/1117.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "فيرتوس إينتيلا",
+    "homeLogo": "https://jdwel.com/image/teams/3887.png",
+    "away": "كالتشيو بادوفا",
+    "awayLogo": "https://jdwel.com/image/teams/3888.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "فروسينوني",
+    "homeLogo": "https://jdwel.com/image/teams/1124.png",
+    "away": "كاراريسي",
+    "awayLogo": "https://jdwel.com/image/teams/1125.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "باليرمو",
+    "homeLogo": "https://jdwel.com/image/teams/1116.png",
+    "away": "كاتانزارو",
+    "awayLogo": "https://jdwel.com/image/teams/ita_catanzaro.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "يوفي ستابيا",
+    "homeLogo": "https://jdwel.com/image/teams/1117.png",
+    "away": "فروسينوني",
+    "awayLogo": "https://jdwel.com/image/teams/1124.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "سامبدوريا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_sampdoria.png",
+    "away": "سودتيرول",
+    "awayLogo": "https://jdwel.com/image/teams/328.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "كاراريسي",
+    "homeLogo": "https://jdwel.com/image/teams/1125.png",
+    "away": "تشيزينا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_cesena.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "سبيزيا",
+    "homeLogo": "https://jdwel.com/image/teams/4732.png",
+    "away": "فينيزيا",
+    "awayLogo": "https://jdwel.com/image/teams/3358.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "مانتوفا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_mantova.png",
+    "away": "مونزا",
+    "awayLogo": "https://jdwel.com/image/teams/2152.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "مودينا",
+    "homeLogo": "https://jdwel.com/image/teams/1115.png",
+    "away": "ريجيانا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_reggiana.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "باري",
+    "homeLogo": "https://jdwel.com/image/teams/3133.png",
+    "away": "فيرتوس إينتيلا",
+    "awayLogo": "https://jdwel.com/image/teams/3887.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "إمبولي",
+    "homeLogo": "https://jdwel.com/image/teams/2046.png",
+    "away": "أفيلينو",
+    "awayLogo": "https://jdwel.com/image/teams/4736.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "كالتشيو بادوفا",
+    "homeLogo": "https://jdwel.com/image/teams/3888.png",
+    "away": "بيسكارا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_pescara.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "بيسكارا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_pescara.png",
+    "away": "سبيزيا",
+    "awayLogo": "https://jdwel.com/image/teams/4732.png",
+    "score": "0 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "أفيلينو",
+    "homeLogo": "https://jdwel.com/image/teams/4736.png",
+    "away": "مودينا",
+    "awayLogo": "https://jdwel.com/image/teams/1115.png",
+    "score": "0 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "فيرتوس إينتيلا",
+    "homeLogo": "https://jdwel.com/image/teams/3887.png",
+    "away": "كاراريسي",
+    "awayLogo": "https://jdwel.com/image/teams/1125.png",
+    "score": "0 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "سودتيرول",
+    "homeLogo": "https://jdwel.com/image/teams/328.png",
+    "away": "يوفي ستابيا",
+    "awayLogo": "https://jdwel.com/image/teams/1117.png",
+    "score": "0 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "فينيزيا",
+    "homeLogo": "https://jdwel.com/image/teams/3358.png",
+    "away": "باليرمو",
+    "awayLogo": "https://jdwel.com/image/teams/1116.png",
+    "score": "0 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "تشيزينا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_cesena.png",
+    "away": "كالتشيو بادوفا",
+    "awayLogo": "https://jdwel.com/image/teams/3888.png",
+    "score": "0 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "ريجيانا",
+    "homeLogo": "https://jdwel.com/image/teams/ita_reggiana.png",
+    "away": "سامبدوريا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_sampdoria.png",
+    "score": "0 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "مونزا",
+    "homeLogo": "https://jdwel.com/image/teams/2152.png",
+    "away": "إمبولي",
+    "awayLogo": "https://jdwel.com/image/teams/2046.png",
+    "score": "0 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "فروسينوني",
+    "homeLogo": "https://jdwel.com/image/teams/1124.png",
+    "away": "مانتوفا",
+    "awayLogo": "https://jdwel.com/image/teams/ita_mantova.png",
+    "score": "0 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "كاتانزارو",
+    "homeLogo": "https://jdwel.com/image/teams/ita_catanzaro.png",
+    "away": "باري",
+    "awayLogo": "https://jdwel.com/image/teams/3133.png",
+    "score": "0 - 0",
+    "time": "6:00 م"
+  }
+]

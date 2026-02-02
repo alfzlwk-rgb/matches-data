@@ -1,0 +1,938 @@
+[
+  {
+    "home": "ويسترن سيدني وانديريرز",
+    "homeLogo": "https://jdwel.com/image/teams/1003.png",
+    "away": "بيرث غلوري",
+    "awayLogo": "https://jdwel.com/image/teams/1811.png",
+    "score": "1 - 3",
+    "time": "11:15 ص"
+  },
+  {
+    "home": "سيدني",
+    "homeLogo": "https://jdwel.com/image/teams/1046.png",
+    "away": "ميلبورن سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/aus_melbourne_city.png",
+    "score": "2 - 2",
+    "time": "5:15 ص"
+  },
+  {
+    "home": "بريزبان روار",
+    "homeLogo": "https://jdwel.com/image/teams/aus_brisbane_roar.png",
+    "away": "ميلبورن فيكتوري",
+    "awayLogo": "https://jdwel.com/image/teams/1766.png",
+    "score": "3 - 2",
+    "time": "8:20 ص"
+  },
+  {
+    "home": "سنترال كوست مارينرز",
+    "homeLogo": "https://jdwel.com/image/teams/1254.png",
+    "away": "أديلايد يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/1765.png",
+    "score": "3 - 0",
+    "time": "5:15 ص"
+  },
+  {
+    "home": "كانبيرا يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/1812.png",
+    "away": "نيوكاسل جيتس",
+    "awayLogo": "https://jdwel.com/image/teams/aus_newcastle_jets.png",
+    "score": "1 - 2",
+    "time": "7:00 ص"
+  },
+  {
+    "home": "بيرث غلوري",
+    "homeLogo": "https://jdwel.com/image/teams/1811.png",
+    "away": "بريزبان روار",
+    "awayLogo": "https://jdwel.com/image/teams/aus_brisbane_roar.png",
+    "score": "2 - 3",
+    "time": "10:00 ص"
+  },
+  {
+    "home": "ولينغتون فينيكس",
+    "homeLogo": "https://jdwel.com/image/teams/2045.png",
+    "away": "كانبيرا يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/1812.png",
+    "score": "1 - 1",
+    "time": "5:00 ص"
+  },
+  {
+    "home": "ميلبورن سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/aus_melbourne_city.png",
+    "away": "سنترال كوست مارينرز",
+    "awayLogo": "https://jdwel.com/image/teams/1254.png",
+    "score": "4 - 0",
+    "time": "6:00 ص"
+  },
+  {
+    "home": "أديلايد يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/1765.png",
+    "away": "سيدني",
+    "awayLogo": "https://jdwel.com/image/teams/1046.png",
+    "score": "0 - 0",
+    "time": "7:00 ص"
+  },
+  {
+    "home": "ويسترن سيدني وانديريرز",
+    "homeLogo": "https://jdwel.com/image/teams/1003.png",
+    "away": "ميلبورن فيكتوري",
+    "awayLogo": "https://jdwel.com/image/teams/1766.png",
+    "score": "1 - 4",
+    "time": "7:00 ص"
+  },
+  {
+    "home": "أديلايد يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/1765.png",
+    "away": "كانبيرا يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/1812.png",
+    "score": "2 - 1",
+    "time": "10:00 ص"
+  },
+  {
+    "home": "سيدني",
+    "homeLogo": "https://jdwel.com/image/teams/1046.png",
+    "away": "بيرث غلوري",
+    "awayLogo": "https://jdwel.com/image/teams/1811.png",
+    "score": "2 - 0",
+    "time": "5:45 ص"
+  },
+  {
+    "home": "ميلبورن فيكتوري",
+    "homeLogo": "https://jdwel.com/image/teams/1766.png",
+    "away": "سنترال كوست مارينرز",
+    "awayLogo": "https://jdwel.com/image/teams/1254.png",
+    "score": "1 - 0",
+    "time": "8:00 ص"
+  },
+  {
+    "home": "ولينغتون فينيكس",
+    "homeLogo": "https://jdwel.com/image/teams/2045.png",
+    "away": "نيوكاسل جيتس",
+    "awayLogo": "https://jdwel.com/image/teams/aus_newcastle_jets.png",
+    "score": "1 - 1",
+    "time": "5:00 ص"
+  },
+  {
+    "home": "بريزبان روار",
+    "homeLogo": "https://jdwel.com/image/teams/aus_brisbane_roar.png",
+    "away": "ويسترن سيدني وانديريرز",
+    "awayLogo": "https://jdwel.com/image/teams/1003.png",
+    "score": "0 - 1",
+    "time": "7:00 ص"
+  },
+  {
+    "home": "نيوكاسل جيتس",
+    "homeLogo": "https://jdwel.com/image/teams/aus_newcastle_jets.png",
+    "away": "ويسترن سيدني وانديريرز",
+    "awayLogo": "https://jdwel.com/image/teams/1003.png",
+    "score": "1 - 0",
+    "time": "6:00 ص"
+  },
+  {
+    "home": "كانبيرا يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/1812.png",
+    "away": "بيرث غلوري",
+    "awayLogo": "https://jdwel.com/image/teams/1811.png",
+    "score": "3 - 0",
+    "time": "7:00 ص"
+  },
+  {
+    "home": "ولينغتون فينيكس",
+    "homeLogo": "https://jdwel.com/image/teams/2045.png",
+    "away": "ميلبورن فيكتوري",
+    "awayLogo": "https://jdwel.com/image/teams/1766.png",
+    "score": "1 - 0",
+    "time": "5:00 ص"
+  },
+  {
+    "home": "سيدني",
+    "homeLogo": "https://jdwel.com/image/teams/1046.png",
+    "away": "سنترال كوست مارينرز",
+    "awayLogo": "https://jdwel.com/image/teams/1254.png",
+    "score": "1 - 0",
+    "time": "7:00 ص"
+  },
+  {
+    "home": "ميلبورن فيكتوري",
+    "homeLogo": "https://jdwel.com/image/teams/1766.png",
+    "away": "بيرث غلوري",
+    "awayLogo": "https://jdwel.com/image/teams/1811.png",
+    "score": "3 - 0",
+    "time": "7:15 ص"
+  },
+  {
+    "home": "ميلبورن فيكتوري",
+    "homeLogo": "https://jdwel.com/image/teams/1766.png",
+    "away": "كانبيرا يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/1812.png",
+    "score": "1 - 3",
+    "time": "10:00 ص"
+  },
+  {
+    "home": "ميلبورن سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/aus_melbourne_city.png",
+    "away": "ولينغتون فينيكس",
+    "awayLogo": "https://jdwel.com/image/teams/2045.png",
+    "score": "1 - 0",
+    "time": "6:00 ص"
+  },
+  {
+    "home": "أديلايد يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/1765.png",
+    "away": "بريزبان روار",
+    "awayLogo": "https://jdwel.com/image/teams/aus_brisbane_roar.png",
+    "score": "1 - 3",
+    "time": "7:50 ص"
+  },
+  {
+    "home": "ويسترن سيدني وانديريرز",
+    "homeLogo": "https://jdwel.com/image/teams/1003.png",
+    "away": "سيدني",
+    "awayLogo": "https://jdwel.com/image/teams/1046.png",
+    "score": "0 - 0",
+    "time": "8:00 ص"
+  },
+  {
+    "home": "سنترال كوست مارينرز",
+    "homeLogo": "https://jdwel.com/image/teams/1254.png",
+    "away": "نيوكاسل جيتس",
+    "awayLogo": "https://jdwel.com/image/teams/aus_newcastle_jets.png",
+    "score": "4 - 1",
+    "time": "10:00 ص"
+  },
+  {
+    "home": "كانبيرا يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/1812.png",
+    "away": "سيدني",
+    "awayLogo": "https://jdwel.com/image/teams/1046.png",
+    "score": "2 - 0",
+    "time": "8:00 ص"
+  },
+  {
+    "home": "بيرث غلوري",
+    "homeLogo": "https://jdwel.com/image/teams/1811.png",
+    "away": "ولينغتون فينيكس",
+    "awayLogo": "https://jdwel.com/image/teams/2045.png",
+    "score": "1 - 0",
+    "time": "1:00 م"
+  },
+  {
+    "home": "نيوكاسل جيتس",
+    "homeLogo": "https://jdwel.com/image/teams/aus_newcastle_jets.png",
+    "away": "بريزبان روار",
+    "awayLogo": "https://jdwel.com/image/teams/aus_brisbane_roar.png",
+    "score": "3 - 0",
+    "time": "5:00 ص"
+  },
+  {
+    "home": "ميلبورن فيكتوري",
+    "homeLogo": "https://jdwel.com/image/teams/1766.png",
+    "away": "أديلايد يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/1765.png",
+    "score": "1 - 0",
+    "time": "7:50 ص"
+  },
+  {
+    "home": "كانبيرا يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/1812.png",
+    "away": "ميلبورن سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/aus_melbourne_city.png",
+    "score": "2 - 1",
+    "time": "8:30 ص"
+  },
+  {
+    "home": "ويسترن سيدني وانديريرز",
+    "homeLogo": "https://jdwel.com/image/teams/1003.png",
+    "away": "سنترال كوست مارينرز",
+    "awayLogo": "https://jdwel.com/image/teams/1254.png",
+    "score": "1 - 2",
+    "time": "10:00 ص"
+  },
+  {
+    "home": "نيوكاسل جيتس",
+    "homeLogo": "https://jdwel.com/image/teams/aus_newcastle_jets.png",
+    "away": "ميلبورن فيكتوري",
+    "awayLogo": "https://jdwel.com/image/teams/1766.png",
+    "score": "1 - 3",
+    "time": "10:00 ص"
+  },
+  {
+    "home": "ولينغتون فينيكس",
+    "homeLogo": "https://jdwel.com/image/teams/2045.png",
+    "away": "سيدني",
+    "awayLogo": "https://jdwel.com/image/teams/1046.png",
+    "score": "7 - 0",
+    "time": "5:00 ص"
+  },
+  {
+    "home": "كانبيرا يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/1812.png",
+    "away": "سنترال كوست مارينرز",
+    "awayLogo": "https://jdwel.com/image/teams/1254.png",
+    "score": "1 - 1",
+    "time": "8:00 ص"
+  },
+  {
+    "home": "بيرث غلوري",
+    "homeLogo": "https://jdwel.com/image/teams/1811.png",
+    "away": "أديلايد يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/1765.png",
+    "score": "1 - 0",
+    "time": "11:00 ص"
+  },
+  {
+    "home": "ميلبورن سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/aus_melbourne_city.png",
+    "away": "ميلبورن فيكتوري",
+    "awayLogo": "https://jdwel.com/image/teams/1766.png",
+    "score": "2 - 1",
+    "time": "7:30 ص"
+  },
+  {
+    "home": "أديلايد يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/1765.png",
+    "away": "ويسترن سيدني وانديريرز",
+    "awayLogo": "https://jdwel.com/image/teams/1003.png",
+    "score": "5 - 2",
+    "time": "7:50 ص"
+  },
+  {
+    "home": "سنترال كوست مارينرز",
+    "homeLogo": "https://jdwel.com/image/teams/1254.png",
+    "away": "ميلبورن فيكتوري",
+    "awayLogo": "https://jdwel.com/image/teams/1766.png",
+    "score": "3 - 3",
+    "time": "8:00 ص"
+  },
+  {
+    "home": "نيوكاسل جيتس",
+    "homeLogo": "https://jdwel.com/image/teams/aus_newcastle_jets.png",
+    "away": "كانبيرا يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/1812.png",
+    "score": "0 - 1",
+    "time": "9:00 ص"
+  },
+  {
+    "home": "ميلبورن سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/aus_melbourne_city.png",
+    "away": "بيرث غلوري",
+    "awayLogo": "https://jdwel.com/image/teams/1811.png",
+    "score": "3 - 1",
+    "time": "7:15 ص"
+  },
+  {
+    "home": "ويسترن سيدني وانديريرز",
+    "homeLogo": "https://jdwel.com/image/teams/1003.png",
+    "away": "ولينغتون فينيكس",
+    "awayLogo": "https://jdwel.com/image/teams/2045.png",
+    "score": "0 - 3",
+    "time": "10:00 ص"
+  },
+  {
+    "home": "سنترال كوست مارينرز",
+    "homeLogo": "https://jdwel.com/image/teams/1254.png",
+    "away": "بريزبان روار",
+    "awayLogo": "https://jdwel.com/image/teams/aus_brisbane_roar.png",
+    "score": "3 - 2",
+    "time": "7:15 ص"
+  },
+  {
+    "home": "ويسترن سيدني وانديريرز",
+    "homeLogo": "https://jdwel.com/image/teams/1003.png",
+    "away": "كانبيرا يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/1812.png",
+    "score": "1 - 1",
+    "time": "8:00 ص"
+  },
+  {
+    "home": "بريزبان روار",
+    "homeLogo": "https://jdwel.com/image/teams/aus_brisbane_roar.png",
+    "away": "ولينغتون فينيكس",
+    "awayLogo": "https://jdwel.com/image/teams/2045.png",
+    "score": "2 - 2",
+    "time": "10:45 ص"
+  },
+  {
+    "home": "بيرث غلوري",
+    "homeLogo": "https://jdwel.com/image/teams/1811.png",
+    "away": "نيوكاسل جيتس",
+    "awayLogo": "https://jdwel.com/image/teams/aus_newcastle_jets.png",
+    "score": "1 - 0",
+    "time": "12:00 م"
+  },
+  {
+    "home": "أديلايد يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/1765.png",
+    "away": "سنترال كوست مارينرز",
+    "awayLogo": "https://jdwel.com/image/teams/1254.png",
+    "score": "1 - 0",
+    "time": "7:50 ص"
+  },
+  {
+    "home": "ميلبورن سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/aus_melbourne_city.png",
+    "away": "سيدني",
+    "awayLogo": "https://jdwel.com/image/teams/1046.png",
+    "score": "1 - 0",
+    "time": "8:00 ص"
+  },
+  {
+    "home": "سيدني",
+    "homeLogo": "https://jdwel.com/image/teams/1046.png",
+    "away": "أديلايد يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/1765.png",
+    "score": "0 - 0",
+    "time": "10:00 ص"
+  },
+  {
+    "home": "بيرث غلوري",
+    "homeLogo": "https://jdwel.com/image/teams/1811.png",
+    "away": "ويسترن سيدني وانديريرز",
+    "awayLogo": "https://jdwel.com/image/teams/1003.png",
+    "score": "3 - 1",
+    "time": "1:00 م"
+  },
+  {
+    "home": "ولينغتون فينيكس",
+    "homeLogo": "https://jdwel.com/image/teams/2045.png",
+    "away": "ميلبورن سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/aus_melbourne_city.png",
+    "score": "1 - 2",
+    "time": "5:00 ص"
+  },
+  {
+    "home": "نيوكاسل جيتس",
+    "homeLogo": "https://jdwel.com/image/teams/aus_newcastle_jets.png",
+    "away": "سنترال كوست مارينرز",
+    "awayLogo": "https://jdwel.com/image/teams/1254.png",
+    "score": "1 - 2",
+    "time": "10:00 ص"
+  },
+  {
+    "home": "ميلبورن فيكتوري",
+    "homeLogo": "https://jdwel.com/image/teams/1766.png",
+    "away": "بريزبان روار",
+    "awayLogo": "https://jdwel.com/image/teams/aus_brisbane_roar.png",
+    "score": "0 - 1",
+    "time": "8:00 ص"
+  },
+  {
+    "home": "سيدني",
+    "homeLogo": "https://jdwel.com/image/teams/1046.png",
+    "away": "نيوكاسل جيتس",
+    "awayLogo": "https://jdwel.com/image/teams/aus_newcastle_jets.png",
+    "score": "1 - 2",
+    "time": "10:00 ص"
+  },
+  {
+    "home": "ميلبورن سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/aus_melbourne_city.png",
+    "away": "نيوكاسل جيتس",
+    "awayLogo": "https://jdwel.com/image/teams/aus_newcastle_jets.png",
+    "score": "1 - 3",
+    "time": "7:50 ص"
+  },
+  {
+    "home": "ويسترن سيدني وانديريرز",
+    "homeLogo": "https://jdwel.com/image/teams/1003.png",
+    "away": "بريزبان روار",
+    "awayLogo": "https://jdwel.com/image/teams/aus_brisbane_roar.png",
+    "score": "1 - 1",
+    "time": "10:00 ص"
+  },
+  {
+    "home": "أديلايد يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/1765.png",
+    "away": "ميلبورن فيكتوري",
+    "awayLogo": "https://jdwel.com/image/teams/1766.png",
+    "score": "2 - 1",
+    "time": "7:50 ص"
+  },
+  {
+    "home": "كانبيرا يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/1812.png",
+    "away": "ولينغتون فينيكس",
+    "awayLogo": "https://jdwel.com/image/teams/2045.png",
+    "score": "0 - 2",
+    "time": "8:30 ص"
+  },
+  {
+    "home": "سنترال كوست مارينرز",
+    "homeLogo": "https://jdwel.com/image/teams/1254.png",
+    "away": "بيرث غلوري",
+    "awayLogo": "https://jdwel.com/image/teams/1811.png",
+    "score": "1 - 1",
+    "time": "8:00 ص"
+  },
+  {
+    "home": "بريزبان روار",
+    "homeLogo": "https://jdwel.com/image/teams/aus_brisbane_roar.png",
+    "away": "ميلبورن سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/aus_melbourne_city.png",
+    "score": "1 - 1",
+    "time": "11:00 ص"
+  },
+  {
+    "home": "نيوكاسل جيتس",
+    "homeLogo": "https://jdwel.com/image/teams/aus_newcastle_jets.png",
+    "away": "أديلايد يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/1765.png",
+    "score": "1 - 2",
+    "time": "10:00 ص"
+  },
+  {
+    "home": "بريزبان روار",
+    "homeLogo": "https://jdwel.com/image/teams/aus_brisbane_roar.png",
+    "away": "كانبيرا يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/1812.png",
+    "score": "3 - 1",
+    "time": "10:00 ص"
+  },
+  {
+    "home": "سنترال كوست مارينرز",
+    "homeLogo": "https://jdwel.com/image/teams/1254.png",
+    "away": "ويسترن سيدني وانديريرز",
+    "awayLogo": "https://jdwel.com/image/teams/1003.png",
+    "score": "1 - 2",
+    "time": "8:00 ص"
+  },
+  {
+    "home": "بيرث غلوري",
+    "homeLogo": "https://jdwel.com/image/teams/1811.png",
+    "away": "ميلبورن سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/aus_melbourne_city.png",
+    "score": "0 - 2",
+    "time": "11:00 ص"
+  },
+  {
+    "home": "ولينغتون فينيكس",
+    "homeLogo": "https://jdwel.com/image/teams/2045.png",
+    "away": "أديلايد يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/1765.png",
+    "score": "3 - 1",
+    "time": "5:00 ص"
+  },
+  {
+    "home": "ميلبورن فيكتوري",
+    "homeLogo": "https://jdwel.com/image/teams/1766.png",
+    "away": "سيدني",
+    "awayLogo": "https://jdwel.com/image/teams/1046.png",
+    "score": "0 - 0",
+    "time": "8:00 ص"
+  },
+  {
+    "home": "بيرث غلوري",
+    "homeLogo": "https://jdwel.com/image/teams/1811.png",
+    "away": "سيدني",
+    "awayLogo": "https://jdwel.com/image/teams/1046.png",
+    "score": "0 - 0",
+    "time": "1:00 م"
+  },
+  {
+    "home": "بريزبان روار",
+    "homeLogo": "https://jdwel.com/image/teams/aus_brisbane_roar.png",
+    "away": "سنترال كوست مارينرز",
+    "awayLogo": "https://jdwel.com/image/teams/1254.png",
+    "score": "2 - 2",
+    "time": "11:00 ص"
+  },
+  {
+    "home": "أديلايد يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/1765.png",
+    "away": "ميلبورن سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/aus_melbourne_city.png",
+    "score": "2 - 1",
+    "time": "7:30 ص"
+  },
+  {
+    "home": "سيدني",
+    "homeLogo": "https://jdwel.com/image/teams/1046.png",
+    "away": "ويسترن سيدني وانديريرز",
+    "awayLogo": "https://jdwel.com/image/teams/1003.png",
+    "score": "2 - 3",
+    "time": "8:00 ص"
+  },
+  {
+    "home": "كانبيرا يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/1812.png",
+    "away": "ميلبورن فيكتوري",
+    "awayLogo": "https://jdwel.com/image/teams/1766.png",
+    "score": "3 - 1",
+    "time": "5:00 ص"
+  },
+  {
+    "home": "نيوكاسل جيتس",
+    "homeLogo": "https://jdwel.com/image/teams/aus_newcastle_jets.png",
+    "away": "ولينغتون فينيكس",
+    "awayLogo": "https://jdwel.com/image/teams/2045.png",
+    "score": "1 - 5",
+    "time": "8:00 ص"
+  },
+  {
+    "home": "ميلبورن سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/aus_melbourne_city.png",
+    "away": "ويسترن سيدني وانديريرز",
+    "awayLogo": "https://jdwel.com/image/teams/1003.png",
+    "score": "0 - 0",
+    "time": "8:30 ص"
+  },
+  {
+    "home": "سيدني",
+    "homeLogo": "https://jdwel.com/image/teams/1046.png",
+    "away": "بريزبان روار",
+    "awayLogo": "https://jdwel.com/image/teams/aus_brisbane_roar.png",
+    "score": "0 - 0",
+    "time": "10:30 ص"
+  },
+  {
+    "home": "ولينغتون فينيكس",
+    "homeLogo": "https://jdwel.com/image/teams/2045.png",
+    "away": "بيرث غلوري",
+    "awayLogo": "https://jdwel.com/image/teams/1811.png",
+    "score": "0 - 0",
+    "time": "5:00 ص"
+  },
+  {
+    "home": "ويسترن سيدني وانديريرز",
+    "homeLogo": "https://jdwel.com/image/teams/1003.png",
+    "away": "أديلايد يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/1765.png",
+    "score": "0 - 0",
+    "time": "7:50 ص"
+  },
+  {
+    "home": "ميلبورن فيكتوري",
+    "homeLogo": "https://jdwel.com/image/teams/1766.png",
+    "away": "نيوكاسل جيتس",
+    "awayLogo": "https://jdwel.com/image/teams/aus_newcastle_jets.png",
+    "score": "0 - 0",
+    "time": "8:00 ص"
+  },
+  {
+    "home": "ميلبورن سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/aus_melbourne_city.png",
+    "away": "بريزبان روار",
+    "awayLogo": "https://jdwel.com/image/teams/aus_brisbane_roar.png",
+    "score": "0 - 0",
+    "time": "8:00 ص"
+  },
+  {
+    "home": "سيدني",
+    "homeLogo": "https://jdwel.com/image/teams/1046.png",
+    "away": "كانبيرا يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/1812.png",
+    "score": "0 - 0",
+    "time": "8:00 ص"
+  },
+  {
+    "home": "ويسترن سيدني وانديريرز",
+    "homeLogo": "https://jdwel.com/image/teams/1003.png",
+    "away": "نيوكاسل جيتس",
+    "awayLogo": "https://jdwel.com/image/teams/aus_newcastle_jets.png",
+    "score": "0 - 0",
+    "time": "7:50 ص"
+  },
+  {
+    "home": "بريزبان روار",
+    "homeLogo": "https://jdwel.com/image/teams/aus_brisbane_roar.png",
+    "away": "سيدني",
+    "awayLogo": "https://jdwel.com/image/teams/1046.png",
+    "score": "0 - 0",
+    "time": "10:00 ص"
+  },
+  {
+    "home": "بيرث غلوري",
+    "homeLogo": "https://jdwel.com/image/teams/1811.png",
+    "away": "كانبيرا يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/1812.png",
+    "score": "0 - 0",
+    "time": "11:00 ص"
+  },
+  {
+    "home": "ولينغتون فينيكس",
+    "homeLogo": "https://jdwel.com/image/teams/2045.png",
+    "away": "سنترال كوست مارينرز",
+    "awayLogo": "https://jdwel.com/image/teams/1254.png",
+    "score": "0 - 0",
+    "time": "5:00 ص"
+  },
+  {
+    "home": "ميلبورن فيكتوري",
+    "homeLogo": "https://jdwel.com/image/teams/1766.png",
+    "away": "ميلبورن سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/aus_melbourne_city.png",
+    "score": "0 - 0",
+    "time": "8:00 ص"
+  },
+  {
+    "home": "ميلبورن فيكتوري",
+    "homeLogo": "https://jdwel.com/image/teams/1766.png",
+    "away": "ولينغتون فينيكس",
+    "awayLogo": "https://jdwel.com/image/teams/2045.png",
+    "score": "0 - 0",
+    "time": "10:00 ص"
+  },
+  {
+    "home": "سنترال كوست مارينرز",
+    "homeLogo": "https://jdwel.com/image/teams/1254.png",
+    "away": "ميلبورن سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/aus_melbourne_city.png",
+    "score": "0 - 0",
+    "time": "10:00 ص"
+  },
+  {
+    "home": "كانبيرا يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/1812.png",
+    "away": "ويسترن سيدني وانديريرز",
+    "awayLogo": "https://jdwel.com/image/teams/1003.png",
+    "score": "0 - 0",
+    "time": "7:30 ص"
+  },
+  {
+    "home": "نيوكاسل جيتس",
+    "homeLogo": "https://jdwel.com/image/teams/aus_newcastle_jets.png",
+    "away": "بيرث غلوري",
+    "awayLogo": "https://jdwel.com/image/teams/1811.png",
+    "score": "0 - 0",
+    "time": "8:00 ص"
+  },
+  {
+    "home": "بريزبان روار",
+    "homeLogo": "https://jdwel.com/image/teams/aus_brisbane_roar.png",
+    "away": "أديلايد يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/1765.png",
+    "score": "0 - 0",
+    "time": "9:00 ص"
+  },
+  {
+    "home": "أديلايد يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/1765.png",
+    "away": "بيرث غلوري",
+    "awayLogo": "https://jdwel.com/image/teams/1811.png",
+    "score": "0 - 0",
+    "time": "10:00 ص"
+  },
+  {
+    "home": "نيوكاسل جيتس",
+    "homeLogo": "https://jdwel.com/image/teams/aus_newcastle_jets.png",
+    "away": "سيدني",
+    "awayLogo": "https://jdwel.com/image/teams/1046.png",
+    "score": "0 - 0",
+    "time": "10:00 ص"
+  },
+  {
+    "home": "ولينغتون فينيكس",
+    "homeLogo": "https://jdwel.com/image/teams/2045.png",
+    "away": "بريزبان روار",
+    "awayLogo": "https://jdwel.com/image/teams/aus_brisbane_roar.png",
+    "score": "0 - 0",
+    "time": "7:00 ص"
+  },
+  {
+    "home": "ميلبورن فيكتوري",
+    "homeLogo": "https://jdwel.com/image/teams/1766.png",
+    "away": "ويسترن سيدني وانديريرز",
+    "awayLogo": "https://jdwel.com/image/teams/1003.png",
+    "score": "0 - 0",
+    "time": "9:00 ص"
+  },
+  {
+    "home": "ميلبورن سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/aus_melbourne_city.png",
+    "away": "كانبيرا يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/1812.png",
+    "score": "0 - 0",
+    "time": "5:00 ص"
+  },
+  {
+    "home": "ميلبورن سيتي",
+    "homeLogo": "https://jdwel.com/image/teams/aus_melbourne_city.png",
+    "away": "أديلايد يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/1765.png",
+    "score": "0 - 0",
+    "time": "7:30 ص"
+  },
+  {
+    "home": "سيدني",
+    "homeLogo": "https://jdwel.com/image/teams/1046.png",
+    "away": "ولينغتون فينيكس",
+    "awayLogo": "https://jdwel.com/image/teams/2045.png",
+    "score": "0 - 0",
+    "time": "10:00 ص"
+  },
+  {
+    "home": "بريزبان روار",
+    "homeLogo": "https://jdwel.com/image/teams/aus_brisbane_roar.png",
+    "away": "نيوكاسل جيتس",
+    "awayLogo": "https://jdwel.com/image/teams/aus_newcastle_jets.png",
+    "score": "0 - 0",
+    "time": "11:00 ص"
+  },
+  {
+    "home": "بيرث غلوري",
+    "homeLogo": "https://jdwel.com/image/teams/1811.png",
+    "away": "سنترال كوست مارينرز",
+    "awayLogo": "https://jdwel.com/image/teams/1254.png",
+    "score": "0 - 0",
+    "time": "8:00 ص"
+  },
+  {
+    "home": "كانبيرا يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/1812.png",
+    "away": "أديلايد يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/1765.png",
+    "score": "0 - 0",
+    "time": "5:00 ص"
+  },
+  {
+    "home": "ويسترن سيدني وانديريرز",
+    "homeLogo": "https://jdwel.com/image/teams/1003.png",
+    "away": "ميلبورن سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/aus_melbourne_city.png",
+    "score": "0 - 0",
+    "time": "7:00 ص"
+  },
+  {
+    "home": "سنترال كوست مارينرز",
+    "homeLogo": "https://jdwel.com/image/teams/1254.png",
+    "away": "ولينغتون فينيكس",
+    "awayLogo": "https://jdwel.com/image/teams/2045.png",
+    "score": "0 - 0",
+    "time": "10:00 ص"
+  },
+  {
+    "home": "بريزبان روار",
+    "homeLogo": "https://jdwel.com/image/teams/aus_brisbane_roar.png",
+    "away": "بيرث غلوري",
+    "awayLogo": "https://jdwel.com/image/teams/1811.png",
+    "score": "0 - 0",
+    "time": "10:00 ص"
+  },
+  {
+    "home": "أديلايد يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/1765.png",
+    "away": "نيوكاسل جيتس",
+    "awayLogo": "https://jdwel.com/image/teams/aus_newcastle_jets.png",
+    "score": "0 - 0",
+    "time": "5:45 ص"
+  },
+  {
+    "home": "سيدني",
+    "homeLogo": "https://jdwel.com/image/teams/1046.png",
+    "away": "ميلبورن فيكتوري",
+    "awayLogo": "https://jdwel.com/image/teams/1766.png",
+    "score": "0 - 0",
+    "time": "8:00 ص"
+  },
+  {
+    "home": "ولينغتون فينيكس",
+    "homeLogo": "https://jdwel.com/image/teams/2045.png",
+    "away": "ويسترن سيدني وانديريرز",
+    "awayLogo": "https://jdwel.com/image/teams/1003.png",
+    "score": "0 - 0",
+    "time": "5:00 ص"
+  },
+  {
+    "home": "سنترال كوست مارينرز",
+    "homeLogo": "https://jdwel.com/image/teams/1254.png",
+    "away": "كانبيرا يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/1812.png",
+    "score": "0 - 0",
+    "time": "7:00 ص"
+  },
+  {
+    "home": "أديلايد يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/1765.png",
+    "away": "ولينغتون فينيكس",
+    "awayLogo": "https://jdwel.com/image/teams/2045.png",
+    "score": "0 - 0",
+    "time": "7:50 ص"
+  },
+  {
+    "home": "بيرث غلوري",
+    "homeLogo": "https://jdwel.com/image/teams/1811.png",
+    "away": "ميلبورن فيكتوري",
+    "awayLogo": "https://jdwel.com/image/teams/1766.png",
+    "score": "0 - 0",
+    "time": "10:00 ص"
+  },
+  {
+    "home": "سنترال كوست مارينرز",
+    "homeLogo": "https://jdwel.com/image/teams/1254.png",
+    "away": "سيدني",
+    "awayLogo": "https://jdwel.com/image/teams/1046.png",
+    "score": "0 - 0",
+    "time": "5:15 ص"
+  },
+  {
+    "home": "كانبيرا يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/1812.png",
+    "away": "بريزبان روار",
+    "awayLogo": "https://jdwel.com/image/teams/aus_brisbane_roar.png",
+    "score": "0 - 0",
+    "time": "6:00 ص"
+  },
+  {
+    "home": "نيوكاسل جيتس",
+    "homeLogo": "https://jdwel.com/image/teams/aus_newcastle_jets.png",
+    "away": "ميلبورن سيتي",
+    "awayLogo": "https://jdwel.com/image/teams/aus_melbourne_city.png",
+    "score": "0 - 0",
+    "time": "8:00 ص"
+  },
+  {
+    "home": "لم يحدد",
+    "homeLogo": "https://jdwel.com/image/teams/placeholder.png",
+    "away": "لم يحدد",
+    "awayLogo": "https://jdwel.com/image/teams/placeholder.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "لم يحدد",
+    "homeLogo": "https://jdwel.com/image/teams/placeholder.png",
+    "away": "لم يحدد",
+    "awayLogo": "https://jdwel.com/image/teams/placeholder.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "لم يحدد",
+    "homeLogo": "https://jdwel.com/image/teams/placeholder.png",
+    "away": "لم يحدد",
+    "awayLogo": "https://jdwel.com/image/teams/placeholder.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "لم يحدد",
+    "homeLogo": "https://jdwel.com/image/teams/placeholder.png",
+    "away": "لم يحدد",
+    "awayLogo": "https://jdwel.com/image/teams/placeholder.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "لم يحدد",
+    "homeLogo": "https://jdwel.com/image/teams/placeholder.png",
+    "away": "لم يحدد",
+    "awayLogo": "https://jdwel.com/image/teams/placeholder.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "لم يحدد",
+    "homeLogo": "https://jdwel.com/image/teams/placeholder.png",
+    "away": "لم يحدد",
+    "awayLogo": "https://jdwel.com/image/teams/placeholder.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "لم يحدد",
+    "homeLogo": "https://jdwel.com/image/teams/placeholder.png",
+    "away": "لم يحدد",
+    "awayLogo": "https://jdwel.com/image/teams/placeholder.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  }
+]

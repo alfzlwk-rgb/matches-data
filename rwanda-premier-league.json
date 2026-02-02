@@ -1,0 +1,2090 @@
+[
+  {
+    "home": "غوريلا",
+    "homeLogo": "https://jdwel.com/image/teams/5361.png",
+    "away": "موهانغا",
+    "awayLogo": "https://jdwel.com/image/teams/5365.png",
+    "score": "2 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "بوليس رواندا",
+    "homeLogo": "https://jdwel.com/image/teams/2813.png",
+    "away": "روتسيرو",
+    "awayLogo": "https://jdwel.com/image/teams/5363.png",
+    "score": "2 - 1",
+    "time": "4:00 م"
+  },
+  {
+    "home": "موكورا",
+    "homeLogo": "https://jdwel.com/image/teams/5367.png",
+    "away": "موسانزي",
+    "awayLogo": "https://jdwel.com/image/teams/5358.png",
+    "score": "1 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "بوغيسيرا",
+    "homeLogo": "https://jdwel.com/image/teams/5362.png",
+    "away": "جيكومبي",
+    "awayLogo": "https://jdwel.com/image/teams/5360.png",
+    "score": "1 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "إتينسيلس",
+    "homeLogo": "https://jdwel.com/image/teams/5366.png",
+    "away": "جاسوجي يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/5359.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "كيوفو سبورتس",
+    "homeLogo": "https://jdwel.com/image/teams/5356.png",
+    "away": "رايون سبورت",
+    "awayLogo": "https://jdwel.com/image/teams/rwa_rayon_sports.png",
+    "score": "0 - 2",
+    "time": "7:30 م"
+  },
+  {
+    "home": "إيه إس كيغالي",
+    "homeLogo": "https://jdwel.com/image/teams/4405.png",
+    "away": "أماجاجو",
+    "awayLogo": "https://jdwel.com/image/teams/5364.png",
+    "score": "1 - 2",
+    "time": "4:00 م"
+  },
+  {
+    "home": "غوريلا",
+    "homeLogo": "https://jdwel.com/image/teams/5361.png",
+    "away": "موكورا",
+    "awayLogo": "https://jdwel.com/image/teams/5367.png",
+    "score": "1 - 1",
+    "time": "4:00 م"
+  },
+  {
+    "home": "جيكومبي",
+    "homeLogo": "https://jdwel.com/image/teams/5360.png",
+    "away": "آرمى باتريوريتيك",
+    "awayLogo": "https://jdwel.com/image/teams/947.png",
+    "score": "1 - 2",
+    "time": "7:30 م"
+  },
+  {
+    "home": "روتسيرو",
+    "homeLogo": "https://jdwel.com/image/teams/5363.png",
+    "away": "جاسوجي يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/5359.png",
+    "score": "2 - 3",
+    "time": "4:00 م"
+  },
+  {
+    "home": "موهانغا",
+    "homeLogo": "https://jdwel.com/image/teams/5365.png",
+    "away": "كيوفو سبورتس",
+    "awayLogo": "https://jdwel.com/image/teams/5356.png",
+    "score": "0 - 1",
+    "time": "4:00 م"
+  },
+  {
+    "home": "إتينسيلس",
+    "homeLogo": "https://jdwel.com/image/teams/5366.png",
+    "away": "مارينز",
+    "awayLogo": "https://jdwel.com/image/teams/5357.png",
+    "score": "0 - 2",
+    "time": "4:00 م"
+  },
+  {
+    "home": "أماجاجو",
+    "homeLogo": "https://jdwel.com/image/teams/5364.png",
+    "away": "بوغيسيرا",
+    "awayLogo": "https://jdwel.com/image/teams/5362.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "موسانزي",
+    "homeLogo": "https://jdwel.com/image/teams/5358.png",
+    "away": "إيه إس كيغالي",
+    "awayLogo": "https://jdwel.com/image/teams/4405.png",
+    "score": "1 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "رايون سبورت",
+    "homeLogo": "https://jdwel.com/image/teams/rwa_rayon_sports.png",
+    "away": "بوليس رواندا",
+    "awayLogo": "https://jdwel.com/image/teams/2813.png",
+    "score": "0 - 1",
+    "time": "7:30 م"
+  },
+  {
+    "home": "إيه إس كيغالي",
+    "homeLogo": "https://jdwel.com/image/teams/4405.png",
+    "away": "غوريلا",
+    "awayLogo": "https://jdwel.com/image/teams/5361.png",
+    "score": "1 - 1",
+    "time": "4:00 م"
+  },
+  {
+    "home": "موكورا",
+    "homeLogo": "https://jdwel.com/image/teams/5367.png",
+    "away": "كيوفو سبورتس",
+    "awayLogo": "https://jdwel.com/image/teams/5356.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "مارينز",
+    "homeLogo": "https://jdwel.com/image/teams/5357.png",
+    "away": "روتسيرو",
+    "awayLogo": "https://jdwel.com/image/teams/5363.png",
+    "score": "2 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "موسانزي",
+    "homeLogo": "https://jdwel.com/image/teams/5358.png",
+    "away": "بوغيسيرا",
+    "awayLogo": "https://jdwel.com/image/teams/5362.png",
+    "score": "1 - 1",
+    "time": "4:00 م"
+  },
+  {
+    "home": "جاسوجي يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/5359.png",
+    "away": "رايون سبورت",
+    "awayLogo": "https://jdwel.com/image/teams/rwa_rayon_sports.png",
+    "score": "2 - 2",
+    "time": "4:00 م"
+  },
+  {
+    "home": "أماجاجو",
+    "homeLogo": "https://jdwel.com/image/teams/5364.png",
+    "away": "جيكومبي",
+    "awayLogo": "https://jdwel.com/image/teams/5360.png",
+    "score": "0 - 2",
+    "time": "4:00 م"
+  },
+  {
+    "home": "بوليس رواندا",
+    "homeLogo": "https://jdwel.com/image/teams/2813.png",
+    "away": "موهانغا",
+    "awayLogo": "https://jdwel.com/image/teams/5365.png",
+    "score": "1 - 0",
+    "time": "7:30 م"
+  },
+  {
+    "home": "غوريلا",
+    "homeLogo": "https://jdwel.com/image/teams/5361.png",
+    "away": "جيكومبي",
+    "awayLogo": "https://jdwel.com/image/teams/5360.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "إيه إس كيغالي",
+    "homeLogo": "https://jdwel.com/image/teams/4405.png",
+    "away": "مارينز",
+    "awayLogo": "https://jdwel.com/image/teams/5357.png",
+    "score": "1 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "بوغيسيرا",
+    "homeLogo": "https://jdwel.com/image/teams/5362.png",
+    "away": "جاسوجي يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/5359.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "موهانغا",
+    "homeLogo": "https://jdwel.com/image/teams/5365.png",
+    "away": "إتينسيلس",
+    "awayLogo": "https://jdwel.com/image/teams/5366.png",
+    "score": "1 - 1",
+    "time": "4:00 م"
+  },
+  {
+    "home": "رايون سبورت",
+    "homeLogo": "https://jdwel.com/image/teams/rwa_rayon_sports.png",
+    "away": "روتسيرو",
+    "awayLogo": "https://jdwel.com/image/teams/5363.png",
+    "score": "3 - 1",
+    "time": "7:30 م"
+  },
+  {
+    "home": "بوليس رواندا",
+    "homeLogo": "https://jdwel.com/image/teams/2813.png",
+    "away": "أماجاجو",
+    "awayLogo": "https://jdwel.com/image/teams/5364.png",
+    "score": "1 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "آرمى باتريوريتيك",
+    "homeLogo": "https://jdwel.com/image/teams/947.png",
+    "away": "موكورا",
+    "awayLogo": "https://jdwel.com/image/teams/5367.png",
+    "score": "1 - 0",
+    "time": "7:30 م"
+  },
+  {
+    "home": "كيوفو سبورتس",
+    "homeLogo": "https://jdwel.com/image/teams/5356.png",
+    "away": "موسانزي",
+    "awayLogo": "https://jdwel.com/image/teams/5358.png",
+    "score": "0 - 0",
+    "time": "7:00 م"
+  },
+  {
+    "home": "جيكومبي",
+    "homeLogo": "https://jdwel.com/image/teams/5360.png",
+    "away": "جاسوجي يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/5359.png",
+    "score": "2 - 1",
+    "time": "4:00 م"
+  },
+  {
+    "home": "رايون سبورت",
+    "homeLogo": "https://jdwel.com/image/teams/rwa_rayon_sports.png",
+    "away": "أماجاجو",
+    "awayLogo": "https://jdwel.com/image/teams/5364.png",
+    "score": "1 - 0",
+    "time": "8:00 م"
+  },
+  {
+    "home": "كيوفو سبورتس",
+    "homeLogo": "https://jdwel.com/image/teams/5356.png",
+    "away": "آرمى باتريوريتيك",
+    "awayLogo": "https://jdwel.com/image/teams/947.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "موسانزي",
+    "homeLogo": "https://jdwel.com/image/teams/5358.png",
+    "away": "روتسيرو",
+    "awayLogo": "https://jdwel.com/image/teams/5363.png",
+    "score": "1 - 1",
+    "time": "4:00 م"
+  },
+  {
+    "home": "موكورا",
+    "homeLogo": "https://jdwel.com/image/teams/5367.png",
+    "away": "إيه إس كيغالي",
+    "awayLogo": "https://jdwel.com/image/teams/4405.png",
+    "score": "2 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "إتينسيلس",
+    "homeLogo": "https://jdwel.com/image/teams/5366.png",
+    "away": "غوريلا",
+    "awayLogo": "https://jdwel.com/image/teams/5361.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "بوغيسيرا",
+    "homeLogo": "https://jdwel.com/image/teams/5362.png",
+    "away": "موهانغا",
+    "awayLogo": "https://jdwel.com/image/teams/5365.png",
+    "score": "0 - 1",
+    "time": "4:00 م"
+  },
+  {
+    "home": "مارينز",
+    "homeLogo": "https://jdwel.com/image/teams/5357.png",
+    "away": "بوليس رواندا",
+    "awayLogo": "https://jdwel.com/image/teams/2813.png",
+    "score": "1 - 2",
+    "time": "4:00 م"
+  },
+  {
+    "home": "جاسوجي يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/5359.png",
+    "away": "موهانغا",
+    "awayLogo": "https://jdwel.com/image/teams/5365.png",
+    "score": "1 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "غوريلا",
+    "homeLogo": "https://jdwel.com/image/teams/5361.png",
+    "away": "بوغيسيرا",
+    "awayLogo": "https://jdwel.com/image/teams/5362.png",
+    "score": "2 - 1",
+    "time": "3:00 م"
+  },
+  {
+    "home": "روتسيرو",
+    "homeLogo": "https://jdwel.com/image/teams/5363.png",
+    "away": "آرمى باتريوريتيك",
+    "awayLogo": "https://jdwel.com/image/teams/947.png",
+    "score": "1 - 1",
+    "time": "3:00 م"
+  },
+  {
+    "home": "بوليس رواندا",
+    "homeLogo": "https://jdwel.com/image/teams/2813.png",
+    "away": "موكورا",
+    "awayLogo": "https://jdwel.com/image/teams/5367.png",
+    "score": "1 - 1",
+    "time": "3:00 م"
+  },
+  {
+    "home": "أماجاجو",
+    "homeLogo": "https://jdwel.com/image/teams/5364.png",
+    "away": "موسانزي",
+    "awayLogo": "https://jdwel.com/image/teams/5358.png",
+    "score": "0 - 2",
+    "time": "3:00 م"
+  },
+  {
+    "home": "جيكومبي",
+    "homeLogo": "https://jdwel.com/image/teams/5360.png",
+    "away": "إتينسيلس",
+    "awayLogo": "https://jdwel.com/image/teams/5366.png",
+    "score": "1 - 1",
+    "time": "3:00 م"
+  },
+  {
+    "home": "مارينز",
+    "homeLogo": "https://jdwel.com/image/teams/5357.png",
+    "away": "رايون سبورت",
+    "awayLogo": "https://jdwel.com/image/teams/rwa_rayon_sports.png",
+    "score": "0 - 1",
+    "time": "3:00 م"
+  },
+  {
+    "home": "إيه إس كيغالي",
+    "homeLogo": "https://jdwel.com/image/teams/4405.png",
+    "away": "كيوفو سبورتس",
+    "awayLogo": "https://jdwel.com/image/teams/5356.png",
+    "score": "0 - 3",
+    "time": "6:30 م"
+  },
+  {
+    "home": "إيه إس كيغالي",
+    "homeLogo": "https://jdwel.com/image/teams/4405.png",
+    "away": "بوليس رواندا",
+    "awayLogo": "https://jdwel.com/image/teams/2813.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "غوريلا",
+    "homeLogo": "https://jdwel.com/image/teams/5361.png",
+    "away": "أماجاجو",
+    "awayLogo": "https://jdwel.com/image/teams/5364.png",
+    "score": "0 - 1",
+    "time": "3:00 م"
+  },
+  {
+    "home": "إتينسيلس",
+    "homeLogo": "https://jdwel.com/image/teams/5366.png",
+    "away": "روتسيرو",
+    "awayLogo": "https://jdwel.com/image/teams/5363.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "موكورا",
+    "homeLogo": "https://jdwel.com/image/teams/5367.png",
+    "away": "جاسوجي يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/5359.png",
+    "score": "0 - 2",
+    "time": "3:00 م"
+  },
+  {
+    "home": "موهانغا",
+    "homeLogo": "https://jdwel.com/image/teams/5365.png",
+    "away": "مارينز",
+    "awayLogo": "https://jdwel.com/image/teams/5357.png",
+    "score": "0 - 2",
+    "time": "3:00 م"
+  },
+  {
+    "home": "آرمى باتريوريتيك",
+    "homeLogo": "https://jdwel.com/image/teams/947.png",
+    "away": "رايون سبورت",
+    "awayLogo": "https://jdwel.com/image/teams/rwa_rayon_sports.png",
+    "score": "3 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "موسانزي",
+    "homeLogo": "https://jdwel.com/image/teams/5358.png",
+    "away": "جيكومبي",
+    "awayLogo": "https://jdwel.com/image/teams/5360.png",
+    "score": "3 - 2",
+    "time": "3:00 م"
+  },
+  {
+    "home": "كيوفو سبورتس",
+    "homeLogo": "https://jdwel.com/image/teams/5356.png",
+    "away": "بوغيسيرا",
+    "awayLogo": "https://jdwel.com/image/teams/5362.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "جاسوجي يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/5359.png",
+    "away": "كيوفو سبورتس",
+    "awayLogo": "https://jdwel.com/image/teams/5356.png",
+    "score": "1 - 0",
+    "time": "6:30 م"
+  },
+  {
+    "home": "بوليس رواندا",
+    "homeLogo": "https://jdwel.com/image/teams/2813.png",
+    "away": "جيكومبي",
+    "awayLogo": "https://jdwel.com/image/teams/5360.png",
+    "score": "2 - 1",
+    "time": "3:00 م"
+  },
+  {
+    "home": "أماجاجو",
+    "homeLogo": "https://jdwel.com/image/teams/5364.png",
+    "away": "إتينسيلس",
+    "awayLogo": "https://jdwel.com/image/teams/5366.png",
+    "score": "1 - 1",
+    "time": "3:00 م"
+  },
+  {
+    "home": "بوغيسيرا",
+    "homeLogo": "https://jdwel.com/image/teams/5362.png",
+    "away": "روتسيرو",
+    "awayLogo": "https://jdwel.com/image/teams/5363.png",
+    "score": "2 - 3",
+    "time": "3:00 م"
+  },
+  {
+    "home": "موسانزي",
+    "homeLogo": "https://jdwel.com/image/teams/5358.png",
+    "away": "آرمى باتريوريتيك",
+    "awayLogo": "https://jdwel.com/image/teams/947.png",
+    "score": "3 - 2",
+    "time": "3:00 م"
+  },
+  {
+    "home": "مارينز",
+    "homeLogo": "https://jdwel.com/image/teams/5357.png",
+    "away": "غوريلا",
+    "awayLogo": "https://jdwel.com/image/teams/5361.png",
+    "score": "1 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "رايون سبورت",
+    "homeLogo": "https://jdwel.com/image/teams/rwa_rayon_sports.png",
+    "away": "إيه إس كيغالي",
+    "awayLogo": "https://jdwel.com/image/teams/4405.png",
+    "score": "0 - 2",
+    "time": "3:00 م"
+  },
+  {
+    "home": "موكورا",
+    "homeLogo": "https://jdwel.com/image/teams/5367.png",
+    "away": "موهانغا",
+    "awayLogo": "https://jdwel.com/image/teams/5365.png",
+    "score": "1 - 2",
+    "time": "3:00 م"
+  },
+  {
+    "home": "كيوفو سبورتس",
+    "homeLogo": "https://jdwel.com/image/teams/5356.png",
+    "away": "المريخ",
+    "awayLogo": "https://jdwel.com/image/teams/sud_al_merreikh_v2.png",
+    "score": "0 - 2",
+    "time": "6:00 م"
+  },
+  {
+    "home": "آرمى باتريوريتيك",
+    "homeLogo": "https://jdwel.com/image/teams/947.png",
+    "away": "مارينز",
+    "awayLogo": "https://jdwel.com/image/teams/5357.png",
+    "score": "2 - 1",
+    "time": "6:00 م"
+  },
+  {
+    "home": "الهلال",
+    "homeLogo": "https://jdwel.com/image/teams/2939.png",
+    "away": "بوليس رواندا",
+    "awayLogo": "https://jdwel.com/image/teams/2813.png",
+    "score": "0 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "بوغيسيرا",
+    "homeLogo": "https://jdwel.com/image/teams/5362.png",
+    "away": "المريخ",
+    "awayLogo": "https://jdwel.com/image/teams/sud_al_merreikh_v2.png",
+    "score": "1 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "غوريلا",
+    "homeLogo": "https://jdwel.com/image/teams/5361.png",
+    "away": "كيوفو سبورتس",
+    "awayLogo": "https://jdwel.com/image/teams/5356.png",
+    "score": "0 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "إتينسيلس",
+    "homeLogo": "https://jdwel.com/image/teams/5366.png",
+    "away": "موكورا",
+    "awayLogo": "https://jdwel.com/image/teams/5367.png",
+    "score": "1 - 1",
+    "time": "3:00 م"
+  },
+  {
+    "home": "إيه إس كيغالي",
+    "homeLogo": "https://jdwel.com/image/teams/4405.png",
+    "away": "آرمى باتريوريتيك",
+    "awayLogo": "https://jdwel.com/image/teams/947.png",
+    "score": "1 - 1",
+    "time": "6:00 م"
+  },
+  {
+    "home": "جيكومبي",
+    "homeLogo": "https://jdwel.com/image/teams/5360.png",
+    "away": "رايون سبورت",
+    "awayLogo": "https://jdwel.com/image/teams/rwa_rayon_sports.png",
+    "score": "1 - 1",
+    "time": "3:00 م"
+  },
+  {
+    "home": "روتسيرو",
+    "homeLogo": "https://jdwel.com/image/teams/5363.png",
+    "away": "موهانغا",
+    "awayLogo": "https://jdwel.com/image/teams/5365.png",
+    "score": "0 - 1",
+    "time": "3:00 م"
+  },
+  {
+    "home": "أماجاجو",
+    "homeLogo": "https://jdwel.com/image/teams/5364.png",
+    "away": "جاسوجي يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/5359.png",
+    "score": "0 - 1",
+    "time": "3:00 م"
+  },
+  {
+    "home": "مارينز",
+    "homeLogo": "https://jdwel.com/image/teams/5357.png",
+    "away": "بوغيسيرا",
+    "awayLogo": "https://jdwel.com/image/teams/5362.png",
+    "score": "2 - 1",
+    "time": "3:00 م"
+  },
+  {
+    "home": "بوليس رواندا",
+    "homeLogo": "https://jdwel.com/image/teams/2813.png",
+    "away": "موسانزي",
+    "awayLogo": "https://jdwel.com/image/teams/5358.png",
+    "score": "1 - 1",
+    "time": "3:00 م"
+  },
+  {
+    "home": "المريخ",
+    "homeLogo": "https://jdwel.com/image/teams/sud_al_merreikh_v2.png",
+    "away": "غوريلا",
+    "awayLogo": "https://jdwel.com/image/teams/5361.png",
+    "score": "0 - 1",
+    "time": "6:30 م"
+  },
+  {
+    "home": "آرمى باتريوريتيك",
+    "homeLogo": "https://jdwel.com/image/teams/947.png",
+    "away": "إتينسيلس",
+    "awayLogo": "https://jdwel.com/image/teams/5366.png",
+    "score": "2 - 1",
+    "time": "6:00 م"
+  },
+  {
+    "home": "روتسيرو",
+    "homeLogo": "https://jdwel.com/image/teams/5363.png",
+    "away": "المريخ",
+    "awayLogo": "https://jdwel.com/image/teams/sud_al_merreikh_v2.png",
+    "score": "0 - 1",
+    "time": "3:00 م"
+  },
+  {
+    "home": "جاسوجي يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/5359.png",
+    "away": "الهلال",
+    "awayLogo": "https://jdwel.com/image/teams/2939.png",
+    "score": "0 - 2",
+    "time": "6:00 م"
+  },
+  {
+    "home": "جيكومبي",
+    "homeLogo": "https://jdwel.com/image/teams/5360.png",
+    "away": "إيه إس كيغالي",
+    "awayLogo": "https://jdwel.com/image/teams/4405.png",
+    "score": "2 - 1",
+    "time": "3:00 م"
+  },
+  {
+    "home": "بوغيسيرا",
+    "homeLogo": "https://jdwel.com/image/teams/5362.png",
+    "away": "موكورا",
+    "awayLogo": "https://jdwel.com/image/teams/5367.png",
+    "score": "0 - 1",
+    "time": "3:00 م"
+  },
+  {
+    "home": "كيوفو سبورتس",
+    "homeLogo": "https://jdwel.com/image/teams/5356.png",
+    "away": "إتينسيلس",
+    "awayLogo": "https://jdwel.com/image/teams/5366.png",
+    "score": "4 - 1",
+    "time": "3:00 م"
+  },
+  {
+    "home": "رايون سبورت",
+    "homeLogo": "https://jdwel.com/image/teams/rwa_rayon_sports.png",
+    "away": "موسانزي",
+    "awayLogo": "https://jdwel.com/image/teams/5358.png",
+    "score": "2 - 0",
+    "time": "6:30 م"
+  },
+  {
+    "home": "جاسوجي يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/5359.png",
+    "away": "مارينز",
+    "awayLogo": "https://jdwel.com/image/teams/5357.png",
+    "score": "0 - 2",
+    "time": "3:00 م"
+  },
+  {
+    "home": "موهانغا",
+    "homeLogo": "https://jdwel.com/image/teams/5365.png",
+    "away": "أماجاجو",
+    "awayLogo": "https://jdwel.com/image/teams/5364.png",
+    "score": "0 - 1",
+    "time": "3:00 م"
+  },
+  {
+    "home": "روتسيرو",
+    "homeLogo": "https://jdwel.com/image/teams/5363.png",
+    "away": "غوريلا",
+    "awayLogo": "https://jdwel.com/image/teams/5361.png",
+    "score": "1 - 1",
+    "time": "3:00 م"
+  },
+  {
+    "home": "آرمى باتريوريتيك",
+    "homeLogo": "https://jdwel.com/image/teams/947.png",
+    "away": "بوليس رواندا",
+    "awayLogo": "https://jdwel.com/image/teams/2813.png",
+    "score": "0 - 0",
+    "time": "6:30 م"
+  },
+  {
+    "home": "المريخ",
+    "homeLogo": "https://jdwel.com/image/teams/sud_al_merreikh_v2.png",
+    "away": "إيه إس كيغالي",
+    "awayLogo": "https://jdwel.com/image/teams/4405.png",
+    "score": "2 - 1",
+    "time": "6:00 م"
+  },
+  {
+    "home": "الهلال",
+    "homeLogo": "https://jdwel.com/image/teams/2939.png",
+    "away": "موكورا",
+    "awayLogo": "https://jdwel.com/image/teams/5367.png",
+    "score": "2 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "المريخ",
+    "homeLogo": "https://jdwel.com/image/teams/sud_al_merreikh_v2.png",
+    "away": "مارينز",
+    "awayLogo": "https://jdwel.com/image/teams/5357.png",
+    "score": "1 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "أماجاجو",
+    "homeLogo": "https://jdwel.com/image/teams/5364.png",
+    "away": "روتسيرو",
+    "awayLogo": "https://jdwel.com/image/teams/5363.png",
+    "score": "1 - 2",
+    "time": "3:00 م"
+  },
+  {
+    "home": "الهلال",
+    "homeLogo": "https://jdwel.com/image/teams/2939.png",
+    "away": "بوغيسيرا",
+    "awayLogo": "https://jdwel.com/image/teams/5362.png",
+    "score": "3 - 1",
+    "time": "6:00 م"
+  },
+  {
+    "home": "بوليس رواندا",
+    "homeLogo": "https://jdwel.com/image/teams/2813.png",
+    "away": "جاسوجي يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/5359.png",
+    "score": "1 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "موهانغا",
+    "homeLogo": "https://jdwel.com/image/teams/5365.png",
+    "away": "إيه إس كيغالي",
+    "awayLogo": "https://jdwel.com/image/teams/4405.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "غوريلا",
+    "homeLogo": "https://jdwel.com/image/teams/5361.png",
+    "away": "آرمى باتريوريتيك",
+    "awayLogo": "https://jdwel.com/image/teams/947.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "موسانزي",
+    "homeLogo": "https://jdwel.com/image/teams/5358.png",
+    "away": "إتينسيلس",
+    "awayLogo": "https://jdwel.com/image/teams/5366.png",
+    "score": "1 - 3",
+    "time": "3:00 م"
+  },
+  {
+    "home": "موكورا",
+    "homeLogo": "https://jdwel.com/image/teams/5367.png",
+    "away": "جيكومبي",
+    "awayLogo": "https://jdwel.com/image/teams/5360.png",
+    "score": "2 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "بوغيسيرا",
+    "homeLogo": "https://jdwel.com/image/teams/5362.png",
+    "away": "رايون سبورت",
+    "awayLogo": "https://jdwel.com/image/teams/rwa_rayon_sports.png",
+    "score": "2 - 1",
+    "time": "3:00 م"
+  },
+  {
+    "home": "مارينز",
+    "homeLogo": "https://jdwel.com/image/teams/5357.png",
+    "away": "كيوفو سبورتس",
+    "awayLogo": "https://jdwel.com/image/teams/5356.png",
+    "score": "1 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "المريخ",
+    "homeLogo": "https://jdwel.com/image/teams/sud_al_merreikh_v2.png",
+    "away": "أماجاجو",
+    "awayLogo": "https://jdwel.com/image/teams/5364.png",
+    "score": "1 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "الهلال",
+    "homeLogo": "https://jdwel.com/image/teams/2939.png",
+    "away": "روتسيرو",
+    "awayLogo": "https://jdwel.com/image/teams/5363.png",
+    "score": "1 - 2",
+    "time": "6:00 م"
+  },
+  {
+    "home": "إتينسيلس",
+    "homeLogo": "https://jdwel.com/image/teams/5366.png",
+    "away": "المريخ",
+    "awayLogo": "https://jdwel.com/image/teams/sud_al_merreikh_v2.png",
+    "score": "1 - 2",
+    "time": "3:00 م"
+  },
+  {
+    "home": "جيكومبي",
+    "homeLogo": "https://jdwel.com/image/teams/5360.png",
+    "away": "مارينز",
+    "awayLogo": "https://jdwel.com/image/teams/5357.png",
+    "score": "1 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "الهلال",
+    "homeLogo": "https://jdwel.com/image/teams/2939.png",
+    "away": "كيوفو سبورتس",
+    "awayLogo": "https://jdwel.com/image/teams/5356.png",
+    "score": "1 - 2",
+    "time": "6:30 م"
+  },
+  {
+    "home": "إيه إس كيغالي",
+    "homeLogo": "https://jdwel.com/image/teams/4405.png",
+    "away": "بوغيسيرا",
+    "awayLogo": "https://jdwel.com/image/teams/5362.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "غوريلا",
+    "homeLogo": "https://jdwel.com/image/teams/5361.png",
+    "away": "رايون سبورت",
+    "awayLogo": "https://jdwel.com/image/teams/rwa_rayon_sports.png",
+    "score": "1 - 2",
+    "time": "6:30 م"
+  },
+  {
+    "home": "أماجاجو",
+    "homeLogo": "https://jdwel.com/image/teams/5364.png",
+    "away": "موكورا",
+    "awayLogo": "https://jdwel.com/image/teams/5367.png",
+    "score": "0 - 1",
+    "time": "3:00 م"
+  },
+  {
+    "home": "إتينسيلس",
+    "homeLogo": "https://jdwel.com/image/teams/5366.png",
+    "away": "بوليس رواندا",
+    "awayLogo": "https://jdwel.com/image/teams/2813.png",
+    "score": "0 - 1",
+    "time": "3:00 م"
+  },
+  {
+    "home": "موسانزي",
+    "homeLogo": "https://jdwel.com/image/teams/5358.png",
+    "away": "موهانغا",
+    "awayLogo": "https://jdwel.com/image/teams/5365.png",
+    "score": "3 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "آرمى باتريوريتيك",
+    "homeLogo": "https://jdwel.com/image/teams/947.png",
+    "away": "جاسوجي يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/5359.png",
+    "score": "2 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "كيوفو سبورتس",
+    "homeLogo": "https://jdwel.com/image/teams/5356.png",
+    "away": "روتسيرو",
+    "awayLogo": "https://jdwel.com/image/teams/5363.png",
+    "score": "1 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "مارينز",
+    "homeLogo": "https://jdwel.com/image/teams/5357.png",
+    "away": "الهلال",
+    "awayLogo": "https://jdwel.com/image/teams/2939.png",
+    "score": "2 - 2",
+    "time": "3:00 م"
+  },
+  {
+    "home": "المريخ",
+    "homeLogo": "https://jdwel.com/image/teams/sud_al_merreikh_v2.png",
+    "away": "جيكومبي",
+    "awayLogo": "https://jdwel.com/image/teams/5360.png",
+    "score": "1 - 0",
+    "time": "6:30 م"
+  },
+  {
+    "home": "المريخ",
+    "homeLogo": "https://jdwel.com/image/teams/sud_al_merreikh_v2.png",
+    "away": "موسانزي",
+    "awayLogo": "https://jdwel.com/image/teams/5358.png",
+    "score": "3 - 2",
+    "time": "3:00 م"
+  },
+  {
+    "home": "غوريلا",
+    "homeLogo": "https://jdwel.com/image/teams/5361.png",
+    "away": "الهلال",
+    "awayLogo": "https://jdwel.com/image/teams/2939.png",
+    "score": "0 - 3",
+    "time": "6:30 م"
+  },
+  {
+    "home": "بوغيسيرا",
+    "homeLogo": "https://jdwel.com/image/teams/5362.png",
+    "away": "بوليس رواندا",
+    "awayLogo": "https://jdwel.com/image/teams/2813.png",
+    "score": "1 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "روتسيرو",
+    "homeLogo": "https://jdwel.com/image/teams/5363.png",
+    "away": "جيكومبي",
+    "awayLogo": "https://jdwel.com/image/teams/5360.png",
+    "score": "2 - 4",
+    "time": "3:00 م"
+  },
+  {
+    "home": "جاسوجي يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/5359.png",
+    "away": "إيه إس كيغالي",
+    "awayLogo": "https://jdwel.com/image/teams/4405.png",
+    "score": "1 - 1",
+    "time": "3:00 م"
+  },
+  {
+    "home": "موهانغا",
+    "homeLogo": "https://jdwel.com/image/teams/5365.png",
+    "away": "آرمى باتريوريتيك",
+    "awayLogo": "https://jdwel.com/image/teams/947.png",
+    "score": "1 - 2",
+    "time": "3:00 م"
+  },
+  {
+    "home": "موكورا",
+    "homeLogo": "https://jdwel.com/image/teams/5367.png",
+    "away": "مارينز",
+    "awayLogo": "https://jdwel.com/image/teams/5357.png",
+    "score": "2 - 1",
+    "time": "3:00 م"
+  },
+  {
+    "home": "كيوفو سبورتس",
+    "homeLogo": "https://jdwel.com/image/teams/5356.png",
+    "away": "أماجاجو",
+    "awayLogo": "https://jdwel.com/image/teams/5364.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "رايون سبورت",
+    "homeLogo": "https://jdwel.com/image/teams/rwa_rayon_sports.png",
+    "away": "إتينسيلس",
+    "awayLogo": "https://jdwel.com/image/teams/5366.png",
+    "score": "1 - 1",
+    "time": "6:30 م"
+  },
+  {
+    "home": "موسانزي",
+    "homeLogo": "https://jdwel.com/image/teams/5358.png",
+    "away": "غوريلا",
+    "awayLogo": "https://jdwel.com/image/teams/5361.png",
+    "score": "0 - 1",
+    "time": "3:00 م"
+  },
+  {
+    "home": "موهانغا",
+    "homeLogo": "https://jdwel.com/image/teams/5365.png",
+    "away": "المريخ",
+    "awayLogo": "https://jdwel.com/image/teams/sud_al_merreikh_v2.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "الهلال",
+    "homeLogo": "https://jdwel.com/image/teams/2939.png",
+    "away": "إيه إس كيغالي",
+    "awayLogo": "https://jdwel.com/image/teams/4405.png",
+    "score": "4 - 2",
+    "time": "6:00 م"
+  },
+  {
+    "home": "مارينز",
+    "homeLogo": "https://jdwel.com/image/teams/5357.png",
+    "away": "أماجاجو",
+    "awayLogo": "https://jdwel.com/image/teams/5364.png",
+    "score": "1 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "جاسوجي يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/5359.png",
+    "away": "موسانزي",
+    "awayLogo": "https://jdwel.com/image/teams/5358.png",
+    "score": "0 - 3",
+    "time": "3:00 م"
+  },
+  {
+    "home": "جيكومبي",
+    "homeLogo": "https://jdwel.com/image/teams/5360.png",
+    "away": "الهلال",
+    "awayLogo": "https://jdwel.com/image/teams/2939.png",
+    "score": "1 - 3",
+    "time": "6:30 م"
+  },
+  {
+    "home": "بوليس رواندا",
+    "homeLogo": "https://jdwel.com/image/teams/2813.png",
+    "away": "غوريلا",
+    "awayLogo": "https://jdwel.com/image/teams/5361.png",
+    "score": "4 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "إتينسيلس",
+    "homeLogo": "https://jdwel.com/image/teams/5366.png",
+    "away": "إيه إس كيغالي",
+    "awayLogo": "https://jdwel.com/image/teams/4405.png",
+    "score": "0 - 1",
+    "time": "3:00 م"
+  },
+  {
+    "home": "آرمى باتريوريتيك",
+    "homeLogo": "https://jdwel.com/image/teams/947.png",
+    "away": "بوغيسيرا",
+    "awayLogo": "https://jdwel.com/image/teams/5362.png",
+    "score": "2 - 1",
+    "time": "6:30 م"
+  },
+  {
+    "home": "رايون سبورت",
+    "homeLogo": "https://jdwel.com/image/teams/rwa_rayon_sports.png",
+    "away": "موهانغا",
+    "awayLogo": "https://jdwel.com/image/teams/5365.png",
+    "score": "2 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "روتسيرو",
+    "homeLogo": "https://jdwel.com/image/teams/5363.png",
+    "away": "موكورا",
+    "awayLogo": "https://jdwel.com/image/teams/5367.png",
+    "score": "1 - 2",
+    "time": "3:00 م"
+  },
+  {
+    "home": "جيكومبي",
+    "homeLogo": "https://jdwel.com/image/teams/5360.png",
+    "away": "كيوفو سبورتس",
+    "awayLogo": "https://jdwel.com/image/teams/5356.png",
+    "score": "1 - 4",
+    "time": "3:00 م"
+  },
+  {
+    "home": "موسانزي",
+    "homeLogo": "https://jdwel.com/image/teams/5358.png",
+    "away": "الهلال",
+    "awayLogo": "https://jdwel.com/image/teams/2939.png",
+    "score": "0 - 1",
+    "time": "3:00 م"
+  },
+  {
+    "home": "جاسوجي يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/5359.png",
+    "away": "المريخ",
+    "awayLogo": "https://jdwel.com/image/teams/sud_al_merreikh_v2.png",
+    "score": "0 - 1",
+    "time": "6:30 م"
+  },
+  {
+    "home": "الهلال",
+    "homeLogo": "https://jdwel.com/image/teams/2939.png",
+    "away": "إتينسيلس",
+    "awayLogo": "https://jdwel.com/image/teams/5366.png",
+    "score": "2 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "المريخ",
+    "homeLogo": "https://jdwel.com/image/teams/sud_al_merreikh_v2.png",
+    "away": "بوليس رواندا",
+    "awayLogo": "https://jdwel.com/image/teams/2813.png",
+    "score": "1 - 1",
+    "time": "6:30 م"
+  },
+  {
+    "home": "موهانغا",
+    "homeLogo": "https://jdwel.com/image/teams/5365.png",
+    "away": "جيكومبي",
+    "awayLogo": "https://jdwel.com/image/teams/5360.png",
+    "score": "2 - 3",
+    "time": "3:00 م"
+  },
+  {
+    "home": "إيه إس كيغالي",
+    "homeLogo": "https://jdwel.com/image/teams/4405.png",
+    "away": "روتسيرو",
+    "awayLogo": "https://jdwel.com/image/teams/5363.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "كيوفو سبورتس",
+    "homeLogo": "https://jdwel.com/image/teams/5356.png",
+    "away": "بوليس رواندا",
+    "awayLogo": "https://jdwel.com/image/teams/2813.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "موسانزي",
+    "homeLogo": "https://jdwel.com/image/teams/5358.png",
+    "away": "مارينز",
+    "awayLogo": "https://jdwel.com/image/teams/5357.png",
+    "score": "3 - 1",
+    "time": "3:00 م"
+  },
+  {
+    "home": "إتينسيلس",
+    "homeLogo": "https://jdwel.com/image/teams/5366.png",
+    "away": "بوغيسيرا",
+    "awayLogo": "https://jdwel.com/image/teams/5362.png",
+    "score": "1 - 2",
+    "time": "3:00 م"
+  },
+  {
+    "home": "المريخ",
+    "homeLogo": "https://jdwel.com/image/teams/sud_al_merreikh_v2.png",
+    "away": "موكورا",
+    "awayLogo": "https://jdwel.com/image/teams/5367.png",
+    "score": "1 - 1",
+    "time": "6:00 م"
+  },
+  {
+    "home": "الهلال",
+    "homeLogo": "https://jdwel.com/image/teams/2939.png",
+    "away": "أماجاجو",
+    "awayLogo": "https://jdwel.com/image/teams/5364.png",
+    "score": "8 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "غوريلا",
+    "homeLogo": "https://jdwel.com/image/teams/5361.png",
+    "away": "جاسوجي يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/5359.png",
+    "score": "1 - 2",
+    "time": "3:00 م"
+  },
+  {
+    "home": "أماجاجو",
+    "homeLogo": "https://jdwel.com/image/teams/5364.png",
+    "away": "آرمى باتريوريتيك",
+    "awayLogo": "https://jdwel.com/image/teams/947.png",
+    "score": "0 - 1",
+    "time": "3:00 م"
+  },
+  {
+    "home": "الهلال",
+    "homeLogo": "https://jdwel.com/image/teams/2939.png",
+    "away": "موهانغا",
+    "awayLogo": "https://jdwel.com/image/teams/5365.png",
+    "score": "3 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "الهلال",
+    "homeLogo": "https://jdwel.com/image/teams/2939.png",
+    "away": "رايون سبورت",
+    "awayLogo": "https://jdwel.com/image/teams/rwa_rayon_sports.png",
+    "score": "4 - 0",
+    "time": "5:30 م"
+  },
+  {
+    "home": "آرمى باتريوريتيك",
+    "homeLogo": "https://jdwel.com/image/teams/947.png",
+    "away": "المريخ",
+    "awayLogo": "https://jdwel.com/image/teams/sud_al_merreikh_v2.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "المريخ",
+    "homeLogo": "https://jdwel.com/image/teams/sud_al_merreikh_v2.png",
+    "away": "رايون سبورت",
+    "awayLogo": "https://jdwel.com/image/teams/rwa_rayon_sports.png",
+    "score": "2 - 2",
+    "time": "3:00 م"
+  },
+  {
+    "home": "موكورا",
+    "homeLogo": "https://jdwel.com/image/teams/5367.png",
+    "away": "رايون سبورت",
+    "awayLogo": "https://jdwel.com/image/teams/rwa_rayon_sports.png",
+    "score": "1 - 1",
+    "time": "3:00 م"
+  },
+  {
+    "home": "بوغيسيرا",
+    "homeLogo": "https://jdwel.com/image/teams/5362.png",
+    "away": "الهلال",
+    "awayLogo": "https://jdwel.com/image/teams/2939.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "جيكومبي",
+    "homeLogo": "https://jdwel.com/image/teams/5360.png",
+    "away": "موسانزي",
+    "awayLogo": "https://jdwel.com/image/teams/5358.png",
+    "score": "0 - 3",
+    "time": "12:30 م"
+  },
+  {
+    "home": "أماجاجو",
+    "homeLogo": "https://jdwel.com/image/teams/5364.png",
+    "away": "مارينز",
+    "awayLogo": "https://jdwel.com/image/teams/5357.png",
+    "score": "1 - 1",
+    "time": "3:00 م"
+  },
+  {
+    "home": "كيوفو سبورتس",
+    "homeLogo": "https://jdwel.com/image/teams/5356.png",
+    "away": "غوريلا",
+    "awayLogo": "https://jdwel.com/image/teams/5361.png",
+    "score": "0 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "موكورا",
+    "homeLogo": "https://jdwel.com/image/teams/5367.png",
+    "away": "إتينسيلس",
+    "awayLogo": "https://jdwel.com/image/teams/5366.png",
+    "score": "1 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "جاسوجي يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/5359.png",
+    "away": "آرمى باتريوريتيك",
+    "awayLogo": "https://jdwel.com/image/teams/947.png",
+    "score": "0 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "إيه إس كيغالي",
+    "homeLogo": "https://jdwel.com/image/teams/4405.png",
+    "away": "رايون سبورت",
+    "awayLogo": "https://jdwel.com/image/teams/rwa_rayon_sports.png",
+    "score": "0 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "غوريلا",
+    "homeLogo": "https://jdwel.com/image/teams/5361.png",
+    "away": "روتسيرو",
+    "awayLogo": "https://jdwel.com/image/teams/5363.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "بوغيسيرا",
+    "homeLogo": "https://jdwel.com/image/teams/5362.png",
+    "away": "آرمى باتريوريتيك",
+    "awayLogo": "https://jdwel.com/image/teams/947.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "كيوفو سبورتس",
+    "homeLogo": "https://jdwel.com/image/teams/5356.png",
+    "away": "موكورا",
+    "awayLogo": "https://jdwel.com/image/teams/5367.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "إتينسيلس",
+    "homeLogo": "https://jdwel.com/image/teams/5366.png",
+    "away": "موسانزي",
+    "awayLogo": "https://jdwel.com/image/teams/5358.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "جيكومبي",
+    "homeLogo": "https://jdwel.com/image/teams/5360.png",
+    "away": "أماجاجو",
+    "awayLogo": "https://jdwel.com/image/teams/5364.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "موهانغا",
+    "homeLogo": "https://jdwel.com/image/teams/5365.png",
+    "away": "جاسوجي يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/5359.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "مارينز",
+    "homeLogo": "https://jdwel.com/image/teams/5357.png",
+    "away": "المريخ",
+    "awayLogo": "https://jdwel.com/image/teams/sud_al_merreikh_v2.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "بوليس رواندا",
+    "homeLogo": "https://jdwel.com/image/teams/2813.png",
+    "away": "إيه إس كيغالي",
+    "awayLogo": "https://jdwel.com/image/teams/4405.png",
+    "score": "0 - 0",
+    "time": "6:30 م"
+  },
+  {
+    "home": "الهلال",
+    "homeLogo": "https://jdwel.com/image/teams/2939.png",
+    "away": "المريخ",
+    "awayLogo": "https://jdwel.com/image/teams/sud_al_merreikh_v2.png",
+    "score": "0 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "موسانزي",
+    "homeLogo": "https://jdwel.com/image/teams/5358.png",
+    "away": "المريخ",
+    "awayLogo": "https://jdwel.com/image/teams/sud_al_merreikh_v2.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "بوليس رواندا",
+    "homeLogo": "https://jdwel.com/image/teams/2813.png",
+    "away": "رايون سبورت",
+    "awayLogo": "https://jdwel.com/image/teams/rwa_rayon_sports.png",
+    "score": "0 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "بوغيسيرا",
+    "homeLogo": "https://jdwel.com/image/teams/5362.png",
+    "away": "غوريلا",
+    "awayLogo": "https://jdwel.com/image/teams/5361.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "آرمى باتريوريتيك",
+    "homeLogo": "https://jdwel.com/image/teams/947.png",
+    "away": "كيوفو سبورتس",
+    "awayLogo": "https://jdwel.com/image/teams/5356.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "روتسيرو",
+    "homeLogo": "https://jdwel.com/image/teams/5363.png",
+    "away": "الهلال",
+    "awayLogo": "https://jdwel.com/image/teams/2939.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "إتينسيلس",
+    "homeLogo": "https://jdwel.com/image/teams/5366.png",
+    "away": "موهانغا",
+    "awayLogo": "https://jdwel.com/image/teams/5365.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "أماجاجو",
+    "homeLogo": "https://jdwel.com/image/teams/5364.png",
+    "away": "إيه إس كيغالي",
+    "awayLogo": "https://jdwel.com/image/teams/4405.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "جاسوجي يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/5359.png",
+    "away": "موكورا",
+    "awayLogo": "https://jdwel.com/image/teams/5367.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "مارينز",
+    "homeLogo": "https://jdwel.com/image/teams/5357.png",
+    "away": "جيكومبي",
+    "awayLogo": "https://jdwel.com/image/teams/5360.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "الهلال",
+    "homeLogo": "https://jdwel.com/image/teams/2939.png",
+    "away": "آرمى باتريوريتيك",
+    "awayLogo": "https://jdwel.com/image/teams/947.png",
+    "score": "0 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "جاسوجي يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/5359.png",
+    "away": "أماجاجو",
+    "awayLogo": "https://jdwel.com/image/teams/5364.png",
+    "score": "0 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "بوليس رواندا",
+    "homeLogo": "https://jdwel.com/image/teams/2813.png",
+    "away": "آرمى باتريوريتيك",
+    "awayLogo": "https://jdwel.com/image/teams/947.png",
+    "score": "0 - 0",
+    "time": "7:00 م"
+  },
+  {
+    "home": "كيوفو سبورتس",
+    "homeLogo": "https://jdwel.com/image/teams/5356.png",
+    "away": "مارينز",
+    "awayLogo": "https://jdwel.com/image/teams/5357.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "موهانغا",
+    "homeLogo": "https://jdwel.com/image/teams/5365.png",
+    "away": "روتسيرو",
+    "awayLogo": "https://jdwel.com/image/teams/5363.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "إتينسيلس",
+    "homeLogo": "https://jdwel.com/image/teams/5366.png",
+    "away": "جيكومبي",
+    "awayLogo": "https://jdwel.com/image/teams/5360.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "رايون سبورت",
+    "homeLogo": "https://jdwel.com/image/teams/rwa_rayon_sports.png",
+    "away": "موكورا",
+    "awayLogo": "https://jdwel.com/image/teams/5367.png",
+    "score": "0 - 0",
+    "time": "6:30 م"
+  },
+  {
+    "home": "بوغيسيرا",
+    "homeLogo": "https://jdwel.com/image/teams/5362.png",
+    "away": "موسانزي",
+    "awayLogo": "https://jdwel.com/image/teams/5358.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "الهلال",
+    "homeLogo": "https://jdwel.com/image/teams/2939.png",
+    "away": "غوريلا",
+    "awayLogo": "https://jdwel.com/image/teams/5361.png",
+    "score": "0 - 0",
+    "time": "4:30 م"
+  },
+  {
+    "home": "إيه إس كيغالي",
+    "homeLogo": "https://jdwel.com/image/teams/4405.png",
+    "away": "المريخ",
+    "awayLogo": "https://jdwel.com/image/teams/sud_al_merreikh_v2.png",
+    "score": "0 - 0",
+    "time": "8:00 م"
+  },
+  {
+    "home": "المريخ",
+    "homeLogo": "https://jdwel.com/image/teams/sud_al_merreikh_v2.png",
+    "away": "موهانغا",
+    "awayLogo": "https://jdwel.com/image/teams/5365.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "روتسيرو",
+    "homeLogo": "https://jdwel.com/image/teams/5363.png",
+    "away": "بوليس رواندا",
+    "awayLogo": "https://jdwel.com/image/teams/2813.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "رايون سبورت",
+    "homeLogo": "https://jdwel.com/image/teams/rwa_rayon_sports.png",
+    "away": "الهلال",
+    "awayLogo": "https://jdwel.com/image/teams/2939.png",
+    "score": "0 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "المريخ",
+    "homeLogo": "https://jdwel.com/image/teams/sud_al_merreikh_v2.png",
+    "away": "جاسوجي يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/5359.png",
+    "score": "0 - 0",
+    "time": "8:00 م"
+  },
+  {
+    "home": "كيوفو سبورتس",
+    "homeLogo": "https://jdwel.com/image/teams/5356.png",
+    "away": "جيكومبي",
+    "awayLogo": "https://jdwel.com/image/teams/5360.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "موسانزي",
+    "homeLogo": "https://jdwel.com/image/teams/5358.png",
+    "away": "رايون سبورت",
+    "awayLogo": "https://jdwel.com/image/teams/rwa_rayon_sports.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "موهانغا",
+    "homeLogo": "https://jdwel.com/image/teams/5365.png",
+    "away": "بوليس رواندا",
+    "awayLogo": "https://jdwel.com/image/teams/2813.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "روتسيرو",
+    "homeLogo": "https://jdwel.com/image/teams/5363.png",
+    "away": "مارينز",
+    "awayLogo": "https://jdwel.com/image/teams/5357.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "آرمى باتريوريتيك",
+    "homeLogo": "https://jdwel.com/image/teams/947.png",
+    "away": "غوريلا",
+    "awayLogo": "https://jdwel.com/image/teams/5361.png",
+    "score": "0 - 0",
+    "time": "6:30 م"
+  },
+  {
+    "home": "إيه إس كيغالي",
+    "homeLogo": "https://jdwel.com/image/teams/4405.png",
+    "away": "إتينسيلس",
+    "awayLogo": "https://jdwel.com/image/teams/5366.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "بوغيسيرا",
+    "homeLogo": "https://jdwel.com/image/teams/5362.png",
+    "away": "أماجاجو",
+    "awayLogo": "https://jdwel.com/image/teams/5364.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "موكورا",
+    "homeLogo": "https://jdwel.com/image/teams/5367.png",
+    "away": "الهلال",
+    "awayLogo": "https://jdwel.com/image/teams/2939.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "موسانزي",
+    "homeLogo": "https://jdwel.com/image/teams/5358.png",
+    "away": "موكورا",
+    "awayLogo": "https://jdwel.com/image/teams/5367.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "بوغيسيرا",
+    "homeLogo": "https://jdwel.com/image/teams/5362.png",
+    "away": "كيوفو سبورتس",
+    "awayLogo": "https://jdwel.com/image/teams/5356.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "مارينز",
+    "homeLogo": "https://jdwel.com/image/teams/5357.png",
+    "away": "آرمى باتريوريتيك",
+    "awayLogo": "https://jdwel.com/image/teams/947.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "الهلال",
+    "homeLogo": "https://jdwel.com/image/teams/2939.png",
+    "away": "جيكومبي",
+    "awayLogo": "https://jdwel.com/image/teams/5360.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "أماجاجو",
+    "homeLogo": "https://jdwel.com/image/teams/5364.png",
+    "away": "غوريلا",
+    "awayLogo": "https://jdwel.com/image/teams/5361.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "إيه إس كيغالي",
+    "homeLogo": "https://jdwel.com/image/teams/4405.png",
+    "away": "موهانغا",
+    "awayLogo": "https://jdwel.com/image/teams/5365.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "إتينسيلس",
+    "homeLogo": "https://jdwel.com/image/teams/5366.png",
+    "away": "رايون سبورت",
+    "awayLogo": "https://jdwel.com/image/teams/rwa_rayon_sports.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "جاسوجي يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/5359.png",
+    "away": "روتسيرو",
+    "awayLogo": "https://jdwel.com/image/teams/5363.png",
+    "score": "0 - 0",
+    "time": "6:30 م"
+  },
+  {
+    "home": "بوليس رواندا",
+    "homeLogo": "https://jdwel.com/image/teams/2813.png",
+    "away": "المريخ",
+    "awayLogo": "https://jdwel.com/image/teams/sud_al_merreikh_v2.png",
+    "score": "0 - 0",
+    "time": "7:00 م"
+  },
+  {
+    "home": "غوريلا",
+    "homeLogo": "https://jdwel.com/image/teams/5361.png",
+    "away": "مارينز",
+    "awayLogo": "https://jdwel.com/image/teams/5357.png",
+    "score": "0 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "رايون سبورت",
+    "homeLogo": "https://jdwel.com/image/teams/rwa_rayon_sports.png",
+    "away": "المريخ",
+    "awayLogo": "https://jdwel.com/image/teams/sud_al_merreikh_v2.png",
+    "score": "0 - 0",
+    "time": "7:00 م"
+  },
+  {
+    "home": "روتسيرو",
+    "homeLogo": "https://jdwel.com/image/teams/5363.png",
+    "away": "إتينسيلس",
+    "awayLogo": "https://jdwel.com/image/teams/5366.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "جاسوجي يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/5359.png",
+    "away": "بوغيسيرا",
+    "awayLogo": "https://jdwel.com/image/teams/5362.png",
+    "score": "0 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "آرمى باتريوريتيك",
+    "homeLogo": "https://jdwel.com/image/teams/947.png",
+    "away": "موسانزي",
+    "awayLogo": "https://jdwel.com/image/teams/5358.png",
+    "score": "0 - 0",
+    "time": "7:00 م"
+  },
+  {
+    "home": "كيوفو سبورتس",
+    "homeLogo": "https://jdwel.com/image/teams/5356.png",
+    "away": "إيه إس كيغالي",
+    "awayLogo": "https://jdwel.com/image/teams/4405.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "موهانغا",
+    "homeLogo": "https://jdwel.com/image/teams/5365.png",
+    "away": "موكورا",
+    "awayLogo": "https://jdwel.com/image/teams/5367.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "جيكومبي",
+    "homeLogo": "https://jdwel.com/image/teams/5360.png",
+    "away": "بوليس رواندا",
+    "awayLogo": "https://jdwel.com/image/teams/2813.png",
+    "score": "0 - 0",
+    "time": "6:30 م"
+  },
+  {
+    "home": "أماجاجو",
+    "homeLogo": "https://jdwel.com/image/teams/5364.png",
+    "away": "الهلال",
+    "awayLogo": "https://jdwel.com/image/teams/2939.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "جيكومبي",
+    "homeLogo": "https://jdwel.com/image/teams/5360.png",
+    "away": "غوريلا",
+    "awayLogo": "https://jdwel.com/image/teams/5361.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "رايون سبورت",
+    "homeLogo": "https://jdwel.com/image/teams/rwa_rayon_sports.png",
+    "away": "جاسوجي يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/5359.png",
+    "score": "0 - 0",
+    "time": "6:30 م"
+  },
+  {
+    "home": "موهانغا",
+    "homeLogo": "https://jdwel.com/image/teams/5365.png",
+    "away": "موسانزي",
+    "awayLogo": "https://jdwel.com/image/teams/5358.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "مارينز",
+    "homeLogo": "https://jdwel.com/image/teams/5357.png",
+    "away": "موكورا",
+    "awayLogo": "https://jdwel.com/image/teams/5367.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "بوليس رواندا",
+    "homeLogo": "https://jdwel.com/image/teams/2813.png",
+    "away": "إتينسيلس",
+    "awayLogo": "https://jdwel.com/image/teams/5366.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "بوغيسيرا",
+    "homeLogo": "https://jdwel.com/image/teams/5362.png",
+    "away": "إيه إس كيغالي",
+    "awayLogo": "https://jdwel.com/image/teams/4405.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "روتسيرو",
+    "homeLogo": "https://jdwel.com/image/teams/5363.png",
+    "away": "كيوفو سبورتس",
+    "awayLogo": "https://jdwel.com/image/teams/5356.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "آرمى باتريوريتيك",
+    "homeLogo": "https://jdwel.com/image/teams/947.png",
+    "away": "أماجاجو",
+    "awayLogo": "https://jdwel.com/image/teams/5364.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "المريخ",
+    "homeLogo": "https://jdwel.com/image/teams/sud_al_merreikh_v2.png",
+    "away": "الهلال",
+    "awayLogo": "https://jdwel.com/image/teams/2939.png",
+    "score": "0 - 0",
+    "time": "7:30 م"
+  },
+  {
+    "home": "كيوفو سبورتس",
+    "homeLogo": "https://jdwel.com/image/teams/5356.png",
+    "away": "جاسوجي يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/5359.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "إيه إس كيغالي",
+    "homeLogo": "https://jdwel.com/image/teams/4405.png",
+    "away": "موكورا",
+    "awayLogo": "https://jdwel.com/image/teams/5367.png",
+    "score": "0 - 0",
+    "time": "6:30 م"
+  },
+  {
+    "home": "المريخ",
+    "homeLogo": "https://jdwel.com/image/teams/sud_al_merreikh_v2.png",
+    "away": "روتسيرو",
+    "awayLogo": "https://jdwel.com/image/teams/5363.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "أماجاجو",
+    "homeLogo": "https://jdwel.com/image/teams/5364.png",
+    "away": "بوليس رواندا",
+    "awayLogo": "https://jdwel.com/image/teams/2813.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "بوغيسيرا",
+    "homeLogo": "https://jdwel.com/image/teams/5362.png",
+    "away": "إتينسيلس",
+    "awayLogo": "https://jdwel.com/image/teams/5366.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "رايون سبورت",
+    "homeLogo": "https://jdwel.com/image/teams/rwa_rayon_sports.png",
+    "away": "جيكومبي",
+    "awayLogo": "https://jdwel.com/image/teams/5360.png",
+    "score": "0 - 0",
+    "time": "6:30 م"
+  },
+  {
+    "home": "غوريلا",
+    "homeLogo": "https://jdwel.com/image/teams/5361.png",
+    "away": "موسانزي",
+    "awayLogo": "https://jdwel.com/image/teams/5358.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "آرمى باتريوريتيك",
+    "homeLogo": "https://jdwel.com/image/teams/947.png",
+    "away": "موهانغا",
+    "awayLogo": "https://jdwel.com/image/teams/5365.png",
+    "score": "0 - 0",
+    "time": "6:30 م"
+  },
+  {
+    "home": "الهلال",
+    "homeLogo": "https://jdwel.com/image/teams/2939.png",
+    "away": "مارينز",
+    "awayLogo": "https://jdwel.com/image/teams/5357.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "موسانزي",
+    "homeLogo": "https://jdwel.com/image/teams/5358.png",
+    "away": "أماجاجو",
+    "awayLogo": "https://jdwel.com/image/teams/5364.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "مارينز",
+    "homeLogo": "https://jdwel.com/image/teams/5357.png",
+    "away": "إيه إس كيغالي",
+    "awayLogo": "https://jdwel.com/image/teams/4405.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "جاسوجي يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/5359.png",
+    "away": "غوريلا",
+    "awayLogo": "https://jdwel.com/image/teams/5361.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "موكورا",
+    "homeLogo": "https://jdwel.com/image/teams/5367.png",
+    "away": "المريخ",
+    "awayLogo": "https://jdwel.com/image/teams/sud_al_merreikh_v2.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "إتينسيلس",
+    "homeLogo": "https://jdwel.com/image/teams/5366.png",
+    "away": "آرمى باتريوريتيك",
+    "awayLogo": "https://jdwel.com/image/teams/947.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "جيكومبي",
+    "homeLogo": "https://jdwel.com/image/teams/5360.png",
+    "away": "موهانغا",
+    "awayLogo": "https://jdwel.com/image/teams/5365.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "كيوفو سبورتس",
+    "homeLogo": "https://jdwel.com/image/teams/5356.png",
+    "away": "الهلال",
+    "awayLogo": "https://jdwel.com/image/teams/2939.png",
+    "score": "0 - 0",
+    "time": "6:30 م"
+  },
+  {
+    "home": "بوليس رواندا",
+    "homeLogo": "https://jdwel.com/image/teams/2813.png",
+    "away": "بوغيسيرا",
+    "awayLogo": "https://jdwel.com/image/teams/5362.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "روتسيرو",
+    "homeLogo": "https://jdwel.com/image/teams/5363.png",
+    "away": "رايون سبورت",
+    "awayLogo": "https://jdwel.com/image/teams/rwa_rayon_sports.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "إيه إس كيغالي",
+    "homeLogo": "https://jdwel.com/image/teams/4405.png",
+    "away": "جاسوجي يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/5359.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "موهانغا",
+    "homeLogo": "https://jdwel.com/image/teams/5365.png",
+    "away": "غوريلا",
+    "awayLogo": "https://jdwel.com/image/teams/5361.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "جيكومبي",
+    "homeLogo": "https://jdwel.com/image/teams/5360.png",
+    "away": "روتسيرو",
+    "awayLogo": "https://jdwel.com/image/teams/5363.png",
+    "score": "0 - 0",
+    "time": "7:30 م"
+  },
+  {
+    "home": "الهلال",
+    "homeLogo": "https://jdwel.com/image/teams/2939.png",
+    "away": "موسانزي",
+    "awayLogo": "https://jdwel.com/image/teams/5358.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "موكورا",
+    "homeLogo": "https://jdwel.com/image/teams/5367.png",
+    "away": "آرمى باتريوريتيك",
+    "awayLogo": "https://jdwel.com/image/teams/947.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "بوليس رواندا",
+    "homeLogo": "https://jdwel.com/image/teams/2813.png",
+    "away": "مارينز",
+    "awayLogo": "https://jdwel.com/image/teams/5357.png",
+    "score": "0 - 0",
+    "time": "7:30 م"
+  },
+  {
+    "home": "المريخ",
+    "homeLogo": "https://jdwel.com/image/teams/sud_al_merreikh_v2.png",
+    "away": "بوغيسيرا",
+    "awayLogo": "https://jdwel.com/image/teams/5362.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "أماجاجو",
+    "homeLogo": "https://jdwel.com/image/teams/5364.png",
+    "away": "رايون سبورت",
+    "awayLogo": "https://jdwel.com/image/teams/rwa_rayon_sports.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "إتينسيلس",
+    "homeLogo": "https://jdwel.com/image/teams/5366.png",
+    "away": "كيوفو سبورتس",
+    "awayLogo": "https://jdwel.com/image/teams/5356.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "مارينز",
+    "homeLogo": "https://jdwel.com/image/teams/5357.png",
+    "away": "جاسوجي يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/5359.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "غوريلا",
+    "homeLogo": "https://jdwel.com/image/teams/5361.png",
+    "away": "بوليس رواندا",
+    "awayLogo": "https://jdwel.com/image/teams/2813.png",
+    "score": "0 - 0",
+    "time": "7:30 م"
+  },
+  {
+    "home": "جيكومبي",
+    "homeLogo": "https://jdwel.com/image/teams/5360.png",
+    "away": "المريخ",
+    "awayLogo": "https://jdwel.com/image/teams/sud_al_merreikh_v2.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "إتينسيلس",
+    "homeLogo": "https://jdwel.com/image/teams/5366.png",
+    "away": "أماجاجو",
+    "awayLogo": "https://jdwel.com/image/teams/5364.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "رايون سبورت",
+    "homeLogo": "https://jdwel.com/image/teams/rwa_rayon_sports.png",
+    "away": "آرمى باتريوريتيك",
+    "awayLogo": "https://jdwel.com/image/teams/947.png",
+    "score": "0 - 0",
+    "time": "7:00 م"
+  },
+  {
+    "home": "موسانزي",
+    "homeLogo": "https://jdwel.com/image/teams/5358.png",
+    "away": "كيوفو سبورتس",
+    "awayLogo": "https://jdwel.com/image/teams/5356.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "موهانغا",
+    "homeLogo": "https://jdwel.com/image/teams/5365.png",
+    "away": "بوغيسيرا",
+    "awayLogo": "https://jdwel.com/image/teams/5362.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "إيه إس كيغالي",
+    "homeLogo": "https://jdwel.com/image/teams/4405.png",
+    "away": "الهلال",
+    "awayLogo": "https://jdwel.com/image/teams/2939.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "موكورا",
+    "homeLogo": "https://jdwel.com/image/teams/5367.png",
+    "away": "روتسيرو",
+    "awayLogo": "https://jdwel.com/image/teams/5363.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  }
+]

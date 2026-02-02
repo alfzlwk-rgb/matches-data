@@ -1,0 +1,2450 @@
+[
+  {
+    "home": "بورنيو ساماريندا",
+    "homeLogo": "https://jdwel.com/image/teams/533.png",
+    "away": "بهايانكارا",
+    "awayLogo": "https://jdwel.com/image/teams/4827.png",
+    "score": "1 - 0",
+    "time": "11:30 ص"
+  },
+  {
+    "home": "بيرسيبايا سورابايا",
+    "homeLogo": "https://jdwel.com/image/teams/524.png",
+    "away": "بيسيم يوجياكارتا",
+    "awayLogo": "https://jdwel.com/image/teams/4828.png",
+    "score": "0 - 1",
+    "time": "3:00 م"
+  },
+  {
+    "home": "بي إس إم ماكاسار",
+    "homeLogo": "https://jdwel.com/image/teams/2088.png",
+    "away": "بيرسيجاب",
+    "awayLogo": "https://jdwel.com/image/teams/4825.png",
+    "score": "1 - 1",
+    "time": "3:00 م"
+  },
+  {
+    "home": "بيرسيب باندونغ",
+    "homeLogo": "https://jdwel.com/image/teams/1250.png",
+    "away": "سيمين بادانغ",
+    "awayLogo": "https://jdwel.com/image/teams/826.png",
+    "score": "2 - 0",
+    "time": "11:30 ص"
+  },
+  {
+    "home": "مادورا يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/532.png",
+    "away": "بيرسيس سولو",
+    "awayLogo": "https://jdwel.com/image/teams/531.png",
+    "score": "1 - 2",
+    "time": "3:00 م"
+  },
+  {
+    "home": "ديوا يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/523.png",
+    "away": "مالوت يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/825.png",
+    "score": "1 - 3",
+    "time": "3:00 م"
+  },
+  {
+    "home": "بالي يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/2087.png",
+    "away": "بيرسيك كيديري",
+    "awayLogo": "https://jdwel.com/image/teams/4826.png",
+    "score": "1 - 1",
+    "time": "11:30 ص"
+  },
+  {
+    "home": "بيرسيجا",
+    "homeLogo": "https://jdwel.com/image/teams/2085.png",
+    "away": "بيرسيتا",
+    "awayLogo": "https://jdwel.com/image/teams/2084.png",
+    "score": "4 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "آريما كرونوس",
+    "homeLogo": "https://jdwel.com/image/teams/2089.png",
+    "away": "PSBS بياك نومفور",
+    "awayLogo": "https://jdwel.com/image/teams/2083.png",
+    "score": "4 - 1",
+    "time": "11:30 ص"
+  },
+  {
+    "home": "سيمين بادانغ",
+    "homeLogo": "https://jdwel.com/image/teams/826.png",
+    "away": "ديوا يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/523.png",
+    "score": "2 - 0",
+    "time": "11:30 ص"
+  },
+  {
+    "home": "مالوت يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/825.png",
+    "away": "بالي يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/2087.png",
+    "score": "3 - 3",
+    "time": "3:00 م"
+  },
+  {
+    "home": "بيسيم يوجياكارتا",
+    "homeLogo": "https://jdwel.com/image/teams/4828.png",
+    "away": "آريما كرونوس",
+    "awayLogo": "https://jdwel.com/image/teams/2089.png",
+    "score": "1 - 1",
+    "time": "11:30 ص"
+  },
+  {
+    "home": "بيرسيك كيديري",
+    "homeLogo": "https://jdwel.com/image/teams/4826.png",
+    "away": "مادورا يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/532.png",
+    "score": "1 - 2",
+    "time": "11:30 ص"
+  },
+  {
+    "home": "بهايانكارا",
+    "homeLogo": "https://jdwel.com/image/teams/4827.png",
+    "away": "بي إس إم ماكاسار",
+    "awayLogo": "https://jdwel.com/image/teams/2088.png",
+    "score": "1 - 1",
+    "time": "11:30 ص"
+  },
+  {
+    "home": "بيرسيتا",
+    "homeLogo": "https://jdwel.com/image/teams/2084.png",
+    "away": "بيرسيبايا سورابايا",
+    "awayLogo": "https://jdwel.com/image/teams/524.png",
+    "score": "0 - 1",
+    "time": "11:30 ص"
+  },
+  {
+    "home": "بيرسيس سولو",
+    "homeLogo": "https://jdwel.com/image/teams/531.png",
+    "away": "بيرسيجا",
+    "awayLogo": "https://jdwel.com/image/teams/2085.png",
+    "score": "0 - 3",
+    "time": "3:00 م"
+  },
+  {
+    "home": "PSBS بياك نومفور",
+    "homeLogo": "https://jdwel.com/image/teams/2083.png",
+    "away": "بورنيو ساماريندا",
+    "awayLogo": "https://jdwel.com/image/teams/533.png",
+    "score": "0 - 1",
+    "time": "11:30 ص"
+  },
+  {
+    "home": "بيرسيجاب",
+    "homeLogo": "https://jdwel.com/image/teams/4825.png",
+    "away": "بيرسيب باندونغ",
+    "awayLogo": "https://jdwel.com/image/teams/1250.png",
+    "score": "2 - 1",
+    "time": "2:30 م"
+  },
+  {
+    "home": "سيمين بادانغ",
+    "homeLogo": "https://jdwel.com/image/teams/826.png",
+    "away": "بي إس إم ماكاسار",
+    "awayLogo": "https://jdwel.com/image/teams/2088.png",
+    "score": "1 - 1",
+    "time": "11:30 ص"
+  },
+  {
+    "home": "آريما كرونوس",
+    "homeLogo": "https://jdwel.com/image/teams/2089.png",
+    "away": "بهايانكارا",
+    "awayLogo": "https://jdwel.com/image/teams/4827.png",
+    "score": "2 - 1",
+    "time": "11:30 ص"
+  },
+  {
+    "home": "ديوا يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/523.png",
+    "away": "بيرسيك كيديري",
+    "awayLogo": "https://jdwel.com/image/teams/4826.png",
+    "score": "3 - 1",
+    "time": "3:00 م"
+  },
+  {
+    "home": "بيرسيجا",
+    "homeLogo": "https://jdwel.com/image/teams/2085.png",
+    "away": "مالوت يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/825.png",
+    "score": "1 - 1",
+    "time": "11:30 ص"
+  },
+  {
+    "home": "PSBS بياك نومفور",
+    "homeLogo": "https://jdwel.com/image/teams/2083.png",
+    "away": "بيرسيس سولو",
+    "awayLogo": "https://jdwel.com/image/teams/531.png",
+    "score": "2 - 2",
+    "time": "11:30 ص"
+  },
+  {
+    "home": "بيرسيبايا سورابايا",
+    "homeLogo": "https://jdwel.com/image/teams/524.png",
+    "away": "بالي يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/2087.png",
+    "score": "5 - 2",
+    "time": "3:00 م"
+  },
+  {
+    "home": "بيسيم يوجياكارتا",
+    "homeLogo": "https://jdwel.com/image/teams/4828.png",
+    "away": "بيرسيب باندونغ",
+    "awayLogo": "https://jdwel.com/image/teams/1250.png",
+    "score": "1 - 1",
+    "time": "11:30 ص"
+  },
+  {
+    "home": "بورنيو ساماريندا",
+    "homeLogo": "https://jdwel.com/image/teams/533.png",
+    "away": "بيرسيجاب",
+    "awayLogo": "https://jdwel.com/image/teams/4825.png",
+    "score": "3 - 1",
+    "time": "11:30 ص"
+  },
+  {
+    "home": "مادورا يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/532.png",
+    "away": "بيرسيتا",
+    "awayLogo": "https://jdwel.com/image/teams/2084.png",
+    "score": "1 - 1",
+    "time": "3:00 م"
+  },
+  {
+    "home": "بهايانكارا",
+    "homeLogo": "https://jdwel.com/image/teams/4827.png",
+    "away": "بيرسيس سولو",
+    "awayLogo": "https://jdwel.com/image/teams/531.png",
+    "score": "2 - 0",
+    "time": "11:30 ص"
+  },
+  {
+    "home": "PSBS بياك نومفور",
+    "homeLogo": "https://jdwel.com/image/teams/2083.png",
+    "away": "بيرسيك كيديري",
+    "awayLogo": "https://jdwel.com/image/teams/4826.png",
+    "score": "1 - 2",
+    "time": "11:30 ص"
+  },
+  {
+    "home": "ديوا يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/523.png",
+    "away": "بيرسيجا",
+    "awayLogo": "https://jdwel.com/image/teams/2085.png",
+    "score": "1 - 3",
+    "time": "3:00 م"
+  },
+  {
+    "home": "بيرسيجاب",
+    "homeLogo": "https://jdwel.com/image/teams/4825.png",
+    "away": "آريما كرونوس",
+    "awayLogo": "https://jdwel.com/image/teams/2089.png",
+    "score": "0 - 0",
+    "time": "11:30 ص"
+  },
+  {
+    "home": "بالي يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/2087.png",
+    "away": "مادورا يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/532.png",
+    "score": "1 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "مالوت يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/825.png",
+    "away": "بيسيم يوجياكارتا",
+    "awayLogo": "https://jdwel.com/image/teams/4828.png",
+    "score": "0 - 2",
+    "time": "3:00 م"
+  },
+  {
+    "home": "سيمين بادانغ",
+    "homeLogo": "https://jdwel.com/image/teams/826.png",
+    "away": "PSBS بياك نومفور",
+    "awayLogo": "https://jdwel.com/image/teams/2083.png",
+    "score": "1 - 2",
+    "time": "11:30 ص"
+  },
+  {
+    "home": "بيرسيتا",
+    "homeLogo": "https://jdwel.com/image/teams/2084.png",
+    "away": "بي إس إم ماكاسار",
+    "awayLogo": "https://jdwel.com/image/teams/2088.png",
+    "score": "2 - 1",
+    "time": "3:00 م"
+  },
+  {
+    "home": "بيرسيب باندونغ",
+    "homeLogo": "https://jdwel.com/image/teams/1250.png",
+    "away": "بيرسيبايا سورابايا",
+    "awayLogo": "https://jdwel.com/image/teams/524.png",
+    "score": "1 - 0",
+    "time": "11:30 ص"
+  },
+  {
+    "home": "بيرسيك كيديري",
+    "homeLogo": "https://jdwel.com/image/teams/4826.png",
+    "away": "مالوت يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/825.png",
+    "score": "2 - 1",
+    "time": "11:30 ص"
+  },
+  {
+    "home": "مادورا يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/532.png",
+    "away": "بهايانكارا",
+    "awayLogo": "https://jdwel.com/image/teams/4827.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "آريما كرونوس",
+    "homeLogo": "https://jdwel.com/image/teams/2089.png",
+    "away": "ديوا يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/523.png",
+    "score": "1 - 2",
+    "time": "11:30 ص"
+  },
+  {
+    "home": "بيرسيس سولو",
+    "homeLogo": "https://jdwel.com/image/teams/531.png",
+    "away": "بيرسيجاب",
+    "awayLogo": "https://jdwel.com/image/teams/4825.png",
+    "score": "1 - 2",
+    "time": "3:00 م"
+  },
+  {
+    "home": "بيسيم يوجياكارتا",
+    "homeLogo": "https://jdwel.com/image/teams/4828.png",
+    "away": "بورنيو ساماريندا",
+    "awayLogo": "https://jdwel.com/image/teams/533.png",
+    "score": "1 - 3",
+    "time": "11:30 ص"
+  },
+  {
+    "home": "بيرسيجا",
+    "homeLogo": "https://jdwel.com/image/teams/2085.png",
+    "away": "بالي يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/2087.png",
+    "score": "1 - 1",
+    "time": "3:00 م"
+  },
+  {
+    "home": "بهايانكارا",
+    "homeLogo": "https://jdwel.com/image/teams/4827.png",
+    "away": "بيرسيك كيديري",
+    "awayLogo": "https://jdwel.com/image/teams/4826.png",
+    "score": "1 - 0",
+    "time": "11:30 ص"
+  },
+  {
+    "home": "بيرسيبايا سورابايا",
+    "homeLogo": "https://jdwel.com/image/teams/524.png",
+    "away": "سيمين بادانغ",
+    "awayLogo": "https://jdwel.com/image/teams/826.png",
+    "score": "1 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "مالوت يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/825.png",
+    "away": "مادورا يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/532.png",
+    "score": "4 - 1",
+    "time": "3:00 م"
+  },
+  {
+    "home": "ديوا يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/523.png",
+    "away": "PSBS بياك نومفور",
+    "awayLogo": "https://jdwel.com/image/teams/2083.png",
+    "score": "3 - 1",
+    "time": "11:30 ص"
+  },
+  {
+    "home": "بالي يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/2087.png",
+    "away": "بيسيم يوجياكارتا",
+    "awayLogo": "https://jdwel.com/image/teams/4828.png",
+    "score": "1 - 3",
+    "time": "3:00 م"
+  },
+  {
+    "home": "بيرسيجاب",
+    "homeLogo": "https://jdwel.com/image/teams/4825.png",
+    "away": "بيرسيتا",
+    "awayLogo": "https://jdwel.com/image/teams/2084.png",
+    "score": "1 - 2",
+    "time": "11:30 ص"
+  },
+  {
+    "home": "بي إس إم ماكاسار",
+    "homeLogo": "https://jdwel.com/image/teams/2088.png",
+    "away": "بيرسيجا",
+    "awayLogo": "https://jdwel.com/image/teams/2085.png",
+    "score": "2 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "آريما كرونوس",
+    "homeLogo": "https://jdwel.com/image/teams/2089.png",
+    "away": "بيرسيب باندونغ",
+    "awayLogo": "https://jdwel.com/image/teams/1250.png",
+    "score": "1 - 2",
+    "time": "11:30 ص"
+  },
+  {
+    "home": "بورنيو ساماريندا",
+    "homeLogo": "https://jdwel.com/image/teams/533.png",
+    "away": "بيرسيس سولو",
+    "awayLogo": "https://jdwel.com/image/teams/531.png",
+    "score": "1 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "بهايانكارا",
+    "homeLogo": "https://jdwel.com/image/teams/4827.png",
+    "away": "مالوت يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/825.png",
+    "score": "0 - 1",
+    "time": "11:30 ص"
+  },
+  {
+    "home": "PSBS بياك نومفور",
+    "homeLogo": "https://jdwel.com/image/teams/2083.png",
+    "away": "مادورا يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/532.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "سيمين بادانغ",
+    "homeLogo": "https://jdwel.com/image/teams/826.png",
+    "away": "بالي يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/2087.png",
+    "score": "1 - 3",
+    "time": "11:30 ص"
+  },
+  {
+    "home": "ديوا يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/523.png",
+    "away": "بيرسيبايا سورابايا",
+    "awayLogo": "https://jdwel.com/image/teams/524.png",
+    "score": "1 - 1",
+    "time": "3:00 م"
+  },
+  {
+    "home": "بي إس إم ماكاسار",
+    "homeLogo": "https://jdwel.com/image/teams/2088.png",
+    "away": "بيسيم يوجياكارتا",
+    "awayLogo": "https://jdwel.com/image/teams/4828.png",
+    "score": "0 - 0",
+    "time": "11:30 ص"
+  },
+  {
+    "home": "بيرسيجاب",
+    "homeLogo": "https://jdwel.com/image/teams/4825.png",
+    "away": "بيرسيك كيديري",
+    "awayLogo": "https://jdwel.com/image/teams/4826.png",
+    "score": "0 - 2",
+    "time": "3:00 م"
+  },
+  {
+    "home": "بيرسيتا",
+    "homeLogo": "https://jdwel.com/image/teams/2084.png",
+    "away": "بيرسيب باندونغ",
+    "awayLogo": "https://jdwel.com/image/teams/1250.png",
+    "score": "2 - 1",
+    "time": "3:00 م"
+  },
+  {
+    "home": "بيرسيس سولو",
+    "homeLogo": "https://jdwel.com/image/teams/531.png",
+    "away": "آريما كرونوس",
+    "awayLogo": "https://jdwel.com/image/teams/2089.png",
+    "score": "2 - 2",
+    "time": "11:30 ص"
+  },
+  {
+    "home": "بورنيو ساماريندا",
+    "homeLogo": "https://jdwel.com/image/teams/533.png",
+    "away": "بيرسيجا",
+    "awayLogo": "https://jdwel.com/image/teams/2085.png",
+    "score": "3 - 1",
+    "time": "3:00 م"
+  },
+  {
+    "home": "بيرسيتا",
+    "homeLogo": "https://jdwel.com/image/teams/2084.png",
+    "away": "سيمين بادانغ",
+    "awayLogo": "https://jdwel.com/image/teams/826.png",
+    "score": "2 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "ديوا يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/523.png",
+    "away": "مادورا يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/532.png",
+    "score": "0 - 2",
+    "time": "3:00 م"
+  },
+  {
+    "home": "بيرسيتا",
+    "homeLogo": "https://jdwel.com/image/teams/2084.png",
+    "away": "بيسيم يوجياكارتا",
+    "awayLogo": "https://jdwel.com/image/teams/4828.png",
+    "score": "4 - 0",
+    "time": "11:30 ص"
+  },
+  {
+    "home": "PSBS بياك نومفور",
+    "homeLogo": "https://jdwel.com/image/teams/2083.png",
+    "away": "بيرسيب باندونغ",
+    "awayLogo": "https://jdwel.com/image/teams/1250.png",
+    "score": "0 - 3",
+    "time": "3:00 م"
+  },
+  {
+    "home": "بورنيو ساماريندا",
+    "homeLogo": "https://jdwel.com/image/teams/533.png",
+    "away": "بيرسيك كيديري",
+    "awayLogo": "https://jdwel.com/image/teams/4826.png",
+    "score": "2 - 0",
+    "time": "11:30 ص"
+  },
+  {
+    "home": "بيرسيبايا سورابايا",
+    "homeLogo": "https://jdwel.com/image/teams/524.png",
+    "away": "بيرسيجا",
+    "awayLogo": "https://jdwel.com/image/teams/2085.png",
+    "score": "1 - 3",
+    "time": "3:00 م"
+  },
+  {
+    "home": "بي إس إم ماكاسار",
+    "homeLogo": "https://jdwel.com/image/teams/2088.png",
+    "away": "آريما كرونوس",
+    "awayLogo": "https://jdwel.com/image/teams/2089.png",
+    "score": "1 - 2",
+    "time": "11:30 ص"
+  },
+  {
+    "home": "بيرسيجاب",
+    "homeLogo": "https://jdwel.com/image/teams/4825.png",
+    "away": "بالي يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/2087.png",
+    "score": "1 - 2",
+    "time": "3:00 م"
+  },
+  {
+    "home": "سيمين بادانغ",
+    "homeLogo": "https://jdwel.com/image/teams/826.png",
+    "away": "بهايانكارا",
+    "awayLogo": "https://jdwel.com/image/teams/4827.png",
+    "score": "0 - 1",
+    "time": "11:30 ص"
+  },
+  {
+    "home": "بيرسيس سولو",
+    "homeLogo": "https://jdwel.com/image/teams/531.png",
+    "away": "مالوت يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/825.png",
+    "score": "1 - 3",
+    "time": "3:00 م"
+  },
+  {
+    "home": "بيسيم يوجياكارتا",
+    "homeLogo": "https://jdwel.com/image/teams/4828.png",
+    "away": "ديوا يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/523.png",
+    "score": "2 - 0",
+    "time": "11:30 ص"
+  },
+  {
+    "home": "PSBS بياك نومفور",
+    "homeLogo": "https://jdwel.com/image/teams/2083.png",
+    "away": "بيرسيبايا سورابايا",
+    "awayLogo": "https://jdwel.com/image/teams/524.png",
+    "score": "0 - 0",
+    "time": "11:30 ص"
+  },
+  {
+    "home": "مادورا يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/532.png",
+    "away": "بيرسيجا",
+    "awayLogo": "https://jdwel.com/image/teams/2085.png",
+    "score": "0 - 1",
+    "time": "3:00 م"
+  },
+  {
+    "home": "بيرسيك كيديري",
+    "homeLogo": "https://jdwel.com/image/teams/4826.png",
+    "away": "بي إس إم ماكاسار",
+    "awayLogo": "https://jdwel.com/image/teams/2088.png",
+    "score": "1 - 1",
+    "time": "11:30 ص"
+  },
+  {
+    "home": "بالي يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/2087.png",
+    "away": "بيرسيتا",
+    "awayLogo": "https://jdwel.com/image/teams/2084.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "آريما كرونوس",
+    "homeLogo": "https://jdwel.com/image/teams/2089.png",
+    "away": "بورنيو ساماريندا",
+    "awayLogo": "https://jdwel.com/image/teams/533.png",
+    "score": "1 - 3",
+    "time": "11:30 ص"
+  },
+  {
+    "home": "مالوت يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/825.png",
+    "away": "سيمين بادانغ",
+    "awayLogo": "https://jdwel.com/image/teams/826.png",
+    "score": "1 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "بهايانكارا",
+    "homeLogo": "https://jdwel.com/image/teams/4827.png",
+    "away": "بيرسيجاب",
+    "awayLogo": "https://jdwel.com/image/teams/4825.png",
+    "score": "2 - 0",
+    "time": "11:30 ص"
+  },
+  {
+    "home": "بيرسيب باندونغ",
+    "homeLogo": "https://jdwel.com/image/teams/1250.png",
+    "away": "بيرسيس سولو",
+    "awayLogo": "https://jdwel.com/image/teams/531.png",
+    "score": "2 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "بيسيم يوجياكارتا",
+    "homeLogo": "https://jdwel.com/image/teams/4828.png",
+    "away": "بيرسيك كيديري",
+    "awayLogo": "https://jdwel.com/image/teams/4826.png",
+    "score": "2 - 1",
+    "time": "10:30 ص"
+  },
+  {
+    "home": "بيرسيجا",
+    "homeLogo": "https://jdwel.com/image/teams/2085.png",
+    "away": "PSBS بياك نومفور",
+    "awayLogo": "https://jdwel.com/image/teams/2083.png",
+    "score": "3 - 1",
+    "time": "2:00 م"
+  },
+  {
+    "home": "بهايانكارا",
+    "homeLogo": "https://jdwel.com/image/teams/4827.png",
+    "away": "بيرسيتا",
+    "awayLogo": "https://jdwel.com/image/teams/2084.png",
+    "score": "1 - 1",
+    "time": "10:30 ص"
+  },
+  {
+    "home": "بالي يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/2087.png",
+    "away": "بيرسيب باندونغ",
+    "awayLogo": "https://jdwel.com/image/teams/1250.png",
+    "score": "0 - 1",
+    "time": "2:00 م"
+  },
+  {
+    "home": "بي إس إم ماكاسار",
+    "homeLogo": "https://jdwel.com/image/teams/2088.png",
+    "away": "مادورا يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/532.png",
+    "score": "1 - 1",
+    "time": "10:30 ص"
+  },
+  {
+    "home": "بيرسيبايا سورابايا",
+    "homeLogo": "https://jdwel.com/image/teams/524.png",
+    "away": "بيرسيس سولو",
+    "awayLogo": "https://jdwel.com/image/teams/531.png",
+    "score": "2 - 1",
+    "time": "2:00 م"
+  },
+  {
+    "home": "بيرسيجاب",
+    "homeLogo": "https://jdwel.com/image/teams/4825.png",
+    "away": "مالوت يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/825.png",
+    "score": "1 - 2",
+    "time": "10:30 ص"
+  },
+  {
+    "home": "سيمين بادانغ",
+    "homeLogo": "https://jdwel.com/image/teams/826.png",
+    "away": "آريما كرونوس",
+    "awayLogo": "https://jdwel.com/image/teams/2089.png",
+    "score": "1 - 2",
+    "time": "2:00 م"
+  },
+  {
+    "home": "بورنيو ساماريندا",
+    "homeLogo": "https://jdwel.com/image/teams/533.png",
+    "away": "ديوا يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/523.png",
+    "score": "4 - 0",
+    "time": "2:00 م"
+  },
+  {
+    "home": "PSBS بياك نومفور",
+    "homeLogo": "https://jdwel.com/image/teams/2083.png",
+    "away": "بيرسيتا",
+    "awayLogo": "https://jdwel.com/image/teams/2084.png",
+    "score": "2 - 1",
+    "time": "10:30 ص"
+  },
+  {
+    "home": "بهايانكارا",
+    "homeLogo": "https://jdwel.com/image/teams/4827.png",
+    "away": "بالي يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/2087.png",
+    "score": "2 - 1",
+    "time": "10:30 ص"
+  },
+  {
+    "home": "بيرسيك كيديري",
+    "homeLogo": "https://jdwel.com/image/teams/4826.png",
+    "away": "بيرسيبايا سورابايا",
+    "awayLogo": "https://jdwel.com/image/teams/524.png",
+    "score": "1 - 1",
+    "time": "2:00 م"
+  },
+  {
+    "home": "آريما كرونوس",
+    "homeLogo": "https://jdwel.com/image/teams/2089.png",
+    "away": "بيرسيجا",
+    "awayLogo": "https://jdwel.com/image/teams/2085.png",
+    "score": "1 - 2",
+    "time": "10:30 ص"
+  },
+  {
+    "home": "بيرسيس سولو",
+    "homeLogo": "https://jdwel.com/image/teams/531.png",
+    "away": "بيسيم يوجياكارتا",
+    "awayLogo": "https://jdwel.com/image/teams/4828.png",
+    "score": "2 - 2",
+    "time": "2:00 م"
+  },
+  {
+    "home": "ديوا يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/523.png",
+    "away": "بي إس إم ماكاسار",
+    "awayLogo": "https://jdwel.com/image/teams/2088.png",
+    "score": "0 - 1",
+    "time": "10:30 ص"
+  },
+  {
+    "home": "سيمين بادانغ",
+    "homeLogo": "https://jdwel.com/image/teams/826.png",
+    "away": "بورنيو ساماريندا",
+    "awayLogo": "https://jdwel.com/image/teams/533.png",
+    "score": "0 - 2",
+    "time": "2:00 م"
+  },
+  {
+    "home": "مادورا يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/532.png",
+    "away": "بيرسيجاب",
+    "awayLogo": "https://jdwel.com/image/teams/4825.png",
+    "score": "2 - 1",
+    "time": "2:00 م"
+  },
+  {
+    "home": "بيرسيجاب",
+    "homeLogo": "https://jdwel.com/image/teams/4825.png",
+    "away": "سيمين بادانغ",
+    "awayLogo": "https://jdwel.com/image/teams/826.png",
+    "score": "1 - 2",
+    "time": "10:30 ص"
+  },
+  {
+    "home": "بيرسيجا",
+    "homeLogo": "https://jdwel.com/image/teams/2085.png",
+    "away": "بيرسيك كيديري",
+    "awayLogo": "https://jdwel.com/image/teams/4826.png",
+    "score": "3 - 1",
+    "time": "2:00 م"
+  },
+  {
+    "home": "بي إس إم ماكاسار",
+    "homeLogo": "https://jdwel.com/image/teams/2088.png",
+    "away": "PSBS بياك نومفور",
+    "awayLogo": "https://jdwel.com/image/teams/2083.png",
+    "score": "5 - 0",
+    "time": "10:30 ص"
+  },
+  {
+    "home": "بيرسيب باندونغ",
+    "homeLogo": "https://jdwel.com/image/teams/1250.png",
+    "away": "ديوا يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/523.png",
+    "score": "1 - 0",
+    "time": "2:00 م"
+  },
+  {
+    "home": "بيرسيبايا سورابايا",
+    "homeLogo": "https://jdwel.com/image/teams/524.png",
+    "away": "آريما كرونوس",
+    "awayLogo": "https://jdwel.com/image/teams/2089.png",
+    "score": "1 - 1",
+    "time": "10:30 ص"
+  },
+  {
+    "home": "بيسيم يوجياكارتا",
+    "homeLogo": "https://jdwel.com/image/teams/4828.png",
+    "away": "بهايانكارا",
+    "awayLogo": "https://jdwel.com/image/teams/4827.png",
+    "score": "1 - 0",
+    "time": "10:30 ص"
+  },
+  {
+    "home": "بورنيو ساماريندا",
+    "homeLogo": "https://jdwel.com/image/teams/533.png",
+    "away": "مادورا يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/532.png",
+    "score": "1 - 0",
+    "time": "2:00 م"
+  },
+  {
+    "home": "بيرسيتا",
+    "homeLogo": "https://jdwel.com/image/teams/2084.png",
+    "away": "مالوت يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/825.png",
+    "score": "0 - 0",
+    "time": "10:30 ص"
+  },
+  {
+    "home": "بالي يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/2087.png",
+    "away": "بيرسيس سولو",
+    "awayLogo": "https://jdwel.com/image/teams/531.png",
+    "score": "0 - 0",
+    "time": "2:00 م"
+  },
+  {
+    "home": "بيرسيك كيديري",
+    "homeLogo": "https://jdwel.com/image/teams/4826.png",
+    "away": "سيمين بادانغ",
+    "awayLogo": "https://jdwel.com/image/teams/826.png",
+    "score": "2 - 1",
+    "time": "10:30 ص"
+  },
+  {
+    "home": "PSBS بياك نومفور",
+    "homeLogo": "https://jdwel.com/image/teams/2083.png",
+    "away": "بيرسيجاب",
+    "awayLogo": "https://jdwel.com/image/teams/4825.png",
+    "score": "3 - 2",
+    "time": "2:00 م"
+  },
+  {
+    "home": "بهايانكارا",
+    "homeLogo": "https://jdwel.com/image/teams/4827.png",
+    "away": "بيرسيبايا سورابايا",
+    "awayLogo": "https://jdwel.com/image/teams/524.png",
+    "score": "1 - 1",
+    "time": "10:30 ص"
+  },
+  {
+    "home": "بيرسيجا",
+    "homeLogo": "https://jdwel.com/image/teams/2085.png",
+    "away": "بيسيم يوجياكارتا",
+    "awayLogo": "https://jdwel.com/image/teams/4828.png",
+    "score": "2 - 0",
+    "time": "2:00 م"
+  },
+  {
+    "home": "مالوت يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/825.png",
+    "away": "آريما كرونوس",
+    "awayLogo": "https://jdwel.com/image/teams/2089.png",
+    "score": "1 - 1",
+    "time": "8:30 ص"
+  },
+  {
+    "home": "ديوا يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/523.png",
+    "away": "بيرسيتا",
+    "awayLogo": "https://jdwel.com/image/teams/2084.png",
+    "score": "1 - 0",
+    "time": "10:30 ص"
+  },
+  {
+    "home": "بيرسيس سولو",
+    "homeLogo": "https://jdwel.com/image/teams/531.png",
+    "away": "بي إس إم ماكاسار",
+    "awayLogo": "https://jdwel.com/image/teams/2088.png",
+    "score": "3 - 4",
+    "time": "2:00 م"
+  },
+  {
+    "home": "بورنيو ساماريندا",
+    "homeLogo": "https://jdwel.com/image/teams/533.png",
+    "away": "بالي يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/2087.png",
+    "score": "0 - 1",
+    "time": "10:30 ص"
+  },
+  {
+    "home": "مادورا يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/532.png",
+    "away": "بيرسيب باندونغ",
+    "awayLogo": "https://jdwel.com/image/teams/1250.png",
+    "score": "1 - 4",
+    "time": "2:00 م"
+  },
+  {
+    "home": "بيرسيب باندونغ",
+    "homeLogo": "https://jdwel.com/image/teams/1250.png",
+    "away": "بورنيو ساماريندا",
+    "awayLogo": "https://jdwel.com/image/teams/533.png",
+    "score": "3 - 1",
+    "time": "2:00 م"
+  },
+  {
+    "home": "بي إس إم ماكاسار",
+    "homeLogo": "https://jdwel.com/image/teams/2088.png",
+    "away": "بيرسيبايا سورابايا",
+    "awayLogo": "https://jdwel.com/image/teams/524.png",
+    "score": "1 - 1",
+    "time": "2:00 م"
+  },
+  {
+    "home": "مالوت يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/825.png",
+    "away": "بيرسيب باندونغ",
+    "awayLogo": "https://jdwel.com/image/teams/1250.png",
+    "score": "2 - 0",
+    "time": "8:30 ص"
+  },
+  {
+    "home": "ديوا يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/523.png",
+    "away": "بيرسيس سولو",
+    "awayLogo": "https://jdwel.com/image/teams/531.png",
+    "score": "5 - 1",
+    "time": "10:30 ص"
+  },
+  {
+    "home": "بيرسيبايا سورابايا",
+    "homeLogo": "https://jdwel.com/image/teams/524.png",
+    "away": "بورنيو ساماريندا",
+    "awayLogo": "https://jdwel.com/image/teams/533.png",
+    "score": "2 - 2",
+    "time": "2:00 م"
+  },
+  {
+    "home": "بي إس إم ماكاسار",
+    "homeLogo": "https://jdwel.com/image/teams/2088.png",
+    "away": "مالوت يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/825.png",
+    "score": "0 - 1",
+    "time": "10:30 ص"
+  },
+  {
+    "home": "بيرسيتا",
+    "homeLogo": "https://jdwel.com/image/teams/2084.png",
+    "away": "بيرسيك كيديري",
+    "awayLogo": "https://jdwel.com/image/teams/4826.png",
+    "score": "3 - 0",
+    "time": "10:30 ص"
+  },
+  {
+    "home": "بيرسيب باندونغ",
+    "homeLogo": "https://jdwel.com/image/teams/1250.png",
+    "away": "بهايانكارا",
+    "awayLogo": "https://jdwel.com/image/teams/4827.png",
+    "score": "2 - 0",
+    "time": "2:00 م"
+  },
+  {
+    "home": "PSBS بياك نومفور",
+    "homeLogo": "https://jdwel.com/image/teams/2083.png",
+    "away": "بالي يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/2087.png",
+    "score": "0 - 3",
+    "time": "10:30 ص"
+  },
+  {
+    "home": "سيمين بادانغ",
+    "homeLogo": "https://jdwel.com/image/teams/826.png",
+    "away": "بيرسيجا",
+    "awayLogo": "https://jdwel.com/image/teams/2085.png",
+    "score": "1 - 0",
+    "time": "2:00 م"
+  },
+  {
+    "home": "آريما كرونوس",
+    "homeLogo": "https://jdwel.com/image/teams/2089.png",
+    "away": "مادورا يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/532.png",
+    "score": "2 - 2",
+    "time": "10:30 ص"
+  },
+  {
+    "home": "بيرسيجاب",
+    "homeLogo": "https://jdwel.com/image/teams/4825.png",
+    "away": "بيسيم يوجياكارتا",
+    "awayLogo": "https://jdwel.com/image/teams/4828.png",
+    "score": "1 - 1",
+    "time": "2:00 م"
+  },
+  {
+    "home": "بيرسيك كيديري",
+    "homeLogo": "https://jdwel.com/image/teams/4826.png",
+    "away": "بيرسيس سولو",
+    "awayLogo": "https://jdwel.com/image/teams/531.png",
+    "score": "2 - 1",
+    "time": "10:30 ص"
+  },
+  {
+    "home": "بيرسيب باندونغ",
+    "homeLogo": "https://jdwel.com/image/teams/1250.png",
+    "away": "بي إس إم ماكاسار",
+    "awayLogo": "https://jdwel.com/image/teams/2088.png",
+    "score": "1 - 0",
+    "time": "2:00 م"
+  },
+  {
+    "home": "مالوت يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/825.png",
+    "away": "بورنيو ساماريندا",
+    "awayLogo": "https://jdwel.com/image/teams/533.png",
+    "score": "3 - 2",
+    "time": "8:30 ص"
+  },
+  {
+    "home": "بيرسيبايا سورابايا",
+    "homeLogo": "https://jdwel.com/image/teams/524.png",
+    "away": "بيرسيجاب",
+    "awayLogo": "https://jdwel.com/image/teams/4825.png",
+    "score": "4 - 0",
+    "time": "10:30 ص"
+  },
+  {
+    "home": "مادورا يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/532.png",
+    "away": "سيمين بادانغ",
+    "awayLogo": "https://jdwel.com/image/teams/826.png",
+    "score": "5 - 1",
+    "time": "2:00 م"
+  },
+  {
+    "home": "بيسيم يوجياكارتا",
+    "homeLogo": "https://jdwel.com/image/teams/4828.png",
+    "away": "PSBS بياك نومفور",
+    "awayLogo": "https://jdwel.com/image/teams/2083.png",
+    "score": "2 - 2",
+    "time": "10:30 ص"
+  },
+  {
+    "home": "بالي يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/2087.png",
+    "away": "ديوا يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/523.png",
+    "score": "0 - 0",
+    "time": "10:30 ص"
+  },
+  {
+    "home": "بيرسيجا",
+    "homeLogo": "https://jdwel.com/image/teams/2085.png",
+    "away": "بهايانكارا",
+    "awayLogo": "https://jdwel.com/image/teams/4827.png",
+    "score": "3 - 0",
+    "time": "2:00 م"
+  },
+  {
+    "home": "آريما كرونوس",
+    "homeLogo": "https://jdwel.com/image/teams/2089.png",
+    "away": "بيرسيتا",
+    "awayLogo": "https://jdwel.com/image/teams/2084.png",
+    "score": "0 - 1",
+    "time": "10:30 ص"
+  },
+  {
+    "home": "بيرسيجا",
+    "homeLogo": "https://jdwel.com/image/teams/2085.png",
+    "away": "بيرسيجاب",
+    "awayLogo": "https://jdwel.com/image/teams/4825.png",
+    "score": "2 - 0",
+    "time": "10:30 ص"
+  },
+  {
+    "home": "بورنيو ساماريندا",
+    "homeLogo": "https://jdwel.com/image/teams/533.png",
+    "away": "بي إس إم ماكاسار",
+    "awayLogo": "https://jdwel.com/image/teams/2088.png",
+    "score": "2 - 1",
+    "time": "10:30 ص"
+  },
+  {
+    "home": "مادورا يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/532.png",
+    "away": "بيرسيبايا سورابايا",
+    "awayLogo": "https://jdwel.com/image/teams/524.png",
+    "score": "0 - 1",
+    "time": "2:00 م"
+  },
+  {
+    "home": "مالوت يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/825.png",
+    "away": "PSBS بياك نومفور",
+    "awayLogo": "https://jdwel.com/image/teams/2083.png",
+    "score": "6 - 2",
+    "time": "8:30 ص"
+  },
+  {
+    "home": "بيسيم يوجياكارتا",
+    "homeLogo": "https://jdwel.com/image/teams/4828.png",
+    "away": "سيمين بادانغ",
+    "awayLogo": "https://jdwel.com/image/teams/826.png",
+    "score": "1 - 0",
+    "time": "10:30 ص"
+  },
+  {
+    "home": "بيرسيس سولو",
+    "homeLogo": "https://jdwel.com/image/teams/531.png",
+    "away": "بيرسيتا",
+    "awayLogo": "https://jdwel.com/image/teams/2084.png",
+    "score": "1 - 3",
+    "time": "10:30 ص"
+  },
+  {
+    "home": "بالي يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/2087.png",
+    "away": "آريما كرونوس",
+    "awayLogo": "https://jdwel.com/image/teams/2089.png",
+    "score": "1 - 0",
+    "time": "2:00 م"
+  },
+  {
+    "home": "بهايانكارا",
+    "homeLogo": "https://jdwel.com/image/teams/4827.png",
+    "away": "ديوا يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/523.png",
+    "score": "1 - 0",
+    "time": "10:30 ص"
+  },
+  {
+    "home": "بيرسيك كيديري",
+    "homeLogo": "https://jdwel.com/image/teams/4826.png",
+    "away": "بيرسيب باندونغ",
+    "awayLogo": "https://jdwel.com/image/teams/1250.png",
+    "score": "1 - 1",
+    "time": "2:00 م"
+  },
+  {
+    "home": "بيرسيتا",
+    "homeLogo": "https://jdwel.com/image/teams/2084.png",
+    "away": "بورنيو ساماريندا",
+    "awayLogo": "https://jdwel.com/image/teams/533.png",
+    "score": "2 - 0",
+    "time": "10:30 ص"
+  },
+  {
+    "home": "بي إس إم ماكاسار",
+    "homeLogo": "https://jdwel.com/image/teams/2088.png",
+    "away": "بالي يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/2087.png",
+    "score": "0 - 2",
+    "time": "2:00 م"
+  },
+  {
+    "home": "بيرسيبايا سورابايا",
+    "homeLogo": "https://jdwel.com/image/teams/524.png",
+    "away": "مالوت يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/825.png",
+    "score": "2 - 1",
+    "time": "10:30 ص"
+  },
+  {
+    "home": "مادورا يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/532.png",
+    "away": "بيسيم يوجياكارتا",
+    "awayLogo": "https://jdwel.com/image/teams/4828.png",
+    "score": "0 - 3",
+    "time": "2:00 م"
+  },
+  {
+    "home": "بيرسيب باندونغ",
+    "homeLogo": "https://jdwel.com/image/teams/1250.png",
+    "away": "بيرسيجا",
+    "awayLogo": "https://jdwel.com/image/teams/2085.png",
+    "score": "1 - 0",
+    "time": "10:30 ص"
+  },
+  {
+    "home": "آريما كرونوس",
+    "homeLogo": "https://jdwel.com/image/teams/2089.png",
+    "away": "بيرسيك كيديري",
+    "awayLogo": "https://jdwel.com/image/teams/4826.png",
+    "score": "2 - 1",
+    "time": "10:30 ص"
+  },
+  {
+    "home": "سيمين بادانغ",
+    "homeLogo": "https://jdwel.com/image/teams/826.png",
+    "away": "بيرسيس سولو",
+    "awayLogo": "https://jdwel.com/image/teams/531.png",
+    "score": "2 - 3",
+    "time": "10:30 ص"
+  },
+  {
+    "home": "PSBS بياك نومفور",
+    "homeLogo": "https://jdwel.com/image/teams/2083.png",
+    "away": "بهايانكارا",
+    "awayLogo": "https://jdwel.com/image/teams/4827.png",
+    "score": "4 - 1",
+    "time": "10:30 ص"
+  },
+  {
+    "home": "بيرسيجاب",
+    "homeLogo": "https://jdwel.com/image/teams/4825.png",
+    "away": "ديوا يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/523.png",
+    "score": "0 - 3",
+    "time": "2:00 م"
+  },
+  {
+    "home": "بيرسيس سولو",
+    "homeLogo": "https://jdwel.com/image/teams/531.png",
+    "away": "بورنيو ساماريندا",
+    "awayLogo": "https://jdwel.com/image/teams/533.png",
+    "score": "0 - 1",
+    "time": "10:30 ص"
+  },
+  {
+    "home": "بيرسيجا",
+    "homeLogo": "https://jdwel.com/image/teams/2085.png",
+    "away": "مادورا يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/532.png",
+    "score": "2 - 0",
+    "time": "2:00 م"
+  },
+  {
+    "home": "مالوت يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/825.png",
+    "away": "بيرسيك كيديري",
+    "awayLogo": "https://jdwel.com/image/teams/4826.png",
+    "score": "4 - 0",
+    "time": "8:30 ص"
+  },
+  {
+    "home": "بيرسيتا",
+    "homeLogo": "https://jdwel.com/image/teams/2084.png",
+    "away": "بهايانكارا",
+    "awayLogo": "https://jdwel.com/image/teams/4827.png",
+    "score": "1 - 1",
+    "time": "10:30 ص"
+  },
+  {
+    "home": "بالي يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/2087.png",
+    "away": "سيمين بادانغ",
+    "awayLogo": "https://jdwel.com/image/teams/826.png",
+    "score": "3 - 3",
+    "time": "10:30 ص"
+  },
+  {
+    "home": "بيرسيجاب",
+    "homeLogo": "https://jdwel.com/image/teams/4825.png",
+    "away": "بي إس إم ماكاسار",
+    "awayLogo": "https://jdwel.com/image/teams/2088.png",
+    "score": "2 - 0",
+    "time": "2:00 م"
+  },
+  {
+    "home": "بيسيم يوجياكارتا",
+    "homeLogo": "https://jdwel.com/image/teams/4828.png",
+    "away": "بيرسيبايا سورابايا",
+    "awayLogo": "https://jdwel.com/image/teams/524.png",
+    "score": "0 - 3",
+    "time": "10:30 ص"
+  },
+  {
+    "home": "بيرسيب باندونغ",
+    "homeLogo": "https://jdwel.com/image/teams/1250.png",
+    "away": "PSBS بياك نومفور",
+    "awayLogo": "https://jdwel.com/image/teams/2083.png",
+    "score": "1 - 0",
+    "time": "2:00 م"
+  },
+  {
+    "home": "ديوا يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/523.png",
+    "away": "آريما كرونوس",
+    "awayLogo": "https://jdwel.com/image/teams/2089.png",
+    "score": "2 - 0",
+    "time": "2:00 م"
+  },
+  {
+    "home": "بيرسيك كيديري",
+    "homeLogo": "https://jdwel.com/image/teams/4826.png",
+    "away": "بالي يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/2087.png",
+    "score": "3 - 2",
+    "time": "10:30 ص"
+  },
+  {
+    "home": "بيرسيتا",
+    "homeLogo": "https://jdwel.com/image/teams/2084.png",
+    "away": "بيرسيجا",
+    "awayLogo": "https://jdwel.com/image/teams/2085.png",
+    "score": "0 - 2",
+    "time": "10:30 ص"
+  },
+  {
+    "home": "مالوت يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/825.png",
+    "away": "بهايانكارا",
+    "awayLogo": "https://jdwel.com/image/teams/4827.png",
+    "score": "1 - 2",
+    "time": "8:30 ص"
+  },
+  {
+    "home": "بيرسيس سولو",
+    "homeLogo": "https://jdwel.com/image/teams/531.png",
+    "away": "بيرسيب باندونغ",
+    "awayLogo": "https://jdwel.com/image/teams/1250.png",
+    "score": "0 - 1",
+    "time": "10:30 ص"
+  },
+  {
+    "home": "مادورا يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/532.png",
+    "away": "PSBS بياك نومفور",
+    "awayLogo": "https://jdwel.com/image/teams/2083.png",
+    "score": "0 - 0",
+    "time": "2:00 م"
+  },
+  {
+    "home": "بورنيو ساماريندا",
+    "homeLogo": "https://jdwel.com/image/teams/533.png",
+    "away": "بيسيم يوجياكارتا",
+    "awayLogo": "https://jdwel.com/image/teams/4828.png",
+    "score": "2 - 1",
+    "time": "10:30 ص"
+  },
+  {
+    "home": "بيرسيبايا سورابايا",
+    "homeLogo": "https://jdwel.com/image/teams/524.png",
+    "away": "ديوا يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/523.png",
+    "score": "1 - 1",
+    "time": "2:00 م"
+  },
+  {
+    "home": "آريما كرونوس",
+    "homeLogo": "https://jdwel.com/image/teams/2089.png",
+    "away": "بيرسيجاب",
+    "awayLogo": "https://jdwel.com/image/teams/4825.png",
+    "score": "1 - 0",
+    "time": "10:30 ص"
+  },
+  {
+    "home": "بي إس إم ماكاسار",
+    "homeLogo": "https://jdwel.com/image/teams/2088.png",
+    "away": "سيمين بادانغ",
+    "awayLogo": "https://jdwel.com/image/teams/826.png",
+    "score": "0 - 0",
+    "time": "2:00 م"
+  },
+  {
+    "home": "بيسيم يوجياكارتا",
+    "homeLogo": "https://jdwel.com/image/teams/4828.png",
+    "away": "بيرسيس سولو",
+    "awayLogo": "https://jdwel.com/image/teams/531.png",
+    "score": "0 - 0",
+    "time": "10:30 ص"
+  },
+  {
+    "home": "بيرسيب باندونغ",
+    "homeLogo": "https://jdwel.com/image/teams/1250.png",
+    "away": "مالوت يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/825.png",
+    "score": "0 - 0",
+    "time": "2:00 م"
+  },
+  {
+    "home": "بهايانكارا",
+    "homeLogo": "https://jdwel.com/image/teams/4827.png",
+    "away": "بورنيو ساماريندا",
+    "awayLogo": "https://jdwel.com/image/teams/533.png",
+    "score": "0 - 0",
+    "time": "10:30 ص"
+  },
+  {
+    "home": "بيرسيك كيديري",
+    "homeLogo": "https://jdwel.com/image/teams/4826.png",
+    "away": "ديوا يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/523.png",
+    "score": "0 - 0",
+    "time": "10:30 ص"
+  },
+  {
+    "home": "بيرسيجاب",
+    "homeLogo": "https://jdwel.com/image/teams/4825.png",
+    "away": "مادورا يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/532.png",
+    "score": "0 - 0",
+    "time": "2:00 م"
+  },
+  {
+    "home": "بالي يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/2087.png",
+    "away": "بيرسيبايا سورابايا",
+    "awayLogo": "https://jdwel.com/image/teams/524.png",
+    "score": "0 - 0",
+    "time": "2:00 م"
+  },
+  {
+    "home": "PSBS بياك نومفور",
+    "homeLogo": "https://jdwel.com/image/teams/2083.png",
+    "away": "بي إس إم ماكاسار",
+    "awayLogo": "https://jdwel.com/image/teams/2088.png",
+    "score": "0 - 0",
+    "time": "10:30 ص"
+  },
+  {
+    "home": "سيمين بادانغ",
+    "homeLogo": "https://jdwel.com/image/teams/826.png",
+    "away": "بيرسيتا",
+    "awayLogo": "https://jdwel.com/image/teams/2084.png",
+    "score": "0 - 0",
+    "time": "10:30 ص"
+  },
+  {
+    "home": "بيرسيجا",
+    "homeLogo": "https://jdwel.com/image/teams/2085.png",
+    "away": "آريما كرونوس",
+    "awayLogo": "https://jdwel.com/image/teams/2089.png",
+    "score": "0 - 0",
+    "time": "2:00 م"
+  },
+  {
+    "home": "بيرسيس سولو",
+    "homeLogo": "https://jdwel.com/image/teams/531.png",
+    "away": "مادورا يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/532.png",
+    "score": "0 - 0",
+    "time": "10:30 ص"
+  },
+  {
+    "home": "بيرسيك كيديري",
+    "homeLogo": "https://jdwel.com/image/teams/4826.png",
+    "away": "بيسيم يوجياكارتا",
+    "awayLogo": "https://jdwel.com/image/teams/4828.png",
+    "score": "0 - 0",
+    "time": "10:30 ص"
+  },
+  {
+    "home": "مالوت يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/825.png",
+    "away": "بيرسيجاب",
+    "awayLogo": "https://jdwel.com/image/teams/4825.png",
+    "score": "0 - 0",
+    "time": "2:00 م"
+  },
+  {
+    "home": "بي إس إم ماكاسار",
+    "homeLogo": "https://jdwel.com/image/teams/2088.png",
+    "away": "ديوا يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/523.png",
+    "score": "0 - 0",
+    "time": "10:30 ص"
+  },
+  {
+    "home": "بيرسيبايا سورابايا",
+    "homeLogo": "https://jdwel.com/image/teams/524.png",
+    "away": "بهايانكارا",
+    "awayLogo": "https://jdwel.com/image/teams/4827.png",
+    "score": "0 - 0",
+    "time": "2:00 م"
+  },
+  {
+    "home": "آريما كرونوس",
+    "homeLogo": "https://jdwel.com/image/teams/2089.png",
+    "away": "سيمين بادانغ",
+    "awayLogo": "https://jdwel.com/image/teams/826.png",
+    "score": "0 - 0",
+    "time": "10:30 ص"
+  },
+  {
+    "home": "بالي يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/2087.png",
+    "away": "بيرسيجا",
+    "awayLogo": "https://jdwel.com/image/teams/2085.png",
+    "score": "0 - 0",
+    "time": "2:00 م"
+  },
+  {
+    "home": "بيرسيتا",
+    "homeLogo": "https://jdwel.com/image/teams/2084.png",
+    "away": "PSBS بياك نومفور",
+    "awayLogo": "https://jdwel.com/image/teams/2083.png",
+    "score": "0 - 0",
+    "time": "10:30 ص"
+  },
+  {
+    "home": "بورنيو ساماريندا",
+    "homeLogo": "https://jdwel.com/image/teams/533.png",
+    "away": "بيرسيب باندونغ",
+    "awayLogo": "https://jdwel.com/image/teams/1250.png",
+    "score": "0 - 0",
+    "time": "2:00 م"
+  },
+  {
+    "home": "سيمين بادانغ",
+    "homeLogo": "https://jdwel.com/image/teams/826.png",
+    "away": "مالوت يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/825.png",
+    "score": "0 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "بيرسيك كيديري",
+    "homeLogo": "https://jdwel.com/image/teams/4826.png",
+    "away": "بهايانكارا",
+    "awayLogo": "https://jdwel.com/image/teams/4827.png",
+    "score": "0 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "بيرسيجا",
+    "homeLogo": "https://jdwel.com/image/teams/2085.png",
+    "away": "بي إس إم ماكاسار",
+    "awayLogo": "https://jdwel.com/image/teams/2088.png",
+    "score": "0 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "بيرسيس سولو",
+    "homeLogo": "https://jdwel.com/image/teams/531.png",
+    "away": "PSBS بياك نومفور",
+    "awayLogo": "https://jdwel.com/image/teams/2083.png",
+    "score": "0 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "بيرسيجاب",
+    "homeLogo": "https://jdwel.com/image/teams/4825.png",
+    "away": "بيرسيبايا سورابايا",
+    "awayLogo": "https://jdwel.com/image/teams/524.png",
+    "score": "0 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "مادورا يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/532.png",
+    "away": "آريما كرونوس",
+    "awayLogo": "https://jdwel.com/image/teams/2089.png",
+    "score": "0 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "ديوا يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/523.png",
+    "away": "بورنيو ساماريندا",
+    "awayLogo": "https://jdwel.com/image/teams/533.png",
+    "score": "0 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "بيرسيب باندونغ",
+    "homeLogo": "https://jdwel.com/image/teams/1250.png",
+    "away": "بيرسيتا",
+    "awayLogo": "https://jdwel.com/image/teams/2084.png",
+    "score": "0 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "بيسيم يوجياكارتا",
+    "homeLogo": "https://jdwel.com/image/teams/4828.png",
+    "away": "بالي يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/2087.png",
+    "score": "0 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "مالوت يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/825.png",
+    "away": "بيرسيجا",
+    "awayLogo": "https://jdwel.com/image/teams/2085.png",
+    "score": "0 - 0",
+    "time": "1:30 م"
+  },
+  {
+    "home": "بهايانكارا",
+    "homeLogo": "https://jdwel.com/image/teams/4827.png",
+    "away": "سيمين بادانغ",
+    "awayLogo": "https://jdwel.com/image/teams/826.png",
+    "score": "0 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "بيرسيبايا سورابايا",
+    "homeLogo": "https://jdwel.com/image/teams/524.png",
+    "away": "بي إس إم ماكاسار",
+    "awayLogo": "https://jdwel.com/image/teams/2088.png",
+    "score": "0 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "بورنيو ساماريندا",
+    "homeLogo": "https://jdwel.com/image/teams/533.png",
+    "away": "آريما كرونوس",
+    "awayLogo": "https://jdwel.com/image/teams/2089.png",
+    "score": "0 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "بيرسيتا",
+    "homeLogo": "https://jdwel.com/image/teams/2084.png",
+    "away": "ديوا يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/523.png",
+    "score": "0 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "بيرسيب باندونغ",
+    "homeLogo": "https://jdwel.com/image/teams/1250.png",
+    "away": "مادورا يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/532.png",
+    "score": "0 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "PSBS بياك نومفور",
+    "homeLogo": "https://jdwel.com/image/teams/2083.png",
+    "away": "بيسيم يوجياكارتا",
+    "awayLogo": "https://jdwel.com/image/teams/4828.png",
+    "score": "0 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "بالي يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/2087.png",
+    "away": "بيرسيجاب",
+    "awayLogo": "https://jdwel.com/image/teams/4825.png",
+    "score": "0 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "بيرسيس سولو",
+    "homeLogo": "https://jdwel.com/image/teams/531.png",
+    "away": "بيرسيك كيديري",
+    "awayLogo": "https://jdwel.com/image/teams/4826.png",
+    "score": "0 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "ديوا يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/523.png",
+    "away": "بهايانكارا",
+    "awayLogo": "https://jdwel.com/image/teams/4827.png",
+    "score": "0 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "بيرسيبايا سورابايا",
+    "homeLogo": "https://jdwel.com/image/teams/524.png",
+    "away": "بيرسيب باندونغ",
+    "awayLogo": "https://jdwel.com/image/teams/1250.png",
+    "score": "0 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "بي إس إم ماكاسار",
+    "homeLogo": "https://jdwel.com/image/teams/2088.png",
+    "away": "بيرسيتا",
+    "awayLogo": "https://jdwel.com/image/teams/2084.png",
+    "score": "0 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "بيرسيجا",
+    "homeLogo": "https://jdwel.com/image/teams/2085.png",
+    "away": "بورنيو ساماريندا",
+    "awayLogo": "https://jdwel.com/image/teams/533.png",
+    "score": "0 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "مادورا يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/532.png",
+    "away": "مالوت يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/825.png",
+    "score": "0 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "سيمين بادانغ",
+    "homeLogo": "https://jdwel.com/image/teams/826.png",
+    "away": "بيسيم يوجياكارتا",
+    "awayLogo": "https://jdwel.com/image/teams/4828.png",
+    "score": "0 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "بيرسيك كيديري",
+    "homeLogo": "https://jdwel.com/image/teams/4826.png",
+    "away": "PSBS بياك نومفور",
+    "awayLogo": "https://jdwel.com/image/teams/2083.png",
+    "score": "0 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "بيرسيجاب",
+    "homeLogo": "https://jdwel.com/image/teams/4825.png",
+    "away": "بيرسيس سولو",
+    "awayLogo": "https://jdwel.com/image/teams/531.png",
+    "score": "0 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "آريما كرونوس",
+    "homeLogo": "https://jdwel.com/image/teams/2089.png",
+    "away": "بالي يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/2087.png",
+    "score": "0 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "مالوت يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/825.png",
+    "away": "بي إس إم ماكاسار",
+    "awayLogo": "https://jdwel.com/image/teams/2088.png",
+    "score": "0 - 0",
+    "time": "1:30 م"
+  },
+  {
+    "home": "بورنيو ساماريندا",
+    "homeLogo": "https://jdwel.com/image/teams/533.png",
+    "away": "بيرسيبايا سورابايا",
+    "awayLogo": "https://jdwel.com/image/teams/524.png",
+    "score": "0 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "بيرسيتا",
+    "homeLogo": "https://jdwel.com/image/teams/2084.png",
+    "away": "مادورا يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/532.png",
+    "score": "0 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "بيرسيجا",
+    "homeLogo": "https://jdwel.com/image/teams/2085.png",
+    "away": "ديوا يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/523.png",
+    "score": "0 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "PSBS بياك نومفور",
+    "homeLogo": "https://jdwel.com/image/teams/2083.png",
+    "away": "سيمين بادانغ",
+    "awayLogo": "https://jdwel.com/image/teams/826.png",
+    "score": "0 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "بيرسيب باندونغ",
+    "homeLogo": "https://jdwel.com/image/teams/1250.png",
+    "away": "بيرسيك كيديري",
+    "awayLogo": "https://jdwel.com/image/teams/4826.png",
+    "score": "0 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "بهايانكارا",
+    "homeLogo": "https://jdwel.com/image/teams/4827.png",
+    "away": "آريما كرونوس",
+    "awayLogo": "https://jdwel.com/image/teams/2089.png",
+    "score": "0 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "بيسيم يوجياكارتا",
+    "homeLogo": "https://jdwel.com/image/teams/4828.png",
+    "away": "بيرسيجاب",
+    "awayLogo": "https://jdwel.com/image/teams/4825.png",
+    "score": "0 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "بيرسيس سولو",
+    "homeLogo": "https://jdwel.com/image/teams/531.png",
+    "away": "بالي يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/2087.png",
+    "score": "0 - 0",
+    "time": "3:30 م"
+  },
+  {
+    "home": "آريما كرونوس",
+    "homeLogo": "https://jdwel.com/image/teams/2089.png",
+    "away": "مالوت يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/825.png",
+    "score": "0 - 0",
+    "time": "10:30 ص"
+  },
+  {
+    "home": "ديوا يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/523.png",
+    "away": "بيسيم يوجياكارتا",
+    "awayLogo": "https://jdwel.com/image/teams/4828.png",
+    "score": "0 - 0",
+    "time": "2:00 م"
+  },
+  {
+    "home": "بي إس إم ماكاسار",
+    "homeLogo": "https://jdwel.com/image/teams/2088.png",
+    "away": "بيرسيس سولو",
+    "awayLogo": "https://jdwel.com/image/teams/531.png",
+    "score": "0 - 0",
+    "time": "10:30 ص"
+  },
+  {
+    "home": "بيرسيبايا سورابايا",
+    "homeLogo": "https://jdwel.com/image/teams/524.png",
+    "away": "بيرسيتا",
+    "awayLogo": "https://jdwel.com/image/teams/2084.png",
+    "score": "0 - 0",
+    "time": "2:00 م"
+  },
+  {
+    "home": "بهايانكارا",
+    "homeLogo": "https://jdwel.com/image/teams/4827.png",
+    "away": "بيرسيجا",
+    "awayLogo": "https://jdwel.com/image/teams/2085.png",
+    "score": "0 - 0",
+    "time": "10:30 ص"
+  },
+  {
+    "home": "سيمين بادانغ",
+    "homeLogo": "https://jdwel.com/image/teams/826.png",
+    "away": "بيرسيب باندونغ",
+    "awayLogo": "https://jdwel.com/image/teams/1250.png",
+    "score": "0 - 0",
+    "time": "2:00 م"
+  },
+  {
+    "home": "مادورا يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/532.png",
+    "away": "بورنيو ساماريندا",
+    "awayLogo": "https://jdwel.com/image/teams/533.png",
+    "score": "0 - 0",
+    "time": "2:00 م"
+  },
+  {
+    "home": "بيرسيك كيديري",
+    "homeLogo": "https://jdwel.com/image/teams/4826.png",
+    "away": "بيرسيجاب",
+    "awayLogo": "https://jdwel.com/image/teams/4825.png",
+    "score": "0 - 0",
+    "time": "10:30 ص"
+  },
+  {
+    "home": "بالي يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/2087.png",
+    "away": "PSBS بياك نومفور",
+    "awayLogo": "https://jdwel.com/image/teams/2083.png",
+    "score": "0 - 0",
+    "time": "2:00 م"
+  },
+  {
+    "home": "بيسيم يوجياكارتا",
+    "homeLogo": "https://jdwel.com/image/teams/4828.png",
+    "away": "بي إس إم ماكاسار",
+    "awayLogo": "https://jdwel.com/image/teams/2088.png",
+    "score": "0 - 0",
+    "time": "10:30 ص"
+  },
+  {
+    "home": "بيرسيتا",
+    "homeLogo": "https://jdwel.com/image/teams/2084.png",
+    "away": "آريما كرونوس",
+    "awayLogo": "https://jdwel.com/image/teams/2089.png",
+    "score": "0 - 0",
+    "time": "2:00 م"
+  },
+  {
+    "home": "بورنيو ساماريندا",
+    "homeLogo": "https://jdwel.com/image/teams/533.png",
+    "away": "PSBS بياك نومفور",
+    "awayLogo": "https://jdwel.com/image/teams/2083.png",
+    "score": "0 - 0",
+    "time": "10:30 ص"
+  },
+  {
+    "home": "مادورا يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/532.png",
+    "away": "بيرسيك كيديري",
+    "awayLogo": "https://jdwel.com/image/teams/4826.png",
+    "score": "0 - 0",
+    "time": "2:00 م"
+  },
+  {
+    "home": "بيرسيجاب",
+    "homeLogo": "https://jdwel.com/image/teams/4825.png",
+    "away": "بهايانكارا",
+    "awayLogo": "https://jdwel.com/image/teams/4827.png",
+    "score": "0 - 0",
+    "time": "2:00 م"
+  },
+  {
+    "home": "بيرسيجا",
+    "homeLogo": "https://jdwel.com/image/teams/2085.png",
+    "away": "بيرسيبايا سورابايا",
+    "awayLogo": "https://jdwel.com/image/teams/524.png",
+    "score": "0 - 0",
+    "time": "2:00 م"
+  },
+  {
+    "home": "بيرسيس سولو",
+    "homeLogo": "https://jdwel.com/image/teams/531.png",
+    "away": "سيمين بادانغ",
+    "awayLogo": "https://jdwel.com/image/teams/826.png",
+    "score": "0 - 0",
+    "time": "10:30 ص"
+  },
+  {
+    "home": "بيرسيب باندونغ",
+    "homeLogo": "https://jdwel.com/image/teams/1250.png",
+    "away": "بالي يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/2087.png",
+    "score": "0 - 0",
+    "time": "2:00 م"
+  },
+  {
+    "home": "مالوت يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/825.png",
+    "away": "ديوا يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/523.png",
+    "score": "0 - 0",
+    "time": "2:00 م"
+  },
+  {
+    "home": "بهايانكارا",
+    "homeLogo": "https://jdwel.com/image/teams/4827.png",
+    "away": "بيسيم يوجياكارتا",
+    "awayLogo": "https://jdwel.com/image/teams/4828.png",
+    "score": "0 - 0",
+    "time": "10:30 ص"
+  },
+  {
+    "home": "بيرسيبايا سورابايا",
+    "homeLogo": "https://jdwel.com/image/teams/524.png",
+    "away": "مادورا يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/532.png",
+    "score": "0 - 0",
+    "time": "2:00 م"
+  },
+  {
+    "home": "آريما كرونوس",
+    "homeLogo": "https://jdwel.com/image/teams/2089.png",
+    "away": "بيرسيس سولو",
+    "awayLogo": "https://jdwel.com/image/teams/531.png",
+    "score": "0 - 0",
+    "time": "10:30 ص"
+  },
+  {
+    "home": "PSBS بياك نومفور",
+    "homeLogo": "https://jdwel.com/image/teams/2083.png",
+    "away": "بيرسيجا",
+    "awayLogo": "https://jdwel.com/image/teams/2085.png",
+    "score": "0 - 0",
+    "time": "2:00 م"
+  },
+  {
+    "home": "بي إس إم ماكاسار",
+    "homeLogo": "https://jdwel.com/image/teams/2088.png",
+    "away": "بورنيو ساماريندا",
+    "awayLogo": "https://jdwel.com/image/teams/533.png",
+    "score": "0 - 0",
+    "time": "2:00 م"
+  },
+  {
+    "home": "بيرسيك كيديري",
+    "homeLogo": "https://jdwel.com/image/teams/4826.png",
+    "away": "بيرسيتا",
+    "awayLogo": "https://jdwel.com/image/teams/2084.png",
+    "score": "0 - 0",
+    "time": "10:30 ص"
+  },
+  {
+    "home": "بالي يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/2087.png",
+    "away": "مالوت يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/825.png",
+    "score": "0 - 0",
+    "time": "2:00 م"
+  },
+  {
+    "home": "سيمين بادانغ",
+    "homeLogo": "https://jdwel.com/image/teams/826.png",
+    "away": "بيرسيجاب",
+    "awayLogo": "https://jdwel.com/image/teams/4825.png",
+    "score": "0 - 0",
+    "time": "10:30 ص"
+  },
+  {
+    "home": "ديوا يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/523.png",
+    "away": "بيرسيب باندونغ",
+    "awayLogo": "https://jdwel.com/image/teams/1250.png",
+    "score": "0 - 0",
+    "time": "2:00 م"
+  },
+  {
+    "home": "بيرسيس سولو",
+    "homeLogo": "https://jdwel.com/image/teams/531.png",
+    "away": "بهايانكارا",
+    "awayLogo": "https://jdwel.com/image/teams/4827.png",
+    "score": "0 - 0",
+    "time": "10:30 ص"
+  },
+  {
+    "home": "بيسيم يوجياكارتا",
+    "homeLogo": "https://jdwel.com/image/teams/4828.png",
+    "away": "بيرسيجا",
+    "awayLogo": "https://jdwel.com/image/teams/2085.png",
+    "score": "0 - 0",
+    "time": "2:00 م"
+  },
+  {
+    "home": "بي إس إم ماكاسار",
+    "homeLogo": "https://jdwel.com/image/teams/2088.png",
+    "away": "بيرسيك كيديري",
+    "awayLogo": "https://jdwel.com/image/teams/4826.png",
+    "score": "0 - 0",
+    "time": "10:30 ص"
+  },
+  {
+    "home": "بيرسيتا",
+    "homeLogo": "https://jdwel.com/image/teams/2084.png",
+    "away": "بالي يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/2087.png",
+    "score": "0 - 0",
+    "time": "10:30 ص"
+  },
+  {
+    "home": "مالوت يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/825.png",
+    "away": "بيرسيبايا سورابايا",
+    "awayLogo": "https://jdwel.com/image/teams/524.png",
+    "score": "0 - 0",
+    "time": "2:00 م"
+  },
+  {
+    "home": "بيرسيجاب",
+    "homeLogo": "https://jdwel.com/image/teams/4825.png",
+    "away": "PSBS بياك نومفور",
+    "awayLogo": "https://jdwel.com/image/teams/2083.png",
+    "score": "0 - 0",
+    "time": "11:30 ص"
+  },
+  {
+    "home": "بيرسيب باندونغ",
+    "homeLogo": "https://jdwel.com/image/teams/1250.png",
+    "away": "آريما كرونوس",
+    "awayLogo": "https://jdwel.com/image/teams/2089.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "بورنيو ساماريندا",
+    "homeLogo": "https://jdwel.com/image/teams/533.png",
+    "away": "سيمين بادانغ",
+    "awayLogo": "https://jdwel.com/image/teams/826.png",
+    "score": "0 - 0",
+    "time": "11:30 ص"
+  },
+  {
+    "home": "مادورا يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/532.png",
+    "away": "ديوا يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/523.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "بالي يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/2087.png",
+    "away": "بي إس إم ماكاسار",
+    "awayLogo": "https://jdwel.com/image/teams/2088.png",
+    "score": "0 - 0",
+    "time": "11:30 ص"
+  },
+  {
+    "home": "بيرسيجا",
+    "homeLogo": "https://jdwel.com/image/teams/2085.png",
+    "away": "بيرسيس سولو",
+    "awayLogo": "https://jdwel.com/image/teams/531.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "PSBS بياك نومفور",
+    "homeLogo": "https://jdwel.com/image/teams/2083.png",
+    "away": "مالوت يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/825.png",
+    "score": "0 - 0",
+    "time": "11:30 ص"
+  },
+  {
+    "home": "آريما كرونوس",
+    "homeLogo": "https://jdwel.com/image/teams/2089.png",
+    "away": "بيرسيبايا سورابايا",
+    "awayLogo": "https://jdwel.com/image/teams/524.png",
+    "score": "0 - 0",
+    "time": "11:30 ص"
+  },
+  {
+    "home": "سيمين بادانغ",
+    "homeLogo": "https://jdwel.com/image/teams/826.png",
+    "away": "مادورا يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/532.png",
+    "score": "0 - 0",
+    "time": "11:30 ص"
+  },
+  {
+    "home": "بيرسيك كيديري",
+    "homeLogo": "https://jdwel.com/image/teams/4826.png",
+    "away": "بورنيو ساماريندا",
+    "awayLogo": "https://jdwel.com/image/teams/533.png",
+    "score": "0 - 0",
+    "time": "11:30 ص"
+  },
+  {
+    "home": "ديوا يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/523.png",
+    "away": "بيرسيجاب",
+    "awayLogo": "https://jdwel.com/image/teams/4825.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "بيسيم يوجياكارتا",
+    "homeLogo": "https://jdwel.com/image/teams/4828.png",
+    "away": "بيرسيتا",
+    "awayLogo": "https://jdwel.com/image/teams/2084.png",
+    "score": "0 - 0",
+    "time": "11:30 ص"
+  },
+  {
+    "home": "بهايانكارا",
+    "homeLogo": "https://jdwel.com/image/teams/4827.png",
+    "away": "بيرسيب باندونغ",
+    "awayLogo": "https://jdwel.com/image/teams/1250.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "بيرسيبايا سورابايا",
+    "homeLogo": "https://jdwel.com/image/teams/524.png",
+    "away": "PSBS بياك نومفور",
+    "awayLogo": "https://jdwel.com/image/teams/2083.png",
+    "score": "0 - 0",
+    "time": "11:30 ص"
+  },
+  {
+    "home": "مالوت يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/825.png",
+    "away": "بيرسيس سولو",
+    "awayLogo": "https://jdwel.com/image/teams/531.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "بيرسيك كيديري",
+    "homeLogo": "https://jdwel.com/image/teams/4826.png",
+    "away": "آريما كرونوس",
+    "awayLogo": "https://jdwel.com/image/teams/2089.png",
+    "score": "0 - 0",
+    "time": "11:30 ص"
+  },
+  {
+    "home": "ديوا يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/523.png",
+    "away": "سيمين بادانغ",
+    "awayLogo": "https://jdwel.com/image/teams/826.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "بي إس إم ماكاسار",
+    "homeLogo": "https://jdwel.com/image/teams/2088.png",
+    "away": "بهايانكارا",
+    "awayLogo": "https://jdwel.com/image/teams/4827.png",
+    "score": "0 - 0",
+    "time": "11:30 ص"
+  },
+  {
+    "home": "بيرسيب باندونغ",
+    "homeLogo": "https://jdwel.com/image/teams/1250.png",
+    "away": "بيسيم يوجياكارتا",
+    "awayLogo": "https://jdwel.com/image/teams/4828.png",
+    "score": "0 - 0",
+    "time": "11:30 ص"
+  },
+  {
+    "home": "بيرسيجاب",
+    "homeLogo": "https://jdwel.com/image/teams/4825.png",
+    "away": "بيرسيجا",
+    "awayLogo": "https://jdwel.com/image/teams/2085.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "بورنيو ساماريندا",
+    "homeLogo": "https://jdwel.com/image/teams/533.png",
+    "away": "بيرسيتا",
+    "awayLogo": "https://jdwel.com/image/teams/2084.png",
+    "score": "0 - 0",
+    "time": "11:30 ص"
+  },
+  {
+    "home": "مادورا يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/532.png",
+    "away": "بالي يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/2087.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "سيمين بادانغ",
+    "homeLogo": "https://jdwel.com/image/teams/826.png",
+    "away": "بيرسيك كيديري",
+    "awayLogo": "https://jdwel.com/image/teams/4826.png",
+    "score": "0 - 0",
+    "time": "11:30 ص"
+  },
+  {
+    "home": "PSBS بياك نومفور",
+    "homeLogo": "https://jdwel.com/image/teams/2083.png",
+    "away": "ديوا يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/523.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "آريما كرونوس",
+    "homeLogo": "https://jdwel.com/image/teams/2089.png",
+    "away": "بي إس إم ماكاسار",
+    "awayLogo": "https://jdwel.com/image/teams/2088.png",
+    "score": "0 - 0",
+    "time": "11:30 ص"
+  },
+  {
+    "home": "بيرسيس سولو",
+    "homeLogo": "https://jdwel.com/image/teams/531.png",
+    "away": "بيرسيبايا سورابايا",
+    "awayLogo": "https://jdwel.com/image/teams/524.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "بيرسيتا",
+    "homeLogo": "https://jdwel.com/image/teams/2084.png",
+    "away": "بيرسيجاب",
+    "awayLogo": "https://jdwel.com/image/teams/4825.png",
+    "score": "0 - 0",
+    "time": "11:30 ص"
+  },
+  {
+    "home": "بيرسيجا",
+    "homeLogo": "https://jdwel.com/image/teams/2085.png",
+    "away": "بيرسيب باندونغ",
+    "awayLogo": "https://jdwel.com/image/teams/1250.png",
+    "score": "0 - 0",
+    "time": "11:30 ص"
+  },
+  {
+    "home": "بيسيم يوجياكارتا",
+    "homeLogo": "https://jdwel.com/image/teams/4828.png",
+    "away": "مالوت يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/825.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "بهايانكارا",
+    "homeLogo": "https://jdwel.com/image/teams/4827.png",
+    "away": "مادورا يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/532.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "بالي يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/2087.png",
+    "away": "بورنيو ساماريندا",
+    "awayLogo": "https://jdwel.com/image/teams/533.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "سيمين بادانغ",
+    "homeLogo": "https://jdwel.com/image/teams/826.png",
+    "away": "بيرسيبايا سورابايا",
+    "awayLogo": "https://jdwel.com/image/teams/524.png",
+    "score": "0 - 0",
+    "time": "11:30 ص"
+  },
+  {
+    "home": "PSBS بياك نومفور",
+    "homeLogo": "https://jdwel.com/image/teams/2083.png",
+    "away": "آريما كرونوس",
+    "awayLogo": "https://jdwel.com/image/teams/2089.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "بيرسيك كيديري",
+    "homeLogo": "https://jdwel.com/image/teams/4826.png",
+    "away": "بيرسيجا",
+    "awayLogo": "https://jdwel.com/image/teams/2085.png",
+    "score": "0 - 0",
+    "time": "11:30 ص"
+  },
+  {
+    "home": "مالوت يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/825.png",
+    "away": "بيرسيتا",
+    "awayLogo": "https://jdwel.com/image/teams/2084.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "بيرسيس سولو",
+    "homeLogo": "https://jdwel.com/image/teams/531.png",
+    "away": "ديوا يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/523.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "بالي يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/2087.png",
+    "away": "بهايانكارا",
+    "awayLogo": "https://jdwel.com/image/teams/4827.png",
+    "score": "0 - 0",
+    "time": "11:30 ص"
+  },
+  {
+    "home": "بيرسيجاب",
+    "homeLogo": "https://jdwel.com/image/teams/4825.png",
+    "away": "بورنيو ساماريندا",
+    "awayLogo": "https://jdwel.com/image/teams/533.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "بي إس إم ماكاسار",
+    "homeLogo": "https://jdwel.com/image/teams/2088.png",
+    "away": "بيرسيب باندونغ",
+    "awayLogo": "https://jdwel.com/image/teams/1250.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "بيسيم يوجياكارتا",
+    "homeLogo": "https://jdwel.com/image/teams/4828.png",
+    "away": "مادورا يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/532.png",
+    "score": "0 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "بيرسيبايا سورابايا",
+    "homeLogo": "https://jdwel.com/image/teams/524.png",
+    "away": "بيرسيك كيديري",
+    "awayLogo": "https://jdwel.com/image/teams/4826.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "آريما كرونوس",
+    "homeLogo": "https://jdwel.com/image/teams/2089.png",
+    "away": "بيسيم يوجياكارتا",
+    "awayLogo": "https://jdwel.com/image/teams/4828.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "بيرسيب باندونغ",
+    "homeLogo": "https://jdwel.com/image/teams/1250.png",
+    "away": "بيرسيجاب",
+    "awayLogo": "https://jdwel.com/image/teams/4825.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "بيرسيجا",
+    "homeLogo": "https://jdwel.com/image/teams/2085.png",
+    "away": "سيمين بادانغ",
+    "awayLogo": "https://jdwel.com/image/teams/826.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "بيرسيتا",
+    "homeLogo": "https://jdwel.com/image/teams/2084.png",
+    "away": "بيرسيس سولو",
+    "awayLogo": "https://jdwel.com/image/teams/531.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "ديوا يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/523.png",
+    "away": "بالي يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/2087.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "بورنيو ساماريندا",
+    "homeLogo": "https://jdwel.com/image/teams/533.png",
+    "away": "مالوت يونايتد",
+    "awayLogo": "https://jdwel.com/image/teams/825.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "مادورا يونايتد",
+    "homeLogo": "https://jdwel.com/image/teams/532.png",
+    "away": "بي إس إم ماكاسار",
+    "awayLogo": "https://jdwel.com/image/teams/2088.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  },
+  {
+    "home": "بهايانكارا",
+    "homeLogo": "https://jdwel.com/image/teams/4827.png",
+    "away": "PSBS بياك نومفور",
+    "awayLogo": "https://jdwel.com/image/teams/2083.png",
+    "score": "0 - 0",
+    "time": "3:00 ص"
+  }
+]
