@@ -1,0 +1,234 @@
+[
+  {
+    "home": "العين",
+    "homeLogo": "https://jdwel.com/image/teams/5235.png",
+    "away": "سترة",
+    "awayLogo": "https://jdwel.com/image/teams/bah_sitra.png",
+    "score": "4 - 1",
+    "time": "6:30 م"
+  },
+  {
+    "home": "زاخو",
+    "homeLogo": "https://jdwel.com/image/teams/4511.png",
+    "away": "القادسية",
+    "awayLogo": "https://jdwel.com/image/teams/kuw_al_qadsia.png",
+    "score": "3 - 1",
+    "time": "8:30 م"
+  },
+  {
+    "home": "الريان",
+    "homeLogo": "https://jdwel.com/image/teams/2994.png",
+    "away": "تضامن حضرموت",
+    "awayLogo": "https://jdwel.com/image/teams/3842.png",
+    "score": "5 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "الشباب",
+    "homeLogo": "https://jdwel.com/image/teams/2213.png",
+    "away": "النهضة",
+    "awayLogo": "https://jdwel.com/image/teams/2895.png",
+    "score": "1 - 1",
+    "time": "8:00 م"
+  },
+  {
+    "home": "تضامن حضرموت",
+    "homeLogo": "https://jdwel.com/image/teams/3842.png",
+    "away": "الشباب",
+    "awayLogo": "https://jdwel.com/image/teams/2213.png",
+    "score": "2 - 0",
+    "time": "8:00 م"
+  },
+  {
+    "home": "سترة",
+    "homeLogo": "https://jdwel.com/image/teams/bah_sitra.png",
+    "away": "زاخو",
+    "awayLogo": "https://jdwel.com/image/teams/4511.png",
+    "score": "0 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "النهضة",
+    "homeLogo": "https://jdwel.com/image/teams/2895.png",
+    "away": "الريان",
+    "awayLogo": "https://jdwel.com/image/teams/2994.png",
+    "score": "1 - 1",
+    "time": "6:30 م"
+  },
+  {
+    "home": "القادسية",
+    "homeLogo": "https://jdwel.com/image/teams/kuw_al_qadsia.png",
+    "away": "العين",
+    "awayLogo": "https://jdwel.com/image/teams/5235.png",
+    "score": "0 - 1",
+    "time": "8:00 م"
+  },
+  {
+    "home": "سترة",
+    "homeLogo": "https://jdwel.com/image/teams/bah_sitra.png",
+    "away": "القادسية",
+    "awayLogo": "https://jdwel.com/image/teams/kuw_al_qadsia.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "زاخو",
+    "homeLogo": "https://jdwel.com/image/teams/4511.png",
+    "away": "العين",
+    "awayLogo": "https://jdwel.com/image/teams/5235.png",
+    "score": "2 - 0",
+    "time": "7:00 م"
+  },
+  {
+    "home": "النهضة",
+    "homeLogo": "https://jdwel.com/image/teams/2895.png",
+    "away": "تضامن حضرموت",
+    "awayLogo": "https://jdwel.com/image/teams/3842.png",
+    "score": "1 - 1",
+    "time": "4:00 م"
+  },
+  {
+    "home": "الريان",
+    "homeLogo": "https://jdwel.com/image/teams/2994.png",
+    "away": "الشباب",
+    "awayLogo": "https://jdwel.com/image/teams/2213.png",
+    "score": "1 - 1",
+    "time": "7:00 م"
+  },
+  {
+    "home": "العين",
+    "homeLogo": "https://jdwel.com/image/teams/5235.png",
+    "away": "زاخو",
+    "awayLogo": "https://jdwel.com/image/teams/4511.png",
+    "score": "0 - 1",
+    "time": "4:30 م"
+  },
+  {
+    "home": "الشباب",
+    "homeLogo": "https://jdwel.com/image/teams/2213.png",
+    "away": "الريان",
+    "awayLogo": "https://jdwel.com/image/teams/2994.png",
+    "score": "2 - 2",
+    "time": "5:15 م"
+  },
+  {
+    "home": "تضامن حضرموت",
+    "homeLogo": "https://jdwel.com/image/teams/3842.png",
+    "away": "النهضة",
+    "awayLogo": "https://jdwel.com/image/teams/2895.png",
+    "score": "0 - 1",
+    "time": "5:30 م"
+  },
+  {
+    "home": "القادسية",
+    "homeLogo": "https://jdwel.com/image/teams/kuw_al_qadsia.png",
+    "away": "سترة",
+    "awayLogo": "https://jdwel.com/image/teams/bah_sitra.png",
+    "score": "2 - 1",
+    "time": "7:00 م"
+  },
+  {
+    "home": "سترة",
+    "homeLogo": "https://jdwel.com/image/teams/bah_sitra.png",
+    "away": "العين",
+    "awayLogo": "https://jdwel.com/image/teams/5235.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "القادسية",
+    "homeLogo": "https://jdwel.com/image/teams/kuw_al_qadsia.png",
+    "away": "زاخو",
+    "awayLogo": "https://jdwel.com/image/teams/4511.png",
+    "score": "0 - 0",
+    "time": "7:00 م"
+  },
+  {
+    "home": "تضامن حضرموت",
+    "homeLogo": "https://jdwel.com/image/teams/3842.png",
+    "away": "الريان",
+    "awayLogo": "https://jdwel.com/image/teams/2994.png",
+    "score": "0 - 0",
+    "time": "4:30 م"
+  },
+  {
+    "home": "النهضة",
+    "homeLogo": "https://jdwel.com/image/teams/2895.png",
+    "away": "الشباب",
+    "awayLogo": "https://jdwel.com/image/teams/2213.png",
+    "score": "0 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "الشباب",
+    "homeLogo": "https://jdwel.com/image/teams/2213.png",
+    "away": "تضامن حضرموت",
+    "awayLogo": "https://jdwel.com/image/teams/3842.png",
+    "score": "0 - 0",
+    "time": "5:30 م"
+  },
+  {
+    "home": "الريان",
+    "homeLogo": "https://jdwel.com/image/teams/2994.png",
+    "away": "النهضة",
+    "awayLogo": "https://jdwel.com/image/teams/2895.png",
+    "score": "0 - 0",
+    "time": "5:30 م"
+  },
+  {
+    "home": "العين",
+    "homeLogo": "https://jdwel.com/image/teams/5235.png",
+    "away": "القادسية",
+    "awayLogo": "https://jdwel.com/image/teams/kuw_al_qadsia.png",
+    "score": "0 - 0",
+    "time": "5:30 م"
+  },
+  {
+    "home": "زاخو",
+    "homeLogo": "https://jdwel.com/image/teams/4511.png",
+    "away": "سترة",
+    "awayLogo": "https://jdwel.com/image/teams/bah_sitra.png",
+    "score": "0 - 0",
+    "time": "5:30 م"
+  },
+  {
+    "home": "لم يحدد",
+    "homeLogo": "https://jdwel.com/image/teams/placeholder.png",
+    "away": "لم يحدد",
+    "awayLogo": "https://jdwel.com/image/teams/placeholder.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "لم يحدد",
+    "homeLogo": "https://jdwel.com/image/teams/placeholder.png",
+    "away": "لم يحدد",
+    "awayLogo": "https://jdwel.com/image/teams/placeholder.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "لم يحدد",
+    "homeLogo": "https://jdwel.com/image/teams/placeholder.png",
+    "away": "لم يحدد",
+    "awayLogo": "https://jdwel.com/image/teams/placeholder.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "لم يحدد",
+    "homeLogo": "https://jdwel.com/image/teams/placeholder.png",
+    "away": "لم يحدد",
+    "awayLogo": "https://jdwel.com/image/teams/placeholder.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "لم يحدد",
+    "homeLogo": "https://jdwel.com/image/teams/placeholder.png",
+    "away": "لم يحدد",
+    "awayLogo": "https://jdwel.com/image/teams/placeholder.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  }
+]

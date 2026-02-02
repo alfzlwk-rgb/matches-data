@@ -1,0 +1,34 @@
+[
+  {
+    "home": "الأهلي",
+    "homeLogo": "https://jdwel.com/image/teams/1253.png",
+    "away": "الزمالك",
+    "awayLogo": "https://jdwel.com/image/teams/339.png",
+    "score": "2 - 0",
+    "time": "5:30 م"
+  },
+  {
+    "home": "سيراميكا كليوباترا",
+    "homeLogo": "https://jdwel.com/image/teams/389.png",
+    "away": "بيراميدز",
+    "awayLogo": "https://jdwel.com/image/teams/2524.png",
+    "score": "2 - 1",
+    "time": "2:45 م"
+  },
+  {
+    "home": "الزمالك",
+    "homeLogo": "https://jdwel.com/image/teams/339.png",
+    "away": "بيراميدز",
+    "awayLogo": "https://jdwel.com/image/teams/2524.png",
+    "score": "0 - 0 5 - 4",
+    "time": "7:30 م"
+  },
+  {
+    "home": "الأهلي",
+    "homeLogo": "https://jdwel.com/image/teams/1253.png",
+    "away": "سيراميكا كليوباترا",
+    "awayLogo": "https://jdwel.com/image/teams/389.png",
+    "score": "2 - 1",
+    "time": "5:00 م"
+  }
+]

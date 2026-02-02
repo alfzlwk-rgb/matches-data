@@ -1,0 +1,898 @@
+[
+  {
+    "home": "الاتحاد الرياضي التوركي",
+    "homeLogo": "https://jdwel.com/image/teams/609.png",
+    "away": "أولمبيك الدشيرة",
+    "awayLogo": "https://jdwel.com/image/teams/2247.png",
+    "score": "1 - 2",
+    "time": "10:00 م"
+  },
+  {
+    "home": "وداد فاس",
+    "homeLogo": "https://jdwel.com/image/teams/3243.png",
+    "away": "الرجاء الرياضي",
+    "awayLogo": "https://jdwel.com/image/teams/mor_raja_casablanca.png",
+    "score": "1 - 1 2 - 4",
+    "time": "10:00 م"
+  },
+  {
+    "home": "الاتحاد الرياضي التوركي",
+    "homeLogo": "https://jdwel.com/image/teams/609.png",
+    "away": "وداد فاس",
+    "awayLogo": "https://jdwel.com/image/teams/3243.png",
+    "score": "1 - 0",
+    "time": "11:00 م"
+  },
+  {
+    "home": "أولمبيك الدشيرة",
+    "homeLogo": "https://jdwel.com/image/teams/2247.png",
+    "away": "الرجاء الرياضي",
+    "awayLogo": "https://jdwel.com/image/teams/mor_raja_casablanca.png",
+    "score": "0 - 0 6 - 5",
+    "time": "9:00 م"
+  },
+  {
+    "home": "الرجاء الرياضي",
+    "homeLogo": "https://jdwel.com/image/teams/mor_raja_casablanca.png",
+    "away": "النادي المكناسي",
+    "awayLogo": "https://jdwel.com/image/teams/2241.png",
+    "score": "2 - 1",
+    "time": "10:00 م"
+  },
+  {
+    "home": "الفتح الرباطي",
+    "homeLogo": "https://jdwel.com/image/teams/4518.png",
+    "away": "أولمبيك الدشيرة",
+    "awayLogo": "https://jdwel.com/image/teams/2247.png",
+    "score": "1 - 1 3 - 4",
+    "time": "7:00 م"
+  },
+  {
+    "home": "وداد فاس",
+    "homeLogo": "https://jdwel.com/image/teams/3243.png",
+    "away": "نهضة بركان",
+    "awayLogo": "https://jdwel.com/image/teams/2186.png",
+    "score": "1 - 0",
+    "time": "10:00 م"
+  },
+  {
+    "home": "الاتحاد الرياضي التوركي",
+    "homeLogo": "https://jdwel.com/image/teams/609.png",
+    "away": "الوداد الرياضي",
+    "awayLogo": "https://jdwel.com/image/teams/3154.png",
+    "score": "2 - 0",
+    "time": "7:00 م"
+  },
+  {
+    "home": "نهضة بركان",
+    "homeLogo": "https://jdwel.com/image/teams/2186.png",
+    "away": "الاتحاد الإسلامي الوجدي",
+    "awayLogo": "https://jdwel.com/image/teams/100.png",
+    "score": "3 - 1",
+    "time": "9:00 م"
+  },
+  {
+    "home": "الكوكب المراكشي",
+    "homeLogo": "https://jdwel.com/image/teams/2244.png",
+    "away": "الاتحاد الرياضي التوركي",
+    "awayLogo": "https://jdwel.com/image/teams/609.png",
+    "score": "2 - 2 2 - 4",
+    "time": "7:00 م"
+  },
+  {
+    "home": "أولمبيك الدشيرة",
+    "homeLogo": "https://jdwel.com/image/teams/2247.png",
+    "away": "شباب بن جرير",
+    "awayLogo": "https://jdwel.com/image/teams/3244.png",
+    "score": "1 - 0",
+    "time": "7:00 م"
+  },
+  {
+    "home": "سطاد المغربي",
+    "homeLogo": "https://jdwel.com/image/teams/2486.png",
+    "away": "الوداد الرياضي",
+    "awayLogo": "https://jdwel.com/image/teams/3154.png",
+    "score": "1 - 2",
+    "time": "7:00 م"
+  },
+  {
+    "home": "النادي القنيطري",
+    "homeLogo": "https://jdwel.com/image/teams/2481.png",
+    "away": "النادي المكناسي",
+    "awayLogo": "https://jdwel.com/image/teams/2241.png",
+    "score": "0 - 0 2 - 3",
+    "time": "11:00 م"
+  },
+  {
+    "home": "نهضة الزمامرة",
+    "homeLogo": "https://jdwel.com/image/teams/2479.png",
+    "away": "الرجاء الرياضي",
+    "awayLogo": "https://jdwel.com/image/teams/mor_raja_casablanca.png",
+    "score": "1 - 2",
+    "time": "9:00 م"
+  },
+  {
+    "home": "أولمبيك أسفي",
+    "homeLogo": "https://jdwel.com/image/teams/2578.png",
+    "away": "وداد فاس",
+    "awayLogo": "https://jdwel.com/image/teams/3243.png",
+    "score": "0 - 1",
+    "time": "9:00 م"
+  },
+  {
+    "home": "الفتح الرباطي",
+    "homeLogo": "https://jdwel.com/image/teams/4518.png",
+    "away": "إتحاد يعقوب المنصور",
+    "awayLogo": "https://jdwel.com/image/teams/2746.png",
+    "score": "0 - 0 5 - 4",
+    "time": "7:00 م"
+  },
+  {
+    "home": "الرجاء الرياضي",
+    "homeLogo": "https://jdwel.com/image/teams/mor_raja_casablanca.png",
+    "away": "المغرب التطواني",
+    "awayLogo": "https://jdwel.com/image/teams/2439.png",
+    "score": "1 - 0",
+    "time": "12:00 ص"
+  },
+  {
+    "home": "الوداد الرياضي",
+    "homeLogo": "https://jdwel.com/image/teams/3154.png",
+    "away": "شباب السوالم",
+    "awayLogo": "https://jdwel.com/image/teams/1037.png",
+    "score": "2 - 2",
+    "time": "12:00 ص"
+  },
+  {
+    "home": "النادي القنيطري",
+    "homeLogo": "https://jdwel.com/image/teams/2481.png",
+    "away": "أولمبيك خريبكة",
+    "awayLogo": "https://jdwel.com/image/teams/2248.png",
+    "score": "1 - 0",
+    "time": "12:00 ص"
+  },
+  {
+    "home": "أولمبيك أسفي",
+    "homeLogo": "https://jdwel.com/image/teams/2578.png",
+    "away": "شباب المحمدية",
+    "awayLogo": "https://jdwel.com/image/teams/2788.png",
+    "score": "3 - 2",
+    "time": "12:00 ص"
+  },
+  {
+    "home": "نهضة الزمامرة",
+    "homeLogo": "https://jdwel.com/image/teams/2479.png",
+    "away": "يوسفية برشيد",
+    "awayLogo": "https://jdwel.com/image/teams/2245.png",
+    "score": "1 - 0",
+    "time": "12:00 ص"
+  },
+  {
+    "home": "سريع وادي زم",
+    "homeLogo": "https://jdwel.com/image/teams/2747.png",
+    "away": "الاتحاد الإسلامي الوجدي",
+    "awayLogo": "https://jdwel.com/image/teams/100.png",
+    "score": "0 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "شباب بن جرير",
+    "homeLogo": "https://jdwel.com/image/teams/3244.png",
+    "away": "الدفاع الحسني الجديدي",
+    "awayLogo": "https://jdwel.com/image/teams/mor_difaa_el_jadida.png",
+    "score": "1 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "الفتح الرباطي",
+    "homeLogo": "https://jdwel.com/image/teams/4518.png",
+    "away": "مولودية وجدة",
+    "awayLogo": "https://jdwel.com/image/teams/2480.png",
+    "score": "1 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "الجيش الملكي",
+    "homeLogo": "https://jdwel.com/image/teams/1183.png",
+    "away": "حسنية أكادير",
+    "awayLogo": "https://jdwel.com/image/teams/2484.png",
+    "score": "2 - 1",
+    "time": "12:00 ص"
+  },
+  {
+    "home": "الاتحاد الرياضي التوركي",
+    "homeLogo": "https://jdwel.com/image/teams/609.png",
+    "away": "إتحاد طنجة",
+    "awayLogo": "https://jdwel.com/image/teams/2438.png",
+    "score": "4 - 1",
+    "time": "12:00 ص"
+  },
+  {
+    "home": "وداد فاس",
+    "homeLogo": "https://jdwel.com/image/teams/3243.png",
+    "away": "رجاء بني ملال",
+    "awayLogo": "https://jdwel.com/image/teams/2482.png",
+    "score": "4 - 1",
+    "time": "12:00 ص"
+  },
+  {
+    "home": "نهضة بركان",
+    "homeLogo": "https://jdwel.com/image/teams/2186.png",
+    "away": "المغرب الفاسي",
+    "awayLogo": "https://jdwel.com/image/teams/2478.png",
+    "score": "3 - 3",
+    "time": "12:00 ص"
+  },
+  {
+    "home": "شباب أطلس خنيفرة",
+    "homeLogo": "https://jdwel.com/image/teams/3245.png",
+    "away": "النادي المكناسي",
+    "awayLogo": "https://jdwel.com/image/teams/2241.png",
+    "score": "0 - 0",
+    "time": "12:00 ص"
+  },
+  {
+    "home": "شباب المسيرة",
+    "homeLogo": "https://jdwel.com/image/teams/2748.png",
+    "away": "الكوكب المراكشي",
+    "awayLogo": "https://jdwel.com/image/teams/2244.png",
+    "score": "1 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "الراسينغ البيضاوي",
+    "homeLogo": "https://jdwel.com/image/teams/2483.png",
+    "away": "سطاد المغربي",
+    "awayLogo": "https://jdwel.com/image/teams/2486.png",
+    "score": "0 - 2",
+    "time": "5:00 م"
+  },
+  {
+    "home": "إتحاد يعقوب المنصور",
+    "homeLogo": "https://jdwel.com/image/teams/2746.png",
+    "away": "أولمبيك الدشيرة",
+    "awayLogo": "https://jdwel.com/image/teams/2247.png",
+    "score": "4 - 4",
+    "time": "5:00 م"
+  },
+  {
+    "home": "الدفاع الحسني الجديدي",
+    "homeLogo": "https://jdwel.com/image/teams/mor_difaa_el_jadida.png",
+    "away": "الفتح الرباطي",
+    "awayLogo": "https://jdwel.com/image/teams/4518.png",
+    "score": "0 - 0",
+    "time": "8:00 م"
+  },
+  {
+    "home": "الرجاء الرياضي",
+    "homeLogo": "https://jdwel.com/image/teams/mor_raja_casablanca.png",
+    "away": "أولمبيك خريبكة",
+    "awayLogo": "https://jdwel.com/image/teams/2248.png",
+    "score": "2 - 3",
+    "time": "6:00 م"
+  },
+  {
+    "home": "أولمبيك الدشيرة",
+    "homeLogo": "https://jdwel.com/image/teams/2247.png",
+    "away": "الجيش الملكي",
+    "awayLogo": "https://jdwel.com/image/teams/1183.png",
+    "score": "1 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "رجاء بني ملال",
+    "homeLogo": "https://jdwel.com/image/teams/2482.png",
+    "away": "نهضة بركان",
+    "awayLogo": "https://jdwel.com/image/teams/2186.png",
+    "score": "2 - 2",
+    "time": "4:00 م"
+  },
+  {
+    "home": "يوسفية برشيد",
+    "homeLogo": "https://jdwel.com/image/teams/2245.png",
+    "away": "شباب أطلس خنيفرة",
+    "awayLogo": "https://jdwel.com/image/teams/3245.png",
+    "score": "0 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "الاتحاد الإسلامي الوجدي",
+    "homeLogo": "https://jdwel.com/image/teams/100.png",
+    "away": "أولمبيك أسفي",
+    "awayLogo": "https://jdwel.com/image/teams/2578.png",
+    "score": "1 - 1",
+    "time": "4:00 م"
+  },
+  {
+    "home": "النادي المكناسي",
+    "homeLogo": "https://jdwel.com/image/teams/2241.png",
+    "away": "نهضة الزمامرة",
+    "awayLogo": "https://jdwel.com/image/teams/2479.png",
+    "score": "3 - 3",
+    "time": "6:00 م"
+  },
+  {
+    "home": "مولودية وجدة",
+    "homeLogo": "https://jdwel.com/image/teams/2480.png",
+    "away": "شباب بن جرير",
+    "awayLogo": "https://jdwel.com/image/teams/3244.png",
+    "score": "0 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "المغرب التطواني",
+    "homeLogo": "https://jdwel.com/image/teams/2439.png",
+    "away": "النادي القنيطري",
+    "awayLogo": "https://jdwel.com/image/teams/2481.png",
+    "score": "0 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "شباب السوالم",
+    "homeLogo": "https://jdwel.com/image/teams/1037.png",
+    "away": "شباب المسيرة",
+    "awayLogo": "https://jdwel.com/image/teams/2748.png",
+    "score": "0 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "حسنية أكادير",
+    "homeLogo": "https://jdwel.com/image/teams/2484.png",
+    "away": "إتحاد يعقوب المنصور",
+    "awayLogo": "https://jdwel.com/image/teams/2746.png",
+    "score": "0 - 2",
+    "time": "4:00 م"
+  },
+  {
+    "home": "شباب المحمدية",
+    "homeLogo": "https://jdwel.com/image/teams/2788.png",
+    "away": "سريع وادي زم",
+    "awayLogo": "https://jdwel.com/image/teams/2747.png",
+    "score": "1 - 3",
+    "time": "4:00 م"
+  },
+  {
+    "home": "الكوكب المراكشي",
+    "homeLogo": "https://jdwel.com/image/teams/2244.png",
+    "away": "الوداد الرياضي",
+    "awayLogo": "https://jdwel.com/image/teams/3154.png",
+    "score": "2 - 0",
+    "time": "4:00 م"
+  },
+  {
+    "home": "إتحاد طنجة",
+    "homeLogo": "https://jdwel.com/image/teams/2438.png",
+    "away": "الراسينغ البيضاوي",
+    "awayLogo": "https://jdwel.com/image/teams/2483.png",
+    "score": "3 - 4",
+    "time": "4:00 م"
+  },
+  {
+    "home": "سطاد المغربي",
+    "homeLogo": "https://jdwel.com/image/teams/2486.png",
+    "away": "الاتحاد الرياضي التوركي",
+    "awayLogo": "https://jdwel.com/image/teams/609.png",
+    "score": "2 - 1",
+    "time": "4:00 م"
+  },
+  {
+    "home": "المغرب الفاسي",
+    "homeLogo": "https://jdwel.com/image/teams/2478.png",
+    "away": "وداد فاس",
+    "awayLogo": "https://jdwel.com/image/teams/3243.png",
+    "score": "2 - 4",
+    "time": "8:00 م"
+  },
+  {
+    "home": "إتحاد طنجة",
+    "homeLogo": "https://jdwel.com/image/teams/2438.png",
+    "away": "سطاد المغربي",
+    "awayLogo": "https://jdwel.com/image/teams/2486.png",
+    "score": "0 - 1",
+    "time": "10:00 م"
+  },
+  {
+    "home": "الاتحاد الرياضي التوركي",
+    "homeLogo": "https://jdwel.com/image/teams/609.png",
+    "away": "الراسينغ البيضاوي",
+    "awayLogo": "https://jdwel.com/image/teams/2483.png",
+    "score": "2 - 2",
+    "time": "8:00 م"
+  },
+  {
+    "home": "حسنية أكادير",
+    "homeLogo": "https://jdwel.com/image/teams/2484.png",
+    "away": "أولمبيك الدشيرة",
+    "awayLogo": "https://jdwel.com/image/teams/2247.png",
+    "score": "2 - 1",
+    "time": "6:00 م"
+  },
+  {
+    "home": "النادي المكناسي",
+    "homeLogo": "https://jdwel.com/image/teams/2241.png",
+    "away": "يوسفية برشيد",
+    "awayLogo": "https://jdwel.com/image/teams/2245.png",
+    "score": "2 - 1",
+    "time": "6:00 م"
+  },
+  {
+    "home": "رجاء بني ملال",
+    "homeLogo": "https://jdwel.com/image/teams/2482.png",
+    "away": "المغرب الفاسي",
+    "awayLogo": "https://jdwel.com/image/teams/2478.png",
+    "score": "3 - 2",
+    "time": "6:00 م"
+  },
+  {
+    "home": "إتحاد يعقوب المنصور",
+    "homeLogo": "https://jdwel.com/image/teams/2746.png",
+    "away": "الجيش الملكي",
+    "awayLogo": "https://jdwel.com/image/teams/1183.png",
+    "score": "1 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "شباب أطلس خنيفرة",
+    "homeLogo": "https://jdwel.com/image/teams/3245.png",
+    "away": "نهضة الزمامرة",
+    "awayLogo": "https://jdwel.com/image/teams/2479.png",
+    "score": "0 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "أولمبيك خريبكة",
+    "homeLogo": "https://jdwel.com/image/teams/2248.png",
+    "away": "المغرب التطواني",
+    "awayLogo": "https://jdwel.com/image/teams/2439.png",
+    "score": "1 - 2",
+    "time": "10:00 م"
+  },
+  {
+    "home": "النادي القنيطري",
+    "homeLogo": "https://jdwel.com/image/teams/2481.png",
+    "away": "الرجاء الرياضي",
+    "awayLogo": "https://jdwel.com/image/teams/mor_raja_casablanca.png",
+    "score": "0 - 1",
+    "time": "10:00 م"
+  },
+  {
+    "home": "الدفاع الحسني الجديدي",
+    "homeLogo": "https://jdwel.com/image/teams/mor_difaa_el_jadida.png",
+    "away": "مولودية وجدة",
+    "awayLogo": "https://jdwel.com/image/teams/2480.png",
+    "score": "0 - 0",
+    "time": "10:00 م"
+  },
+  {
+    "home": "الكوكب المراكشي",
+    "homeLogo": "https://jdwel.com/image/teams/2244.png",
+    "away": "شباب السوالم",
+    "awayLogo": "https://jdwel.com/image/teams/1037.png",
+    "score": "2 - 0",
+    "time": "8:00 م"
+  },
+  {
+    "home": "وداد فاس",
+    "homeLogo": "https://jdwel.com/image/teams/3243.png",
+    "away": "نهضة بركان",
+    "awayLogo": "https://jdwel.com/image/teams/2186.png",
+    "score": "1 - 1",
+    "time": "8:00 م"
+  },
+  {
+    "home": "الاتحاد الإسلامي الوجدي",
+    "homeLogo": "https://jdwel.com/image/teams/100.png",
+    "away": "شباب المحمدية",
+    "awayLogo": "https://jdwel.com/image/teams/2788.png",
+    "score": "1 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "سريع وادي زم",
+    "homeLogo": "https://jdwel.com/image/teams/2747.png",
+    "away": "أولمبيك أسفي",
+    "awayLogo": "https://jdwel.com/image/teams/2578.png",
+    "score": "1 - 1",
+    "time": "6:00 م"
+  },
+  {
+    "home": "شباب بن جرير",
+    "homeLogo": "https://jdwel.com/image/teams/3244.png",
+    "away": "الفتح الرباطي",
+    "awayLogo": "https://jdwel.com/image/teams/4518.png",
+    "score": "2 - 1",
+    "time": "6:00 م"
+  },
+  {
+    "home": "شباب المسيرة",
+    "homeLogo": "https://jdwel.com/image/teams/2748.png",
+    "away": "الوداد الرياضي",
+    "awayLogo": "https://jdwel.com/image/teams/3154.png",
+    "score": "0 - 5",
+    "time": "6:00 م"
+  },
+  {
+    "home": "إتحاد طنجة",
+    "homeLogo": "https://jdwel.com/image/teams/2438.png",
+    "away": "الاتحاد الرياضي التوركي",
+    "awayLogo": "https://jdwel.com/image/teams/609.png",
+    "score": "0 - 2",
+    "time": "10:00 م"
+  },
+  {
+    "home": "يوسفية برشيد",
+    "homeLogo": "https://jdwel.com/image/teams/2245.png",
+    "away": "نهضة الزمامرة",
+    "awayLogo": "https://jdwel.com/image/teams/2479.png",
+    "score": "0 - 2",
+    "time": "8:00 م"
+  },
+  {
+    "home": "المغرب التطواني",
+    "homeLogo": "https://jdwel.com/image/teams/2439.png",
+    "away": "الرجاء الرياضي",
+    "awayLogo": "https://jdwel.com/image/teams/mor_raja_casablanca.png",
+    "score": "0 - 1",
+    "time": "10:00 م"
+  },
+  {
+    "home": "المغرب الفاسي",
+    "homeLogo": "https://jdwel.com/image/teams/2478.png",
+    "away": "نهضة بركان",
+    "awayLogo": "https://jdwel.com/image/teams/2186.png",
+    "score": "1 - 3",
+    "time": "8:00 م"
+  },
+  {
+    "home": "شباب المحمدية",
+    "homeLogo": "https://jdwel.com/image/teams/2788.png",
+    "away": "أولمبيك أسفي",
+    "awayLogo": "https://jdwel.com/image/teams/2578.png",
+    "score": "0 - 2",
+    "time": "8:00 م"
+  },
+  {
+    "home": "الدفاع الحسني الجديدي",
+    "homeLogo": "https://jdwel.com/image/teams/mor_difaa_el_jadida.png",
+    "away": "شباب بن جرير",
+    "awayLogo": "https://jdwel.com/image/teams/3244.png",
+    "score": "0 - 0",
+    "time": "8:00 م"
+  },
+  {
+    "home": "حسنية أكادير",
+    "homeLogo": "https://jdwel.com/image/teams/2484.png",
+    "away": "الجيش الملكي",
+    "awayLogo": "https://jdwel.com/image/teams/1183.png",
+    "score": "2 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "مولودية وجدة",
+    "homeLogo": "https://jdwel.com/image/teams/2480.png",
+    "away": "الفتح الرباطي",
+    "awayLogo": "https://jdwel.com/image/teams/4518.png",
+    "score": "0 - 2",
+    "time": "6:00 م"
+  },
+  {
+    "home": "شباب السوالم",
+    "homeLogo": "https://jdwel.com/image/teams/1037.png",
+    "away": "الوداد الرياضي",
+    "awayLogo": "https://jdwel.com/image/teams/3154.png",
+    "score": "1 - 0",
+    "time": "10:00 م"
+  },
+  {
+    "home": "أولمبيك خريبكة",
+    "homeLogo": "https://jdwel.com/image/teams/2248.png",
+    "away": "النادي القنيطري",
+    "awayLogo": "https://jdwel.com/image/teams/2481.png",
+    "score": "1 - 4",
+    "time": "8:00 م"
+  },
+  {
+    "home": "الكوكب المراكشي",
+    "homeLogo": "https://jdwel.com/image/teams/2244.png",
+    "away": "شباب المسيرة",
+    "awayLogo": "https://jdwel.com/image/teams/2748.png",
+    "score": "2 - 1",
+    "time": "8:00 م"
+  },
+  {
+    "home": "النادي المكناسي",
+    "homeLogo": "https://jdwel.com/image/teams/2241.png",
+    "away": "شباب أطلس خنيفرة",
+    "awayLogo": "https://jdwel.com/image/teams/3245.png",
+    "score": "1 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "أولمبيك الدشيرة",
+    "homeLogo": "https://jdwel.com/image/teams/2247.png",
+    "away": "إتحاد يعقوب المنصور",
+    "awayLogo": "https://jdwel.com/image/teams/2746.png",
+    "score": "2 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "رجاء بني ملال",
+    "homeLogo": "https://jdwel.com/image/teams/2482.png",
+    "away": "وداد فاس",
+    "awayLogo": "https://jdwel.com/image/teams/3243.png",
+    "score": "0 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "سطاد المغربي",
+    "homeLogo": "https://jdwel.com/image/teams/2486.png",
+    "away": "الراسينغ البيضاوي",
+    "awayLogo": "https://jdwel.com/image/teams/2483.png",
+    "score": "2 - 1",
+    "time": "6:00 م"
+  },
+  {
+    "home": "الاتحاد الإسلامي الوجدي",
+    "homeLogo": "https://jdwel.com/image/teams/100.png",
+    "away": "سريع وادي زم",
+    "awayLogo": "https://jdwel.com/image/teams/2747.png",
+    "score": "0 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "وداد فاس",
+    "homeLogo": "https://jdwel.com/image/teams/3243.png",
+    "away": "المغرب الفاسي",
+    "awayLogo": "https://jdwel.com/image/teams/2478.png",
+    "score": "1 - 1",
+    "time": "10:00 م"
+  },
+  {
+    "home": "الفتح الرباطي",
+    "homeLogo": "https://jdwel.com/image/teams/4518.png",
+    "away": "الدفاع الحسني الجديدي",
+    "awayLogo": "https://jdwel.com/image/teams/mor_difaa_el_jadida.png",
+    "score": "2 - 0",
+    "time": "10:00 م"
+  },
+  {
+    "home": "النادي القنيطري",
+    "homeLogo": "https://jdwel.com/image/teams/2481.png",
+    "away": "المغرب التطواني",
+    "awayLogo": "https://jdwel.com/image/teams/2439.png",
+    "score": "2 - 0",
+    "time": "8:00 م"
+  },
+  {
+    "home": "أولمبيك أسفي",
+    "homeLogo": "https://jdwel.com/image/teams/2578.png",
+    "away": "الاتحاد الإسلامي الوجدي",
+    "awayLogo": "https://jdwel.com/image/teams/100.png",
+    "score": "1 - 1",
+    "time": "8:00 م"
+  },
+  {
+    "home": "الراسينغ البيضاوي",
+    "homeLogo": "https://jdwel.com/image/teams/2483.png",
+    "away": "إتحاد طنجة",
+    "awayLogo": "https://jdwel.com/image/teams/2438.png",
+    "score": "3 - 1",
+    "time": "8:00 م"
+  },
+  {
+    "home": "الوداد الرياضي",
+    "homeLogo": "https://jdwel.com/image/teams/3154.png",
+    "away": "الكوكب المراكشي",
+    "awayLogo": "https://jdwel.com/image/teams/2244.png",
+    "score": "0 - 0",
+    "time": "7:00 م"
+  },
+  {
+    "home": "شباب المسيرة",
+    "homeLogo": "https://jdwel.com/image/teams/2748.png",
+    "away": "شباب السوالم",
+    "awayLogo": "https://jdwel.com/image/teams/1037.png",
+    "score": "2 - 1",
+    "time": "7:00 م"
+  },
+  {
+    "home": "إتحاد يعقوب المنصور",
+    "homeLogo": "https://jdwel.com/image/teams/2746.png",
+    "away": "حسنية أكادير",
+    "awayLogo": "https://jdwel.com/image/teams/2484.png",
+    "score": "0 - 1",
+    "time": "7:00 م"
+  },
+  {
+    "home": "الجيش الملكي",
+    "homeLogo": "https://jdwel.com/image/teams/1183.png",
+    "away": "أولمبيك الدشيرة",
+    "awayLogo": "https://jdwel.com/image/teams/2247.png",
+    "score": "2 - 0",
+    "time": "10:00 م"
+  },
+  {
+    "home": "الاتحاد الرياضي التوركي",
+    "homeLogo": "https://jdwel.com/image/teams/609.png",
+    "away": "سطاد المغربي",
+    "awayLogo": "https://jdwel.com/image/teams/2486.png",
+    "score": "2 - 1",
+    "time": "10:00 م"
+  },
+  {
+    "home": "نهضة بركان",
+    "homeLogo": "https://jdwel.com/image/teams/2186.png",
+    "away": "رجاء بني ملال",
+    "awayLogo": "https://jdwel.com/image/teams/2482.png",
+    "score": "3 - 0",
+    "time": "10:00 م"
+  },
+  {
+    "home": "أولمبيك خريبكة",
+    "homeLogo": "https://jdwel.com/image/teams/2248.png",
+    "away": "الرجاء الرياضي",
+    "awayLogo": "https://jdwel.com/image/teams/mor_raja_casablanca.png",
+    "score": "2 - 0",
+    "time": "8:00 م"
+  },
+  {
+    "home": "شباب أطلس خنيفرة",
+    "homeLogo": "https://jdwel.com/image/teams/3245.png",
+    "away": "يوسفية برشيد",
+    "awayLogo": "https://jdwel.com/image/teams/2245.png",
+    "score": "2 - 0",
+    "time": "8:00 م"
+  },
+  {
+    "home": "نهضة الزمامرة",
+    "homeLogo": "https://jdwel.com/image/teams/2479.png",
+    "away": "النادي المكناسي",
+    "awayLogo": "https://jdwel.com/image/teams/2241.png",
+    "score": "4 - 0",
+    "time": "8:00 م"
+  },
+  {
+    "home": "سريع وادي زم",
+    "homeLogo": "https://jdwel.com/image/teams/2747.png",
+    "away": "شباب المحمدية",
+    "awayLogo": "https://jdwel.com/image/teams/2788.png",
+    "score": "1 - 0",
+    "time": "7:00 م"
+  },
+  {
+    "home": "شباب بن جرير",
+    "homeLogo": "https://jdwel.com/image/teams/3244.png",
+    "away": "مولودية وجدة",
+    "awayLogo": "https://jdwel.com/image/teams/2480.png",
+    "score": "2 - 1",
+    "time": "7:00 م"
+  },
+  {
+    "home": "شباب المحمدية",
+    "homeLogo": "https://jdwel.com/image/teams/2788.png",
+    "away": "الاتحاد الإسلامي الوجدي",
+    "awayLogo": "https://jdwel.com/image/teams/100.png",
+    "score": "2 - 3",
+    "time": "10:00 م"
+  },
+  {
+    "home": "مولودية وجدة",
+    "homeLogo": "https://jdwel.com/image/teams/2480.png",
+    "away": "الدفاع الحسني الجديدي",
+    "awayLogo": "https://jdwel.com/image/teams/mor_difaa_el_jadida.png",
+    "score": "0 - 2",
+    "time": "10:00 م"
+  },
+  {
+    "home": "أولمبيك أسفي",
+    "homeLogo": "https://jdwel.com/image/teams/2578.png",
+    "away": "سريع وادي زم",
+    "awayLogo": "https://jdwel.com/image/teams/2747.png",
+    "score": "1 - 0",
+    "time": "10:00 م"
+  },
+  {
+    "home": "الفتح الرباطي",
+    "homeLogo": "https://jdwel.com/image/teams/4518.png",
+    "away": "شباب بن جرير",
+    "awayLogo": "https://jdwel.com/image/teams/3244.png",
+    "score": "1 - 0",
+    "time": "10:00 م"
+  },
+  {
+    "home": "الرجاء الرياضي",
+    "homeLogo": "https://jdwel.com/image/teams/mor_raja_casablanca.png",
+    "away": "النادي القنيطري",
+    "awayLogo": "https://jdwel.com/image/teams/2481.png",
+    "score": "2 - 2",
+    "time": "8:00 م"
+  },
+  {
+    "home": "المغرب الفاسي",
+    "homeLogo": "https://jdwel.com/image/teams/2478.png",
+    "away": "رجاء بني ملال",
+    "awayLogo": "https://jdwel.com/image/teams/2482.png",
+    "score": "2 - 0",
+    "time": "8:00 م"
+  },
+  {
+    "home": "يوسفية برشيد",
+    "homeLogo": "https://jdwel.com/image/teams/2245.png",
+    "away": "النادي المكناسي",
+    "awayLogo": "https://jdwel.com/image/teams/2241.png",
+    "score": "1 - 0",
+    "time": "8:00 م"
+  },
+  {
+    "home": "نهضة الزمامرة",
+    "homeLogo": "https://jdwel.com/image/teams/2479.png",
+    "away": "شباب أطلس خنيفرة",
+    "awayLogo": "https://jdwel.com/image/teams/3245.png",
+    "score": "1 - 0",
+    "time": "8:00 م"
+  },
+  {
+    "home": "سطاد المغربي",
+    "homeLogo": "https://jdwel.com/image/teams/2486.png",
+    "away": "إتحاد طنجة",
+    "awayLogo": "https://jdwel.com/image/teams/2438.png",
+    "score": "1 - 0",
+    "time": "7:00 م"
+  },
+  {
+    "home": "الراسينغ البيضاوي",
+    "homeLogo": "https://jdwel.com/image/teams/2483.png",
+    "away": "الاتحاد الرياضي التوركي",
+    "awayLogo": "https://jdwel.com/image/teams/609.png",
+    "score": "1 - 1",
+    "time": "10:00 م"
+  },
+  {
+    "home": "المغرب التطواني",
+    "homeLogo": "https://jdwel.com/image/teams/2439.png",
+    "away": "أولمبيك خريبكة",
+    "awayLogo": "https://jdwel.com/image/teams/2248.png",
+    "score": "2 - 2",
+    "time": "10:00 م"
+  },
+  {
+    "home": "نهضة بركان",
+    "homeLogo": "https://jdwel.com/image/teams/2186.png",
+    "away": "وداد فاس",
+    "awayLogo": "https://jdwel.com/image/teams/3243.png",
+    "score": "4 - 0",
+    "time": "10:00 م"
+  },
+  {
+    "home": "شباب السوالم",
+    "homeLogo": "https://jdwel.com/image/teams/1037.png",
+    "away": "الكوكب المراكشي",
+    "awayLogo": "https://jdwel.com/image/teams/2244.png",
+    "score": "1 - 2",
+    "time": "10:00 م"
+  },
+  {
+    "home": "الوداد الرياضي",
+    "homeLogo": "https://jdwel.com/image/teams/3154.png",
+    "away": "شباب المسيرة",
+    "awayLogo": "https://jdwel.com/image/teams/2748.png",
+    "score": "2 - 0",
+    "time": "8:00 م"
+  },
+  {
+    "home": "الجيش الملكي",
+    "homeLogo": "https://jdwel.com/image/teams/1183.png",
+    "away": "إتحاد يعقوب المنصور",
+    "awayLogo": "https://jdwel.com/image/teams/2746.png",
+    "score": "1 - 2",
+    "time": "8:00 م"
+  },
+  {
+    "home": "أولمبيك الدشيرة",
+    "homeLogo": "https://jdwel.com/image/teams/2247.png",
+    "away": "حسنية أكادير",
+    "awayLogo": "https://jdwel.com/image/teams/2484.png",
+    "score": "2 - 0",
+    "time": "7:00 م"
+  }
+]

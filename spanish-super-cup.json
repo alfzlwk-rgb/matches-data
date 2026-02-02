@@ -1,0 +1,26 @@
+[
+  {
+    "home": "برشلونة",
+    "homeLogo": "https://jdwel.com/image/teams/3337.png",
+    "away": "ريال مدريد",
+    "awayLogo": "https://jdwel.com/image/teams/2605.png",
+    "score": "3 - 2",
+    "time": "9:00 م"
+  },
+  {
+    "home": "أتلتيكو مدريد",
+    "homeLogo": "https://jdwel.com/image/teams/716.png",
+    "away": "ريال مدريد",
+    "awayLogo": "https://jdwel.com/image/teams/2605.png",
+    "score": "1 - 2",
+    "time": "9:00 م"
+  },
+  {
+    "home": "برشلونة",
+    "homeLogo": "https://jdwel.com/image/teams/3337.png",
+    "away": "أتلتيك بيلباو",
+    "awayLogo": "https://jdwel.com/image/teams/2033.png",
+    "score": "5 - 0",
+    "time": "9:00 م"
+  }
+]

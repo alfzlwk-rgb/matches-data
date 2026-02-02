@@ -1,0 +1,114 @@
+[
+  {
+    "home": "ماميلودي صن داونز",
+    "homeLogo": "https://jdwel.com/image/teams/1411.png",
+    "away": "الوداد الرياضي",
+    "awayLogo": "https://jdwel.com/image/teams/3154.png",
+    "score": "2 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "الوداد الرياضي",
+    "homeLogo": "https://jdwel.com/image/teams/3154.png",
+    "away": "ماميلودي صن داونز",
+    "awayLogo": "https://jdwel.com/image/teams/1411.png",
+    "score": "2 - 1",
+    "time": "8:00 م"
+  },
+  {
+    "home": "الأهلي",
+    "homeLogo": "https://jdwel.com/image/teams/1253.png",
+    "away": "ماميلودي صن داونز",
+    "awayLogo": "https://jdwel.com/image/teams/1411.png",
+    "score": "0 - 0",
+    "time": "8:00 م"
+  },
+  {
+    "home": "الترجي الرياضي التونسي",
+    "homeLogo": "https://jdwel.com/image/teams/1182.png",
+    "away": "الوداد الرياضي",
+    "awayLogo": "https://jdwel.com/image/teams/3154.png",
+    "score": "1 - 1 4 - 5",
+    "time": "5:00 م"
+  },
+  {
+    "home": "الوداد الرياضي",
+    "homeLogo": "https://jdwel.com/image/teams/3154.png",
+    "away": "الترجي الرياضي التونسي",
+    "awayLogo": "https://jdwel.com/image/teams/1182.png",
+    "score": "1 - 0",
+    "time": "8:00 م"
+  },
+  {
+    "home": "ماميلودي صن داونز",
+    "homeLogo": "https://jdwel.com/image/teams/1411.png",
+    "away": "الأهلي",
+    "awayLogo": "https://jdwel.com/image/teams/1253.png",
+    "score": "1 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "الوداد الرياضي",
+    "homeLogo": "https://jdwel.com/image/teams/3154.png",
+    "away": "إنييمبا",
+    "awayLogo": "https://jdwel.com/image/teams/1990.png",
+    "score": "3 - 0",
+    "time": "9:00 م"
+  },
+  {
+    "home": "الترجي الرياضي التونسي",
+    "homeLogo": "https://jdwel.com/image/teams/1182.png",
+    "away": "تي بي مازيمبي",
+    "awayLogo": "https://jdwel.com/image/teams/1187.png",
+    "score": "3 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "ماميلودي صن داونز",
+    "homeLogo": "https://jdwel.com/image/teams/1411.png",
+    "away": "بيترو أتلتيكو",
+    "awayLogo": "https://jdwel.com/image/teams/ang_petro_de_luanda.png",
+    "score": "0 - 0",
+    "time": "8:00 م"
+  },
+  {
+    "home": "الأهلي",
+    "homeLogo": "https://jdwel.com/image/teams/1253.png",
+    "away": "سيمبا",
+    "awayLogo": "https://jdwel.com/image/teams/1195.png",
+    "score": "1 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "إنييمبا",
+    "homeLogo": "https://jdwel.com/image/teams/1990.png",
+    "away": "الوداد الرياضي",
+    "awayLogo": "https://jdwel.com/image/teams/3154.png",
+    "score": "0 - 1",
+    "time": "9:00 م"
+  },
+  {
+    "home": "تي بي مازيمبي",
+    "homeLogo": "https://jdwel.com/image/teams/1187.png",
+    "away": "الترجي الرياضي التونسي",
+    "awayLogo": "https://jdwel.com/image/teams/1182.png",
+    "score": "1 - 0",
+    "time": "6:00 م"
+  },
+  {
+    "home": "بيترو أتلتيكو",
+    "homeLogo": "https://jdwel.com/image/teams/ang_petro_de_luanda.png",
+    "away": "ماميلودي صن داونز",
+    "awayLogo": "https://jdwel.com/image/teams/1411.png",
+    "score": "0 - 2",
+    "time": "6:30 م"
+  },
+  {
+    "home": "سيمبا",
+    "homeLogo": "https://jdwel.com/image/teams/1195.png",
+    "away": "الأهلي",
+    "awayLogo": "https://jdwel.com/image/teams/1253.png",
+    "score": "2 - 2",
+    "time": "6:00 م"
+  }
+]

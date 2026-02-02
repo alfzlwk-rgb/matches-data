@@ -1,0 +1,418 @@
+[
+  {
+    "home": "الأرجنتين",
+    "homeLogo": "https://jdwel.com/image/teams/flag_argentina_v2.png",
+    "away": "المغرب",
+    "awayLogo": "https://jdwel.com/image/teams/3168.png",
+    "score": "0 - 2",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "كولومبيا",
+    "homeLogo": "https://jdwel.com/image/teams/3106.png",
+    "away": "فرنسا",
+    "awayLogo": "https://jdwel.com/image/teams/4962.png",
+    "score": "1 - 0",
+    "time": "10:00 م"
+  },
+  {
+    "home": "الأرجنتين",
+    "homeLogo": "https://jdwel.com/image/teams/flag_argentina_v2.png",
+    "away": "كولومبيا",
+    "awayLogo": "https://jdwel.com/image/teams/3106.png",
+    "score": "1 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "المغرب",
+    "homeLogo": "https://jdwel.com/image/teams/3168.png",
+    "away": "فرنسا",
+    "awayLogo": "https://jdwel.com/image/teams/4962.png",
+    "score": "1 - 1 5 - 4",
+    "time": "11:00 م"
+  },
+  {
+    "home": "النرويج",
+    "homeLogo": "https://jdwel.com/image/teams/41.png",
+    "away": "فرنسا",
+    "awayLogo": "https://jdwel.com/image/teams/4962.png",
+    "score": "1 - 2",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "الولايات المتحدة",
+    "homeLogo": "https://jdwel.com/image/teams/flag_united_states.png",
+    "away": "المغرب",
+    "awayLogo": "https://jdwel.com/image/teams/3168.png",
+    "score": "1 - 3",
+    "time": "11:00 م"
+  },
+  {
+    "home": "المكسيك",
+    "homeLogo": "https://jdwel.com/image/teams/flag_mexico_v2.png",
+    "away": "الأرجنتين",
+    "awayLogo": "https://jdwel.com/image/teams/flag_argentina_v2.png",
+    "score": "0 - 2",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "إسبانيا",
+    "homeLogo": "https://jdwel.com/image/teams/flag_spain_v2.png",
+    "away": "كولومبيا",
+    "awayLogo": "https://jdwel.com/image/teams/3106.png",
+    "score": "2 - 3",
+    "time": "11:00 م"
+  },
+  {
+    "home": "المغرب",
+    "homeLogo": "https://jdwel.com/image/teams/3168.png",
+    "away": "كوريا الجنوبية",
+    "awayLogo": "https://jdwel.com/image/teams/flag_korea_republic_v2.png",
+    "score": "2 - 1",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "الولايات المتحدة",
+    "homeLogo": "https://jdwel.com/image/teams/flag_united_states.png",
+    "away": "إيطاليا",
+    "awayLogo": "https://jdwel.com/image/teams/56.png",
+    "score": "1 - 0",
+    "time": "10:30 م"
+  },
+  {
+    "home": "باراغواي",
+    "homeLogo": "https://jdwel.com/image/teams/par_paraguay.png",
+    "away": "النرويج",
+    "awayLogo": "https://jdwel.com/image/teams/41.png",
+    "score": "0 - 1",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "اليابان",
+    "homeLogo": "https://jdwel.com/image/teams/flag_japan_v2.png",
+    "away": "فرنسا",
+    "awayLogo": "https://jdwel.com/image/teams/4962.png",
+    "score": "0 - 1",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "الأرجنتين",
+    "homeLogo": "https://jdwel.com/image/teams/flag_argentina_v2.png",
+    "away": "نيجيريا",
+    "awayLogo": "https://jdwel.com/image/teams/236.png",
+    "score": "4 - 0",
+    "time": "10:30 م"
+  },
+  {
+    "home": "كولومبيا",
+    "homeLogo": "https://jdwel.com/image/teams/3106.png",
+    "away": "جنوب أفريقيا",
+    "awayLogo": "https://jdwel.com/image/teams/50.png",
+    "score": "3 - 1",
+    "time": "10:30 م"
+  },
+  {
+    "home": "تشيلي",
+    "homeLogo": "https://jdwel.com/image/teams/flag_chile.png",
+    "away": "المكسيك",
+    "awayLogo": "https://jdwel.com/image/teams/flag_mexico_v2.png",
+    "score": "1 - 4",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "أوكرانيا",
+    "homeLogo": "https://jdwel.com/image/teams/flag_ukraine.png",
+    "away": "إسبانيا",
+    "awayLogo": "https://jdwel.com/image/teams/flag_spain_v2.png",
+    "score": "0 - 1",
+    "time": "10:30 م"
+  },
+  {
+    "home": "نيجيريا",
+    "homeLogo": "https://jdwel.com/image/teams/236.png",
+    "away": "كولومبيا",
+    "awayLogo": "https://jdwel.com/image/teams/3106.png",
+    "score": "1 - 1",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "السعودية",
+    "homeLogo": "https://jdwel.com/image/teams/2502.png",
+    "away": "النرويج",
+    "awayLogo": "https://jdwel.com/image/teams/41.png",
+    "score": "1 - 1",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "جنوب أفريقيا",
+    "homeLogo": "https://jdwel.com/image/teams/50.png",
+    "away": "الولايات المتحدة",
+    "awayLogo": "https://jdwel.com/image/teams/flag_united_states.png",
+    "score": "2 - 1",
+    "time": "11:00 م"
+  },
+  {
+    "home": "كاليدونيا الجديدة",
+    "homeLogo": "https://jdwel.com/image/teams/87.png",
+    "away": "فرنسا",
+    "awayLogo": "https://jdwel.com/image/teams/4962.png",
+    "score": "0 - 6",
+    "time": "11:00 م"
+  },
+  {
+    "home": "الأرجنتين",
+    "homeLogo": "https://jdwel.com/image/teams/flag_argentina_v2.png",
+    "away": "إيطاليا",
+    "awayLogo": "https://jdwel.com/image/teams/56.png",
+    "score": "1 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "أستراليا",
+    "homeLogo": "https://jdwel.com/image/teams/flag_australia_v2.png",
+    "away": "كوبا",
+    "awayLogo": "https://jdwel.com/image/teams/230.png",
+    "score": "3 - 1",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "إسبانيا",
+    "homeLogo": "https://jdwel.com/image/teams/flag_spain_v2.png",
+    "away": "البرازيل",
+    "awayLogo": "https://jdwel.com/image/teams/flag_brazil_v2.png",
+    "score": "1 - 0",
+    "time": "11:00 م"
+  },
+  {
+    "home": "المكسيك",
+    "homeLogo": "https://jdwel.com/image/teams/flag_mexico_v2.png",
+    "away": "المغرب",
+    "awayLogo": "https://jdwel.com/image/teams/3168.png",
+    "score": "1 - 0",
+    "time": "11:00 م"
+  },
+  {
+    "home": "مصر",
+    "homeLogo": "https://jdwel.com/image/teams/34.png",
+    "away": "تشيلي",
+    "awayLogo": "https://jdwel.com/image/teams/flag_chile.png",
+    "score": "2 - 1",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "نيوزيلندا",
+    "homeLogo": "https://jdwel.com/image/teams/39.png",
+    "away": "اليابان",
+    "awayLogo": "https://jdwel.com/image/teams/flag_japan_v2.png",
+    "score": "0 - 3",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "بنما",
+    "homeLogo": "https://jdwel.com/image/teams/203.png",
+    "away": "كوريا الجنوبية",
+    "awayLogo": "https://jdwel.com/image/teams/flag_korea_republic_v2.png",
+    "score": "1 - 2",
+    "time": "11:00 م"
+  },
+  {
+    "home": "أوكرانيا",
+    "homeLogo": "https://jdwel.com/image/teams/flag_ukraine.png",
+    "away": "باراغواي",
+    "awayLogo": "https://jdwel.com/image/teams/par_paraguay.png",
+    "score": "2 - 1",
+    "time": "11:00 م"
+  },
+  {
+    "home": "جنوب أفريقيا",
+    "homeLogo": "https://jdwel.com/image/teams/50.png",
+    "away": "كاليدونيا الجديدة",
+    "awayLogo": "https://jdwel.com/image/teams/87.png",
+    "score": "5 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "نيجيريا",
+    "homeLogo": "https://jdwel.com/image/teams/236.png",
+    "away": "السعودية",
+    "awayLogo": "https://jdwel.com/image/teams/2502.png",
+    "score": "3 - 2",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "الولايات المتحدة",
+    "homeLogo": "https://jdwel.com/image/teams/flag_united_states.png",
+    "away": "فرنسا",
+    "awayLogo": "https://jdwel.com/image/teams/4962.png",
+    "score": "3 - 0",
+    "time": "11:00 م"
+  },
+  {
+    "home": "كولومبيا",
+    "homeLogo": "https://jdwel.com/image/teams/3106.png",
+    "away": "النرويج",
+    "awayLogo": "https://jdwel.com/image/teams/41.png",
+    "score": "0 - 0",
+    "time": "11:00 م"
+  },
+  {
+    "home": "البرازيل",
+    "homeLogo": "https://jdwel.com/image/teams/flag_brazil_v2.png",
+    "away": "المغرب",
+    "awayLogo": "https://jdwel.com/image/teams/3168.png",
+    "score": "1 - 2",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "الأرجنتين",
+    "homeLogo": "https://jdwel.com/image/teams/flag_argentina_v2.png",
+    "away": "أستراليا",
+    "awayLogo": "https://jdwel.com/image/teams/flag_australia_v2.png",
+    "score": "4 - 1",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "إسبانيا",
+    "homeLogo": "https://jdwel.com/image/teams/flag_spain_v2.png",
+    "away": "المكسيك",
+    "awayLogo": "https://jdwel.com/image/teams/flag_mexico_v2.png",
+    "score": "2 - 2",
+    "time": "11:00 م"
+  },
+  {
+    "home": "إيطاليا",
+    "homeLogo": "https://jdwel.com/image/teams/56.png",
+    "away": "كوبا",
+    "awayLogo": "https://jdwel.com/image/teams/230.png",
+    "score": "2 - 2",
+    "time": "11:00 م"
+  },
+  {
+    "home": "تشيلي",
+    "homeLogo": "https://jdwel.com/image/teams/flag_chile.png",
+    "away": "اليابان",
+    "awayLogo": "https://jdwel.com/image/teams/flag_japan_v2.png",
+    "score": "0 - 2",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "كوريا الجنوبية",
+    "homeLogo": "https://jdwel.com/image/teams/flag_korea_republic_v2.png",
+    "away": "باراغواي",
+    "awayLogo": "https://jdwel.com/image/teams/par_paraguay.png",
+    "score": "0 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "مصر",
+    "homeLogo": "https://jdwel.com/image/teams/34.png",
+    "away": "نيوزيلندا",
+    "awayLogo": "https://jdwel.com/image/teams/39.png",
+    "score": "1 - 2",
+    "time": "11:00 م"
+  },
+  {
+    "home": "بنما",
+    "homeLogo": "https://jdwel.com/image/teams/203.png",
+    "away": "أوكرانيا",
+    "awayLogo": "https://jdwel.com/image/teams/flag_ukraine.png",
+    "score": "1 - 1",
+    "time": "11:00 م"
+  },
+  {
+    "home": "الولايات المتحدة",
+    "homeLogo": "https://jdwel.com/image/teams/flag_united_states.png",
+    "away": "كاليدونيا الجديدة",
+    "awayLogo": "https://jdwel.com/image/teams/87.png",
+    "score": "9 - 1",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "كولومبيا",
+    "homeLogo": "https://jdwel.com/image/teams/3106.png",
+    "away": "السعودية",
+    "awayLogo": "https://jdwel.com/image/teams/2502.png",
+    "score": "1 - 0",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "فرنسا",
+    "homeLogo": "https://jdwel.com/image/teams/4962.png",
+    "away": "جنوب أفريقيا",
+    "awayLogo": "https://jdwel.com/image/teams/50.png",
+    "score": "2 - 1",
+    "time": "11:00 م"
+  },
+  {
+    "home": "النرويج",
+    "homeLogo": "https://jdwel.com/image/teams/41.png",
+    "away": "نيجيريا",
+    "awayLogo": "https://jdwel.com/image/teams/236.png",
+    "score": "1 - 0",
+    "time": "11:00 م"
+  },
+  {
+    "home": "البرازيل",
+    "homeLogo": "https://jdwel.com/image/teams/flag_brazil_v2.png",
+    "away": "المكسيك",
+    "awayLogo": "https://jdwel.com/image/teams/flag_mexico_v2.png",
+    "score": "2 - 2",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "كوبا",
+    "homeLogo": "https://jdwel.com/image/teams/230.png",
+    "away": "الأرجنتين",
+    "awayLogo": "https://jdwel.com/image/teams/flag_argentina_v2.png",
+    "score": "1 - 3",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "المغرب",
+    "homeLogo": "https://jdwel.com/image/teams/3168.png",
+    "away": "إسبانيا",
+    "awayLogo": "https://jdwel.com/image/teams/flag_spain_v2.png",
+    "score": "2 - 0",
+    "time": "11:00 م"
+  },
+  {
+    "home": "إيطاليا",
+    "homeLogo": "https://jdwel.com/image/teams/56.png",
+    "away": "أستراليا",
+    "awayLogo": "https://jdwel.com/image/teams/flag_australia_v2.png",
+    "score": "1 - 0",
+    "time": "11:00 م"
+  },
+  {
+    "home": "تشيلي",
+    "homeLogo": "https://jdwel.com/image/teams/flag_chile.png",
+    "away": "نيوزيلندا",
+    "awayLogo": "https://jdwel.com/image/teams/39.png",
+    "score": "2 - 1",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "باراغواي",
+    "homeLogo": "https://jdwel.com/image/teams/par_paraguay.png",
+    "away": "بنما",
+    "awayLogo": "https://jdwel.com/image/teams/203.png",
+    "score": "3 - 2",
+    "time": "2:00 ص"
+  },
+  {
+    "home": "اليابان",
+    "homeLogo": "https://jdwel.com/image/teams/flag_japan_v2.png",
+    "away": "مصر",
+    "awayLogo": "https://jdwel.com/image/teams/34.png",
+    "score": "2 - 0",
+    "time": "11:00 م"
+  },
+  {
+    "home": "كوريا الجنوبية",
+    "homeLogo": "https://jdwel.com/image/teams/flag_korea_republic_v2.png",
+    "away": "أوكرانيا",
+    "awayLogo": "https://jdwel.com/image/teams/flag_ukraine.png",
+    "score": "1 - 2",
+    "time": "11:00 م"
+  }
+]

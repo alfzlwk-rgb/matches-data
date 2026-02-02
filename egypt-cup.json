@@ -1,0 +1,458 @@
+[
+  {
+    "home": "زد إف سي",
+    "homeLogo": "https://jdwel.com/image/teams/egy_zed.png",
+    "away": "المصري البورسعيدي",
+    "awayLogo": "https://jdwel.com/image/teams/301.png",
+    "score": "0 - 0 5 - 4",
+    "time": "2:30 م"
+  },
+  {
+    "home": "الجونة",
+    "homeLogo": "https://jdwel.com/image/teams/egy_el_gounah_v2.png",
+    "away": "بيراميدز",
+    "awayLogo": "https://jdwel.com/image/teams/2524.png",
+    "score": "0 - 3",
+    "time": "2:30 م"
+  },
+  {
+    "home": "بتروجيت",
+    "homeLogo": "https://jdwel.com/image/teams/2780.png",
+    "away": "مودرن سبورت",
+    "awayLogo": "https://jdwel.com/image/teams/2456.png",
+    "score": "2 - 1",
+    "time": "2:30 م"
+  },
+  {
+    "home": "الزمالك",
+    "homeLogo": "https://jdwel.com/image/teams/339.png",
+    "away": "سيراميكا كليوباترا",
+    "awayLogo": "https://jdwel.com/image/teams/389.png",
+    "score": "0 - 0",
+    "time": "7:00 م"
+  },
+  {
+    "home": "وي",
+    "homeLogo": "https://jdwel.com/image/teams/52.png",
+    "away": "فاركو",
+    "awayLogo": "https://jdwel.com/image/teams/3212.png",
+    "score": "2 - 1",
+    "time": "2:30 م"
+  },
+  {
+    "home": "حرس الحدود",
+    "homeLogo": "https://jdwel.com/image/teams/2458.png",
+    "away": "سموحة",
+    "awayLogo": "https://jdwel.com/image/teams/2523.png",
+    "score": "1 - 1 5 - 4",
+    "time": "2:30 م"
+  },
+  {
+    "home": "الزمالك",
+    "homeLogo": "https://jdwel.com/image/teams/339.png",
+    "away": "بلدية المحلة",
+    "awayLogo": "https://jdwel.com/image/teams/egy_baladiyat_almehalla.png",
+    "score": "1 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "البنك الأهلي",
+    "homeLogo": "https://jdwel.com/image/teams/2457.png",
+    "away": "إنبي",
+    "awayLogo": "https://jdwel.com/image/teams/362.png",
+    "score": "0 - 1",
+    "time": "2:30 م"
+  },
+  {
+    "home": "الأهلي",
+    "homeLogo": "https://jdwel.com/image/teams/1253.png",
+    "away": "وي",
+    "awayLogo": "https://jdwel.com/image/teams/52.png",
+    "score": "1 - 2",
+    "time": "5:00 م"
+  },
+  {
+    "home": "طلائع الجيش",
+    "homeLogo": "https://jdwel.com/image/teams/357.png",
+    "away": "كهرباء الإسماعيلية",
+    "awayLogo": "https://jdwel.com/image/teams/3844.png",
+    "score": "1 - 1 4 - 2",
+    "time": "5:00 م"
+  },
+  {
+    "home": "مودرن سبورت",
+    "homeLogo": "https://jdwel.com/image/teams/2456.png",
+    "away": "القناة",
+    "awayLogo": "https://jdwel.com/image/teams/4706.png",
+    "score": "1 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "زد إف سي",
+    "homeLogo": "https://jdwel.com/image/teams/egy_zed.png",
+    "away": "نادي جي",
+    "awayLogo": "https://jdwel.com/image/teams/4932.png",
+    "score": "1 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "سيراميكا كليوباترا",
+    "homeLogo": "https://jdwel.com/image/teams/389.png",
+    "away": "أبو قير للأسمدة",
+    "awayLogo": "https://jdwel.com/image/teams/2459.png",
+    "score": "2 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "بيراميدز",
+    "homeLogo": "https://jdwel.com/image/teams/2524.png",
+    "away": "مسار",
+    "awayLogo": "https://jdwel.com/image/teams/1745.png",
+    "score": "2 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "المصري البورسعيدي",
+    "homeLogo": "https://jdwel.com/image/teams/301.png",
+    "away": "دكرنس",
+    "awayLogo": "https://jdwel.com/image/teams/51.png",
+    "score": "4 - 2",
+    "time": "2:30 م"
+  },
+  {
+    "home": "الجونة",
+    "homeLogo": "https://jdwel.com/image/teams/egy_el_gounah_v2.png",
+    "away": "بترول أسيوط",
+    "awayLogo": "https://jdwel.com/image/teams/312.png",
+    "score": "2 - 1",
+    "time": "2:30 م"
+  },
+  {
+    "home": "طلائع الجيش",
+    "homeLogo": "https://jdwel.com/image/teams/357.png",
+    "away": "السكة الحديد مودرن",
+    "awayLogo": "https://jdwel.com/image/teams/1285.png",
+    "score": "2 - 0",
+    "time": "7:30 م"
+  },
+  {
+    "home": "حرس الحدود",
+    "homeLogo": "https://jdwel.com/image/teams/2458.png",
+    "away": "الإسماعيلي",
+    "awayLogo": "https://jdwel.com/image/teams/2522.png",
+    "score": "3 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "إنبي",
+    "homeLogo": "https://jdwel.com/image/teams/362.png",
+    "away": "المقاولون العرب",
+    "awayLogo": "https://jdwel.com/image/teams/2455.png",
+    "score": "1 - 0",
+    "time": "5:00 م"
+  },
+  {
+    "home": "فاركو",
+    "homeLogo": "https://jdwel.com/image/teams/3212.png",
+    "away": "تليفونات بني سويف",
+    "awayLogo": "https://jdwel.com/image/teams/302.png",
+    "score": "2 - 0",
+    "time": "2:30 م"
+  },
+  {
+    "home": "الاتحاد السكندري",
+    "homeLogo": "https://jdwel.com/image/teams/egy_al_ittihad_v2.png",
+    "away": "كهرباء الإسماعيلية",
+    "awayLogo": "https://jdwel.com/image/teams/3844.png",
+    "score": "0 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "بتروجيت",
+    "homeLogo": "https://jdwel.com/image/teams/2780.png",
+    "away": "وادي دجلة",
+    "awayLogo": "https://jdwel.com/image/teams/2741.png",
+    "score": "1 - 0",
+    "time": "7:30 م"
+  },
+  {
+    "home": "البنك الأهلي",
+    "homeLogo": "https://jdwel.com/image/teams/2457.png",
+    "away": "بورفؤاد",
+    "awayLogo": "https://jdwel.com/image/teams/383.png",
+    "score": "4 - 1",
+    "time": "5:00 م"
+  },
+  {
+    "home": "سموحة",
+    "homeLogo": "https://jdwel.com/image/teams/2523.png",
+    "away": "غزل المحلة",
+    "awayLogo": "https://jdwel.com/image/teams/1284.png",
+    "score": "3 - 1",
+    "time": "2:30 م"
+  },
+  {
+    "home": "ألعاب دمنهور‏",
+    "homeLogo": "https://jdwel.com/image/teams/307.png",
+    "away": "أبو قير للأسمدة",
+    "awayLogo": "https://jdwel.com/image/teams/2459.png",
+    "score": "2 - 3 2 - 3",
+    "time": "2:00 م"
+  },
+  {
+    "home": "النجوم",
+    "homeLogo": "https://jdwel.com/image/teams/egy_nojom_el_mostabel.png",
+    "away": "وي",
+    "awayLogo": "https://jdwel.com/image/teams/52.png",
+    "score": "2 - 5 1 - 4",
+    "time": "2:00 م"
+  },
+  {
+    "home": "كاسكادا",
+    "homeLogo": "https://jdwel.com/image/teams/4930.png",
+    "away": "السكة الحديد مودرن",
+    "awayLogo": "https://jdwel.com/image/teams/1285.png",
+    "score": "0 - 1",
+    "time": "2:00 م"
+  },
+  {
+    "home": "تليفونات بني سويف",
+    "homeLogo": "https://jdwel.com/image/teams/302.png",
+    "away": "مصر المقاصة",
+    "awayLogo": "https://jdwel.com/image/teams/390.png",
+    "score": "4 - 1 3 - 0",
+    "time": "2:00 م"
+  },
+  {
+    "home": "بترول أسيوط",
+    "homeLogo": "https://jdwel.com/image/teams/312.png",
+    "away": "سوهاج",
+    "awayLogo": "https://jdwel.com/image/teams/361.png",
+    "score": "4 - 1",
+    "time": "2:00 م"
+  },
+  {
+    "home": "بورفؤاد",
+    "homeLogo": "https://jdwel.com/image/teams/383.png",
+    "away": "طنطا",
+    "awayLogo": "https://jdwel.com/image/teams/egy_tanta.png",
+    "score": "3 - 0",
+    "time": "2:00 م"
+  },
+  {
+    "home": "الداخلية",
+    "homeLogo": "https://jdwel.com/image/teams/3213.png",
+    "away": "القناة",
+    "awayLogo": "https://jdwel.com/image/teams/4706.png",
+    "score": "6 - 7 4 - 5",
+    "time": "2:00 م"
+  },
+  {
+    "home": "مركز شباب أطفيح",
+    "homeLogo": "https://jdwel.com/image/teams/4931.png",
+    "away": "نادي جي",
+    "awayLogo": "https://jdwel.com/image/teams/4932.png",
+    "score": "1 - 3",
+    "time": "2:00 م"
+  },
+  {
+    "home": "دكرنس",
+    "homeLogo": "https://jdwel.com/image/teams/51.png",
+    "away": "راية",
+    "awayLogo": "https://jdwel.com/image/teams/55.png",
+    "score": "1 - 0",
+    "time": "2:00 م"
+  },
+  {
+    "home": "المنصورة",
+    "homeLogo": "https://jdwel.com/image/teams/318.png",
+    "away": "بلدية المحلة",
+    "awayLogo": "https://jdwel.com/image/teams/egy_baladiyat_almehalla.png",
+    "score": "1 - 3",
+    "time": "2:00 م"
+  },
+  {
+    "home": "مسار",
+    "homeLogo": "https://jdwel.com/image/teams/1745.png",
+    "away": "المنيا",
+    "awayLogo": "https://jdwel.com/image/teams/303.png",
+    "score": "3 - 2",
+    "time": "2:00 م"
+  },
+  {
+    "home": "بورفؤاد",
+    "homeLogo": "https://jdwel.com/image/teams/383.png",
+    "away": "العبور بالقليوبية",
+    "awayLogo": "https://jdwel.com/image/teams/1387.png",
+    "score": "7 - 6 5 - 4",
+    "time": "3:30 م"
+  },
+  {
+    "home": "النجوم",
+    "homeLogo": "https://jdwel.com/image/teams/egy_nojom_el_mostabel.png",
+    "away": "الشمس",
+    "awayLogo": "https://jdwel.com/image/teams/1753.png",
+    "score": "3 - 2",
+    "time": "3:00 م"
+  },
+  {
+    "home": "المنيا",
+    "homeLogo": "https://jdwel.com/image/teams/303.png",
+    "away": "بني سويف",
+    "awayLogo": "https://jdwel.com/image/teams/358.png",
+    "score": "6 - 4 4 - 2",
+    "time": "3:00 م"
+  },
+  {
+    "home": "سبورتينغ الإسكندرية",
+    "homeLogo": "https://jdwel.com/image/teams/487.png",
+    "away": "راية",
+    "awayLogo": "https://jdwel.com/image/teams/55.png",
+    "score": "4 - 5 3 - 4",
+    "time": "3:00 م"
+  },
+  {
+    "home": "بلدية المحلة",
+    "homeLogo": "https://jdwel.com/image/teams/egy_baladiyat_almehalla.png",
+    "away": "نبروه",
+    "awayLogo": "https://jdwel.com/image/teams/592.png",
+    "score": "1 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "نادي جي",
+    "homeLogo": "https://jdwel.com/image/teams/4932.png",
+    "away": "الترسانة",
+    "awayLogo": "https://jdwel.com/image/teams/3284.png",
+    "score": "1 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "وي",
+    "homeLogo": "https://jdwel.com/image/teams/52.png",
+    "away": "جمهورية شبين",
+    "awayLogo": "https://jdwel.com/image/teams/54.png",
+    "score": "3 - 1 3 - 1",
+    "time": "3:00 م"
+  },
+  {
+    "home": "مسار",
+    "homeLogo": "https://jdwel.com/image/teams/1745.png",
+    "away": "جولدن جيت",
+    "awayLogo": "https://jdwel.com/image/teams/1751.png",
+    "score": "2 - 1",
+    "time": "3:00 م"
+  },
+  {
+    "home": "ديروط",
+    "homeLogo": "https://jdwel.com/image/teams/638.png",
+    "away": "سوهاج",
+    "awayLogo": "https://jdwel.com/image/teams/361.png",
+    "score": "0 - 1",
+    "time": "3:00 م"
+  },
+  {
+    "home": "بترول أسيوط",
+    "homeLogo": "https://jdwel.com/image/teams/312.png",
+    "away": "الألومنيوم",
+    "awayLogo": "https://jdwel.com/image/teams/499.png",
+    "score": "6 - 5 4 - 3",
+    "time": "3:00 م"
+  },
+  {
+    "home": "القناة",
+    "homeLogo": "https://jdwel.com/image/teams/4706.png",
+    "away": "بترول أسيوط",
+    "awayLogo": "https://jdwel.com/image/teams/569.png",
+    "score": "5 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "أبو قير للأسمدة",
+    "homeLogo": "https://jdwel.com/image/teams/2459.png",
+    "away": "طلائع الأسطول",
+    "awayLogo": "https://jdwel.com/image/teams/311.png",
+    "score": "2 - 1",
+    "time": "3:00 م"
+  },
+  {
+    "home": "ألعاب دمنهور‏",
+    "homeLogo": "https://jdwel.com/image/teams/307.png",
+    "away": "دلفي",
+    "awayLogo": "https://jdwel.com/image/teams/381.png",
+    "score": "1 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "دكرنس",
+    "homeLogo": "https://jdwel.com/image/teams/51.png",
+    "away": "بروكسي",
+    "awayLogo": "https://jdwel.com/image/teams/2742.png",
+    "score": "2 - 1",
+    "time": "3:00 م"
+  },
+  {
+    "home": "سمنود",
+    "homeLogo": "https://jdwel.com/image/teams/1633.png",
+    "away": "المنصورة",
+    "awayLogo": "https://jdwel.com/image/teams/318.png",
+    "score": "1 - 3",
+    "time": "3:00 م"
+  },
+  {
+    "home": "بايونيرز",
+    "homeLogo": "https://jdwel.com/image/teams/4933.png",
+    "away": "طنطا",
+    "awayLogo": "https://jdwel.com/image/teams/egy_tanta.png",
+    "score": "0 - 1",
+    "time": "3:00 م"
+  },
+  {
+    "home": "مصر للتأمين",
+    "homeLogo": "https://jdwel.com/image/teams/1793.png",
+    "away": "الداخلية",
+    "awayLogo": "https://jdwel.com/image/teams/3213.png",
+    "score": "0 - 1",
+    "time": "3:00 م"
+  },
+  {
+    "home": "النصر للتعدين",
+    "homeLogo": "https://jdwel.com/image/teams/22.png",
+    "away": "السكة الحديد مودرن",
+    "awayLogo": "https://jdwel.com/image/teams/1285.png",
+    "score": "0 - 1",
+    "time": "3:00 م"
+  },
+  {
+    "home": "تليفونات بني سويف",
+    "homeLogo": "https://jdwel.com/image/teams/302.png",
+    "away": "لاڤيينا",
+    "awayLogo": "https://jdwel.com/image/teams/3285.png",
+    "score": "1 - 0",
+    "time": "3:00 م"
+  },
+  {
+    "home": "دياموند",
+    "homeLogo": "https://jdwel.com/image/teams/4934.png",
+    "away": "مركز شباب أطفيح",
+    "awayLogo": "https://jdwel.com/image/teams/4931.png",
+    "score": "3 - 4 3 - 4",
+    "time": "3:00 م"
+  },
+  {
+    "home": "إتحاد الشرطة",
+    "homeLogo": "https://jdwel.com/image/teams/egy_el_shorta.png",
+    "away": "كاسكادا",
+    "awayLogo": "https://jdwel.com/image/teams/4930.png",
+    "score": "1 - 2",
+    "time": "3:00 م"
+  },
+  {
+    "home": "مصر المقاصة",
+    "homeLogo": "https://jdwel.com/image/teams/390.png",
+    "away": "تيم إف سي",
+    "awayLogo": "https://jdwel.com/image/teams/1755.png",
+    "score": "2 - 1",
+    "time": "3:00 م"
+  }
+]

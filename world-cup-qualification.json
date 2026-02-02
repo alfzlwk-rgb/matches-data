@@ -1,0 +1,34 @@
+[
+  {
+    "home": "بوليفيا",
+    "homeLogo": "https://jdwel.com/image/teams/bol_bolivia.png",
+    "away": "سورينام",
+    "awayLogo": "https://jdwel.com/image/teams/262.png",
+    "score": "0 - 0",
+    "time": "1:00 ص"
+  },
+  {
+    "home": "كاليدونيا الجديدة",
+    "homeLogo": "https://jdwel.com/image/teams/87.png",
+    "away": "جامايكا",
+    "awayLogo": "https://jdwel.com/image/teams/234.png",
+    "score": "0 - 0",
+    "time": "4:00 ص"
+  },
+  {
+    "home": "جمهورية الكونغو الديمقراطية",
+    "homeLogo": "https://jdwel.com/image/teams/47.png",
+    "away": "كاليدونيا الجديدة | جامايكا",
+    "awayLogo": "https://jdwel.com/image/teams/placeholder.png",
+    "score": "0 - 0",
+    "time": "11:00 م"
+  },
+  {
+    "home": "العراق",
+    "homeLogo": "https://jdwel.com/image/teams/flag_iraq_v2.png",
+    "away": "بوليفيا | سورينام",
+    "awayLogo": "https://jdwel.com/image/teams/placeholder.png",
+    "score": "0 - 0",
+    "time": "5:00 ص"
+  }
+]
