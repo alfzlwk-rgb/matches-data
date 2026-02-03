@@ -1,5 +1,8 @@
 [
   {
+    "date": "الأحد 2025/05/18",
+    "round": "",
+    "status": "انتهت",
     "home": "جنوب أفريقيا",
     "homeLogo": "https://jdwel.com/image/teams/50.png",
     "away": "المغرب",
@@ -8,14 +11,9 @@
     "time": "9:00 م"
   },
   {
-    "home": "نيجيريا",
-    "homeLogo": "https://jdwel.com/image/teams/236.png",
-    "away": "مصر",
-    "awayLogo": "https://jdwel.com/image/teams/34.png",
-    "score": "1 - 1 4 - 1",
-    "time": "6:00 م"
-  },
-  {
+    "date": "الخميس 2025/05/15",
+    "round": "",
+    "status": "انتهت",
     "home": "المغرب",
     "homeLogo": "https://jdwel.com/image/teams/3168.png",
     "away": "مصر",
@@ -24,6 +22,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الخميس 2025/05/15",
+    "round": "",
+    "status": "انتهت",
     "home": "جنوب أفريقيا",
     "homeLogo": "https://jdwel.com/image/teams/50.png",
     "away": "نيجيريا",
@@ -32,6 +33,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأثنين 2025/05/12",
+    "round": "",
+    "status": "انتهت",
     "home": "جنوب أفريقيا",
     "homeLogo": "https://jdwel.com/image/teams/50.png",
     "away": "الكونغو",
@@ -40,6 +44,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الأثنين 2025/05/12",
+    "round": "",
+    "status": "انتهت",
     "home": "المغرب",
     "homeLogo": "https://jdwel.com/image/teams/3168.png",
     "away": "سيرا ليون",
@@ -48,6 +55,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأثنين 2025/05/12",
+    "round": "",
+    "status": "انتهت",
     "home": "غانا",
     "homeLogo": "https://jdwel.com/image/teams/flag_ghana_v2.png",
     "away": "مصر",
@@ -56,6 +66,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأثنين 2025/05/12",
+    "round": "",
+    "status": "انتهت",
     "home": "نيجيريا",
     "homeLogo": "https://jdwel.com/image/teams/236.png",
     "away": "السنغال",
@@ -64,6 +77,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الجمعة 2025/05/09",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "جنوب أفريقيا",
     "homeLogo": "https://jdwel.com/image/teams/50.png",
     "away": "زامبيا",
@@ -72,6 +88,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الجمعة 2025/05/09",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "تنزانيا",
     "homeLogo": "https://jdwel.com/image/teams/85.png",
     "away": "مصر",
@@ -80,6 +99,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الخميس 2025/05/08",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "السنغال",
     "homeLogo": "https://jdwel.com/image/teams/flag_senegal_v2.png",
     "away": "الكونغو",
@@ -88,6 +110,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الخميس 2025/05/08",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "أفريقيا الوسطى",
     "homeLogo": "https://jdwel.com/image/teams/217.png",
     "away": "غانا",
@@ -96,6 +121,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأربعاء 2025/05/07",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "نيجيريا",
     "homeLogo": "https://jdwel.com/image/teams/236.png",
     "away": "كينيا",
@@ -104,6 +132,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأربعاء 2025/05/07",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "تونس",
     "homeLogo": "https://jdwel.com/image/teams/flag_tunisia_v2.png",
     "away": "المغرب",
@@ -112,6 +143,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الثلاثاء 2025/05/06",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "سيرا ليون",
     "homeLogo": "https://jdwel.com/image/teams/179.png",
     "away": "جنوب أفريقيا",
@@ -120,6 +154,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الثلاثاء 2025/05/06",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "زامبيا",
     "homeLogo": "https://jdwel.com/image/teams/flag_zambia_v2.png",
     "away": "تنزانيا",
@@ -128,6 +165,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأثنين 2025/05/05",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "غانا",
     "homeLogo": "https://jdwel.com/image/teams/flag_ghana_v2.png",
     "away": "السنغال",
@@ -136,6 +176,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الأثنين 2025/05/05",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "أفريقيا الوسطى",
     "homeLogo": "https://jdwel.com/image/teams/217.png",
     "away": "الكونغو",
@@ -144,6 +187,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2025/05/04",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "المغرب",
     "homeLogo": "https://jdwel.com/image/teams/3168.png",
     "away": "نيجيريا",
@@ -152,6 +198,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الأحد 2025/05/04",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "تونس",
     "homeLogo": "https://jdwel.com/image/teams/flag_tunisia_v2.png",
     "away": "كينيا",
@@ -160,6 +209,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/05/03",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "مصر",
     "homeLogo": "https://jdwel.com/image/teams/34.png",
     "away": "زامبيا",
@@ -168,6 +220,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "السبت 2025/05/03",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "تنزانيا",
     "homeLogo": "https://jdwel.com/image/teams/85.png",
     "away": "سيرا ليون",
@@ -176,6 +231,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الجمعة 2025/05/02",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "الكونغو",
     "homeLogo": "https://jdwel.com/image/teams/48.png",
     "away": "غانا",
@@ -184,6 +242,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الجمعة 2025/05/02",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "السنغال",
     "homeLogo": "https://jdwel.com/image/teams/flag_senegal_v2.png",
     "away": "أفريقيا الوسطى",
@@ -192,6 +253,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الخميس 2025/05/01",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "كينيا",
     "homeLogo": "https://jdwel.com/image/teams/192.png",
     "away": "المغرب",
@@ -200,6 +264,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الخميس 2025/05/01",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "نيجيريا",
     "homeLogo": "https://jdwel.com/image/teams/236.png",
     "away": "تونس",
@@ -208,6 +275,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأربعاء 2025/04/30",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "سيرا ليون",
     "homeLogo": "https://jdwel.com/image/teams/179.png",
     "away": "مصر",
@@ -216,6 +286,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الأربعاء 2025/04/30",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "جنوب أفريقيا",
     "homeLogo": "https://jdwel.com/image/teams/50.png",
     "away": "تنزانيا",
@@ -224,6 +297,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2025/04/27",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "مصر",
     "homeLogo": "https://jdwel.com/image/teams/34.png",
     "away": "جنوب أفريقيا",
@@ -232,6 +308,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الأحد 2025/04/27",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "زامبيا",
     "homeLogo": "https://jdwel.com/image/teams/flag_zambia_v2.png",
     "away": "سيرا ليون",

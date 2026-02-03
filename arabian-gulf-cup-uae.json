@@ -1,5 +1,8 @@
 [
   {
+    "date": "السبت 2025/12/13",
+    "round": "",
+    "status": "انتهت",
     "home": "العين",
     "homeLogo": "https://jdwel.com/image/teams/5235.png",
     "away": "النصر",
@@ -8,6 +11,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "السبت 2025/12/13",
+    "round": "",
+    "status": "انتهت",
     "home": "الوحدة",
     "homeLogo": "https://jdwel.com/image/teams/1270.png",
     "away": "الجزيرة",
@@ -16,6 +22,9 @@
     "time": "2:50 م"
   },
   {
+    "date": "الجمعة 2025/12/05",
+    "round": "",
+    "status": "انتهت",
     "home": "الجزيرة",
     "homeLogo": "https://jdwel.com/image/teams/369.png",
     "away": "الوحدة",
@@ -24,6 +33,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "الجمعة 2025/12/05",
+    "round": "",
+    "status": "انتهت",
     "home": "النصر",
     "homeLogo": "https://jdwel.com/image/teams/5242.png",
     "away": "العين",
@@ -32,6 +44,9 @@
     "time": "2:50 م"
   },
   {
+    "date": "الأحد 2025/11/30",
+    "round": "",
+    "status": "انتهت",
     "home": "الوصل",
     "homeLogo": "https://jdwel.com/image/teams/uni_al_wasl.png",
     "away": "الجزيرة",
@@ -40,6 +55,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "الأحد 2025/11/30",
+    "round": "",
+    "status": "انتهت",
     "home": "خورفكان",
     "homeLogo": "https://jdwel.com/image/teams/367.png",
     "away": "الوحدة",
@@ -48,6 +66,9 @@
     "time": "2:40 م"
   },
   {
+    "date": "السبت 2025/11/29",
+    "round": "",
+    "status": "انتهت",
     "home": "العين",
     "homeLogo": "https://jdwel.com/image/teams/5235.png",
     "away": "الشارقة",
@@ -56,6 +77,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "السبت 2025/11/29",
+    "round": "",
+    "status": "انتهت",
     "home": "النصر",
     "homeLogo": "https://jdwel.com/image/teams/5242.png",
     "away": "شباب الأهلي",
@@ -64,6 +88,9 @@
     "time": "2:40 م"
   },
   {
+    "date": "الأحد 2025/11/16",
+    "round": "",
+    "status": "انتهت",
     "home": "الجزيرة",
     "homeLogo": "https://jdwel.com/image/teams/369.png",
     "away": "الوصل",
@@ -72,6 +99,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "الأحد 2025/11/16",
+    "round": "",
+    "status": "انتهت",
     "home": "شباب الأهلي",
     "homeLogo": "https://jdwel.com/image/teams/2802.png",
     "away": "النصر",
@@ -80,6 +110,9 @@
     "time": "2:50 م"
   },
   {
+    "date": "السبت 2025/11/15",
+    "round": "",
+    "status": "انتهت",
     "home": "الشارقة",
     "homeLogo": "https://jdwel.com/image/teams/1166.png",
     "away": "العين",
@@ -88,6 +121,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "السبت 2025/11/15",
+    "round": "",
+    "status": "انتهت",
     "home": "الوحدة",
     "homeLogo": "https://jdwel.com/image/teams/1270.png",
     "away": "خورفكان",
@@ -96,6 +132,9 @@
     "time": "2:50 م"
   },
   {
+    "date": "السبت 2025/09/06",
+    "round": "",
+    "status": "انتهت",
     "home": "عجمان",
     "homeLogo": "https://jdwel.com/image/teams/2998.png",
     "away": "الوحدة",
@@ -104,6 +143,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "السبت 2025/09/06",
+    "round": "",
+    "status": "انتهت",
     "home": "بني ياس",
     "homeLogo": "https://jdwel.com/image/teams/uni_bani_yas.png",
     "away": "خورفكان",
@@ -112,6 +154,9 @@
     "time": "4:50 م"
   },
   {
+    "date": "السبت 2025/09/06",
+    "round": "",
+    "status": "انتهت",
     "home": "الشارقة",
     "homeLogo": "https://jdwel.com/image/teams/1166.png",
     "away": "دبا الفجيرة",
@@ -120,6 +165,9 @@
     "time": "4:50 م"
   },
   {
+    "date": "الجمعة 2025/09/05",
+    "round": "",
+    "status": "انتهت",
     "home": "الوصل",
     "homeLogo": "https://jdwel.com/image/teams/uni_al_wasl.png",
     "away": "الظفرة",
@@ -128,6 +176,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الجمعة 2025/09/05",
+    "round": "",
+    "status": "انتهت",
     "home": "كلباء",
     "homeLogo": "https://jdwel.com/image/teams/1531.png",
     "away": "العين",
@@ -136,6 +187,9 @@
     "time": "4:50 م"
   },
   {
+    "date": "الجمعة 2025/09/05",
+    "round": "",
+    "status": "انتهت",
     "home": "البطائح",
     "homeLogo": "https://jdwel.com/image/teams/2441.png",
     "away": "النصر",
@@ -144,6 +198,9 @@
     "time": "4:50 م"
   },
   {
+    "date": "الأحد 2025/08/31",
+    "round": "",
+    "status": "انتهت",
     "home": "الوحدة",
     "homeLogo": "https://jdwel.com/image/teams/1270.png",
     "away": "عجمان",
@@ -152,6 +209,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الأحد 2025/08/31",
+    "round": "",
+    "status": "انتهت",
     "home": "دبا الفجيرة",
     "homeLogo": "https://jdwel.com/image/teams/3758.png",
     "away": "الشارقة",
@@ -160,6 +220,9 @@
     "time": "4:55 م"
   },
   {
+    "date": "الأحد 2025/08/31",
+    "round": "",
+    "status": "انتهت",
     "home": "خورفكان",
     "homeLogo": "https://jdwel.com/image/teams/367.png",
     "away": "بني ياس",
@@ -168,6 +231,9 @@
     "time": "4:55 م"
   },
   {
+    "date": "السبت 2025/08/30",
+    "round": "",
+    "status": "انتهت",
     "home": "العين",
     "homeLogo": "https://jdwel.com/image/teams/5235.png",
     "away": "كلباء",
@@ -176,6 +242,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "السبت 2025/08/30",
+    "round": "",
+    "status": "انتهت",
     "home": "الظفرة",
     "homeLogo": "https://jdwel.com/image/teams/3757.png",
     "away": "الوصل",
@@ -184,6 +253,9 @@
     "time": "4:55 م"
   },
   {
+    "date": "السبت 2025/08/30",
+    "round": "",
+    "status": "انتهت",
     "home": "النصر",
     "homeLogo": "https://jdwel.com/image/teams/5242.png",
     "away": "البطائح",

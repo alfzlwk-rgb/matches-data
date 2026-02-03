@@ -1,5 +1,8 @@
 [
   {
+    "date": "السبت 2025/08/23",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "أولمبياكوس بيرايوس",
     "homeLogo": "https://jdwel.com/image/teams/1407.png",
     "away": "أستيراس تريبوليس",
@@ -8,6 +11,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "السبت 2025/08/23",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "آريس",
     "homeLogo": "https://jdwel.com/image/teams/2307.png",
     "away": "فولوس",
@@ -16,6 +22,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "السبت 2025/08/23",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "بانيتوليكوس",
     "homeLogo": "https://jdwel.com/image/teams/770.png",
     "away": "أتروميتوس",
@@ -24,6 +33,9 @@
     "time": "10:00 م"
   },
   {
+    "date": "الأحد 2025/08/24",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "باناثينايكوس",
     "homeLogo": "https://jdwel.com/image/teams/gre_panathinaikos.png",
     "away": "أوميلوس هراكليوس",
@@ -32,6 +44,9 @@
     "time": "7:45 م"
   },
   {
+    "date": "الأحد 2025/08/24",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "آيك أثينا",
     "homeLogo": "https://jdwel.com/image/teams/2306.png",
     "away": "بانسيرايكوس",
@@ -40,6 +55,9 @@
     "time": "8:15 م"
   },
   {
+    "date": "الأحد 2025/08/24",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "باوك",
     "homeLogo": "https://jdwel.com/image/teams/1281.png",
     "away": "أثليتيكي لاريسا",
@@ -48,6 +66,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الأثنين 2025/08/25",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "ليفادياكوس",
     "homeLogo": "https://jdwel.com/image/teams/gre_levadiakos.png",
     "away": "كيفيسيا",
@@ -56,6 +77,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "السبت 2025/08/30",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "فولوس",
     "homeLogo": "https://jdwel.com/image/teams/gre_volos_nfc.png",
     "away": "أولمبياكوس بيرايوس",
@@ -64,6 +88,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "السبت 2025/08/30",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "بانسيرايكوس",
     "homeLogo": "https://jdwel.com/image/teams/2308.png",
     "away": "أوميلوس هراكليوس",
@@ -72,6 +99,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "السبت 2025/08/30",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "آريس",
     "homeLogo": "https://jdwel.com/image/teams/2307.png",
     "away": "بانيتوليكوس",
@@ -80,6 +110,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "السبت 2025/08/30",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "أثليتيكي لاريسا",
     "homeLogo": "https://jdwel.com/image/teams/3545.png",
     "away": "كيفيسيا",
@@ -88,6 +121,9 @@
     "time": "9:30 م"
   },
   {
+    "date": "الأحد 2025/08/31",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "آيك أثينا",
     "homeLogo": "https://jdwel.com/image/teams/2306.png",
     "away": "أستيراس تريبوليس",
@@ -96,6 +132,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الأحد 2025/08/31",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "باوك",
     "homeLogo": "https://jdwel.com/image/teams/1281.png",
     "away": "أتروميتوس",
@@ -104,6 +143,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الأحد 2025/08/31",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "باناثينايكوس",
     "homeLogo": "https://jdwel.com/image/teams/gre_panathinaikos.png",
     "away": "ليفادياكوس",
@@ -112,6 +154,9 @@
     "time": "10:00 م"
   },
   {
+    "date": "السبت 2025/09/13",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "أولمبياكوس بيرايوس",
     "homeLogo": "https://jdwel.com/image/teams/1407.png",
     "away": "بانسيرايكوس",
@@ -120,6 +165,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/09/13",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "بانيتوليكوس",
     "homeLogo": "https://jdwel.com/image/teams/770.png",
     "away": "فولوس",
@@ -128,6 +176,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "السبت 2025/09/13",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "أتروميتوس",
     "homeLogo": "https://jdwel.com/image/teams/2872.png",
     "away": "آريس",
@@ -136,6 +187,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الأحد 2025/09/14",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "كيفيسيا",
     "homeLogo": "https://jdwel.com/image/teams/3543.png",
     "away": "باناثينايكوس",
@@ -144,6 +198,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2025/09/14",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "أستيراس تريبوليس",
     "homeLogo": "https://jdwel.com/image/teams/2309.png",
     "away": "أثليتيكي لاريسا",
@@ -152,6 +209,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2025/09/14",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "ليفادياكوس",
     "homeLogo": "https://jdwel.com/image/teams/gre_levadiakos.png",
     "away": "آيك أثينا",
@@ -160,6 +220,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الأحد 2025/09/14",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "أوميلوس هراكليوس",
     "homeLogo": "https://jdwel.com/image/teams/2310.png",
     "away": "باوك",
@@ -168,6 +231,9 @@
     "time": "9:30 م"
   },
   {
+    "date": "السبت 2025/09/20",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "بانسيرايكوس",
     "homeLogo": "https://jdwel.com/image/teams/2308.png",
     "away": "أتروميتوس",
@@ -176,6 +242,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/09/20",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "كيفيسيا",
     "homeLogo": "https://jdwel.com/image/teams/3543.png",
     "away": "آريس",
@@ -184,6 +253,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/09/20",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "فولوس",
     "homeLogo": "https://jdwel.com/image/teams/gre_volos_nfc.png",
     "away": "أستيراس تريبوليس",
@@ -192,6 +264,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "السبت 2025/09/20",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "باوك",
     "homeLogo": "https://jdwel.com/image/teams/1281.png",
     "away": "بانيتوليكوس",
@@ -200,6 +275,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "الأحد 2025/09/21",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "أثليتيكي لاريسا",
     "homeLogo": "https://jdwel.com/image/teams/3545.png",
     "away": "آيك أثينا",
@@ -208,6 +286,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "الأحد 2025/09/21",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "ليفادياكوس",
     "homeLogo": "https://jdwel.com/image/teams/gre_levadiakos.png",
     "away": "أوميلوس هراكليوس",
@@ -216,6 +297,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2025/09/21",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "باناثينايكوس",
     "homeLogo": "https://jdwel.com/image/teams/gre_panathinaikos.png",
     "away": "أولمبياكوس بيرايوس",
@@ -224,6 +308,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "السبت 2025/09/27",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "أولمبياكوس بيرايوس",
     "homeLogo": "https://jdwel.com/image/teams/1407.png",
     "away": "ليفادياكوس",
@@ -232,6 +319,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/09/27",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "آريس",
     "homeLogo": "https://jdwel.com/image/teams/2307.png",
     "away": "بانسيرايكوس",
@@ -240,6 +330,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "الأحد 2025/09/28",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "آيك أثينا",
     "homeLogo": "https://jdwel.com/image/teams/2306.png",
     "away": "فولوس",
@@ -248,6 +341,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2025/09/28",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "أوميلوس هراكليوس",
     "homeLogo": "https://jdwel.com/image/teams/2310.png",
     "away": "كيفيسيا",
@@ -256,6 +352,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأحد 2025/09/28",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "أستيراس تريبوليس",
     "homeLogo": "https://jdwel.com/image/teams/2309.png",
     "away": "باوك",
@@ -264,6 +363,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "الأحد 2025/09/28",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "بانيتوليكوس",
     "homeLogo": "https://jdwel.com/image/teams/770.png",
     "away": "باناثينايكوس",
@@ -272,6 +374,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الأثنين 2025/09/29",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "أتروميتوس",
     "homeLogo": "https://jdwel.com/image/teams/2872.png",
     "away": "أثليتيكي لاريسا",
@@ -280,6 +385,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/10/04",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "أوميلوس هراكليوس",
     "homeLogo": "https://jdwel.com/image/teams/2310.png",
     "away": "آريس",
@@ -288,6 +396,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/10/04",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "بانسيرايكوس",
     "homeLogo": "https://jdwel.com/image/teams/2308.png",
     "away": "أستيراس تريبوليس",
@@ -296,6 +407,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/10/04",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "أثليتيكي لاريسا",
     "homeLogo": "https://jdwel.com/image/teams/3545.png",
     "away": "فولوس",
@@ -304,6 +418,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "الأحد 2025/10/05",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "ليفادياكوس",
     "homeLogo": "https://jdwel.com/image/teams/gre_levadiakos.png",
     "away": "بانيتوليكوس",
@@ -312,6 +429,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2025/10/05",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "كيفيسيا",
     "homeLogo": "https://jdwel.com/image/teams/3543.png",
     "away": "آيك أثينا",
@@ -320,6 +440,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2025/10/05",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "باوك",
     "homeLogo": "https://jdwel.com/image/teams/1281.png",
     "away": "أولمبياكوس بيرايوس",
@@ -328,6 +451,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "الأحد 2025/10/05",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "باناثينايكوس",
     "homeLogo": "https://jdwel.com/image/teams/gre_panathinaikos.png",
     "away": "أتروميتوس",
@@ -336,6 +462,9 @@
     "time": "9:30 م"
   },
   {
+    "date": "السبت 2025/10/18",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "أثليتيكي لاريسا",
     "homeLogo": "https://jdwel.com/image/teams/3545.png",
     "away": "أولمبياكوس بيرايوس",
@@ -344,6 +473,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "السبت 2025/10/18",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "أتروميتوس",
     "homeLogo": "https://jdwel.com/image/teams/2872.png",
     "away": "ليفادياكوس",
@@ -352,6 +484,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "السبت 2025/10/18",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "بانيتوليكوس",
     "homeLogo": "https://jdwel.com/image/teams/770.png",
     "away": "أوميلوس هراكليوس",
@@ -360,6 +495,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الأحد 2025/10/19",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "أستيراس تريبوليس",
     "homeLogo": "https://jdwel.com/image/teams/2309.png",
     "away": "كيفيسيا",
@@ -368,6 +506,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الأحد 2025/10/19",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "فولوس",
     "homeLogo": "https://jdwel.com/image/teams/gre_volos_nfc.png",
     "away": "بانسيرايكوس",
@@ -376,6 +517,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "الأحد 2025/10/19",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "آريس",
     "homeLogo": "https://jdwel.com/image/teams/2307.png",
     "away": "باناثينايكوس",
@@ -384,6 +528,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الأحد 2025/10/19",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "آيك أثينا",
     "homeLogo": "https://jdwel.com/image/teams/2306.png",
     "away": "باوك",
@@ -392,6 +539,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "السبت 2025/10/25",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "كيفيسيا",
     "homeLogo": "https://jdwel.com/image/teams/3543.png",
     "away": "بانيتوليكوس",
@@ -400,6 +550,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "السبت 2025/10/25",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "بانسيرايكوس",
     "homeLogo": "https://jdwel.com/image/teams/2308.png",
     "away": "أثليتيكي لاريسا",
@@ -408,6 +561,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "السبت 2025/10/25",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "أوميلوس هراكليوس",
     "homeLogo": "https://jdwel.com/image/teams/2310.png",
     "away": "أتروميتوس",
@@ -416,6 +572,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الأحد 2025/10/26",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "ليفادياكوس",
     "homeLogo": "https://jdwel.com/image/teams/gre_levadiakos.png",
     "away": "آريس",
@@ -424,6 +583,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2025/10/26",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "باناثينايكوس",
     "homeLogo": "https://jdwel.com/image/teams/gre_panathinaikos.png",
     "away": "أستيراس تريبوليس",
@@ -432,6 +594,9 @@
     "time": "6:30 م"
   },
   {
+    "date": "الأحد 2025/10/26",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "باوك",
     "homeLogo": "https://jdwel.com/image/teams/1281.png",
     "away": "فولوس",
@@ -440,6 +605,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "الأحد 2025/10/26",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "أولمبياكوس بيرايوس",
     "homeLogo": "https://jdwel.com/image/teams/1407.png",
     "away": "آيك أثينا",
@@ -448,6 +616,9 @@
     "time": "10:00 م"
   },
   {
+    "date": "السبت 2025/11/01",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "فولوس",
     "homeLogo": "https://jdwel.com/image/teams/gre_volos_nfc.png",
     "away": "باناثينايكوس",
@@ -456,6 +627,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/11/01",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "أتروميتوس",
     "homeLogo": "https://jdwel.com/image/teams/2872.png",
     "away": "كيفيسيا",
@@ -464,6 +638,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "السبت 2025/11/01",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "أولمبياكوس بيرايوس",
     "homeLogo": "https://jdwel.com/image/teams/1407.png",
     "away": "آريس",
@@ -472,6 +649,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الأحد 2025/11/02",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "أثليتيكي لاريسا",
     "homeLogo": "https://jdwel.com/image/teams/3545.png",
     "away": "ليفادياكوس",
@@ -480,6 +660,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "الأحد 2025/11/02",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "بانسيرايكوس",
     "homeLogo": "https://jdwel.com/image/teams/2308.png",
     "away": "باوك",
@@ -488,6 +671,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الأحد 2025/11/02",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "آيك أثينا",
     "homeLogo": "https://jdwel.com/image/teams/2306.png",
     "away": "بانيتوليكوس",
@@ -496,6 +682,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الأثنين 2025/11/03",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "أستيراس تريبوليس",
     "homeLogo": "https://jdwel.com/image/teams/2309.png",
     "away": "أوميلوس هراكليوس",
@@ -504,6 +693,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "السبت 2025/11/08",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "بانيتوليكوس",
     "homeLogo": "https://jdwel.com/image/teams/770.png",
     "away": "أثليتيكي لاريسا",
@@ -512,6 +704,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2025/11/09",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "آريس",
     "homeLogo": "https://jdwel.com/image/teams/2307.png",
     "away": "أستيراس تريبوليس",
@@ -520,6 +715,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأحد 2025/11/09",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "كيفيسيا",
     "homeLogo": "https://jdwel.com/image/teams/3543.png",
     "away": "أولمبياكوس بيرايوس",
@@ -528,6 +726,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأحد 2025/11/09",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "ليفادياكوس",
     "homeLogo": "https://jdwel.com/image/teams/gre_levadiakos.png",
     "away": "بانسيرايكوس",
@@ -536,6 +737,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2025/11/09",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "أوميلوس هراكليوس",
     "homeLogo": "https://jdwel.com/image/teams/2310.png",
     "away": "آيك أثينا",
@@ -544,6 +748,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "الأحد 2025/11/09",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "أتروميتوس",
     "homeLogo": "https://jdwel.com/image/teams/2872.png",
     "away": "فولوس",
@@ -552,6 +759,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأحد 2025/11/09",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "باناثينايكوس",
     "homeLogo": "https://jdwel.com/image/teams/gre_panathinaikos.png",
     "away": "باوك",
@@ -560,6 +770,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "السبت 2025/11/22",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "أستيراس تريبوليس",
     "homeLogo": "https://jdwel.com/image/teams/2309.png",
     "away": "بانيتوليكوس",
@@ -568,6 +781,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "السبت 2025/11/22",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "أولمبياكوس بيرايوس",
     "homeLogo": "https://jdwel.com/image/teams/1407.png",
     "away": "أتروميتوس",
@@ -576,6 +792,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الأحد 2025/11/23",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "بانسيرايكوس",
     "homeLogo": "https://jdwel.com/image/teams/2308.png",
     "away": "باناثينايكوس",
@@ -584,6 +803,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2025/11/23",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "باوك",
     "homeLogo": "https://jdwel.com/image/teams/1281.png",
     "away": "كيفيسيا",
@@ -592,6 +814,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأحد 2025/11/23",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "آيك أثينا",
     "homeLogo": "https://jdwel.com/image/teams/2306.png",
     "away": "آريس",
@@ -600,6 +825,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الأثنين 2025/11/24",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "فولوس",
     "homeLogo": "https://jdwel.com/image/teams/gre_volos_nfc.png",
     "away": "ليفادياكوس",
@@ -608,6 +836,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأثنين 2025/11/24",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "أثليتيكي لاريسا",
     "homeLogo": "https://jdwel.com/image/teams/3545.png",
     "away": "أوميلوس هراكليوس",
@@ -616,6 +847,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "السبت 2025/11/29",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "أوميلوس هراكليوس",
     "homeLogo": "https://jdwel.com/image/teams/2310.png",
     "away": "فولوس",
@@ -624,6 +858,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "السبت 2025/11/29",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "آريس",
     "homeLogo": "https://jdwel.com/image/teams/2307.png",
     "away": "أثليتيكي لاريسا",
@@ -632,6 +869,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "السبت 2025/11/29",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "كيفيسيا",
     "homeLogo": "https://jdwel.com/image/teams/3543.png",
     "away": "بانسيرايكوس",
@@ -640,6 +880,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الأحد 2025/11/30",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "بانيتوليكوس",
     "homeLogo": "https://jdwel.com/image/teams/770.png",
     "away": "أولمبياكوس بيرايوس",
@@ -648,6 +891,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2025/11/30",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "أتروميتوس",
     "homeLogo": "https://jdwel.com/image/teams/2872.png",
     "away": "أستيراس تريبوليس",
@@ -656,6 +902,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2025/11/30",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "ليفادياكوس",
     "homeLogo": "https://jdwel.com/image/teams/gre_levadiakos.png",
     "away": "باوك",
@@ -664,6 +913,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأحد 2025/11/30",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "باناثينايكوس",
     "homeLogo": "https://jdwel.com/image/teams/gre_panathinaikos.png",
     "away": "آيك أثينا",
@@ -672,6 +924,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "السبت 2025/12/06",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "أولمبياكوس بيرايوس",
     "homeLogo": "https://jdwel.com/image/teams/1407.png",
     "away": "أوميلوس هراكليوس",
@@ -680,6 +935,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "السبت 2025/12/06",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "فولوس",
     "homeLogo": "https://jdwel.com/image/teams/gre_volos_nfc.png",
     "away": "كيفيسيا",
@@ -688,6 +946,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "الأحد 2025/12/07",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "أستيراس تريبوليس",
     "homeLogo": "https://jdwel.com/image/teams/2309.png",
     "away": "ليفادياكوس",
@@ -696,6 +957,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2025/12/07",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "أثليتيكي لاريسا",
     "homeLogo": "https://jdwel.com/image/teams/3545.png",
     "away": "باناثينايكوس",
@@ -704,6 +968,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "الأحد 2025/12/07",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "باوك",
     "homeLogo": "https://jdwel.com/image/teams/1281.png",
     "away": "آريس",
@@ -712,6 +979,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الأحد 2025/12/07",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "آيك أثينا",
     "homeLogo": "https://jdwel.com/image/teams/2306.png",
     "away": "أتروميتوس",
@@ -720,6 +990,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الأثنين 2025/12/08",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "بانسيرايكوس",
     "homeLogo": "https://jdwel.com/image/teams/2308.png",
     "away": "بانيتوليكوس",
@@ -728,6 +1001,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/12/13",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "ليفادياكوس",
     "homeLogo": "https://jdwel.com/image/teams/gre_levadiakos.png",
     "away": "أثليتيكي لاريسا",
@@ -736,6 +1012,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "السبت 2025/12/13",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "أوميلوس هراكليوس",
     "homeLogo": "https://jdwel.com/image/teams/2310.png",
     "away": "بانسيرايكوس",
@@ -744,6 +1023,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/12/13",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "كيفيسيا",
     "homeLogo": "https://jdwel.com/image/teams/3543.png",
     "away": "أستيراس تريبوليس",
@@ -752,6 +1034,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الأحد 2025/12/14",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "بانيتوليكوس",
     "homeLogo": "https://jdwel.com/image/teams/770.png",
     "away": "آيك أثينا",
@@ -760,6 +1045,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "الأحد 2025/12/14",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "أتروميتوس",
     "homeLogo": "https://jdwel.com/image/teams/2872.png",
     "away": "باوك",
@@ -768,6 +1056,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2025/12/14",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "آريس",
     "homeLogo": "https://jdwel.com/image/teams/2307.png",
     "away": "أولمبياكوس بيرايوس",
@@ -776,6 +1067,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الأحد 2025/12/14",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "باناثينايكوس",
     "homeLogo": "https://jdwel.com/image/teams/gre_panathinaikos.png",
     "away": "فولوس",
@@ -784,6 +1078,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "السبت 2025/12/20",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "أستيراس تريبوليس",
     "homeLogo": "https://jdwel.com/image/teams/2309.png",
     "away": "آريس",
@@ -792,6 +1089,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "السبت 2025/12/20",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "فولوس",
     "homeLogo": "https://jdwel.com/image/teams/gre_volos_nfc.png",
     "away": "بانيتوليكوس",
@@ -800,6 +1100,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/12/20",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "أولمبياكوس بيرايوس",
     "homeLogo": "https://jdwel.com/image/teams/1407.png",
     "away": "كيفيسيا",
@@ -808,6 +1111,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "الأحد 2025/12/21",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "أثليتيكي لاريسا",
     "homeLogo": "https://jdwel.com/image/teams/3545.png",
     "away": "أتروميتوس",
@@ -816,6 +1122,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "الأحد 2025/12/21",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "باوك",
     "homeLogo": "https://jdwel.com/image/teams/1281.png",
     "away": "باناثينايكوس",
@@ -824,6 +1133,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الأحد 2025/12/21",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "آيك أثينا",
     "homeLogo": "https://jdwel.com/image/teams/2306.png",
     "away": "أوميلوس هراكليوس",
@@ -832,6 +1144,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الأثنين 2025/12/22",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "بانسيرايكوس",
     "homeLogo": "https://jdwel.com/image/teams/2308.png",
     "away": "ليفادياكوس",
@@ -840,6 +1155,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2026/01/10",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "كيفيسيا",
     "homeLogo": "https://jdwel.com/image/teams/3543.png",
     "away": "أثليتيكي لاريسا",
@@ -848,6 +1166,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "السبت 2026/01/10",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "بانيتوليكوس",
     "homeLogo": "https://jdwel.com/image/teams/770.png",
     "away": "باوك",
@@ -856,6 +1177,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "السبت 2026/01/10",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "أتروميتوس",
     "homeLogo": "https://jdwel.com/image/teams/2872.png",
     "away": "أولمبياكوس بيرايوس",
@@ -864,6 +1188,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الأحد 2026/01/11",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "ليفادياكوس",
     "homeLogo": "https://jdwel.com/image/teams/gre_levadiakos.png",
     "away": "فولوس",
@@ -872,6 +1199,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الأحد 2026/01/11",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "أوميلوس هراكليوس",
     "homeLogo": "https://jdwel.com/image/teams/2310.png",
     "away": "أستيراس تريبوليس",
@@ -880,6 +1210,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "الأحد 2026/01/11",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "آريس",
     "homeLogo": "https://jdwel.com/image/teams/2307.png",
     "away": "آيك أثينا",
@@ -888,6 +1221,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الأحد 2026/01/11",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "باناثينايكوس",
     "homeLogo": "https://jdwel.com/image/teams/gre_panathinaikos.png",
     "away": "بانسيرايكوس",
@@ -896,6 +1232,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "السبت 2026/01/17",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "بانسيرايكوس",
     "homeLogo": "https://jdwel.com/image/teams/2308.png",
     "away": "كيفيسيا",
@@ -904,6 +1243,9 @@
     "time": "3:30 م"
   },
   {
+    "date": "الأحد 2026/01/18",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "أثليتيكي لاريسا",
     "homeLogo": "https://jdwel.com/image/teams/3545.png",
     "away": "آريس",
@@ -912,6 +1254,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2026/01/18",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "باوك",
     "homeLogo": "https://jdwel.com/image/teams/1281.png",
     "away": "أوميلوس هراكليوس",
@@ -920,6 +1265,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأحد 2026/01/18",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "آيك أثينا",
     "homeLogo": "https://jdwel.com/image/teams/2306.png",
     "away": "باناثينايكوس",
@@ -928,6 +1276,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الأثنين 2026/01/19",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "بانيتوليكوس",
     "homeLogo": "https://jdwel.com/image/teams/770.png",
     "away": "ليفادياكوس",
@@ -936,6 +1287,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأثنين 2026/01/19",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "فولوس",
     "homeLogo": "https://jdwel.com/image/teams/gre_volos_nfc.png",
     "away": "أتروميتوس",
@@ -944,6 +1298,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "السبت 2026/01/24",
+    "round": "الجولة 18",
+    "status": "انتهت",
     "home": "أولمبياكوس بيرايوس",
     "homeLogo": "https://jdwel.com/image/teams/1407.png",
     "away": "فولوس",
@@ -952,6 +1309,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "السبت 2026/01/24",
+    "round": "الجولة 18",
+    "status": "انتهت",
     "home": "أستيراس تريبوليس",
     "homeLogo": "https://jdwel.com/image/teams/2309.png",
     "away": "آيك أثينا",
@@ -960,6 +1320,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "السبت 2026/01/24",
+    "round": "الجولة 18",
+    "status": "انتهت",
     "home": "أثليتيكي لاريسا",
     "homeLogo": "https://jdwel.com/image/teams/3545.png",
     "away": "بانسيرايكوس",
@@ -968,6 +1331,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الأحد 2026/01/25",
+    "round": "الجولة 18",
+    "status": "انتهت",
     "home": "آريس",
     "homeLogo": "https://jdwel.com/image/teams/2307.png",
     "away": "ليفادياكوس",
@@ -976,6 +1342,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الأحد 2026/01/25",
+    "round": "الجولة 18",
+    "status": "انتهت",
     "home": "أوميلوس هراكليوس",
     "homeLogo": "https://jdwel.com/image/teams/2310.png",
     "away": "بانيتوليكوس",
@@ -984,6 +1353,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2026/01/25",
+    "round": "الجولة 18",
+    "status": "انتهت",
     "home": "أتروميتوس",
     "homeLogo": "https://jdwel.com/image/teams/2872.png",
     "away": "باناثينايكوس",
@@ -992,6 +1364,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الأحد 2026/01/25",
+    "round": "الجولة 18",
+    "status": "انتهت",
     "home": "كيفيسيا",
     "homeLogo": "https://jdwel.com/image/teams/3543.png",
     "away": "باوك",
@@ -1000,6 +1375,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "السبت 2026/01/31",
+    "round": "الجولة 19",
+    "status": "انتهت",
     "home": "بانيتوليكوس",
     "homeLogo": "https://jdwel.com/image/teams/770.png",
     "away": "آريس",
@@ -1008,6 +1386,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "السبت 2026/01/31",
+    "round": "الجولة 19",
+    "status": "انتهت",
     "home": "أتروميتوس",
     "homeLogo": "https://jdwel.com/image/teams/2872.png",
     "away": "أوميلوس هراكليوس",
@@ -1016,6 +1397,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2026/01/31",
+    "round": "الجولة 19",
+    "status": "انتهت",
     "home": "فولوس",
     "homeLogo": "https://jdwel.com/image/teams/gre_volos_nfc.png",
     "away": "أثليتيكي لاريسا",
@@ -1024,6 +1408,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الأحد 2026/02/01",
+    "round": "الجولة 19",
+    "status": "انتهت",
     "home": "ليفادياكوس",
     "homeLogo": "https://jdwel.com/image/teams/gre_levadiakos.png",
     "away": "أستيراس تريبوليس",
@@ -1032,6 +1419,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الأحد 2026/02/01",
+    "round": "الجولة 19",
+    "status": "انتهت",
     "home": "باناثينايكوس",
     "homeLogo": "https://jdwel.com/image/teams/gre_panathinaikos.png",
     "away": "كيفيسيا",
@@ -1040,6 +1430,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "الأحد 2026/02/01",
+    "round": "الجولة 19",
+    "status": "انتهت",
     "home": "باوك",
     "homeLogo": "https://jdwel.com/image/teams/1281.png",
     "away": "بانسيرايكوس",
@@ -1048,6 +1441,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الأحد 2026/02/01",
+    "round": "الجولة 19",
+    "status": "انتهت",
     "home": "آيك أثينا",
     "homeLogo": "https://jdwel.com/image/teams/2306.png",
     "away": "أولمبياكوس بيرايوس",
@@ -1056,6 +1452,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الأربعاء 2026/02/04",
+    "round": "الجولة 17",
+    "status": "قريباً",
     "home": "أستيراس تريبوليس",
     "homeLogo": "https://jdwel.com/image/teams/2309.png",
     "away": "أولمبياكوس بيرايوس",
@@ -1064,6 +1463,9 @@
     "time": "6:30 م"
   },
   {
+    "date": "السبت 2026/02/07",
+    "round": "الجولة 20",
+    "status": "قريباً",
     "home": "أثليتيكي لاريسا",
     "homeLogo": "https://jdwel.com/image/teams/3545.png",
     "away": "بانيتوليكوس",
@@ -1072,6 +1474,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "السبت 2026/02/07",
+    "round": "الجولة 20",
+    "status": "قريباً",
     "home": "أستيراس تريبوليس",
     "homeLogo": "https://jdwel.com/image/teams/2309.png",
     "away": "فولوس",
@@ -1080,6 +1485,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2026/02/07",
+    "round": "الجولة 20",
+    "status": "قريباً",
     "home": "كيفيسيا",
     "homeLogo": "https://jdwel.com/image/teams/3543.png",
     "away": "أتروميتوس",
@@ -1088,6 +1496,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الأحد 2026/02/08",
+    "round": "الجولة 20",
+    "status": "قريباً",
     "home": "بانسيرايكوس",
     "homeLogo": "https://jdwel.com/image/teams/2308.png",
     "away": "آيك أثينا",
@@ -1096,6 +1507,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الأحد 2026/02/08",
+    "round": "الجولة 20",
+    "status": "قريباً",
     "home": "أوميلوس هراكليوس",
     "homeLogo": "https://jdwel.com/image/teams/2310.png",
     "away": "ليفادياكوس",
@@ -1104,6 +1518,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2026/02/08",
+    "round": "الجولة 20",
+    "status": "قريباً",
     "home": "آريس",
     "homeLogo": "https://jdwel.com/image/teams/2307.png",
     "away": "باوك",
@@ -1112,6 +1529,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأحد 2026/02/08",
+    "round": "الجولة 20",
+    "status": "قريباً",
     "home": "أولمبياكوس بيرايوس",
     "homeLogo": "https://jdwel.com/image/teams/1407.png",
     "away": "باناثينايكوس",
@@ -1120,6 +1540,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "السبت 2026/02/14",
+    "round": "الجولة 21",
+    "status": "قريباً",
     "home": "بانيتوليكوس",
     "homeLogo": "https://jdwel.com/image/teams/770.png",
     "away": "أستيراس تريبوليس",
@@ -1128,6 +1551,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "السبت 2026/02/14",
+    "round": "الجولة 21",
+    "status": "قريباً",
     "home": "فولوس",
     "homeLogo": "https://jdwel.com/image/teams/gre_volos_nfc.png",
     "away": "آريس",
@@ -1136,6 +1562,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الأحد 2026/02/15",
+    "round": "الجولة 21",
+    "status": "قريباً",
     "home": "ليفادياكوس",
     "homeLogo": "https://jdwel.com/image/teams/gre_levadiakos.png",
     "away": "أولمبياكوس بيرايوس",
@@ -1144,6 +1573,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الأحد 2026/02/15",
+    "round": "الجولة 21",
+    "status": "قريباً",
     "home": "كيفيسيا",
     "homeLogo": "https://jdwel.com/image/teams/3543.png",
     "away": "أوميلوس هراكليوس",
@@ -1152,6 +1584,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "الأحد 2026/02/15",
+    "round": "الجولة 21",
+    "status": "قريباً",
     "home": "باوك",
     "homeLogo": "https://jdwel.com/image/teams/1281.png",
     "away": "آيك أثينا",
@@ -1160,6 +1595,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الأحد 2026/02/15",
+    "round": "الجولة 21",
+    "status": "قريباً",
     "home": "باناثينايكوس",
     "homeLogo": "https://jdwel.com/image/teams/gre_panathinaikos.png",
     "away": "أثليتيكي لاريسا",
@@ -1168,6 +1606,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الأثنين 2026/02/16",
+    "round": "الجولة 21",
+    "status": "قريباً",
     "home": "أتروميتوس",
     "homeLogo": "https://jdwel.com/image/teams/2872.png",
     "away": "بانسيرايكوس",
@@ -1176,6 +1617,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2026/02/21",
+    "round": "الجولة 22",
+    "status": "قريباً",
     "home": "أستيراس تريبوليس",
     "homeLogo": "https://jdwel.com/image/teams/2309.png",
     "away": "أتروميتوس",
@@ -1184,6 +1628,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "السبت 2026/02/21",
+    "round": "الجولة 22",
+    "status": "قريباً",
     "home": "أولمبياكوس بيرايوس",
     "homeLogo": "https://jdwel.com/image/teams/1407.png",
     "away": "بانيتوليكوس",
@@ -1192,6 +1639,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2026/02/22",
+    "round": "الجولة 22",
+    "status": "قريباً",
     "home": "بانسيرايكوس",
     "homeLogo": "https://jdwel.com/image/teams/2308.png",
     "away": "فولوس",
@@ -1200,6 +1650,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الأحد 2026/02/22",
+    "round": "الجولة 22",
+    "status": "قريباً",
     "home": "أوميلوس هراكليوس",
     "homeLogo": "https://jdwel.com/image/teams/2310.png",
     "away": "باناثينايكوس",
@@ -1208,6 +1661,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الأحد 2026/02/22",
+    "round": "الجولة 22",
+    "status": "قريباً",
     "home": "أثليتيكي لاريسا",
     "homeLogo": "https://jdwel.com/image/teams/3545.png",
     "away": "باوك",
@@ -1216,6 +1672,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2026/02/22",
+    "round": "الجولة 22",
+    "status": "قريباً",
     "home": "آريس",
     "homeLogo": "https://jdwel.com/image/teams/2307.png",
     "away": "كيفيسيا",
@@ -1224,6 +1683,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأحد 2026/02/22",
+    "round": "الجولة 22",
+    "status": "قريباً",
     "home": "آيك أثينا",
     "homeLogo": "https://jdwel.com/image/teams/2306.png",
     "away": "ليفادياكوس",
@@ -1232,6 +1694,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "السبت 2026/02/28",
+    "round": "الجولة 23",
+    "status": "قريباً",
     "home": "أوميلوس هراكليوس",
     "homeLogo": "https://jdwel.com/image/teams/2310.png",
     "away": "أثليتيكي لاريسا",
@@ -1240,6 +1705,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "السبت 2026/02/28",
+    "round": "الجولة 23",
+    "status": "قريباً",
     "home": "أتروميتوس",
     "homeLogo": "https://jdwel.com/image/teams/2872.png",
     "away": "بانيتوليكوس",
@@ -1248,6 +1716,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "السبت 2026/02/28",
+    "round": "الجولة 23",
+    "status": "قريباً",
     "home": "كيفيسيا",
     "homeLogo": "https://jdwel.com/image/teams/3543.png",
     "away": "ليفادياكوس",
@@ -1256,6 +1727,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الأحد 2026/03/01",
+    "round": "الجولة 23",
+    "status": "قريباً",
     "home": "بانسيرايكوس",
     "homeLogo": "https://jdwel.com/image/teams/2308.png",
     "away": "أولمبياكوس بيرايوس",
@@ -1264,6 +1738,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الأحد 2026/03/01",
+    "round": "الجولة 23",
+    "status": "قريباً",
     "home": "فولوس",
     "homeLogo": "https://jdwel.com/image/teams/gre_volos_nfc.png",
     "away": "آيك أثينا",
@@ -1272,6 +1749,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "الأحد 2026/03/01",
+    "round": "الجولة 23",
+    "status": "قريباً",
     "home": "باوك",
     "homeLogo": "https://jdwel.com/image/teams/1281.png",
     "away": "أستيراس تريبوليس",
@@ -1280,6 +1760,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأحد 2026/03/01",
+    "round": "الجولة 23",
+    "status": "قريباً",
     "home": "باناثينايكوس",
     "homeLogo": "https://jdwel.com/image/teams/gre_panathinaikos.png",
     "away": "آريس",
@@ -1288,6 +1771,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "السبت 2026/03/07",
+    "round": "الجولة 24",
+    "status": "قريباً",
     "home": "آريس",
     "homeLogo": "https://jdwel.com/image/teams/2307.png",
     "away": "أتروميتوس",
@@ -1296,6 +1782,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "السبت 2026/03/07",
+    "round": "الجولة 24",
+    "status": "قريباً",
     "home": "آيك أثينا",
     "homeLogo": "https://jdwel.com/image/teams/2306.png",
     "away": "أثليتيكي لاريسا",
@@ -1304,6 +1793,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2026/03/08",
+    "round": "الجولة 24",
+    "status": "قريباً",
     "home": "أستيراس تريبوليس",
     "homeLogo": "https://jdwel.com/image/teams/2309.png",
     "away": "بانسيرايكوس",
@@ -1312,6 +1804,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الأحد 2026/03/08",
+    "round": "الجولة 24",
+    "status": "قريباً",
     "home": "فولوس",
     "homeLogo": "https://jdwel.com/image/teams/gre_volos_nfc.png",
     "away": "أوميلوس هراكليوس",
@@ -1320,6 +1815,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2026/03/08",
+    "round": "الجولة 24",
+    "status": "قريباً",
     "home": "ليفادياكوس",
     "homeLogo": "https://jdwel.com/image/teams/gre_levadiakos.png",
     "away": "باناثينايكوس",
@@ -1328,6 +1826,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأحد 2026/03/08",
+    "round": "الجولة 24",
+    "status": "قريباً",
     "home": "أولمبياكوس بيرايوس",
     "homeLogo": "https://jdwel.com/image/teams/1407.png",
     "away": "باوك",
@@ -1336,6 +1837,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الأثنين 2026/03/09",
+    "round": "الجولة 24",
+    "status": "قريباً",
     "home": "بانيتوليكوس",
     "homeLogo": "https://jdwel.com/image/teams/770.png",
     "away": "كيفيسيا",
@@ -1344,6 +1848,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2026/03/14",
+    "round": "الجولة 25",
+    "status": "قريباً",
     "home": "أوميلوس هراكليوس",
     "homeLogo": "https://jdwel.com/image/teams/2310.png",
     "away": "أولمبياكوس بيرايوس",
@@ -1352,6 +1859,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "السبت 2026/03/14",
+    "round": "الجولة 25",
+    "status": "قريباً",
     "home": "بانسيرايكوس",
     "homeLogo": "https://jdwel.com/image/teams/2308.png",
     "away": "آريس",
@@ -1360,6 +1870,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "السبت 2026/03/14",
+    "round": "الجولة 25",
+    "status": "قريباً",
     "home": "أثليتيكي لاريسا",
     "homeLogo": "https://jdwel.com/image/teams/3545.png",
     "away": "أستيراس تريبوليس",
@@ -1368,6 +1881,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الأحد 2026/03/15",
+    "round": "الجولة 25",
+    "status": "قريباً",
     "home": "كيفيسيا",
     "homeLogo": "https://jdwel.com/image/teams/3543.png",
     "away": "فولوس",
@@ -1376,6 +1892,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "الأحد 2026/03/15",
+    "round": "الجولة 25",
+    "status": "قريباً",
     "home": "باوك",
     "homeLogo": "https://jdwel.com/image/teams/1281.png",
     "away": "ليفادياكوس",
@@ -1384,6 +1903,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2026/03/15",
+    "round": "الجولة 25",
+    "status": "قريباً",
     "home": "أتروميتوس",
     "homeLogo": "https://jdwel.com/image/teams/2872.png",
     "away": "آيك أثينا",
@@ -1392,6 +1914,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الأحد 2026/03/15",
+    "round": "الجولة 25",
+    "status": "قريباً",
     "home": "باناثينايكوس",
     "homeLogo": "https://jdwel.com/image/teams/gre_panathinaikos.png",
     "away": "بانيتوليكوس",
@@ -1400,6 +1925,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الأحد 2026/03/22",
+    "round": "الجولة 26",
+    "status": "قريباً",
     "home": "أستيراس تريبوليس",
     "homeLogo": "https://jdwel.com/image/teams/2309.png",
     "away": "باناثينايكوس",
@@ -1408,6 +1936,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأحد 2026/03/22",
+    "round": "الجولة 26",
+    "status": "قريباً",
     "home": "آيك أثينا",
     "homeLogo": "https://jdwel.com/image/teams/2306.png",
     "away": "كيفيسيا",
@@ -1416,6 +1947,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأحد 2026/03/22",
+    "round": "الجولة 26",
+    "status": "قريباً",
     "home": "ليفادياكوس",
     "homeLogo": "https://jdwel.com/image/teams/gre_levadiakos.png",
     "away": "أتروميتوس",
@@ -1424,6 +1958,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأحد 2026/03/22",
+    "round": "الجولة 26",
+    "status": "قريباً",
     "home": "بانيتوليكوس",
     "homeLogo": "https://jdwel.com/image/teams/770.png",
     "away": "بانسيرايكوس",
@@ -1432,6 +1969,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأحد 2026/03/22",
+    "round": "الجولة 26",
+    "status": "قريباً",
     "home": "آريس",
     "homeLogo": "https://jdwel.com/image/teams/2307.png",
     "away": "أوميلوس هراكليوس",
@@ -1440,6 +1980,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأحد 2026/03/22",
+    "round": "الجولة 26",
+    "status": "قريباً",
     "home": "فولوس",
     "homeLogo": "https://jdwel.com/image/teams/gre_volos_nfc.png",
     "away": "باوك",
@@ -1448,6 +1991,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأحد 2026/03/22",
+    "round": "الجولة 26",
+    "status": "قريباً",
     "home": "أولمبياكوس بيرايوس",
     "homeLogo": "https://jdwel.com/image/teams/1407.png",
     "away": "أثليتيكي لاريسا",

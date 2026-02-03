@@ -1,5 +1,8 @@
 [
   {
+    "date": "السبت 2026/01/10",
+    "round": "",
+    "status": "انتهت",
     "home": "فيتوريا غيمارايش",
     "homeLogo": "https://jdwel.com/image/teams/por_vitoria_guimaraes.png",
     "away": "سبورتينغ براغا",
@@ -8,6 +11,9 @@
     "time": "10:00 م"
   },
   {
+    "date": "الأربعاء 2026/01/07",
+    "round": "",
+    "status": "انتهت",
     "home": "بنفيكا",
     "homeLogo": "https://jdwel.com/image/teams/1442.png",
     "away": "سبورتينغ براغا",
@@ -16,6 +22,9 @@
     "time": "10:00 م"
   },
   {
+    "date": "الثلاثاء 2026/01/06",
+    "round": "",
+    "status": "انتهت",
     "home": "سبورتينغ لشبونة",
     "homeLogo": "https://jdwel.com/image/teams/1444.png",
     "away": "فيتوريا غيمارايش",
@@ -24,6 +33,9 @@
     "time": "10:00 م"
   },
   {
+    "date": "الخميس 2025/12/04",
+    "round": "",
+    "status": "انتهت",
     "home": "بورتو",
     "homeLogo": "https://jdwel.com/image/teams/1443.png",
     "away": "فيتوريا غيمارايش",
@@ -32,6 +44,9 @@
     "time": "10:15 م"
   },
   {
+    "date": "الأربعاء 2025/10/29",
+    "round": "",
+    "status": "انتهت",
     "home": "بنفيكا",
     "homeLogo": "https://jdwel.com/image/teams/1442.png",
     "away": "تونديلا",
@@ -40,6 +55,9 @@
     "time": "11:45 م"
   },
   {
+    "date": "الأربعاء 2025/10/29",
+    "round": "",
+    "status": "انتهت",
     "home": "سبورتينغ براغا",
     "homeLogo": "https://jdwel.com/image/teams/2395.png",
     "away": "سانتا كلارا",
@@ -48,6 +66,9 @@
     "time": "10:15 م"
   },
   {
+    "date": "الثلاثاء 2025/10/28",
+    "round": "",
+    "status": "انتهت",
     "home": "سبورتينغ لشبونة",
     "homeLogo": "https://jdwel.com/image/teams/1444.png",
     "away": "ألفيركا",

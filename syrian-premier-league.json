@@ -1,5 +1,8 @@
 [
   {
+    "date": "الخميس 2025/12/18",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "أهلي حلب",
     "homeLogo": "https://jdwel.com/image/teams/syr_al_ittihad.png",
     "away": "خان شيخون",
@@ -8,6 +11,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "الخميس 2025/12/18",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "الشرطة",
     "homeLogo": "https://jdwel.com/image/teams/5231.png",
     "away": "حطين",
@@ -16,6 +22,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "الجمعة 2025/12/19",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "الطليعة",
     "homeLogo": "https://jdwel.com/image/teams/3283.png",
     "away": "الفتوة",
@@ -24,6 +33,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الجمعة 2025/12/19",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "أمية",
     "homeLogo": "https://jdwel.com/image/teams/5162.png",
     "away": "الحرية",
@@ -32,6 +44,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الجمعة 2025/12/19",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "الكرامة",
     "homeLogo": "https://jdwel.com/image/teams/3198.png",
     "away": "الوحدة",
@@ -40,6 +55,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الجمعة 2025/12/19",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "الشعلة",
     "homeLogo": "https://jdwel.com/image/teams/5230.png",
     "away": "جبلة",
@@ -48,6 +66,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "السبت 2025/12/20",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "دمشق الأهلي",
     "homeLogo": "https://jdwel.com/image/teams/5161.png",
     "away": "حمص الفداء",
@@ -56,6 +77,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "السبت 2025/12/20",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "تشرين",
     "homeLogo": "https://jdwel.com/image/teams/1767.png",
     "away": "الجيش",
@@ -64,6 +88,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "الخميس 2025/12/25",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "خان شيخون",
     "homeLogo": "https://jdwel.com/image/teams/5159.png",
     "away": "دمشق الأهلي",
@@ -72,6 +99,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "الخميس 2025/12/25",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "جبلة",
     "homeLogo": "https://jdwel.com/image/teams/2970.png",
     "away": "الشرطة",
@@ -80,6 +110,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "الجمعة 2025/12/26",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "الوحدة",
     "homeLogo": "https://jdwel.com/image/teams/5233.png",
     "away": "أمية",
@@ -88,6 +121,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الجمعة 2025/12/26",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "حطين",
     "homeLogo": "https://jdwel.com/image/teams/5229.png",
     "away": "تشرين",
@@ -96,6 +132,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "السبت 2025/12/27",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "الحرية",
     "homeLogo": "https://jdwel.com/image/teams/275.png",
     "away": "الشعلة",
@@ -104,6 +143,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "السبت 2025/12/27",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "الجيش",
     "homeLogo": "https://jdwel.com/image/teams/5164.png",
     "away": "الطليعة",
@@ -112,6 +154,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "الأحد 2025/12/28",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "حمص الفداء",
     "homeLogo": "https://jdwel.com/image/teams/5160.png",
     "away": "الكرامة",
@@ -120,6 +165,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الخميس 2026/01/01",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "تشرين",
     "homeLogo": "https://jdwel.com/image/teams/1767.png",
     "away": "خان شيخون",
@@ -128,6 +176,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "الخميس 2026/01/01",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "أمية",
     "homeLogo": "https://jdwel.com/image/teams/5162.png",
     "away": "حطين",
@@ -136,6 +187,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "الجمعة 2026/01/02",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "الشرطة",
     "homeLogo": "https://jdwel.com/image/teams/5231.png",
     "away": "الفتوة",
@@ -144,6 +198,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الجمعة 2026/01/02",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "أهلي حلب",
     "homeLogo": "https://jdwel.com/image/teams/syr_al_ittihad.png",
     "away": "دمشق الأهلي",
@@ -152,6 +209,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الجمعة 2026/01/02",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "الطليعة",
     "homeLogo": "https://jdwel.com/image/teams/3283.png",
     "away": "حمص الفداء",
@@ -160,6 +220,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "السبت 2026/01/03",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "الكرامة",
     "homeLogo": "https://jdwel.com/image/teams/3198.png",
     "away": "الحرية",
@@ -168,6 +231,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/01/03",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "الوحدة",
     "homeLogo": "https://jdwel.com/image/teams/5233.png",
     "away": "جبلة",
@@ -176,6 +242,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "السبت 2026/01/03",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "الشعلة",
     "homeLogo": "https://jdwel.com/image/teams/5230.png",
     "away": "الجيش",
@@ -184,6 +253,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "الخميس 2026/01/08",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "الجيش",
     "homeLogo": "https://jdwel.com/image/teams/5164.png",
     "away": "الشرطة",
@@ -192,6 +264,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "الخميس 2026/01/08",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "جبلة",
     "homeLogo": "https://jdwel.com/image/teams/2970.png",
     "away": "أمية",
@@ -200,6 +275,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "الجمعة 2026/01/09",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "الفتوة",
     "homeLogo": "https://jdwel.com/image/teams/1768.png",
     "away": "تشرين",
@@ -208,6 +286,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الجمعة 2026/01/09",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "خان شيخون",
     "homeLogo": "https://jdwel.com/image/teams/5159.png",
     "away": "الطليعة",
@@ -216,6 +297,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "السبت 2026/01/10",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "أهلي حلب",
     "homeLogo": "https://jdwel.com/image/teams/syr_al_ittihad.png",
     "away": "حمص الفداء",
@@ -224,6 +308,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "السبت 2026/01/10",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "حطين",
     "homeLogo": "https://jdwel.com/image/teams/5229.png",
     "away": "الشعلة",
@@ -232,6 +319,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "الخميس 2026/01/15",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "تشرين",
     "homeLogo": "https://jdwel.com/image/teams/1767.png",
     "away": "دمشق الأهلي",
@@ -240,6 +330,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "الخميس 2026/01/15",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "الوحدة",
     "homeLogo": "https://jdwel.com/image/teams/5233.png",
     "away": "الجيش",
@@ -248,6 +341,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "الجمعة 2026/01/16",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "الطليعة",
     "homeLogo": "https://jdwel.com/image/teams/3283.png",
     "away": "أهلي حلب",
@@ -256,6 +352,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الجمعة 2026/01/16",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "الحرية",
     "homeLogo": "https://jdwel.com/image/teams/275.png",
     "away": "حطين",
@@ -264,6 +363,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الجمعة 2026/01/16",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "أمية",
     "homeLogo": "https://jdwel.com/image/teams/5162.png",
     "away": "الفتوة",
@@ -272,6 +374,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "السبت 2026/01/17",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "الشعلة",
     "homeLogo": "https://jdwel.com/image/teams/5230.png",
     "away": "خان شيخون",
@@ -280,6 +385,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "السبت 2026/01/17",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "الشرطة",
     "homeLogo": "https://jdwel.com/image/teams/5231.png",
     "away": "حمص الفداء",
@@ -288,6 +396,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "الأحد 2026/01/18",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "الكرامة",
     "homeLogo": "https://jdwel.com/image/teams/3198.png",
     "away": "جبلة",
@@ -296,6 +407,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "الجمعة 2026/01/30",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "الجيش",
     "homeLogo": "https://jdwel.com/image/teams/5164.png",
     "away": "أمية",
@@ -304,6 +418,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الجمعة 2026/01/30",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "جبلة",
     "homeLogo": "https://jdwel.com/image/teams/2970.png",
     "away": "الحرية",
@@ -312,6 +429,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الجمعة 2026/01/30",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "أهلي حلب",
     "homeLogo": "https://jdwel.com/image/teams/syr_al_ittihad.png",
     "away": "الكرامة",
@@ -320,6 +440,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الجمعة 2026/01/30",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "الفتوة",
     "homeLogo": "https://jdwel.com/image/teams/1768.png",
     "away": "الشعلة",
@@ -328,6 +451,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الجمعة 2026/01/30",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "حطين",
     "homeLogo": "https://jdwel.com/image/teams/5229.png",
     "away": "الوحدة",
@@ -336,6 +462,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الجمعة 2026/01/30",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "دمشق الأهلي",
     "homeLogo": "https://jdwel.com/image/teams/5161.png",
     "away": "الطليعة",
@@ -344,6 +473,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الجمعة 2026/01/30",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "خان شيخون",
     "homeLogo": "https://jdwel.com/image/teams/5159.png",
     "away": "الشرطة",
@@ -352,6 +484,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "السبت 2026/01/31",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "حمص الفداء",
     "homeLogo": "https://jdwel.com/image/teams/5160.png",
     "away": "تشرين",
@@ -360,6 +495,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "الثلاثاء 2026/02/03",
+    "round": "الجولة 2",
+    "status": "قريباً",
     "home": "الفتوة",
     "homeLogo": "https://jdwel.com/image/teams/1768.png",
     "away": "أهلي حلب",
@@ -368,6 +506,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "الثلاثاء 2026/02/03",
+    "round": "الجولة 2",
+    "status": "قريباً",
     "home": "الحرية",
     "homeLogo": "https://jdwel.com/image/teams/275.png",
     "away": "الوحدة",
@@ -376,6 +517,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "الثلاثاء 2026/02/03",
+    "round": "الجولة 2",
+    "status": "قريباً",
     "home": "دمشق الأهلي",
     "homeLogo": "https://jdwel.com/image/teams/5161.png",
     "away": "الكرامة",

@@ -1,5 +1,8 @@
 [
   {
+    "date": "السبت 2023/09/16",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "لوسيل",
     "homeLogo": "https://jdwel.com/image/teams/3208.png",
     "away": "السيلية",
@@ -8,6 +11,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "السبت 2023/09/16",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "الأهلي",
     "homeLogo": "https://jdwel.com/image/teams/1110.png",
     "away": "المرخية",
@@ -16,6 +22,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "السبت 2023/09/16",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "معيذر",
     "homeLogo": "https://jdwel.com/image/teams/161.png",
     "away": "الوكرة",
@@ -24,6 +33,9 @@
     "time": "4:45 م"
   },
   {
+    "date": "الجمعة 2023/09/15",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "الشمال",
     "homeLogo": "https://jdwel.com/image/teams/2795.png",
     "away": "الخور",
@@ -32,6 +44,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الجمعة 2023/09/15",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "السد",
     "homeLogo": "https://jdwel.com/image/teams/1109.png",
     "away": "الغرافة",
@@ -40,6 +55,9 @@
     "time": "4:45 م"
   },
   {
+    "date": "الجمعة 2023/09/15",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "الريان",
     "homeLogo": "https://jdwel.com/image/teams/2994.png",
     "away": "أم صلال",
@@ -48,6 +66,9 @@
     "time": "4:45 م"
   },
   {
+    "date": "الخميس 2023/09/14",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "مسيمير",
     "homeLogo": "https://jdwel.com/image/teams/1507.png",
     "away": "الشحانية",
@@ -56,6 +77,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الخميس 2023/09/14",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "الخريطيات",
     "homeLogo": "https://jdwel.com/image/teams/792.png",
     "away": "الوعب",
@@ -64,6 +88,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الخميس 2023/09/14",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "نادي قطر",
     "homeLogo": "https://jdwel.com/image/teams/3882.png",
     "away": "العربي",
@@ -72,6 +99,9 @@
     "time": "4:45 م"
   },
   {
+    "date": "الخميس 2023/09/14",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "الدحيل",
     "homeLogo": "https://jdwel.com/image/teams/2993.png",
     "away": "البدع",
@@ -80,6 +110,9 @@
     "time": "4:45 م"
   },
   {
+    "date": "الثلاثاء 2023/09/05",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "أم صلال",
     "homeLogo": "https://jdwel.com/image/teams/2348.png",
     "away": "الشمال",
@@ -88,6 +121,9 @@
     "time": "7:45 م"
   },
   {
+    "date": "الثلاثاء 2023/09/05",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "البدع",
     "homeLogo": "https://jdwel.com/image/teams/2880.png",
     "away": "الأهلي",
@@ -96,6 +132,9 @@
     "time": "7:45 م"
   },
   {
+    "date": "الثلاثاء 2023/09/05",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "المرخية",
     "homeLogo": "https://jdwel.com/image/teams/158.png",
     "away": "الدحيل",
@@ -104,6 +143,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأثنين 2023/09/04",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "الخور",
     "homeLogo": "https://jdwel.com/image/teams/2996.png",
     "away": "الريان",
@@ -112,6 +154,9 @@
     "time": "7:45 م"
   },
   {
+    "date": "الأثنين 2023/09/04",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "الغرافة",
     "homeLogo": "https://jdwel.com/image/teams/2995.png",
     "away": "لوسيل",
@@ -120,6 +165,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأثنين 2023/09/04",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "السيلية",
     "homeLogo": "https://jdwel.com/image/teams/4852.png",
     "away": "السد",
@@ -128,6 +176,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2023/09/03",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "الوكرة",
     "homeLogo": "https://jdwel.com/image/teams/4214.png",
     "away": "مسيمير",
@@ -136,6 +187,9 @@
     "time": "7:45 م"
   },
   {
+    "date": "الأحد 2023/09/03",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "الوعب",
     "homeLogo": "https://jdwel.com/image/teams/2878.png",
     "away": "نادي قطر",
@@ -144,6 +198,9 @@
     "time": "7:45 م"
   },
   {
+    "date": "الأحد 2023/09/03",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "الشحانية",
     "homeLogo": "https://jdwel.com/image/teams/2997.png",
     "away": "معيذر",
@@ -152,6 +209,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2023/09/03",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "العربي",
     "homeLogo": "https://jdwel.com/image/teams/5435.png",
     "away": "الخريطيات",

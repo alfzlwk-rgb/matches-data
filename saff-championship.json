@@ -1,5 +1,8 @@
 [
   {
+    "date": "الثلاثاء 2023/07/04",
+    "round": "",
+    "status": "انتهت",
     "home": "الكويت",
     "homeLogo": "https://jdwel.com/image/teams/flag_kuwait_v2.png",
     "away": "الهند",
@@ -8,6 +11,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "السبت 2023/07/01",
+    "round": "",
+    "status": "انتهت",
     "home": "لبنان",
     "homeLogo": "https://jdwel.com/image/teams/flag_lebanon_v2.png",
     "away": "الهند",
@@ -16,6 +22,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "السبت 2023/07/01",
+    "round": "",
+    "status": "انتهت",
     "home": "الكويت",
     "homeLogo": "https://jdwel.com/image/teams/flag_kuwait_v2.png",
     "away": "بنجلاديش",
@@ -24,6 +33,9 @@
     "time": "12:30 م"
   },
   {
+    "date": "الأربعاء 2023/06/28",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "بوتان",
     "homeLogo": "https://jdwel.com/image/teams/243.png",
     "away": "بنجلاديش",
@@ -32,6 +44,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأربعاء 2023/06/28",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "لبنان",
     "homeLogo": "https://jdwel.com/image/teams/flag_lebanon_v2.png",
     "away": "المالديف",
@@ -40,6 +55,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "الثلاثاء 2023/06/27",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "الهند",
     "homeLogo": "https://jdwel.com/image/teams/60.png",
     "away": "الكويت",
@@ -48,6 +66,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الثلاثاء 2023/06/27",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "نيبال",
     "homeLogo": "https://jdwel.com/image/teams/71.png",
     "away": "باكستان",
@@ -56,6 +77,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "الأحد 2023/06/25",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "بوتان",
     "homeLogo": "https://jdwel.com/image/teams/243.png",
     "away": "لبنان",
@@ -64,6 +88,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2023/06/25",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "بنجلاديش",
     "homeLogo": "https://jdwel.com/image/teams/184.png",
     "away": "المالديف",
@@ -72,6 +99,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "السبت 2023/06/24",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "نيبال",
     "homeLogo": "https://jdwel.com/image/teams/71.png",
     "away": "الهند",
@@ -80,6 +110,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "السبت 2023/06/24",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "باكستان",
     "homeLogo": "https://jdwel.com/image/teams/57.png",
     "away": "الكويت",
@@ -88,6 +121,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "الخميس 2023/06/22",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "المالديف",
     "homeLogo": "https://jdwel.com/image/teams/70.png",
     "away": "بوتان",
@@ -96,6 +132,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الخميس 2023/06/22",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "لبنان",
     "homeLogo": "https://jdwel.com/image/teams/flag_lebanon_v2.png",
     "away": "بنجلاديش",
@@ -104,6 +143,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "الأربعاء 2023/06/21",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "الهند",
     "homeLogo": "https://jdwel.com/image/teams/60.png",
     "away": "باكستان",
@@ -112,6 +154,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأربعاء 2023/06/21",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "الكويت",
     "homeLogo": "https://jdwel.com/image/teams/flag_kuwait_v2.png",
     "away": "نيبال",

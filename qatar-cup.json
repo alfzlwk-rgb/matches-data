@@ -1,5 +1,8 @@
 [
   {
+    "date": "السبت 2025/05/10",
+    "round": "",
+    "status": "انتهت",
     "home": "السد",
     "homeLogo": "https://jdwel.com/image/teams/1109.png",
     "away": "الدحيل",
@@ -8,6 +11,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأربعاء 2025/04/23",
+    "round": "",
+    "status": "انتهت",
     "home": "الدحيل",
     "homeLogo": "https://jdwel.com/image/teams/2993.png",
     "away": "الغرافة",
@@ -16,6 +22,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الثلاثاء 2025/04/22",
+    "round": "",
+    "status": "انتهت",
     "home": "السد",
     "homeLogo": "https://jdwel.com/image/teams/1109.png",
     "away": "الأهلي",

@@ -1,5 +1,8 @@
 [
   {
+    "date": "الجمعة 2025/07/25",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "رويال أنتويرب",
     "homeLogo": "https://jdwel.com/image/teams/1229.png",
     "away": "سانت خيلويزي",
@@ -8,6 +11,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "السبت 2025/07/26",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "دندر",
     "homeLogo": "https://jdwel.com/image/teams/bel_dender.png",
     "away": "سيركل بروج",
@@ -16,6 +22,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "السبت 2025/07/26",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "زولته فاريجيم",
     "homeLogo": "https://jdwel.com/image/teams/bel_zulte-waregem.png",
     "away": "ميشيلن",
@@ -24,6 +33,9 @@
     "time": "7:15 م"
   },
   {
+    "date": "السبت 2025/07/26",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "لا لوفيير",
     "homeLogo": "https://jdwel.com/image/teams/3376.png",
     "away": "ستاندارد لييج",
@@ -32,6 +44,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأحد 2025/07/27",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "أندرلخت",
     "homeLogo": "https://jdwel.com/image/teams/1290.png",
     "away": "فيستيرلو",
@@ -40,6 +55,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "الأحد 2025/07/27",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "أود هيفرلي لوفن",
     "homeLogo": "https://jdwel.com/image/teams/3177.png",
     "away": "رويال شارلروا",
@@ -48,6 +66,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2025/07/27",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "كلوب بروج",
     "homeLogo": "https://jdwel.com/image/teams/2870.png",
     "away": "جينك",
@@ -56,6 +77,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الأحد 2025/07/27",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "سينت ترويدن",
     "homeLogo": "https://jdwel.com/image/teams/bel_sint-truiden.png",
     "away": "جينت",
@@ -64,6 +88,9 @@
     "time": "8:15 م"
   },
   {
+    "date": "الجمعة 2025/08/01",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "ميشيلن",
     "homeLogo": "https://jdwel.com/image/teams/bel_mechelen.png",
     "away": "كلوب بروج",
@@ -72,6 +99,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "السبت 2025/08/02",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "فيستيرلو",
     "homeLogo": "https://jdwel.com/image/teams/bel_westerlo.png",
     "away": "زولته فاريجيم",
@@ -80,6 +110,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "السبت 2025/08/02",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "ستاندارد لييج",
     "homeLogo": "https://jdwel.com/image/teams/bel_standard_liege.png",
     "away": "دندر",
@@ -88,6 +121,9 @@
     "time": "7:15 م"
   },
   {
+    "date": "السبت 2025/08/02",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "جينت",
     "homeLogo": "https://jdwel.com/image/teams/3409.png",
     "away": "لا لوفيير",
@@ -96,6 +132,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأحد 2025/08/03",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "جينك",
     "homeLogo": "https://jdwel.com/image/teams/1501.png",
     "away": "رويال أنتويرب",
@@ -104,6 +143,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "الأحد 2025/08/03",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "سيركل بروج",
     "homeLogo": "https://jdwel.com/image/teams/494.png",
     "away": "أندرلخت",
@@ -112,6 +154,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2025/08/03",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "سانت خيلويزي",
     "homeLogo": "https://jdwel.com/image/teams/bel_union_saint-gilloise.png",
     "away": "أود هيفرلي لوفن",
@@ -120,6 +165,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الأحد 2025/08/03",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "رويال شارلروا",
     "homeLogo": "https://jdwel.com/image/teams/bel_sporting_charleroi.png",
     "away": "سينت ترويدن",
@@ -128,6 +176,9 @@
     "time": "8:15 م"
   },
   {
+    "date": "الجمعة 2025/08/08",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "سينت ترويدن",
     "homeLogo": "https://jdwel.com/image/teams/bel_sint-truiden.png",
     "away": "دندر",
@@ -136,6 +187,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "السبت 2025/08/09",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "كلوب بروج",
     "homeLogo": "https://jdwel.com/image/teams/2870.png",
     "away": "سيركل بروج",
@@ -144,6 +198,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "السبت 2025/08/09",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "فيستيرلو",
     "homeLogo": "https://jdwel.com/image/teams/bel_westerlo.png",
     "away": "ميشيلن",
@@ -152,6 +209,9 @@
     "time": "7:15 م"
   },
   {
+    "date": "السبت 2025/08/09",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "جينت",
     "homeLogo": "https://jdwel.com/image/teams/3409.png",
     "away": "سانت خيلويزي",
@@ -160,6 +220,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأحد 2025/08/10",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "لا لوفيير",
     "homeLogo": "https://jdwel.com/image/teams/3376.png",
     "away": "رويال شارلروا",
@@ -168,6 +231,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "الأحد 2025/08/10",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "أندرلخت",
     "homeLogo": "https://jdwel.com/image/teams/1290.png",
     "away": "زولته فاريجيم",
@@ -176,6 +242,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2025/08/10",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "ستاندارد لييج",
     "homeLogo": "https://jdwel.com/image/teams/bel_standard_liege.png",
     "away": "جينك",
@@ -184,6 +253,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الأحد 2025/08/10",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "رويال أنتويرب",
     "homeLogo": "https://jdwel.com/image/teams/1229.png",
     "away": "أود هيفرلي لوفن",
@@ -192,6 +264,9 @@
     "time": "8:15 م"
   },
   {
+    "date": "الجمعة 2025/08/15",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "أود هيفرلي لوفن",
     "homeLogo": "https://jdwel.com/image/teams/3177.png",
     "away": "جينك",
@@ -200,6 +275,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "السبت 2025/08/16",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "زولته فاريجيم",
     "homeLogo": "https://jdwel.com/image/teams/bel_zulte-waregem.png",
     "away": "كلوب بروج",
@@ -208,6 +286,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "السبت 2025/08/16",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "ميشيلن",
     "homeLogo": "https://jdwel.com/image/teams/bel_mechelen.png",
     "away": "جينت",
@@ -216,6 +297,9 @@
     "time": "7:15 م"
   },
   {
+    "date": "السبت 2025/08/16",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "سانت خيلويزي",
     "homeLogo": "https://jdwel.com/image/teams/bel_union_saint-gilloise.png",
     "away": "ستاندارد لييج",
@@ -224,6 +308,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأحد 2025/08/17",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "دندر",
     "homeLogo": "https://jdwel.com/image/teams/bel_dender.png",
     "away": "أندرلخت",
@@ -232,6 +319,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "الأحد 2025/08/17",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "سينت ترويدن",
     "homeLogo": "https://jdwel.com/image/teams/bel_sint-truiden.png",
     "away": "لا لوفيير",
@@ -240,6 +330,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2025/08/17",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "رويال شارلروا",
     "homeLogo": "https://jdwel.com/image/teams/bel_sporting_charleroi.png",
     "away": "رويال أنتويرب",
@@ -248,6 +341,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الأحد 2025/08/17",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "سيركل بروج",
     "homeLogo": "https://jdwel.com/image/teams/494.png",
     "away": "فيستيرلو",
@@ -256,6 +352,9 @@
     "time": "8:15 م"
   },
   {
+    "date": "السبت 2025/08/23",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "ستاندارد لييج",
     "homeLogo": "https://jdwel.com/image/teams/bel_standard_liege.png",
     "away": "سيركل بروج",
@@ -264,6 +363,9 @@
     "time": "7:15 م"
   },
   {
+    "date": "السبت 2025/08/23",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "زولته فاريجيم",
     "homeLogo": "https://jdwel.com/image/teams/bel_zulte-waregem.png",
     "away": "سينت ترويدن",
@@ -272,6 +374,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأحد 2025/08/24",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "رويال أنتويرب",
     "homeLogo": "https://jdwel.com/image/teams/1229.png",
     "away": "ميشيلن",
@@ -280,6 +385,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "الأحد 2025/08/24",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "لا لوفيير",
     "homeLogo": "https://jdwel.com/image/teams/3376.png",
     "away": "سانت خيلويزي",
@@ -288,6 +396,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الأحد 2025/08/24",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "دندر",
     "homeLogo": "https://jdwel.com/image/teams/bel_dender.png",
     "away": "أود هيفرلي لوفن",
@@ -296,6 +407,9 @@
     "time": "8:15 م"
   },
   {
+    "date": "الجمعة 2025/08/29",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "سيركل بروج",
     "homeLogo": "https://jdwel.com/image/teams/494.png",
     "away": "سينت ترويدن",
@@ -304,6 +418,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "السبت 2025/08/30",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "ميشيلن",
     "homeLogo": "https://jdwel.com/image/teams/bel_mechelen.png",
     "away": "لا لوفيير",
@@ -312,6 +429,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "السبت 2025/08/30",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "فيستيرلو",
     "homeLogo": "https://jdwel.com/image/teams/bel_westerlo.png",
     "away": "رويال أنتويرب",
@@ -320,6 +440,9 @@
     "time": "7:15 م"
   },
   {
+    "date": "السبت 2025/08/30",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "رويال شارلروا",
     "homeLogo": "https://jdwel.com/image/teams/bel_sporting_charleroi.png",
     "away": "دندر",
@@ -328,6 +451,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأحد 2025/08/31",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "جينت",
     "homeLogo": "https://jdwel.com/image/teams/3409.png",
     "away": "كلوب بروج",
@@ -336,6 +462,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "الأحد 2025/08/31",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "أود هيفرلي لوفن",
     "homeLogo": "https://jdwel.com/image/teams/3177.png",
     "away": "ستاندارد لييج",
@@ -344,6 +473,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2025/08/31",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "سانت خيلويزي",
     "homeLogo": "https://jdwel.com/image/teams/bel_union_saint-gilloise.png",
     "away": "أندرلخت",
@@ -352,6 +484,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الأحد 2025/08/31",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "جينك",
     "homeLogo": "https://jdwel.com/image/teams/1501.png",
     "away": "زولته فاريجيم",
@@ -360,6 +495,9 @@
     "time": "8:15 م"
   },
   {
+    "date": "الجمعة 2025/09/12",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "ستاندارد لييج",
     "homeLogo": "https://jdwel.com/image/teams/bel_standard_liege.png",
     "away": "ميشيلن",
@@ -368,6 +506,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "السبت 2025/09/13",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "زولته فاريجيم",
     "homeLogo": "https://jdwel.com/image/teams/bel_zulte-waregem.png",
     "away": "أود هيفرلي لوفن",
@@ -376,6 +517,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "السبت 2025/09/13",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "دندر",
     "homeLogo": "https://jdwel.com/image/teams/bel_dender.png",
     "away": "سانت خيلويزي",
@@ -384,6 +528,9 @@
     "time": "7:15 م"
   },
   {
+    "date": "السبت 2025/09/13",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "لا لوفيير",
     "homeLogo": "https://jdwel.com/image/teams/3376.png",
     "away": "كلوب بروج",
@@ -392,6 +539,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأحد 2025/09/14",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "رويال أنتويرب",
     "homeLogo": "https://jdwel.com/image/teams/1229.png",
     "away": "جينت",
@@ -400,6 +550,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "الأحد 2025/09/14",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "سيركل بروج",
     "homeLogo": "https://jdwel.com/image/teams/494.png",
     "away": "رويال شارلروا",
@@ -408,6 +561,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2025/09/14",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "أندرلخت",
     "homeLogo": "https://jdwel.com/image/teams/1290.png",
     "away": "جينك",
@@ -416,6 +572,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الأحد 2025/09/14",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "سينت ترويدن",
     "homeLogo": "https://jdwel.com/image/teams/bel_sint-truiden.png",
     "away": "فيستيرلو",
@@ -424,6 +583,9 @@
     "time": "8:15 م"
   },
   {
+    "date": "الأربعاء 2025/09/17",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "جينك",
     "homeLogo": "https://jdwel.com/image/teams/1501.png",
     "away": "رويال شارلروا",
@@ -432,6 +594,9 @@
     "time": "9:30 م"
   },
   {
+    "date": "الجمعة 2025/09/19",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "جينت",
     "homeLogo": "https://jdwel.com/image/teams/3409.png",
     "away": "دندر",
@@ -440,6 +605,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "السبت 2025/09/20",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "أود هيفرلي لوفن",
     "homeLogo": "https://jdwel.com/image/teams/3177.png",
     "away": "لا لوفيير",
@@ -448,6 +616,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "السبت 2025/09/20",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "رويال شارلروا",
     "homeLogo": "https://jdwel.com/image/teams/bel_sporting_charleroi.png",
     "away": "زولته فاريجيم",
@@ -456,6 +627,9 @@
     "time": "7:15 م"
   },
   {
+    "date": "السبت 2025/09/20",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "أندرلخت",
     "homeLogo": "https://jdwel.com/image/teams/1290.png",
     "away": "رويال أنتويرب",
@@ -464,6 +638,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأحد 2025/09/21",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "جينك",
     "homeLogo": "https://jdwel.com/image/teams/1501.png",
     "away": "سانت خيلويزي",
@@ -472,6 +649,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "الأحد 2025/09/21",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "فيستيرلو",
     "homeLogo": "https://jdwel.com/image/teams/bel_westerlo.png",
     "away": "ستاندارد لييج",
@@ -480,6 +660,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2025/09/21",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "كلوب بروج",
     "homeLogo": "https://jdwel.com/image/teams/2870.png",
     "away": "سينت ترويدن",
@@ -488,6 +671,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الأحد 2025/09/21",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "ميشيلن",
     "homeLogo": "https://jdwel.com/image/teams/bel_mechelen.png",
     "away": "سيركل بروج",
@@ -496,6 +682,9 @@
     "time": "8:15 م"
   },
   {
+    "date": "الثلاثاء 2025/09/23",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "أندرلخت",
     "homeLogo": "https://jdwel.com/image/teams/1290.png",
     "away": "جينت",
@@ -504,6 +693,9 @@
     "time": "9:30 م"
   },
   {
+    "date": "الأربعاء 2025/09/24",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "كلوب بروج",
     "homeLogo": "https://jdwel.com/image/teams/2870.png",
     "away": "فيستيرلو",
@@ -512,6 +704,9 @@
     "time": "9:30 م"
   },
   {
+    "date": "الجمعة 2025/09/26",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "أود هيفرلي لوفن",
     "homeLogo": "https://jdwel.com/image/teams/3177.png",
     "away": "أندرلخت",
@@ -520,6 +715,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "السبت 2025/09/27",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "زولته فاريجيم",
     "homeLogo": "https://jdwel.com/image/teams/bel_zulte-waregem.png",
     "away": "رويال أنتويرب",
@@ -528,6 +726,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "السبت 2025/09/27",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "ستاندارد لييج",
     "homeLogo": "https://jdwel.com/image/teams/bel_standard_liege.png",
     "away": "كلوب بروج",
@@ -536,6 +737,9 @@
     "time": "7:15 م"
   },
   {
+    "date": "السبت 2025/09/27",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "سانت خيلويزي",
     "homeLogo": "https://jdwel.com/image/teams/bel_union_saint-gilloise.png",
     "away": "فيستيرلو",
@@ -544,6 +748,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأحد 2025/09/28",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "سينت ترويدن",
     "homeLogo": "https://jdwel.com/image/teams/bel_sint-truiden.png",
     "away": "جينك",
@@ -552,6 +759,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "الأحد 2025/09/28",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "سيركل بروج",
     "homeLogo": "https://jdwel.com/image/teams/494.png",
     "away": "جينت",
@@ -560,6 +770,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2025/09/28",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "رويال شارلروا",
     "homeLogo": "https://jdwel.com/image/teams/bel_sporting_charleroi.png",
     "away": "ميشيلن",
@@ -568,6 +781,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الأحد 2025/09/28",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "دندر",
     "homeLogo": "https://jdwel.com/image/teams/bel_dender.png",
     "away": "لا لوفيير",
@@ -576,6 +792,9 @@
     "time": "8:15 م"
   },
   {
+    "date": "الجمعة 2025/10/03",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "جينت",
     "homeLogo": "https://jdwel.com/image/teams/3409.png",
     "away": "رويال شارلروا",
@@ -584,6 +803,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "السبت 2025/10/04",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "ميشيلن",
     "homeLogo": "https://jdwel.com/image/teams/bel_mechelen.png",
     "away": "سينت ترويدن",
@@ -592,6 +814,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "السبت 2025/10/04",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "لا لوفيير",
     "homeLogo": "https://jdwel.com/image/teams/3376.png",
     "away": "زولته فاريجيم",
@@ -600,6 +825,9 @@
     "time": "7:15 م"
   },
   {
+    "date": "السبت 2025/10/04",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "رويال أنتويرب",
     "homeLogo": "https://jdwel.com/image/teams/1229.png",
     "away": "سيركل بروج",
@@ -608,6 +836,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأحد 2025/10/05",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "أندرلخت",
     "homeLogo": "https://jdwel.com/image/teams/1290.png",
     "away": "ستاندارد لييج",
@@ -616,6 +847,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "الأحد 2025/10/05",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "جينك",
     "homeLogo": "https://jdwel.com/image/teams/1501.png",
     "away": "دندر",
@@ -624,6 +858,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2025/10/05",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "كلوب بروج",
     "homeLogo": "https://jdwel.com/image/teams/2870.png",
     "away": "سانت خيلويزي",
@@ -632,6 +869,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الأحد 2025/10/05",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "فيستيرلو",
     "homeLogo": "https://jdwel.com/image/teams/bel_westerlo.png",
     "away": "أود هيفرلي لوفن",
@@ -640,6 +880,9 @@
     "time": "8:15 م"
   },
   {
+    "date": "السبت 2025/10/18",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "لا لوفيير",
     "homeLogo": "https://jdwel.com/image/teams/3376.png",
     "away": "فيستيرلو",
@@ -648,6 +891,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "السبت 2025/10/18",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "أود هيفرلي لوفن",
     "homeLogo": "https://jdwel.com/image/teams/3177.png",
     "away": "كلوب بروج",
@@ -656,6 +902,9 @@
     "time": "7:15 م"
   },
   {
+    "date": "السبت 2025/10/18",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "سانت خيلويزي",
     "homeLogo": "https://jdwel.com/image/teams/bel_union_saint-gilloise.png",
     "away": "رويال شارلروا",
@@ -664,6 +913,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأحد 2025/10/19",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "سيركل بروج",
     "homeLogo": "https://jdwel.com/image/teams/494.png",
     "away": "جينك",
@@ -672,6 +924,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "الأحد 2025/10/19",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "دندر",
     "homeLogo": "https://jdwel.com/image/teams/bel_dender.png",
     "away": "ميشيلن",
@@ -680,6 +935,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2025/10/19",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "سينت ترويدن",
     "homeLogo": "https://jdwel.com/image/teams/bel_sint-truiden.png",
     "away": "أندرلخت",
@@ -688,6 +946,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الأحد 2025/10/19",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "زولته فاريجيم",
     "homeLogo": "https://jdwel.com/image/teams/bel_zulte-waregem.png",
     "away": "جينت",
@@ -696,6 +957,9 @@
     "time": "8:15 م"
   },
   {
+    "date": "الأثنين 2025/10/20",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "ستاندارد لييج",
     "homeLogo": "https://jdwel.com/image/teams/bel_standard_liege.png",
     "away": "رويال أنتويرب",
@@ -704,6 +968,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الجمعة 2025/10/24",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "رويال شارلروا",
     "homeLogo": "https://jdwel.com/image/teams/bel_sporting_charleroi.png",
     "away": "أندرلخت",
@@ -712,6 +979,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "السبت 2025/10/25",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "فيستيرلو",
     "homeLogo": "https://jdwel.com/image/teams/bel_westerlo.png",
     "away": "دندر",
@@ -720,6 +990,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "السبت 2025/10/25",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "ميشيلن",
     "homeLogo": "https://jdwel.com/image/teams/bel_mechelen.png",
     "away": "أود هيفرلي لوفن",
@@ -728,6 +1001,9 @@
     "time": "7:15 م"
   },
   {
+    "date": "السبت 2025/10/25",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "جينت",
     "homeLogo": "https://jdwel.com/image/teams/3409.png",
     "away": "ستاندارد لييج",
@@ -736,6 +1012,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأحد 2025/10/26",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "رويال أنتويرب",
     "homeLogo": "https://jdwel.com/image/teams/1229.png",
     "away": "كلوب بروج",
@@ -744,6 +1023,9 @@
     "time": "3:30 م"
   },
   {
+    "date": "الأحد 2025/10/26",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "سيركل بروج",
     "homeLogo": "https://jdwel.com/image/teams/494.png",
     "away": "زولته فاريجيم",
@@ -752,6 +1034,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2025/10/26",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "جينك",
     "homeLogo": "https://jdwel.com/image/teams/1501.png",
     "away": "لا لوفيير",
@@ -760,6 +1045,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "الأحد 2025/10/26",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "سانت خيلويزي",
     "homeLogo": "https://jdwel.com/image/teams/bel_union_saint-gilloise.png",
     "away": "سينت ترويدن",
@@ -768,6 +1056,9 @@
     "time": "9:15 م"
   },
   {
+    "date": "الجمعة 2025/10/31",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "ستاندارد لييج",
     "homeLogo": "https://jdwel.com/image/teams/bel_standard_liege.png",
     "away": "رويال شارلروا",
@@ -776,6 +1067,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "السبت 2025/11/01",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "زولته فاريجيم",
     "homeLogo": "https://jdwel.com/image/teams/bel_zulte-waregem.png",
     "away": "سانت خيلويزي",
@@ -784,6 +1078,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "السبت 2025/11/01",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "كلوب بروج",
     "homeLogo": "https://jdwel.com/image/teams/2870.png",
     "away": "دندر",
@@ -792,6 +1089,9 @@
     "time": "7:15 م"
   },
   {
+    "date": "السبت 2025/11/01",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "أندرلخت",
     "homeLogo": "https://jdwel.com/image/teams/1290.png",
     "away": "ميشيلن",
@@ -800,6 +1100,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأحد 2025/11/02",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "فيستيرلو",
     "homeLogo": "https://jdwel.com/image/teams/bel_westerlo.png",
     "away": "جينك",
@@ -808,6 +1111,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "الأحد 2025/11/02",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "أود هيفرلي لوفن",
     "homeLogo": "https://jdwel.com/image/teams/3177.png",
     "away": "جينت",
@@ -816,6 +1122,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2025/11/02",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "سينت ترويدن",
     "homeLogo": "https://jdwel.com/image/teams/bel_sint-truiden.png",
     "away": "رويال أنتويرب",
@@ -824,6 +1133,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الأحد 2025/11/02",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "لا لوفيير",
     "homeLogo": "https://jdwel.com/image/teams/3376.png",
     "away": "سيركل بروج",
@@ -832,6 +1144,9 @@
     "time": "8:15 م"
   },
   {
+    "date": "الجمعة 2025/11/07",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "دندر",
     "homeLogo": "https://jdwel.com/image/teams/bel_dender.png",
     "away": "زولته فاريجيم",
@@ -840,6 +1155,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "السبت 2025/11/08",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "سيركل بروج",
     "homeLogo": "https://jdwel.com/image/teams/494.png",
     "away": "أود هيفرلي لوفن",
@@ -848,6 +1166,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "السبت 2025/11/08",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "رويال شارلروا",
     "homeLogo": "https://jdwel.com/image/teams/bel_sporting_charleroi.png",
     "away": "فيستيرلو",
@@ -856,6 +1177,9 @@
     "time": "7:15 م"
   },
   {
+    "date": "السبت 2025/11/08",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "رويال أنتويرب",
     "homeLogo": "https://jdwel.com/image/teams/1229.png",
     "away": "لا لوفيير",
@@ -864,6 +1188,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأحد 2025/11/09",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "أندرلخت",
     "homeLogo": "https://jdwel.com/image/teams/1290.png",
     "away": "كلوب بروج",
@@ -872,6 +1199,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "الأحد 2025/11/09",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "سينت ترويدن",
     "homeLogo": "https://jdwel.com/image/teams/bel_sint-truiden.png",
     "away": "ستاندارد لييج",
@@ -880,6 +1210,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2025/11/09",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "جينت",
     "homeLogo": "https://jdwel.com/image/teams/3409.png",
     "away": "جينك",
@@ -888,6 +1221,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الأحد 2025/11/09",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "ميشيلن",
     "homeLogo": "https://jdwel.com/image/teams/bel_mechelen.png",
     "away": "سانت خيلويزي",
@@ -896,6 +1232,9 @@
     "time": "8:15 م"
   },
   {
+    "date": "الجمعة 2025/11/21",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "ستاندارد لييج",
     "homeLogo": "https://jdwel.com/image/teams/bel_standard_liege.png",
     "away": "زولته فاريجيم",
@@ -904,6 +1243,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "السبت 2025/11/22",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "سانت خيلويزي",
     "homeLogo": "https://jdwel.com/image/teams/bel_union_saint-gilloise.png",
     "away": "سيركل بروج",
@@ -912,6 +1254,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "السبت 2025/11/22",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "فيستيرلو",
     "homeLogo": "https://jdwel.com/image/teams/bel_westerlo.png",
     "away": "جينت",
@@ -920,6 +1265,9 @@
     "time": "7:15 م"
   },
   {
+    "date": "السبت 2025/11/22",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "كلوب بروج",
     "homeLogo": "https://jdwel.com/image/teams/2870.png",
     "away": "رويال شارلروا",
@@ -928,6 +1276,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأحد 2025/11/23",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "جينك",
     "homeLogo": "https://jdwel.com/image/teams/1501.png",
     "away": "ميشيلن",
@@ -936,6 +1287,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "الأحد 2025/11/23",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "رويال أنتويرب",
     "homeLogo": "https://jdwel.com/image/teams/1229.png",
     "away": "دندر",
@@ -944,6 +1298,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2025/11/23",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "لا لوفيير",
     "homeLogo": "https://jdwel.com/image/teams/3376.png",
     "away": "أندرلخت",
@@ -952,6 +1309,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الأحد 2025/11/23",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "أود هيفرلي لوفن",
     "homeLogo": "https://jdwel.com/image/teams/3177.png",
     "away": "سينت ترويدن",
@@ -960,6 +1320,9 @@
     "time": "8:15 م"
   },
   {
+    "date": "الجمعة 2025/11/28",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "ميشيلن",
     "homeLogo": "https://jdwel.com/image/teams/bel_mechelen.png",
     "away": "ستاندارد لييج",
@@ -968,6 +1331,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "السبت 2025/11/29",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "دندر",
     "homeLogo": "https://jdwel.com/image/teams/bel_dender.png",
     "away": "فيستيرلو",
@@ -976,6 +1342,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "السبت 2025/11/29",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "زولته فاريجيم",
     "homeLogo": "https://jdwel.com/image/teams/bel_zulte-waregem.png",
     "away": "سيركل بروج",
@@ -984,6 +1353,9 @@
     "time": "7:15 م"
   },
   {
+    "date": "السبت 2025/11/29",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "رويال شارلروا",
     "homeLogo": "https://jdwel.com/image/teams/bel_sporting_charleroi.png",
     "away": "لا لوفيير",
@@ -992,6 +1364,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأحد 2025/11/30",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "كلوب بروج",
     "homeLogo": "https://jdwel.com/image/teams/2870.png",
     "away": "رويال أنتويرب",
@@ -1000,6 +1375,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "الأحد 2025/11/30",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "جينك",
     "homeLogo": "https://jdwel.com/image/teams/1501.png",
     "away": "أود هيفرلي لوفن",
@@ -1008,6 +1386,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2025/11/30",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "أندرلخت",
     "homeLogo": "https://jdwel.com/image/teams/1290.png",
     "away": "سانت خيلويزي",
@@ -1016,6 +1397,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الأحد 2025/11/30",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "جينت",
     "homeLogo": "https://jdwel.com/image/teams/3409.png",
     "away": "سينت ترويدن",
@@ -1024,6 +1408,9 @@
     "time": "8:15 م"
   },
   {
+    "date": "الجمعة 2025/12/05",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "لا لوفيير",
     "homeLogo": "https://jdwel.com/image/teams/3376.png",
     "away": "دندر",
@@ -1032,6 +1419,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "السبت 2025/12/06",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "سيركل بروج",
     "homeLogo": "https://jdwel.com/image/teams/494.png",
     "away": "ستاندارد لييج",
@@ -1040,6 +1430,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "السبت 2025/12/06",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "سانت خيلويزي",
     "homeLogo": "https://jdwel.com/image/teams/bel_union_saint-gilloise.png",
     "away": "جينت",
@@ -1048,6 +1441,9 @@
     "time": "7:15 م"
   },
   {
+    "date": "السبت 2025/12/06",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "سينت ترويدن",
     "homeLogo": "https://jdwel.com/image/teams/bel_sint-truiden.png",
     "away": "كلوب بروج",
@@ -1056,6 +1452,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأحد 2025/12/07",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "ميشيلن",
     "homeLogo": "https://jdwel.com/image/teams/bel_mechelen.png",
     "away": "رويال شارلروا",
@@ -1064,6 +1463,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "الأحد 2025/12/07",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "فيستيرلو",
     "homeLogo": "https://jdwel.com/image/teams/bel_westerlo.png",
     "away": "أندرلخت",
@@ -1072,6 +1474,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2025/12/07",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "رويال أنتويرب",
     "homeLogo": "https://jdwel.com/image/teams/1229.png",
     "away": "جينك",
@@ -1080,6 +1485,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الأحد 2025/12/07",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "أود هيفرلي لوفن",
     "homeLogo": "https://jdwel.com/image/teams/3177.png",
     "away": "زولته فاريجيم",
@@ -1088,6 +1496,9 @@
     "time": "8:15 م"
   },
   {
+    "date": "الجمعة 2025/12/12",
+    "round": "الجولة 18",
+    "status": "انتهت",
     "home": "ستاندارد لييج",
     "homeLogo": "https://jdwel.com/image/teams/bel_standard_liege.png",
     "away": "أود هيفرلي لوفن",
@@ -1096,6 +1507,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "السبت 2025/12/13",
+    "round": "الجولة 18",
+    "status": "انتهت",
     "home": "سيركل بروج",
     "homeLogo": "https://jdwel.com/image/teams/494.png",
     "away": "ميشيلن",
@@ -1104,6 +1518,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "السبت 2025/12/13",
+    "round": "الجولة 18",
+    "status": "انتهت",
     "home": "زولته فاريجيم",
     "homeLogo": "https://jdwel.com/image/teams/bel_zulte-waregem.png",
     "away": "لا لوفيير",
@@ -1112,6 +1529,9 @@
     "time": "7:15 م"
   },
   {
+    "date": "السبت 2025/12/13",
+    "round": "الجولة 18",
+    "status": "انتهت",
     "home": "أندرلخت",
     "homeLogo": "https://jdwel.com/image/teams/1290.png",
     "away": "سينت ترويدن",
@@ -1120,6 +1540,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأحد 2025/12/14",
+    "round": "الجولة 18",
+    "status": "انتهت",
     "home": "جينت",
     "homeLogo": "https://jdwel.com/image/teams/3409.png",
     "away": "رويال أنتويرب",
@@ -1128,6 +1551,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "الأحد 2025/12/14",
+    "round": "الجولة 18",
+    "status": "انتهت",
     "home": "دندر",
     "homeLogo": "https://jdwel.com/image/teams/bel_dender.png",
     "away": "كلوب بروج",
@@ -1136,6 +1562,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2025/12/14",
+    "round": "الجولة 18",
+    "status": "انتهت",
     "home": "رويال شارلروا",
     "homeLogo": "https://jdwel.com/image/teams/bel_sporting_charleroi.png",
     "away": "سانت خيلويزي",
@@ -1144,6 +1573,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الأحد 2025/12/14",
+    "round": "الجولة 18",
+    "status": "انتهت",
     "home": "جينك",
     "homeLogo": "https://jdwel.com/image/teams/1501.png",
     "away": "فيستيرلو",
@@ -1152,6 +1584,9 @@
     "time": "8:15 م"
   },
   {
+    "date": "الجمعة 2025/12/19",
+    "round": "الجولة 19",
+    "status": "انتهت",
     "home": "رويال شارلروا",
     "homeLogo": "https://jdwel.com/image/teams/bel_sporting_charleroi.png",
     "away": "جينك",
@@ -1160,6 +1595,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "السبت 2025/12/20",
+    "round": "الجولة 19",
+    "status": "انتهت",
     "home": "دندر",
     "homeLogo": "https://jdwel.com/image/teams/bel_dender.png",
     "away": "ستاندارد لييج",
@@ -1168,6 +1606,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "السبت 2025/12/20",
+    "round": "الجولة 19",
+    "status": "انتهت",
     "home": "فيستيرلو",
     "homeLogo": "https://jdwel.com/image/teams/bel_westerlo.png",
     "away": "لا لوفيير",
@@ -1176,6 +1617,9 @@
     "time": "7:15 م"
   },
   {
+    "date": "السبت 2025/12/20",
+    "round": "الجولة 19",
+    "status": "انتهت",
     "home": "سانت خيلويزي",
     "homeLogo": "https://jdwel.com/image/teams/bel_union_saint-gilloise.png",
     "away": "زولته فاريجيم",
@@ -1184,6 +1628,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأحد 2025/12/21",
+    "round": "الجولة 19",
+    "status": "انتهت",
     "home": "كلوب بروج",
     "homeLogo": "https://jdwel.com/image/teams/2870.png",
     "away": "جينت",
@@ -1192,6 +1639,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "الأحد 2025/12/21",
+    "round": "الجولة 19",
+    "status": "انتهت",
     "home": "سينت ترويدن",
     "homeLogo": "https://jdwel.com/image/teams/bel_sint-truiden.png",
     "away": "ميشيلن",
@@ -1200,6 +1650,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2025/12/21",
+    "round": "الجولة 19",
+    "status": "انتهت",
     "home": "رويال أنتويرب",
     "homeLogo": "https://jdwel.com/image/teams/1229.png",
     "away": "أندرلخت",
@@ -1208,6 +1661,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الأحد 2025/12/21",
+    "round": "الجولة 19",
+    "status": "انتهت",
     "home": "أود هيفرلي لوفن",
     "homeLogo": "https://jdwel.com/image/teams/3177.png",
     "away": "سيركل بروج",
@@ -1216,6 +1672,9 @@
     "time": "8:15 م"
   },
   {
+    "date": "الجمعة 2025/12/26",
+    "round": "الجولة 20",
+    "status": "انتهت",
     "home": "جينك",
     "homeLogo": "https://jdwel.com/image/teams/1501.png",
     "away": "كلوب بروج",
@@ -1224,6 +1683,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "الجمعة 2025/12/26",
+    "round": "الجولة 20",
+    "status": "انتهت",
     "home": "سيركل بروج",
     "homeLogo": "https://jdwel.com/image/teams/494.png",
     "away": "سانت خيلويزي",
@@ -1232,6 +1694,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الجمعة 2025/12/26",
+    "round": "الجولة 20",
+    "status": "انتهت",
     "home": "ستاندارد لييج",
     "homeLogo": "https://jdwel.com/image/teams/bel_standard_liege.png",
     "away": "سينت ترويدن",
@@ -1240,6 +1705,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الجمعة 2025/12/26",
+    "round": "الجولة 20",
+    "status": "انتهت",
     "home": "أندرلخت",
     "homeLogo": "https://jdwel.com/image/teams/1290.png",
     "away": "رويال شارلروا",
@@ -1248,6 +1716,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "السبت 2025/12/27",
+    "round": "الجولة 20",
+    "status": "انتهت",
     "home": "رويال أنتويرب",
     "homeLogo": "https://jdwel.com/image/teams/1229.png",
     "away": "زولته فاريجيم",
@@ -1256,6 +1727,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "السبت 2025/12/27",
+    "round": "الجولة 20",
+    "status": "انتهت",
     "home": "لا لوفيير",
     "homeLogo": "https://jdwel.com/image/teams/3376.png",
     "away": "أود هيفرلي لوفن",
@@ -1264,6 +1738,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "السبت 2025/12/27",
+    "round": "الجولة 20",
+    "status": "انتهت",
     "home": "ميشيلن",
     "homeLogo": "https://jdwel.com/image/teams/bel_mechelen.png",
     "away": "دندر",
@@ -1272,6 +1749,9 @@
     "time": "7:15 م"
   },
   {
+    "date": "السبت 2025/12/27",
+    "round": "الجولة 20",
+    "status": "انتهت",
     "home": "جينت",
     "homeLogo": "https://jdwel.com/image/teams/3409.png",
     "away": "فيستيرلو",
@@ -1280,6 +1760,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الجمعة 2026/01/16",
+    "round": "الجولة 21",
+    "status": "انتهت",
     "home": "كلوب بروج",
     "homeLogo": "https://jdwel.com/image/teams/2870.png",
     "away": "لا لوفيير",
@@ -1288,6 +1771,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "السبت 2026/01/17",
+    "round": "الجولة 21",
+    "status": "انتهت",
     "home": "زولته فاريجيم",
     "homeLogo": "https://jdwel.com/image/teams/bel_zulte-waregem.png",
     "away": "جينك",
@@ -1296,6 +1782,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "السبت 2026/01/17",
+    "round": "الجولة 21",
+    "status": "انتهت",
     "home": "فيستيرلو",
     "homeLogo": "https://jdwel.com/image/teams/bel_westerlo.png",
     "away": "سيركل بروج",
@@ -1304,6 +1793,9 @@
     "time": "7:15 م"
   },
   {
+    "date": "السبت 2026/01/17",
+    "round": "الجولة 21",
+    "status": "انتهت",
     "home": "سانت خيلويزي",
     "homeLogo": "https://jdwel.com/image/teams/bel_union_saint-gilloise.png",
     "away": "ميشيلن",
@@ -1312,6 +1804,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأحد 2026/01/18",
+    "round": "الجولة 21",
+    "status": "انتهت",
     "home": "جينت",
     "homeLogo": "https://jdwel.com/image/teams/3409.png",
     "away": "أندرلخت",
@@ -1320,6 +1815,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "الأحد 2026/01/18",
+    "round": "الجولة 21",
+    "status": "انتهت",
     "home": "دندر",
     "homeLogo": "https://jdwel.com/image/teams/bel_dender.png",
     "away": "رويال أنتويرب",
@@ -1328,6 +1826,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2026/01/18",
+    "round": "الجولة 21",
+    "status": "انتهت",
     "home": "رويال شارلروا",
     "homeLogo": "https://jdwel.com/image/teams/bel_sporting_charleroi.png",
     "away": "ستاندارد لييج",
@@ -1336,6 +1837,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الأحد 2026/01/18",
+    "round": "الجولة 21",
+    "status": "انتهت",
     "home": "سينت ترويدن",
     "homeLogo": "https://jdwel.com/image/teams/bel_sint-truiden.png",
     "away": "أود هيفرلي لوفن",
@@ -1344,6 +1848,9 @@
     "time": "8:15 م"
   },
   {
+    "date": "الجمعة 2026/01/23",
+    "round": "الجولة 22",
+    "status": "انتهت",
     "home": "ستاندارد لييج",
     "homeLogo": "https://jdwel.com/image/teams/bel_standard_liege.png",
     "away": "جينت",
@@ -1352,6 +1859,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "السبت 2026/01/24",
+    "round": "الجولة 22",
+    "status": "انتهت",
     "home": "لا لوفيير",
     "homeLogo": "https://jdwel.com/image/teams/3376.png",
     "away": "سينت ترويدن",
@@ -1360,6 +1870,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "السبت 2026/01/24",
+    "round": "الجولة 22",
+    "status": "انتهت",
     "home": "كلوب بروج",
     "homeLogo": "https://jdwel.com/image/teams/2870.png",
     "away": "زولته فاريجيم",
@@ -1368,6 +1881,9 @@
     "time": "7:15 م"
   },
   {
+    "date": "السبت 2026/01/24",
+    "round": "الجولة 22",
+    "status": "انتهت",
     "home": "أود هيفرلي لوفن",
     "homeLogo": "https://jdwel.com/image/teams/3177.png",
     "away": "سانت خيلويزي",
@@ -1376,6 +1892,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأحد 2026/01/25",
+    "round": "الجولة 22",
+    "status": "انتهت",
     "home": "رويال أنتويرب",
     "homeLogo": "https://jdwel.com/image/teams/1229.png",
     "away": "رويال شارلروا",
@@ -1384,6 +1903,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "الأحد 2026/01/25",
+    "round": "الجولة 22",
+    "status": "انتهت",
     "home": "جينك",
     "homeLogo": "https://jdwel.com/image/teams/1501.png",
     "away": "سيركل بروج",
@@ -1392,6 +1914,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2026/01/25",
+    "round": "الجولة 22",
+    "status": "انتهت",
     "home": "أندرلخت",
     "homeLogo": "https://jdwel.com/image/teams/1290.png",
     "away": "دندر",
@@ -1400,6 +1925,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الأحد 2026/01/25",
+    "round": "الجولة 22",
+    "status": "انتهت",
     "home": "ميشيلن",
     "homeLogo": "https://jdwel.com/image/teams/bel_mechelen.png",
     "away": "فيستيرلو",
@@ -1408,6 +1936,9 @@
     "time": "8:15 م"
   },
   {
+    "date": "الجمعة 2026/01/30",
+    "round": "الجولة 23",
+    "status": "انتهت",
     "home": "لا لوفيير",
     "homeLogo": "https://jdwel.com/image/teams/3376.png",
     "away": "جينت",
@@ -1416,6 +1947,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "السبت 2026/01/31",
+    "round": "الجولة 23",
+    "status": "انتهت",
     "home": "سيركل بروج",
     "homeLogo": "https://jdwel.com/image/teams/494.png",
     "away": "رويال أنتويرب",
@@ -1424,6 +1958,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "السبت 2026/01/31",
+    "round": "الجولة 23",
+    "status": "انتهت",
     "home": "زولته فاريجيم",
     "homeLogo": "https://jdwel.com/image/teams/bel_zulte-waregem.png",
     "away": "فيستيرلو",
@@ -1432,6 +1969,9 @@
     "time": "7:15 م"
   },
   {
+    "date": "السبت 2026/01/31",
+    "round": "الجولة 23",
+    "status": "انتهت",
     "home": "سينت ترويدن",
     "homeLogo": "https://jdwel.com/image/teams/bel_sint-truiden.png",
     "away": "رويال شارلروا",
@@ -1440,6 +1980,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأحد 2026/02/01",
+    "round": "الجولة 23",
+    "status": "انتهت",
     "home": "ستاندارد لييج",
     "homeLogo": "https://jdwel.com/image/teams/bel_standard_liege.png",
     "away": "أندرلخت",
@@ -1448,6 +1991,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "الأحد 2026/02/01",
+    "round": "الجولة 23",
+    "status": "انتهت",
     "home": "دندر",
     "homeLogo": "https://jdwel.com/image/teams/bel_dender.png",
     "away": "جينك",
@@ -1456,6 +2002,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2026/02/01",
+    "round": "الجولة 23",
+    "status": "انتهت",
     "home": "سانت خيلويزي",
     "homeLogo": "https://jdwel.com/image/teams/bel_union_saint-gilloise.png",
     "away": "كلوب بروج",
@@ -1464,6 +2013,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الأحد 2026/02/01",
+    "round": "الجولة 23",
+    "status": "انتهت",
     "home": "أود هيفرلي لوفن",
     "homeLogo": "https://jdwel.com/image/teams/3177.png",
     "away": "ميشيلن",
@@ -1472,6 +2024,9 @@
     "time": "8:15 م"
   },
   {
+    "date": "الجمعة 2026/02/06",
+    "round": "الجولة 24",
+    "status": "قريباً",
     "home": "فيستيرلو",
     "homeLogo": "https://jdwel.com/image/teams/bel_westerlo.png",
     "away": "سينت ترويدن",
@@ -1480,6 +2035,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "السبت 2026/02/07",
+    "round": "الجولة 24",
+    "status": "قريباً",
     "home": "زولته فاريجيم",
     "homeLogo": "https://jdwel.com/image/teams/bel_zulte-waregem.png",
     "away": "دندر",
@@ -1488,6 +2046,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "السبت 2026/02/07",
+    "round": "الجولة 24",
+    "status": "قريباً",
     "home": "رويال شارلروا",
     "homeLogo": "https://jdwel.com/image/teams/bel_sporting_charleroi.png",
     "away": "سيركل بروج",
@@ -1496,6 +2057,9 @@
     "time": "7:15 م"
   },
   {
+    "date": "السبت 2026/02/07",
+    "round": "الجولة 24",
+    "status": "قريباً",
     "home": "جينت",
     "homeLogo": "https://jdwel.com/image/teams/3409.png",
     "away": "أود هيفرلي لوفن",
@@ -1504,6 +2068,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأحد 2026/02/08",
+    "round": "الجولة 24",
+    "status": "قريباً",
     "home": "جينك",
     "homeLogo": "https://jdwel.com/image/teams/1501.png",
     "away": "أندرلخت",
@@ -1512,6 +2079,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "الأحد 2026/02/08",
+    "round": "الجولة 24",
+    "status": "قريباً",
     "home": "سانت خيلويزي",
     "homeLogo": "https://jdwel.com/image/teams/bel_union_saint-gilloise.png",
     "away": "لا لوفيير",
@@ -1520,6 +2090,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2026/02/08",
+    "round": "الجولة 24",
+    "status": "قريباً",
     "home": "كلوب بروج",
     "homeLogo": "https://jdwel.com/image/teams/2870.png",
     "away": "ستاندارد لييج",
@@ -1528,6 +2101,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الأحد 2026/02/08",
+    "round": "الجولة 24",
+    "status": "قريباً",
     "home": "ميشيلن",
     "homeLogo": "https://jdwel.com/image/teams/bel_mechelen.png",
     "away": "رويال أنتويرب",
@@ -1536,6 +2112,9 @@
     "time": "8:15 م"
   },
   {
+    "date": "الجمعة 2026/02/13",
+    "round": "الجولة 25",
+    "status": "قريباً",
     "home": "ميشيلن",
     "homeLogo": "https://jdwel.com/image/teams/bel_mechelen.png",
     "away": "جينك",
@@ -1544,6 +2123,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "السبت 2026/02/14",
+    "round": "الجولة 25",
+    "status": "قريباً",
     "home": "أود هيفرلي لوفن",
     "homeLogo": "https://jdwel.com/image/teams/3177.png",
     "away": "دندر",
@@ -1552,6 +2134,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "السبت 2026/02/14",
+    "round": "الجولة 25",
+    "status": "قريباً",
     "home": "رويال شارلروا",
     "homeLogo": "https://jdwel.com/image/teams/bel_sporting_charleroi.png",
     "away": "جينت",
@@ -1560,6 +2145,9 @@
     "time": "7:15 م"
   },
   {
+    "date": "السبت 2026/02/14",
+    "round": "الجولة 25",
+    "status": "قريباً",
     "home": "ستاندارد لييج",
     "homeLogo": "https://jdwel.com/image/teams/bel_standard_liege.png",
     "away": "سانت خيلويزي",
@@ -1568,6 +2156,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأحد 2026/02/15",
+    "round": "الجولة 25",
+    "status": "قريباً",
     "home": "سيركل بروج",
     "homeLogo": "https://jdwel.com/image/teams/494.png",
     "away": "كلوب بروج",
@@ -1576,6 +2167,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "الأحد 2026/02/15",
+    "round": "الجولة 25",
+    "status": "قريباً",
     "home": "رويال أنتويرب",
     "homeLogo": "https://jdwel.com/image/teams/1229.png",
     "away": "فيستيرلو",
@@ -1584,6 +2178,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2026/02/15",
+    "round": "الجولة 25",
+    "status": "قريباً",
     "home": "أندرلخت",
     "homeLogo": "https://jdwel.com/image/teams/1290.png",
     "away": "لا لوفيير",
@@ -1592,6 +2189,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الأحد 2026/02/15",
+    "round": "الجولة 25",
+    "status": "قريباً",
     "home": "سينت ترويدن",
     "homeLogo": "https://jdwel.com/image/teams/bel_sint-truiden.png",
     "away": "زولته فاريجيم",
@@ -1600,6 +2200,9 @@
     "time": "8:15 م"
   },
   {
+    "date": "الجمعة 2026/02/20",
+    "round": "الجولة 26",
+    "status": "قريباً",
     "home": "جينت",
     "homeLogo": "https://jdwel.com/image/teams/3409.png",
     "away": "سيركل بروج",
@@ -1608,6 +2211,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "السبت 2026/02/21",
+    "round": "الجولة 26",
+    "status": "قريباً",
     "home": "دندر",
     "homeLogo": "https://jdwel.com/image/teams/bel_dender.png",
     "away": "سينت ترويدن",
@@ -1616,6 +2222,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "السبت 2026/02/21",
+    "round": "الجولة 26",
+    "status": "قريباً",
     "home": "كلوب بروج",
     "homeLogo": "https://jdwel.com/image/teams/2870.png",
     "away": "أود هيفرلي لوفن",
@@ -1624,6 +2233,9 @@
     "time": "7:15 م"
   },
   {
+    "date": "السبت 2026/02/21",
+    "round": "الجولة 26",
+    "status": "قريباً",
     "home": "سانت خيلويزي",
     "homeLogo": "https://jdwel.com/image/teams/bel_union_saint-gilloise.png",
     "away": "رويال أنتويرب",
@@ -1632,6 +2244,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأحد 2026/02/22",
+    "round": "الجولة 26",
+    "status": "قريباً",
     "home": "جينك",
     "homeLogo": "https://jdwel.com/image/teams/1501.png",
     "away": "ستاندارد لييج",
@@ -1640,6 +2255,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "الأحد 2026/02/22",
+    "round": "الجولة 26",
+    "status": "قريباً",
     "home": "لا لوفيير",
     "homeLogo": "https://jdwel.com/image/teams/3376.png",
     "away": "ميشيلن",
@@ -1648,6 +2266,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2026/02/22",
+    "round": "الجولة 26",
+    "status": "قريباً",
     "home": "زولته فاريجيم",
     "homeLogo": "https://jdwel.com/image/teams/bel_zulte-waregem.png",
     "away": "أندرلخت",
@@ -1656,6 +2277,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الأحد 2026/02/22",
+    "round": "الجولة 26",
+    "status": "قريباً",
     "home": "فيستيرلو",
     "homeLogo": "https://jdwel.com/image/teams/bel_westerlo.png",
     "away": "رويال شارلروا",
@@ -1664,6 +2288,9 @@
     "time": "8:15 م"
   },
   {
+    "date": "الجمعة 2026/02/27",
+    "round": "الجولة 27",
+    "status": "قريباً",
     "home": "ستاندارد لييج",
     "homeLogo": "https://jdwel.com/image/teams/bel_standard_liege.png",
     "away": "لا لوفيير",
@@ -1672,6 +2299,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "السبت 2026/02/28",
+    "round": "الجولة 27",
+    "status": "قريباً",
     "home": "ميشيلن",
     "homeLogo": "https://jdwel.com/image/teams/bel_mechelen.png",
     "away": "زولته فاريجيم",
@@ -1680,6 +2310,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "السبت 2026/02/28",
+    "round": "الجولة 27",
+    "status": "قريباً",
     "home": "رويال أنتويرب",
     "homeLogo": "https://jdwel.com/image/teams/1229.png",
     "away": "سينت ترويدن",
@@ -1688,6 +2321,9 @@
     "time": "7:15 م"
   },
   {
+    "date": "السبت 2026/02/28",
+    "round": "الجولة 27",
+    "status": "قريباً",
     "home": "أندرلخت",
     "homeLogo": "https://jdwel.com/image/teams/1290.png",
     "away": "أود هيفرلي لوفن",
@@ -1696,6 +2332,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأحد 2026/03/01",
+    "round": "الجولة 27",
+    "status": "قريباً",
     "home": "جينك",
     "homeLogo": "https://jdwel.com/image/teams/1501.png",
     "away": "جينت",
@@ -1704,6 +2343,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "الأحد 2026/03/01",
+    "round": "الجولة 27",
+    "status": "قريباً",
     "home": "فيستيرلو",
     "homeLogo": "https://jdwel.com/image/teams/bel_westerlo.png",
     "away": "سانت خيلويزي",
@@ -1712,6 +2354,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2026/03/01",
+    "round": "الجولة 27",
+    "status": "قريباً",
     "home": "رويال شارلروا",
     "homeLogo": "https://jdwel.com/image/teams/bel_sporting_charleroi.png",
     "away": "كلوب بروج",
@@ -1720,6 +2365,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الأحد 2026/03/01",
+    "round": "الجولة 27",
+    "status": "قريباً",
     "home": "سيركل بروج",
     "homeLogo": "https://jdwel.com/image/teams/494.png",
     "away": "دندر",
@@ -1728,6 +2376,9 @@
     "time": "8:15 م"
   },
   {
+    "date": "الجمعة 2026/03/06",
+    "round": "الجولة 28",
+    "status": "قريباً",
     "home": "لا لوفيير",
     "homeLogo": "https://jdwel.com/image/teams/3376.png",
     "away": "رويال أنتويرب",
@@ -1736,6 +2387,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "السبت 2026/03/07",
+    "round": "الجولة 28",
+    "status": "قريباً",
     "home": "أود هيفرلي لوفن",
     "homeLogo": "https://jdwel.com/image/teams/3177.png",
     "away": "فيستيرلو",
@@ -1744,6 +2398,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "السبت 2026/03/07",
+    "round": "الجولة 28",
+    "status": "قريباً",
     "home": "دندر",
     "homeLogo": "https://jdwel.com/image/teams/bel_dender.png",
     "away": "رويال شارلروا",
@@ -1752,6 +2409,9 @@
     "time": "7:15 م"
   },
   {
+    "date": "السبت 2026/03/07",
+    "round": "الجولة 28",
+    "status": "قريباً",
     "home": "سانت خيلويزي",
     "homeLogo": "https://jdwel.com/image/teams/bel_union_saint-gilloise.png",
     "away": "جينك",
@@ -1760,6 +2420,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأحد 2026/03/08",
+    "round": "الجولة 28",
+    "status": "قريباً",
     "home": "كلوب بروج",
     "homeLogo": "https://jdwel.com/image/teams/2870.png",
     "away": "أندرلخت",
@@ -1768,6 +2431,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "الأحد 2026/03/08",
+    "round": "الجولة 28",
+    "status": "قريباً",
     "home": "جينت",
     "homeLogo": "https://jdwel.com/image/teams/3409.png",
     "away": "ميشيلن",
@@ -1776,6 +2442,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2026/03/08",
+    "round": "الجولة 28",
+    "status": "قريباً",
     "home": "زولته فاريجيم",
     "homeLogo": "https://jdwel.com/image/teams/bel_zulte-waregem.png",
     "away": "ستاندارد لييج",
@@ -1784,6 +2453,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الأحد 2026/03/08",
+    "round": "الجولة 28",
+    "status": "قريباً",
     "home": "سينت ترويدن",
     "homeLogo": "https://jdwel.com/image/teams/bel_sint-truiden.png",
     "away": "سيركل بروج",
@@ -1792,6 +2464,9 @@
     "time": "8:15 م"
   },
   {
+    "date": "الجمعة 2026/03/13",
+    "round": "الجولة 29",
+    "status": "قريباً",
     "home": "جينت",
     "homeLogo": "https://jdwel.com/image/teams/3409.png",
     "away": "زولته فاريجيم",
@@ -1800,6 +2475,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "السبت 2026/03/14",
+    "round": "الجولة 29",
+    "status": "قريباً",
     "home": "رويال شارلروا",
     "homeLogo": "https://jdwel.com/image/teams/bel_sporting_charleroi.png",
     "away": "أود هيفرلي لوفن",
@@ -1808,6 +2486,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "السبت 2026/03/14",
+    "round": "الجولة 29",
+    "status": "قريباً",
     "home": "سانت خيلويزي",
     "homeLogo": "https://jdwel.com/image/teams/bel_union_saint-gilloise.png",
     "away": "دندر",
@@ -1816,6 +2497,9 @@
     "time": "7:15 م"
   },
   {
+    "date": "السبت 2026/03/14",
+    "round": "الجولة 29",
+    "status": "قريباً",
     "home": "فيستيرلو",
     "homeLogo": "https://jdwel.com/image/teams/bel_westerlo.png",
     "away": "كلوب بروج",
@@ -1824,6 +2508,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأحد 2026/03/15",
+    "round": "الجولة 29",
+    "status": "قريباً",
     "home": "جينك",
     "homeLogo": "https://jdwel.com/image/teams/1501.png",
     "away": "سينت ترويدن",
@@ -1832,6 +2519,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "الأحد 2026/03/15",
+    "round": "الجولة 29",
+    "status": "قريباً",
     "home": "رويال أنتويرب",
     "homeLogo": "https://jdwel.com/image/teams/1229.png",
     "away": "ستاندارد لييج",
@@ -1840,6 +2530,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2026/03/15",
+    "round": "الجولة 29",
+    "status": "قريباً",
     "home": "ميشيلن",
     "homeLogo": "https://jdwel.com/image/teams/bel_mechelen.png",
     "away": "أندرلخت",
@@ -1848,6 +2541,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الأحد 2026/03/15",
+    "round": "الجولة 29",
+    "status": "قريباً",
     "home": "سيركل بروج",
     "homeLogo": "https://jdwel.com/image/teams/494.png",
     "away": "لا لوفيير",
@@ -1856,6 +2552,9 @@
     "time": "8:15 م"
   },
   {
+    "date": "الأحد 2026/03/22",
+    "round": "الجولة 30",
+    "status": "قريباً",
     "home": "كلوب بروج",
     "homeLogo": "https://jdwel.com/image/teams/2870.png",
     "away": "ميشيلن",
@@ -1864,6 +2563,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الأحد 2026/03/22",
+    "round": "الجولة 30",
+    "status": "قريباً",
     "home": "دندر",
     "homeLogo": "https://jdwel.com/image/teams/bel_dender.png",
     "away": "جينت",
@@ -1872,6 +2574,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الأحد 2026/03/22",
+    "round": "الجولة 30",
+    "status": "قريباً",
     "home": "أود هيفرلي لوفن",
     "homeLogo": "https://jdwel.com/image/teams/3177.png",
     "away": "رويال أنتويرب",
@@ -1880,6 +2585,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الأحد 2026/03/22",
+    "round": "الجولة 30",
+    "status": "قريباً",
     "home": "لا لوفيير",
     "homeLogo": "https://jdwel.com/image/teams/3376.png",
     "away": "جينك",
@@ -1888,6 +2596,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الأحد 2026/03/22",
+    "round": "الجولة 30",
+    "status": "قريباً",
     "home": "أندرلخت",
     "homeLogo": "https://jdwel.com/image/teams/1290.png",
     "away": "سيركل بروج",
@@ -1896,6 +2607,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الأحد 2026/03/22",
+    "round": "الجولة 30",
+    "status": "قريباً",
     "home": "سينت ترويدن",
     "homeLogo": "https://jdwel.com/image/teams/bel_sint-truiden.png",
     "away": "سانت خيلويزي",
@@ -1904,6 +2618,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الأحد 2026/03/22",
+    "round": "الجولة 30",
+    "status": "قريباً",
     "home": "ستاندارد لييج",
     "homeLogo": "https://jdwel.com/image/teams/bel_standard_liege.png",
     "away": "فيستيرلو",
@@ -1912,6 +2629,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الأحد 2026/03/22",
+    "round": "الجولة 30",
+    "status": "قريباً",
     "home": "زولته فاريجيم",
     "homeLogo": "https://jdwel.com/image/teams/bel_zulte-waregem.png",
     "away": "رويال شارلروا",

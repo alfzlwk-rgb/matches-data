@@ -1,5 +1,8 @@
 [
   {
+    "date": "الأثنين 2025/12/22",
+    "round": "",
+    "status": "انتهت",
     "home": "فاسكو دا غاما",
     "homeLogo": "https://jdwel.com/image/teams/891.png",
     "away": "كورينثيانز",
@@ -8,6 +11,9 @@
     "time": "11:00 م"
   },
   {
+    "date": "الخميس 2025/12/18",
+    "round": "",
+    "status": "انتهت",
     "home": "كورينثيانز",
     "homeLogo": "https://jdwel.com/image/teams/900.png",
     "away": "فاسكو دا غاما",
@@ -16,6 +22,9 @@
     "time": "2:30 ص"
   },
   {
+    "date": "الأثنين 2025/12/15",
+    "round": "",
+    "status": "انتهت",
     "home": "فلومينينسي",
     "homeLogo": "https://jdwel.com/image/teams/bra_fluminense.png",
     "away": "فاسكو دا غاما",
@@ -24,6 +33,9 @@
     "time": "1:30 ص"
   },
   {
+    "date": "الأثنين 2025/12/15",
+    "round": "",
+    "status": "انتهت",
     "home": "كورينثيانز",
     "homeLogo": "https://jdwel.com/image/teams/900.png",
     "away": "كروزيرو",
@@ -32,6 +44,9 @@
     "time": "11:00 م"
   },
   {
+    "date": "الجمعة 2025/12/12",
+    "round": "",
+    "status": "انتهت",
     "home": "فاسكو دا غاما",
     "homeLogo": "https://jdwel.com/image/teams/891.png",
     "away": "فلومينينسي",
@@ -40,6 +55,9 @@
     "time": "1:00 ص"
   },
   {
+    "date": "الخميس 2025/12/11",
+    "round": "",
+    "status": "انتهت",
     "home": "كروزيرو",
     "homeLogo": "https://jdwel.com/image/teams/886.png",
     "away": "كورينثيانز",
@@ -48,6 +66,9 @@
     "time": "2:30 ص"
   },
   {
+    "date": "الجمعة 2025/09/12",
+    "round": "",
+    "status": "انتهت",
     "home": "بوتافوغو",
     "homeLogo": "https://jdwel.com/image/teams/1098.png",
     "away": "فاسكو دا غاما",
@@ -56,6 +77,9 @@
     "time": "3:30 ص"
   },
   {
+    "date": "الجمعة 2025/09/12",
+    "round": "",
+    "status": "انتهت",
     "home": "كروزيرو",
     "homeLogo": "https://jdwel.com/image/teams/886.png",
     "away": "أتليتيكو مينيرو",
@@ -64,6 +88,9 @@
     "time": "1:30 ص"
   },
   {
+    "date": "الخميس 2025/09/11",
+    "round": "",
+    "status": "انتهت",
     "home": "كورينثيانز",
     "homeLogo": "https://jdwel.com/image/teams/900.png",
     "away": "أتلتيكو باراناينسي",
@@ -72,6 +99,9 @@
     "time": "3:30 ص"
   },
   {
+    "date": "الخميس 2025/09/11",
+    "round": "",
+    "status": "انتهت",
     "home": "فلومينينسي",
     "homeLogo": "https://jdwel.com/image/teams/bra_fluminense.png",
     "away": "باهيا",
@@ -80,6 +110,9 @@
     "time": "1:00 ص"
   },
   {
+    "date": "الجمعة 2025/08/29",
+    "round": "",
+    "status": "انتهت",
     "home": "باهيا",
     "homeLogo": "https://jdwel.com/image/teams/3056.png",
     "away": "فلومينينسي",
@@ -88,6 +121,9 @@
     "time": "1:30 ص"
   },
   {
+    "date": "الخميس 2025/08/28",
+    "round": "",
+    "status": "انتهت",
     "home": "أتلتيكو باراناينسي",
     "homeLogo": "https://jdwel.com/image/teams/888.png",
     "away": "كورينثيانز",
@@ -96,6 +132,9 @@
     "time": "3:30 ص"
   },
   {
+    "date": "الخميس 2025/08/28",
+    "round": "",
+    "status": "انتهت",
     "home": "فاسكو دا غاما",
     "homeLogo": "https://jdwel.com/image/teams/891.png",
     "away": "بوتافوغو",
@@ -104,6 +143,9 @@
     "time": "3:30 ص"
   },
   {
+    "date": "الخميس 2025/08/28",
+    "round": "",
+    "status": "انتهت",
     "home": "أتليتيكو مينيرو",
     "homeLogo": "https://jdwel.com/image/teams/2968.png",
     "away": "كروزيرو",
@@ -112,6 +154,9 @@
     "time": "1:30 ص"
   },
   {
+    "date": "الجمعة 2025/08/08",
+    "round": "",
+    "status": "انتهت",
     "home": "سي آر بي",
     "homeLogo": "https://jdwel.com/image/teams/bra_crb.png",
     "away": "كروزيرو",
@@ -120,6 +165,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الجمعة 2025/08/08",
+    "round": "",
+    "status": "انتهت",
     "home": "فاسكو دا غاما",
     "homeLogo": "https://jdwel.com/image/teams/891.png",
     "away": "ألااجانو",
@@ -128,6 +176,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الخميس 2025/08/07",
+    "round": "",
+    "status": "انتهت",
     "home": "بالميراس",
     "homeLogo": "https://jdwel.com/image/teams/2762.png",
     "away": "كورينثيانز",
@@ -136,6 +187,9 @@
     "time": "3:30 ص"
   },
   {
+    "date": "الخميس 2025/08/07",
+    "round": "",
+    "status": "انتهت",
     "home": "فلومينينسي",
     "homeLogo": "https://jdwel.com/image/teams/bra_fluminense.png",
     "away": "إنترناسيونال",
@@ -144,6 +198,9 @@
     "time": "3:30 ص"
   },
   {
+    "date": "الخميس 2025/08/07",
+    "round": "",
+    "status": "انتهت",
     "home": "ريترو",
     "homeLogo": "https://jdwel.com/image/teams/485.png",
     "away": "باهيا",
@@ -152,6 +209,9 @@
     "time": "1:30 ص"
   },
   {
+    "date": "الخميس 2025/08/07",
+    "round": "",
+    "status": "انتهت",
     "home": "أتلتيكو باراناينسي",
     "homeLogo": "https://jdwel.com/image/teams/888.png",
     "away": "ساو باولو",
@@ -160,6 +220,9 @@
     "time": "1:30 ص"
   },
   {
+    "date": "الخميس 2025/08/07",
+    "round": "",
+    "status": "انتهت",
     "home": "براغانتينو",
     "homeLogo": "https://jdwel.com/image/teams/894.png",
     "away": "بوتافوغو",
@@ -168,6 +231,9 @@
     "time": "1:00 ص"
   },
   {
+    "date": "الخميس 2025/08/07",
+    "round": "",
+    "status": "انتهت",
     "home": "أتليتيكو مينيرو",
     "homeLogo": "https://jdwel.com/image/teams/2968.png",
     "away": "فلامنغو",
@@ -176,6 +242,9 @@
     "time": "1:00 ص"
   },
   {
+    "date": "الجمعة 2025/08/01",
+    "round": "",
+    "status": "انتهت",
     "home": "فلامنغو",
     "homeLogo": "https://jdwel.com/image/teams/2764.png",
     "away": "أتليتيكو مينيرو",
@@ -184,6 +253,9 @@
     "time": "3:30 ص"
   },
   {
+    "date": "الجمعة 2025/08/01",
+    "round": "",
+    "status": "انتهت",
     "home": "ساو باولو",
     "homeLogo": "https://jdwel.com/image/teams/2763.png",
     "away": "أتلتيكو باراناينسي",
@@ -192,6 +264,9 @@
     "time": "1:30 ص"
   },
   {
+    "date": "الخميس 2025/07/31",
+    "round": "",
+    "status": "انتهت",
     "home": "كورينثيانز",
     "homeLogo": "https://jdwel.com/image/teams/900.png",
     "away": "بالميراس",
@@ -200,6 +275,9 @@
     "time": "3:30 ص"
   },
   {
+    "date": "الخميس 2025/07/31",
+    "round": "",
+    "status": "انتهت",
     "home": "إنترناسيونال",
     "homeLogo": "https://jdwel.com/image/teams/889.png",
     "away": "فلومينينسي",
@@ -208,6 +286,9 @@
     "time": "3:30 ص"
   },
   {
+    "date": "الخميس 2025/07/31",
+    "round": "",
+    "status": "انتهت",
     "home": "باهيا",
     "homeLogo": "https://jdwel.com/image/teams/3056.png",
     "away": "ريترو",
@@ -216,6 +297,9 @@
     "time": "1:30 ص"
   },
   {
+    "date": "الخميس 2025/07/31",
+    "round": "",
+    "status": "انتهت",
     "home": "كروزيرو",
     "homeLogo": "https://jdwel.com/image/teams/886.png",
     "away": "سي آر بي",
@@ -224,6 +308,9 @@
     "time": "1:30 ص"
   },
   {
+    "date": "الخميس 2025/07/31",
+    "round": "",
+    "status": "انتهت",
     "home": "ألااجانو",
     "homeLogo": "https://jdwel.com/image/teams/bra_csa.png",
     "away": "فاسكو دا غاما",
@@ -232,6 +319,9 @@
     "time": "1:00 ص"
   },
   {
+    "date": "الأربعاء 2025/07/30",
+    "round": "",
+    "status": "انتهت",
     "home": "بوتافوغو",
     "homeLogo": "https://jdwel.com/image/teams/1098.png",
     "away": "براغانتينو",
@@ -240,6 +330,9 @@
     "time": "1:00 ص"
   },
   {
+    "date": "الجمعة 2025/05/23",
+    "round": "",
+    "status": "انتهت",
     "home": "كابيتال برازيليا",
     "homeLogo": "https://jdwel.com/image/teams/2593.png",
     "away": "بوتافوغو",
@@ -248,6 +341,9 @@
     "time": "3:30 ص"
   },
   {
+    "date": "الجمعة 2025/05/23",
+    "round": "",
+    "status": "انتهت",
     "home": "سي آر بي",
     "homeLogo": "https://jdwel.com/image/teams/bra_crb.png",
     "away": "سانتوس",
@@ -256,6 +352,9 @@
     "time": "3:30 ص"
   },
   {
+    "date": "الجمعة 2025/05/23",
+    "round": "",
+    "status": "انتهت",
     "home": "براغانتينو",
     "homeLogo": "https://jdwel.com/image/teams/894.png",
     "away": "كريسيوما",
@@ -264,6 +363,9 @@
     "time": "3:30 ص"
   },
   {
+    "date": "الجمعة 2025/05/23",
+    "round": "",
+    "status": "انتهت",
     "home": "بالميراس",
     "homeLogo": "https://jdwel.com/image/teams/2762.png",
     "away": "سييارا",
@@ -272,6 +374,9 @@
     "time": "1:30 ص"
   },
   {
+    "date": "الجمعة 2025/05/23",
+    "round": "",
+    "status": "انتهت",
     "home": "ماراكانا",
     "homeLogo": "https://jdwel.com/image/teams/2594.png",
     "away": "إنترناسيونال",
@@ -280,6 +385,9 @@
     "time": "1:00 ص"
   },
   {
+    "date": "الجمعة 2025/05/23",
+    "round": "",
+    "status": "انتهت",
     "home": "فيلا نوفا",
     "homeLogo": "https://jdwel.com/image/teams/bra_vila_nova.png",
     "away": "كروزيرو",
@@ -288,6 +396,9 @@
     "time": "1:00 ص"
   },
   {
+    "date": "الخميس 2025/05/22",
+    "round": "",
+    "status": "انتهت",
     "home": "أتليتيكو مينيرو",
     "homeLogo": "https://jdwel.com/image/teams/2968.png",
     "away": "مارينجا",
@@ -296,6 +407,9 @@
     "time": "3:30 ص"
   },
   {
+    "date": "الخميس 2025/05/22",
+    "round": "",
+    "status": "انتهت",
     "home": "فلامنغو",
     "homeLogo": "https://jdwel.com/image/teams/2764.png",
     "away": "بوتافوجو بي بي",
@@ -304,6 +418,9 @@
     "time": "3:30 ص"
   },
   {
+    "date": "الخميس 2025/05/22",
+    "round": "",
+    "status": "انتهت",
     "home": "كورينثيانز",
     "homeLogo": "https://jdwel.com/image/teams/900.png",
     "away": "نوفوريزونتينو",
@@ -312,6 +429,9 @@
     "time": "3:30 ص"
   },
   {
+    "date": "الخميس 2025/05/22",
+    "round": "",
+    "status": "انتهت",
     "home": "أباريسيدنسي",
     "homeLogo": "https://jdwel.com/image/teams/bra_aparecidense.png",
     "away": "فلومينينسي",
@@ -320,6 +440,9 @@
     "time": "1:30 ص"
   },
   {
+    "date": "الخميس 2025/05/22",
+    "round": "",
+    "status": "انتهت",
     "home": "باهيا",
     "homeLogo": "https://jdwel.com/image/teams/3056.png",
     "away": "بايساندو",
@@ -328,6 +451,9 @@
     "time": "1:30 ص"
   },
   {
+    "date": "الخميس 2025/05/22",
+    "round": "",
+    "status": "انتهت",
     "home": "فورتاليزا",
     "homeLogo": "https://jdwel.com/image/teams/3055.png",
     "away": "ريترو",
@@ -336,6 +462,9 @@
     "time": "1:00 ص"
   },
   {
+    "date": "الأربعاء 2025/05/21",
+    "round": "",
+    "status": "انتهت",
     "home": "ناوتيكو",
     "homeLogo": "https://jdwel.com/image/teams/bra_nautico.png",
     "away": "ساو باولو",
@@ -344,6 +473,9 @@
     "time": "3:30 ص"
   },
   {
+    "date": "الأربعاء 2025/05/21",
+    "round": "",
+    "status": "انتهت",
     "home": "غريميو",
     "homeLogo": "https://jdwel.com/image/teams/bra_gremio.png",
     "away": "ألااجانو",
@@ -352,6 +484,9 @@
     "time": "3:30 ص"
   },
   {
+    "date": "الأربعاء 2025/05/21",
+    "round": "",
+    "status": "انتهت",
     "home": "أتلتيكو باراناينسي",
     "homeLogo": "https://jdwel.com/image/teams/888.png",
     "away": "بروسكي",
@@ -360,6 +495,9 @@
     "time": "1:30 ص"
   },
   {
+    "date": "الأربعاء 2025/05/21",
+    "round": "",
+    "status": "انتهت",
     "home": "فاسكو دا غاما",
     "homeLogo": "https://jdwel.com/image/teams/891.png",
     "away": "أوبيراريو فيروفياريو",
@@ -368,6 +506,9 @@
     "time": "1:00 ص"
   },
   {
+    "date": "الجمعة 2025/05/02",
+    "round": "",
+    "status": "انتهت",
     "home": "كروزيرو",
     "homeLogo": "https://jdwel.com/image/teams/886.png",
     "away": "فيلا نوفا",
@@ -376,6 +517,9 @@
     "time": "3:30 ص"
   },
   {
+    "date": "الجمعة 2025/05/02",
+    "round": "",
+    "status": "انتهت",
     "home": "بوتافوجو بي بي",
     "homeLogo": "https://jdwel.com/image/teams/2766.png",
     "away": "فلامنغو",
@@ -384,6 +528,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الجمعة 2025/05/02",
+    "round": "",
+    "status": "انتهت",
     "home": "كريسيوما ب",
     "homeLogo": "https://jdwel.com/image/teams/4777.png",
     "away": "براغانتينو",
@@ -392,6 +539,9 @@
     "time": "12:30 ص"
   },
   {
+    "date": "الجمعة 2025/05/02",
+    "round": "",
+    "status": "انتهت",
     "home": "سانتوس",
     "homeLogo": "https://jdwel.com/image/teams/1446.png",
     "away": "سي آر بي",
@@ -400,6 +550,9 @@
     "time": "12:00 ص"
   },
   {
+    "date": "الخميس 2025/05/01",
+    "round": "",
+    "status": "انتهت",
     "home": "أوبيراريو فيروفياريو",
     "homeLogo": "https://jdwel.com/image/teams/bra_operario_pr.png",
     "away": "فاسكو دا غاما",
@@ -408,6 +561,9 @@
     "time": "10:00 م"
   },
   {
+    "date": "الخميس 2025/05/01",
+    "round": "",
+    "status": "انتهت",
     "home": "بروسكي",
     "homeLogo": "https://jdwel.com/image/teams/bra_brusque.png",
     "away": "أتلتيكو باراناينسي",
@@ -416,6 +572,9 @@
     "time": "10:00 م"
   },
   {
+    "date": "الخميس 2025/05/01",
+    "round": "",
+    "status": "انتهت",
     "home": "بايساندو",
     "homeLogo": "https://jdwel.com/image/teams/bra_paysandu.png",
     "away": "باهيا",
@@ -424,6 +583,9 @@
     "time": "3:30 ص"
   },
   {
+    "date": "الخميس 2025/05/01",
+    "round": "",
+    "status": "انتهت",
     "home": "نوفوريزونتينو",
     "homeLogo": "https://jdwel.com/image/teams/bra_novorizontino.png",
     "away": "كورينثيانز",
@@ -432,6 +594,9 @@
     "time": "3:30 ص"
   },
   {
+    "date": "الخميس 2025/05/01",
+    "round": "",
+    "status": "انتهت",
     "home": "ألااجانو",
     "homeLogo": "https://jdwel.com/image/teams/bra_csa.png",
     "away": "غريميو",
@@ -440,6 +605,9 @@
     "time": "3:30 ص"
   },
   {
+    "date": "الخميس 2025/05/01",
+    "round": "",
+    "status": "انتهت",
     "home": "سييارا",
     "homeLogo": "https://jdwel.com/image/teams/bra_ceara.png",
     "away": "بالميراس",
@@ -448,6 +616,9 @@
     "time": "1:30 ص"
   },
   {
+    "date": "الخميس 2025/05/01",
+    "round": "",
+    "status": "انتهت",
     "home": "بوتافوغو",
     "homeLogo": "https://jdwel.com/image/teams/1098.png",
     "away": "كابيتال برازيليا",
@@ -456,6 +627,9 @@
     "time": "1:00 ص"
   },
   {
+    "date": "الأربعاء 2025/04/30",
+    "round": "",
+    "status": "انتهت",
     "home": "فلومينينسي",
     "homeLogo": "https://jdwel.com/image/teams/bra_fluminense.png",
     "away": "أباريسيدنسي",
@@ -464,6 +638,9 @@
     "time": "3:30 ص"
   },
   {
+    "date": "الأربعاء 2025/04/30",
+    "round": "",
+    "status": "انتهت",
     "home": "ساو باولو",
     "homeLogo": "https://jdwel.com/image/teams/2763.png",
     "away": "ناوتيكو",
@@ -472,6 +649,9 @@
     "time": "3:30 ص"
   },
   {
+    "date": "الأربعاء 2025/04/30",
+    "round": "",
+    "status": "انتهت",
     "home": "مارينجا",
     "homeLogo": "https://jdwel.com/image/teams/3038.png",
     "away": "أتليتيكو مينيرو",
@@ -480,6 +660,9 @@
     "time": "1:30 ص"
   },
   {
+    "date": "الأربعاء 2025/04/30",
+    "round": "",
+    "status": "انتهت",
     "home": "إنترناسيونال",
     "homeLogo": "https://jdwel.com/image/teams/889.png",
     "away": "ماراكانا",
@@ -488,6 +671,9 @@
     "time": "1:00 ص"
   },
   {
+    "date": "الأربعاء 2025/04/30",
+    "round": "",
+    "status": "انتهت",
     "home": "ريترو",
     "homeLogo": "https://jdwel.com/image/teams/485.png",
     "away": "فورتاليزا",
@@ -496,6 +682,9 @@
     "time": "1:00 ص"
   },
   {
+    "date": "الجمعة 2025/03/14",
+    "round": "",
+    "status": "انتهت",
     "home": "ألااجانو",
     "homeLogo": "https://jdwel.com/image/teams/bra_csa.png",
     "away": "تونا لوسو",
@@ -504,6 +693,9 @@
     "time": "2:30 ص"
   },
   {
+    "date": "الجمعة 2025/03/14",
+    "round": "",
+    "status": "انتهت",
     "home": "فيلا نوفا",
     "homeLogo": "https://jdwel.com/image/teams/bra_vila_nova.png",
     "away": "ريو برانكو VN",
@@ -512,6 +704,9 @@
     "time": "2:30 ص"
   },
   {
+    "date": "الجمعة 2025/03/14",
+    "round": "",
+    "status": "انتهت",
     "home": "أتلتيكو باراناينسي",
     "homeLogo": "https://jdwel.com/image/teams/888.png",
     "away": "غواراني دي باجي",
@@ -520,6 +715,9 @@
     "time": "12:30 ص"
   },
   {
+    "date": "الخميس 2025/03/13",
+    "round": "",
+    "status": "انتهت",
     "home": "أتليتيكو غو",
     "homeLogo": "https://jdwel.com/image/teams/893.png",
     "away": "ريترو",
@@ -528,6 +726,9 @@
     "time": "2:30 ص"
   },
   {
+    "date": "الخميس 2025/03/13",
+    "round": "",
+    "status": "انتهت",
     "home": "سييارا",
     "homeLogo": "https://jdwel.com/image/teams/bra_ceara.png",
     "away": "كونفيانسا",
@@ -536,6 +737,9 @@
     "time": "2:30 ص"
   },
   {
+    "date": "الخميس 2025/03/13",
+    "round": "",
+    "status": "انتهت",
     "home": "ماراكانا",
     "homeLogo": "https://jdwel.com/image/teams/2594.png",
     "away": "سايلانديا",
@@ -544,6 +748,9 @@
     "time": "1:00 ص"
   },
   {
+    "date": "الخميس 2025/03/13",
+    "round": "",
+    "status": "انتهت",
     "home": "كابيتال برازيليا",
     "homeLogo": "https://jdwel.com/image/teams/2593.png",
     "away": "بورتو فيليو",
@@ -552,6 +759,9 @@
     "time": "1:00 ص"
   },
   {
+    "date": "الخميس 2025/03/13",
+    "round": "",
+    "status": "انتهت",
     "home": "أوبيراريو فيروفياريو",
     "homeLogo": "https://jdwel.com/image/teams/bra_operario_pr.png",
     "away": "تومبينس",
@@ -560,6 +770,9 @@
     "time": "12:30 ص"
   },
   {
+    "date": "الخميس 2025/03/13",
+    "round": "",
+    "status": "انتهت",
     "home": "أتلتيك كلوب",
     "homeLogo": "https://jdwel.com/image/teams/bra_athletic_club.png",
     "away": "غريميو",
@@ -568,6 +781,9 @@
     "time": "12:30 ص"
   },
   {
+    "date": "الخميس 2025/03/13",
+    "round": "",
+    "status": "انتهت",
     "home": "فيتوريا",
     "homeLogo": "https://jdwel.com/image/teams/892.png",
     "away": "ناوتيكو",
@@ -576,6 +792,9 @@
     "time": "12:00 ص"
   },
   {
+    "date": "الأربعاء 2025/03/12",
+    "round": "",
+    "status": "انتهت",
     "home": "بوتافوجو بي بي",
     "homeLogo": "https://jdwel.com/image/teams/2766.png",
     "away": "كونكورديا أتلتيكو كلوب",
@@ -584,6 +803,9 @@
     "time": "2:30 ص"
   },
   {
+    "date": "الأربعاء 2025/03/12",
+    "round": "",
+    "status": "انتهت",
     "home": "براغانتينو",
     "homeLogo": "https://jdwel.com/image/teams/894.png",
     "away": "ساو جوزيه",
@@ -592,6 +814,9 @@
     "time": "2:30 ص"
   },
   {
+    "date": "الأربعاء 2025/03/12",
+    "round": "",
+    "status": "انتهت",
     "home": "ريمو",
     "homeLogo": "https://jdwel.com/image/teams/bra_remo.png",
     "away": "كريسيوما ب",
@@ -600,6 +825,9 @@
     "time": "12:30 ص"
   },
   {
+    "date": "الأربعاء 2025/03/12",
+    "round": "",
+    "status": "انتهت",
     "home": "أوبيراريو",
     "homeLogo": "https://jdwel.com/image/teams/2579.png",
     "away": "نوفوريزونتينو",
@@ -608,6 +836,9 @@
     "time": "12:00 ص"
   },
   {
+    "date": "الجمعة 2025/03/07",
+    "round": "",
+    "status": "انتهت",
     "home": "أولاريا",
     "homeLogo": "https://jdwel.com/image/teams/1825.png",
     "away": "بروسكي",
@@ -616,6 +847,9 @@
     "time": "2:30 ص"
   },
   {
+    "date": "الجمعة 2025/03/07",
+    "round": "",
+    "status": "انتهت",
     "home": "مارينجا",
     "homeLogo": "https://jdwel.com/image/teams/3038.png",
     "away": "يونياو كارمولاندينسي",
@@ -624,6 +858,9 @@
     "time": "12:30 ص"
   },
   {
+    "date": "الخميس 2025/03/06",
+    "round": "",
+    "status": "انتهت",
     "home": "نوفا إجوازو",
     "homeLogo": "https://jdwel.com/image/teams/bra_nova_iguacu.png",
     "away": "فاسكو دا غاما",
@@ -632,6 +869,9 @@
     "time": "2:30 ص"
   },
   {
+    "date": "الخميس 2025/03/06",
+    "round": "",
+    "status": "انتهت",
     "home": "أتليتيكو مينيرو",
     "homeLogo": "https://jdwel.com/image/teams/2968.png",
     "away": "ماناوس",
@@ -640,6 +880,9 @@
     "time": "12:30 ص"
   },
   {
+    "date": "الخميس 2025/03/06",
+    "round": "",
+    "status": "انتهت",
     "home": "كاشياس",
     "homeLogo": "https://jdwel.com/image/teams/bra_caxias.png",
     "away": "فلومينينسي",
@@ -648,6 +891,9 @@
     "time": "12:00 ص"
   },
   {
+    "date": "الأربعاء 2025/03/05",
+    "round": "",
+    "status": "انتهت",
     "home": "أباريسيدنسي",
     "homeLogo": "https://jdwel.com/image/teams/bra_aparecidense.png",
     "away": "كاسكافيل",
@@ -656,6 +902,9 @@
     "time": "2:30 ص"
   },
   {
+    "date": "الجمعة 2025/02/28",
+    "round": "",
+    "status": "انتهت",
     "home": "إنتر ليميرا",
     "homeLogo": "https://jdwel.com/image/teams/bra_inter_de_limeira.png",
     "away": "فيلا نوفا",
@@ -664,6 +913,9 @@
     "time": "2:30 ص"
   },
   {
+    "date": "الجمعة 2025/02/28",
+    "round": "",
+    "status": "انتهت",
     "home": "بورتوغيزا",
     "homeLogo": "https://jdwel.com/image/teams/bra_portuguesa.png",
     "away": "بوتافوجو بي بي",
@@ -672,6 +924,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الجمعة 2025/02/28",
+    "round": "",
+    "status": "انتهت",
     "home": "ريو برانكو",
     "homeLogo": "https://jdwel.com/image/teams/bra_rio_branco_es.png",
     "away": "نوفوريزونتينو",
@@ -680,6 +935,9 @@
     "time": "1:00 ص"
   },
   {
+    "date": "الجمعة 2025/02/28",
+    "round": "",
+    "status": "انتهت",
     "home": "سايلانديا",
     "homeLogo": "https://jdwel.com/image/teams/2597.png",
     "away": "كوريتيبا",
@@ -688,6 +946,9 @@
     "time": "12:00 ص"
   },
   {
+    "date": "الجمعة 2025/02/28",
+    "round": "",
+    "status": "انتهت",
     "home": "سوزا",
     "homeLogo": "https://jdwel.com/image/teams/483.png",
     "away": "براغانتينو",
@@ -696,6 +957,9 @@
     "time": "12:00 ص"
   },
   {
+    "date": "الخميس 2025/02/27",
+    "round": "",
+    "status": "انتهت",
     "home": "كونكورديا أتلتيكو كلوب",
     "homeLogo": "https://jdwel.com/image/teams/2571.png",
     "away": "بونتي بريتا",
@@ -704,6 +968,9 @@
     "time": "2:30 ص"
   },
   {
+    "date": "الخميس 2025/02/27",
+    "round": "",
+    "status": "انتهت",
     "home": "هوميتا",
     "homeLogo": "https://jdwel.com/image/teams/placeholder.png",
     "away": "أوبيراريو فيروفياريو",
@@ -712,6 +979,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الخميس 2025/02/27",
+    "round": "",
+    "status": "انتهت",
     "home": "جاس",
     "homeLogo": "https://jdwel.com/image/teams/4046.png",
     "away": "ريمو",
@@ -720,6 +990,9 @@
     "time": "1:30 ص"
   },
   {
+    "date": "الخميس 2025/02/27",
+    "round": "",
+    "status": "انتهت",
     "home": "برشلونة RO",
     "homeLogo": "https://jdwel.com/image/teams/2651.png",
     "away": "نوفا إجوازو",
@@ -728,6 +1001,9 @@
     "time": "1:00 ص"
   },
   {
+    "date": "الخميس 2025/02/27",
+    "round": "",
+    "status": "انتهت",
     "home": "ماراكانا",
     "homeLogo": "https://jdwel.com/image/teams/2594.png",
     "away": "فيروفياريو",
@@ -736,6 +1012,9 @@
     "time": "1:00 ص"
   },
   {
+    "date": "الخميس 2025/02/27",
+    "round": "",
+    "status": "انتهت",
     "home": "بارنايبا",
     "homeLogo": "https://jdwel.com/image/teams/bra_parnahyba.png",
     "away": "كونفيانسا",
@@ -744,6 +1023,9 @@
     "time": "1:00 ص"
   },
   {
+    "date": "الخميس 2025/02/27",
+    "round": "",
+    "status": "انتهت",
     "home": "يونياو كارمولاندينسي",
     "homeLogo": "https://jdwel.com/image/teams/3590.png",
     "away": "أمريكا أر إن",
@@ -752,6 +1034,9 @@
     "time": "1:00 ص"
   },
   {
+    "date": "الخميس 2025/02/27",
+    "round": "",
+    "status": "انتهت",
     "home": "أوراتوريو",
     "homeLogo": "https://jdwel.com/image/teams/placeholder.png",
     "away": "ساو جوزيه",
@@ -760,6 +1045,9 @@
     "time": "1:00 ص"
   },
   {
+    "date": "الخميس 2025/02/27",
+    "round": "",
+    "status": "انتهت",
     "home": "جيكيي",
     "homeLogo": "https://jdwel.com/image/teams/3926.png",
     "away": "ريترو",
@@ -768,6 +1056,9 @@
     "time": "12:30 ص"
   },
   {
+    "date": "الخميس 2025/02/27",
+    "round": "",
+    "status": "انتهت",
     "home": "فوتوبورانغونس",
     "homeLogo": "https://jdwel.com/image/teams/bra_votuporanguense.png",
     "away": "أباريسيدنسي",
@@ -776,6 +1067,9 @@
     "time": "12:30 ص"
   },
   {
+    "date": "الخميس 2025/02/27",
+    "round": "",
+    "status": "انتهت",
     "home": "أغويا دي مارابا",
     "homeLogo": "https://jdwel.com/image/teams/bra_aguia_de_maraba.png",
     "away": "فلومينينسي",
@@ -784,6 +1078,9 @@
     "time": "12:30 ص"
   },
   {
+    "date": "الخميس 2025/02/27",
+    "round": "",
+    "status": "انتهت",
     "home": "سي إس إي",
     "homeLogo": "https://jdwel.com/image/teams/2141.png",
     "away": "تومبينس",
@@ -792,6 +1089,9 @@
     "time": "12:00 ص"
   },
   {
+    "date": "الخميس 2025/02/27",
+    "round": "",
+    "status": "انتهت",
     "home": "غواراني دي باجي",
     "homeLogo": "https://jdwel.com/image/teams/2596.png",
     "away": "ألتوس",
@@ -800,6 +1100,9 @@
     "time": "12:00 ص"
   },
   {
+    "date": "الخميس 2025/02/27",
+    "round": "",
+    "status": "انتهت",
     "home": "كاسكافيل",
     "homeLogo": "https://jdwel.com/image/teams/bra_cascavel.png",
     "away": "أميريكا مينيرو",
@@ -808,6 +1111,9 @@
     "time": "12:00 ص"
   },
   {
+    "date": "الأربعاء 2025/02/26",
+    "round": "",
+    "status": "انتهت",
     "home": "دورادوس أتلتيكو",
     "homeLogo": "https://jdwel.com/image/teams/3673.png",
     "away": "كاشياس",
@@ -816,6 +1122,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الأربعاء 2025/02/26",
+    "round": "",
+    "status": "انتهت",
     "home": "بوسو أليغري",
     "homeLogo": "https://jdwel.com/image/teams/3050.png",
     "away": "أتلتيكو باراناينسي",
@@ -824,6 +1133,9 @@
     "time": "2:30 ص"
   },
   {
+    "date": "الأربعاء 2025/02/26",
+    "round": "",
+    "status": "انتهت",
     "home": "أوبيراريو",
     "homeLogo": "https://jdwel.com/image/teams/2579.png",
     "away": "سبورت ريسيفه",
@@ -832,6 +1144,9 @@
     "time": "2:30 ص"
   },
   {
+    "date": "الأربعاء 2025/02/26",
+    "round": "",
+    "status": "انتهت",
     "home": "أوبيراريو",
     "homeLogo": "https://jdwel.com/image/teams/4475.png",
     "away": "كريسيوما ب",
@@ -840,6 +1155,9 @@
     "time": "1:00 ص"
   },
   {
+    "date": "الأربعاء 2025/02/26",
+    "round": "",
+    "status": "انتهت",
     "home": "مارينجا",
     "homeLogo": "https://jdwel.com/image/teams/3038.png",
     "away": "جوفينتود",
@@ -848,6 +1166,9 @@
     "time": "12:30 ص"
   },
   {
+    "date": "الأربعاء 2025/02/26",
+    "round": "",
+    "status": "انتهت",
     "home": "برشلونة BA",
     "homeLogo": "https://jdwel.com/image/teams/562.png",
     "away": "أتلتيك كلوب",
@@ -856,6 +1177,9 @@
     "time": "12:30 ص"
   },
   {
+    "date": "الأربعاء 2025/02/26",
+    "round": "",
+    "status": "انتهت",
     "home": "مارانهاو",
     "homeLogo": "https://jdwel.com/image/teams/3815.png",
     "away": "فيتوريا",
@@ -864,6 +1188,9 @@
     "time": "12:00 ص"
   },
   {
+    "date": "الجمعة 2025/02/21",
+    "round": "",
+    "status": "انتهت",
     "home": "أولاريا",
     "homeLogo": "https://jdwel.com/image/teams/1825.png",
     "away": "أيه بي سي",
@@ -872,6 +1199,9 @@
     "time": "2:30 ص"
   },
   {
+    "date": "الجمعة 2025/02/21",
+    "round": "",
+    "status": "انتهت",
     "home": "ريو برانكو VN",
     "homeLogo": "https://jdwel.com/image/teams/2575.png",
     "away": "أمازوناس",
@@ -880,6 +1210,9 @@
     "time": "1:00 ص"
   },
   {
+    "date": "الخميس 2025/02/20",
+    "round": "",
+    "status": "انتهت",
     "home": "أيه.أس.أيه.",
     "homeLogo": "https://jdwel.com/image/teams/bra_asa.png",
     "away": "أتليتيكو غو",
@@ -888,6 +1221,9 @@
     "time": "2:30 ص"
   },
   {
+    "date": "الخميس 2025/02/20",
+    "round": "",
+    "status": "انتهت",
     "home": "إنديبندينسيا",
     "homeLogo": "https://jdwel.com/image/teams/4094.png",
     "away": "ماناوس",
@@ -896,6 +1232,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الخميس 2025/02/20",
+    "round": "",
+    "status": "انتهت",
     "home": "تريم",
     "homeLogo": "https://jdwel.com/image/teams/4800.png",
     "away": "بروسكي",
@@ -904,6 +1243,9 @@
     "time": "1:30 ص"
   },
   {
+    "date": "الخميس 2025/02/20",
+    "round": "",
+    "status": "انتهت",
     "home": "بورتو فيليو",
     "homeLogo": "https://jdwel.com/image/teams/2595.png",
     "away": "كويابا",
@@ -912,6 +1254,9 @@
     "time": "1:00 ص"
   },
   {
+    "date": "الخميس 2025/02/20",
+    "round": "",
+    "status": "انتهت",
     "home": "كابيتال برازيليا",
     "homeLogo": "https://jdwel.com/image/teams/2593.png",
     "away": "بورتوجيسا آر جي",
@@ -920,6 +1265,9 @@
     "time": "1:00 ص"
   },
   {
+    "date": "الخميس 2025/02/20",
+    "round": "",
+    "status": "انتهت",
     "home": "سيرجيبي",
     "homeLogo": "https://jdwel.com/image/teams/bra_sergipe.png",
     "away": "سييارا",
@@ -928,6 +1276,9 @@
     "time": "1:00 ص"
   },
   {
+    "date": "الخميس 2025/02/20",
+    "round": "",
+    "status": "انتهت",
     "home": "بوافيستا",
     "homeLogo": "https://jdwel.com/image/teams/4396.png",
     "away": "ألااجانو",
@@ -936,6 +1287,9 @@
     "time": "12:30 ص"
   },
   {
+    "date": "الخميس 2025/02/20",
+    "round": "",
+    "status": "انتهت",
     "home": "ساو رايموندو",
     "homeLogo": "https://jdwel.com/image/teams/bra_sao_raimundo_rr.png",
     "away": "غريميو",
@@ -944,6 +1298,9 @@
     "time": "12:30 ص"
   },
   {
+    "date": "الخميس 2025/02/20",
+    "round": "",
+    "status": "انتهت",
     "home": "سانتا كروز دي ناتال آر إن",
     "homeLogo": "https://jdwel.com/image/teams/bra_santa_cruz_de_natal_rn.png",
     "away": "ناوتيكو",
@@ -952,6 +1309,9 @@
     "time": "12:00 ص"
   },
   {
+    "date": "الأربعاء 2025/02/19",
+    "round": "",
+    "status": "انتهت",
     "home": "تونا لوسو",
     "homeLogo": "https://jdwel.com/image/teams/bra_tuna_luso.png",
     "away": "سامبايو كوريا",
@@ -960,6 +1320,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "الأربعاء 2025/02/19",
+    "round": "",
+    "status": "انتهت",
     "home": "يونياو روندونوبوليس",
     "homeLogo": "https://jdwel.com/image/teams/bra_uniao_rondonopolis.png",
     "away": "فاسكو دا غاما",
@@ -968,6 +1331,9 @@
     "time": "2:30 ص"
   },
   {
+    "date": "الأربعاء 2025/02/19",
+    "round": "",
+    "status": "انتهت",
     "home": "توكانتينوبوليس",
     "homeLogo": "https://jdwel.com/image/teams/bra_tocantinopolis.png",
     "away": "أتليتيكو مينيرو",

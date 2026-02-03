@@ -1,5 +1,8 @@
 [
   {
+    "date": "السبت 2023/07/08",
+    "round": "",
+    "status": "انتهت",
     "home": "المغرب",
     "homeLogo": "https://jdwel.com/image/teams/3168.png",
     "away": "مصر",
@@ -8,6 +11,9 @@
     "time": "11:00 م"
   },
   {
+    "date": "الجمعة 2023/07/07",
+    "round": "",
+    "status": "انتهت",
     "home": "مالي",
     "homeLogo": "https://jdwel.com/image/teams/35.png",
     "away": "غينيا",
@@ -16,6 +22,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الثلاثاء 2023/07/04",
+    "round": "",
+    "status": "انتهت",
     "home": "المغرب",
     "homeLogo": "https://jdwel.com/image/teams/3168.png",
     "away": "مالي",
@@ -24,6 +33,9 @@
     "time": "11:00 م"
   },
   {
+    "date": "الثلاثاء 2023/07/04",
+    "round": "",
+    "status": "انتهت",
     "home": "مصر",
     "homeLogo": "https://jdwel.com/image/teams/34.png",
     "away": "غينيا",
@@ -32,6 +44,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "السبت 2023/07/01",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "الغابون",
     "homeLogo": "https://jdwel.com/image/teams/193.png",
     "away": "مصر",
@@ -40,6 +55,9 @@
     "time": "11:00 م"
   },
   {
+    "date": "السبت 2023/07/01",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "النيجر",
     "homeLogo": "https://jdwel.com/image/teams/229.png",
     "away": "مالي",
@@ -48,6 +66,9 @@
     "time": "11:00 م"
   },
   {
+    "date": "الجمعة 2023/06/30",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "الكونغو",
     "homeLogo": "https://jdwel.com/image/teams/48.png",
     "away": "المغرب",
@@ -56,6 +77,9 @@
     "time": "11:00 م"
   },
   {
+    "date": "الجمعة 2023/06/30",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "غينيا",
     "homeLogo": "https://jdwel.com/image/teams/220.png",
     "away": "غانا",
@@ -64,6 +88,9 @@
     "time": "11:00 م"
   },
   {
+    "date": "الأربعاء 2023/06/28",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "الغابون",
     "homeLogo": "https://jdwel.com/image/teams/193.png",
     "away": "النيجر",
@@ -72,6 +99,9 @@
     "time": "11:00 م"
   },
   {
+    "date": "الأربعاء 2023/06/28",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "مصر",
     "homeLogo": "https://jdwel.com/image/teams/34.png",
     "away": "مالي",
@@ -80,6 +110,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الثلاثاء 2023/06/27",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "المغرب",
     "homeLogo": "https://jdwel.com/image/teams/3168.png",
     "away": "غانا",
@@ -88,6 +121,9 @@
     "time": "11:00 م"
   },
   {
+    "date": "الثلاثاء 2023/06/27",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "الكونغو",
     "homeLogo": "https://jdwel.com/image/teams/48.png",
     "away": "غينيا",
@@ -96,6 +132,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الأحد 2023/06/25",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "مالي",
     "homeLogo": "https://jdwel.com/image/teams/35.png",
     "away": "الغابون",
@@ -104,6 +143,9 @@
     "time": "11:00 م"
   },
   {
+    "date": "الأحد 2023/06/25",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "مصر",
     "homeLogo": "https://jdwel.com/image/teams/34.png",
     "away": "النيجر",
@@ -112,6 +154,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الأحد 2023/06/25",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "غانا",
     "homeLogo": "https://jdwel.com/image/teams/flag_ghana_v2.png",
     "away": "الكونغو",
@@ -120,6 +165,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2023/06/24",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "المغرب",
     "homeLogo": "https://jdwel.com/image/teams/3168.png",
     "away": "غينيا",

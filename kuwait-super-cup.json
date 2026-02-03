@@ -1,5 +1,8 @@
 [
   {
+    "date": "الأحد 2026/02/01",
+    "round": "",
+    "status": "انتهت",
     "home": "نادي الكويت",
     "homeLogo": "https://jdwel.com/image/teams/kuw_al_kuwait.png",
     "away": "القادسية",
@@ -8,6 +11,9 @@
     "time": "6:30 م"
   },
   {
+    "date": "الأربعاء 2026/01/28",
+    "round": "",
+    "status": "انتهت",
     "home": "العربي",
     "homeLogo": "https://jdwel.com/image/teams/2912.png",
     "away": "القادسية",
@@ -16,6 +22,9 @@
     "time": "6:30 م"
   },
   {
+    "date": "الأربعاء 2026/01/28",
+    "round": "",
+    "status": "انتهت",
     "home": "نادي الكويت",
     "homeLogo": "https://jdwel.com/image/teams/kuw_al_kuwait.png",
     "away": "السالمية",

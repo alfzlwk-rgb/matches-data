@@ -1,5 +1,8 @@
 [
   {
+    "date": "الجمعة 2025/07/18",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "دينامو موسكو",
     "homeLogo": "https://jdwel.com/image/teams/1287.png",
     "away": "بالتيكا",
@@ -8,6 +11,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "السبت 2025/07/19",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "أكرون تولياتي",
     "homeLogo": "https://jdwel.com/image/teams/811.png",
     "away": "كريليا سوفيتوف",
@@ -16,6 +22,9 @@
     "time": "3:30 م"
   },
   {
+    "date": "السبت 2025/07/19",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "لوكوموتيف موسكو",
     "homeLogo": "https://jdwel.com/image/teams/rus_lokomotiv_moskva.png",
     "away": "سوشي",
@@ -24,6 +33,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/07/19",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "سبارتاك موسكو",
     "homeLogo": "https://jdwel.com/image/teams/1494.png",
     "away": "دينامو مخاتشكالا",
@@ -32,6 +44,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "الأحد 2025/07/20",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "نيجني نوفغورود",
     "homeLogo": "https://jdwel.com/image/teams/1841.png",
     "away": "كراسنودار",
@@ -40,6 +55,9 @@
     "time": "3:30 م"
   },
   {
+    "date": "الأحد 2025/07/20",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "زينيت سانت بطرسبرغ",
     "homeLogo": "https://jdwel.com/image/teams/1288.png",
     "away": "روستوف",
@@ -48,6 +66,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2025/07/20",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "أخمات غروزني",
     "homeLogo": "https://jdwel.com/image/teams/1495.png",
     "away": "روبين كازان",
@@ -56,6 +77,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "الأثنين 2025/07/21",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "أورينبورغ",
     "homeLogo": "https://jdwel.com/image/teams/1496.png",
     "away": "سسكا موسكو",
@@ -64,6 +88,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "الجمعة 2025/07/25",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "كريليا سوفيتوف",
     "homeLogo": "https://jdwel.com/image/teams/rus_krylya_sovetov.png",
     "away": "نيجني نوفغورود",
@@ -72,6 +99,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "السبت 2025/07/26",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "سبارتاك موسكو",
     "homeLogo": "https://jdwel.com/image/teams/1494.png",
     "away": "بالتيكا",
@@ -80,6 +110,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "السبت 2025/07/26",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "دينامو موسكو",
     "homeLogo": "https://jdwel.com/image/teams/1287.png",
     "away": "روستوف",
@@ -88,6 +121,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "السبت 2025/07/26",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "كراسنودار",
     "homeLogo": "https://jdwel.com/image/teams/rus_krasnodar.png",
     "away": "لوكوموتيف موسكو",
@@ -96,6 +132,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "السبت 2025/07/26",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "سوشي",
     "homeLogo": "https://jdwel.com/image/teams/1492.png",
     "away": "أكرون تولياتي",
@@ -104,6 +143,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "الأحد 2025/07/27",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "سسكا موسكو",
     "homeLogo": "https://jdwel.com/image/teams/rus_cska_moskva.png",
     "away": "أخمات غروزني",
@@ -112,6 +154,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأحد 2025/07/27",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "أورينبورغ",
     "homeLogo": "https://jdwel.com/image/teams/1496.png",
     "away": "دينامو مخاتشكالا",
@@ -120,6 +165,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "الأحد 2025/07/27",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "روبين كازان",
     "homeLogo": "https://jdwel.com/image/teams/1491.png",
     "away": "زينيت سانت بطرسبرغ",
@@ -128,6 +176,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "السبت 2025/08/02",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "روستوف",
     "homeLogo": "https://jdwel.com/image/teams/1493.png",
     "away": "كريليا سوفيتوف",
@@ -136,6 +187,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/08/02",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "كراسنودار",
     "homeLogo": "https://jdwel.com/image/teams/rus_krasnodar.png",
     "away": "دينامو موسكو",
@@ -144,6 +198,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "السبت 2025/08/02",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "نيجني نوفغورود",
     "homeLogo": "https://jdwel.com/image/teams/1841.png",
     "away": "لوكوموتيف موسكو",
@@ -152,6 +209,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "الأحد 2025/08/03",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "أكرون تولياتي",
     "homeLogo": "https://jdwel.com/image/teams/811.png",
     "away": "سبارتاك موسكو",
@@ -160,6 +220,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الأحد 2025/08/03",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "بالتيكا",
     "homeLogo": "https://jdwel.com/image/teams/rus_baltika.png",
     "away": "أورينبورغ",
@@ -168,6 +231,9 @@
     "time": "3:45 م"
   },
   {
+    "date": "الأحد 2025/08/03",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "زينيت سانت بطرسبرغ",
     "homeLogo": "https://jdwel.com/image/teams/1288.png",
     "away": "سسكا موسكو",
@@ -176,6 +242,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2025/08/03",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "دينامو مخاتشكالا",
     "homeLogo": "https://jdwel.com/image/teams/812.png",
     "away": "أخمات غروزني",
@@ -184,6 +253,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "الأثنين 2025/08/04",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "روبين كازان",
     "homeLogo": "https://jdwel.com/image/teams/1491.png",
     "away": "سوشي",
@@ -192,6 +264,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الجمعة 2025/08/08",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "دينامو مخاتشكالا",
     "homeLogo": "https://jdwel.com/image/teams/812.png",
     "away": "أكرون تولياتي",
@@ -200,6 +275,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "السبت 2025/08/09",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "كريليا سوفيتوف",
     "homeLogo": "https://jdwel.com/image/teams/rus_krylya_sovetov.png",
     "away": "بالتيكا",
@@ -208,6 +286,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "السبت 2025/08/09",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "سسكا موسكو",
     "homeLogo": "https://jdwel.com/image/teams/rus_cska_moskva.png",
     "away": "روبين كازان",
@@ -216,6 +297,9 @@
     "time": "3:45 م"
   },
   {
+    "date": "السبت 2025/08/09",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "لوكوموتيف موسكو",
     "homeLogo": "https://jdwel.com/image/teams/rus_lokomotiv_moskva.png",
     "away": "سبارتاك موسكو",
@@ -224,6 +308,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/08/09",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "أخمات غروزني",
     "homeLogo": "https://jdwel.com/image/teams/1495.png",
     "away": "زينيت سانت بطرسبرغ",
@@ -232,6 +319,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "الأحد 2025/08/10",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "أورينبورغ",
     "homeLogo": "https://jdwel.com/image/teams/1496.png",
     "away": "كراسنودار",
@@ -240,6 +330,9 @@
     "time": "3:30 م"
   },
   {
+    "date": "الأحد 2025/08/10",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "سوشي",
     "homeLogo": "https://jdwel.com/image/teams/1492.png",
     "away": "دينامو موسكو",
@@ -248,6 +341,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2025/08/10",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "روستوف",
     "homeLogo": "https://jdwel.com/image/teams/1493.png",
     "away": "نيجني نوفغورود",
@@ -256,6 +352,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "السبت 2025/08/16",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "بالتيكا",
     "homeLogo": "https://jdwel.com/image/teams/rus_baltika.png",
     "away": "لوكوموتيف موسكو",
@@ -264,6 +363,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "السبت 2025/08/16",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "سبارتاك موسكو",
     "homeLogo": "https://jdwel.com/image/teams/1494.png",
     "away": "زينيت سانت بطرسبرغ",
@@ -272,6 +374,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "السبت 2025/08/16",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "أخمات غروزني",
     "homeLogo": "https://jdwel.com/image/teams/1495.png",
     "away": "كريليا سوفيتوف",
@@ -280,6 +385,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "الأحد 2025/08/17",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "أكرون تولياتي",
     "homeLogo": "https://jdwel.com/image/teams/811.png",
     "away": "أورينبورغ",
@@ -288,6 +396,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الأحد 2025/08/17",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "روبين كازان",
     "homeLogo": "https://jdwel.com/image/teams/1491.png",
     "away": "روستوف",
@@ -296,6 +407,9 @@
     "time": "3:45 م"
   },
   {
+    "date": "الأحد 2025/08/17",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "دينامو موسكو",
     "homeLogo": "https://jdwel.com/image/teams/1287.png",
     "away": "سسكا موسكو",
@@ -304,6 +418,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2025/08/17",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "كراسنودار",
     "homeLogo": "https://jdwel.com/image/teams/rus_krasnodar.png",
     "away": "سوشي",
@@ -312,6 +429,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "الأثنين 2025/08/18",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "نيجني نوفغورود",
     "homeLogo": "https://jdwel.com/image/teams/1841.png",
     "away": "دينامو مخاتشكالا",
@@ -320,6 +440,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الجمعة 2025/08/22",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "أورينبورغ",
     "homeLogo": "https://jdwel.com/image/teams/1496.png",
     "away": "أخمات غروزني",
@@ -328,6 +451,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/08/23",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "روبين كازان",
     "homeLogo": "https://jdwel.com/image/teams/1491.png",
     "away": "سبارتاك موسكو",
@@ -336,6 +462,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "السبت 2025/08/23",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "زينيت سانت بطرسبرغ",
     "homeLogo": "https://jdwel.com/image/teams/1288.png",
     "away": "دينامو مخاتشكالا",
@@ -344,6 +473,9 @@
     "time": "4:15 م"
   },
   {
+    "date": "السبت 2025/08/23",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "لوكوموتيف موسكو",
     "homeLogo": "https://jdwel.com/image/teams/rus_lokomotiv_moskva.png",
     "away": "روستوف",
@@ -352,6 +484,9 @@
     "time": "6:30 م"
   },
   {
+    "date": "السبت 2025/08/23",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "دينامو موسكو",
     "homeLogo": "https://jdwel.com/image/teams/1287.png",
     "away": "نيجني نوفغورود",
@@ -360,6 +495,9 @@
     "time": "8:45 م"
   },
   {
+    "date": "الأحد 2025/08/24",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "كريليا سوفيتوف",
     "homeLogo": "https://jdwel.com/image/teams/rus_krylya_sovetov.png",
     "away": "كراسنودار",
@@ -368,6 +506,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأحد 2025/08/24",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "سسكا موسكو",
     "homeLogo": "https://jdwel.com/image/teams/rus_cska_moskva.png",
     "away": "أكرون تولياتي",
@@ -376,6 +517,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "الأحد 2025/08/24",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "سوشي",
     "homeLogo": "https://jdwel.com/image/teams/1492.png",
     "away": "بالتيكا",
@@ -384,6 +528,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "السبت 2025/08/30",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "أورينبورغ",
     "homeLogo": "https://jdwel.com/image/teams/1496.png",
     "away": "روبين كازان",
@@ -392,6 +539,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "السبت 2025/08/30",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "زينيت سانت بطرسبرغ",
     "homeLogo": "https://jdwel.com/image/teams/1288.png",
     "away": "نيجني نوفغورود",
@@ -400,6 +550,9 @@
     "time": "4:15 م"
   },
   {
+    "date": "السبت 2025/08/30",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "سبارتاك موسكو",
     "homeLogo": "https://jdwel.com/image/teams/1494.png",
     "away": "سوشي",
@@ -408,6 +561,9 @@
     "time": "6:30 م"
   },
   {
+    "date": "السبت 2025/08/30",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "روستوف",
     "homeLogo": "https://jdwel.com/image/teams/1493.png",
     "away": "أخمات غروزني",
@@ -416,6 +572,9 @@
     "time": "8:45 م"
   },
   {
+    "date": "الأحد 2025/08/31",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "أكرون تولياتي",
     "homeLogo": "https://jdwel.com/image/teams/811.png",
     "away": "بالتيكا",
@@ -424,6 +583,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الأحد 2025/08/31",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "لوكوموتيف موسكو",
     "homeLogo": "https://jdwel.com/image/teams/rus_lokomotiv_moskva.png",
     "away": "كريليا سوفيتوف",
@@ -432,6 +594,9 @@
     "time": "3:45 م"
   },
   {
+    "date": "الأحد 2025/08/31",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "سسكا موسكو",
     "homeLogo": "https://jdwel.com/image/teams/rus_cska_moskva.png",
     "away": "كراسنودار",
@@ -440,6 +605,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2025/08/31",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "دينامو مخاتشكالا",
     "homeLogo": "https://jdwel.com/image/teams/812.png",
     "away": "دينامو موسكو",
@@ -448,6 +616,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "الجمعة 2025/09/12",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "روبين كازان",
     "homeLogo": "https://jdwel.com/image/teams/1491.png",
     "away": "دينامو مخاتشكالا",
@@ -456,6 +627,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "السبت 2025/09/13",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "نيجني نوفغورود",
     "homeLogo": "https://jdwel.com/image/teams/1841.png",
     "away": "أورينبورغ",
@@ -464,6 +638,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "السبت 2025/09/13",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "أخمات غروزني",
     "homeLogo": "https://jdwel.com/image/teams/1495.png",
     "away": "لوكوموتيف موسكو",
@@ -472,6 +649,9 @@
     "time": "4:45 م"
   },
   {
+    "date": "السبت 2025/09/13",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "دينامو موسكو",
     "homeLogo": "https://jdwel.com/image/teams/1287.png",
     "away": "سبارتاك موسكو",
@@ -480,6 +660,9 @@
     "time": "4:45 م"
   },
   {
+    "date": "السبت 2025/09/13",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "كراسنودار",
     "homeLogo": "https://jdwel.com/image/teams/rus_krasnodar.png",
     "away": "أكرون تولياتي",
@@ -488,6 +671,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الأحد 2025/09/14",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "كريليا سوفيتوف",
     "homeLogo": "https://jdwel.com/image/teams/rus_krylya_sovetov.png",
     "away": "سوشي",
@@ -496,6 +682,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "الأحد 2025/09/14",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "بالتيكا",
     "homeLogo": "https://jdwel.com/image/teams/rus_baltika.png",
     "away": "زينيت سانت بطرسبرغ",
@@ -504,6 +693,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2025/09/14",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "روستوف",
     "homeLogo": "https://jdwel.com/image/teams/1493.png",
     "away": "سسكا موسكو",
@@ -512,6 +704,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "السبت 2025/09/20",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "نيجني نوفغورود",
     "homeLogo": "https://jdwel.com/image/teams/1841.png",
     "away": "أخمات غروزني",
@@ -520,6 +715,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "السبت 2025/09/20",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "أكرون تولياتي",
     "homeLogo": "https://jdwel.com/image/teams/811.png",
     "away": "روبين كازان",
@@ -528,6 +726,9 @@
     "time": "4:45 م"
   },
   {
+    "date": "السبت 2025/09/20",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "دينامو مخاتشكالا",
     "homeLogo": "https://jdwel.com/image/teams/812.png",
     "away": "لوكوموتيف موسكو",
@@ -536,6 +737,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الأحد 2025/09/21",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "أورينبورغ",
     "homeLogo": "https://jdwel.com/image/teams/1496.png",
     "away": "دينامو موسكو",
@@ -544,6 +748,9 @@
     "time": "12:00 م"
   },
   {
+    "date": "الأحد 2025/09/21",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "سبارتاك موسكو",
     "homeLogo": "https://jdwel.com/image/teams/1494.png",
     "away": "كريليا سوفيتوف",
@@ -552,6 +759,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "الأحد 2025/09/21",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "بالتيكا",
     "homeLogo": "https://jdwel.com/image/teams/rus_baltika.png",
     "away": "روستوف",
@@ -560,6 +770,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2025/09/21",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "كراسنودار",
     "homeLogo": "https://jdwel.com/image/teams/rus_krasnodar.png",
     "away": "زينيت سانت بطرسبرغ",
@@ -568,6 +781,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الأثنين 2025/09/22",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "سوشي",
     "homeLogo": "https://jdwel.com/image/teams/1492.png",
     "away": "سسكا موسكو",
@@ -576,6 +792,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الجمعة 2025/09/26",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "كريليا سوفيتوف",
     "homeLogo": "https://jdwel.com/image/teams/rus_krylya_sovetov.png",
     "away": "دينامو موسكو",
@@ -584,6 +803,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/09/27",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "أخمات غروزني",
     "homeLogo": "https://jdwel.com/image/teams/1495.png",
     "away": "أكرون تولياتي",
@@ -592,6 +814,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "السبت 2025/09/27",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "لوكوموتيف موسكو",
     "homeLogo": "https://jdwel.com/image/teams/rus_lokomotiv_moskva.png",
     "away": "روبين كازان",
@@ -600,6 +825,9 @@
     "time": "4:30 م"
   },
   {
+    "date": "السبت 2025/09/27",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "روستوف",
     "homeLogo": "https://jdwel.com/image/teams/1493.png",
     "away": "كراسنودار",
@@ -608,6 +836,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "السبت 2025/09/27",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "زينيت سانت بطرسبرغ",
     "homeLogo": "https://jdwel.com/image/teams/1288.png",
     "away": "أورينبورغ",
@@ -616,6 +847,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الأحد 2025/09/28",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "سسكا موسكو",
     "homeLogo": "https://jdwel.com/image/teams/rus_cska_moskva.png",
     "away": "بالتيكا",
@@ -624,6 +858,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "الأحد 2025/09/28",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "دينامو مخاتشكالا",
     "homeLogo": "https://jdwel.com/image/teams/812.png",
     "away": "سوشي",
@@ -632,6 +869,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2025/09/28",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "سبارتاك موسكو",
     "homeLogo": "https://jdwel.com/image/teams/1494.png",
     "away": "نيجني نوفغورود",
@@ -640,6 +880,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "السبت 2025/10/04",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "أكرون تولياتي",
     "homeLogo": "https://jdwel.com/image/teams/811.png",
     "away": "زينيت سانت بطرسبرغ",
@@ -648,6 +891,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "السبت 2025/10/04",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "روبين كازان",
     "homeLogo": "https://jdwel.com/image/teams/1491.png",
     "away": "كريليا سوفيتوف",
@@ -656,6 +902,9 @@
     "time": "3:15 م"
   },
   {
+    "date": "السبت 2025/10/04",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "كراسنودار",
     "homeLogo": "https://jdwel.com/image/teams/rus_krasnodar.png",
     "away": "أخمات غروزني",
@@ -664,6 +913,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "السبت 2025/10/04",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "دينامو موسكو",
     "homeLogo": "https://jdwel.com/image/teams/1287.png",
     "away": "لوكوموتيف موسكو",
@@ -672,6 +924,9 @@
     "time": "7:45 م"
   },
   {
+    "date": "الأحد 2025/10/05",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "أورينبورغ",
     "homeLogo": "https://jdwel.com/image/teams/1496.png",
     "away": "روستوف",
@@ -680,6 +935,9 @@
     "time": "12:00 م"
   },
   {
+    "date": "الأحد 2025/10/05",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "سوشي",
     "homeLogo": "https://jdwel.com/image/teams/1492.png",
     "away": "نيجني نوفغورود",
@@ -688,6 +946,9 @@
     "time": "2:15 م"
   },
   {
+    "date": "الأحد 2025/10/05",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "سسكا موسكو",
     "homeLogo": "https://jdwel.com/image/teams/rus_cska_moskva.png",
     "away": "سبارتاك موسكو",
@@ -696,6 +957,9 @@
     "time": "4:30 م"
   },
   {
+    "date": "الأحد 2025/10/05",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "بالتيكا",
     "homeLogo": "https://jdwel.com/image/teams/rus_baltika.png",
     "away": "دينامو مخاتشكالا",
@@ -704,6 +968,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "السبت 2025/10/18",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "نيجني نوفغورود",
     "homeLogo": "https://jdwel.com/image/teams/1841.png",
     "away": "أكرون تولياتي",
@@ -712,6 +979,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "السبت 2025/10/18",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "كريليا سوفيتوف",
     "homeLogo": "https://jdwel.com/image/teams/rus_krylya_sovetov.png",
     "away": "أورينبورغ",
@@ -720,6 +990,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "السبت 2025/10/18",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "سبارتاك موسكو",
     "homeLogo": "https://jdwel.com/image/teams/1494.png",
     "away": "روستوف",
@@ -728,6 +1001,9 @@
     "time": "3:15 م"
   },
   {
+    "date": "السبت 2025/10/18",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "دينامو مخاتشكالا",
     "homeLogo": "https://jdwel.com/image/teams/812.png",
     "away": "كراسنودار",
@@ -736,6 +1012,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "السبت 2025/10/18",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "لوكوموتيف موسكو",
     "homeLogo": "https://jdwel.com/image/teams/rus_lokomotiv_moskva.png",
     "away": "سسكا موسكو",
@@ -744,6 +1023,9 @@
     "time": "7:45 م"
   },
   {
+    "date": "الأحد 2025/10/19",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "سوشي",
     "homeLogo": "https://jdwel.com/image/teams/1492.png",
     "away": "زينيت سانت بطرسبرغ",
@@ -752,6 +1034,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "الأحد 2025/10/19",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "روبين كازان",
     "homeLogo": "https://jdwel.com/image/teams/1491.png",
     "away": "بالتيكا",
@@ -760,6 +1045,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2025/10/19",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "دينامو موسكو",
     "homeLogo": "https://jdwel.com/image/teams/1287.png",
     "away": "أخمات غروزني",
@@ -768,6 +1056,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "السبت 2025/10/25",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "سبارتاك موسكو",
     "homeLogo": "https://jdwel.com/image/teams/1494.png",
     "away": "أورينبورغ",
@@ -776,6 +1067,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "السبت 2025/10/25",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "روستوف",
     "homeLogo": "https://jdwel.com/image/teams/1493.png",
     "away": "دينامو مخاتشكالا",
@@ -784,6 +1078,9 @@
     "time": "4:30 م"
   },
   {
+    "date": "السبت 2025/10/25",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "سسكا موسكو",
     "homeLogo": "https://jdwel.com/image/teams/rus_cska_moskva.png",
     "away": "كريليا سوفيتوف",
@@ -792,6 +1089,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأحد 2025/10/26",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "أكرون تولياتي",
     "homeLogo": "https://jdwel.com/image/teams/811.png",
     "away": "لوكوموتيف موسكو",
@@ -800,6 +1100,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "الأحد 2025/10/26",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "نيجني نوفغورود",
     "homeLogo": "https://jdwel.com/image/teams/1841.png",
     "away": "بالتيكا",
@@ -808,6 +1111,9 @@
     "time": "3:15 م"
   },
   {
+    "date": "الأحد 2025/10/26",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "زينيت سانت بطرسبرغ",
     "homeLogo": "https://jdwel.com/image/teams/1288.png",
     "away": "دينامو موسكو",
@@ -816,6 +1122,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "الأحد 2025/10/26",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "كراسنودار",
     "homeLogo": "https://jdwel.com/image/teams/rus_krasnodar.png",
     "away": "روبين كازان",
@@ -824,6 +1133,9 @@
     "time": "7:45 م"
   },
   {
+    "date": "الأثنين 2025/10/27",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "أخمات غروزني",
     "homeLogo": "https://jdwel.com/image/teams/1495.png",
     "away": "سوشي",
@@ -832,6 +1144,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الجمعة 2025/10/31",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "سسكا موسكو",
     "homeLogo": "https://jdwel.com/image/teams/rus_cska_moskva.png",
     "away": "نيجني نوفغورود",
@@ -840,6 +1155,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/11/01",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "دينامو مخاتشكالا",
     "homeLogo": "https://jdwel.com/image/teams/812.png",
     "away": "كريليا سوفيتوف",
@@ -848,6 +1166,9 @@
     "time": "4:45 م"
   },
   {
+    "date": "السبت 2025/11/01",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "روبين كازان",
     "homeLogo": "https://jdwel.com/image/teams/1491.png",
     "away": "دينامو موسكو",
@@ -856,6 +1177,9 @@
     "time": "4:45 م"
   },
   {
+    "date": "السبت 2025/11/01",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "روستوف",
     "homeLogo": "https://jdwel.com/image/teams/1493.png",
     "away": "أكرون تولياتي",
@@ -864,6 +1188,9 @@
     "time": "7:15 م"
   },
   {
+    "date": "السبت 2025/11/01",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "زينيت سانت بطرسبرغ",
     "homeLogo": "https://jdwel.com/image/teams/1288.png",
     "away": "لوكوموتيف موسكو",
@@ -872,6 +1199,9 @@
     "time": "7:15 م"
   },
   {
+    "date": "الأحد 2025/11/02",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "أورينبورغ",
     "homeLogo": "https://jdwel.com/image/teams/1496.png",
     "away": "سوشي",
@@ -880,6 +1210,9 @@
     "time": "11:00 ص"
   },
   {
+    "date": "الأحد 2025/11/02",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "بالتيكا",
     "homeLogo": "https://jdwel.com/image/teams/rus_baltika.png",
     "away": "أخمات غروزني",
@@ -888,6 +1221,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الأحد 2025/11/02",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "كراسنودار",
     "homeLogo": "https://jdwel.com/image/teams/rus_krasnodar.png",
     "away": "سبارتاك موسكو",
@@ -896,6 +1232,9 @@
     "time": "6:30 م"
   },
   {
+    "date": "السبت 2025/11/08",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "دينامو موسكو",
     "homeLogo": "https://jdwel.com/image/teams/1287.png",
     "away": "أكرون تولياتي",
@@ -904,6 +1243,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "السبت 2025/11/08",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "دينامو مخاتشكالا",
     "homeLogo": "https://jdwel.com/image/teams/812.png",
     "away": "سسكا موسكو",
@@ -912,6 +1254,9 @@
     "time": "3:30 م"
   },
   {
+    "date": "السبت 2025/11/08",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "نيجني نوفغورود",
     "homeLogo": "https://jdwel.com/image/teams/1841.png",
     "away": "روبين كازان",
@@ -920,6 +1265,9 @@
     "time": "3:30 م"
   },
   {
+    "date": "السبت 2025/11/08",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "سوشي",
     "homeLogo": "https://jdwel.com/image/teams/1492.png",
     "away": "روستوف",
@@ -928,6 +1276,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2025/11/09",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "كريليا سوفيتوف",
     "homeLogo": "https://jdwel.com/image/teams/rus_krylya_sovetov.png",
     "away": "زينيت سانت بطرسبرغ",
@@ -936,6 +1287,9 @@
     "time": "12:00 م"
   },
   {
+    "date": "الأحد 2025/11/09",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "لوكوموتيف موسكو",
     "homeLogo": "https://jdwel.com/image/teams/rus_lokomotiv_moskva.png",
     "away": "أورينبورغ",
@@ -944,6 +1298,9 @@
     "time": "2:15 م"
   },
   {
+    "date": "الأحد 2025/11/09",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "أخمات غروزني",
     "homeLogo": "https://jdwel.com/image/teams/1495.png",
     "away": "سبارتاك موسكو",
@@ -952,6 +1309,9 @@
     "time": "4:30 م"
   },
   {
+    "date": "الأحد 2025/11/09",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "بالتيكا",
     "homeLogo": "https://jdwel.com/image/teams/rus_baltika.png",
     "away": "كراسنودار",
@@ -960,6 +1320,9 @@
     "time": "6:45 م"
   },
   {
+    "date": "الجمعة 2025/11/21",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "أكرون تولياتي",
     "homeLogo": "https://jdwel.com/image/teams/811.png",
     "away": "سوشي",
@@ -968,6 +1331,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "السبت 2025/11/22",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "أورينبورغ",
     "homeLogo": "https://jdwel.com/image/teams/1496.png",
     "away": "بالتيكا",
@@ -976,6 +1342,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "السبت 2025/11/22",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "سبارتاك موسكو",
     "homeLogo": "https://jdwel.com/image/teams/1494.png",
     "away": "سسكا موسكو",
@@ -984,6 +1353,9 @@
     "time": "3:45 م"
   },
   {
+    "date": "السبت 2025/11/22",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "روبين كازان",
     "homeLogo": "https://jdwel.com/image/teams/1491.png",
     "away": "أخمات غروزني",
@@ -992,6 +1364,9 @@
     "time": "6:30 م"
   },
   {
+    "date": "الأحد 2025/11/23",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "كريليا سوفيتوف",
     "homeLogo": "https://jdwel.com/image/teams/rus_krylya_sovetov.png",
     "away": "روستوف",
@@ -1000,6 +1375,9 @@
     "time": "12:00 م"
   },
   {
+    "date": "الأحد 2025/11/23",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "نيجني نوفغورود",
     "homeLogo": "https://jdwel.com/image/teams/1841.png",
     "away": "زينيت سانت بطرسبرغ",
@@ -1008,6 +1386,9 @@
     "time": "2:15 م"
   },
   {
+    "date": "الأحد 2025/11/23",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "دينامو موسكو",
     "homeLogo": "https://jdwel.com/image/teams/1287.png",
     "away": "دينامو مخاتشكالا",
@@ -1016,6 +1397,9 @@
     "time": "4:30 م"
   },
   {
+    "date": "الأحد 2025/11/23",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "لوكوموتيف موسكو",
     "homeLogo": "https://jdwel.com/image/teams/rus_lokomotiv_moskva.png",
     "away": "كراسنودار",
@@ -1024,6 +1408,9 @@
     "time": "6:45 م"
   },
   {
+    "date": "السبت 2025/11/29",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "أكرون تولياتي",
     "homeLogo": "https://jdwel.com/image/teams/811.png",
     "away": "نيجني نوفغورود",
@@ -1032,6 +1419,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "السبت 2025/11/29",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "سسكا موسكو",
     "homeLogo": "https://jdwel.com/image/teams/rus_cska_moskva.png",
     "away": "أورينبورغ",
@@ -1040,6 +1430,9 @@
     "time": "3:30 م"
   },
   {
+    "date": "السبت 2025/11/29",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "بالتيكا",
     "homeLogo": "https://jdwel.com/image/teams/rus_baltika.png",
     "away": "سبارتاك موسكو",
@@ -1048,6 +1441,9 @@
     "time": "6:30 م"
   },
   {
+    "date": "الأحد 2025/11/30",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "كراسنودار",
     "homeLogo": "https://jdwel.com/image/teams/rus_krasnodar.png",
     "away": "كريليا سوفيتوف",
@@ -1056,6 +1452,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "الأحد 2025/11/30",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "أخمات غروزني",
     "homeLogo": "https://jdwel.com/image/teams/1495.png",
     "away": "دينامو موسكو",
@@ -1064,6 +1463,9 @@
     "time": "3:30 م"
   },
   {
+    "date": "الأحد 2025/11/30",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "روستوف",
     "homeLogo": "https://jdwel.com/image/teams/1493.png",
     "away": "لوكوموتيف موسكو",
@@ -1072,6 +1474,9 @@
     "time": "3:30 م"
   },
   {
+    "date": "الأحد 2025/11/30",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "زينيت سانت بطرسبرغ",
     "homeLogo": "https://jdwel.com/image/teams/1288.png",
     "away": "روبين كازان",
@@ -1080,6 +1485,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأثنين 2025/12/01",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "سوشي",
     "homeLogo": "https://jdwel.com/image/teams/1492.png",
     "away": "دينامو مخاتشكالا",
@@ -1088,6 +1496,9 @@
     "time": "6:30 م"
   },
   {
+    "date": "الجمعة 2025/12/05",
+    "round": "الجولة 18",
+    "status": "انتهت",
     "home": "أخمات غروزني",
     "homeLogo": "https://jdwel.com/image/teams/1495.png",
     "away": "أورينبورغ",
@@ -1096,6 +1507,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/12/06",
+    "round": "الجولة 18",
+    "status": "انتهت",
     "home": "روستوف",
     "homeLogo": "https://jdwel.com/image/teams/1493.png",
     "away": "روبين كازان",
@@ -1104,6 +1518,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "السبت 2025/12/06",
+    "round": "الجولة 18",
+    "status": "انتهت",
     "home": "سبارتاك موسكو",
     "homeLogo": "https://jdwel.com/image/teams/1494.png",
     "away": "دينامو موسكو",
@@ -1112,6 +1529,9 @@
     "time": "3:45 م"
   },
   {
+    "date": "السبت 2025/12/06",
+    "round": "الجولة 18",
+    "status": "انتهت",
     "home": "زينيت سانت بطرسبرغ",
     "homeLogo": "https://jdwel.com/image/teams/1288.png",
     "away": "أكرون تولياتي",
@@ -1120,6 +1540,9 @@
     "time": "6:30 م"
   },
   {
+    "date": "الأحد 2025/12/07",
+    "round": "الجولة 18",
+    "status": "انتهت",
     "home": "دينامو مخاتشكالا",
     "homeLogo": "https://jdwel.com/image/teams/812.png",
     "away": "نيجني نوفغورود",
@@ -1128,6 +1551,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "الأحد 2025/12/07",
+    "round": "الجولة 18",
+    "status": "انتهت",
     "home": "سوشي",
     "homeLogo": "https://jdwel.com/image/teams/1492.png",
     "away": "لوكوموتيف موسكو",
@@ -1136,6 +1562,9 @@
     "time": "3:30 م"
   },
   {
+    "date": "الأحد 2025/12/07",
+    "round": "الجولة 18",
+    "status": "انتهت",
     "home": "بالتيكا",
     "homeLogo": "https://jdwel.com/image/teams/rus_baltika.png",
     "away": "كريليا سوفيتوف",
@@ -1144,6 +1573,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2025/12/07",
+    "round": "الجولة 18",
+    "status": "انتهت",
     "home": "كراسنودار",
     "homeLogo": "https://jdwel.com/image/teams/rus_krasnodar.png",
     "away": "سسكا موسكو",
@@ -1152,6 +1584,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الجمعة 2026/02/27",
+    "round": "الجولة 19",
+    "status": "قريباً",
     "home": "زينيت سانت بطرسبرغ",
     "homeLogo": "https://jdwel.com/image/teams/1288.png",
     "away": "بالتيكا",
@@ -1160,6 +1595,9 @@
     "time": "6:30 م"
   },
   {
+    "date": "السبت 2026/02/28",
+    "round": "الجولة 19",
+    "status": "قريباً",
     "home": "أورينبورغ",
     "homeLogo": "https://jdwel.com/image/teams/1496.png",
     "away": "أكرون تولياتي",
@@ -1168,6 +1606,9 @@
     "time": "11:00 ص"
   },
   {
+    "date": "السبت 2026/02/28",
+    "round": "الجولة 19",
+    "status": "قريباً",
     "home": "كراسنودار",
     "homeLogo": "https://jdwel.com/image/teams/rus_krasnodar.png",
     "away": "روستوف",
@@ -1176,6 +1617,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "السبت 2026/02/28",
+    "round": "الجولة 19",
+    "status": "قريباً",
     "home": "لوكوموتيف موسكو",
     "homeLogo": "https://jdwel.com/image/teams/rus_lokomotiv_moskva.png",
     "away": "نيجني نوفغورود",
@@ -1184,6 +1628,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "السبت 2026/02/28",
+    "round": "الجولة 19",
+    "status": "قريباً",
     "home": "دينامو مخاتشكالا",
     "homeLogo": "https://jdwel.com/image/teams/812.png",
     "away": "روبين كازان",
@@ -1192,6 +1639,9 @@
     "time": "6:30 م"
   },
   {
+    "date": "الأحد 2026/03/01",
+    "round": "الجولة 19",
+    "status": "قريباً",
     "home": "دينامو موسكو",
     "homeLogo": "https://jdwel.com/image/teams/1287.png",
     "away": "كريليا سوفيتوف",
@@ -1200,6 +1650,9 @@
     "time": "12:00 م"
   },
   {
+    "date": "الأحد 2026/03/01",
+    "round": "الجولة 19",
+    "status": "قريباً",
     "home": "سوشي",
     "homeLogo": "https://jdwel.com/image/teams/1492.png",
     "away": "سبارتاك موسكو",
@@ -1208,6 +1661,9 @@
     "time": "3:30 م"
   },
   {
+    "date": "الأحد 2026/03/01",
+    "round": "الجولة 19",
+    "status": "قريباً",
     "home": "أخمات غروزني",
     "homeLogo": "https://jdwel.com/image/teams/1495.png",
     "away": "سسكا موسكو",
@@ -1216,6 +1672,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2026/03/07",
+    "round": "الجولة 20",
+    "status": "قريباً",
     "home": "روستوف",
     "homeLogo": "https://jdwel.com/image/teams/1493.png",
     "away": "بالتيكا",
@@ -1224,6 +1683,9 @@
     "time": "3:30 م"
   },
   {
+    "date": "السبت 2026/03/07",
+    "round": "الجولة 20",
+    "status": "قريباً",
     "home": "نيجني نوفغورود",
     "homeLogo": "https://jdwel.com/image/teams/1841.png",
     "away": "سوشي",
@@ -1232,6 +1694,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2026/03/08",
+    "round": "الجولة 20",
+    "status": "قريباً",
     "home": "أورينبورغ",
     "homeLogo": "https://jdwel.com/image/teams/1496.png",
     "away": "زينيت سانت بطرسبرغ",
@@ -1240,6 +1705,9 @@
     "time": "11:00 ص"
   },
   {
+    "date": "الأحد 2026/03/08",
+    "round": "الجولة 20",
+    "status": "قريباً",
     "home": "كريليا سوفيتوف",
     "homeLogo": "https://jdwel.com/image/teams/rus_krylya_sovetov.png",
     "away": "دينامو مخاتشكالا",
@@ -1248,6 +1716,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الأحد 2026/03/08",
+    "round": "الجولة 20",
+    "status": "قريباً",
     "home": "روبين كازان",
     "homeLogo": "https://jdwel.com/image/teams/1491.png",
     "away": "كراسنودار",
@@ -1256,6 +1727,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الأحد 2026/03/08",
+    "round": "الجولة 20",
+    "status": "قريباً",
     "home": "سسكا موسكو",
     "homeLogo": "https://jdwel.com/image/teams/rus_cska_moskva.png",
     "away": "دينامو موسكو",
@@ -1264,6 +1738,9 @@
     "time": "6:30 م"
   },
   {
+    "date": "الأثنين 2026/03/09",
+    "round": "الجولة 20",
+    "status": "قريباً",
     "home": "لوكوموتيف موسكو",
     "homeLogo": "https://jdwel.com/image/teams/rus_lokomotiv_moskva.png",
     "away": "أخمات غروزني",
@@ -1272,6 +1749,9 @@
     "time": "3:30 م"
   },
   {
+    "date": "الأثنين 2026/03/09",
+    "round": "الجولة 20",
+    "status": "قريباً",
     "home": "سبارتاك موسكو",
     "homeLogo": "https://jdwel.com/image/teams/1494.png",
     "away": "أكرون تولياتي",
@@ -1280,6 +1760,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الجمعة 2026/03/13",
+    "round": "الجولة 21",
+    "status": "قريباً",
     "home": "دينامو مخاتشكالا",
     "homeLogo": "https://jdwel.com/image/teams/812.png",
     "away": "أورينبورغ",
@@ -1288,6 +1771,9 @@
     "time": "6:30 م"
   },
   {
+    "date": "السبت 2026/03/14",
+    "round": "الجولة 21",
+    "status": "قريباً",
     "home": "سوشي",
     "homeLogo": "https://jdwel.com/image/teams/1492.png",
     "away": "كراسنودار",
@@ -1296,6 +1782,9 @@
     "time": "12:45 م"
   },
   {
+    "date": "السبت 2026/03/14",
+    "round": "الجولة 21",
+    "status": "قريباً",
     "home": "زينيت سانت بطرسبرغ",
     "homeLogo": "https://jdwel.com/image/teams/1288.png",
     "away": "سبارتاك موسكو",
@@ -1304,6 +1793,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "السبت 2026/03/14",
+    "round": "الجولة 21",
+    "status": "قريباً",
     "home": "روستوف",
     "homeLogo": "https://jdwel.com/image/teams/1493.png",
     "away": "دينامو موسكو",
@@ -1312,6 +1804,9 @@
     "time": "5:15 م"
   },
   {
+    "date": "السبت 2026/03/14",
+    "round": "الجولة 21",
+    "status": "قريباً",
     "home": "بالتيكا",
     "homeLogo": "https://jdwel.com/image/teams/rus_baltika.png",
     "away": "سسكا موسكو",
@@ -1320,6 +1815,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الأحد 2026/03/15",
+    "round": "الجولة 21",
+    "status": "قريباً",
     "home": "أكرون تولياتي",
     "homeLogo": "https://jdwel.com/image/teams/811.png",
     "away": "أخمات غروزني",
@@ -1328,6 +1826,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "الأحد 2026/03/15",
+    "round": "الجولة 21",
+    "status": "قريباً",
     "home": "نيجني نوفغورود",
     "homeLogo": "https://jdwel.com/image/teams/1841.png",
     "away": "كريليا سوفيتوف",
@@ -1336,6 +1837,9 @@
     "time": "3:30 م"
   },
   {
+    "date": "الأحد 2026/03/15",
+    "round": "الجولة 21",
+    "status": "قريباً",
     "home": "روبين كازان",
     "homeLogo": "https://jdwel.com/image/teams/1491.png",
     "away": "لوكوموتيف موسكو",
@@ -1344,6 +1848,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2026/03/21",
+    "round": "الجولة 22",
+    "status": "قريباً",
     "home": "أخمات غروزني",
     "homeLogo": "https://jdwel.com/image/teams/1495.png",
     "away": "روستوف",
@@ -1352,6 +1859,9 @@
     "time": "12:45 م"
   },
   {
+    "date": "السبت 2026/03/21",
+    "round": "الجولة 22",
+    "status": "قريباً",
     "home": "سسكا موسكو",
     "homeLogo": "https://jdwel.com/image/teams/rus_cska_moskva.png",
     "away": "دينامو مخاتشكالا",
@@ -1360,6 +1870,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "السبت 2026/03/21",
+    "round": "الجولة 22",
+    "status": "قريباً",
     "home": "كراسنودار",
     "homeLogo": "https://jdwel.com/image/teams/rus_krasnodar.png",
     "away": "نيجني نوفغورود",
@@ -1368,6 +1881,9 @@
     "time": "5:15 م"
   },
   {
+    "date": "السبت 2026/03/21",
+    "round": "الجولة 22",
+    "status": "قريباً",
     "home": "بالتيكا",
     "homeLogo": "https://jdwel.com/image/teams/rus_baltika.png",
     "away": "سوشي",
@@ -1376,6 +1892,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الأحد 2026/03/22",
+    "round": "الجولة 22",
+    "status": "قريباً",
     "home": "أورينبورغ",
     "homeLogo": "https://jdwel.com/image/teams/1496.png",
     "away": "سبارتاك موسكو",
@@ -1384,6 +1903,9 @@
     "time": "12:45 م"
   },
   {
+    "date": "الأحد 2026/03/22",
+    "round": "الجولة 22",
+    "status": "قريباً",
     "home": "دينامو موسكو",
     "homeLogo": "https://jdwel.com/image/teams/1287.png",
     "away": "زينيت سانت بطرسبرغ",
@@ -1392,6 +1914,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأحد 2026/03/22",
+    "round": "الجولة 22",
+    "status": "قريباً",
     "home": "كريليا سوفيتوف",
     "homeLogo": "https://jdwel.com/image/teams/rus_krylya_sovetov.png",
     "away": "روبين كازان",
@@ -1400,6 +1925,9 @@
     "time": "3:30 م"
   },
   {
+    "date": "الأحد 2026/03/22",
+    "round": "الجولة 22",
+    "status": "قريباً",
     "home": "لوكوموتيف موسكو",
     "homeLogo": "https://jdwel.com/image/teams/rus_lokomotiv_moskva.png",
     "away": "أكرون تولياتي",
@@ -1408,6 +1936,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2026/04/05",
+    "round": "الجولة 23",
+    "status": "قريباً",
     "home": "أخمات غروزني",
     "homeLogo": "https://jdwel.com/image/teams/1495.png",
     "away": "كراسنودار",
@@ -1416,6 +1947,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/04/05",
+    "round": "الجولة 23",
+    "status": "قريباً",
     "home": "أكرون تولياتي",
     "homeLogo": "https://jdwel.com/image/teams/811.png",
     "away": "سسكا موسكو",
@@ -1424,6 +1958,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/04/05",
+    "round": "الجولة 23",
+    "status": "قريباً",
     "home": "دينامو مخاتشكالا",
     "homeLogo": "https://jdwel.com/image/teams/812.png",
     "away": "بالتيكا",
@@ -1432,6 +1969,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/04/05",
+    "round": "الجولة 23",
+    "status": "قريباً",
     "home": "سوشي",
     "homeLogo": "https://jdwel.com/image/teams/1492.png",
     "away": "روبين كازان",
@@ -1440,6 +1980,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/04/05",
+    "round": "الجولة 23",
+    "status": "قريباً",
     "home": "سبارتاك موسكو",
     "homeLogo": "https://jdwel.com/image/teams/1494.png",
     "away": "لوكوموتيف موسكو",
@@ -1448,6 +1991,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/04/05",
+    "round": "الجولة 23",
+    "status": "قريباً",
     "home": "نيجني نوفغورود",
     "homeLogo": "https://jdwel.com/image/teams/1841.png",
     "away": "روستوف",
@@ -1456,6 +2002,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/04/05",
+    "round": "الجولة 23",
+    "status": "قريباً",
     "home": "زينيت سانت بطرسبرغ",
     "homeLogo": "https://jdwel.com/image/teams/1288.png",
     "away": "كريليا سوفيتوف",
@@ -1464,6 +2013,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/04/05",
+    "round": "الجولة 23",
+    "status": "قريباً",
     "home": "دينامو موسكو",
     "homeLogo": "https://jdwel.com/image/teams/1287.png",
     "away": "أورينبورغ",
@@ -1472,6 +2024,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/04/12",
+    "round": "الجولة 24",
+    "status": "قريباً",
     "home": "أكرون تولياتي",
     "homeLogo": "https://jdwel.com/image/teams/811.png",
     "away": "دينامو موسكو",
@@ -1480,6 +2035,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/04/12",
+    "round": "الجولة 24",
+    "status": "قريباً",
     "home": "بالتيكا",
     "homeLogo": "https://jdwel.com/image/teams/rus_baltika.png",
     "away": "نيجني نوفغورود",
@@ -1488,6 +2046,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/04/12",
+    "round": "الجولة 24",
+    "status": "قريباً",
     "home": "سسكا موسكو",
     "homeLogo": "https://jdwel.com/image/teams/rus_cska_moskva.png",
     "away": "سوشي",
@@ -1496,6 +2057,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/04/12",
+    "round": "الجولة 24",
+    "status": "قريباً",
     "home": "روستوف",
     "homeLogo": "https://jdwel.com/image/teams/1493.png",
     "away": "سبارتاك موسكو",
@@ -1504,6 +2068,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/04/12",
+    "round": "الجولة 24",
+    "status": "قريباً",
     "home": "كريليا سوفيتوف",
     "homeLogo": "https://jdwel.com/image/teams/rus_krylya_sovetov.png",
     "away": "أخمات غروزني",
@@ -1512,6 +2079,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/04/12",
+    "round": "الجولة 24",
+    "status": "قريباً",
     "home": "لوكوموتيف موسكو",
     "homeLogo": "https://jdwel.com/image/teams/rus_lokomotiv_moskva.png",
     "away": "دينامو مخاتشكالا",
@@ -1520,6 +2090,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/04/12",
+    "round": "الجولة 24",
+    "status": "قريباً",
     "home": "زينيت سانت بطرسبرغ",
     "homeLogo": "https://jdwel.com/image/teams/1288.png",
     "away": "كراسنودار",
@@ -1528,6 +2101,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/04/12",
+    "round": "الجولة 24",
+    "status": "قريباً",
     "home": "روبين كازان",
     "homeLogo": "https://jdwel.com/image/teams/1491.png",
     "away": "أورينبورغ",
@@ -1536,6 +2112,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/04/19",
+    "round": "الجولة 25",
+    "status": "قريباً",
     "home": "دينامو مخاتشكالا",
     "homeLogo": "https://jdwel.com/image/teams/812.png",
     "away": "زينيت سانت بطرسبرغ",
@@ -1544,6 +2123,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/04/19",
+    "round": "الجولة 25",
+    "status": "قريباً",
     "home": "روستوف",
     "homeLogo": "https://jdwel.com/image/teams/1493.png",
     "away": "سوشي",
@@ -1552,6 +2134,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/04/19",
+    "round": "الجولة 25",
+    "status": "قريباً",
     "home": "سبارتاك موسكو",
     "homeLogo": "https://jdwel.com/image/teams/1494.png",
     "away": "أخمات غروزني",
@@ -1560,6 +2145,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/04/19",
+    "round": "الجولة 25",
+    "status": "قريباً",
     "home": "كراسنودار",
     "homeLogo": "https://jdwel.com/image/teams/rus_krasnodar.png",
     "away": "بالتيكا",
@@ -1568,6 +2156,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/04/19",
+    "round": "الجولة 25",
+    "status": "قريباً",
     "home": "كريليا سوفيتوف",
     "homeLogo": "https://jdwel.com/image/teams/rus_krylya_sovetov.png",
     "away": "سسكا موسكو",
@@ -1576,6 +2167,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/04/19",
+    "round": "الجولة 25",
+    "status": "قريباً",
     "home": "نيجني نوفغورود",
     "homeLogo": "https://jdwel.com/image/teams/1841.png",
     "away": "دينامو موسكو",
@@ -1584,6 +2178,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/04/19",
+    "round": "الجولة 25",
+    "status": "قريباً",
     "home": "روبين كازان",
     "homeLogo": "https://jdwel.com/image/teams/1491.png",
     "away": "أكرون تولياتي",
@@ -1592,6 +2189,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/04/19",
+    "round": "الجولة 25",
+    "status": "قريباً",
     "home": "أورينبورغ",
     "homeLogo": "https://jdwel.com/image/teams/1496.png",
     "away": "لوكوموتيف موسكو",
@@ -1600,6 +2200,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الخميس 2026/04/23",
+    "round": "الجولة 26",
+    "status": "قريباً",
     "home": "أخمات غروزني",
     "homeLogo": "https://jdwel.com/image/teams/1495.png",
     "away": "بالتيكا",
@@ -1608,6 +2211,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الخميس 2026/04/23",
+    "round": "الجولة 26",
+    "status": "قريباً",
     "home": "أكرون تولياتي",
     "homeLogo": "https://jdwel.com/image/teams/811.png",
     "away": "دينامو مخاتشكالا",
@@ -1616,6 +2222,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الخميس 2026/04/23",
+    "round": "الجولة 26",
+    "status": "قريباً",
     "home": "سسكا موسكو",
     "homeLogo": "https://jdwel.com/image/teams/rus_cska_moskva.png",
     "away": "روستوف",
@@ -1624,6 +2233,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الخميس 2026/04/23",
+    "round": "الجولة 26",
+    "status": "قريباً",
     "home": "دينامو موسكو",
     "homeLogo": "https://jdwel.com/image/teams/1287.png",
     "away": "روبين كازان",
@@ -1632,6 +2244,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الخميس 2026/04/23",
+    "round": "الجولة 26",
+    "status": "قريباً",
     "home": "سوشي",
     "homeLogo": "https://jdwel.com/image/teams/1492.png",
     "away": "كريليا سوفيتوف",
@@ -1640,6 +2255,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الخميس 2026/04/23",
+    "round": "الجولة 26",
+    "status": "قريباً",
     "home": "سبارتاك موسكو",
     "homeLogo": "https://jdwel.com/image/teams/1494.png",
     "away": "كراسنودار",
@@ -1648,6 +2266,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الخميس 2026/04/23",
+    "round": "الجولة 26",
+    "status": "قريباً",
     "home": "لوكوموتيف موسكو",
     "homeLogo": "https://jdwel.com/image/teams/rus_lokomotiv_moskva.png",
     "away": "زينيت سانت بطرسبرغ",
@@ -1656,6 +2277,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الخميس 2026/04/23",
+    "round": "الجولة 26",
+    "status": "قريباً",
     "home": "أورينبورغ",
     "homeLogo": "https://jdwel.com/image/teams/1496.png",
     "away": "نيجني نوفغورود",
@@ -1664,6 +2288,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/04/26",
+    "round": "الجولة 27",
+    "status": "قريباً",
     "home": "بالتيكا",
     "homeLogo": "https://jdwel.com/image/teams/rus_baltika.png",
     "away": "أكرون تولياتي",
@@ -1672,6 +2299,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2026/04/26",
+    "round": "الجولة 27",
+    "status": "قريباً",
     "home": "دينامو موسكو",
     "homeLogo": "https://jdwel.com/image/teams/1287.png",
     "away": "سوشي",
@@ -1680,6 +2310,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2026/04/26",
+    "round": "الجولة 27",
+    "status": "قريباً",
     "home": "كراسنودار",
     "homeLogo": "https://jdwel.com/image/teams/rus_krasnodar.png",
     "away": "دينامو مخاتشكالا",
@@ -1688,6 +2321,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2026/04/26",
+    "round": "الجولة 27",
+    "status": "قريباً",
     "home": "كريليا سوفيتوف",
     "homeLogo": "https://jdwel.com/image/teams/rus_krylya_sovetov.png",
     "away": "لوكوموتيف موسكو",
@@ -1696,6 +2332,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2026/04/26",
+    "round": "الجولة 27",
+    "status": "قريباً",
     "home": "نيجني نوفغورود",
     "homeLogo": "https://jdwel.com/image/teams/1841.png",
     "away": "سبارتاك موسكو",
@@ -1704,6 +2343,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2026/04/26",
+    "round": "الجولة 27",
+    "status": "قريباً",
     "home": "روبين كازان",
     "homeLogo": "https://jdwel.com/image/teams/1491.png",
     "away": "سسكا موسكو",
@@ -1712,6 +2354,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2026/04/26",
+    "round": "الجولة 27",
+    "status": "قريباً",
     "home": "زينيت سانت بطرسبرغ",
     "homeLogo": "https://jdwel.com/image/teams/1288.png",
     "away": "أخمات غروزني",
@@ -1720,6 +2365,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2026/04/26",
+    "round": "الجولة 27",
+    "status": "قريباً",
     "home": "روستوف",
     "homeLogo": "https://jdwel.com/image/teams/1493.png",
     "away": "أورينبورغ",
@@ -1728,6 +2376,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2026/05/03",
+    "round": "الجولة 28",
+    "status": "قريباً",
     "home": "سسكا موسكو",
     "homeLogo": "https://jdwel.com/image/teams/rus_cska_moskva.png",
     "away": "زينيت سانت بطرسبرغ",
@@ -1736,6 +2387,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2026/05/03",
+    "round": "الجولة 28",
+    "status": "قريباً",
     "home": "كريليا سوفيتوف",
     "homeLogo": "https://jdwel.com/image/teams/rus_krylya_sovetov.png",
     "away": "سبارتاك موسكو",
@@ -1744,6 +2398,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2026/05/03",
+    "round": "الجولة 28",
+    "status": "قريباً",
     "home": "لوكوموتيف موسكو",
     "homeLogo": "https://jdwel.com/image/teams/rus_lokomotiv_moskva.png",
     "away": "دينامو موسكو",
@@ -1752,6 +2409,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2026/05/03",
+    "round": "الجولة 28",
+    "status": "قريباً",
     "home": "أخمات غروزني",
     "homeLogo": "https://jdwel.com/image/teams/1495.png",
     "away": "نيجني نوفغورود",
@@ -1760,6 +2420,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2026/05/03",
+    "round": "الجولة 28",
+    "status": "قريباً",
     "home": "بالتيكا",
     "homeLogo": "https://jdwel.com/image/teams/rus_baltika.png",
     "away": "روبين كازان",
@@ -1768,6 +2431,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2026/05/03",
+    "round": "الجولة 28",
+    "status": "قريباً",
     "home": "دينامو مخاتشكالا",
     "homeLogo": "https://jdwel.com/image/teams/812.png",
     "away": "روستوف",
@@ -1776,6 +2442,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2026/05/03",
+    "round": "الجولة 28",
+    "status": "قريباً",
     "home": "أكرون تولياتي",
     "homeLogo": "https://jdwel.com/image/teams/811.png",
     "away": "كراسنودار",
@@ -1784,6 +2453,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2026/05/03",
+    "round": "الجولة 28",
+    "status": "قريباً",
     "home": "سوشي",
     "homeLogo": "https://jdwel.com/image/teams/1492.png",
     "away": "أورينبورغ",
@@ -1792,6 +2464,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2026/05/10",
+    "round": "الجولة 29",
+    "status": "قريباً",
     "home": "أخمات غروزني",
     "homeLogo": "https://jdwel.com/image/teams/1495.png",
     "away": "دينامو مخاتشكالا",
@@ -1800,6 +2475,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2026/05/10",
+    "round": "الجولة 29",
+    "status": "قريباً",
     "home": "أكرون تولياتي",
     "homeLogo": "https://jdwel.com/image/teams/811.png",
     "away": "روستوف",
@@ -1808,6 +2486,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2026/05/10",
+    "round": "الجولة 29",
+    "status": "قريباً",
     "home": "دينامو موسكو",
     "homeLogo": "https://jdwel.com/image/teams/1287.png",
     "away": "كراسنودار",
@@ -1816,6 +2497,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2026/05/10",
+    "round": "الجولة 29",
+    "status": "قريباً",
     "home": "سبارتاك موسكو",
     "homeLogo": "https://jdwel.com/image/teams/1494.png",
     "away": "روبين كازان",
@@ -1824,6 +2508,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2026/05/10",
+    "round": "الجولة 29",
+    "status": "قريباً",
     "home": "لوكوموتيف موسكو",
     "homeLogo": "https://jdwel.com/image/teams/rus_lokomotiv_moskva.png",
     "away": "بالتيكا",
@@ -1832,6 +2519,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2026/05/10",
+    "round": "الجولة 29",
+    "status": "قريباً",
     "home": "نيجني نوفغورود",
     "homeLogo": "https://jdwel.com/image/teams/1841.png",
     "away": "سسكا موسكو",
@@ -1840,6 +2530,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2026/05/10",
+    "round": "الجولة 29",
+    "status": "قريباً",
     "home": "زينيت سانت بطرسبرغ",
     "homeLogo": "https://jdwel.com/image/teams/1288.png",
     "away": "سوشي",
@@ -1848,6 +2541,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2026/05/10",
+    "round": "الجولة 29",
+    "status": "قريباً",
     "home": "أورينبورغ",
     "homeLogo": "https://jdwel.com/image/teams/1496.png",
     "away": "كريليا سوفيتوف",
@@ -1856,6 +2552,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2026/05/17",
+    "round": "الجولة 30",
+    "status": "قريباً",
     "home": "بالتيكا",
     "homeLogo": "https://jdwel.com/image/teams/rus_baltika.png",
     "away": "دينامو موسكو",
@@ -1864,6 +2563,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2026/05/17",
+    "round": "الجولة 30",
+    "status": "قريباً",
     "home": "سسكا موسكو",
     "homeLogo": "https://jdwel.com/image/teams/rus_cska_moskva.png",
     "away": "لوكوموتيف موسكو",
@@ -1872,6 +2574,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2026/05/17",
+    "round": "الجولة 30",
+    "status": "قريباً",
     "home": "دينامو مخاتشكالا",
     "homeLogo": "https://jdwel.com/image/teams/812.png",
     "away": "سبارتاك موسكو",
@@ -1880,6 +2585,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2026/05/17",
+    "round": "الجولة 30",
+    "status": "قريباً",
     "home": "روستوف",
     "homeLogo": "https://jdwel.com/image/teams/1493.png",
     "away": "زينيت سانت بطرسبرغ",
@@ -1888,6 +2596,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2026/05/17",
+    "round": "الجولة 30",
+    "status": "قريباً",
     "home": "سوشي",
     "homeLogo": "https://jdwel.com/image/teams/1492.png",
     "away": "أخمات غروزني",
@@ -1896,6 +2607,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2026/05/17",
+    "round": "الجولة 30",
+    "status": "قريباً",
     "home": "كريليا سوفيتوف",
     "homeLogo": "https://jdwel.com/image/teams/rus_krylya_sovetov.png",
     "away": "أكرون تولياتي",
@@ -1904,6 +2618,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2026/05/17",
+    "round": "الجولة 30",
+    "status": "قريباً",
     "home": "روبين كازان",
     "homeLogo": "https://jdwel.com/image/teams/1491.png",
     "away": "نيجني نوفغورود",
@@ -1912,6 +2629,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2026/05/17",
+    "round": "الجولة 30",
+    "status": "قريباً",
     "home": "كراسنودار",
     "homeLogo": "https://jdwel.com/image/teams/rus_krasnodar.png",
     "away": "أورينبورغ",

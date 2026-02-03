@@ -1,5 +1,8 @@
 [
   {
+    "date": "الأثنين 2025/09/08",
+    "round": "",
+    "status": "انتهت",
     "home": "إيران",
     "homeLogo": "https://jdwel.com/image/teams/flag_iran_v2.png",
     "away": "أوزبكستان",
@@ -8,14 +11,9 @@
     "time": "5:30 م"
   },
   {
-    "home": "الهند",
-    "homeLogo": "https://jdwel.com/image/teams/60.png",
-    "away": "عمان",
-    "awayLogo": "https://jdwel.com/image/teams/flag_oman_v2.png",
-    "score": "1 - 1 3 - 2",
-    "time": "3:00 م"
-  },
-  {
+    "date": "الجمعة 2025/09/05",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "أوزبكستان",
     "homeLogo": "https://jdwel.com/image/teams/59.png",
     "away": "قرغيزستان",
@@ -24,6 +22,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "الجمعة 2025/09/05",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "تركمانستان",
     "homeLogo": "https://jdwel.com/image/teams/68.png",
     "away": "عمان",
@@ -32,6 +33,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الخميس 2025/09/04",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "طاجيكستان",
     "homeLogo": "https://jdwel.com/image/teams/58.png",
     "away": "إيران",
@@ -40,6 +44,9 @@
     "time": "6:30 م"
   },
   {
+    "date": "الخميس 2025/09/04",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "أفغانستان",
     "homeLogo": "https://jdwel.com/image/teams/61.png",
     "away": "الهند",
@@ -48,6 +55,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الثلاثاء 2025/09/02",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "تركمانستان",
     "homeLogo": "https://jdwel.com/image/teams/68.png",
     "away": "أوزبكستان",
@@ -56,6 +66,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "الثلاثاء 2025/09/02",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "عمان",
     "homeLogo": "https://jdwel.com/image/teams/flag_oman_v2.png",
     "away": "قرغيزستان",
@@ -64,6 +77,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأثنين 2025/09/01",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "أفغانستان",
     "homeLogo": "https://jdwel.com/image/teams/61.png",
     "away": "طاجيكستان",
@@ -72,6 +88,9 @@
     "time": "6:30 م"
   },
   {
+    "date": "الأثنين 2025/09/01",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "الهند",
     "homeLogo": "https://jdwel.com/image/teams/60.png",
     "away": "إيران",
@@ -80,6 +99,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "السبت 2025/08/30",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "أوزبكستان",
     "homeLogo": "https://jdwel.com/image/teams/59.png",
     "away": "عمان",
@@ -88,6 +110,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "السبت 2025/08/30",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "قرغيزستان",
     "homeLogo": "https://jdwel.com/image/teams/67.png",
     "away": "تركمانستان",
@@ -96,6 +121,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الجمعة 2025/08/29",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "طاجيكستان",
     "homeLogo": "https://jdwel.com/image/teams/58.png",
     "away": "الهند",
@@ -104,6 +132,9 @@
     "time": "6:30 م"
   },
   {
+    "date": "الجمعة 2025/08/29",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "إيران",
     "homeLogo": "https://jdwel.com/image/teams/flag_iran_v2.png",
     "away": "أفغانستان",

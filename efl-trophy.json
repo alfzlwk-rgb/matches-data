@@ -1,5 +1,8 @@
 [
   {
+    "date": "الثلاثاء 2025/08/26",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "أولدهام أثليتيك",
     "homeLogo": "https://jdwel.com/image/teams/3411.png",
     "away": "مانشستر سيتي",
@@ -8,22 +11,9 @@
     "time": "9:00 م"
   },
   {
-    "home": "بريستول روفرز",
-    "homeLogo": "https://jdwel.com/image/teams/eng_bristol_rovers.png",
-    "away": "توتنهام هوتسبير",
-    "awayLogo": "https://jdwel.com/image/teams/1018.png",
-    "score": "4 - 4 5 - 4",
-    "time": "9:00 م"
-  },
-  {
-    "home": "شروزبري تاون",
-    "homeLogo": "https://jdwel.com/image/teams/1029.png",
-    "away": "تشيلسي",
-    "awayLogo": "https://jdwel.com/image/teams/3209.png",
-    "score": "3 - 1",
-    "time": "9:00 م"
-  },
-  {
+    "date": "الثلاثاء 2025/09/02",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "ويغان أتلتيك",
     "homeLogo": "https://jdwel.com/image/teams/3205.png",
     "away": "سالفورد سيتي",
@@ -32,6 +22,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الثلاثاء 2025/09/02",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "ستوكبورت كاونتي",
     "homeLogo": "https://jdwel.com/image/teams/3131.png",
     "away": "وولفرهامبتون",
@@ -40,6 +33,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الثلاثاء 2025/09/02",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "لينكولن سيتي",
     "homeLogo": "https://jdwel.com/image/teams/1119.png",
     "away": "نوتس كاونتي",
@@ -48,6 +44,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الثلاثاء 2025/09/02",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "بولتون واندررز",
     "homeLogo": "https://jdwel.com/image/teams/2628.png",
     "away": "روثيرهام يونايتد",
@@ -56,6 +55,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الثلاثاء 2025/09/02",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "فليتوود تاون",
     "homeLogo": "https://jdwel.com/image/teams/eng_fleetwood_town.png",
     "away": "أكرينغتون ستانلي",
@@ -64,6 +66,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الثلاثاء 2025/09/02",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "بورت فايل",
     "homeLogo": "https://jdwel.com/image/teams/1108.png",
     "away": "ليدز يونايتد",
@@ -72,6 +77,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الثلاثاء 2025/09/02",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "كرو ألكساندرا",
     "homeLogo": "https://jdwel.com/image/teams/eng_crewe_alexandra.png",
     "away": "تشيسترفيلد",
@@ -80,110 +88,9 @@
     "time": "9:00 م"
   },
   {
-    "home": "بليموث أرجايل",
-    "homeLogo": "https://jdwel.com/image/teams/eng_plymouth.png",
-    "away": "تشيلتنهام تاون",
-    "awayLogo": "https://jdwel.com/image/teams/eng_cheltenham_town.png",
-    "score": "2 - 0",
-    "time": "9:00 م"
-  },
-  {
-    "home": "سويندون تاون",
-    "homeLogo": "https://jdwel.com/image/teams/3280.png",
-    "away": "ريدنغ",
-    "awayLogo": "https://jdwel.com/image/teams/1676.png",
-    "score": "3 - 2",
-    "time": "9:00 م"
-  },
-  {
-    "home": "ويمبلدون",
-    "homeLogo": "https://jdwel.com/image/teams/1030.png",
-    "away": "ستيفيناغ",
-    "awayLogo": "https://jdwel.com/image/teams/3204.png",
-    "score": "1 - 5",
-    "time": "9:00 م"
-  },
-  {
-    "home": "بيتربورو يونايتد",
-    "homeLogo": "https://jdwel.com/image/teams/eng_peterborough_united.png",
-    "away": "ليتون أورينت",
-    "awayLogo": "https://jdwel.com/image/teams/eng_leyton_orient.png",
-    "score": "1 - 3",
-    "time": "9:00 م"
-  },
-  {
-    "home": "غيلينغهام",
-    "homeLogo": "https://jdwel.com/image/teams/eng_gillingham.png",
-    "away": "فولهام",
-    "awayLogo": "https://jdwel.com/image/teams/280.png",
-    "score": "4 - 1",
-    "time": "9:00 م"
-  },
-  {
-    "home": "ويكمب وندررز",
-    "homeLogo": "https://jdwel.com/image/teams/eng_wycombe_wanderers.png",
-    "away": "كولتشستر يونايتد",
-    "awayLogo": "https://jdwel.com/image/teams/1090.png",
-    "score": "1 - 2",
-    "time": "9:00 م"
-  },
-  {
-    "home": "شروزبري تاون",
-    "homeLogo": "https://jdwel.com/image/teams/1029.png",
-    "away": "ولسول",
-    "awayLogo": "https://jdwel.com/image/teams/eng_walsall.png",
-    "score": "1 - 3",
-    "time": "9:00 م"
-  },
-  {
-    "home": "دونكاستر روفرز",
-    "homeLogo": "https://jdwel.com/image/teams/4845.png",
-    "away": "إيفرتون",
-    "awayLogo": "https://jdwel.com/image/teams/1684.png",
-    "score": "2 - 1",
-    "time": "9:00 م"
-  },
-  {
-    "home": "بيرتن ألبيون",
-    "homeLogo": "https://jdwel.com/image/teams/4733.png",
-    "away": "ليفربول",
-    "awayLogo": "https://jdwel.com/image/teams/1512.png",
-    "score": "2 - 0",
-    "time": "9:00 م"
-  },
-  {
-    "home": "برادفورد سيتي",
-    "homeLogo": "https://jdwel.com/image/teams/4844.png",
-    "away": "غريمسبي تاون",
-    "awayLogo": "https://jdwel.com/image/teams/1759.png",
-    "score": "2 - 1",
-    "time": "9:30 م"
-  },
-  {
-    "home": "لوتون تاون",
-    "homeLogo": "https://jdwel.com/image/teams/1114.png",
-    "away": "بارنت",
-    "awayLogo": "https://jdwel.com/image/teams/eng_barnet.png",
-    "score": "4 - 1",
-    "time": "9:30 م"
-  },
-  {
-    "home": "هدرسفيلد تاون",
-    "homeLogo": "https://jdwel.com/image/teams/3152.png",
-    "away": "نيوكاسل يونايتد",
-    "awayLogo": "https://jdwel.com/image/teams/3061.png",
-    "score": "6 - 2",
-    "time": "9:45 م"
-  },
-  {
-    "home": "بروملي",
-    "homeLogo": "https://jdwel.com/image/teams/1092.png",
-    "away": "كريستال بالاس",
-    "awayLogo": "https://jdwel.com/image/teams/1279.png",
-    "score": "3 - 3 4 - 3",
-    "time": "9:45 م"
-  },
-  {
+    "date": "الثلاثاء 2025/09/09",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "ترانمير روفرز",
     "homeLogo": "https://jdwel.com/image/teams/1099.png",
     "away": "نوتينغهام فورست",
@@ -192,6 +99,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الثلاثاء 2025/09/09",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "مانسفيلد تاون",
     "homeLogo": "https://jdwel.com/image/teams/eng_mansfield_town.png",
     "away": "هاروغيت تاون",
@@ -200,6 +110,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الثلاثاء 2025/09/16",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "بلاكبول",
     "homeLogo": "https://jdwel.com/image/teams/1677.png",
     "away": "بارو",
@@ -208,38 +121,9 @@
     "time": "9:00 م"
   },
   {
-    "home": "إكستر سيتي",
-    "homeLogo": "https://jdwel.com/image/teams/3412.png",
-    "away": "كارديف سيتي",
-    "awayLogo": "https://jdwel.com/image/teams/4818.png",
-    "score": "0 - 1",
-    "time": "9:00 م"
-  },
-  {
-    "home": "ميلتون كينز دونز",
-    "homeLogo": "https://jdwel.com/image/teams/3207.png",
-    "away": "وست هام يونايتد",
-    "awayLogo": "https://jdwel.com/image/teams/5168.png",
-    "score": "1 - 5",
-    "time": "9:00 م"
-  },
-  {
-    "home": "ويمبلدون",
-    "homeLogo": "https://jdwel.com/image/teams/1030.png",
-    "away": "كريستال بالاس",
-    "awayLogo": "https://jdwel.com/image/teams/1279.png",
-    "score": "3 - 1",
-    "time": "9:00 م"
-  },
-  {
-    "home": "كراولي تاون",
-    "homeLogo": "https://jdwel.com/image/teams/eng_crawley_town.png",
-    "away": "أستون فيلا",
-    "awayLogo": "https://jdwel.com/image/teams/767.png",
-    "score": "4 - 2",
-    "time": "9:45 م"
-  },
-  {
+    "date": "الثلاثاء 2025/09/23",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "بولتون واندررز",
     "homeLogo": "https://jdwel.com/image/teams/2628.png",
     "away": "مانشستر سيتي",
@@ -248,30 +132,9 @@
     "time": "9:00 م"
   },
   {
-    "home": "نيوبورت كاونتي",
-    "homeLogo": "https://jdwel.com/image/teams/eng_newport_county.png",
-    "away": "آرسنال",
-    "awayLogo": "https://jdwel.com/image/teams/2999.png",
-    "score": "1 - 2",
-    "time": "9:00 م"
-  },
-  {
-    "home": "نورثامبتون تاون",
-    "homeLogo": "https://jdwel.com/image/teams/1088.png",
-    "away": "تشيلسي",
-    "awayLogo": "https://jdwel.com/image/teams/3209.png",
-    "score": "3 - 0",
-    "time": "9:00 م"
-  },
-  {
-    "home": "بليموث أرجايل",
-    "homeLogo": "https://jdwel.com/image/teams/eng_plymouth.png",
-    "away": "توتنهام هوتسبير",
-    "awayLogo": "https://jdwel.com/image/teams/1018.png",
-    "score": "6 - 2",
-    "time": "9:00 م"
-  },
-  {
+    "date": "الثلاثاء 2025/09/30",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "لينكولن سيتي",
     "homeLogo": "https://jdwel.com/image/teams/1119.png",
     "away": "مانشستر يونايتد",
@@ -280,6 +143,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الثلاثاء 2025/09/30",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "نوتس كاونتي",
     "homeLogo": "https://jdwel.com/image/teams/4531.png",
     "away": "بارنسلي",
@@ -288,38 +154,9 @@
     "time": "9:00 م"
   },
   {
-    "home": "بيتربورو يونايتد",
-    "homeLogo": "https://jdwel.com/image/teams/eng_peterborough_united.png",
-    "away": "أستون فيلا",
-    "awayLogo": "https://jdwel.com/image/teams/767.png",
-    "score": "4 - 2",
-    "time": "9:00 م"
-  },
-  {
-    "home": "ريدنغ",
-    "homeLogo": "https://jdwel.com/image/teams/1676.png",
-    "away": "وست هام يونايتد",
-    "awayLogo": "https://jdwel.com/image/teams/5168.png",
-    "score": "3 - 1",
-    "time": "9:00 م"
-  },
-  {
-    "home": "هاروغيت تاون",
-    "homeLogo": "https://jdwel.com/image/teams/3279.png",
-    "away": "هدرسفيلد تاون",
-    "awayLogo": "https://jdwel.com/image/teams/3152.png",
-    "score": "1 - 0",
-    "time": "9:45 م"
-  },
-  {
-    "home": "بارنت",
-    "homeLogo": "https://jdwel.com/image/teams/eng_barnet.png",
-    "away": "برايتون",
-    "awayLogo": "https://jdwel.com/image/teams/5088.png",
-    "score": "1 - 1 5 - 4",
-    "time": "9:45 م"
-  },
-  {
+    "date": "الثلاثاء 2025/10/07",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "ويغان أتلتيك",
     "homeLogo": "https://jdwel.com/image/teams/3205.png",
     "away": "وولفرهامبتون",
@@ -328,6 +165,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الثلاثاء 2025/10/07",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "سالفورد سيتي",
     "homeLogo": "https://jdwel.com/image/teams/1.png",
     "away": "ستوكبورت كاونتي",
@@ -336,6 +176,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الثلاثاء 2025/10/07",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "غريمسبي تاون",
     "homeLogo": "https://jdwel.com/image/teams/1759.png",
     "away": "دونكاستر روفرز",
@@ -344,6 +187,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الثلاثاء 2025/10/07",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "روثيرهام يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/eng_rotherham_united.png",
     "away": "أولدهام أثليتيك",
@@ -352,6 +198,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الثلاثاء 2025/10/07",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "فليتوود تاون",
     "homeLogo": "https://jdwel.com/image/teams/eng_fleetwood_town.png",
     "away": "ليدز يونايتد",
@@ -360,102 +209,9 @@
     "time": "9:00 م"
   },
   {
-    "home": "تشيلتنهام تاون",
-    "homeLogo": "https://jdwel.com/image/teams/eng_cheltenham_town.png",
-    "away": "بريستول روفرز",
-    "awayLogo": "https://jdwel.com/image/teams/eng_bristol_rovers.png",
-    "score": "0 - 1",
-    "time": "9:00 م"
-  },
-  {
-    "home": "ريدنغ",
-    "homeLogo": "https://jdwel.com/image/teams/1676.png",
-    "away": "ميلتون كينز دونز",
-    "awayLogo": "https://jdwel.com/image/teams/3207.png",
-    "score": "1 - 0",
-    "time": "9:00 م"
-  },
-  {
-    "home": "ستيفيناغ",
-    "homeLogo": "https://jdwel.com/image/teams/3204.png",
-    "away": "بروملي",
-    "awayLogo": "https://jdwel.com/image/teams/1092.png",
-    "score": "2 - 1",
-    "time": "9:00 م"
-  },
-  {
-    "home": "ليتون أورينت",
-    "homeLogo": "https://jdwel.com/image/teams/eng_leyton_orient.png",
-    "away": "كراولي تاون",
-    "awayLogo": "https://jdwel.com/image/teams/eng_crawley_town.png",
-    "score": "2 - 1",
-    "time": "9:00 م"
-  },
-  {
-    "home": "ويكمب وندررز",
-    "homeLogo": "https://jdwel.com/image/teams/eng_wycombe_wanderers.png",
-    "away": "فولهام",
-    "awayLogo": "https://jdwel.com/image/teams/280.png",
-    "score": "3 - 1",
-    "time": "9:00 م"
-  },
-  {
-    "home": "كامبريدج يونايتد",
-    "homeLogo": "https://jdwel.com/image/teams/4734.png",
-    "away": "لوتون تاون",
-    "awayLogo": "https://jdwel.com/image/teams/1114.png",
-    "score": "3 - 1",
-    "time": "9:00 م"
-  },
-  {
-    "home": "تشيسترفيلد",
-    "homeLogo": "https://jdwel.com/image/teams/eng_chesterfield.png",
-    "away": "بيرتن ألبيون",
-    "awayLogo": "https://jdwel.com/image/teams/4733.png",
-    "score": "1 - 0",
-    "time": "9:00 م"
-  },
-  {
-    "home": "ولسول",
-    "homeLogo": "https://jdwel.com/image/teams/eng_walsall.png",
-    "away": "نورثامبتون تاون",
-    "awayLogo": "https://jdwel.com/image/teams/1088.png",
-    "score": "0 - 1",
-    "time": "9:00 م"
-  },
-  {
-    "home": "بارو",
-    "homeLogo": "https://jdwel.com/image/teams/1093.png",
-    "away": "ترانمير روفرز",
-    "awayLogo": "https://jdwel.com/image/teams/1099.png",
-    "score": "1 - 2",
-    "time": "9:30 م"
-  },
-  {
-    "home": "أكرينغتون ستانلي",
-    "homeLogo": "https://jdwel.com/image/teams/eng_accrington_stanley.png",
-    "away": "بورت فايل",
-    "awayLogo": "https://jdwel.com/image/teams/1108.png",
-    "score": "0 - 2",
-    "time": "9:45 م"
-  },
-  {
-    "home": "كولتشستر يونايتد",
-    "homeLogo": "https://jdwel.com/image/teams/1090.png",
-    "away": "غيلينغهام",
-    "awayLogo": "https://jdwel.com/image/teams/eng_gillingham.png",
-    "score": "2 - 1",
-    "time": "9:45 م"
-  },
-  {
-    "home": "كارديف سيتي",
-    "homeLogo": "https://jdwel.com/image/teams/4818.png",
-    "away": "نيوبورت كاونتي",
-    "awayLogo": "https://jdwel.com/image/teams/eng_newport_county.png",
-    "score": "0 - 1",
-    "time": "9:45 م"
-  },
-  {
+    "date": "الثلاثاء 2025/10/14",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "بلاكبول",
     "homeLogo": "https://jdwel.com/image/teams/1677.png",
     "away": "نوتينغهام فورست",
@@ -464,6 +220,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الثلاثاء 2025/10/14",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "كرو ألكساندرا",
     "homeLogo": "https://jdwel.com/image/teams/eng_crewe_alexandra.png",
     "away": "ليفربول",
@@ -472,6 +231,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الثلاثاء 2025/10/14",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "برادفورد سيتي",
     "homeLogo": "https://jdwel.com/image/teams/4844.png",
     "away": "إيفرتون",
@@ -480,6 +242,9 @@
     "time": "9:30 م"
   },
   {
+    "date": "الأربعاء 2025/10/15",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "مانسفيلد تاون",
     "homeLogo": "https://jdwel.com/image/teams/eng_mansfield_town.png",
     "away": "نيوكاسل يونايتد",
@@ -488,6 +253,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الثلاثاء 2025/10/21",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "ستيفيناغ",
     "homeLogo": "https://jdwel.com/image/teams/3204.png",
     "away": "كريستال بالاس",
@@ -496,22 +264,9 @@
     "time": "9:00 م"
   },
   {
-    "home": "بارنسلي",
-    "homeLogo": "https://jdwel.com/image/teams/2629.png",
-    "away": "مانشستر يونايتد",
-    "awayLogo": "https://jdwel.com/image/teams/3092.png",
-    "score": "5 - 2",
-    "time": "9:00 م"
-  },
-  {
-    "home": "بارنت",
-    "homeLogo": "https://jdwel.com/image/teams/eng_barnet.png",
-    "away": "كامبريدج يونايتد",
-    "awayLogo": "https://jdwel.com/image/teams/4734.png",
-    "score": "3 - 2",
-    "time": "9:45 م"
-  },
-  {
+    "date": "الثلاثاء 2025/10/28",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "بارو",
     "homeLogo": "https://jdwel.com/image/teams/1093.png",
     "away": "نوتينغهام فورست",
@@ -520,6 +275,9 @@
     "time": "10:00 م"
   },
   {
+    "date": "الثلاثاء 2025/10/28",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "روثيرهام يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/eng_rotherham_united.png",
     "away": "مانشستر سيتي",
@@ -528,54 +286,9 @@
     "time": "10:00 م"
   },
   {
-    "home": "إكستر سيتي",
-    "homeLogo": "https://jdwel.com/image/teams/3412.png",
-    "away": "آرسنال",
-    "awayLogo": "https://jdwel.com/image/teams/2999.png",
-    "score": "4 - 3",
-    "time": "10:00 م"
-  },
-  {
-    "home": "لوتون تاون",
-    "homeLogo": "https://jdwel.com/image/teams/1114.png",
-    "away": "برايتون",
-    "awayLogo": "https://jdwel.com/image/teams/5088.png",
-    "score": "3 - 1",
-    "time": "10:00 م"
-  },
-  {
-    "home": "تشيلتنهام تاون",
-    "homeLogo": "https://jdwel.com/image/teams/eng_cheltenham_town.png",
-    "away": "توتنهام هوتسبير",
-    "awayLogo": "https://jdwel.com/image/teams/1018.png",
-    "score": "2 - 2 3 - 1",
-    "time": "10:00 م"
-  },
-  {
-    "home": "ليتون أورينت",
-    "homeLogo": "https://jdwel.com/image/teams/eng_leyton_orient.png",
-    "away": "أستون فيلا",
-    "awayLogo": "https://jdwel.com/image/teams/767.png",
-    "score": "1 - 0",
-    "time": "10:00 م"
-  },
-  {
-    "home": "سويندون تاون",
-    "homeLogo": "https://jdwel.com/image/teams/3280.png",
-    "away": "وست هام يونايتد",
-    "awayLogo": "https://jdwel.com/image/teams/5168.png",
-    "score": "2 - 3",
-    "time": "10:00 م"
-  },
-  {
-    "home": "ولسول",
-    "homeLogo": "https://jdwel.com/image/teams/eng_walsall.png",
-    "away": "تشيلسي",
-    "awayLogo": "https://jdwel.com/image/teams/3209.png",
-    "score": "0 - 0 4 - 2",
-    "time": "10:00 م"
-  },
-  {
+    "date": "الثلاثاء 2025/11/04",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "نوتس كاونتي",
     "homeLogo": "https://jdwel.com/image/teams/4531.png",
     "away": "مانشستر يونايتد",
@@ -584,6 +297,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الثلاثاء 2025/11/04",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "غريمسبي تاون",
     "homeLogo": "https://jdwel.com/image/teams/1759.png",
     "away": "إيفرتون",
@@ -592,6 +308,9 @@
     "time": "9:30 م"
   },
   {
+    "date": "الثلاثاء 2025/11/04",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "هدرسفيلد تاون",
     "homeLogo": "https://jdwel.com/image/teams/3152.png",
     "away": "مانسفيلد تاون",
@@ -600,6 +319,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأربعاء 2025/11/05",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "كامبريدج يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/4734.png",
     "away": "برايتون",
@@ -608,6 +330,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الثلاثاء 2025/11/11",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "ستوكبورت كاونتي",
     "homeLogo": "https://jdwel.com/image/teams/3131.png",
     "away": "ويغان أتلتيك",
@@ -616,6 +341,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الثلاثاء 2025/11/11",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "سالفورد سيتي",
     "homeLogo": "https://jdwel.com/image/teams/1.png",
     "away": "وولفرهامبتون",
@@ -624,6 +352,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الثلاثاء 2025/11/11",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "دونكاستر روفرز",
     "homeLogo": "https://jdwel.com/image/teams/4845.png",
     "away": "برادفورد سيتي",
@@ -632,6 +363,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الثلاثاء 2025/11/11",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "بارنسلي",
     "homeLogo": "https://jdwel.com/image/teams/2629.png",
     "away": "لينكولن سيتي",
@@ -640,6 +374,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الثلاثاء 2025/11/11",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "أولدهام أثليتيك",
     "homeLogo": "https://jdwel.com/image/teams/3411.png",
     "away": "بولتون واندررز",
@@ -648,6 +385,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الثلاثاء 2025/11/11",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "بورت فايل",
     "homeLogo": "https://jdwel.com/image/teams/1108.png",
     "away": "فليتوود تاون",
@@ -656,6 +396,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الثلاثاء 2025/11/11",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "تشيسترفيلد",
     "homeLogo": "https://jdwel.com/image/teams/eng_chesterfield.png",
     "away": "ليفربول",
@@ -664,110 +407,9 @@
     "time": "9:00 م"
   },
   {
-    "home": "نيوبورت كاونتي",
-    "homeLogo": "https://jdwel.com/image/teams/eng_newport_county.png",
-    "away": "إكستر سيتي",
-    "awayLogo": "https://jdwel.com/image/teams/3412.png",
-    "score": "0 - 1",
-    "time": "9:00 م"
-  },
-  {
-    "home": "بريستول روفرز",
-    "homeLogo": "https://jdwel.com/image/teams/eng_bristol_rovers.png",
-    "away": "بليموث أرجايل",
-    "awayLogo": "https://jdwel.com/image/teams/eng_plymouth.png",
-    "score": "1 - 0",
-    "time": "9:00 م"
-  },
-  {
-    "home": "نورثامبتون تاون",
-    "homeLogo": "https://jdwel.com/image/teams/1088.png",
-    "away": "شروزبري تاون",
-    "awayLogo": "https://jdwel.com/image/teams/1029.png",
-    "score": "2 - 1",
-    "time": "9:00 م"
-  },
-  {
-    "home": "ميلتون كينز دونز",
-    "homeLogo": "https://jdwel.com/image/teams/3207.png",
-    "away": "سويندون تاون",
-    "awayLogo": "https://jdwel.com/image/teams/3280.png",
-    "score": "0 - 4",
-    "time": "9:00 م"
-  },
-  {
-    "home": "غيلينغهام",
-    "homeLogo": "https://jdwel.com/image/teams/eng_gillingham.png",
-    "away": "ويكمب وندررز",
-    "awayLogo": "https://jdwel.com/image/teams/eng_wycombe_wanderers.png",
-    "score": "0 - 3",
-    "time": "9:00 م"
-  },
-  {
-    "home": "بيرتن ألبيون",
-    "homeLogo": "https://jdwel.com/image/teams/4733.png",
-    "away": "كرو ألكساندرا",
-    "awayLogo": "https://jdwel.com/image/teams/eng_crewe_alexandra.png",
-    "score": "1 - 3",
-    "time": "9:00 م"
-  },
-  {
-    "home": "أكرينغتون ستانلي",
-    "homeLogo": "https://jdwel.com/image/teams/eng_accrington_stanley.png",
-    "away": "ليدز يونايتد",
-    "awayLogo": "https://jdwel.com/image/teams/1675.png",
-    "score": "3 - 2",
-    "time": "9:45 م"
-  },
-  {
-    "home": "هاروغيت تاون",
-    "homeLogo": "https://jdwel.com/image/teams/3279.png",
-    "away": "نيوكاسل يونايتد",
-    "awayLogo": "https://jdwel.com/image/teams/3061.png",
-    "score": "3 - 1",
-    "time": "9:45 م"
-  },
-  {
-    "home": "بروملي",
-    "homeLogo": "https://jdwel.com/image/teams/1092.png",
-    "away": "ويمبلدون",
-    "awayLogo": "https://jdwel.com/image/teams/1030.png",
-    "score": "1 - 2",
-    "time": "9:45 م"
-  },
-  {
-    "home": "كراولي تاون",
-    "homeLogo": "https://jdwel.com/image/teams/eng_crawley_town.png",
-    "away": "بيتربورو يونايتد",
-    "awayLogo": "https://jdwel.com/image/teams/eng_peterborough_united.png",
-    "score": "1 - 2",
-    "time": "9:45 م"
-  },
-  {
-    "home": "كولتشستر يونايتد",
-    "homeLogo": "https://jdwel.com/image/teams/1090.png",
-    "away": "فولهام",
-    "awayLogo": "https://jdwel.com/image/teams/280.png",
-    "score": "2 - 0",
-    "time": "9:45 م"
-  },
-  {
-    "home": "كارديف سيتي",
-    "homeLogo": "https://jdwel.com/image/teams/4818.png",
-    "away": "آرسنال",
-    "awayLogo": "https://jdwel.com/image/teams/2999.png",
-    "score": "3 - 1",
-    "time": "9:45 م"
-  },
-  {
-    "home": "ترانمير روفرز",
-    "homeLogo": "https://jdwel.com/image/teams/1099.png",
-    "away": "بلاكبول",
-    "awayLogo": "https://jdwel.com/image/teams/1677.png",
-    "score": "2 - 1",
-    "time": "10:00 م"
-  },
-  {
+    "date": "الثلاثاء 2025/12/02",
+    "round": "",
+    "status": "انتهت",
     "home": "لوتون تاون",
     "homeLogo": "https://jdwel.com/image/teams/1114.png",
     "away": "إكستر سيتي",
@@ -776,6 +418,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الثلاثاء 2025/12/02",
+    "round": "",
+    "status": "انتهت",
     "home": "ليتون أورينت",
     "homeLogo": "https://jdwel.com/image/teams/eng_leyton_orient.png",
     "away": "بليموث أرجايل",
@@ -784,6 +429,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الثلاثاء 2025/12/02",
+    "round": "",
+    "status": "انتهت",
     "home": "كارديف سيتي",
     "homeLogo": "https://jdwel.com/image/teams/4818.png",
     "away": "ويمبلدون",
@@ -792,6 +440,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الثلاثاء 2025/12/02",
+    "round": "",
+    "status": "انتهت",
     "home": "بولتون واندررز",
     "homeLogo": "https://jdwel.com/image/teams/2628.png",
     "away": "برادفورد سيتي",
@@ -800,6 +451,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الثلاثاء 2025/12/02",
+    "round": "",
+    "status": "انتهت",
     "home": "لينكولن سيتي",
     "homeLogo": "https://jdwel.com/image/teams/1119.png",
     "away": "هدرسفيلد تاون",
@@ -808,6 +462,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الثلاثاء 2025/12/02",
+    "round": "",
+    "status": "انتهت",
     "home": "بورت فايل",
     "homeLogo": "https://jdwel.com/image/teams/1108.png",
     "away": "بارنسلي",
@@ -816,6 +473,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الثلاثاء 2025/12/02",
+    "round": "",
+    "status": "انتهت",
     "home": "نورثامبتون تاون",
     "homeLogo": "https://jdwel.com/image/teams/1088.png",
     "away": "ويكمب وندررز",
@@ -824,6 +484,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الثلاثاء 2025/12/02",
+    "round": "",
+    "status": "انتهت",
     "home": "سالفورد سيتي",
     "homeLogo": "https://jdwel.com/image/teams/1.png",
     "away": "روثيرهام يونايتد",
@@ -832,6 +495,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الثلاثاء 2025/12/02",
+    "round": "",
+    "status": "انتهت",
     "home": "دونكاستر روفرز",
     "homeLogo": "https://jdwel.com/image/teams/4845.png",
     "away": "تشيسترفيلد",
@@ -840,6 +506,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الثلاثاء 2025/12/02",
+    "round": "",
+    "status": "انتهت",
     "home": "ستيفيناغ",
     "homeLogo": "https://jdwel.com/image/teams/3204.png",
     "away": "ولسول",
@@ -848,6 +517,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الثلاثاء 2025/12/02",
+    "round": "",
+    "status": "انتهت",
     "home": "هاروغيت تاون",
     "homeLogo": "https://jdwel.com/image/teams/3279.png",
     "away": "بلاكبول",
@@ -856,6 +528,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الثلاثاء 2025/12/02",
+    "round": "",
+    "status": "انتهت",
     "home": "بريستول روفرز",
     "homeLogo": "https://jdwel.com/image/teams/eng_bristol_rovers.png",
     "away": "كامبريدج يونايتد",
@@ -864,6 +539,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الثلاثاء 2025/12/02",
+    "round": "",
+    "status": "انتهت",
     "home": "ترانمير روفرز",
     "homeLogo": "https://jdwel.com/image/teams/1099.png",
     "away": "فليتوود تاون",
@@ -872,6 +550,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الثلاثاء 2025/12/02",
+    "round": "",
+    "status": "انتهت",
     "home": "سويندون تاون",
     "homeLogo": "https://jdwel.com/image/teams/3280.png",
     "away": "بيتربورو يونايتد",
@@ -880,6 +561,9 @@
     "time": "9:30 م"
   },
   {
+    "date": "الأربعاء 2025/12/03",
+    "round": "",
+    "status": "انتهت",
     "home": "كرو ألكساندرا",
     "homeLogo": "https://jdwel.com/image/teams/eng_crewe_alexandra.png",
     "away": "ستوكبورت كاونتي",
@@ -888,6 +572,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الثلاثاء 2025/12/09",
+    "round": "",
+    "status": "انتهت",
     "home": "كولتشستر يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/1090.png",
     "away": "وست هام يونايتد",
@@ -896,6 +583,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأثنين 2026/01/12",
+    "round": "",
+    "status": "انتهت",
     "home": "ويمبلدون",
     "homeLogo": "https://jdwel.com/image/teams/1030.png",
     "away": "وست هام يونايتد",
@@ -904,6 +594,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الثلاثاء 2026/01/13",
+    "round": "",
+    "status": "انتهت",
     "home": "لوتون تاون",
     "homeLogo": "https://jdwel.com/image/teams/1114.png",
     "away": "سويندون تاون",
@@ -912,6 +605,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الثلاثاء 2026/01/13",
+    "round": "",
+    "status": "انتهت",
     "home": "بريستول روفرز",
     "homeLogo": "https://jdwel.com/image/teams/eng_bristol_rovers.png",
     "away": "بليموث أرجايل",
@@ -920,6 +616,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الثلاثاء 2026/01/13",
+    "round": "",
+    "status": "انتهت",
     "home": "بولتون واندررز",
     "homeLogo": "https://jdwel.com/image/teams/2628.png",
     "away": "بورت فايل",
@@ -928,6 +627,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الثلاثاء 2026/01/13",
+    "round": "",
+    "status": "انتهت",
     "home": "هدرسفيلد تاون",
     "homeLogo": "https://jdwel.com/image/teams/3152.png",
     "away": "روثيرهام يونايتد",
@@ -936,6 +638,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الثلاثاء 2026/01/13",
+    "round": "",
+    "status": "انتهت",
     "home": "ستوكبورت كاونتي",
     "homeLogo": "https://jdwel.com/image/teams/3131.png",
     "away": "هاروغيت تاون",
@@ -944,6 +649,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الثلاثاء 2026/01/13",
+    "round": "",
+    "status": "انتهت",
     "home": "دونكاستر روفرز",
     "homeLogo": "https://jdwel.com/image/teams/4845.png",
     "away": "فليتوود تاون",
@@ -952,6 +660,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الأربعاء 2026/01/14",
+    "round": "",
+    "status": "انتهت",
     "home": "نورثامبتون تاون",
     "homeLogo": "https://jdwel.com/image/teams/1088.png",
     "away": "ولسول",
@@ -960,6 +671,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الثلاثاء 2026/02/10",
+    "round": "",
+    "status": "قريباً",
     "home": "لم يحدد",
     "homeLogo": "https://jdwel.com/image/teams/placeholder.png",
     "away": "بليموث أرجايل",
@@ -968,6 +682,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الثلاثاء 2026/02/10",
+    "round": "",
+    "status": "قريباً",
     "home": "بورت فايل",
     "homeLogo": "https://jdwel.com/image/teams/1108.png",
     "away": "ستوكبورت كاونتي",
@@ -976,6 +693,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الثلاثاء 2026/02/10",
+    "round": "",
+    "status": "قريباً",
     "home": "هدرسفيلد تاون",
     "homeLogo": "https://jdwel.com/image/teams/3152.png",
     "away": "دونكاستر روفرز",
@@ -984,6 +704,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الثلاثاء 2026/02/10",
+    "round": "",
+    "status": "قريباً",
     "home": "ويمبلدون",
     "homeLogo": "https://jdwel.com/image/teams/1030.png",
     "away": "نورثامبتون تاون",

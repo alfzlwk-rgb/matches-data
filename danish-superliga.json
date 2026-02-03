@@ -1,5 +1,8 @@
 [
   {
+    "date": "الجمعة 2025/07/18",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "فيبورغ",
     "homeLogo": "https://jdwel.com/image/teams/3429.png",
     "away": "كوبنهاغن",
@@ -8,6 +11,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الأحد 2025/07/20",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "فريدريكيا",
     "homeLogo": "https://jdwel.com/image/teams/4810.png",
     "away": "نوردشيلاند",
@@ -16,6 +22,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأحد 2025/07/20",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "فايله",
     "homeLogo": "https://jdwel.com/image/teams/den_vejle.png",
     "away": "راندرز",
@@ -24,6 +33,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأحد 2025/07/20",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "سونويوسك",
     "homeLogo": "https://jdwel.com/image/teams/den_sonderjyske.png",
     "away": "آرهوس جمناستيك",
@@ -32,6 +44,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2025/07/20",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "ميتييلاند",
     "homeLogo": "https://jdwel.com/image/teams/1294.png",
     "away": "أودنسه",
@@ -40,6 +55,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأحد 2025/07/20",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "بروندبي",
     "homeLogo": "https://jdwel.com/image/teams/den_brondby.png",
     "away": "سيلكيبورغ",
@@ -48,6 +66,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الجمعة 2025/07/25",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "آرهوس جمناستيك",
     "homeLogo": "https://jdwel.com/image/teams/den_agf.png",
     "away": "راندرز",
@@ -56,6 +77,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "السبت 2025/07/26",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "كوبنهاغن",
     "homeLogo": "https://jdwel.com/image/teams/2324.png",
     "away": "فايله",
@@ -64,6 +88,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأحد 2025/07/27",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "أودنسه",
     "homeLogo": "https://jdwel.com/image/teams/5096.png",
     "away": "فيبورغ",
@@ -72,6 +99,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأحد 2025/07/27",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "سيلكيبورغ",
     "homeLogo": "https://jdwel.com/image/teams/den_silkeborg.png",
     "away": "فريدريكيا",
@@ -80,6 +110,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2025/07/27",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "نوردشيلاند",
     "homeLogo": "https://jdwel.com/image/teams/1533.png",
     "away": "بروندبي",
@@ -88,6 +121,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأثنين 2025/07/28",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "ميتييلاند",
     "homeLogo": "https://jdwel.com/image/teams/1294.png",
     "away": "سونويوسك",
@@ -96,6 +132,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الجمعة 2025/08/01",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "فريدريكيا",
     "homeLogo": "https://jdwel.com/image/teams/4810.png",
     "away": "كوبنهاغن",
@@ -104,6 +143,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الجمعة 2025/08/01",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "فايله",
     "homeLogo": "https://jdwel.com/image/teams/den_vejle.png",
     "away": "أودنسه",
@@ -112,6 +154,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الأحد 2025/08/03",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "راندرز",
     "homeLogo": "https://jdwel.com/image/teams/1536.png",
     "away": "سيلكيبورغ",
@@ -120,6 +165,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأحد 2025/08/03",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "سونويوسك",
     "homeLogo": "https://jdwel.com/image/teams/den_sonderjyske.png",
     "away": "نوردشيلاند",
@@ -128,6 +176,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأحد 2025/08/03",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "آرهوس جمناستيك",
     "homeLogo": "https://jdwel.com/image/teams/den_agf.png",
     "away": "ميتييلاند",
@@ -136,6 +187,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2025/08/03",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "بروندبي",
     "homeLogo": "https://jdwel.com/image/teams/den_brondby.png",
     "away": "فيبورغ",
@@ -144,6 +198,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الجمعة 2025/08/08",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "كوبنهاغن",
     "homeLogo": "https://jdwel.com/image/teams/2324.png",
     "away": "آرهوس جمناستيك",
@@ -152,6 +209,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الجمعة 2025/08/08",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "فيبورغ",
     "homeLogo": "https://jdwel.com/image/teams/3429.png",
     "away": "سونويوسك",
@@ -160,6 +220,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الأحد 2025/08/10",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "ميتييلاند",
     "homeLogo": "https://jdwel.com/image/teams/1294.png",
     "away": "فريدريكيا",
@@ -168,6 +231,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأحد 2025/08/10",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "سيلكيبورغ",
     "homeLogo": "https://jdwel.com/image/teams/den_silkeborg.png",
     "away": "نوردشيلاند",
@@ -176,6 +242,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2025/08/10",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "بروندبي",
     "homeLogo": "https://jdwel.com/image/teams/den_brondby.png",
     "away": "فايله",
@@ -184,6 +253,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأثنين 2025/08/11",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "أودنسه",
     "homeLogo": "https://jdwel.com/image/teams/5096.png",
     "away": "راندرز",
@@ -192,6 +264,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الجمعة 2025/08/15",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "نوردشيلاند",
     "homeLogo": "https://jdwel.com/image/teams/1533.png",
     "away": "كوبنهاغن",
@@ -200,6 +275,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الجمعة 2025/08/15",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "فريدريكيا",
     "homeLogo": "https://jdwel.com/image/teams/4810.png",
     "away": "سونويوسك",
@@ -208,6 +286,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الأحد 2025/08/17",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "فايله",
     "homeLogo": "https://jdwel.com/image/teams/den_vejle.png",
     "away": "ميتييلاند",
@@ -216,6 +297,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأحد 2025/08/17",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "فيبورغ",
     "homeLogo": "https://jdwel.com/image/teams/3429.png",
     "away": "سيلكيبورغ",
@@ -224,6 +308,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2025/08/17",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "راندرز",
     "homeLogo": "https://jdwel.com/image/teams/1536.png",
     "away": "بروندبي",
@@ -232,6 +319,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأثنين 2025/08/18",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "أودنسه",
     "homeLogo": "https://jdwel.com/image/teams/5096.png",
     "away": "آرهوس جمناستيك",
@@ -240,6 +330,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "السبت 2025/08/23",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "كوبنهاغن",
     "homeLogo": "https://jdwel.com/image/teams/2324.png",
     "away": "أودنسه",
@@ -248,6 +341,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأحد 2025/08/24",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "فريدريكيا",
     "homeLogo": "https://jdwel.com/image/teams/4810.png",
     "away": "راندرز",
@@ -256,6 +352,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأحد 2025/08/24",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "ميتييلاند",
     "homeLogo": "https://jdwel.com/image/teams/1294.png",
     "away": "سيلكيبورغ",
@@ -264,6 +363,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأحد 2025/08/24",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "سونويوسك",
     "homeLogo": "https://jdwel.com/image/teams/den_sonderjyske.png",
     "away": "بروندبي",
@@ -272,6 +374,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2025/08/24",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "آرهوس جمناستيك",
     "homeLogo": "https://jdwel.com/image/teams/den_agf.png",
     "away": "فايله",
@@ -280,6 +385,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأثنين 2025/08/25",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "نوردشيلاند",
     "homeLogo": "https://jdwel.com/image/teams/1533.png",
     "away": "فيبورغ",
@@ -288,6 +396,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الجمعة 2025/08/29",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "فايله",
     "homeLogo": "https://jdwel.com/image/teams/den_vejle.png",
     "away": "فيبورغ",
@@ -296,6 +407,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الأحد 2025/08/31",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "آرهوس جمناستيك",
     "homeLogo": "https://jdwel.com/image/teams/den_agf.png",
     "away": "فريدريكيا",
@@ -304,6 +418,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأحد 2025/08/31",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "سيلكيبورغ",
     "homeLogo": "https://jdwel.com/image/teams/den_silkeborg.png",
     "away": "سونويوسك",
@@ -312,6 +429,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأحد 2025/08/31",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "أودنسه",
     "homeLogo": "https://jdwel.com/image/teams/5096.png",
     "away": "نوردشيلاند",
@@ -320,6 +440,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2025/08/31",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "راندرز",
     "homeLogo": "https://jdwel.com/image/teams/1536.png",
     "away": "كوبنهاغن",
@@ -328,6 +451,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأحد 2025/08/31",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "بروندبي",
     "homeLogo": "https://jdwel.com/image/teams/den_brondby.png",
     "away": "ميتييلاند",
@@ -336,6 +462,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الجمعة 2025/09/12",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "سونويوسك",
     "homeLogo": "https://jdwel.com/image/teams/den_sonderjyske.png",
     "away": "راندرز",
@@ -344,6 +473,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "السبت 2025/09/13",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "بروندبي",
     "homeLogo": "https://jdwel.com/image/teams/den_brondby.png",
     "away": "كوبنهاغن",
@@ -352,6 +484,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الأحد 2025/09/14",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "فيبورغ",
     "homeLogo": "https://jdwel.com/image/teams/3429.png",
     "away": "آرهوس جمناستيك",
@@ -360,6 +495,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأحد 2025/09/14",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "نوردشيلاند",
     "homeLogo": "https://jdwel.com/image/teams/1533.png",
     "away": "ميتييلاند",
@@ -368,6 +506,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2025/09/14",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "سيلكيبورغ",
     "homeLogo": "https://jdwel.com/image/teams/den_silkeborg.png",
     "away": "أودنسه",
@@ -376,6 +517,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأثنين 2025/09/15",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "فريدريكيا",
     "homeLogo": "https://jdwel.com/image/teams/4810.png",
     "away": "فايله",
@@ -384,6 +528,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الجمعة 2025/09/19",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "أودنسه",
     "homeLogo": "https://jdwel.com/image/teams/5096.png",
     "away": "فريدريكيا",
@@ -392,6 +539,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "السبت 2025/09/20",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "ميتييلاند",
     "homeLogo": "https://jdwel.com/image/teams/1294.png",
     "away": "فيبورغ",
@@ -400,6 +550,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأحد 2025/09/21",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "فايله",
     "homeLogo": "https://jdwel.com/image/teams/den_vejle.png",
     "away": "سونويوسك",
@@ -408,6 +561,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأحد 2025/09/21",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "كوبنهاغن",
     "homeLogo": "https://jdwel.com/image/teams/2324.png",
     "away": "سيلكيبورغ",
@@ -416,6 +572,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2025/09/21",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "آرهوس جمناستيك",
     "homeLogo": "https://jdwel.com/image/teams/den_agf.png",
     "away": "بروندبي",
@@ -424,6 +583,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأثنين 2025/09/22",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "راندرز",
     "homeLogo": "https://jdwel.com/image/teams/1536.png",
     "away": "نوردشيلاند",
@@ -432,6 +594,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "السبت 2025/09/27",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "سونويوسك",
     "homeLogo": "https://jdwel.com/image/teams/den_sonderjyske.png",
     "away": "كوبنهاغن",
@@ -440,6 +605,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأحد 2025/09/28",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "فيبورغ",
     "homeLogo": "https://jdwel.com/image/teams/3429.png",
     "away": "فريدريكيا",
@@ -448,6 +616,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأحد 2025/09/28",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "سيلكيبورغ",
     "homeLogo": "https://jdwel.com/image/teams/den_silkeborg.png",
     "away": "فايله",
@@ -456,6 +627,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2025/09/28",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "نوردشيلاند",
     "homeLogo": "https://jdwel.com/image/teams/1533.png",
     "away": "آرهوس جمناستيك",
@@ -464,6 +638,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأحد 2025/09/28",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "بروندبي",
     "homeLogo": "https://jdwel.com/image/teams/den_brondby.png",
     "away": "أودنسه",
@@ -472,6 +649,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الأثنين 2025/09/29",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "ميتييلاند",
     "homeLogo": "https://jdwel.com/image/teams/1294.png",
     "away": "راندرز",
@@ -480,6 +660,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الجمعة 2025/10/03",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "أودنسه",
     "homeLogo": "https://jdwel.com/image/teams/5096.png",
     "away": "سونويوسك",
@@ -488,6 +671,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الأحد 2025/10/05",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "راندرز",
     "homeLogo": "https://jdwel.com/image/teams/1536.png",
     "away": "فيبورغ",
@@ -496,6 +682,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأحد 2025/10/05",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "فايله",
     "homeLogo": "https://jdwel.com/image/teams/den_vejle.png",
     "away": "نوردشيلاند",
@@ -504,6 +693,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأحد 2025/10/05",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "آرهوس جمناستيك",
     "homeLogo": "https://jdwel.com/image/teams/den_agf.png",
     "away": "سيلكيبورغ",
@@ -512,6 +704,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2025/10/05",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "كوبنهاغن",
     "homeLogo": "https://jdwel.com/image/teams/2324.png",
     "away": "ميتييلاند",
@@ -520,6 +715,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأحد 2025/10/05",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "فريدريكيا",
     "homeLogo": "https://jdwel.com/image/teams/4810.png",
     "away": "بروندبي",
@@ -528,6 +726,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الجمعة 2025/10/17",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "سيلكيبورغ",
     "homeLogo": "https://jdwel.com/image/teams/den_silkeborg.png",
     "away": "كوبنهاغن",
@@ -536,6 +737,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الأحد 2025/10/19",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "نوردشيلاند",
     "homeLogo": "https://jdwel.com/image/teams/1533.png",
     "away": "راندرز",
@@ -544,6 +748,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأحد 2025/10/19",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "فيبورغ",
     "homeLogo": "https://jdwel.com/image/teams/3429.png",
     "away": "أودنسه",
@@ -552,6 +759,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأحد 2025/10/19",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "بروندبي",
     "homeLogo": "https://jdwel.com/image/teams/den_brondby.png",
     "away": "آرهوس جمناستيك",
@@ -560,6 +770,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2025/10/19",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "ميتييلاند",
     "homeLogo": "https://jdwel.com/image/teams/1294.png",
     "away": "فايله",
@@ -568,6 +781,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأثنين 2025/10/20",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "سونويوسك",
     "homeLogo": "https://jdwel.com/image/teams/den_sonderjyske.png",
     "away": "فريدريكيا",
@@ -576,6 +792,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الجمعة 2025/10/24",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "آرهوس جمناستيك",
     "homeLogo": "https://jdwel.com/image/teams/den_agf.png",
     "away": "نوردشيلاند",
@@ -584,6 +803,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الأحد 2025/10/26",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "فريدريكيا",
     "homeLogo": "https://jdwel.com/image/teams/4810.png",
     "away": "ميتييلاند",
@@ -592,6 +814,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الأحد 2025/10/26",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "فايله",
     "homeLogo": "https://jdwel.com/image/teams/den_vejle.png",
     "away": "سيلكيبورغ",
@@ -600,6 +825,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الأحد 2025/10/26",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "راندرز",
     "homeLogo": "https://jdwel.com/image/teams/1536.png",
     "away": "سونويوسك",
@@ -608,6 +836,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2025/10/26",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "كوبنهاغن",
     "homeLogo": "https://jdwel.com/image/teams/2324.png",
     "away": "فيبورغ",
@@ -616,6 +847,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الأثنين 2025/10/27",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "أودنسه",
     "homeLogo": "https://jdwel.com/image/teams/5096.png",
     "away": "بروندبي",
@@ -624,6 +858,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "السبت 2025/11/01",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "كوبنهاغن",
     "homeLogo": "https://jdwel.com/image/teams/2324.png",
     "away": "فريدريكيا",
@@ -632,6 +869,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأحد 2025/11/02",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "فيبورغ",
     "homeLogo": "https://jdwel.com/image/teams/3429.png",
     "away": "راندرز",
@@ -640,6 +880,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأحد 2025/11/02",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "سونويوسك",
     "homeLogo": "https://jdwel.com/image/teams/den_sonderjyske.png",
     "away": "فايله",
@@ -648,6 +891,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2025/11/02",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "نوردشيلاند",
     "homeLogo": "https://jdwel.com/image/teams/1533.png",
     "away": "أودنسه",
@@ -656,6 +902,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأحد 2025/11/02",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "سيلكيبورغ",
     "homeLogo": "https://jdwel.com/image/teams/den_silkeborg.png",
     "away": "بروندبي",
@@ -664,6 +913,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الأثنين 2025/11/03",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "ميتييلاند",
     "homeLogo": "https://jdwel.com/image/teams/1294.png",
     "away": "آرهوس جمناستيك",
@@ -672,6 +924,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الجمعة 2025/11/07",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "أودنسه",
     "homeLogo": "https://jdwel.com/image/teams/5096.png",
     "away": "سيلكيبورغ",
@@ -680,6 +935,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الأحد 2025/11/09",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "فريدريكيا",
     "homeLogo": "https://jdwel.com/image/teams/4810.png",
     "away": "فيبورغ",
@@ -688,6 +946,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأحد 2025/11/09",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "فايله",
     "homeLogo": "https://jdwel.com/image/teams/den_vejle.png",
     "away": "كوبنهاغن",
@@ -696,6 +957,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأحد 2025/11/09",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "راندرز",
     "homeLogo": "https://jdwel.com/image/teams/1536.png",
     "away": "ميتييلاند",
@@ -704,6 +968,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2025/11/09",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "آرهوس جمناستيك",
     "homeLogo": "https://jdwel.com/image/teams/den_agf.png",
     "away": "سونويوسك",
@@ -712,6 +979,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأحد 2025/11/09",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "بروندبي",
     "homeLogo": "https://jdwel.com/image/teams/den_brondby.png",
     "away": "نوردشيلاند",
@@ -720,6 +990,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الجمعة 2025/11/21",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "سيلكيبورغ",
     "homeLogo": "https://jdwel.com/image/teams/den_silkeborg.png",
     "away": "آرهوس جمناستيك",
@@ -728,6 +1001,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الأحد 2025/11/23",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "كوبنهاغن",
     "homeLogo": "https://jdwel.com/image/teams/2324.png",
     "away": "بروندبي",
@@ -736,6 +1012,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "الأحد 2025/11/23",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "فيبورغ",
     "homeLogo": "https://jdwel.com/image/teams/3429.png",
     "away": "فايله",
@@ -744,6 +1023,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأحد 2025/11/23",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "نوردشيلاند",
     "homeLogo": "https://jdwel.com/image/teams/1533.png",
     "away": "فريدريكيا",
@@ -752,6 +1034,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2025/11/23",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "سونويوسك",
     "homeLogo": "https://jdwel.com/image/teams/den_sonderjyske.png",
     "away": "ميتييلاند",
@@ -760,6 +1045,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأثنين 2025/11/24",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "راندرز",
     "homeLogo": "https://jdwel.com/image/teams/1536.png",
     "away": "أودنسه",
@@ -768,6 +1056,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الجمعة 2025/11/28",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "سونويوسك",
     "homeLogo": "https://jdwel.com/image/teams/den_sonderjyske.png",
     "away": "فيبورغ",
@@ -776,6 +1067,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الأحد 2025/11/30",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "آرهوس جمناستيك",
     "homeLogo": "https://jdwel.com/image/teams/den_agf.png",
     "away": "كوبنهاغن",
@@ -784,6 +1078,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأحد 2025/11/30",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "سيلكيبورغ",
     "homeLogo": "https://jdwel.com/image/teams/den_silkeborg.png",
     "away": "راندرز",
@@ -792,6 +1089,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأحد 2025/11/30",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "ميتييلاند",
     "homeLogo": "https://jdwel.com/image/teams/1294.png",
     "away": "نوردشيلاند",
@@ -800,6 +1100,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2025/11/30",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "أودنسه",
     "homeLogo": "https://jdwel.com/image/teams/5096.png",
     "away": "فايله",
@@ -808,6 +1111,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأثنين 2025/12/01",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "بروندبي",
     "homeLogo": "https://jdwel.com/image/teams/den_brondby.png",
     "away": "فريدريكيا",
@@ -816,6 +1122,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الجمعة 2025/12/05",
+    "round": "الجولة 18",
+    "status": "انتهت",
     "home": "فريدريكيا",
     "homeLogo": "https://jdwel.com/image/teams/4810.png",
     "away": "أودنسه",
@@ -824,6 +1133,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الأحد 2025/12/07",
+    "round": "الجولة 18",
+    "status": "انتهت",
     "home": "نوردشيلاند",
     "homeLogo": "https://jdwel.com/image/teams/1533.png",
     "away": "سيلكيبورغ",
@@ -832,6 +1144,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأحد 2025/12/07",
+    "round": "الجولة 18",
+    "status": "انتهت",
     "home": "فيبورغ",
     "homeLogo": "https://jdwel.com/image/teams/3429.png",
     "away": "ميتييلاند",
@@ -840,6 +1155,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأحد 2025/12/07",
+    "round": "الجولة 18",
+    "status": "انتهت",
     "home": "راندرز",
     "homeLogo": "https://jdwel.com/image/teams/1536.png",
     "away": "آرهوس جمناستيك",
@@ -848,6 +1166,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2025/12/07",
+    "round": "الجولة 18",
+    "status": "انتهت",
     "home": "كوبنهاغن",
     "homeLogo": "https://jdwel.com/image/teams/2324.png",
     "away": "سونويوسك",
@@ -856,6 +1177,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأثنين 2025/12/08",
+    "round": "الجولة 18",
+    "status": "انتهت",
     "home": "فايله",
     "homeLogo": "https://jdwel.com/image/teams/den_vejle.png",
     "away": "بروندبي",
@@ -864,6 +1188,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الجمعة 2026/02/06",
+    "round": "الجولة 19",
+    "status": "قريباً",
     "home": "آرهوس جمناستيك",
     "homeLogo": "https://jdwel.com/image/teams/den_agf.png",
     "away": "أودنسه",
@@ -872,6 +1199,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الأحد 2026/02/08",
+    "round": "الجولة 19",
+    "status": "قريباً",
     "home": "نوردشيلاند",
     "homeLogo": "https://jdwel.com/image/teams/1533.png",
     "away": "سونويوسك",
@@ -880,6 +1210,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأحد 2026/02/08",
+    "round": "الجولة 19",
+    "status": "قريباً",
     "home": "سيلكيبورغ",
     "homeLogo": "https://jdwel.com/image/teams/den_silkeborg.png",
     "away": "فيبورغ",
@@ -888,6 +1221,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأحد 2026/02/08",
+    "round": "الجولة 19",
+    "status": "قريباً",
     "home": "ميتييلاند",
     "homeLogo": "https://jdwel.com/image/teams/1294.png",
     "away": "كوبنهاغن",
@@ -896,6 +1232,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2026/02/08",
+    "round": "الجولة 19",
+    "status": "قريباً",
     "home": "بروندبي",
     "homeLogo": "https://jdwel.com/image/teams/den_brondby.png",
     "away": "راندرز",
@@ -904,6 +1243,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأثنين 2026/02/09",
+    "round": "الجولة 19",
+    "status": "قريباً",
     "home": "فايله",
     "homeLogo": "https://jdwel.com/image/teams/den_vejle.png",
     "away": "فريدريكيا",
@@ -912,6 +1254,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الجمعة 2026/02/13",
+    "round": "الجولة 20",
+    "status": "قريباً",
     "home": "راندرز",
     "homeLogo": "https://jdwel.com/image/teams/1536.png",
     "away": "فايله",
@@ -920,6 +1265,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "السبت 2026/02/14",
+    "round": "الجولة 20",
+    "status": "قريباً",
     "home": "كوبنهاغن",
     "homeLogo": "https://jdwel.com/image/teams/2324.png",
     "away": "نوردشيلاند",
@@ -928,6 +1276,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2026/02/15",
+    "round": "الجولة 20",
+    "status": "قريباً",
     "home": "فريدريكيا",
     "homeLogo": "https://jdwel.com/image/teams/4810.png",
     "away": "آرهوس جمناستيك",
@@ -936,6 +1287,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأحد 2026/02/15",
+    "round": "الجولة 20",
+    "status": "قريباً",
     "home": "أودنسه",
     "homeLogo": "https://jdwel.com/image/teams/5096.png",
     "away": "ميتييلاند",
@@ -944,6 +1298,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2026/02/15",
+    "round": "الجولة 20",
+    "status": "قريباً",
     "home": "فيبورغ",
     "homeLogo": "https://jdwel.com/image/teams/3429.png",
     "away": "بروندبي",
@@ -952,6 +1309,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأثنين 2026/02/16",
+    "round": "الجولة 20",
+    "status": "قريباً",
     "home": "سونويوسك",
     "homeLogo": "https://jdwel.com/image/teams/den_sonderjyske.png",
     "away": "سيلكيبورغ",
@@ -960,6 +1320,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الجمعة 2026/02/20",
+    "round": "الجولة 21",
+    "status": "قريباً",
     "home": "نوردشيلاند",
     "homeLogo": "https://jdwel.com/image/teams/1533.png",
     "away": "فايله",
@@ -968,6 +1331,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "السبت 2026/02/21",
+    "round": "الجولة 21",
+    "status": "قريباً",
     "home": "أودنسه",
     "homeLogo": "https://jdwel.com/image/teams/5096.png",
     "away": "كوبنهاغن",
@@ -976,6 +1342,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأحد 2026/02/22",
+    "round": "الجولة 21",
+    "status": "قريباً",
     "home": "راندرز",
     "homeLogo": "https://jdwel.com/image/teams/1536.png",
     "away": "فريدريكيا",
@@ -984,6 +1353,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأحد 2026/02/22",
+    "round": "الجولة 21",
+    "status": "قريباً",
     "home": "سيلكيبورغ",
     "homeLogo": "https://jdwel.com/image/teams/den_silkeborg.png",
     "away": "ميتييلاند",
@@ -992,6 +1364,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2026/02/22",
+    "round": "الجولة 21",
+    "status": "قريباً",
     "home": "آرهوس جمناستيك",
     "homeLogo": "https://jdwel.com/image/teams/den_agf.png",
     "away": "فيبورغ",
@@ -1000,6 +1375,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأثنين 2026/02/23",
+    "round": "الجولة 21",
+    "status": "قريباً",
     "home": "بروندبي",
     "homeLogo": "https://jdwel.com/image/teams/den_brondby.png",
     "away": "سونويوسك",
@@ -1008,6 +1386,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الأحد 2026/03/01",
+    "round": "الجولة 22",
+    "status": "قريباً",
     "home": "فريدريكيا",
     "homeLogo": "https://jdwel.com/image/teams/4810.png",
     "away": "سيلكيبورغ",
@@ -1016,6 +1397,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2026/03/01",
+    "round": "الجولة 22",
+    "status": "قريباً",
     "home": "كوبنهاغن",
     "homeLogo": "https://jdwel.com/image/teams/2324.png",
     "away": "راندرز",
@@ -1024,6 +1408,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2026/03/01",
+    "round": "الجولة 22",
+    "status": "قريباً",
     "home": "ميتييلاند",
     "homeLogo": "https://jdwel.com/image/teams/1294.png",
     "away": "بروندبي",
@@ -1032,6 +1419,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2026/03/01",
+    "round": "الجولة 22",
+    "status": "قريباً",
     "home": "سونويوسك",
     "homeLogo": "https://jdwel.com/image/teams/den_sonderjyske.png",
     "away": "أودنسه",
@@ -1040,6 +1430,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2026/03/01",
+    "round": "الجولة 22",
+    "status": "قريباً",
     "home": "فايله",
     "homeLogo": "https://jdwel.com/image/teams/den_vejle.png",
     "away": "آرهوس جمناستيك",
@@ -1048,6 +1441,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2026/03/01",
+    "round": "الجولة 22",
+    "status": "قريباً",
     "home": "فيبورغ",
     "homeLogo": "https://jdwel.com/image/teams/3429.png",
     "away": "نوردشيلاند",

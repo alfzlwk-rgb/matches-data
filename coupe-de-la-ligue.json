@@ -1,5 +1,8 @@
 [
   {
+    "date": "الجمعة 2020/07/31",
+    "round": "",
+    "status": "انتهت",
     "home": "باريس سان جيرمان",
     "homeLogo": "https://jdwel.com/image/teams/2347.png",
     "away": "أولمبيك ليون",
@@ -8,6 +11,9 @@
     "time": "9:10 م"
   },
   {
+    "date": "الأربعاء 2020/01/22",
+    "round": "",
+    "status": "انتهت",
     "home": "ستاد ريمس",
     "homeLogo": "https://jdwel.com/image/teams/fra_reims_v2.png",
     "away": "باريس سان جيرمان",
@@ -16,6 +22,9 @@
     "time": "10:00 م"
   },
   {
+    "date": "الثلاثاء 2020/01/21",
+    "round": "",
+    "status": "انتهت",
     "home": "أولمبيك ليون",
     "homeLogo": "https://jdwel.com/image/teams/fra_lyonnais.png",
     "away": "ليل",
@@ -24,6 +33,9 @@
     "time": "10:10 م"
   },
   {
+    "date": "الأربعاء 2020/01/08",
+    "round": "",
+    "status": "انتهت",
     "home": "ليل",
     "homeLogo": "https://jdwel.com/image/teams/3190.png",
     "away": "أميان",
@@ -32,6 +44,9 @@
     "time": "10:05 م"
   },
   {
+    "date": "الأربعاء 2020/01/08",
+    "round": "",
+    "status": "انتهت",
     "home": "باريس سان جيرمان",
     "homeLogo": "https://jdwel.com/image/teams/2347.png",
     "away": "سانت إيتيان",
@@ -40,6 +55,9 @@
     "time": "10:05 م"
   },
   {
+    "date": "الأربعاء 2020/01/08",
+    "round": "",
+    "status": "انتهت",
     "home": "أولمبيك ليون",
     "homeLogo": "https://jdwel.com/image/teams/fra_lyonnais.png",
     "away": "ستاد بريست",
@@ -48,6 +66,9 @@
     "time": "7:45 م"
   },
   {
+    "date": "الثلاثاء 2020/01/07",
+    "round": "",
+    "status": "انتهت",
     "home": "ستاد ريمس",
     "homeLogo": "https://jdwel.com/image/teams/fra_reims_v2.png",
     "away": "ستراسبورغ",
@@ -56,6 +77,9 @@
     "time": "10:00 م"
   },
   {
+    "date": "الأربعاء 2019/12/18",
+    "round": "",
+    "status": "انتهت",
     "home": "نانت",
     "homeLogo": "https://jdwel.com/image/teams/4820.png",
     "away": "ستراسبورغ",
@@ -64,6 +88,9 @@
     "time": "10:05 م"
   },
   {
+    "date": "الأربعاء 2019/12/18",
+    "round": "",
+    "status": "انتهت",
     "home": "ستاد بريست",
     "homeLogo": "https://jdwel.com/image/teams/1502.png",
     "away": "بوردو",
@@ -72,6 +99,9 @@
     "time": "10:05 م"
   },
   {
+    "date": "الأربعاء 2019/12/18",
+    "round": "",
+    "status": "انتهت",
     "home": "لومان",
     "homeLogo": "https://jdwel.com/image/teams/fra_le_mans.png",
     "away": "باريس سان جيرمان",
@@ -80,6 +110,9 @@
     "time": "10:05 م"
   },
   {
+    "date": "الأربعاء 2019/12/18",
+    "round": "",
+    "status": "انتهت",
     "home": "نيم",
     "homeLogo": "https://jdwel.com/image/teams/1503.png",
     "away": "سانت إيتيان",
@@ -88,6 +121,9 @@
     "time": "10:05 م"
   },
   {
+    "date": "الأربعاء 2019/12/18",
+    "round": "",
+    "status": "انتهت",
     "home": "أميان",
     "homeLogo": "https://jdwel.com/image/teams/354.png",
     "away": "ستاد رين",
@@ -96,6 +132,9 @@
     "time": "10:05 م"
   },
   {
+    "date": "الأربعاء 2019/12/18",
+    "round": "",
+    "status": "انتهت",
     "home": "أولمبيك ليون",
     "homeLogo": "https://jdwel.com/image/teams/fra_lyonnais.png",
     "away": "تولوز",
@@ -104,6 +143,9 @@
     "time": "7:45 م"
   },
   {
+    "date": "الثلاثاء 2019/12/17",
+    "round": "",
+    "status": "انتهت",
     "home": "موناكو",
     "homeLogo": "https://jdwel.com/image/teams/1129.png",
     "away": "ليل",
@@ -112,6 +154,9 @@
     "time": "10:05 م"
   },
   {
+    "date": "الثلاثاء 2019/12/17",
+    "round": "",
+    "status": "انتهت",
     "home": "ستاد ريمس",
     "homeLogo": "https://jdwel.com/image/teams/fra_reims_v2.png",
     "away": "مونبلييه",
@@ -120,6 +165,9 @@
     "time": "7:45 م"
   },
   {
+    "date": "الأربعاء 2019/10/30",
+    "round": "",
+    "status": "انتهت",
     "home": "نانت",
     "homeLogo": "https://jdwel.com/image/teams/4820.png",
     "away": "باريس",
@@ -128,6 +176,9 @@
     "time": "10:05 م"
   },
   {
+    "date": "الأربعاء 2019/10/30",
+    "round": "",
+    "status": "انتهت",
     "home": "ميتز",
     "homeLogo": "https://jdwel.com/image/teams/3454.png",
     "away": "ستاد بريست",
@@ -136,6 +187,9 @@
     "time": "10:05 م"
   },
   {
+    "date": "الأربعاء 2019/10/30",
+    "round": "",
+    "status": "انتهت",
     "home": "موناكو",
     "homeLogo": "https://jdwel.com/image/teams/1129.png",
     "away": "مارسيليا",
@@ -144,6 +198,9 @@
     "time": "10:05 م"
   },
   {
+    "date": "الأربعاء 2019/10/30",
+    "round": "",
+    "status": "انتهت",
     "home": "ستاد ريمس",
     "homeLogo": "https://jdwel.com/image/teams/fra_reims_v2.png",
     "away": "بورج بيروناس",
@@ -152,6 +209,9 @@
     "time": "10:05 م"
   },
   {
+    "date": "الأربعاء 2019/10/30",
+    "round": "",
+    "status": "انتهت",
     "home": "مونبلييه",
     "homeLogo": "https://jdwel.com/image/teams/3227.png",
     "away": "نانسي",
@@ -160,6 +220,9 @@
     "time": "10:05 م"
   },
   {
+    "date": "الأربعاء 2019/10/30",
+    "round": "",
+    "status": "انتهت",
     "home": "أميان",
     "homeLogo": "https://jdwel.com/image/teams/354.png",
     "away": "أنجيه",
@@ -168,6 +231,9 @@
     "time": "10:05 م"
   },
   {
+    "date": "الأربعاء 2019/10/30",
+    "round": "",
+    "status": "انتهت",
     "home": "نيورتي",
     "homeLogo": "https://jdwel.com/image/teams/fra_niort.png",
     "away": "تولوز",
@@ -176,6 +242,9 @@
     "time": "10:05 م"
   },
   {
+    "date": "الأربعاء 2019/10/30",
+    "round": "",
+    "status": "انتهت",
     "home": "لومان",
     "homeLogo": "https://jdwel.com/image/teams/fra_le_mans.png",
     "away": "نيس",
@@ -184,6 +253,9 @@
     "time": "7:45 م"
   },
   {
+    "date": "الثلاثاء 2019/10/29",
+    "round": "",
+    "status": "انتهت",
     "home": "بوردو",
     "homeLogo": "https://jdwel.com/image/teams/2170.png",
     "away": "ديجون",
@@ -192,6 +264,9 @@
     "time": "10:05 م"
   },
   {
+    "date": "الثلاثاء 2019/10/29",
+    "round": "",
+    "status": "انتهت",
     "home": "نيم",
     "homeLogo": "https://jdwel.com/image/teams/1503.png",
     "away": "لانس",

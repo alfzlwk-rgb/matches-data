@@ -1,5 +1,8 @@
 [
   {
+    "date": "الجمعة 2025/09/12",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "الجهراء",
     "homeLogo": "https://jdwel.com/image/teams/2916.png",
     "away": "الفحيحيل",
@@ -8,6 +11,9 @@
     "time": "6:25 م"
   },
   {
+    "date": "الجمعة 2025/09/12",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "العربي",
     "homeLogo": "https://jdwel.com/image/teams/2912.png",
     "away": "الشباب",
@@ -16,6 +22,9 @@
     "time": "8:40 م"
   },
   {
+    "date": "السبت 2025/09/13",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "القادسية",
     "homeLogo": "https://jdwel.com/image/teams/kuw_al_qadsia.png",
     "away": "النصر",
@@ -24,6 +33,9 @@
     "time": "6:25 م"
   },
   {
+    "date": "السبت 2025/09/13",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "التضامن",
     "homeLogo": "https://jdwel.com/image/teams/kuw_al_tadhamon.png",
     "away": "نادي الكويت",
@@ -32,6 +44,9 @@
     "time": "8:40 م"
   },
   {
+    "date": "الأحد 2025/09/14",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "السالمية",
     "homeLogo": "https://jdwel.com/image/teams/kuw_al_salmiyah.png",
     "away": "كاظمة",
@@ -40,6 +55,9 @@
     "time": "6:20 م"
   },
   {
+    "date": "الأربعاء 2025/09/17",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "نادي الكويت",
     "homeLogo": "https://jdwel.com/image/teams/kuw_al_kuwait.png",
     "away": "الجهراء",
@@ -48,6 +66,9 @@
     "time": "6:20 م"
   },
   {
+    "date": "الأربعاء 2025/09/17",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "الفحيحيل",
     "homeLogo": "https://jdwel.com/image/teams/2911.png",
     "away": "العربي",
@@ -56,6 +77,9 @@
     "time": "8:35 م"
   },
   {
+    "date": "الخميس 2025/09/18",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "كاظمة",
     "homeLogo": "https://jdwel.com/image/teams/kuw_kazma.png",
     "away": "التضامن",
@@ -64,6 +88,9 @@
     "time": "6:15 م"
   },
   {
+    "date": "الخميس 2025/09/18",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "الشباب",
     "homeLogo": "https://jdwel.com/image/teams/4217.png",
     "away": "القادسية",
@@ -72,6 +99,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "الجمعة 2025/09/19",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "النصر",
     "homeLogo": "https://jdwel.com/image/teams/493.png",
     "away": "السالمية",
@@ -80,6 +110,9 @@
     "time": "6:15 م"
   },
   {
+    "date": "الأحد 2025/09/21",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "العربي",
     "homeLogo": "https://jdwel.com/image/teams/2912.png",
     "away": "نادي الكويت",
@@ -88,6 +121,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الأثنين 2025/09/22",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "الجهراء",
     "homeLogo": "https://jdwel.com/image/teams/2916.png",
     "away": "كاظمة",
@@ -96,6 +132,9 @@
     "time": "6:10 م"
   },
   {
+    "date": "الأثنين 2025/09/22",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "القادسية",
     "homeLogo": "https://jdwel.com/image/teams/kuw_al_qadsia.png",
     "away": "الفحيحيل",
@@ -104,6 +143,9 @@
     "time": "8:25 م"
   },
   {
+    "date": "الثلاثاء 2025/09/23",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "التضامن",
     "homeLogo": "https://jdwel.com/image/teams/kuw_al_tadhamon.png",
     "away": "السالمية",
@@ -112,6 +154,9 @@
     "time": "6:10 م"
   },
   {
+    "date": "الثلاثاء 2025/09/23",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "الشباب",
     "homeLogo": "https://jdwel.com/image/teams/4217.png",
     "away": "النصر",
@@ -120,6 +165,9 @@
     "time": "8:25 م"
   },
   {
+    "date": "الجمعة 2025/09/26",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "نادي الكويت",
     "homeLogo": "https://jdwel.com/image/teams/kuw_al_kuwait.png",
     "away": "القادسية",
@@ -128,6 +176,9 @@
     "time": "6:05 م"
   },
   {
+    "date": "السبت 2025/09/27",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "الفحيحيل",
     "homeLogo": "https://jdwel.com/image/teams/2911.png",
     "away": "الشباب",
@@ -136,6 +187,9 @@
     "time": "6:05 م"
   },
   {
+    "date": "السبت 2025/09/27",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "كاظمة",
     "homeLogo": "https://jdwel.com/image/teams/kuw_kazma.png",
     "away": "العربي",
@@ -144,6 +198,9 @@
     "time": "8:20 م"
   },
   {
+    "date": "الأحد 2025/09/28",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "النصر",
     "homeLogo": "https://jdwel.com/image/teams/493.png",
     "away": "التضامن",
@@ -152,6 +209,9 @@
     "time": "6:05 م"
   },
   {
+    "date": "الأحد 2025/09/28",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "السالمية",
     "homeLogo": "https://jdwel.com/image/teams/kuw_al_salmiyah.png",
     "away": "الجهراء",
@@ -160,6 +220,9 @@
     "time": "8:20 م"
   },
   {
+    "date": "الجمعة 2025/10/17",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "الجهراء",
     "homeLogo": "https://jdwel.com/image/teams/2916.png",
     "away": "التضامن",
@@ -168,6 +231,9 @@
     "time": "5:40 م"
   },
   {
+    "date": "السبت 2025/10/18",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "الفحيحيل",
     "homeLogo": "https://jdwel.com/image/teams/2911.png",
     "away": "النصر",
@@ -176,6 +242,9 @@
     "time": "5:40 م"
   },
   {
+    "date": "السبت 2025/10/18",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "القادسية",
     "homeLogo": "https://jdwel.com/image/teams/kuw_al_qadsia.png",
     "away": "كاظمة",
@@ -184,6 +253,9 @@
     "time": "7:55 م"
   },
   {
+    "date": "الأحد 2025/10/19",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "الشباب",
     "homeLogo": "https://jdwel.com/image/teams/4217.png",
     "away": "نادي الكويت",
@@ -192,6 +264,9 @@
     "time": "5:40 م"
   },
   {
+    "date": "الأحد 2025/10/19",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "العربي",
     "homeLogo": "https://jdwel.com/image/teams/2912.png",
     "away": "السالمية",
@@ -200,6 +275,9 @@
     "time": "7:55 م"
   },
   {
+    "date": "الأحد 2025/10/26",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "النصر",
     "homeLogo": "https://jdwel.com/image/teams/493.png",
     "away": "الجهراء",
@@ -208,6 +286,9 @@
     "time": "5:35 م"
   },
   {
+    "date": "الأحد 2025/10/26",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "كاظمة",
     "homeLogo": "https://jdwel.com/image/teams/kuw_kazma.png",
     "away": "الشباب",
@@ -216,6 +297,9 @@
     "time": "7:50 م"
   },
   {
+    "date": "الأثنين 2025/10/27",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "السالمية",
     "homeLogo": "https://jdwel.com/image/teams/kuw_al_salmiyah.png",
     "away": "القادسية",
@@ -224,6 +308,9 @@
     "time": "6:45 م"
   },
   {
+    "date": "الجمعة 2025/10/31",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "القادسية",
     "homeLogo": "https://jdwel.com/image/teams/kuw_al_qadsia.png",
     "away": "التضامن",
@@ -232,6 +319,9 @@
     "time": "4:30 م"
   },
   {
+    "date": "السبت 2025/11/01",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "الفحيحيل",
     "homeLogo": "https://jdwel.com/image/teams/2911.png",
     "away": "كاظمة",
@@ -240,6 +330,9 @@
     "time": "4:30 م"
   },
   {
+    "date": "السبت 2025/11/01",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "الشباب",
     "homeLogo": "https://jdwel.com/image/teams/4217.png",
     "away": "السالمية",
@@ -248,6 +341,9 @@
     "time": "6:45 م"
   },
   {
+    "date": "الثلاثاء 2025/11/04",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "نادي الكويت",
     "homeLogo": "https://jdwel.com/image/teams/kuw_al_kuwait.png",
     "away": "النصر",
@@ -256,6 +352,9 @@
     "time": "4:25 م"
   },
   {
+    "date": "الثلاثاء 2025/11/04",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "العربي",
     "homeLogo": "https://jdwel.com/image/teams/2912.png",
     "away": "الجهراء",
@@ -264,6 +363,9 @@
     "time": "6:40 م"
   },
   {
+    "date": "الجمعة 2025/11/07",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "الفحيحيل",
     "homeLogo": "https://jdwel.com/image/teams/2911.png",
     "away": "السالمية",
@@ -272,6 +374,9 @@
     "time": "4:25 م"
   },
   {
+    "date": "الجمعة 2025/11/07",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "التضامن",
     "homeLogo": "https://jdwel.com/image/teams/kuw_al_tadhamon.png",
     "away": "الشباب",
@@ -280,6 +385,9 @@
     "time": "6:40 م"
   },
   {
+    "date": "السبت 2025/11/08",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "الجهراء",
     "homeLogo": "https://jdwel.com/image/teams/2916.png",
     "away": "القادسية",
@@ -288,6 +396,9 @@
     "time": "4:25 م"
   },
   {
+    "date": "الأحد 2025/11/09",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "العربي",
     "homeLogo": "https://jdwel.com/image/teams/2912.png",
     "away": "النصر",
@@ -296,6 +407,9 @@
     "time": "4:25 م"
   },
   {
+    "date": "الأحد 2025/11/09",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "كاظمة",
     "homeLogo": "https://jdwel.com/image/teams/kuw_kazma.png",
     "away": "نادي الكويت",
@@ -304,6 +418,9 @@
     "time": "7:40 م"
   },
   {
+    "date": "الأربعاء 2025/12/17",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "نادي الكويت",
     "homeLogo": "https://jdwel.com/image/teams/kuw_al_kuwait.png",
     "away": "السالمية",
@@ -312,6 +429,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأربعاء 2025/12/17",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "القادسية",
     "homeLogo": "https://jdwel.com/image/teams/kuw_al_qadsia.png",
     "away": "العربي",
@@ -320,6 +440,9 @@
     "time": "5:40 م"
   },
   {
+    "date": "الجمعة 2025/12/19",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "الجهراء",
     "homeLogo": "https://jdwel.com/image/teams/2916.png",
     "away": "الشباب",
@@ -328,6 +451,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الجمعة 2025/12/19",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "الفحيحيل",
     "homeLogo": "https://jdwel.com/image/teams/2911.png",
     "away": "التضامن",
@@ -336,6 +462,9 @@
     "time": "5:40 م"
   },
   {
+    "date": "السبت 2025/12/20",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "كاظمة",
     "homeLogo": "https://jdwel.com/image/teams/kuw_kazma.png",
     "away": "النصر",
@@ -344,6 +473,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأحد 2025/12/28",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "التضامن",
     "homeLogo": "https://jdwel.com/image/teams/kuw_al_tadhamon.png",
     "away": "العربي",
@@ -352,6 +484,9 @@
     "time": "3:05 م"
   },
   {
+    "date": "الأحد 2025/12/28",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "نادي الكويت",
     "homeLogo": "https://jdwel.com/image/teams/kuw_al_kuwait.png",
     "away": "الفحيحيل",
@@ -360,6 +495,9 @@
     "time": "5:45 م"
   },
   {
+    "date": "الأربعاء 2025/12/31",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "كاظمة",
     "homeLogo": "https://jdwel.com/image/teams/kuw_kazma.png",
     "away": "السالمية",
@@ -368,6 +506,9 @@
     "time": "3:10 م"
   },
   {
+    "date": "الأربعاء 2025/12/31",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "النصر",
     "homeLogo": "https://jdwel.com/image/teams/493.png",
     "away": "القادسية",
@@ -376,6 +517,9 @@
     "time": "5:40 م"
   },
   {
+    "date": "الخميس 2026/01/01",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "الفحيحيل",
     "homeLogo": "https://jdwel.com/image/teams/2911.png",
     "away": "الجهراء",
@@ -384,6 +528,9 @@
     "time": "4:30 م"
   },
   {
+    "date": "الجمعة 2026/01/02",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "نادي الكويت",
     "homeLogo": "https://jdwel.com/image/teams/kuw_al_kuwait.png",
     "away": "التضامن",
@@ -392,6 +539,9 @@
     "time": "3:10 م"
   },
   {
+    "date": "الجمعة 2026/01/02",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "الشباب",
     "homeLogo": "https://jdwel.com/image/teams/4217.png",
     "away": "العربي",
@@ -400,6 +550,9 @@
     "time": "5:40 م"
   },
   {
+    "date": "الأربعاء 2026/01/14",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "نادي الكويت",
     "homeLogo": "https://jdwel.com/image/teams/kuw_al_kuwait.png",
     "away": "الجهراء",
@@ -408,6 +561,9 @@
     "time": "3:20 م"
   },
   {
+    "date": "الأربعاء 2026/01/14",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "السالمية",
     "homeLogo": "https://jdwel.com/image/teams/kuw_al_salmiyah.png",
     "away": "النصر",
@@ -416,6 +572,9 @@
     "time": "5:45 م"
   },
   {
+    "date": "الخميس 2026/01/15",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "القادسية",
     "homeLogo": "https://jdwel.com/image/teams/kuw_al_qadsia.png",
     "away": "الشباب",
@@ -424,6 +583,9 @@
     "time": "3:20 م"
   },
   {
+    "date": "الخميس 2026/01/15",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "العربي",
     "homeLogo": "https://jdwel.com/image/teams/2912.png",
     "away": "الفحيحيل",
@@ -432,6 +594,9 @@
     "time": "5:45 م"
   },
   {
+    "date": "الجمعة 2026/01/16",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "التضامن",
     "homeLogo": "https://jdwel.com/image/teams/kuw_al_tadhamon.png",
     "away": "كاظمة",
@@ -440,6 +605,9 @@
     "time": "3:20 م"
   },
   {
+    "date": "الجمعة 2026/01/23",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "السالمية",
     "homeLogo": "https://jdwel.com/image/teams/kuw_al_salmiyah.png",
     "away": "التضامن",
@@ -448,6 +616,9 @@
     "time": "3:25 م"
   },
   {
+    "date": "الجمعة 2026/01/23",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "الفحيحيل",
     "homeLogo": "https://jdwel.com/image/teams/2911.png",
     "away": "القادسية",
@@ -456,6 +627,9 @@
     "time": "5:50 م"
   },
   {
+    "date": "السبت 2026/01/24",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "نادي الكويت",
     "homeLogo": "https://jdwel.com/image/teams/kuw_al_kuwait.png",
     "away": "العربي",
@@ -464,6 +638,9 @@
     "time": "4:45 م"
   },
   {
+    "date": "الأحد 2026/01/25",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "النصر",
     "homeLogo": "https://jdwel.com/image/teams/493.png",
     "away": "الشباب",
@@ -472,6 +649,9 @@
     "time": "3:30 م"
   },
   {
+    "date": "الأحد 2026/01/25",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "كاظمة",
     "homeLogo": "https://jdwel.com/image/teams/kuw_kazma.png",
     "away": "الجهراء",
@@ -480,6 +660,9 @@
     "time": "5:55 م"
   },
   {
+    "date": "الخميس 2026/02/05",
+    "round": "الجولة 13",
+    "status": "قريباً",
     "home": "الشباب",
     "homeLogo": "https://jdwel.com/image/teams/4217.png",
     "away": "الفحيحيل",
@@ -488,6 +671,9 @@
     "time": "3:40 م"
   },
   {
+    "date": "الخميس 2026/02/05",
+    "round": "الجولة 13",
+    "status": "قريباً",
     "home": "التضامن",
     "homeLogo": "https://jdwel.com/image/teams/kuw_al_tadhamon.png",
     "away": "النصر",
@@ -496,6 +682,9 @@
     "time": "6:05 م"
   },
   {
+    "date": "الجمعة 2026/02/06",
+    "round": "الجولة 13",
+    "status": "قريباً",
     "home": "القادسية",
     "homeLogo": "https://jdwel.com/image/teams/kuw_al_qadsia.png",
     "away": "نادي الكويت",
@@ -504,6 +693,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "السبت 2026/02/07",
+    "round": "الجولة 13",
+    "status": "قريباً",
     "home": "الجهراء",
     "homeLogo": "https://jdwel.com/image/teams/2916.png",
     "away": "السالمية",
@@ -512,6 +704,9 @@
     "time": "3:40 م"
   },
   {
+    "date": "السبت 2026/02/07",
+    "round": "الجولة 13",
+    "status": "قريباً",
     "home": "العربي",
     "homeLogo": "https://jdwel.com/image/teams/2912.png",
     "away": "كاظمة",
@@ -520,6 +715,9 @@
     "time": "6:05 م"
   },
   {
+    "date": "السبت 2026/02/21",
+    "round": "الجولة 14",
+    "status": "قريباً",
     "home": "التضامن",
     "homeLogo": "https://jdwel.com/image/teams/kuw_al_tadhamon.png",
     "away": "الجهراء",
@@ -528,6 +726,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "الأحد 2026/02/22",
+    "round": "الجولة 14",
+    "status": "قريباً",
     "home": "نادي الكويت",
     "homeLogo": "https://jdwel.com/image/teams/kuw_al_kuwait.png",
     "away": "الشباب",
@@ -536,6 +737,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "الأحد 2026/02/22",
+    "round": "الجولة 14",
+    "status": "قريباً",
     "home": "النصر",
     "homeLogo": "https://jdwel.com/image/teams/493.png",
     "away": "الفحيحيل",
@@ -544,6 +748,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "الأثنين 2026/02/23",
+    "round": "الجولة 14",
+    "status": "قريباً",
     "home": "السالمية",
     "homeLogo": "https://jdwel.com/image/teams/kuw_al_salmiyah.png",
     "away": "العربي",
@@ -552,6 +759,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "الأثنين 2026/02/23",
+    "round": "الجولة 14",
+    "status": "قريباً",
     "home": "كاظمة",
     "homeLogo": "https://jdwel.com/image/teams/kuw_kazma.png",
     "away": "القادسية",

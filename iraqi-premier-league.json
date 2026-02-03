@@ -1,5 +1,8 @@
 [
   {
+    "date": "الأحد 2026/02/01",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "زاخو",
     "homeLogo": "https://jdwel.com/image/teams/4511.png",
     "away": "الميناء",
@@ -8,6 +11,9 @@
     "time": "4:30 م"
   },
   {
+    "date": "الأحد 2026/02/01",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "النفط",
     "homeLogo": "https://jdwel.com/image/teams/4512.png",
     "away": "الزوراء",
@@ -16,6 +22,9 @@
     "time": "4:30 م"
   },
   {
+    "date": "الأحد 2026/02/01",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "نفط ميسان",
     "homeLogo": "https://jdwel.com/image/teams/3282.png",
     "away": "الكهرباء",
@@ -24,6 +33,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "الأحد 2026/02/01",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "القاسم",
     "homeLogo": "https://jdwel.com/image/teams/991.png",
     "away": "دهوك",
@@ -32,6 +44,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "الأحد 2026/02/01",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "الموصل",
     "homeLogo": "https://jdwel.com/image/teams/4510.png",
     "away": "القوة الجوية",
@@ -40,6 +55,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "السبت 2026/01/31",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "الطلبة",
     "homeLogo": "https://jdwel.com/image/teams/628.png",
     "away": "الغراف",
@@ -48,6 +66,9 @@
     "time": "4:30 م"
   },
   {
+    "date": "السبت 2026/01/31",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "الشرطة",
     "homeLogo": "https://jdwel.com/image/teams/2217.png",
     "away": "النجف",
@@ -56,6 +77,9 @@
     "time": "4:30 م"
   },
   {
+    "date": "السبت 2026/01/31",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "الكرمة",
     "homeLogo": "https://jdwel.com/image/teams/984.png",
     "away": "الكرخ",
@@ -64,6 +88,9 @@
     "time": "4:30 م"
   },
   {
+    "date": "السبت 2026/01/31",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "نوروز",
     "homeLogo": "https://jdwel.com/image/teams/5243.png",
     "away": "ديالى",
@@ -72,6 +99,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "السبت 2026/01/31",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "أمانة بغداد",
     "homeLogo": "https://jdwel.com/image/teams/4508.png",
     "away": "أربيل",
@@ -80,6 +110,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "الأربعاء 2026/01/28",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "دهوك",
     "homeLogo": "https://jdwel.com/image/teams/3281.png",
     "away": "الزوراء",
@@ -88,6 +121,9 @@
     "time": "4:30 م"
   },
   {
+    "date": "الأربعاء 2026/01/28",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "الكهرباء",
     "homeLogo": "https://jdwel.com/image/teams/2440.png",
     "away": "القوة الجوية",
@@ -96,6 +132,9 @@
     "time": "4:30 م"
   },
   {
+    "date": "الأربعاء 2026/01/28",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "الميناء",
     "homeLogo": "https://jdwel.com/image/teams/128.png",
     "away": "النفط",
@@ -104,6 +143,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "الأربعاء 2026/01/28",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "القاسم",
     "homeLogo": "https://jdwel.com/image/teams/991.png",
     "away": "الموصل",
@@ -112,6 +154,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "الثلاثاء 2026/01/27",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "الطلبة",
     "homeLogo": "https://jdwel.com/image/teams/628.png",
     "away": "ديالى",
@@ -120,6 +165,9 @@
     "time": "6:30 م"
   },
   {
+    "date": "الثلاثاء 2026/01/27",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "الشرطة",
     "homeLogo": "https://jdwel.com/image/teams/2217.png",
     "away": "نفط ميسان",
@@ -128,6 +176,9 @@
     "time": "4:30 م"
   },
   {
+    "date": "الثلاثاء 2026/01/27",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "نوروز",
     "homeLogo": "https://jdwel.com/image/teams/5243.png",
     "away": "الكرمة",
@@ -136,6 +187,9 @@
     "time": "4:30 م"
   },
   {
+    "date": "الثلاثاء 2026/01/27",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "النجف",
     "homeLogo": "https://jdwel.com/image/teams/4743.png",
     "away": "زاخو",
@@ -144,6 +198,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "الثلاثاء 2026/01/27",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "الكرخ",
     "homeLogo": "https://jdwel.com/image/teams/2220.png",
     "away": "أربيل",
@@ -152,6 +209,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "الأثنين 2026/01/26",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "الغراف",
     "homeLogo": "https://jdwel.com/image/teams/4509.png",
     "away": "أمانة بغداد",
@@ -160,6 +220,9 @@
     "time": "4:30 م"
   },
   {
+    "date": "الجمعة 2026/01/23",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "زاخو",
     "homeLogo": "https://jdwel.com/image/teams/4511.png",
     "away": "دهوك",
@@ -168,6 +231,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الجمعة 2026/01/23",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "الميناء",
     "homeLogo": "https://jdwel.com/image/teams/128.png",
     "away": "الشرطة",
@@ -176,6 +242,9 @@
     "time": "4:30 م"
   },
   {
+    "date": "الجمعة 2026/01/23",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "النفط",
     "homeLogo": "https://jdwel.com/image/teams/4512.png",
     "away": "نفط ميسان",
@@ -184,6 +253,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "الجمعة 2026/01/23",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "الكهرباء",
     "homeLogo": "https://jdwel.com/image/teams/2440.png",
     "away": "الموصل",
@@ -192,6 +264,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "الجمعة 2026/01/23",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "أربيل",
     "homeLogo": "https://jdwel.com/image/teams/985.png",
     "away": "الطلبة",
@@ -200,6 +275,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "الخميس 2026/01/22",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "الزوراء",
     "homeLogo": "https://jdwel.com/image/teams/617.png",
     "away": "النجف",
@@ -208,6 +286,9 @@
     "time": "6:30 م"
   },
   {
+    "date": "الخميس 2026/01/22",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "الكرمة",
     "homeLogo": "https://jdwel.com/image/teams/984.png",
     "away": "أمانة بغداد",
@@ -216,6 +297,9 @@
     "time": "4:30 م"
   },
   {
+    "date": "الخميس 2026/01/22",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "القوة الجوية",
     "homeLogo": "https://jdwel.com/image/teams/2346.png",
     "away": "القاسم",
@@ -224,6 +308,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "الخميس 2026/01/22",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "الكرخ",
     "homeLogo": "https://jdwel.com/image/teams/2220.png",
     "away": "نوروز",
@@ -232,6 +319,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "الخميس 2026/01/22",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "ديالى",
     "homeLogo": "https://jdwel.com/image/teams/983.png",
     "away": "الغراف",
@@ -240,6 +330,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "الأثنين 2026/01/19",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "الطلبة",
     "homeLogo": "https://jdwel.com/image/teams/628.png",
     "away": "الميناء",
@@ -248,6 +341,9 @@
     "time": "4:30 م"
   },
   {
+    "date": "الأثنين 2026/01/19",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "النفط",
     "homeLogo": "https://jdwel.com/image/teams/4512.png",
     "away": "الكهرباء",
@@ -256,6 +352,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "الأحد 2026/01/18",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "الموصل",
     "homeLogo": "https://jdwel.com/image/teams/4510.png",
     "away": "الكرمة",
@@ -264,6 +363,9 @@
     "time": "4:30 م"
   },
   {
+    "date": "الأحد 2026/01/18",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "النجف",
     "homeLogo": "https://jdwel.com/image/teams/4743.png",
     "away": "الغراف",
@@ -272,6 +374,9 @@
     "time": "4:30 م"
   },
   {
+    "date": "الأحد 2026/01/18",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "نفط ميسان",
     "homeLogo": "https://jdwel.com/image/teams/3282.png",
     "away": "زاخو",
@@ -280,6 +385,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "الأحد 2026/01/18",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "القاسم",
     "homeLogo": "https://jdwel.com/image/teams/991.png",
     "away": "نوروز",
@@ -288,6 +396,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "الأحد 2026/01/18",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "أمانة بغداد",
     "homeLogo": "https://jdwel.com/image/teams/4508.png",
     "away": "الكرخ",
@@ -296,6 +407,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "السبت 2026/01/17",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "القوة الجوية",
     "homeLogo": "https://jdwel.com/image/teams/2346.png",
     "away": "الشرطة",
@@ -304,6 +418,9 @@
     "time": "4:30 م"
   },
   {
+    "date": "السبت 2026/01/17",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "دهوك",
     "homeLogo": "https://jdwel.com/image/teams/3281.png",
     "away": "ديالى",
@@ -312,6 +429,9 @@
     "time": "4:30 م"
   },
   {
+    "date": "السبت 2026/01/17",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "الزوراء",
     "homeLogo": "https://jdwel.com/image/teams/617.png",
     "away": "أربيل",
@@ -320,6 +440,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "الأربعاء 2026/01/14",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "الميناء",
     "homeLogo": "https://jdwel.com/image/teams/128.png",
     "away": "الكرخ",
@@ -328,6 +451,9 @@
     "time": "4:30 م"
   },
   {
+    "date": "الأربعاء 2026/01/14",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "النجف",
     "homeLogo": "https://jdwel.com/image/teams/4743.png",
     "away": "نفط ميسان",
@@ -336,6 +462,9 @@
     "time": "4:30 م"
   },
   {
+    "date": "الأربعاء 2026/01/14",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "الكهرباء",
     "homeLogo": "https://jdwel.com/image/teams/2440.png",
     "away": "زاخو",
@@ -344,6 +473,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "الأربعاء 2026/01/14",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "الغراف",
     "homeLogo": "https://jdwel.com/image/teams/4509.png",
     "away": "النفط",
@@ -352,6 +484,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "الأربعاء 2026/01/14",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "نوروز",
     "homeLogo": "https://jdwel.com/image/teams/5243.png",
     "away": "الطلبة",
@@ -360,6 +495,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "الثلاثاء 2026/01/13",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "أربيل",
     "homeLogo": "https://jdwel.com/image/teams/985.png",
     "away": "دهوك",
@@ -368,6 +506,9 @@
     "time": "4:30 م"
   },
   {
+    "date": "الثلاثاء 2026/01/13",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "الكرمة",
     "homeLogo": "https://jdwel.com/image/teams/984.png",
     "away": "القاسم",
@@ -376,6 +517,9 @@
     "time": "4:30 م"
   },
   {
+    "date": "الثلاثاء 2026/01/13",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "أمانة بغداد",
     "homeLogo": "https://jdwel.com/image/teams/4508.png",
     "away": "القوة الجوية",
@@ -384,6 +528,9 @@
     "time": "4:30 م"
   },
   {
+    "date": "الثلاثاء 2026/01/13",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "الشرطة",
     "homeLogo": "https://jdwel.com/image/teams/2217.png",
     "away": "الموصل",
@@ -392,6 +539,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "الثلاثاء 2026/01/13",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "ديالى",
     "homeLogo": "https://jdwel.com/image/teams/983.png",
     "away": "الزوراء",
@@ -400,6 +550,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "السبت 2026/01/10",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "الطلبة",
     "homeLogo": "https://jdwel.com/image/teams/628.png",
     "away": "الكهرباء",
@@ -408,6 +561,9 @@
     "time": "4:30 م"
   },
   {
+    "date": "السبت 2026/01/10",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "الغراف",
     "homeLogo": "https://jdwel.com/image/teams/4509.png",
     "away": "نوروز",
@@ -416,6 +572,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "السبت 2026/01/10",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "الكرخ",
     "homeLogo": "https://jdwel.com/image/teams/2220.png",
     "away": "النجف",
@@ -424,6 +583,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "الجمعة 2026/01/09",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "القوة الجوية",
     "homeLogo": "https://jdwel.com/image/teams/2346.png",
     "away": "الكرمة",
@@ -432,6 +594,9 @@
     "time": "4:30 م"
   },
   {
+    "date": "الجمعة 2026/01/09",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "النفط",
     "homeLogo": "https://jdwel.com/image/teams/4512.png",
     "away": "ديالى",
@@ -440,6 +605,9 @@
     "time": "4:30 م"
   },
   {
+    "date": "الجمعة 2026/01/09",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "دهوك",
     "homeLogo": "https://jdwel.com/image/teams/3281.png",
     "away": "الميناء",
@@ -448,6 +616,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "الجمعة 2026/01/09",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "زاخو",
     "homeLogo": "https://jdwel.com/image/teams/4511.png",
     "away": "أمانة بغداد",
@@ -456,6 +627,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "الجمعة 2026/01/09",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "نفط ميسان",
     "homeLogo": "https://jdwel.com/image/teams/3282.png",
     "away": "الزوراء",
@@ -464,6 +638,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "الخميس 2026/01/08",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "الموصل",
     "homeLogo": "https://jdwel.com/image/teams/4510.png",
     "away": "أربيل",
@@ -472,6 +649,9 @@
     "time": "4:30 م"
   },
   {
+    "date": "الخميس 2026/01/08",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "القاسم",
     "homeLogo": "https://jdwel.com/image/teams/991.png",
     "away": "الشرطة",
@@ -480,6 +660,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "الأثنين 2026/01/05",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "الزوراء",
     "homeLogo": "https://jdwel.com/image/teams/617.png",
     "away": "الغراف",
@@ -488,6 +671,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "الأثنين 2026/01/05",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "الكرمة",
     "homeLogo": "https://jdwel.com/image/teams/984.png",
     "away": "النجف",
@@ -496,6 +682,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "الأثنين 2026/01/05",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "نوروز",
     "homeLogo": "https://jdwel.com/image/teams/5243.png",
     "away": "النفط",
@@ -504,6 +693,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأثنين 2026/01/05",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "نفط ميسان",
     "homeLogo": "https://jdwel.com/image/teams/3282.png",
     "away": "ديالى",
@@ -512,6 +704,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأثنين 2026/01/05",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "الميناء",
     "homeLogo": "https://jdwel.com/image/teams/128.png",
     "away": "الكهرباء",
@@ -520,6 +715,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأحد 2026/01/04",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "دهوك",
     "homeLogo": "https://jdwel.com/image/teams/3281.png",
     "away": "أمانة بغداد",
@@ -528,6 +726,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "الأحد 2026/01/04",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "الشرطة",
     "homeLogo": "https://jdwel.com/image/teams/2217.png",
     "away": "زاخو",
@@ -536,6 +737,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "الأحد 2026/01/04",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "الكرخ",
     "homeLogo": "https://jdwel.com/image/teams/2220.png",
     "away": "الموصل",
@@ -544,6 +748,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأحد 2026/01/04",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "أربيل",
     "homeLogo": "https://jdwel.com/image/teams/985.png",
     "away": "القوة الجوية",
@@ -552,6 +759,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأحد 2026/01/04",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "القاسم",
     "homeLogo": "https://jdwel.com/image/teams/991.png",
     "away": "الطلبة",
@@ -560,6 +770,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الخميس 2026/01/01",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "الكهرباء",
     "homeLogo": "https://jdwel.com/image/teams/2440.png",
     "away": "الزوراء",
@@ -568,6 +781,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "الخميس 2026/01/01",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "النجف",
     "homeLogo": "https://jdwel.com/image/teams/4743.png",
     "away": "النفط",
@@ -576,6 +792,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الخميس 2026/01/01",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "الميناء",
     "homeLogo": "https://jdwel.com/image/teams/128.png",
     "away": "نوروز",
@@ -584,6 +803,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأربعاء 2025/12/31",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "الغراف",
     "homeLogo": "https://jdwel.com/image/teams/4509.png",
     "away": "الكرمة",
@@ -592,6 +814,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "الأربعاء 2025/12/31",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "الطلبة",
     "homeLogo": "https://jdwel.com/image/teams/628.png",
     "away": "الموصل",
@@ -600,6 +825,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "الأربعاء 2025/12/31",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "أربيل",
     "homeLogo": "https://jdwel.com/image/teams/985.png",
     "away": "نفط ميسان",
@@ -608,6 +836,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأربعاء 2025/12/31",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "زاخو",
     "homeLogo": "https://jdwel.com/image/teams/4511.png",
     "away": "الكرخ",
@@ -616,6 +847,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الثلاثاء 2025/12/30",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "القوة الجوية",
     "homeLogo": "https://jdwel.com/image/teams/2346.png",
     "away": "دهوك",
@@ -624,6 +858,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "الثلاثاء 2025/12/30",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "أمانة بغداد",
     "homeLogo": "https://jdwel.com/image/teams/4508.png",
     "away": "الشرطة",
@@ -632,6 +869,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "الثلاثاء 2025/12/30",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "ديالى",
     "homeLogo": "https://jdwel.com/image/teams/983.png",
     "away": "القاسم",
@@ -640,6 +880,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأحد 2025/12/28",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "الزوراء",
     "homeLogo": "https://jdwel.com/image/teams/617.png",
     "away": "الميناء",
@@ -648,6 +891,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "السبت 2025/12/27",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "الكرمة",
     "homeLogo": "https://jdwel.com/image/teams/984.png",
     "away": "زاخو",
@@ -656,6 +902,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الجمعة 2025/12/26",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "الطلبة",
     "homeLogo": "https://jdwel.com/image/teams/628.png",
     "away": "الشرطة",
@@ -664,6 +913,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الثلاثاء 2025/12/23",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "النفط",
     "homeLogo": "https://jdwel.com/image/teams/4512.png",
     "away": "القوة الجوية",
@@ -672,6 +924,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "الثلاثاء 2025/12/23",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "دهوك",
     "homeLogo": "https://jdwel.com/image/teams/3281.png",
     "away": "النجف",
@@ -680,6 +935,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "الثلاثاء 2025/12/23",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "الكهرباء",
     "homeLogo": "https://jdwel.com/image/teams/2440.png",
     "away": "القاسم",
@@ -688,6 +946,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأثنين 2025/12/22",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "نوروز",
     "homeLogo": "https://jdwel.com/image/teams/5243.png",
     "away": "أمانة بغداد",
@@ -696,6 +957,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "الأثنين 2025/12/22",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "ديالى",
     "homeLogo": "https://jdwel.com/image/teams/983.png",
     "away": "أربيل",
@@ -704,6 +968,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "الأثنين 2025/12/22",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "الموصل",
     "homeLogo": "https://jdwel.com/image/teams/4510.png",
     "away": "نفط ميسان",
@@ -712,6 +979,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأثنين 2025/12/22",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "الكرخ",
     "homeLogo": "https://jdwel.com/image/teams/2220.png",
     "away": "الغراف",
@@ -720,6 +990,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأحد 2025/11/23",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "زاخو",
     "homeLogo": "https://jdwel.com/image/teams/4511.png",
     "away": "القاسم",
@@ -728,6 +1001,9 @@
     "time": "6:30 م"
   },
   {
+    "date": "الأحد 2025/11/23",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "أمانة بغداد",
     "homeLogo": "https://jdwel.com/image/teams/4508.png",
     "away": "الطلبة",
@@ -736,6 +1012,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "السبت 2025/11/22",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "النجف",
     "homeLogo": "https://jdwel.com/image/teams/4743.png",
     "away": "القوة الجوية",
@@ -744,6 +1023,9 @@
     "time": "6:30 م"
   },
   {
+    "date": "السبت 2025/11/22",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "أربيل",
     "homeLogo": "https://jdwel.com/image/teams/985.png",
     "away": "الغراف",
@@ -752,6 +1034,9 @@
     "time": "6:30 م"
   },
   {
+    "date": "السبت 2025/11/22",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "الكرمة",
     "homeLogo": "https://jdwel.com/image/teams/984.png",
     "away": "الميناء",
@@ -760,6 +1045,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "السبت 2025/11/22",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "الكهرباء",
     "homeLogo": "https://jdwel.com/image/teams/2440.png",
     "away": "ديالى",
@@ -768,6 +1056,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الجمعة 2025/11/21",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "النفط",
     "homeLogo": "https://jdwel.com/image/teams/4512.png",
     "away": "الموصل",
@@ -776,6 +1067,9 @@
     "time": "6:30 م"
   },
   {
+    "date": "الجمعة 2025/11/21",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "الزوراء",
     "homeLogo": "https://jdwel.com/image/teams/617.png",
     "away": "نوروز",
@@ -784,6 +1078,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الجمعة 2025/11/21",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "نفط ميسان",
     "homeLogo": "https://jdwel.com/image/teams/3282.png",
     "away": "دهوك",
@@ -792,6 +1089,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الخميس 2025/11/20",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "الشرطة",
     "homeLogo": "https://jdwel.com/image/teams/2217.png",
     "away": "الكرخ",
@@ -800,6 +1100,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الجمعة 2025/10/31",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "الكرخ",
     "homeLogo": "https://jdwel.com/image/teams/2220.png",
     "away": "الكهرباء",
@@ -808,6 +1111,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الجمعة 2025/10/31",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "الموصل",
     "homeLogo": "https://jdwel.com/image/teams/4510.png",
     "away": "الزوراء",
@@ -816,6 +1122,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الجمعة 2025/10/31",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "الطلبة",
     "homeLogo": "https://jdwel.com/image/teams/628.png",
     "away": "نفط ميسان",
@@ -824,6 +1133,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الجمعة 2025/10/31",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "الميناء",
     "homeLogo": "https://jdwel.com/image/teams/128.png",
     "away": "القاسم",
@@ -832,6 +1144,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الخميس 2025/10/30",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "القوة الجوية",
     "homeLogo": "https://jdwel.com/image/teams/2346.png",
     "away": "ديالى",
@@ -840,6 +1155,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "الخميس 2025/10/30",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "دهوك",
     "homeLogo": "https://jdwel.com/image/teams/3281.png",
     "away": "النفط",
@@ -848,6 +1166,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "الخميس 2025/10/30",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "الغراف",
     "homeLogo": "https://jdwel.com/image/teams/4509.png",
     "away": "زاخو",
@@ -856,6 +1177,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الخميس 2025/10/30",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "أمانة بغداد",
     "homeLogo": "https://jdwel.com/image/teams/4508.png",
     "away": "النجف",
@@ -864,6 +1188,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأربعاء 2025/10/29",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "نوروز",
     "homeLogo": "https://jdwel.com/image/teams/5243.png",
     "away": "أربيل",
@@ -872,6 +1199,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "الأربعاء 2025/10/29",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "الشرطة",
     "homeLogo": "https://jdwel.com/image/teams/2217.png",
     "away": "الكرمة",
@@ -880,6 +1210,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأثنين 2025/10/27",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "القاسم",
     "homeLogo": "https://jdwel.com/image/teams/991.png",
     "away": "الزوراء",
@@ -888,6 +1221,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "الأثنين 2025/10/27",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "نفط ميسان",
     "homeLogo": "https://jdwel.com/image/teams/3282.png",
     "away": "الكرخ",
@@ -896,6 +1232,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2025/10/26",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "النجف",
     "homeLogo": "https://jdwel.com/image/teams/4743.png",
     "away": "الطلبة",
@@ -904,6 +1243,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "الأحد 2025/10/26",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "زاخو",
     "homeLogo": "https://jdwel.com/image/teams/4511.png",
     "away": "الموصل",
@@ -912,6 +1254,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "الأحد 2025/10/26",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "النفط",
     "homeLogo": "https://jdwel.com/image/teams/4512.png",
     "away": "أمانة بغداد",
@@ -920,6 +1265,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2025/10/26",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "ديالى",
     "homeLogo": "https://jdwel.com/image/teams/983.png",
     "away": "الميناء",
@@ -928,6 +1276,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/10/25",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "القوة الجوية",
     "homeLogo": "https://jdwel.com/image/teams/2346.png",
     "away": "الغراف",
@@ -936,6 +1287,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "السبت 2025/10/25",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "نوروز",
     "homeLogo": "https://jdwel.com/image/teams/5243.png",
     "away": "دهوك",
@@ -944,6 +1298,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "السبت 2025/10/25",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "الكرمة",
     "homeLogo": "https://jdwel.com/image/teams/984.png",
     "away": "الكهرباء",
@@ -952,6 +1309,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الجمعة 2025/10/24",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "أربيل",
     "homeLogo": "https://jdwel.com/image/teams/985.png",
     "away": "الشرطة",
@@ -960,6 +1320,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2025/10/05",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "الميناء",
     "homeLogo": "https://jdwel.com/image/teams/128.png",
     "away": "النجف",
@@ -968,6 +1331,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "الأحد 2025/10/05",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "الزوراء",
     "homeLogo": "https://jdwel.com/image/teams/617.png",
     "away": "القوة الجوية",
@@ -976,6 +1342,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "الأحد 2025/10/05",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "الموصل",
     "homeLogo": "https://jdwel.com/image/teams/4510.png",
     "away": "ديالى",
@@ -984,6 +1353,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2025/10/05",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "أمانة بغداد",
     "homeLogo": "https://jdwel.com/image/teams/4508.png",
     "away": "نفط ميسان",
@@ -992,6 +1364,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/10/04",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "الكهرباء",
     "homeLogo": "https://jdwel.com/image/teams/2440.png",
     "away": "الشرطة",
@@ -1000,6 +1375,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "السبت 2025/10/04",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "زاخو",
     "homeLogo": "https://jdwel.com/image/teams/4511.png",
     "away": "نوروز",
@@ -1008,6 +1386,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "السبت 2025/10/04",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "الغراف",
     "homeLogo": "https://jdwel.com/image/teams/4509.png",
     "away": "القاسم",
@@ -1016,6 +1397,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الجمعة 2025/10/03",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "الطلبة",
     "homeLogo": "https://jdwel.com/image/teams/628.png",
     "away": "دهوك",
@@ -1024,6 +1408,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "الجمعة 2025/10/03",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "أربيل",
     "homeLogo": "https://jdwel.com/image/teams/985.png",
     "away": "الكرمة",
@@ -1032,6 +1419,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "الجمعة 2025/10/03",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "الكرخ",
     "homeLogo": "https://jdwel.com/image/teams/2220.png",
     "away": "النفط",
@@ -1040,6 +1430,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/09/27",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "الكرمة",
     "homeLogo": "https://jdwel.com/image/teams/984.png",
     "away": "الزوراء",
@@ -1048,6 +1441,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "السبت 2025/09/27",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "دهوك",
     "homeLogo": "https://jdwel.com/image/teams/3281.png",
     "away": "الكرخ",
@@ -1056,6 +1452,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "السبت 2025/09/27",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "الكهرباء",
     "homeLogo": "https://jdwel.com/image/teams/2440.png",
     "away": "أربيل",
@@ -1064,6 +1463,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/09/27",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "القوة الجوية",
     "homeLogo": "https://jdwel.com/image/teams/2346.png",
     "away": "الميناء",
@@ -1072,6 +1474,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الجمعة 2025/09/26",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "الموصل",
     "homeLogo": "https://jdwel.com/image/teams/4510.png",
     "away": "النجف",
@@ -1080,6 +1485,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "الجمعة 2025/09/26",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "القاسم",
     "homeLogo": "https://jdwel.com/image/teams/991.png",
     "away": "أمانة بغداد",
@@ -1088,6 +1496,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الجمعة 2025/09/26",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "نفط ميسان",
     "homeLogo": "https://jdwel.com/image/teams/3282.png",
     "away": "الغراف",
@@ -1096,6 +1507,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الخميس 2025/09/25",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "الشرطة",
     "homeLogo": "https://jdwel.com/image/teams/2217.png",
     "away": "نوروز",
@@ -1104,6 +1518,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "الخميس 2025/09/25",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "النفط",
     "homeLogo": "https://jdwel.com/image/teams/4512.png",
     "away": "الطلبة",
@@ -1112,6 +1529,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الخميس 2025/09/25",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "ديالى",
     "homeLogo": "https://jdwel.com/image/teams/983.png",
     "away": "زاخو",
@@ -1120,6 +1540,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2025/09/21",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "الغراف",
     "homeLogo": "https://jdwel.com/image/teams/4509.png",
     "away": "الكهرباء",
@@ -1128,6 +1551,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "الأحد 2025/09/21",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "الزوراء",
     "homeLogo": "https://jdwel.com/image/teams/617.png",
     "away": "الطلبة",
@@ -1136,6 +1562,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "الأحد 2025/09/21",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "أمانة بغداد",
     "homeLogo": "https://jdwel.com/image/teams/4508.png",
     "away": "الموصل",
@@ -1144,6 +1573,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2025/09/21",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "الشرطة",
     "homeLogo": "https://jdwel.com/image/teams/2217.png",
     "away": "دهوك",
@@ -1152,6 +1584,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/09/20",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "الميناء",
     "homeLogo": "https://jdwel.com/image/teams/128.png",
     "away": "أربيل",
@@ -1160,6 +1595,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "السبت 2025/09/20",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "الكرمة",
     "homeLogo": "https://jdwel.com/image/teams/984.png",
     "away": "النفط",
@@ -1168,6 +1606,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "السبت 2025/09/20",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "الكرخ",
     "homeLogo": "https://jdwel.com/image/teams/2220.png",
     "away": "القاسم",
@@ -1176,6 +1617,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/09/20",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "نفط ميسان",
     "homeLogo": "https://jdwel.com/image/teams/3282.png",
     "away": "نوروز",
@@ -1184,6 +1628,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الجمعة 2025/09/19",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "زاخو",
     "homeLogo": "https://jdwel.com/image/teams/4511.png",
     "away": "القوة الجوية",
@@ -1192,6 +1639,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "الجمعة 2025/09/19",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "النجف",
     "homeLogo": "https://jdwel.com/image/teams/4743.png",
     "away": "ديالى",
@@ -1200,6 +1650,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأثنين 2025/09/15",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "الكرخ",
     "homeLogo": "https://jdwel.com/image/teams/2220.png",
     "away": "القوة الجوية",
@@ -1208,6 +1661,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "الأثنين 2025/09/15",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "أربيل",
     "homeLogo": "https://jdwel.com/image/teams/985.png",
     "away": "النجف",
@@ -1216,6 +1672,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "الأثنين 2025/09/15",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "الغراف",
     "homeLogo": "https://jdwel.com/image/teams/4509.png",
     "away": "الموصل",
@@ -1224,6 +1683,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2025/09/14",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "دهوك",
     "homeLogo": "https://jdwel.com/image/teams/3281.png",
     "away": "الكرمة",
@@ -1232,6 +1694,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "الأحد 2025/09/14",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "القاسم",
     "homeLogo": "https://jdwel.com/image/teams/991.png",
     "away": "النفط",
@@ -1240,6 +1705,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2025/09/14",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "نفط ميسان",
     "homeLogo": "https://jdwel.com/image/teams/3282.png",
     "away": "الميناء",
@@ -1248,6 +1716,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/09/13",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "الطلبة",
     "homeLogo": "https://jdwel.com/image/teams/628.png",
     "away": "زاخو",
@@ -1256,6 +1727,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "السبت 2025/09/13",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "نوروز",
     "homeLogo": "https://jdwel.com/image/teams/5243.png",
     "away": "الكهرباء",
@@ -1264,6 +1738,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "السبت 2025/09/13",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "أمانة بغداد",
     "homeLogo": "https://jdwel.com/image/teams/4508.png",
     "away": "ديالى",
@@ -1272,6 +1749,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/09/13",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "الزوراء",
     "homeLogo": "https://jdwel.com/image/teams/617.png",
     "away": "الشرطة",

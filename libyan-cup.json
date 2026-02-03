@@ -1,5 +1,8 @@
 [
   {
+    "date": "الخميس 2025/12/04",
+    "round": "",
+    "status": "انتهت",
     "home": "الأهلي طرابلس",
     "homeLogo": "https://jdwel.com/image/teams/958.png",
     "away": "الأهلي بنغازي",
@@ -8,6 +11,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الثلاثاء 2025/11/11",
+    "round": "",
+    "status": "انتهت",
     "home": "الأخضر",
     "homeLogo": "https://jdwel.com/image/teams/lib_al_akhdar_v2.png",
     "away": "الأهلي بنغازي",
@@ -16,6 +22,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الأثنين 2025/11/10",
+    "round": "",
+    "status": "انتهت",
     "home": "الاتحاد",
     "homeLogo": "https://jdwel.com/image/teams/1528.png",
     "away": "الأهلي طرابلس",
@@ -24,6 +33,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأثنين 2025/07/07",
+    "round": "",
+    "status": "انتهت",
     "home": "الاتحاد",
     "homeLogo": "https://jdwel.com/image/teams/1528.png",
     "away": "المدينة",
@@ -32,6 +44,9 @@
     "time": "8:40 م"
   },
   {
+    "date": "الأثنين 2025/07/07",
+    "round": "",
+    "status": "انتهت",
     "home": "السويحلي",
     "homeLogo": "https://jdwel.com/image/teams/lib_asswehly_v2.png",
     "away": "الأهلي طرابلس",
@@ -40,6 +55,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الجمعة 2025/07/04",
+    "round": "",
+    "status": "انتهت",
     "home": "الهلال",
     "homeLogo": "https://jdwel.com/image/teams/lib_al_hilal.png",
     "away": "الأهلي بنغازي",
@@ -48,6 +66,9 @@
     "time": "9:30 م"
   },
   {
+    "date": "الجمعة 2025/07/04",
+    "round": "",
+    "status": "انتهت",
     "home": "النصر",
     "homeLogo": "https://jdwel.com/image/teams/lib_al-nasr_v2.png",
     "away": "الأخضر",

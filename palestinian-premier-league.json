@@ -1,5 +1,8 @@
 [
   {
+    "date": "الأحد 2023/10/08",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "مركز بلاطة",
     "homeLogo": "https://jdwel.com/image/teams/556.png",
     "away": "شباب البيرة",
@@ -8,6 +11,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2023/10/08",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "السواحرة",
     "homeLogo": "https://jdwel.com/image/teams/665.png",
     "away": "جبل المكبر",
@@ -16,6 +22,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2023/10/08",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "ثقافي طولكرم",
     "homeLogo": "https://jdwel.com/image/teams/2977.png",
     "away": "شباب العبيدية",
@@ -24,6 +33,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2023/10/08",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "شباب السموع",
     "homeLogo": "https://jdwel.com/image/teams/603.png",
     "away": "شباب الظاهرية",
@@ -32,6 +44,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الجمعة 2023/10/06",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "ترجي واد النيص",
     "homeLogo": "https://jdwel.com/image/teams/2979.png",
     "away": "هلال القدس",
@@ -40,6 +55,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الجمعة 2023/10/06",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "أهلي الخليل",
     "homeLogo": "https://jdwel.com/image/teams/16.png",
     "away": "شباب الخليل",
@@ -48,6 +66,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الثلاثاء 2023/10/03",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "جبل المكبر",
     "homeLogo": "https://jdwel.com/image/teams/2974.png",
     "away": "مركز بلاطة",
@@ -56,6 +77,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأثنين 2023/10/02",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "شباب البيرة",
     "homeLogo": "https://jdwel.com/image/teams/2976.png",
     "away": "هلال القدس",
@@ -64,6 +88,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2023/09/30",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "شباب الظاهرية",
     "homeLogo": "https://jdwel.com/image/teams/pal_shabab_al_dhahiriya.png",
     "away": "أهلي الخليل",
@@ -72,6 +99,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "السبت 2023/09/30",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "ترجي واد النيص",
     "homeLogo": "https://jdwel.com/image/teams/2979.png",
     "away": "ثقافي طولكرم",
@@ -80,6 +110,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الجمعة 2023/09/29",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "شباب العبيدية",
     "homeLogo": "https://jdwel.com/image/teams/2975.png",
     "away": "شباب السموع",
@@ -88,6 +121,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الجمعة 2023/09/29",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "شباب الخليل",
     "homeLogo": "https://jdwel.com/image/teams/2978.png",
     "away": "السواحرة",
@@ -96,6 +132,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2023/08/27",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "مركز بلاطة",
     "homeLogo": "https://jdwel.com/image/teams/556.png",
     "away": "شباب الخليل",
@@ -104,6 +143,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "السبت 2023/08/26",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "شباب العبيدية",
     "homeLogo": "https://jdwel.com/image/teams/2975.png",
     "away": "شباب الظاهرية",
@@ -112,6 +154,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "السبت 2023/08/26",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "السواحرة",
     "homeLogo": "https://jdwel.com/image/teams/665.png",
     "away": "أهلي الخليل",
@@ -120,6 +165,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الجمعة 2023/08/25",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "هلال القدس",
     "homeLogo": "https://jdwel.com/image/teams/pal_hilal_al_quds.png",
     "away": "جبل المكبر",
@@ -128,6 +176,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الجمعة 2023/08/25",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "ثقافي طولكرم",
     "homeLogo": "https://jdwel.com/image/teams/2977.png",
     "away": "شباب البيرة",
@@ -136,6 +187,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الخميس 2023/08/24",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "شباب السموع",
     "homeLogo": "https://jdwel.com/image/teams/603.png",
     "away": "ترجي واد النيص",
@@ -144,6 +198,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "السبت 2023/08/19",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "جبل المكبر",
     "homeLogo": "https://jdwel.com/image/teams/2974.png",
     "away": "ثقافي طولكرم",
@@ -152,6 +209,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "السبت 2023/08/19",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "شباب السموع",
     "homeLogo": "https://jdwel.com/image/teams/603.png",
     "away": "شباب البيرة",
@@ -160,6 +220,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الجمعة 2023/08/18",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "شباب الظاهرية",
     "homeLogo": "https://jdwel.com/image/teams/pal_shabab_al_dhahiriya.png",
     "away": "السواحرة",
@@ -168,6 +231,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الجمعة 2023/08/18",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "أهلي الخليل",
     "homeLogo": "https://jdwel.com/image/teams/16.png",
     "away": "مركز بلاطة",
@@ -176,6 +242,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الجمعة 2023/08/18",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "شباب الخليل",
     "homeLogo": "https://jdwel.com/image/teams/2978.png",
     "away": "هلال القدس",
@@ -184,6 +253,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الخميس 2023/08/17",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "ترجي واد النيص",
     "homeLogo": "https://jdwel.com/image/teams/2979.png",
     "away": "شباب العبيدية",
