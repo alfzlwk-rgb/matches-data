@@ -1,5 +1,8 @@
 [
   {
+    "date": "الأربعاء 2026/01/21",
+    "round": "",
+    "status": "انتهت",
     "home": "زد إف سي",
     "homeLogo": "https://jdwel.com/image/teams/egy_zed.png",
     "away": "المصري البورسعيدي",
@@ -8,6 +11,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "الثلاثاء 2026/01/20",
+    "round": "",
+    "status": "انتهت",
     "home": "الجونة",
     "homeLogo": "https://jdwel.com/image/teams/egy_el_gounah_v2.png",
     "away": "بيراميدز",
@@ -16,6 +22,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "الثلاثاء 2026/01/20",
+    "round": "",
+    "status": "انتهت",
     "home": "بتروجيت",
     "homeLogo": "https://jdwel.com/image/teams/2780.png",
     "away": "مودرن سبورت",
@@ -24,6 +33,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "الأحد 2026/01/18",
+    "round": "",
+    "status": "انتهت",
     "home": "الزمالك",
     "homeLogo": "https://jdwel.com/image/teams/339.png",
     "away": "سيراميكا كليوباترا",
@@ -32,6 +44,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الثلاثاء 2026/01/13",
+    "round": "",
+    "status": "انتهت",
     "home": "وي",
     "homeLogo": "https://jdwel.com/image/teams/52.png",
     "away": "فاركو",
@@ -40,6 +55,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "الخميس 2026/01/08",
+    "round": "",
+    "status": "انتهت",
     "home": "حرس الحدود",
     "homeLogo": "https://jdwel.com/image/teams/2458.png",
     "away": "سموحة",
@@ -48,6 +66,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "الأحد 2025/12/28",
+    "round": "",
+    "status": "انتهت",
     "home": "الزمالك",
     "homeLogo": "https://jdwel.com/image/teams/339.png",
     "away": "بلدية المحلة",
@@ -56,14 +77,9 @@
     "time": "2:30 م"
   },
   {
-    "home": "البنك الأهلي",
-    "homeLogo": "https://jdwel.com/image/teams/2457.png",
-    "away": "إنبي",
-    "awayLogo": "https://jdwel.com/image/teams/362.png",
-    "score": "0 - 1",
-    "time": "2:30 م"
-  },
-  {
+    "date": "السبت 2025/12/27",
+    "round": "",
+    "status": "انتهت",
     "home": "الأهلي",
     "homeLogo": "https://jdwel.com/image/teams/1253.png",
     "away": "وي",
@@ -72,22 +88,9 @@
     "time": "5:00 م"
   },
   {
-    "home": "طلائع الجيش",
-    "homeLogo": "https://jdwel.com/image/teams/357.png",
-    "away": "كهرباء الإسماعيلية",
-    "awayLogo": "https://jdwel.com/image/teams/3844.png",
-    "score": "1 - 1 4 - 2",
-    "time": "5:00 م"
-  },
-  {
-    "home": "مودرن سبورت",
-    "homeLogo": "https://jdwel.com/image/teams/2456.png",
-    "away": "القناة",
-    "awayLogo": "https://jdwel.com/image/teams/4706.png",
-    "score": "1 - 0",
-    "time": "2:30 م"
-  },
-  {
+    "date": "الجمعة 2025/12/26",
+    "round": "",
+    "status": "انتهت",
     "home": "زد إف سي",
     "homeLogo": "https://jdwel.com/image/teams/egy_zed.png",
     "away": "نادي جي",
@@ -96,6 +99,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "الثلاثاء 2025/12/23",
+    "round": "",
+    "status": "انتهت",
     "home": "سيراميكا كليوباترا",
     "homeLogo": "https://jdwel.com/image/teams/389.png",
     "away": "أبو قير للأسمدة",
@@ -104,6 +110,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "الأثنين 2025/12/22",
+    "round": "",
+    "status": "انتهت",
     "home": "بيراميدز",
     "homeLogo": "https://jdwel.com/image/teams/2524.png",
     "away": "مسار",
@@ -112,6 +121,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأثنين 2025/12/22",
+    "round": "",
+    "status": "انتهت",
     "home": "المصري البورسعيدي",
     "homeLogo": "https://jdwel.com/image/teams/301.png",
     "away": "دكرنس",
@@ -120,6 +132,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "الخميس 2025/12/04",
+    "round": "",
+    "status": "انتهت",
     "home": "الجونة",
     "homeLogo": "https://jdwel.com/image/teams/egy_el_gounah_v2.png",
     "away": "بترول أسيوط",
@@ -128,6 +143,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "الأثنين 2025/12/01",
+    "round": "",
+    "status": "انتهت",
     "home": "طلائع الجيش",
     "homeLogo": "https://jdwel.com/image/teams/357.png",
     "away": "السكة الحديد مودرن",
@@ -136,6 +154,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الأثنين 2025/12/01",
+    "round": "",
+    "status": "انتهت",
     "home": "حرس الحدود",
     "homeLogo": "https://jdwel.com/image/teams/2458.png",
     "away": "الإسماعيلي",
@@ -144,6 +165,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2025/11/30",
+    "round": "",
+    "status": "انتهت",
     "home": "إنبي",
     "homeLogo": "https://jdwel.com/image/teams/362.png",
     "away": "المقاولون العرب",
@@ -152,6 +176,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2025/11/30",
+    "round": "",
+    "status": "انتهت",
     "home": "فاركو",
     "homeLogo": "https://jdwel.com/image/teams/3212.png",
     "away": "تليفونات بني سويف",
@@ -160,6 +187,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "السبت 2025/11/29",
+    "round": "",
+    "status": "انتهت",
     "home": "الاتحاد السكندري",
     "homeLogo": "https://jdwel.com/image/teams/egy_al_ittihad_v2.png",
     "away": "كهرباء الإسماعيلية",
@@ -168,6 +198,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الخميس 2025/11/27",
+    "round": "",
+    "status": "انتهت",
     "home": "بتروجيت",
     "homeLogo": "https://jdwel.com/image/teams/2780.png",
     "away": "وادي دجلة",
@@ -176,6 +209,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الخميس 2025/11/27",
+    "round": "",
+    "status": "انتهت",
     "home": "البنك الأهلي",
     "homeLogo": "https://jdwel.com/image/teams/2457.png",
     "away": "بورفؤاد",
@@ -184,6 +220,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الخميس 2025/11/27",
+    "round": "",
+    "status": "انتهت",
     "home": "سموحة",
     "homeLogo": "https://jdwel.com/image/teams/2523.png",
     "away": "غزل المحلة",
@@ -192,6 +231,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "الخميس 2025/11/06",
+    "round": "",
+    "status": "انتهت",
     "home": "ألعاب دمنهور‏",
     "homeLogo": "https://jdwel.com/image/teams/307.png",
     "away": "أبو قير للأسمدة",
@@ -200,6 +242,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "الخميس 2025/11/06",
+    "round": "",
+    "status": "انتهت",
     "home": "النجوم",
     "homeLogo": "https://jdwel.com/image/teams/egy_nojom_el_mostabel.png",
     "away": "وي",
@@ -208,6 +253,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "الخميس 2025/11/06",
+    "round": "",
+    "status": "انتهت",
     "home": "كاسكادا",
     "homeLogo": "https://jdwel.com/image/teams/4930.png",
     "away": "السكة الحديد مودرن",
@@ -216,6 +264,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "الخميس 2025/11/06",
+    "round": "",
+    "status": "انتهت",
     "home": "تليفونات بني سويف",
     "homeLogo": "https://jdwel.com/image/teams/302.png",
     "away": "مصر المقاصة",
@@ -224,6 +275,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "الأربعاء 2025/11/05",
+    "round": "",
+    "status": "انتهت",
     "home": "بترول أسيوط",
     "homeLogo": "https://jdwel.com/image/teams/312.png",
     "away": "سوهاج",
@@ -232,6 +286,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "الثلاثاء 2025/11/04",
+    "round": "",
+    "status": "انتهت",
     "home": "بورفؤاد",
     "homeLogo": "https://jdwel.com/image/teams/383.png",
     "away": "طنطا",
@@ -240,6 +297,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "الثلاثاء 2025/11/04",
+    "round": "",
+    "status": "انتهت",
     "home": "الداخلية",
     "homeLogo": "https://jdwel.com/image/teams/3213.png",
     "away": "القناة",
@@ -248,6 +308,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "الثلاثاء 2025/11/04",
+    "round": "",
+    "status": "انتهت",
     "home": "مركز شباب أطفيح",
     "homeLogo": "https://jdwel.com/image/teams/4931.png",
     "away": "نادي جي",
@@ -256,6 +319,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "الأثنين 2025/11/03",
+    "round": "",
+    "status": "انتهت",
     "home": "دكرنس",
     "homeLogo": "https://jdwel.com/image/teams/51.png",
     "away": "راية",
@@ -264,6 +330,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "الأثنين 2025/11/03",
+    "round": "",
+    "status": "انتهت",
     "home": "المنصورة",
     "homeLogo": "https://jdwel.com/image/teams/318.png",
     "away": "بلدية المحلة",
@@ -272,6 +341,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "الأحد 2025/11/02",
+    "round": "",
+    "status": "انتهت",
     "home": "مسار",
     "homeLogo": "https://jdwel.com/image/teams/1745.png",
     "away": "المنيا",
@@ -280,6 +352,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "الجمعة 2025/10/10",
+    "round": "",
+    "status": "انتهت",
     "home": "بورفؤاد",
     "homeLogo": "https://jdwel.com/image/teams/383.png",
     "away": "العبور بالقليوبية",
@@ -288,6 +363,9 @@
     "time": "3:30 م"
   },
   {
+    "date": "الجمعة 2025/10/10",
+    "round": "",
+    "status": "انتهت",
     "home": "النجوم",
     "homeLogo": "https://jdwel.com/image/teams/egy_nojom_el_mostabel.png",
     "away": "الشمس",
@@ -296,6 +374,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الخميس 2025/10/09",
+    "round": "",
+    "status": "انتهت",
     "home": "المنيا",
     "homeLogo": "https://jdwel.com/image/teams/303.png",
     "away": "بني سويف",
@@ -304,6 +385,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأثنين 2025/10/06",
+    "round": "",
+    "status": "انتهت",
     "home": "سبورتينغ الإسكندرية",
     "homeLogo": "https://jdwel.com/image/teams/487.png",
     "away": "راية",
@@ -312,6 +396,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأثنين 2025/10/06",
+    "round": "",
+    "status": "انتهت",
     "home": "بلدية المحلة",
     "homeLogo": "https://jdwel.com/image/teams/egy_baladiyat_almehalla.png",
     "away": "نبروه",
@@ -320,6 +407,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأثنين 2025/10/06",
+    "round": "",
+    "status": "انتهت",
     "home": "نادي جي",
     "homeLogo": "https://jdwel.com/image/teams/4932.png",
     "away": "الترسانة",
@@ -328,6 +418,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأثنين 2025/10/06",
+    "round": "",
+    "status": "انتهت",
     "home": "وي",
     "homeLogo": "https://jdwel.com/image/teams/52.png",
     "away": "جمهورية شبين",
@@ -336,6 +429,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأثنين 2025/10/06",
+    "round": "",
+    "status": "انتهت",
     "home": "مسار",
     "homeLogo": "https://jdwel.com/image/teams/1745.png",
     "away": "جولدن جيت",
@@ -344,6 +440,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأثنين 2025/10/06",
+    "round": "",
+    "status": "انتهت",
     "home": "ديروط",
     "homeLogo": "https://jdwel.com/image/teams/638.png",
     "away": "سوهاج",
@@ -352,6 +451,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأثنين 2025/10/06",
+    "round": "",
+    "status": "انتهت",
     "home": "بترول أسيوط",
     "homeLogo": "https://jdwel.com/image/teams/312.png",
     "away": "الألومنيوم",
@@ -360,6 +462,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأحد 2025/10/05",
+    "round": "",
+    "status": "انتهت",
     "home": "القناة",
     "homeLogo": "https://jdwel.com/image/teams/4706.png",
     "away": "بترول أسيوط",
@@ -368,6 +473,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأحد 2025/10/05",
+    "round": "",
+    "status": "انتهت",
     "home": "أبو قير للأسمدة",
     "homeLogo": "https://jdwel.com/image/teams/2459.png",
     "away": "طلائع الأسطول",
@@ -376,6 +484,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأحد 2025/10/05",
+    "round": "",
+    "status": "انتهت",
     "home": "ألعاب دمنهور‏",
     "homeLogo": "https://jdwel.com/image/teams/307.png",
     "away": "دلفي",
@@ -384,6 +495,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأحد 2025/10/05",
+    "round": "",
+    "status": "انتهت",
     "home": "دكرنس",
     "homeLogo": "https://jdwel.com/image/teams/51.png",
     "away": "بروكسي",
@@ -392,6 +506,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأحد 2025/10/05",
+    "round": "",
+    "status": "انتهت",
     "home": "سمنود",
     "homeLogo": "https://jdwel.com/image/teams/1633.png",
     "away": "المنصورة",
@@ -400,6 +517,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأحد 2025/10/05",
+    "round": "",
+    "status": "انتهت",
     "home": "بايونيرز",
     "homeLogo": "https://jdwel.com/image/teams/4933.png",
     "away": "طنطا",
@@ -408,6 +528,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأحد 2025/10/05",
+    "round": "",
+    "status": "انتهت",
     "home": "مصر للتأمين",
     "homeLogo": "https://jdwel.com/image/teams/1793.png",
     "away": "الداخلية",
@@ -416,6 +539,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأحد 2025/10/05",
+    "round": "",
+    "status": "انتهت",
     "home": "النصر للتعدين",
     "homeLogo": "https://jdwel.com/image/teams/22.png",
     "away": "السكة الحديد مودرن",
@@ -424,6 +550,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأحد 2025/10/05",
+    "round": "",
+    "status": "انتهت",
     "home": "تليفونات بني سويف",
     "homeLogo": "https://jdwel.com/image/teams/302.png",
     "away": "لاڤيينا",
@@ -432,6 +561,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "السبت 2025/10/04",
+    "round": "",
+    "status": "انتهت",
     "home": "دياموند",
     "homeLogo": "https://jdwel.com/image/teams/4934.png",
     "away": "مركز شباب أطفيح",
@@ -440,6 +572,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الجمعة 2025/10/03",
+    "round": "",
+    "status": "انتهت",
     "home": "إتحاد الشرطة",
     "homeLogo": "https://jdwel.com/image/teams/egy_el_shorta.png",
     "away": "كاسكادا",
@@ -448,6 +583,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الجمعة 2025/10/03",
+    "round": "",
+    "status": "انتهت",
     "home": "مصر المقاصة",
     "homeLogo": "https://jdwel.com/image/teams/390.png",
     "away": "تيم إف سي",

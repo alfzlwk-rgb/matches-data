@@ -1,5 +1,8 @@
 [
   {
+    "date": "الجمعة 2024/08/09",
+    "round": "",
+    "status": "انتهت",
     "home": "فرنسا",
     "homeLogo": "https://jdwel.com/image/teams/4962.png",
     "away": "إسبانيا",
@@ -8,6 +11,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الخميس 2024/08/08",
+    "round": "",
+    "status": "انتهت",
     "home": "مصر",
     "homeLogo": "https://jdwel.com/image/teams/34.png",
     "away": "المغرب",
@@ -16,6 +22,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأثنين 2024/08/05",
+    "round": "",
+    "status": "انتهت",
     "home": "فرنسا",
     "homeLogo": "https://jdwel.com/image/teams/4962.png",
     "away": "مصر",
@@ -24,6 +33,9 @@
     "time": "10:00 م"
   },
   {
+    "date": "الأثنين 2024/08/05",
+    "round": "",
+    "status": "انتهت",
     "home": "المغرب",
     "homeLogo": "https://jdwel.com/image/teams/3168.png",
     "away": "إسبانيا",
@@ -32,6 +44,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الجمعة 2024/08/02",
+    "round": "",
+    "status": "انتهت",
     "home": "فرنسا",
     "homeLogo": "https://jdwel.com/image/teams/4962.png",
     "away": "الأرجنتين",
@@ -40,6 +55,9 @@
     "time": "10:00 م"
   },
   {
+    "date": "الجمعة 2024/08/02",
+    "round": "",
+    "status": "انتهت",
     "home": "مصر",
     "homeLogo": "https://jdwel.com/image/teams/34.png",
     "away": "باراغواي",
@@ -48,6 +66,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الجمعة 2024/08/02",
+    "round": "",
+    "status": "انتهت",
     "home": "اليابان",
     "homeLogo": "https://jdwel.com/image/teams/flag_japan_v2.png",
     "away": "إسبانيا",
@@ -56,6 +77,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الجمعة 2024/08/02",
+    "round": "",
+    "status": "انتهت",
     "home": "المغرب",
     "homeLogo": "https://jdwel.com/image/teams/3168.png",
     "away": "الولايات المتحدة",
@@ -64,6 +88,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الثلاثاء 2024/07/30",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "باراغواي",
     "homeLogo": "https://jdwel.com/image/teams/par_paraguay.png",
     "away": "مالي",
@@ -72,6 +99,9 @@
     "time": "10:00 م"
   },
   {
+    "date": "الثلاثاء 2024/07/30",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "منتخب وهمي",
     "homeLogo": "https://jdwel.com/image/teams/flag_placeholder.png",
     "away": "اليابان",
@@ -80,6 +110,9 @@
     "time": "10:00 م"
   },
   {
+    "date": "الثلاثاء 2024/07/30",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "الولايات المتحدة",
     "homeLogo": "https://jdwel.com/image/teams/flag_united_states.png",
     "away": "غينيا",
@@ -88,6 +121,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الثلاثاء 2024/07/30",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "نيوزيلندا",
     "homeLogo": "https://jdwel.com/image/teams/39.png",
     "away": "فرنسا",
@@ -96,6 +132,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الثلاثاء 2024/07/30",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "أوكرانيا",
     "homeLogo": "https://jdwel.com/image/teams/flag_ukraine.png",
     "away": "الأرجنتين",
@@ -104,6 +143,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الثلاثاء 2024/07/30",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "المغرب",
     "homeLogo": "https://jdwel.com/image/teams/3168.png",
     "away": "العراق",
@@ -112,6 +154,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الثلاثاء 2024/07/30",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "جمهورية الدومينيكان",
     "homeLogo": "https://jdwel.com/image/teams/248.png",
     "away": "أوزبكستان",
@@ -120,6 +165,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الثلاثاء 2024/07/30",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "إسبانيا",
     "homeLogo": "https://jdwel.com/image/teams/flag_spain_v2.png",
     "away": "مصر",
@@ -128,6 +176,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "السبت 2024/07/27",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "فرنسا",
     "homeLogo": "https://jdwel.com/image/teams/4962.png",
     "away": "غينيا",
@@ -136,6 +187,9 @@
     "time": "10:00 م"
   },
   {
+    "date": "السبت 2024/07/27",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "اليابان",
     "homeLogo": "https://jdwel.com/image/teams/flag_japan_v2.png",
     "away": "مالي",
@@ -144,6 +198,9 @@
     "time": "10:00 م"
   },
   {
+    "date": "السبت 2024/07/27",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "نيوزيلندا",
     "homeLogo": "https://jdwel.com/image/teams/39.png",
     "away": "الولايات المتحدة",
@@ -152,6 +209,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "السبت 2024/07/27",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "منتخب وهمي",
     "homeLogo": "https://jdwel.com/image/teams/flag_placeholder.png",
     "away": "باراغواي",
@@ -160,6 +220,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "السبت 2024/07/27",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "أوكرانيا",
     "homeLogo": "https://jdwel.com/image/teams/flag_ukraine.png",
     "away": "المغرب",
@@ -168,6 +231,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2024/07/27",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "أوزبكستان",
     "homeLogo": "https://jdwel.com/image/teams/59.png",
     "away": "مصر",
@@ -176,6 +242,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2024/07/27",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "الأرجنتين",
     "homeLogo": "https://jdwel.com/image/teams/flag_argentina_v2.png",
     "away": "العراق",
@@ -184,6 +253,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "السبت 2024/07/27",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "جمهورية الدومينيكان",
     "homeLogo": "https://jdwel.com/image/teams/248.png",
     "away": "إسبانيا",
@@ -192,6 +264,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الأربعاء 2024/07/24",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "فرنسا",
     "homeLogo": "https://jdwel.com/image/teams/4962.png",
     "away": "الولايات المتحدة",
@@ -200,6 +275,9 @@
     "time": "10:00 م"
   },
   {
+    "date": "الأربعاء 2024/07/24",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "مالي",
     "homeLogo": "https://jdwel.com/image/teams/35.png",
     "away": "منتخب وهمي",
@@ -208,6 +286,9 @@
     "time": "10:00 م"
   },
   {
+    "date": "الأربعاء 2024/07/24",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "العراق",
     "homeLogo": "https://jdwel.com/image/teams/flag_iraq_v2.png",
     "away": "أوكرانيا",
@@ -216,6 +297,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الأربعاء 2024/07/24",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "اليابان",
     "homeLogo": "https://jdwel.com/image/teams/flag_japan_v2.png",
     "away": "باراغواي",
@@ -224,6 +308,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الأربعاء 2024/07/24",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "غينيا",
     "homeLogo": "https://jdwel.com/image/teams/220.png",
     "away": "نيوزيلندا",
@@ -232,6 +319,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأربعاء 2024/07/24",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "مصر",
     "homeLogo": "https://jdwel.com/image/teams/34.png",
     "away": "جمهورية الدومينيكان",
@@ -240,6 +330,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأربعاء 2024/07/24",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "الأرجنتين",
     "homeLogo": "https://jdwel.com/image/teams/flag_argentina_v2.png",
     "away": "المغرب",
@@ -248,6 +341,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الأربعاء 2024/07/24",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "أوزبكستان",
     "homeLogo": "https://jdwel.com/image/teams/59.png",
     "away": "إسبانيا",

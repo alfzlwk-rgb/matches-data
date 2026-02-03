@@ -1,5 +1,8 @@
 [
   {
+    "date": "الأحد 2026/01/11",
+    "round": "",
+    "status": "انتهت",
     "home": "برشلونة",
     "homeLogo": "https://jdwel.com/image/teams/3337.png",
     "away": "ريال مدريد",
@@ -8,6 +11,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الخميس 2026/01/08",
+    "round": "",
+    "status": "انتهت",
     "home": "أتلتيكو مدريد",
     "homeLogo": "https://jdwel.com/image/teams/716.png",
     "away": "ريال مدريد",
@@ -16,6 +22,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الأربعاء 2026/01/07",
+    "round": "",
+    "status": "انتهت",
     "home": "برشلونة",
     "homeLogo": "https://jdwel.com/image/teams/3337.png",
     "away": "أتلتيك بيلباو",

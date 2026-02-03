@@ -1,5 +1,8 @@
 [
   {
+    "date": "الثلاثاء 2024/03/26",
+    "round": "",
+    "status": "انتهت",
     "home": "ويلز",
     "homeLogo": "https://jdwel.com/image/teams/flag_wales.png",
     "away": "بولندا",
@@ -8,22 +11,9 @@
     "time": "9:45 م"
   },
   {
-    "home": "أوكرانيا",
-    "homeLogo": "https://jdwel.com/image/teams/flag_ukraine.png",
-    "away": "آيسلندا",
-    "awayLogo": "https://jdwel.com/image/teams/4961.png",
-    "score": "2 - 1",
-    "time": "9:45 م"
-  },
-  {
-    "home": "جورجيا",
-    "homeLogo": "https://jdwel.com/image/teams/183.png",
-    "away": "اليونان",
-    "awayLogo": "https://jdwel.com/image/teams/221.png",
-    "score": "0 - 0 4 - 2",
-    "time": "7:00 م"
-  },
-  {
+    "date": "الخميس 2024/03/21",
+    "round": "",
+    "status": "انتهت",
     "home": "اليونان",
     "homeLogo": "https://jdwel.com/image/teams/221.png",
     "away": "كازاخستان",
@@ -32,46 +22,9 @@
     "time": "9:45 م"
   },
   {
-    "home": "بولندا",
-    "homeLogo": "https://jdwel.com/image/teams/flag_poland_v2.png",
-    "away": "إستونيا",
-    "awayLogo": "https://jdwel.com/image/teams/166.png",
-    "score": "5 - 1",
-    "time": "9:45 م"
-  },
-  {
-    "home": "ويلز",
-    "homeLogo": "https://jdwel.com/image/teams/flag_wales.png",
-    "away": "فنلندا",
-    "awayLogo": "https://jdwel.com/image/teams/173.png",
-    "score": "4 - 1",
-    "time": "9:45 م"
-  },
-  {
-    "home": "منتخب وهمي",
-    "homeLogo": "https://jdwel.com/image/teams/flag_placeholder.png",
-    "away": "آيسلندا",
-    "awayLogo": "https://jdwel.com/image/teams/4961.png",
-    "score": "1 - 4",
-    "time": "9:45 م"
-  },
-  {
-    "home": "البوسنة والهرسك",
-    "homeLogo": "https://jdwel.com/image/teams/172.png",
-    "away": "أوكرانيا",
-    "awayLogo": "https://jdwel.com/image/teams/flag_ukraine.png",
-    "score": "1 - 2",
-    "time": "9:45 م"
-  },
-  {
-    "home": "جورجيا",
-    "homeLogo": "https://jdwel.com/image/teams/183.png",
-    "away": "لوكسمبورغ",
-    "awayLogo": "https://jdwel.com/image/teams/171.png",
-    "score": "2 - 0",
-    "time": "7:00 م"
-  },
-  {
+    "date": "الثلاثاء 2023/11/21",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "اليونان",
     "homeLogo": "https://jdwel.com/image/teams/221.png",
     "away": "فرنسا",
@@ -80,6 +33,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الثلاثاء 2023/11/21",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "جبل طارق",
     "homeLogo": "https://jdwel.com/image/teams/223.png",
     "away": "هولندا",
@@ -88,6 +44,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الثلاثاء 2023/11/21",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "كرواتيا",
     "homeLogo": "https://jdwel.com/image/teams/flag_croatia_v2.png",
     "away": "أرمينيا",
@@ -96,6 +55,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الثلاثاء 2023/11/21",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "ويلز",
     "homeLogo": "https://jdwel.com/image/teams/flag_wales.png",
     "away": "تركيا",
@@ -104,6 +66,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الثلاثاء 2023/11/21",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "رومانيا",
     "homeLogo": "https://jdwel.com/image/teams/flag_romania.png",
     "away": "سويسرا",
@@ -112,6 +77,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الثلاثاء 2023/11/21",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "أندورا",
     "homeLogo": "https://jdwel.com/image/teams/224.png",
     "away": "منتخب وهمي",
@@ -120,6 +88,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الثلاثاء 2023/11/21",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "كوسوفو",
     "homeLogo": "https://jdwel.com/image/teams/237.png",
     "away": "بيلاروسيا",
@@ -128,6 +99,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأثنين 2023/11/20",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "شمال مقدونيا",
     "homeLogo": "https://jdwel.com/image/teams/205.png",
     "away": "إنجلترا",
@@ -136,6 +110,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأثنين 2023/11/20",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "أوكرانيا",
     "homeLogo": "https://jdwel.com/image/teams/flag_ukraine.png",
     "away": "إيطاليا",
@@ -144,6 +121,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأثنين 2023/11/20",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "التشيك",
     "homeLogo": "https://jdwel.com/image/teams/4218.png",
     "away": "مولدوفا",
@@ -152,6 +132,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأثنين 2023/11/20",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "ألبانيا",
     "homeLogo": "https://jdwel.com/image/teams/flag_albania.png",
     "away": "جزر فارو",
@@ -160,6 +143,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأثنين 2023/11/20",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "أيرلندا الشمالية",
     "homeLogo": "https://jdwel.com/image/teams/flag_northern_ireland.png",
     "away": "الدنمارك",
@@ -168,6 +154,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأثنين 2023/11/20",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "سلوفينيا",
     "homeLogo": "https://jdwel.com/image/teams/204.png",
     "away": "كازاخستان",
@@ -176,6 +165,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأثنين 2023/11/20",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "سان مارينو",
     "homeLogo": "https://jdwel.com/image/teams/208.png",
     "away": "فنلندا",
@@ -184,6 +176,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأحد 2023/11/19",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "إسبانيا",
     "homeLogo": "https://jdwel.com/image/teams/flag_spain_v2.png",
     "away": "جورجيا",
@@ -192,6 +187,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأحد 2023/11/19",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "اسكتلندا",
     "homeLogo": "https://jdwel.com/image/teams/40.png",
     "away": "النرويج",
@@ -200,6 +198,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأحد 2023/11/19",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "البرتغال",
     "homeLogo": "https://jdwel.com/image/teams/2562.png",
     "away": "آيسلندا",
@@ -208,6 +209,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأحد 2023/11/19",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "البوسنة والهرسك",
     "homeLogo": "https://jdwel.com/image/teams/172.png",
     "away": "سلوفاكيا",
@@ -216,6 +220,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأحد 2023/11/19",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "ليختنشتاين",
     "homeLogo": "https://jdwel.com/image/teams/181.png",
     "away": "لوكسمبورغ",
@@ -224,6 +231,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأحد 2023/11/19",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "بلجيكا",
     "homeLogo": "https://jdwel.com/image/teams/43.png",
     "away": "أذربيجان",
@@ -232,6 +242,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأحد 2023/11/19",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "السويد",
     "homeLogo": "https://jdwel.com/image/teams/4960.png",
     "away": "إستونيا",
@@ -240,6 +253,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأحد 2023/11/19",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "المجر",
     "homeLogo": "https://jdwel.com/image/teams/182.png",
     "away": "الجبل الأسود",
@@ -248,6 +264,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الأحد 2023/11/19",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "صربيا",
     "homeLogo": "https://jdwel.com/image/teams/flag_serbia_v2.png",
     "away": "بلغاريا",
@@ -256,6 +275,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "السبت 2023/11/18",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "هولندا",
     "homeLogo": "https://jdwel.com/image/teams/flag_netherlands_v2.png",
     "away": "أيرلندا",
@@ -264,6 +286,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "السبت 2023/11/18",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "فرنسا",
     "homeLogo": "https://jdwel.com/image/teams/4962.png",
     "away": "جبل طارق",
@@ -272,6 +297,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "السبت 2023/11/18",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "سويسرا",
     "homeLogo": "https://jdwel.com/image/teams/flag_switzerland_v2.png",
     "away": "كوسوفو",
@@ -280,6 +308,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "السبت 2023/11/18",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "منتخب وهمي",
     "homeLogo": "https://jdwel.com/image/teams/flag_placeholder.png",
     "away": "رومانيا",
@@ -288,6 +319,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "السبت 2023/11/18",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "لاتفيا",
     "homeLogo": "https://jdwel.com/image/teams/226.png",
     "away": "كرواتيا",
@@ -296,6 +330,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "السبت 2023/11/18",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "بيلاروسيا",
     "homeLogo": "https://jdwel.com/image/teams/225.png",
     "away": "أندورا",
@@ -304,6 +341,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "السبت 2023/11/18",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "أرمينيا",
     "homeLogo": "https://jdwel.com/image/teams/222.png",
     "away": "ويلز",
@@ -312,6 +352,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الجمعة 2023/11/17",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "إنجلترا",
     "homeLogo": "https://jdwel.com/image/teams/flag_england_v2.png",
     "away": "مالطا",
@@ -320,6 +363,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الجمعة 2023/11/17",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "إيطاليا",
     "homeLogo": "https://jdwel.com/image/teams/56.png",
     "away": "شمال مقدونيا",
@@ -328,6 +374,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الجمعة 2023/11/17",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "بولندا",
     "homeLogo": "https://jdwel.com/image/teams/flag_poland_v2.png",
     "away": "التشيك",
@@ -336,6 +385,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الجمعة 2023/11/17",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "الدنمارك",
     "homeLogo": "https://jdwel.com/image/teams/flag_denmark_v2.png",
     "away": "سلوفينيا",
@@ -344,6 +396,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الجمعة 2023/11/17",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "فنلندا",
     "homeLogo": "https://jdwel.com/image/teams/173.png",
     "away": "أيرلندا الشمالية",
@@ -352,6 +407,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الجمعة 2023/11/17",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "مولدوفا",
     "homeLogo": "https://jdwel.com/image/teams/207.png",
     "away": "ألبانيا",
@@ -360,6 +418,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الجمعة 2023/11/17",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "كازاخستان",
     "homeLogo": "https://jdwel.com/image/teams/209.png",
     "away": "سان مارينو",
@@ -368,6 +429,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الخميس 2023/11/16",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "الجبل الأسود",
     "homeLogo": "https://jdwel.com/image/teams/44.png",
     "away": "ليتوانيا",
@@ -376,6 +440,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الخميس 2023/11/16",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "سلوفاكيا",
     "homeLogo": "https://jdwel.com/image/teams/flag_slovakia.png",
     "away": "آيسلندا",
@@ -384,6 +451,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الخميس 2023/11/16",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "لوكسمبورغ",
     "homeLogo": "https://jdwel.com/image/teams/171.png",
     "away": "البوسنة والهرسك",
@@ -392,6 +462,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الخميس 2023/11/16",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "ليختنشتاين",
     "homeLogo": "https://jdwel.com/image/teams/181.png",
     "away": "البرتغال",
@@ -400,6 +473,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الخميس 2023/11/16",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "جورجيا",
     "homeLogo": "https://jdwel.com/image/teams/183.png",
     "away": "اسكتلندا",
@@ -408,6 +484,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الخميس 2023/11/16",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "إستونيا",
     "homeLogo": "https://jdwel.com/image/teams/166.png",
     "away": "النمسا",
@@ -416,6 +495,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الخميس 2023/11/16",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "أذربيجان",
     "homeLogo": "https://jdwel.com/image/teams/167.png",
     "away": "السويد",
@@ -424,6 +506,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الخميس 2023/11/16",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "قبرص",
     "homeLogo": "https://jdwel.com/image/teams/168.png",
     "away": "إسبانيا",
@@ -432,6 +517,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الخميس 2023/11/16",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "بلغاريا",
     "homeLogo": "https://jdwel.com/image/teams/169.png",
     "away": "المجر",
@@ -440,6 +528,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأربعاء 2023/11/15",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "منتخب وهمي",
     "homeLogo": "https://jdwel.com/image/teams/flag_placeholder.png",
     "away": "سويسرا",
@@ -448,6 +539,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأحد 2023/11/12",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "كوسوفو",
     "homeLogo": "https://jdwel.com/image/teams/237.png",
     "away": "منتخب وهمي",
@@ -456,6 +550,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الثلاثاء 2023/10/17",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "إنجلترا",
     "homeLogo": "https://jdwel.com/image/teams/flag_england_v2.png",
     "away": "إيطاليا",
@@ -464,6 +561,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الثلاثاء 2023/10/17",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "مالطا",
     "homeLogo": "https://jdwel.com/image/teams/206.png",
     "away": "أوكرانيا",
@@ -472,6 +572,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الثلاثاء 2023/10/17",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "صربيا",
     "homeLogo": "https://jdwel.com/image/teams/flag_serbia_v2.png",
     "away": "الجبل الأسود",
@@ -480,6 +583,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الثلاثاء 2023/10/17",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "ليتوانيا",
     "homeLogo": "https://jdwel.com/image/teams/170.png",
     "away": "المجر",
@@ -488,6 +594,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الثلاثاء 2023/10/17",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "أيرلندا الشمالية",
     "homeLogo": "https://jdwel.com/image/teams/flag_northern_ireland.png",
     "away": "سلوفينيا",
@@ -496,6 +605,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الثلاثاء 2023/10/17",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "سان مارينو",
     "homeLogo": "https://jdwel.com/image/teams/208.png",
     "away": "الدنمارك",
@@ -504,6 +616,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الثلاثاء 2023/10/17",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "فنلندا",
     "homeLogo": "https://jdwel.com/image/teams/173.png",
     "away": "كازاخستان",
@@ -512,6 +627,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأثنين 2023/10/16",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "جبل طارق",
     "homeLogo": "https://jdwel.com/image/teams/223.png",
     "away": "أيرلندا",
@@ -520,6 +638,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأثنين 2023/10/16",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "اليونان",
     "homeLogo": "https://jdwel.com/image/teams/221.png",
     "away": "هولندا",
@@ -528,6 +649,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأثنين 2023/10/16",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "بلجيكا",
     "homeLogo": "https://jdwel.com/image/teams/43.png",
     "away": "السويد",
@@ -536,6 +660,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأثنين 2023/10/16",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "آيسلندا",
     "homeLogo": "https://jdwel.com/image/teams/4961.png",
     "away": "ليختنشتاين",
@@ -544,6 +671,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأثنين 2023/10/16",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "البوسنة والهرسك",
     "homeLogo": "https://jdwel.com/image/teams/172.png",
     "away": "البرتغال",
@@ -552,6 +682,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأثنين 2023/10/16",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "لوكسمبورغ",
     "homeLogo": "https://jdwel.com/image/teams/171.png",
     "away": "سلوفاكيا",
@@ -560,6 +693,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأثنين 2023/10/16",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "أذربيجان",
     "homeLogo": "https://jdwel.com/image/teams/167.png",
     "away": "النمسا",
@@ -568,6 +704,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأحد 2023/10/15",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "النرويج",
     "homeLogo": "https://jdwel.com/image/teams/41.png",
     "away": "إسبانيا",
@@ -576,6 +715,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأحد 2023/10/15",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "تركيا",
     "homeLogo": "https://jdwel.com/image/teams/238.png",
     "away": "لاتفيا",
@@ -584,6 +726,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأحد 2023/10/15",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "ويلز",
     "homeLogo": "https://jdwel.com/image/teams/flag_wales.png",
     "away": "كرواتيا",
@@ -592,6 +737,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأحد 2023/10/15",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "بولندا",
     "homeLogo": "https://jdwel.com/image/teams/flag_poland_v2.png",
     "away": "مولدوفا",
@@ -600,6 +748,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأحد 2023/10/15",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "رومانيا",
     "homeLogo": "https://jdwel.com/image/teams/flag_romania.png",
     "away": "أندورا",
@@ -608,6 +759,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأحد 2023/10/15",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "التشيك",
     "homeLogo": "https://jdwel.com/image/teams/4218.png",
     "away": "جزر فارو",
@@ -616,6 +770,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأحد 2023/10/15",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "سويسرا",
     "homeLogo": "https://jdwel.com/image/teams/flag_switzerland_v2.png",
     "away": "بيلاروسيا",
@@ -624,6 +781,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأحد 2023/10/15",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "جورجيا",
     "homeLogo": "https://jdwel.com/image/teams/183.png",
     "away": "قبرص",
@@ -632,6 +792,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "السبت 2023/10/14",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "إيطاليا",
     "homeLogo": "https://jdwel.com/image/teams/56.png",
     "away": "مالطا",
@@ -640,6 +803,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "السبت 2023/10/14",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "المجر",
     "homeLogo": "https://jdwel.com/image/teams/182.png",
     "away": "صربيا",
@@ -648,6 +814,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "السبت 2023/10/14",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "الدنمارك",
     "homeLogo": "https://jdwel.com/image/teams/flag_denmark_v2.png",
     "away": "كازاخستان",
@@ -656,6 +825,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "السبت 2023/10/14",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "بلغاريا",
     "homeLogo": "https://jdwel.com/image/teams/169.png",
     "away": "ليتوانيا",
@@ -664,6 +836,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "السبت 2023/10/14",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "سلوفينيا",
     "homeLogo": "https://jdwel.com/image/teams/204.png",
     "away": "فنلندا",
@@ -672,6 +847,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "السبت 2023/10/14",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "أوكرانيا",
     "homeLogo": "https://jdwel.com/image/teams/flag_ukraine.png",
     "away": "شمال مقدونيا",
@@ -680,6 +858,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "السبت 2023/10/14",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "أيرلندا الشمالية",
     "homeLogo": "https://jdwel.com/image/teams/flag_northern_ireland.png",
     "away": "سان مارينو",
@@ -688,6 +869,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الجمعة 2023/10/13",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "هولندا",
     "homeLogo": "https://jdwel.com/image/teams/flag_netherlands_v2.png",
     "away": "فرنسا",
@@ -696,6 +880,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الجمعة 2023/10/13",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "أيرلندا",
     "homeLogo": "https://jdwel.com/image/teams/42.png",
     "away": "اليونان",
@@ -704,6 +891,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الجمعة 2023/10/13",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "النمسا",
     "homeLogo": "https://jdwel.com/image/teams/flag_austria.png",
     "away": "بلجيكا",
@@ -712,6 +902,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الجمعة 2023/10/13",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "آيسلندا",
     "homeLogo": "https://jdwel.com/image/teams/4961.png",
     "away": "لوكسمبورغ",
@@ -720,6 +913,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الجمعة 2023/10/13",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "البرتغال",
     "homeLogo": "https://jdwel.com/image/teams/2562.png",
     "away": "سلوفاكيا",
@@ -728,6 +924,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الجمعة 2023/10/13",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "ليختنشتاين",
     "homeLogo": "https://jdwel.com/image/teams/181.png",
     "away": "البوسنة والهرسك",
@@ -736,6 +935,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الجمعة 2023/10/13",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "إستونيا",
     "homeLogo": "https://jdwel.com/image/teams/166.png",
     "away": "أذربيجان",
@@ -744,6 +946,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الخميس 2023/10/12",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "إسبانيا",
     "homeLogo": "https://jdwel.com/image/teams/flag_spain_v2.png",
     "away": "اسكتلندا",
@@ -752,6 +957,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الخميس 2023/10/12",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "قبرص",
     "homeLogo": "https://jdwel.com/image/teams/168.png",
     "away": "النرويج",
@@ -760,6 +968,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الخميس 2023/10/12",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "كرواتيا",
     "homeLogo": "https://jdwel.com/image/teams/flag_croatia_v2.png",
     "away": "تركيا",
@@ -768,6 +979,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الخميس 2023/10/12",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "ألبانيا",
     "homeLogo": "https://jdwel.com/image/teams/flag_albania.png",
     "away": "التشيك",
@@ -776,6 +990,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الخميس 2023/10/12",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "جزر فارو",
     "homeLogo": "https://jdwel.com/image/teams/201.png",
     "away": "بولندا",
@@ -784,6 +1001,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الخميس 2023/10/12",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "أندورا",
     "homeLogo": "https://jdwel.com/image/teams/224.png",
     "away": "كوسوفو",
@@ -792,6 +1012,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الخميس 2023/10/12",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "بيلاروسيا",
     "homeLogo": "https://jdwel.com/image/teams/225.png",
     "away": "رومانيا",
@@ -800,6 +1023,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الخميس 2023/10/12",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "لاتفيا",
     "homeLogo": "https://jdwel.com/image/teams/226.png",
     "away": "أرمينيا",
@@ -808,6 +1034,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الثلاثاء 2023/09/12",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "النرويج",
     "homeLogo": "https://jdwel.com/image/teams/41.png",
     "away": "جورجيا",
@@ -816,6 +1045,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الثلاثاء 2023/09/12",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "إسبانيا",
     "homeLogo": "https://jdwel.com/image/teams/flag_spain_v2.png",
     "away": "قبرص",
@@ -824,6 +1056,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الثلاثاء 2023/09/12",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "إيطاليا",
     "homeLogo": "https://jdwel.com/image/teams/56.png",
     "away": "أوكرانيا",
@@ -832,6 +1067,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الثلاثاء 2023/09/12",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "مالطا",
     "homeLogo": "https://jdwel.com/image/teams/206.png",
     "away": "شمال مقدونيا",
@@ -840,6 +1078,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الثلاثاء 2023/09/12",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "بلجيكا",
     "homeLogo": "https://jdwel.com/image/teams/43.png",
     "away": "إستونيا",
@@ -848,6 +1089,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الثلاثاء 2023/09/12",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "السويد",
     "homeLogo": "https://jdwel.com/image/teams/4960.png",
     "away": "النمسا",
@@ -856,6 +1100,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الثلاثاء 2023/09/12",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "سويسرا",
     "homeLogo": "https://jdwel.com/image/teams/flag_switzerland_v2.png",
     "away": "أندورا",
@@ -864,6 +1111,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الثلاثاء 2023/09/12",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "منتخب وهمي",
     "homeLogo": "https://jdwel.com/image/teams/flag_placeholder.png",
     "away": "بيلاروسيا",
@@ -872,6 +1122,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الثلاثاء 2023/09/12",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "رومانيا",
     "homeLogo": "https://jdwel.com/image/teams/flag_romania.png",
     "away": "كوسوفو",
@@ -880,6 +1133,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأثنين 2023/09/11",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "لاتفيا",
     "homeLogo": "https://jdwel.com/image/teams/226.png",
     "away": "ويلز",
@@ -888,6 +1144,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأثنين 2023/09/11",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "آيسلندا",
     "homeLogo": "https://jdwel.com/image/teams/4961.png",
     "away": "البوسنة والهرسك",
@@ -896,6 +1155,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأثنين 2023/09/11",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "البرتغال",
     "homeLogo": "https://jdwel.com/image/teams/2562.png",
     "away": "لوكسمبورغ",
@@ -904,6 +1166,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأثنين 2023/09/11",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "سلوفاكيا",
     "homeLogo": "https://jdwel.com/image/teams/flag_slovakia.png",
     "away": "ليختنشتاين",
@@ -912,6 +1177,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأثنين 2023/09/11",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "أرمينيا",
     "homeLogo": "https://jdwel.com/image/teams/222.png",
     "away": "كرواتيا",
@@ -920,6 +1188,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأحد 2023/09/10",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "أيرلندا",
     "homeLogo": "https://jdwel.com/image/teams/42.png",
     "away": "هولندا",
@@ -928,6 +1199,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأحد 2023/09/10",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "اليونان",
     "homeLogo": "https://jdwel.com/image/teams/221.png",
     "away": "جبل طارق",
@@ -936,6 +1210,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأحد 2023/09/10",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "ألبانيا",
     "homeLogo": "https://jdwel.com/image/teams/flag_albania.png",
     "away": "بولندا",
@@ -944,6 +1221,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأحد 2023/09/10",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "ليتوانيا",
     "homeLogo": "https://jdwel.com/image/teams/170.png",
     "away": "صربيا",
@@ -952,6 +1232,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأحد 2023/09/10",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "سان مارينو",
     "homeLogo": "https://jdwel.com/image/teams/208.png",
     "away": "سلوفينيا",
@@ -960,6 +1243,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأحد 2023/09/10",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "جزر فارو",
     "homeLogo": "https://jdwel.com/image/teams/201.png",
     "away": "مولدوفا",
@@ -968,6 +1254,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأحد 2023/09/10",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "الجبل الأسود",
     "homeLogo": "https://jdwel.com/image/teams/44.png",
     "away": "بلغاريا",
@@ -976,6 +1265,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأحد 2023/09/10",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "فنلندا",
     "homeLogo": "https://jdwel.com/image/teams/173.png",
     "away": "الدنمارك",
@@ -984,6 +1276,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأحد 2023/09/10",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "كازاخستان",
     "homeLogo": "https://jdwel.com/image/teams/209.png",
     "away": "أيرلندا الشمالية",
@@ -992,6 +1287,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "السبت 2023/09/09",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "شمال مقدونيا",
     "homeLogo": "https://jdwel.com/image/teams/205.png",
     "away": "إيطاليا",
@@ -1000,6 +1298,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "السبت 2023/09/09",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "رومانيا",
     "homeLogo": "https://jdwel.com/image/teams/flag_romania.png",
     "away": "منتخب وهمي",
@@ -1008,6 +1309,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "السبت 2023/09/09",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "كوسوفو",
     "homeLogo": "https://jdwel.com/image/teams/237.png",
     "away": "سويسرا",
@@ -1016,6 +1320,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "السبت 2023/09/09",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "أوكرانيا",
     "homeLogo": "https://jdwel.com/image/teams/flag_ukraine.png",
     "away": "إنجلترا",
@@ -1024,6 +1331,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "السبت 2023/09/09",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "أندورا",
     "homeLogo": "https://jdwel.com/image/teams/224.png",
     "away": "بيلاروسيا",
@@ -1032,6 +1342,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "السبت 2023/09/09",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "إستونيا",
     "homeLogo": "https://jdwel.com/image/teams/166.png",
     "away": "السويد",
@@ -1040,6 +1353,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "السبت 2023/09/09",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "أذربيجان",
     "homeLogo": "https://jdwel.com/image/teams/167.png",
     "away": "بلجيكا",
@@ -1048,6 +1364,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الجمعة 2023/09/08",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "قبرص",
     "homeLogo": "https://jdwel.com/image/teams/168.png",
     "away": "اسكتلندا",
@@ -1056,6 +1375,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الجمعة 2023/09/08",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "كرواتيا",
     "homeLogo": "https://jdwel.com/image/teams/flag_croatia_v2.png",
     "away": "لاتفيا",
@@ -1064,6 +1386,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الجمعة 2023/09/08",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "تركيا",
     "homeLogo": "https://jdwel.com/image/teams/238.png",
     "away": "أرمينيا",
@@ -1072,6 +1397,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الجمعة 2023/09/08",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "سلوفاكيا",
     "homeLogo": "https://jdwel.com/image/teams/flag_slovakia.png",
     "away": "البرتغال",
@@ -1080,6 +1408,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الجمعة 2023/09/08",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "البوسنة والهرسك",
     "homeLogo": "https://jdwel.com/image/teams/172.png",
     "away": "ليختنشتاين",
@@ -1088,6 +1419,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الجمعة 2023/09/08",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "لوكسمبورغ",
     "homeLogo": "https://jdwel.com/image/teams/171.png",
     "away": "آيسلندا",
@@ -1096,6 +1430,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الجمعة 2023/09/08",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "جورجيا",
     "homeLogo": "https://jdwel.com/image/teams/183.png",
     "away": "إسبانيا",
@@ -1104,6 +1441,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الخميس 2023/09/07",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "فرنسا",
     "homeLogo": "https://jdwel.com/image/teams/4962.png",
     "away": "أيرلندا",
@@ -1112,6 +1452,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الخميس 2023/09/07",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "هولندا",
     "homeLogo": "https://jdwel.com/image/teams/flag_netherlands_v2.png",
     "away": "اليونان",
@@ -1120,6 +1463,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الخميس 2023/09/07",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "بولندا",
     "homeLogo": "https://jdwel.com/image/teams/flag_poland_v2.png",
     "away": "جزر فارو",
@@ -1128,6 +1474,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الخميس 2023/09/07",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "التشيك",
     "homeLogo": "https://jdwel.com/image/teams/4218.png",
     "away": "ألبانيا",
@@ -1136,6 +1485,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الخميس 2023/09/07",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "صربيا",
     "homeLogo": "https://jdwel.com/image/teams/flag_serbia_v2.png",
     "away": "المجر",
@@ -1144,6 +1496,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الخميس 2023/09/07",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "الدنمارك",
     "homeLogo": "https://jdwel.com/image/teams/flag_denmark_v2.png",
     "away": "سان مارينو",
@@ -1152,6 +1507,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الخميس 2023/09/07",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "سلوفينيا",
     "homeLogo": "https://jdwel.com/image/teams/204.png",
     "away": "أيرلندا الشمالية",
@@ -1160,6 +1518,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الخميس 2023/09/07",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "ليتوانيا",
     "homeLogo": "https://jdwel.com/image/teams/170.png",
     "away": "الجبل الأسود",
@@ -1168,6 +1529,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الخميس 2023/09/07",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "كازاخستان",
     "homeLogo": "https://jdwel.com/image/teams/209.png",
     "away": "فنلندا",
@@ -1176,6 +1540,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الثلاثاء 2023/06/20",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "اسكتلندا",
     "homeLogo": "https://jdwel.com/image/teams/40.png",
     "away": "جورجيا",
@@ -1184,6 +1551,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الثلاثاء 2023/06/20",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "النرويج",
     "homeLogo": "https://jdwel.com/image/teams/41.png",
     "away": "قبرص",
@@ -1192,6 +1562,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الثلاثاء 2023/06/20",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "مولدوفا",
     "homeLogo": "https://jdwel.com/image/teams/207.png",
     "away": "بولندا",
@@ -1200,6 +1573,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الثلاثاء 2023/06/20",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "جزر فارو",
     "homeLogo": "https://jdwel.com/image/teams/201.png",
     "away": "ألبانيا",
@@ -1208,6 +1584,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الثلاثاء 2023/06/20",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "النمسا",
     "homeLogo": "https://jdwel.com/image/teams/flag_austria.png",
     "away": "السويد",
@@ -1216,6 +1595,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الثلاثاء 2023/06/20",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "إستونيا",
     "homeLogo": "https://jdwel.com/image/teams/166.png",
     "away": "بلجيكا",
@@ -1224,6 +1606,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الثلاثاء 2023/06/20",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "المجر",
     "homeLogo": "https://jdwel.com/image/teams/182.png",
     "away": "ليتوانيا",
@@ -1232,6 +1617,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الثلاثاء 2023/06/20",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "بلغاريا",
     "homeLogo": "https://jdwel.com/image/teams/169.png",
     "away": "صربيا",
@@ -1240,6 +1628,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الثلاثاء 2023/06/20",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "آيسلندا",
     "homeLogo": "https://jdwel.com/image/teams/4961.png",
     "away": "البرتغال",
@@ -1248,6 +1639,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الثلاثاء 2023/06/20",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "البوسنة والهرسك",
     "homeLogo": "https://jdwel.com/image/teams/172.png",
     "away": "لوكسمبورغ",
@@ -1256,6 +1650,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الثلاثاء 2023/06/20",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "ليختنشتاين",
     "homeLogo": "https://jdwel.com/image/teams/181.png",
     "away": "سلوفاكيا",
@@ -1264,6 +1661,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأثنين 2023/06/19",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "إنجلترا",
     "homeLogo": "https://jdwel.com/image/teams/flag_england_v2.png",
     "away": "شمال مقدونيا",
@@ -1272,6 +1672,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأثنين 2023/06/19",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "أيرلندا",
     "homeLogo": "https://jdwel.com/image/teams/42.png",
     "away": "جبل طارق",
@@ -1280,6 +1683,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأثنين 2023/06/19",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "فرنسا",
     "homeLogo": "https://jdwel.com/image/teams/4962.png",
     "away": "اليونان",
@@ -1288,6 +1694,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأثنين 2023/06/19",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "تركيا",
     "homeLogo": "https://jdwel.com/image/teams/238.png",
     "away": "ويلز",
@@ -1296,6 +1705,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأثنين 2023/06/19",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "أيرلندا الشمالية",
     "homeLogo": "https://jdwel.com/image/teams/flag_northern_ireland.png",
     "away": "كازاخستان",
@@ -1304,6 +1716,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأثنين 2023/06/19",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "سلوفينيا",
     "homeLogo": "https://jdwel.com/image/teams/204.png",
     "away": "الدنمارك",
@@ -1312,6 +1727,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأثنين 2023/06/19",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "سويسرا",
     "homeLogo": "https://jdwel.com/image/teams/flag_switzerland_v2.png",
     "away": "رومانيا",
@@ -1320,6 +1738,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأثنين 2023/06/19",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "منتخب وهمي",
     "homeLogo": "https://jdwel.com/image/teams/flag_placeholder.png",
     "away": "أندورا",
@@ -1328,6 +1749,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأثنين 2023/06/19",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "بيلاروسيا",
     "homeLogo": "https://jdwel.com/image/teams/225.png",
     "away": "كوسوفو",
@@ -1336,6 +1760,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأثنين 2023/06/19",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "أرمينيا",
     "homeLogo": "https://jdwel.com/image/teams/222.png",
     "away": "لاتفيا",
@@ -1344,6 +1771,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأثنين 2023/06/19",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "أوكرانيا",
     "homeLogo": "https://jdwel.com/image/teams/flag_ukraine.png",
     "away": "مالطا",
@@ -1352,6 +1782,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأثنين 2023/06/19",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "فنلندا",
     "homeLogo": "https://jdwel.com/image/teams/173.png",
     "away": "سان مارينو",
@@ -1360,6 +1793,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "السبت 2023/06/17",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "قبرص",
     "homeLogo": "https://jdwel.com/image/teams/168.png",
     "away": "جورجيا",
@@ -1368,6 +1804,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "السبت 2023/06/17",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "ألبانيا",
     "homeLogo": "https://jdwel.com/image/teams/flag_albania.png",
     "away": "مولدوفا",
@@ -1376,6 +1815,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "السبت 2023/06/17",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "جزر فارو",
     "homeLogo": "https://jdwel.com/image/teams/201.png",
     "away": "التشيك",
@@ -1384,6 +1826,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "السبت 2023/06/17",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "بلجيكا",
     "homeLogo": "https://jdwel.com/image/teams/43.png",
     "away": "النمسا",
@@ -1392,6 +1837,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "السبت 2023/06/17",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "آيسلندا",
     "homeLogo": "https://jdwel.com/image/teams/4961.png",
     "away": "سلوفاكيا",
@@ -1400,6 +1848,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "السبت 2023/06/17",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "البرتغال",
     "homeLogo": "https://jdwel.com/image/teams/2562.png",
     "away": "البوسنة والهرسك",
@@ -1408,6 +1859,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "السبت 2023/06/17",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "النرويج",
     "homeLogo": "https://jdwel.com/image/teams/41.png",
     "away": "اسكتلندا",
@@ -1416,6 +1870,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "السبت 2023/06/17",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "أذربيجان",
     "homeLogo": "https://jdwel.com/image/teams/167.png",
     "away": "إستونيا",
@@ -1424,6 +1881,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "السبت 2023/06/17",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "الجبل الأسود",
     "homeLogo": "https://jdwel.com/image/teams/44.png",
     "away": "المجر",
@@ -1432,6 +1892,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "السبت 2023/06/17",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "ليتوانيا",
     "homeLogo": "https://jdwel.com/image/teams/170.png",
     "away": "بلغاريا",
@@ -1440,6 +1903,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "السبت 2023/06/17",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "لوكسمبورغ",
     "homeLogo": "https://jdwel.com/image/teams/171.png",
     "away": "ليختنشتاين",
@@ -1448,6 +1914,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الجمعة 2023/06/16",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "مالطا",
     "homeLogo": "https://jdwel.com/image/teams/206.png",
     "away": "إنجلترا",
@@ -1456,6 +1925,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الجمعة 2023/06/16",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "شمال مقدونيا",
     "homeLogo": "https://jdwel.com/image/teams/205.png",
     "away": "أوكرانيا",
@@ -1464,6 +1936,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الجمعة 2023/06/16",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "اليونان",
     "homeLogo": "https://jdwel.com/image/teams/221.png",
     "away": "أيرلندا",
@@ -1472,6 +1947,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الجمعة 2023/06/16",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "جبل طارق",
     "homeLogo": "https://jdwel.com/image/teams/223.png",
     "away": "فرنسا",
@@ -1480,6 +1958,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الجمعة 2023/06/16",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "ويلز",
     "homeLogo": "https://jdwel.com/image/teams/flag_wales.png",
     "away": "أرمينيا",
@@ -1488,6 +1969,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الجمعة 2023/06/16",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "لاتفيا",
     "homeLogo": "https://jdwel.com/image/teams/226.png",
     "away": "تركيا",
@@ -1496,6 +1980,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الجمعة 2023/06/16",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "الدنمارك",
     "homeLogo": "https://jdwel.com/image/teams/flag_denmark_v2.png",
     "away": "أيرلندا الشمالية",
@@ -1504,6 +1991,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الجمعة 2023/06/16",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "سان مارينو",
     "homeLogo": "https://jdwel.com/image/teams/208.png",
     "away": "كازاخستان",
@@ -1512,6 +2002,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الجمعة 2023/06/16",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "أندورا",
     "homeLogo": "https://jdwel.com/image/teams/224.png",
     "away": "سويسرا",
@@ -1520,6 +2013,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الجمعة 2023/06/16",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "بيلاروسيا",
     "homeLogo": "https://jdwel.com/image/teams/225.png",
     "away": "منتخب وهمي",
@@ -1528,6 +2024,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الجمعة 2023/06/16",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "كوسوفو",
     "homeLogo": "https://jdwel.com/image/teams/237.png",
     "away": "رومانيا",
@@ -1536,6 +2035,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الجمعة 2023/06/16",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "فنلندا",
     "homeLogo": "https://jdwel.com/image/teams/173.png",
     "away": "سلوفينيا",
@@ -1544,6 +2046,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الثلاثاء 2023/03/28",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "اسكتلندا",
     "homeLogo": "https://jdwel.com/image/teams/40.png",
     "away": "إسبانيا",
@@ -1552,6 +2057,9 @@
     "time": "8:45 م"
   },
   {
+    "date": "الثلاثاء 2023/03/28",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "تركيا",
     "homeLogo": "https://jdwel.com/image/teams/238.png",
     "away": "كرواتيا",
@@ -1560,6 +2068,9 @@
     "time": "8:45 م"
   },
   {
+    "date": "الثلاثاء 2023/03/28",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "ويلز",
     "homeLogo": "https://jdwel.com/image/teams/flag_wales.png",
     "away": "لاتفيا",
@@ -1568,6 +2079,9 @@
     "time": "8:45 م"
   },
   {
+    "date": "الثلاثاء 2023/03/28",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "سويسرا",
     "homeLogo": "https://jdwel.com/image/teams/flag_switzerland_v2.png",
     "away": "منتخب وهمي",
@@ -1576,6 +2090,9 @@
     "time": "8:45 م"
   },
   {
+    "date": "الثلاثاء 2023/03/28",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "رومانيا",
     "homeLogo": "https://jdwel.com/image/teams/flag_romania.png",
     "away": "بيلاروسيا",
@@ -1584,6 +2101,9 @@
     "time": "8:45 م"
   },
   {
+    "date": "الثلاثاء 2023/03/28",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "كوسوفو",
     "homeLogo": "https://jdwel.com/image/teams/237.png",
     "away": "أندورا",
@@ -1592,6 +2112,9 @@
     "time": "8:45 م"
   },
   {
+    "date": "الثلاثاء 2023/03/28",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "جورجيا",
     "homeLogo": "https://jdwel.com/image/teams/183.png",
     "away": "النرويج",
@@ -1600,6 +2123,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأثنين 2023/03/27",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "هولندا",
     "homeLogo": "https://jdwel.com/image/teams/flag_netherlands_v2.png",
     "away": "جبل طارق",
@@ -1608,6 +2134,9 @@
     "time": "8:45 م"
   },
   {
+    "date": "الأثنين 2023/03/27",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "أيرلندا",
     "homeLogo": "https://jdwel.com/image/teams/42.png",
     "away": "فرنسا",
@@ -1616,6 +2145,9 @@
     "time": "8:45 م"
   },
   {
+    "date": "الأثنين 2023/03/27",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "بولندا",
     "homeLogo": "https://jdwel.com/image/teams/flag_poland_v2.png",
     "away": "ألبانيا",
@@ -1624,6 +2156,9 @@
     "time": "8:45 م"
   },
   {
+    "date": "الأثنين 2023/03/27",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "مولدوفا",
     "homeLogo": "https://jdwel.com/image/teams/207.png",
     "away": "التشيك",
@@ -1632,6 +2167,9 @@
     "time": "8:45 م"
   },
   {
+    "date": "الأثنين 2023/03/27",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "السويد",
     "homeLogo": "https://jdwel.com/image/teams/4960.png",
     "away": "أذربيجان",
@@ -1640,6 +2178,9 @@
     "time": "8:45 م"
   },
   {
+    "date": "الأثنين 2023/03/27",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "النمسا",
     "homeLogo": "https://jdwel.com/image/teams/flag_austria.png",
     "away": "إستونيا",
@@ -1648,6 +2189,9 @@
     "time": "8:45 م"
   },
   {
+    "date": "الأثنين 2023/03/27",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "المجر",
     "homeLogo": "https://jdwel.com/image/teams/182.png",
     "away": "بلغاريا",
@@ -1656,6 +2200,9 @@
     "time": "8:45 م"
   },
   {
+    "date": "الأثنين 2023/03/27",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "الجبل الأسود",
     "homeLogo": "https://jdwel.com/image/teams/44.png",
     "away": "صربيا",
@@ -1664,6 +2211,9 @@
     "time": "8:45 م"
   },
   {
+    "date": "الأحد 2023/03/26",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "مالطا",
     "homeLogo": "https://jdwel.com/image/teams/206.png",
     "away": "إيطاليا",
@@ -1672,6 +2222,9 @@
     "time": "8:45 م"
   },
   {
+    "date": "الأحد 2023/03/26",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "أيرلندا الشمالية",
     "homeLogo": "https://jdwel.com/image/teams/flag_northern_ireland.png",
     "away": "فنلندا",
@@ -1680,6 +2233,9 @@
     "time": "8:45 م"
   },
   {
+    "date": "الأحد 2023/03/26",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "سلوفاكيا",
     "homeLogo": "https://jdwel.com/image/teams/flag_slovakia.png",
     "away": "البوسنة والهرسك",
@@ -1688,6 +2244,9 @@
     "time": "8:45 م"
   },
   {
+    "date": "الأحد 2023/03/26",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "لوكسمبورغ",
     "homeLogo": "https://jdwel.com/image/teams/171.png",
     "away": "البرتغال",
@@ -1696,6 +2255,9 @@
     "time": "8:45 م"
   },
   {
+    "date": "الأحد 2023/03/26",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "إنجلترا",
     "homeLogo": "https://jdwel.com/image/teams/flag_england_v2.png",
     "away": "أوكرانيا",
@@ -1704,6 +2266,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2023/03/26",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "سلوفينيا",
     "homeLogo": "https://jdwel.com/image/teams/204.png",
     "away": "سان مارينو",
@@ -1712,6 +2277,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2023/03/26",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "ليختنشتاين",
     "homeLogo": "https://jdwel.com/image/teams/181.png",
     "away": "آيسلندا",
@@ -1720,6 +2288,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2023/03/26",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "كازاخستان",
     "homeLogo": "https://jdwel.com/image/teams/209.png",
     "away": "الدنمارك",
@@ -1728,6 +2299,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "السبت 2023/03/25",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "إسبانيا",
     "homeLogo": "https://jdwel.com/image/teams/flag_spain_v2.png",
     "away": "النرويج",
@@ -1736,6 +2310,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "السبت 2023/03/25",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "كرواتيا",
     "homeLogo": "https://jdwel.com/image/teams/flag_croatia_v2.png",
     "away": "ويلز",
@@ -1744,6 +2321,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "السبت 2023/03/25",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "أندورا",
     "homeLogo": "https://jdwel.com/image/teams/224.png",
     "away": "رومانيا",
@@ -1752,6 +2332,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "السبت 2023/03/25",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "أرمينيا",
     "homeLogo": "https://jdwel.com/image/teams/222.png",
     "away": "تركيا",
@@ -1760,6 +2343,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "السبت 2023/03/25",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "بيلاروسيا",
     "homeLogo": "https://jdwel.com/image/teams/225.png",
     "away": "سويسرا",
@@ -1768,6 +2354,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "السبت 2023/03/25",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "منتخب وهمي",
     "homeLogo": "https://jdwel.com/image/teams/flag_placeholder.png",
     "away": "كوسوفو",
@@ -1776,6 +2365,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "السبت 2023/03/25",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "اسكتلندا",
     "homeLogo": "https://jdwel.com/image/teams/40.png",
     "away": "قبرص",
@@ -1784,6 +2376,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الجمعة 2023/03/24",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "فرنسا",
     "homeLogo": "https://jdwel.com/image/teams/4962.png",
     "away": "هولندا",
@@ -1792,6 +2387,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الجمعة 2023/03/24",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "جبل طارق",
     "homeLogo": "https://jdwel.com/image/teams/223.png",
     "away": "اليونان",
@@ -1800,6 +2398,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الجمعة 2023/03/24",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "التشيك",
     "homeLogo": "https://jdwel.com/image/teams/4218.png",
     "away": "بولندا",
@@ -1808,6 +2409,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الجمعة 2023/03/24",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "مولدوفا",
     "homeLogo": "https://jdwel.com/image/teams/207.png",
     "away": "جزر فارو",
@@ -1816,6 +2420,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الجمعة 2023/03/24",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "السويد",
     "homeLogo": "https://jdwel.com/image/teams/4960.png",
     "away": "بلجيكا",
@@ -1824,6 +2431,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الجمعة 2023/03/24",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "النمسا",
     "homeLogo": "https://jdwel.com/image/teams/flag_austria.png",
     "away": "أذربيجان",
@@ -1832,6 +2442,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الجمعة 2023/03/24",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "صربيا",
     "homeLogo": "https://jdwel.com/image/teams/flag_serbia_v2.png",
     "away": "ليتوانيا",
@@ -1840,6 +2453,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الجمعة 2023/03/24",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "بلغاريا",
     "homeLogo": "https://jdwel.com/image/teams/169.png",
     "away": "الجبل الأسود",
@@ -1848,6 +2464,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الخميس 2023/03/23",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "إيطاليا",
     "homeLogo": "https://jdwel.com/image/teams/56.png",
     "away": "إنجلترا",
@@ -1856,6 +2475,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الخميس 2023/03/23",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "شمال مقدونيا",
     "homeLogo": "https://jdwel.com/image/teams/205.png",
     "away": "مالطا",
@@ -1864,6 +2486,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الخميس 2023/03/23",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "الدنمارك",
     "homeLogo": "https://jdwel.com/image/teams/flag_denmark_v2.png",
     "away": "فنلندا",
@@ -1872,6 +2497,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الخميس 2023/03/23",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "سان مارينو",
     "homeLogo": "https://jdwel.com/image/teams/208.png",
     "away": "أيرلندا الشمالية",
@@ -1880,6 +2508,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الخميس 2023/03/23",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "البرتغال",
     "homeLogo": "https://jdwel.com/image/teams/2562.png",
     "away": "ليختنشتاين",
@@ -1888,6 +2519,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الخميس 2023/03/23",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "سلوفاكيا",
     "homeLogo": "https://jdwel.com/image/teams/flag_slovakia.png",
     "away": "لوكسمبورغ",
@@ -1896,6 +2530,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الخميس 2023/03/23",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "البوسنة والهرسك",
     "homeLogo": "https://jdwel.com/image/teams/172.png",
     "away": "آيسلندا",
@@ -1904,6 +2541,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الخميس 2023/03/23",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "كازاخستان",
     "homeLogo": "https://jdwel.com/image/teams/209.png",
     "away": "سلوفينيا",

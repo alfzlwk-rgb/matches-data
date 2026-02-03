@@ -1,5 +1,8 @@
 [
   {
+    "date": "السبت 2025/08/09",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "النجم الرياضي بالمتلوي",
     "homeLogo": "https://jdwel.com/image/teams/1189.png",
     "away": "النادي البنزرتي",
@@ -8,6 +11,9 @@
     "time": "6:30 م"
   },
   {
+    "date": "السبت 2025/08/09",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "النادي الإفريقي",
     "homeLogo": "https://jdwel.com/image/teams/2231.png",
     "away": "مستقبل المرسى",
@@ -16,6 +22,9 @@
     "time": "6:30 م"
   },
   {
+    "date": "السبت 2025/08/09",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "مستقبل قابس",
     "homeLogo": "https://jdwel.com/image/teams/2236.png",
     "away": "الترجي الرياضي التونسي",
@@ -24,6 +33,9 @@
     "time": "6:30 م"
   },
   {
+    "date": "السبت 2025/08/09",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "شبيبة القيروان",
     "homeLogo": "https://jdwel.com/image/teams/2473.png",
     "away": "مستقبل سليمان",
@@ -32,6 +44,9 @@
     "time": "6:30 م"
   },
   {
+    "date": "الأحد 2025/08/10",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "الشبيبة الرياضية بالعمران",
     "homeLogo": "https://jdwel.com/image/teams/4515.png",
     "away": "النجم الساحلي",
@@ -40,6 +55,9 @@
     "time": "6:30 م"
   },
   {
+    "date": "الأحد 2025/08/10",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "النادي الصفاقسي",
     "homeLogo": "https://jdwel.com/image/teams/1186.png",
     "away": "الترجي الجرجيسي",
@@ -48,6 +66,9 @@
     "time": "6:30 م"
   },
   {
+    "date": "الأحد 2025/08/10",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "الاتحاد المنستيري",
     "homeLogo": "https://jdwel.com/image/teams/2352.png",
     "away": "الملعب التونسي",
@@ -56,6 +77,9 @@
     "time": "6:30 م"
   },
   {
+    "date": "الأحد 2025/08/10",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "إتحاد بن قردان",
     "homeLogo": "https://jdwel.com/image/teams/2233.png",
     "away": "الأولمبي الباجي",
@@ -64,6 +88,9 @@
     "time": "6:30 م"
   },
   {
+    "date": "الجمعة 2025/08/15",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "مستقبل المرسى",
     "homeLogo": "https://jdwel.com/image/teams/2749.png",
     "away": "إتحاد بن قردان",
@@ -72,6 +99,9 @@
     "time": "6:30 م"
   },
   {
+    "date": "الجمعة 2025/08/15",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "مستقبل سليمان",
     "homeLogo": "https://jdwel.com/image/teams/2461.png",
     "away": "النجم الرياضي بالمتلوي",
@@ -80,6 +110,9 @@
     "time": "6:30 م"
   },
   {
+    "date": "الجمعة 2025/08/15",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "الترجي الرياضي التونسي",
     "homeLogo": "https://jdwel.com/image/teams/1182.png",
     "away": "الاتحاد المنستيري",
@@ -88,6 +121,9 @@
     "time": "6:30 م"
   },
   {
+    "date": "الجمعة 2025/08/15",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "الأولمبي الباجي",
     "homeLogo": "https://jdwel.com/image/teams/2740.png",
     "away": "مستقبل قابس",
@@ -96,6 +132,9 @@
     "time": "6:30 م"
   },
   {
+    "date": "السبت 2025/08/16",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "النجم الساحلي",
     "homeLogo": "https://jdwel.com/image/teams/2232.png",
     "away": "النادي الإفريقي",
@@ -104,6 +143,9 @@
     "time": "6:30 م"
   },
   {
+    "date": "السبت 2025/08/16",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "النادي البنزرتي",
     "homeLogo": "https://jdwel.com/image/teams/2353.png",
     "away": "النادي الصفاقسي",
@@ -112,6 +154,9 @@
     "time": "6:30 م"
   },
   {
+    "date": "السبت 2025/08/16",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "الملعب التونسي",
     "homeLogo": "https://jdwel.com/image/teams/2739.png",
     "away": "شبيبة القيروان",
@@ -120,6 +165,9 @@
     "time": "6:30 م"
   },
   {
+    "date": "السبت 2025/08/16",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "الترجي الجرجيسي",
     "homeLogo": "https://jdwel.com/image/teams/2350.png",
     "away": "الشبيبة الرياضية بالعمران",
@@ -128,6 +176,9 @@
     "time": "6:30 م"
   },
   {
+    "date": "الخميس 2025/08/21",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "مستقبل سليمان",
     "homeLogo": "https://jdwel.com/image/teams/2461.png",
     "away": "الملعب التونسي",
@@ -136,6 +187,9 @@
     "time": "6:30 م"
   },
   {
+    "date": "الخميس 2025/08/21",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "إتحاد بن قردان",
     "homeLogo": "https://jdwel.com/image/teams/2233.png",
     "away": "النجم الساحلي",
@@ -144,6 +198,9 @@
     "time": "6:30 م"
   },
   {
+    "date": "الخميس 2025/08/21",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "شبيبة القيروان",
     "homeLogo": "https://jdwel.com/image/teams/2473.png",
     "away": "الترجي الرياضي التونسي",
@@ -152,6 +209,9 @@
     "time": "6:30 م"
   },
   {
+    "date": "الجمعة 2025/08/22",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "مستقبل قابس",
     "homeLogo": "https://jdwel.com/image/teams/2236.png",
     "away": "مستقبل المرسى",
@@ -160,6 +220,9 @@
     "time": "6:30 م"
   },
   {
+    "date": "الجمعة 2025/08/22",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "النادي الإفريقي",
     "homeLogo": "https://jdwel.com/image/teams/2231.png",
     "away": "الترجي الجرجيسي",
@@ -168,6 +231,9 @@
     "time": "6:30 م"
   },
   {
+    "date": "الجمعة 2025/08/22",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "الشبيبة الرياضية بالعمران",
     "homeLogo": "https://jdwel.com/image/teams/4515.png",
     "away": "النادي البنزرتي",
@@ -176,6 +242,9 @@
     "time": "6:30 م"
   },
   {
+    "date": "الجمعة 2025/08/22",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "الاتحاد المنستيري",
     "homeLogo": "https://jdwel.com/image/teams/2352.png",
     "away": "الأولمبي الباجي",
@@ -184,6 +253,9 @@
     "time": "6:30 م"
   },
   {
+    "date": "الجمعة 2025/08/22",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "النجم الرياضي بالمتلوي",
     "homeLogo": "https://jdwel.com/image/teams/1189.png",
     "away": "النادي الصفاقسي",
@@ -192,6 +264,9 @@
     "time": "6:30 م"
   },
   {
+    "date": "الأربعاء 2025/08/27",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "الأولمبي الباجي",
     "homeLogo": "https://jdwel.com/image/teams/2740.png",
     "away": "شبيبة القيروان",
@@ -200,6 +275,9 @@
     "time": "6:30 م"
   },
   {
+    "date": "الأربعاء 2025/08/27",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "مستقبل المرسى",
     "homeLogo": "https://jdwel.com/image/teams/2749.png",
     "away": "الاتحاد المنستيري",
@@ -208,6 +286,9 @@
     "time": "6:30 م"
   },
   {
+    "date": "الأربعاء 2025/08/27",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "النادي البنزرتي",
     "homeLogo": "https://jdwel.com/image/teams/2353.png",
     "away": "النادي الإفريقي",
@@ -216,6 +297,9 @@
     "time": "6:30 م"
   },
   {
+    "date": "الأربعاء 2025/08/27",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "الملعب التونسي",
     "homeLogo": "https://jdwel.com/image/teams/2739.png",
     "away": "النجم الرياضي بالمتلوي",
@@ -224,6 +308,9 @@
     "time": "6:30 م"
   },
   {
+    "date": "الخميس 2025/08/28",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "الترجي الجرجيسي",
     "homeLogo": "https://jdwel.com/image/teams/2350.png",
     "away": "إتحاد بن قردان",
@@ -232,6 +319,9 @@
     "time": "6:30 م"
   },
   {
+    "date": "الخميس 2025/08/28",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "الترجي الرياضي التونسي",
     "homeLogo": "https://jdwel.com/image/teams/1182.png",
     "away": "مستقبل سليمان",
@@ -240,6 +330,9 @@
     "time": "6:30 م"
   },
   {
+    "date": "الخميس 2025/08/28",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "النادي الصفاقسي",
     "homeLogo": "https://jdwel.com/image/teams/1186.png",
     "away": "الشبيبة الرياضية بالعمران",
@@ -248,6 +341,9 @@
     "time": "6:30 م"
   },
   {
+    "date": "الخميس 2025/08/28",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "النجم الساحلي",
     "homeLogo": "https://jdwel.com/image/teams/2232.png",
     "away": "مستقبل قابس",
@@ -256,6 +352,9 @@
     "time": "6:30 م"
   },
   {
+    "date": "الخميس 2025/09/11",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "شبيبة القيروان",
     "homeLogo": "https://jdwel.com/image/teams/2473.png",
     "away": "مستقبل المرسى",
@@ -264,6 +363,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الخميس 2025/09/11",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "النجم الرياضي بالمتلوي",
     "homeLogo": "https://jdwel.com/image/teams/1189.png",
     "away": "الشبيبة الرياضية بالعمران",
@@ -272,6 +374,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الخميس 2025/09/11",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "مستقبل سليمان",
     "homeLogo": "https://jdwel.com/image/teams/2461.png",
     "away": "الأولمبي الباجي",
@@ -280,6 +385,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/09/13",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "الاتحاد المنستيري",
     "homeLogo": "https://jdwel.com/image/teams/2352.png",
     "away": "النجم الساحلي",
@@ -288,6 +396,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/09/13",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "إتحاد بن قردان",
     "homeLogo": "https://jdwel.com/image/teams/2233.png",
     "away": "النادي البنزرتي",
@@ -296,6 +407,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/09/13",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "الملعب التونسي",
     "homeLogo": "https://jdwel.com/image/teams/2739.png",
     "away": "الترجي الرياضي التونسي",
@@ -304,6 +418,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2025/09/14",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "مستقبل قابس",
     "homeLogo": "https://jdwel.com/image/teams/2236.png",
     "away": "الترجي الجرجيسي",
@@ -312,6 +429,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2025/09/14",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "النادي الإفريقي",
     "homeLogo": "https://jdwel.com/image/teams/2231.png",
     "away": "النادي الصفاقسي",
@@ -320,6 +440,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الثلاثاء 2025/09/16",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "الترجي الرياضي التونسي",
     "homeLogo": "https://jdwel.com/image/teams/1182.png",
     "away": "النجم الرياضي بالمتلوي",
@@ -328,6 +451,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "الثلاثاء 2025/09/16",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "الأولمبي الباجي",
     "homeLogo": "https://jdwel.com/image/teams/2740.png",
     "away": "الملعب التونسي",
@@ -336,6 +462,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "الثلاثاء 2025/09/16",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "النجم الساحلي",
     "homeLogo": "https://jdwel.com/image/teams/2232.png",
     "away": "شبيبة القيروان",
@@ -344,6 +473,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "الأربعاء 2025/09/17",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "النادي البنزرتي",
     "homeLogo": "https://jdwel.com/image/teams/2353.png",
     "away": "مستقبل قابس",
@@ -352,6 +484,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "الأربعاء 2025/09/17",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "النادي الصفاقسي",
     "homeLogo": "https://jdwel.com/image/teams/1186.png",
     "away": "إتحاد بن قردان",
@@ -360,6 +495,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "الأربعاء 2025/09/17",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "الشبيبة الرياضية بالعمران",
     "homeLogo": "https://jdwel.com/image/teams/4515.png",
     "away": "النادي الإفريقي",
@@ -368,6 +506,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "الأربعاء 2025/09/17",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "الترجي الجرجيسي",
     "homeLogo": "https://jdwel.com/image/teams/2350.png",
     "away": "الاتحاد المنستيري",
@@ -376,6 +517,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "الخميس 2025/09/18",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "مستقبل المرسى",
     "homeLogo": "https://jdwel.com/image/teams/2749.png",
     "away": "مستقبل سليمان",
@@ -384,6 +528,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "السبت 2025/09/20",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "مستقبل قابس",
     "homeLogo": "https://jdwel.com/image/teams/2236.png",
     "away": "النادي الصفاقسي",
@@ -392,6 +539,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "السبت 2025/09/20",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "شبيبة القيروان",
     "homeLogo": "https://jdwel.com/image/teams/2473.png",
     "away": "الترجي الجرجيسي",
@@ -400,6 +550,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "الأحد 2025/09/21",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "النجم الرياضي بالمتلوي",
     "homeLogo": "https://jdwel.com/image/teams/1189.png",
     "away": "النادي الإفريقي",
@@ -408,6 +561,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "الأحد 2025/09/21",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "إتحاد بن قردان",
     "homeLogo": "https://jdwel.com/image/teams/2233.png",
     "away": "الشبيبة الرياضية بالعمران",
@@ -416,6 +572,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "الأربعاء 2025/09/24",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "الاتحاد المنستيري",
     "homeLogo": "https://jdwel.com/image/teams/2352.png",
     "away": "النادي البنزرتي",
@@ -424,6 +583,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "الأربعاء 2025/09/24",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "الترجي الرياضي التونسي",
     "homeLogo": "https://jdwel.com/image/teams/1182.png",
     "away": "الأولمبي الباجي",
@@ -432,6 +594,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "الأربعاء 2025/09/24",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "مستقبل سليمان",
     "homeLogo": "https://jdwel.com/image/teams/2461.png",
     "away": "النجم الساحلي",
@@ -440,6 +605,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "الأربعاء 2025/09/24",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "الملعب التونسي",
     "homeLogo": "https://jdwel.com/image/teams/2739.png",
     "away": "مستقبل المرسى",
@@ -448,6 +616,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "الجمعة 2025/09/26",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "الشبيبة الرياضية بالعمران",
     "homeLogo": "https://jdwel.com/image/teams/4515.png",
     "away": "مستقبل قابس",
@@ -456,6 +627,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "الأحد 2025/09/28",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "الأولمبي الباجي",
     "homeLogo": "https://jdwel.com/image/teams/2740.png",
     "away": "النجم الرياضي بالمتلوي",
@@ -464,6 +638,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "الأحد 2025/09/28",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "النادي البنزرتي",
     "homeLogo": "https://jdwel.com/image/teams/2353.png",
     "away": "شبيبة القيروان",
@@ -472,6 +649,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "الأحد 2025/09/28",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "الترجي الجرجيسي",
     "homeLogo": "https://jdwel.com/image/teams/2350.png",
     "away": "مستقبل سليمان",
@@ -480,6 +660,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "الأحد 2025/09/28",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "النادي الإفريقي",
     "homeLogo": "https://jdwel.com/image/teams/2231.png",
     "away": "إتحاد بن قردان",
@@ -488,6 +671,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "الأربعاء 2025/10/01",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "مستقبل المرسى",
     "homeLogo": "https://jdwel.com/image/teams/2749.png",
     "away": "الترجي الرياضي التونسي",
@@ -496,6 +682,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأربعاء 2025/10/01",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "النادي الصفاقسي",
     "homeLogo": "https://jdwel.com/image/teams/1186.png",
     "away": "الاتحاد المنستيري",
@@ -504,6 +693,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأربعاء 2025/10/01",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "النجم الساحلي",
     "homeLogo": "https://jdwel.com/image/teams/2232.png",
     "away": "الملعب التونسي",
@@ -512,6 +704,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الجمعة 2025/10/03",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "النجم الرياضي بالمتلوي",
     "homeLogo": "https://jdwel.com/image/teams/1189.png",
     "away": "إتحاد بن قردان",
@@ -520,6 +715,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الجمعة 2025/10/03",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "مستقبل قابس",
     "homeLogo": "https://jdwel.com/image/teams/2236.png",
     "away": "النادي الإفريقي",
@@ -528,6 +726,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "السبت 2025/10/04",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "الأولمبي الباجي",
     "homeLogo": "https://jdwel.com/image/teams/2740.png",
     "away": "مستقبل المرسى",
@@ -536,6 +737,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "السبت 2025/10/04",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "مستقبل سليمان",
     "homeLogo": "https://jdwel.com/image/teams/2461.png",
     "away": "النادي البنزرتي",
@@ -544,6 +748,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "السبت 2025/10/04",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "الملعب التونسي",
     "homeLogo": "https://jdwel.com/image/teams/2739.png",
     "away": "الترجي الجرجيسي",
@@ -552,6 +759,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2025/10/05",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "الاتحاد المنستيري",
     "homeLogo": "https://jdwel.com/image/teams/2352.png",
     "away": "الشبيبة الرياضية بالعمران",
@@ -560,6 +770,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2025/10/05",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "شبيبة القيروان",
     "homeLogo": "https://jdwel.com/image/teams/2473.png",
     "away": "النادي الصفاقسي",
@@ -568,6 +781,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2025/10/05",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "الترجي الرياضي التونسي",
     "homeLogo": "https://jdwel.com/image/teams/1182.png",
     "away": "النجم الساحلي",
@@ -576,6 +792,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "السبت 2025/10/18",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "إتحاد بن قردان",
     "homeLogo": "https://jdwel.com/image/teams/2233.png",
     "away": "مستقبل قابس",
@@ -584,6 +803,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "السبت 2025/10/18",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "الشبيبة الرياضية بالعمران",
     "homeLogo": "https://jdwel.com/image/teams/4515.png",
     "away": "شبيبة القيروان",
@@ -592,6 +814,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "السبت 2025/10/18",
+    "round": "الجولة 10",
+    "status": "قريباً",
     "home": "النادي الإفريقي",
     "homeLogo": "https://jdwel.com/image/teams/2231.png",
     "away": "الاتحاد المنستيري",
@@ -600,6 +825,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/10/18",
+    "round": "الجولة 10",
+    "status": "قريباً",
     "home": "النادي البنزرتي",
     "homeLogo": "https://jdwel.com/image/teams/2353.png",
     "away": "الملعب التونسي",
@@ -608,6 +836,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/10/18",
+    "round": "الجولة 10",
+    "status": "قريباً",
     "home": "النجم الساحلي",
     "homeLogo": "https://jdwel.com/image/teams/2232.png",
     "away": "الأولمبي الباجي",
@@ -616,6 +847,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2025/10/19",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "مستقبل المرسى",
     "homeLogo": "https://jdwel.com/image/teams/2749.png",
     "away": "النجم الرياضي بالمتلوي",
@@ -624,6 +858,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2025/10/19",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "النادي الصفاقسي",
     "homeLogo": "https://jdwel.com/image/teams/1186.png",
     "away": "مستقبل سليمان",
@@ -632,6 +869,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الثلاثاء 2025/10/21",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "النادي الإفريقي",
     "homeLogo": "https://jdwel.com/image/teams/2231.png",
     "away": "الاتحاد المنستيري",
@@ -640,6 +880,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأربعاء 2025/10/22",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "النادي البنزرتي",
     "homeLogo": "https://jdwel.com/image/teams/2353.png",
     "away": "الملعب التونسي",
@@ -648,6 +891,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأربعاء 2025/10/22",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "الترجي الجرجيسي",
     "homeLogo": "https://jdwel.com/image/teams/2350.png",
     "away": "الترجي الرياضي التونسي",
@@ -656,6 +902,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأربعاء 2025/10/22",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "النجم الساحلي",
     "homeLogo": "https://jdwel.com/image/teams/2232.png",
     "away": "الأولمبي الباجي",
@@ -664,6 +913,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "السبت 2025/10/25",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "شبيبة القيروان",
     "homeLogo": "https://jdwel.com/image/teams/2473.png",
     "away": "النادي الإفريقي",
@@ -672,6 +924,9 @@
     "time": "4:30 م"
   },
   {
+    "date": "السبت 2025/10/25",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "النجم الرياضي بالمتلوي",
     "homeLogo": "https://jdwel.com/image/teams/1189.png",
     "away": "مستقبل قابس",
@@ -680,6 +935,9 @@
     "time": "4:30 م"
   },
   {
+    "date": "الأحد 2025/10/26",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "الأولمبي الباجي",
     "homeLogo": "https://jdwel.com/image/teams/2740.png",
     "away": "الترجي الجرجيسي",
@@ -688,6 +946,9 @@
     "time": "4:30 م"
   },
   {
+    "date": "الأحد 2025/10/26",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "مستقبل سليمان",
     "homeLogo": "https://jdwel.com/image/teams/2461.png",
     "away": "الشبيبة الرياضية بالعمران",
@@ -696,6 +957,9 @@
     "time": "4:30 م"
   },
   {
+    "date": "الأربعاء 2025/10/29",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "الملعب التونسي",
     "homeLogo": "https://jdwel.com/image/teams/2739.png",
     "away": "النادي الصفاقسي",
@@ -704,6 +968,9 @@
     "time": "4:30 م"
   },
   {
+    "date": "الأربعاء 2025/10/29",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "مستقبل المرسى",
     "homeLogo": "https://jdwel.com/image/teams/2749.png",
     "away": "النجم الساحلي",
@@ -712,6 +979,9 @@
     "time": "4:30 م"
   },
   {
+    "date": "الأربعاء 2025/10/29",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "الاتحاد المنستيري",
     "homeLogo": "https://jdwel.com/image/teams/2352.png",
     "away": "إتحاد بن قردان",
@@ -720,6 +990,9 @@
     "time": "4:30 م"
   },
   {
+    "date": "الخميس 2025/10/30",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "الترجي الرياضي التونسي",
     "homeLogo": "https://jdwel.com/image/teams/1182.png",
     "away": "النادي البنزرتي",
@@ -728,6 +1001,9 @@
     "time": "4:30 م"
   },
   {
+    "date": "السبت 2025/11/01",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "إتحاد بن قردان",
     "homeLogo": "https://jdwel.com/image/teams/2233.png",
     "away": "شبيبة القيروان",
@@ -736,6 +1012,9 @@
     "time": "3:30 م"
   },
   {
+    "date": "السبت 2025/11/01",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "مستقبل قابس",
     "homeLogo": "https://jdwel.com/image/teams/2236.png",
     "away": "الاتحاد المنستيري",
@@ -744,6 +1023,9 @@
     "time": "3:30 م"
   },
   {
+    "date": "السبت 2025/11/01",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "النادي الإفريقي",
     "homeLogo": "https://jdwel.com/image/teams/2231.png",
     "away": "مستقبل سليمان",
@@ -752,6 +1034,9 @@
     "time": "3:30 م"
   },
   {
+    "date": "السبت 2025/11/01",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "النجم الساحلي",
     "homeLogo": "https://jdwel.com/image/teams/2232.png",
     "away": "النجم الرياضي بالمتلوي",
@@ -760,6 +1045,9 @@
     "time": "3:30 م"
   },
   {
+    "date": "الأحد 2025/11/02",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "الشبيبة الرياضية بالعمران",
     "homeLogo": "https://jdwel.com/image/teams/4515.png",
     "away": "الملعب التونسي",
@@ -768,6 +1056,9 @@
     "time": "3:30 م"
   },
   {
+    "date": "الأحد 2025/11/02",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "النادي الصفاقسي",
     "homeLogo": "https://jdwel.com/image/teams/1186.png",
     "away": "الترجي الرياضي التونسي",
@@ -776,6 +1067,9 @@
     "time": "3:30 م"
   },
   {
+    "date": "الأحد 2025/11/02",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "الترجي الجرجيسي",
     "homeLogo": "https://jdwel.com/image/teams/2350.png",
     "away": "مستقبل المرسى",
@@ -784,6 +1078,9 @@
     "time": "3:30 م"
   },
   {
+    "date": "الأحد 2025/11/02",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "النادي البنزرتي",
     "homeLogo": "https://jdwel.com/image/teams/2353.png",
     "away": "الأولمبي الباجي",
@@ -792,6 +1089,9 @@
     "time": "3:30 م"
   },
   {
+    "date": "الثلاثاء 2025/11/04",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "مستقبل سليمان",
     "homeLogo": "https://jdwel.com/image/teams/2461.png",
     "away": "إتحاد بن قردان",
@@ -800,6 +1100,9 @@
     "time": "3:30 م"
   },
   {
+    "date": "الثلاثاء 2025/11/04",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "شبيبة القيروان",
     "homeLogo": "https://jdwel.com/image/teams/2473.png",
     "away": "مستقبل قابس",
@@ -808,6 +1111,9 @@
     "time": "3:30 م"
   },
   {
+    "date": "الأربعاء 2025/11/05",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "مستقبل المرسى",
     "homeLogo": "https://jdwel.com/image/teams/2749.png",
     "away": "النادي البنزرتي",
@@ -816,6 +1122,9 @@
     "time": "3:30 م"
   },
   {
+    "date": "الأربعاء 2025/11/05",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "النجم الساحلي",
     "homeLogo": "https://jdwel.com/image/teams/2232.png",
     "away": "الترجي الجرجيسي",
@@ -824,6 +1133,9 @@
     "time": "3:30 م"
   },
   {
+    "date": "الأربعاء 2025/11/05",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "الأولمبي الباجي",
     "homeLogo": "https://jdwel.com/image/teams/2740.png",
     "away": "النادي الصفاقسي",
@@ -832,6 +1144,9 @@
     "time": "3:30 م"
   },
   {
+    "date": "الأربعاء 2025/11/05",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "النجم الرياضي بالمتلوي",
     "homeLogo": "https://jdwel.com/image/teams/1189.png",
     "away": "الاتحاد المنستيري",
@@ -840,6 +1155,9 @@
     "time": "3:30 م"
   },
   {
+    "date": "الخميس 2025/11/06",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "الترجي الرياضي التونسي",
     "homeLogo": "https://jdwel.com/image/teams/1182.png",
     "away": "الشبيبة الرياضية بالعمران",
@@ -848,6 +1166,9 @@
     "time": "3:30 م"
   },
   {
+    "date": "الخميس 2025/11/06",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "الملعب التونسي",
     "homeLogo": "https://jdwel.com/image/teams/2739.png",
     "away": "النادي الإفريقي",
@@ -856,6 +1177,9 @@
     "time": "3:30 م"
   },
   {
+    "date": "السبت 2025/11/08",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "النادي البنزرتي",
     "homeLogo": "https://jdwel.com/image/teams/2353.png",
     "away": "النجم الساحلي",
@@ -864,6 +1188,9 @@
     "time": "3:30 م"
   },
   {
+    "date": "السبت 2025/11/08",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "النادي الصفاقسي",
     "homeLogo": "https://jdwel.com/image/teams/1186.png",
     "away": "مستقبل المرسى",
@@ -872,6 +1199,9 @@
     "time": "3:30 م"
   },
   {
+    "date": "السبت 2025/11/08",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "مستقبل قابس",
     "homeLogo": "https://jdwel.com/image/teams/2236.png",
     "away": "مستقبل سليمان",
@@ -880,6 +1210,9 @@
     "time": "3:30 م"
   },
   {
+    "date": "السبت 2025/11/08",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "الاتحاد المنستيري",
     "homeLogo": "https://jdwel.com/image/teams/2352.png",
     "away": "شبيبة القيروان",
@@ -888,6 +1221,9 @@
     "time": "3:30 م"
   },
   {
+    "date": "الأحد 2025/11/09",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "إتحاد بن قردان",
     "homeLogo": "https://jdwel.com/image/teams/2233.png",
     "away": "الملعب التونسي",
@@ -896,6 +1232,9 @@
     "time": "3:30 م"
   },
   {
+    "date": "الأحد 2025/11/09",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "النادي الإفريقي",
     "homeLogo": "https://jdwel.com/image/teams/2231.png",
     "away": "الترجي الرياضي التونسي",
@@ -904,6 +1243,9 @@
     "time": "3:30 م"
   },
   {
+    "date": "الأحد 2025/11/09",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "النجم الرياضي بالمتلوي",
     "homeLogo": "https://jdwel.com/image/teams/1189.png",
     "away": "الترجي الجرجيسي",
@@ -912,6 +1254,9 @@
     "time": "3:30 م"
   },
   {
+    "date": "الأثنين 2025/11/10",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "الشبيبة الرياضية بالعمران",
     "homeLogo": "https://jdwel.com/image/teams/4515.png",
     "away": "الأولمبي الباجي",
@@ -920,6 +1265,9 @@
     "time": "3:30 م"
   },
   {
+    "date": "السبت 2025/11/22",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "شبيبة القيروان",
     "homeLogo": "https://jdwel.com/image/teams/2473.png",
     "away": "النجم الرياضي بالمتلوي",
@@ -928,6 +1276,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "السبت 2025/11/22",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "مستقبل المرسى",
     "homeLogo": "https://jdwel.com/image/teams/2749.png",
     "away": "الشبيبة الرياضية بالعمران",
@@ -936,6 +1287,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "السبت 2025/11/22",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "الترجي الجرجيسي",
     "homeLogo": "https://jdwel.com/image/teams/2350.png",
     "away": "النادي البنزرتي",
@@ -944,6 +1298,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأحد 2025/11/23",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "النجم الساحلي",
     "homeLogo": "https://jdwel.com/image/teams/2232.png",
     "away": "النادي الصفاقسي",
@@ -952,6 +1309,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأحد 2025/11/23",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "الأولمبي الباجي",
     "homeLogo": "https://jdwel.com/image/teams/2740.png",
     "away": "النادي الإفريقي",
@@ -960,6 +1320,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأحد 2025/11/23",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "مستقبل سليمان",
     "homeLogo": "https://jdwel.com/image/teams/2461.png",
     "away": "الاتحاد المنستيري",
@@ -968,6 +1331,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأحد 2025/11/23",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "الملعب التونسي",
     "homeLogo": "https://jdwel.com/image/teams/2739.png",
     "away": "مستقبل قابس",
@@ -976,6 +1342,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "السبت 2026/01/10",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "الترجي الرياضي التونسي",
     "homeLogo": "https://jdwel.com/image/teams/1182.png",
     "away": "إتحاد بن قردان",
@@ -984,6 +1353,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الخميس 2026/01/15",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "مستقبل سليمان",
     "homeLogo": "https://jdwel.com/image/teams/2461.png",
     "away": "شبيبة القيروان",
@@ -992,6 +1364,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الخميس 2026/01/15",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "الترجي الرياضي التونسي",
     "homeLogo": "https://jdwel.com/image/teams/1182.png",
     "away": "مستقبل قابس",
@@ -1000,6 +1375,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الجمعة 2026/01/16",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "الترجي الجرجيسي",
     "homeLogo": "https://jdwel.com/image/teams/2350.png",
     "away": "النادي الصفاقسي",
@@ -1008,6 +1386,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الجمعة 2026/01/16",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "الأولمبي الباجي",
     "homeLogo": "https://jdwel.com/image/teams/2740.png",
     "away": "إتحاد بن قردان",
@@ -1016,6 +1397,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الجمعة 2026/01/16",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "الملعب التونسي",
     "homeLogo": "https://jdwel.com/image/teams/2739.png",
     "away": "الاتحاد المنستيري",
@@ -1024,6 +1408,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "السبت 2026/01/17",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "النجم الساحلي",
     "homeLogo": "https://jdwel.com/image/teams/2232.png",
     "away": "الشبيبة الرياضية بالعمران",
@@ -1032,6 +1419,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "السبت 2026/01/17",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "النادي البنزرتي",
     "homeLogo": "https://jdwel.com/image/teams/2353.png",
     "away": "النجم الرياضي بالمتلوي",
@@ -1040,6 +1430,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "السبت 2026/01/17",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "مستقبل المرسى",
     "homeLogo": "https://jdwel.com/image/teams/2749.png",
     "away": "النادي الإفريقي",
@@ -1048,6 +1441,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأثنين 2026/01/19",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "الاتحاد المنستيري",
     "homeLogo": "https://jdwel.com/image/teams/2352.png",
     "away": "الترجي الرياضي التونسي",
@@ -1056,6 +1452,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الثلاثاء 2026/01/20",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "شبيبة القيروان",
     "homeLogo": "https://jdwel.com/image/teams/2473.png",
     "away": "الملعب التونسي",
@@ -1064,6 +1463,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأربعاء 2026/01/21",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "مستقبل قابس",
     "homeLogo": "https://jdwel.com/image/teams/2236.png",
     "away": "الأولمبي الباجي",
@@ -1072,6 +1474,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأربعاء 2026/01/21",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "النادي الصفاقسي",
     "homeLogo": "https://jdwel.com/image/teams/1186.png",
     "away": "النادي البنزرتي",
@@ -1080,6 +1485,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الخميس 2026/01/22",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "النادي الإفريقي",
     "homeLogo": "https://jdwel.com/image/teams/2231.png",
     "away": "النجم الساحلي",
@@ -1088,6 +1496,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الجمعة 2026/01/23",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "الشبيبة الرياضية بالعمران",
     "homeLogo": "https://jdwel.com/image/teams/4515.png",
     "away": "الترجي الجرجيسي",
@@ -1096,6 +1507,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الجمعة 2026/01/23",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "إتحاد بن قردان",
     "homeLogo": "https://jdwel.com/image/teams/2233.png",
     "away": "مستقبل المرسى",
@@ -1104,6 +1518,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الجمعة 2026/01/23",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "النجم الرياضي بالمتلوي",
     "homeLogo": "https://jdwel.com/image/teams/1189.png",
     "away": "مستقبل سليمان",
@@ -1112,6 +1529,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الثلاثاء 2026/01/27",
+    "round": "الجولة 18",
+    "status": "انتهت",
     "home": "الترجي الجرجيسي",
     "homeLogo": "https://jdwel.com/image/teams/2350.png",
     "away": "النادي الإفريقي",
@@ -1120,6 +1540,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الثلاثاء 2026/01/27",
+    "round": "الجولة 18",
+    "status": "انتهت",
     "home": "النادي الصفاقسي",
     "homeLogo": "https://jdwel.com/image/teams/1186.png",
     "away": "النجم الرياضي بالمتلوي",
@@ -1128,6 +1551,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الثلاثاء 2026/01/27",
+    "round": "الجولة 18",
+    "status": "انتهت",
     "home": "النادي البنزرتي",
     "homeLogo": "https://jdwel.com/image/teams/2353.png",
     "away": "الشبيبة الرياضية بالعمران",
@@ -1136,6 +1562,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الثلاثاء 2026/01/27",
+    "round": "الجولة 18",
+    "status": "انتهت",
     "home": "الترجي الرياضي التونسي",
     "homeLogo": "https://jdwel.com/image/teams/1182.png",
     "away": "شبيبة القيروان",
@@ -1144,6 +1573,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأربعاء 2026/01/28",
+    "round": "الجولة 18",
+    "status": "انتهت",
     "home": "النجم الساحلي",
     "homeLogo": "https://jdwel.com/image/teams/2232.png",
     "away": "إتحاد بن قردان",
@@ -1152,6 +1584,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأربعاء 2026/01/28",
+    "round": "الجولة 18",
+    "status": "انتهت",
     "home": "الأولمبي الباجي",
     "homeLogo": "https://jdwel.com/image/teams/2740.png",
     "away": "الاتحاد المنستيري",
@@ -1160,6 +1595,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأربعاء 2026/01/28",
+    "round": "الجولة 18",
+    "status": "انتهت",
     "home": "الملعب التونسي",
     "homeLogo": "https://jdwel.com/image/teams/2739.png",
     "away": "مستقبل سليمان",
@@ -1168,6 +1606,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأربعاء 2026/01/28",
+    "round": "الجولة 18",
+    "status": "انتهت",
     "home": "مستقبل المرسى",
     "homeLogo": "https://jdwel.com/image/teams/2749.png",
     "away": "مستقبل قابس",
@@ -1176,6 +1617,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "السبت 2026/01/31",
+    "round": "الجولة 19",
+    "status": "انتهت",
     "home": "إتحاد بن قردان",
     "homeLogo": "https://jdwel.com/image/teams/2233.png",
     "away": "الترجي الجرجيسي",
@@ -1184,6 +1628,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "السبت 2026/01/31",
+    "round": "الجولة 19",
+    "status": "انتهت",
     "home": "شبيبة القيروان",
     "homeLogo": "https://jdwel.com/image/teams/2473.png",
     "away": "الأولمبي الباجي",
@@ -1192,6 +1639,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "السبت 2026/01/31",
+    "round": "الجولة 19",
+    "status": "انتهت",
     "home": "النادي الإفريقي",
     "homeLogo": "https://jdwel.com/image/teams/2231.png",
     "away": "النادي البنزرتي",
@@ -1200,6 +1650,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأحد 2026/02/01",
+    "round": "الجولة 19",
+    "status": "انتهت",
     "home": "مستقبل سليمان",
     "homeLogo": "https://jdwel.com/image/teams/2461.png",
     "away": "الترجي الرياضي التونسي",
@@ -1208,6 +1661,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/02/01",
+    "round": "الجولة 19",
+    "status": "انتهت",
     "home": "النجم الرياضي بالمتلوي",
     "homeLogo": "https://jdwel.com/image/teams/1189.png",
     "away": "الملعب التونسي",
@@ -1216,6 +1672,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأحد 2026/02/01",
+    "round": "الجولة 19",
+    "status": "انتهت",
     "home": "مستقبل قابس",
     "homeLogo": "https://jdwel.com/image/teams/2236.png",
     "away": "النجم الساحلي",
@@ -1224,6 +1683,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأحد 2026/02/01",
+    "round": "الجولة 19",
+    "status": "انتهت",
     "home": "الاتحاد المنستيري",
     "homeLogo": "https://jdwel.com/image/teams/2352.png",
     "away": "مستقبل المرسى",
@@ -1232,6 +1694,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأحد 2026/02/01",
+    "round": "الجولة 19",
+    "status": "انتهت",
     "home": "الشبيبة الرياضية بالعمران",
     "homeLogo": "https://jdwel.com/image/teams/4515.png",
     "away": "النادي الصفاقسي",
@@ -1240,6 +1705,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "السبت 2026/02/07",
+    "round": "الجولة 20",
+    "status": "انتهت",
     "home": "الترجي الرياضي التونسي",
     "homeLogo": "https://jdwel.com/image/teams/1182.png",
     "away": "الملعب التونسي",
@@ -1248,6 +1716,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/02/07",
+    "round": "الجولة 20",
+    "status": "قريباً",
     "home": "الأولمبي الباجي",
     "homeLogo": "https://jdwel.com/image/teams/2740.png",
     "away": "مستقبل سليمان",
@@ -1256,6 +1727,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "السبت 2026/02/07",
+    "round": "الجولة 20",
+    "status": "قريباً",
     "home": "مستقبل المرسى",
     "homeLogo": "https://jdwel.com/image/teams/2749.png",
     "away": "شبيبة القيروان",
@@ -1264,6 +1738,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "السبت 2026/02/07",
+    "round": "الجولة 20",
+    "status": "قريباً",
     "home": "الترجي الجرجيسي",
     "homeLogo": "https://jdwel.com/image/teams/2350.png",
     "away": "مستقبل قابس",
@@ -1272,6 +1749,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "السبت 2026/02/07",
+    "round": "الجولة 20",
+    "status": "قريباً",
     "home": "النجم الساحلي",
     "homeLogo": "https://jdwel.com/image/teams/2232.png",
     "away": "الاتحاد المنستيري",

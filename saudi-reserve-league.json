@@ -1,5 +1,8 @@
 [
   {
+    "date": "الثلاثاء 2024/05/28",
+    "round": "",
+    "status": "انتهت",
     "home": "الشباب",
     "homeLogo": "https://jdwel.com/image/teams/2213.png",
     "away": "الفتح",
@@ -8,6 +11,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الجمعة 2024/05/24",
+    "round": "",
+    "status": "انتهت",
     "home": "أبها",
     "homeLogo": "https://jdwel.com/image/teams/2451.png",
     "away": "الخليج",
@@ -16,6 +22,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الثلاثاء 2024/05/21",
+    "round": "",
+    "status": "انتهت",
     "home": "الاتفاق",
     "homeLogo": "https://jdwel.com/image/teams/2215.png",
     "away": "الشباب",
@@ -24,6 +33,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "السبت 2024/05/11",
+    "round": "",
+    "status": "انتهت",
     "home": "الخليج",
     "homeLogo": "https://jdwel.com/image/teams/2840.png",
     "away": "الوحدة",
@@ -32,6 +44,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الجمعة 2024/05/10",
+    "round": "",
+    "status": "انتهت",
     "home": "الفيحاء",
     "homeLogo": "https://jdwel.com/image/teams/3067.png",
     "away": "الفتح",
@@ -40,6 +55,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "السبت 2024/05/04",
+    "round": "",
+    "status": "انتهت",
     "home": "الاتفاق",
     "homeLogo": "https://jdwel.com/image/teams/2215.png",
     "away": "الفيحاء",
@@ -48,6 +66,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الأحد 2024/04/21",
+    "round": "",
+    "status": "انتهت",
     "home": "الاتفاق",
     "homeLogo": "https://jdwel.com/image/teams/2215.png",
     "away": "الوحدة",
@@ -56,6 +77,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الجمعة 2024/04/19",
+    "round": "",
+    "status": "انتهت",
     "home": "الشباب",
     "homeLogo": "https://jdwel.com/image/teams/2213.png",
     "away": "أبها",
@@ -64,6 +88,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأثنين 2024/04/08",
+    "round": "",
+    "status": "انتهت",
     "home": "أبها",
     "homeLogo": "https://jdwel.com/image/teams/2451.png",
     "away": "الفتح",
@@ -72,6 +99,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الخميس 2024/04/04",
+    "round": "",
+    "status": "انتهت",
     "home": "الفتح",
     "homeLogo": "https://jdwel.com/image/teams/1105.png",
     "away": "الاتفاق",
@@ -80,6 +110,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الأربعاء 2024/04/03",
+    "round": "",
+    "status": "انتهت",
     "home": "الفيحاء",
     "homeLogo": "https://jdwel.com/image/teams/3067.png",
     "away": "الوحدة",
@@ -88,6 +121,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الأحد 2024/03/31",
+    "round": "",
+    "status": "انتهت",
     "home": "الوحدة",
     "homeLogo": "https://jdwel.com/image/teams/sau_al_wahda.png",
     "away": "الفتح",
@@ -96,6 +132,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الجمعة 2024/03/15",
+    "round": "",
+    "status": "انتهت",
     "home": "أبها",
     "homeLogo": "https://jdwel.com/image/teams/2451.png",
     "away": "الوحدة",
@@ -104,6 +143,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الأحد 2024/03/10",
+    "round": "",
+    "status": "انتهت",
     "home": "الاتفاق",
     "homeLogo": "https://jdwel.com/image/teams/2215.png",
     "away": "أبها",
@@ -112,6 +154,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأحد 2024/03/10",
+    "round": "",
+    "status": "انتهت",
     "home": "الفتح",
     "homeLogo": "https://jdwel.com/image/teams/1105.png",
     "away": "الخليج",
@@ -120,6 +165,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الجمعة 2024/03/08",
+    "round": "",
+    "status": "انتهت",
     "home": "الشباب",
     "homeLogo": "https://jdwel.com/image/teams/2213.png",
     "away": "الفيحاء",
@@ -128,6 +176,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأحد 2024/03/03",
+    "round": "",
+    "status": "انتهت",
     "home": "الخليج",
     "homeLogo": "https://jdwel.com/image/teams/2840.png",
     "away": "الشباب",
@@ -136,6 +187,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأثنين 2024/02/26",
+    "round": "",
+    "status": "انتهت",
     "home": "الفيحاء",
     "homeLogo": "https://jdwel.com/image/teams/3067.png",
     "away": "أبها",
@@ -144,6 +198,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الجمعة 2024/02/16",
+    "round": "",
+    "status": "انتهت",
     "home": "الخليج",
     "homeLogo": "https://jdwel.com/image/teams/2840.png",
     "away": "الاتفاق",
@@ -152,6 +209,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأحد 2023/12/31",
+    "round": "",
+    "status": "انتهت",
     "home": "الشباب",
     "homeLogo": "https://jdwel.com/image/teams/2213.png",
     "away": "الوحدة",
@@ -160,6 +220,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الجمعة 2023/12/22",
+    "round": "",
+    "status": "انتهت",
     "home": "الخليج",
     "homeLogo": "https://jdwel.com/image/teams/2840.png",
     "away": "الفيحاء",
@@ -168,6 +231,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "السبت 2023/12/16",
+    "round": "",
+    "status": "انتهت",
     "home": "الفتح",
     "homeLogo": "https://jdwel.com/image/teams/1105.png",
     "away": "الشباب",
@@ -176,6 +242,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "السبت 2023/12/09",
+    "round": "",
+    "status": "انتهت",
     "home": "الخليج",
     "homeLogo": "https://jdwel.com/image/teams/2840.png",
     "away": "أبها",
@@ -184,6 +253,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الجمعة 2023/12/08",
+    "round": "",
+    "status": "انتهت",
     "home": "الشباب",
     "homeLogo": "https://jdwel.com/image/teams/2213.png",
     "away": "الاتفاق",
@@ -192,6 +264,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأحد 2023/11/26",
+    "round": "",
+    "status": "انتهت",
     "home": "الفتح",
     "homeLogo": "https://jdwel.com/image/teams/1105.png",
     "away": "الفيحاء",
@@ -200,6 +275,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأحد 2023/11/26",
+    "round": "",
+    "status": "انتهت",
     "home": "الوحدة",
     "homeLogo": "https://jdwel.com/image/teams/sau_al_wahda.png",
     "away": "الخليج",
@@ -208,6 +286,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأحد 2023/11/12",
+    "round": "",
+    "status": "انتهت",
     "home": "الفيحاء",
     "homeLogo": "https://jdwel.com/image/teams/3067.png",
     "away": "الاتفاق",
@@ -216,6 +297,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأحد 2023/10/29",
+    "round": "",
+    "status": "انتهت",
     "home": "أبها",
     "homeLogo": "https://jdwel.com/image/teams/2451.png",
     "away": "الشباب",
@@ -224,6 +308,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأحد 2023/10/29",
+    "round": "",
+    "status": "انتهت",
     "home": "الوحدة",
     "homeLogo": "https://jdwel.com/image/teams/sau_al_wahda.png",
     "away": "الاتفاق",
@@ -232,6 +319,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "السبت 2023/10/21",
+    "round": "",
+    "status": "انتهت",
     "home": "الفتح",
     "homeLogo": "https://jdwel.com/image/teams/1105.png",
     "away": "أبها",
@@ -240,6 +330,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الأحد 2023/10/08",
+    "round": "",
+    "status": "انتهت",
     "home": "الوحدة",
     "homeLogo": "https://jdwel.com/image/teams/sau_al_wahda.png",
     "away": "الفيحاء",
@@ -248,6 +341,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الجمعة 2023/10/06",
+    "round": "",
+    "status": "انتهت",
     "home": "الاتفاق",
     "homeLogo": "https://jdwel.com/image/teams/2215.png",
     "away": "الفتح",
@@ -256,6 +352,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الأحد 2023/10/01",
+    "round": "",
+    "status": "انتهت",
     "home": "الفتح",
     "homeLogo": "https://jdwel.com/image/teams/1105.png",
     "away": "الوحدة",
@@ -264,6 +363,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "السبت 2023/09/23",
+    "round": "",
+    "status": "انتهت",
     "home": "الوحدة",
     "homeLogo": "https://jdwel.com/image/teams/sau_al_wahda.png",
     "away": "أبها",
@@ -272,6 +374,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الأحد 2023/09/17",
+    "round": "",
+    "status": "انتهت",
     "home": "أبها",
     "homeLogo": "https://jdwel.com/image/teams/2451.png",
     "away": "الاتفاق",
@@ -280,6 +385,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "السبت 2023/09/16",
+    "round": "",
+    "status": "انتهت",
     "home": "الفيحاء",
     "homeLogo": "https://jdwel.com/image/teams/3067.png",
     "away": "الشباب",
@@ -288,6 +396,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "السبت 2023/09/16",
+    "round": "",
+    "status": "انتهت",
     "home": "الخليج",
     "homeLogo": "https://jdwel.com/image/teams/2840.png",
     "away": "الفتح",
@@ -296,6 +407,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الأحد 2023/09/03",
+    "round": "",
+    "status": "انتهت",
     "home": "الشباب",
     "homeLogo": "https://jdwel.com/image/teams/2213.png",
     "away": "الخليج",
@@ -304,6 +418,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الثلاثاء 2023/08/29",
+    "round": "",
+    "status": "انتهت",
     "home": "أبها",
     "homeLogo": "https://jdwel.com/image/teams/2451.png",
     "away": "الفيحاء",
@@ -312,6 +429,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الجمعة 2023/08/25",
+    "round": "",
+    "status": "انتهت",
     "home": "الاتفاق",
     "homeLogo": "https://jdwel.com/image/teams/2215.png",
     "away": "الخليج",
@@ -320,6 +440,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "السبت 2023/08/19",
+    "round": "",
+    "status": "انتهت",
     "home": "الوحدة",
     "homeLogo": "https://jdwel.com/image/teams/sau_al_wahda.png",
     "away": "الشباب",
@@ -328,6 +451,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأحد 2023/08/13",
+    "round": "",
+    "status": "انتهت",
     "home": "الفيحاء",
     "homeLogo": "https://jdwel.com/image/teams/3067.png",
     "away": "الخليج",

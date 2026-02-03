@@ -1,5 +1,8 @@
 [
   {
+    "date": "الأحد 2025/11/09",
+    "round": "",
+    "status": "انتهت",
     "home": "الأهلي",
     "homeLogo": "https://jdwel.com/image/teams/1253.png",
     "away": "الزمالك",
@@ -8,14 +11,9 @@
     "time": "5:30 م"
   },
   {
-    "home": "سيراميكا كليوباترا",
-    "homeLogo": "https://jdwel.com/image/teams/389.png",
-    "away": "بيراميدز",
-    "awayLogo": "https://jdwel.com/image/teams/2524.png",
-    "score": "2 - 1",
-    "time": "2:45 م"
-  },
-  {
+    "date": "الخميس 2025/11/06",
+    "round": "",
+    "status": "انتهت",
     "home": "الزمالك",
     "homeLogo": "https://jdwel.com/image/teams/339.png",
     "away": "بيراميدز",
@@ -24,6 +22,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الخميس 2025/11/06",
+    "round": "",
+    "status": "انتهت",
     "home": "الأهلي",
     "homeLogo": "https://jdwel.com/image/teams/1253.png",
     "away": "سيراميكا كليوباترا",

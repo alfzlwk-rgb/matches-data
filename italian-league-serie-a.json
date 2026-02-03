@@ -1,5 +1,8 @@
 [
   {
+    "date": "السبت 2025/08/23",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "جنوى",
     "homeLogo": "https://jdwel.com/image/teams/320.png",
     "away": "ليتشي",
@@ -8,6 +11,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "السبت 2025/08/23",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "ساسولو",
     "homeLogo": "https://jdwel.com/image/teams/3886.png",
     "away": "نابولي",
@@ -16,6 +22,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "السبت 2025/08/23",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "ميلان",
     "homeLogo": "https://jdwel.com/image/teams/2433.png",
     "away": "كريمونيسي",
@@ -24,6 +33,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "السبت 2025/08/23",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "روما",
     "homeLogo": "https://jdwel.com/image/teams/2435.png",
     "away": "بولونيا",
@@ -32,6 +44,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأحد 2025/08/24",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "كالياري",
     "homeLogo": "https://jdwel.com/image/teams/155.png",
     "away": "فيورنتينا",
@@ -40,6 +55,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الأحد 2025/08/24",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "كومو",
     "homeLogo": "https://jdwel.com/image/teams/2520.png",
     "away": "لاتسيو",
@@ -48,6 +66,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الأحد 2025/08/24",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "أتالانتا",
     "homeLogo": "https://jdwel.com/image/teams/2844.png",
     "away": "بيزا",
@@ -56,6 +77,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأحد 2025/08/24",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "يوفنتوس",
     "homeLogo": "https://jdwel.com/image/teams/882.png",
     "away": "بارما",
@@ -64,6 +88,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأثنين 2025/08/25",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "أودينيزي",
     "homeLogo": "https://jdwel.com/image/teams/4574.png",
     "away": "هيلاس فيرونا",
@@ -72,6 +99,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الأثنين 2025/08/25",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "إنتر ميلان",
     "homeLogo": "https://jdwel.com/image/teams/2034.png",
     "away": "تورينو",
@@ -80,6 +110,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الجمعة 2025/08/29",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "كريمونيسي",
     "homeLogo": "https://jdwel.com/image/teams/3153.png",
     "away": "ساسولو",
@@ -88,6 +121,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الجمعة 2025/08/29",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "ليتشي",
     "homeLogo": "https://jdwel.com/image/teams/896.png",
     "away": "ميلان",
@@ -96,6 +132,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "السبت 2025/08/30",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "بولونيا",
     "homeLogo": "https://jdwel.com/image/teams/2845.png",
     "away": "كومو",
@@ -104,6 +143,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "السبت 2025/08/30",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "بارما",
     "homeLogo": "https://jdwel.com/image/teams/3335.png",
     "away": "أتالانتا",
@@ -112,6 +154,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "السبت 2025/08/30",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "نابولي",
     "homeLogo": "https://jdwel.com/image/teams/3854.png",
     "away": "كالياري",
@@ -120,6 +165,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "السبت 2025/08/30",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "بيزا",
     "homeLogo": "https://jdwel.com/image/teams/3357.png",
     "away": "روما",
@@ -128,6 +176,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأحد 2025/08/31",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "جنوى",
     "homeLogo": "https://jdwel.com/image/teams/320.png",
     "away": "يوفنتوس",
@@ -136,6 +187,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الأحد 2025/08/31",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "تورينو",
     "homeLogo": "https://jdwel.com/image/teams/4573.png",
     "away": "فيورنتينا",
@@ -144,6 +198,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الأحد 2025/08/31",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "إنتر ميلان",
     "homeLogo": "https://jdwel.com/image/teams/2034.png",
     "away": "أودينيزي",
@@ -152,6 +209,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأحد 2025/08/31",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "لاتسيو",
     "homeLogo": "https://jdwel.com/image/teams/ita_lazio.png",
     "away": "هيلاس فيرونا",
@@ -160,6 +220,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "السبت 2025/09/13",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "كالياري",
     "homeLogo": "https://jdwel.com/image/teams/155.png",
     "away": "بارما",
@@ -168,6 +231,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "السبت 2025/09/13",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "يوفنتوس",
     "homeLogo": "https://jdwel.com/image/teams/882.png",
     "away": "إنتر ميلان",
@@ -176,6 +242,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "السبت 2025/09/13",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "فيورنتينا",
     "homeLogo": "https://jdwel.com/image/teams/ita_fiorentina_v2.png",
     "away": "نابولي",
@@ -184,6 +253,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأحد 2025/09/14",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "روما",
     "homeLogo": "https://jdwel.com/image/teams/2435.png",
     "away": "تورينو",
@@ -192,6 +264,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الأحد 2025/09/14",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "أتالانتا",
     "homeLogo": "https://jdwel.com/image/teams/2844.png",
     "away": "ليتشي",
@@ -200,6 +275,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الأحد 2025/09/14",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "بيزا",
     "homeLogo": "https://jdwel.com/image/teams/3357.png",
     "away": "أودينيزي",
@@ -208,6 +286,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الأحد 2025/09/14",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "ساسولو",
     "homeLogo": "https://jdwel.com/image/teams/3886.png",
     "away": "لاتسيو",
@@ -216,6 +297,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأحد 2025/09/14",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "ميلان",
     "homeLogo": "https://jdwel.com/image/teams/2433.png",
     "away": "بولونيا",
@@ -224,6 +308,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأثنين 2025/09/15",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "هيلاس فيرونا",
     "homeLogo": "https://jdwel.com/image/teams/ita_hellas_verona_v2.png",
     "away": "كريمونيسي",
@@ -232,6 +319,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الأثنين 2025/09/15",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "كومو",
     "homeLogo": "https://jdwel.com/image/teams/2520.png",
     "away": "جنوى",
@@ -240,6 +330,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الجمعة 2025/09/19",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "ليتشي",
     "homeLogo": "https://jdwel.com/image/teams/896.png",
     "away": "كالياري",
@@ -248,6 +341,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "السبت 2025/09/20",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "بولونيا",
     "homeLogo": "https://jdwel.com/image/teams/2845.png",
     "away": "جنوى",
@@ -256,6 +352,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "السبت 2025/09/20",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "هيلاس فيرونا",
     "homeLogo": "https://jdwel.com/image/teams/ita_hellas_verona_v2.png",
     "away": "يوفنتوس",
@@ -264,6 +363,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "السبت 2025/09/20",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "أودينيزي",
     "homeLogo": "https://jdwel.com/image/teams/4574.png",
     "away": "ميلان",
@@ -272,6 +374,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأحد 2025/09/21",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "لاتسيو",
     "homeLogo": "https://jdwel.com/image/teams/ita_lazio.png",
     "away": "روما",
@@ -280,6 +385,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الأحد 2025/09/21",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "كريمونيسي",
     "homeLogo": "https://jdwel.com/image/teams/3153.png",
     "away": "بارما",
@@ -288,6 +396,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الأحد 2025/09/21",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "تورينو",
     "homeLogo": "https://jdwel.com/image/teams/4573.png",
     "away": "أتالانتا",
@@ -296,6 +407,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الأحد 2025/09/21",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "فيورنتينا",
     "homeLogo": "https://jdwel.com/image/teams/ita_fiorentina_v2.png",
     "away": "كومو",
@@ -304,6 +418,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأحد 2025/09/21",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "إنتر ميلان",
     "homeLogo": "https://jdwel.com/image/teams/2034.png",
     "away": "ساسولو",
@@ -312,6 +429,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأثنين 2025/09/22",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "نابولي",
     "homeLogo": "https://jdwel.com/image/teams/3854.png",
     "away": "بيزا",
@@ -320,6 +440,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "السبت 2025/09/27",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "كومو",
     "homeLogo": "https://jdwel.com/image/teams/2520.png",
     "away": "كريمونيسي",
@@ -328,6 +451,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "السبت 2025/09/27",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "يوفنتوس",
     "homeLogo": "https://jdwel.com/image/teams/882.png",
     "away": "أتالانتا",
@@ -336,6 +462,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "السبت 2025/09/27",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "كالياري",
     "homeLogo": "https://jdwel.com/image/teams/155.png",
     "away": "إنتر ميلان",
@@ -344,6 +473,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأحد 2025/09/28",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "ساسولو",
     "homeLogo": "https://jdwel.com/image/teams/3886.png",
     "away": "أودينيزي",
@@ -352,6 +484,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الأحد 2025/09/28",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "بيزا",
     "homeLogo": "https://jdwel.com/image/teams/3357.png",
     "away": "فيورنتينا",
@@ -360,6 +495,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الأحد 2025/09/28",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "روما",
     "homeLogo": "https://jdwel.com/image/teams/2435.png",
     "away": "هيلاس فيرونا",
@@ -368,6 +506,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الأحد 2025/09/28",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "ليتشي",
     "homeLogo": "https://jdwel.com/image/teams/896.png",
     "away": "بولونيا",
@@ -376,6 +517,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأحد 2025/09/28",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "ميلان",
     "homeLogo": "https://jdwel.com/image/teams/2433.png",
     "away": "نابولي",
@@ -384,6 +528,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأثنين 2025/09/29",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "بارما",
     "homeLogo": "https://jdwel.com/image/teams/3335.png",
     "away": "تورينو",
@@ -392,6 +539,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الأثنين 2025/09/29",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "جنوى",
     "homeLogo": "https://jdwel.com/image/teams/320.png",
     "away": "لاتسيو",
@@ -400,6 +550,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الجمعة 2025/10/03",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "هيلاس فيرونا",
     "homeLogo": "https://jdwel.com/image/teams/ita_hellas_verona_v2.png",
     "away": "ساسولو",
@@ -408,6 +561,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "السبت 2025/10/04",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "لاتسيو",
     "homeLogo": "https://jdwel.com/image/teams/ita_lazio.png",
     "away": "تورينو",
@@ -416,6 +572,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "السبت 2025/10/04",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "بارما",
     "homeLogo": "https://jdwel.com/image/teams/3335.png",
     "away": "ليتشي",
@@ -424,6 +583,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "السبت 2025/10/04",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "إنتر ميلان",
     "homeLogo": "https://jdwel.com/image/teams/2034.png",
     "away": "كريمونيسي",
@@ -432,6 +594,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "السبت 2025/10/04",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "أتالانتا",
     "homeLogo": "https://jdwel.com/image/teams/2844.png",
     "away": "كومو",
@@ -440,6 +605,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأحد 2025/10/05",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "أودينيزي",
     "homeLogo": "https://jdwel.com/image/teams/4574.png",
     "away": "كالياري",
@@ -448,6 +616,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الأحد 2025/10/05",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "بولونيا",
     "homeLogo": "https://jdwel.com/image/teams/2845.png",
     "away": "بيزا",
@@ -456,6 +627,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الأحد 2025/10/05",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "فيورنتينا",
     "homeLogo": "https://jdwel.com/image/teams/ita_fiorentina_v2.png",
     "away": "روما",
@@ -464,6 +638,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الأحد 2025/10/05",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "نابولي",
     "homeLogo": "https://jdwel.com/image/teams/3854.png",
     "away": "جنوى",
@@ -472,6 +649,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأحد 2025/10/05",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "يوفنتوس",
     "homeLogo": "https://jdwel.com/image/teams/882.png",
     "away": "ميلان",
@@ -480,6 +660,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "السبت 2025/10/18",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "ليتشي",
     "homeLogo": "https://jdwel.com/image/teams/896.png",
     "away": "ساسولو",
@@ -488,6 +671,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "السبت 2025/10/18",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "بيزا",
     "homeLogo": "https://jdwel.com/image/teams/3357.png",
     "away": "هيلاس فيرونا",
@@ -496,6 +682,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "السبت 2025/10/18",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "تورينو",
     "homeLogo": "https://jdwel.com/image/teams/4573.png",
     "away": "نابولي",
@@ -504,6 +693,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "السبت 2025/10/18",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "روما",
     "homeLogo": "https://jdwel.com/image/teams/2435.png",
     "away": "إنتر ميلان",
@@ -512,6 +704,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأحد 2025/10/19",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "كومو",
     "homeLogo": "https://jdwel.com/image/teams/2520.png",
     "away": "يوفنتوس",
@@ -520,6 +715,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الأحد 2025/10/19",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "كالياري",
     "homeLogo": "https://jdwel.com/image/teams/155.png",
     "away": "بولونيا",
@@ -528,6 +726,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الأحد 2025/10/19",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "جنوى",
     "homeLogo": "https://jdwel.com/image/teams/320.png",
     "away": "بارما",
@@ -536,6 +737,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الأحد 2025/10/19",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "أتالانتا",
     "homeLogo": "https://jdwel.com/image/teams/2844.png",
     "away": "لاتسيو",
@@ -544,6 +748,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأحد 2025/10/19",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "ميلان",
     "homeLogo": "https://jdwel.com/image/teams/2433.png",
     "away": "فيورنتينا",
@@ -552,6 +759,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأثنين 2025/10/20",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "كريمونيسي",
     "homeLogo": "https://jdwel.com/image/teams/3153.png",
     "away": "أودينيزي",
@@ -560,6 +770,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الجمعة 2025/10/24",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "ميلان",
     "homeLogo": "https://jdwel.com/image/teams/2433.png",
     "away": "بيزا",
@@ -568,6 +781,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "السبت 2025/10/25",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "بارما",
     "homeLogo": "https://jdwel.com/image/teams/3335.png",
     "away": "كومو",
@@ -576,6 +792,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "السبت 2025/10/25",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "أودينيزي",
     "homeLogo": "https://jdwel.com/image/teams/4574.png",
     "away": "ليتشي",
@@ -584,6 +803,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "السبت 2025/10/25",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "نابولي",
     "homeLogo": "https://jdwel.com/image/teams/3854.png",
     "away": "إنتر ميلان",
@@ -592,6 +814,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "السبت 2025/10/25",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "كريمونيسي",
     "homeLogo": "https://jdwel.com/image/teams/3153.png",
     "away": "أتالانتا",
@@ -600,6 +825,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأحد 2025/10/26",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "تورينو",
     "homeLogo": "https://jdwel.com/image/teams/4573.png",
     "away": "جنوى",
@@ -608,6 +836,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "الأحد 2025/10/26",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "هيلاس فيرونا",
     "homeLogo": "https://jdwel.com/image/teams/ita_hellas_verona_v2.png",
     "away": "كالياري",
@@ -616,6 +847,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2025/10/26",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "ساسولو",
     "homeLogo": "https://jdwel.com/image/teams/3886.png",
     "away": "روما",
@@ -624,6 +858,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2025/10/26",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "فيورنتينا",
     "homeLogo": "https://jdwel.com/image/teams/ita_fiorentina_v2.png",
     "away": "بولونيا",
@@ -632,6 +869,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الأحد 2025/10/26",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "لاتسيو",
     "homeLogo": "https://jdwel.com/image/teams/ita_lazio.png",
     "away": "يوفنتوس",
@@ -640,6 +880,9 @@
     "time": "10:45 م"
   },
   {
+    "date": "الثلاثاء 2025/10/28",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "ليتشي",
     "homeLogo": "https://jdwel.com/image/teams/896.png",
     "away": "نابولي",
@@ -648,6 +891,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "الثلاثاء 2025/10/28",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "أتالانتا",
     "homeLogo": "https://jdwel.com/image/teams/2844.png",
     "away": "ميلان",
@@ -656,6 +902,9 @@
     "time": "10:45 م"
   },
   {
+    "date": "الأربعاء 2025/10/29",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "كومو",
     "homeLogo": "https://jdwel.com/image/teams/2520.png",
     "away": "هيلاس فيرونا",
@@ -664,6 +913,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "الأربعاء 2025/10/29",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "يوفنتوس",
     "homeLogo": "https://jdwel.com/image/teams/882.png",
     "away": "أودينيزي",
@@ -672,6 +924,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "الأربعاء 2025/10/29",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "روما",
     "homeLogo": "https://jdwel.com/image/teams/2435.png",
     "away": "بارما",
@@ -680,6 +935,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "الأربعاء 2025/10/29",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "بولونيا",
     "homeLogo": "https://jdwel.com/image/teams/2845.png",
     "away": "تورينو",
@@ -688,6 +946,9 @@
     "time": "10:45 م"
   },
   {
+    "date": "الأربعاء 2025/10/29",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "جنوى",
     "homeLogo": "https://jdwel.com/image/teams/320.png",
     "away": "كريمونيسي",
@@ -696,6 +957,9 @@
     "time": "10:45 م"
   },
   {
+    "date": "الأربعاء 2025/10/29",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "إنتر ميلان",
     "homeLogo": "https://jdwel.com/image/teams/2034.png",
     "away": "فيورنتينا",
@@ -704,6 +968,9 @@
     "time": "10:45 م"
   },
   {
+    "date": "الخميس 2025/10/30",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "كالياري",
     "homeLogo": "https://jdwel.com/image/teams/155.png",
     "away": "ساسولو",
@@ -712,6 +979,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "الخميس 2025/10/30",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "بيزا",
     "homeLogo": "https://jdwel.com/image/teams/3357.png",
     "away": "لاتسيو",
@@ -720,6 +990,9 @@
     "time": "10:45 م"
   },
   {
+    "date": "السبت 2025/11/01",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "أودينيزي",
     "homeLogo": "https://jdwel.com/image/teams/4574.png",
     "away": "أتالانتا",
@@ -728,6 +1001,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "السبت 2025/11/01",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "نابولي",
     "homeLogo": "https://jdwel.com/image/teams/3854.png",
     "away": "كومو",
@@ -736,6 +1012,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "السبت 2025/11/01",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "كريمونيسي",
     "homeLogo": "https://jdwel.com/image/teams/3153.png",
     "away": "يوفنتوس",
@@ -744,6 +1023,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأحد 2025/11/02",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "هيلاس فيرونا",
     "homeLogo": "https://jdwel.com/image/teams/ita_hellas_verona_v2.png",
     "away": "إنتر ميلان",
@@ -752,6 +1034,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الأحد 2025/11/02",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "فيورنتينا",
     "homeLogo": "https://jdwel.com/image/teams/ita_fiorentina_v2.png",
     "away": "ليتشي",
@@ -760,6 +1045,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الأحد 2025/11/02",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "تورينو",
     "homeLogo": "https://jdwel.com/image/teams/4573.png",
     "away": "بيزا",
@@ -768,6 +1056,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الأحد 2025/11/02",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "بارما",
     "homeLogo": "https://jdwel.com/image/teams/3335.png",
     "away": "بولونيا",
@@ -776,6 +1067,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأحد 2025/11/02",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "ميلان",
     "homeLogo": "https://jdwel.com/image/teams/2433.png",
     "away": "روما",
@@ -784,6 +1078,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأثنين 2025/11/03",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "ساسولو",
     "homeLogo": "https://jdwel.com/image/teams/3886.png",
     "away": "جنوى",
@@ -792,6 +1089,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الأثنين 2025/11/03",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "لاتسيو",
     "homeLogo": "https://jdwel.com/image/teams/ita_lazio.png",
     "away": "كالياري",
@@ -800,6 +1100,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الجمعة 2025/11/07",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "بيزا",
     "homeLogo": "https://jdwel.com/image/teams/3357.png",
     "away": "كريمونيسي",
@@ -808,6 +1111,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "السبت 2025/11/08",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "كومو",
     "homeLogo": "https://jdwel.com/image/teams/2520.png",
     "away": "كالياري",
@@ -816,6 +1122,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "السبت 2025/11/08",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "ليتشي",
     "homeLogo": "https://jdwel.com/image/teams/896.png",
     "away": "هيلاس فيرونا",
@@ -824,6 +1133,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "السبت 2025/11/08",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "يوفنتوس",
     "homeLogo": "https://jdwel.com/image/teams/882.png",
     "away": "تورينو",
@@ -832,6 +1144,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "السبت 2025/11/08",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "بارما",
     "homeLogo": "https://jdwel.com/image/teams/3335.png",
     "away": "ميلان",
@@ -840,6 +1155,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأحد 2025/11/09",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "أتالانتا",
     "homeLogo": "https://jdwel.com/image/teams/2844.png",
     "away": "ساسولو",
@@ -848,6 +1166,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الأحد 2025/11/09",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "بولونيا",
     "homeLogo": "https://jdwel.com/image/teams/2845.png",
     "away": "نابولي",
@@ -856,6 +1177,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الأحد 2025/11/09",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "جنوى",
     "homeLogo": "https://jdwel.com/image/teams/320.png",
     "away": "فيورنتينا",
@@ -864,6 +1188,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الأحد 2025/11/09",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "روما",
     "homeLogo": "https://jdwel.com/image/teams/2435.png",
     "away": "أودينيزي",
@@ -872,6 +1199,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأحد 2025/11/09",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "إنتر ميلان",
     "homeLogo": "https://jdwel.com/image/teams/2034.png",
     "away": "لاتسيو",
@@ -880,6 +1210,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "السبت 2025/11/22",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "كالياري",
     "homeLogo": "https://jdwel.com/image/teams/155.png",
     "away": "جنوى",
@@ -888,6 +1221,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "السبت 2025/11/22",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "أودينيزي",
     "homeLogo": "https://jdwel.com/image/teams/4574.png",
     "away": "بولونيا",
@@ -896,6 +1232,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "السبت 2025/11/22",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "فيورنتينا",
     "homeLogo": "https://jdwel.com/image/teams/ita_fiorentina_v2.png",
     "away": "يوفنتوس",
@@ -904,6 +1243,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "السبت 2025/11/22",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "نابولي",
     "homeLogo": "https://jdwel.com/image/teams/3854.png",
     "away": "أتالانتا",
@@ -912,6 +1254,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأحد 2025/11/23",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "هيلاس فيرونا",
     "homeLogo": "https://jdwel.com/image/teams/ita_hellas_verona_v2.png",
     "away": "بارما",
@@ -920,6 +1265,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الأحد 2025/11/23",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "كريمونيسي",
     "homeLogo": "https://jdwel.com/image/teams/3153.png",
     "away": "روما",
@@ -928,6 +1276,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الأحد 2025/11/23",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "لاتسيو",
     "homeLogo": "https://jdwel.com/image/teams/ita_lazio.png",
     "away": "ليتشي",
@@ -936,6 +1287,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأحد 2025/11/23",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "إنتر ميلان",
     "homeLogo": "https://jdwel.com/image/teams/2034.png",
     "away": "ميلان",
@@ -944,6 +1298,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأثنين 2025/11/24",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "تورينو",
     "homeLogo": "https://jdwel.com/image/teams/4573.png",
     "away": "كومو",
@@ -952,6 +1309,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الأثنين 2025/11/24",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "ساسولو",
     "homeLogo": "https://jdwel.com/image/teams/3886.png",
     "away": "بيزا",
@@ -960,6 +1320,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الجمعة 2025/11/28",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "كومو",
     "homeLogo": "https://jdwel.com/image/teams/2520.png",
     "away": "ساسولو",
@@ -968,6 +1331,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "السبت 2025/11/29",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "جنوى",
     "homeLogo": "https://jdwel.com/image/teams/320.png",
     "away": "هيلاس فيرونا",
@@ -976,6 +1342,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "السبت 2025/11/29",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "بارما",
     "homeLogo": "https://jdwel.com/image/teams/3335.png",
     "away": "أودينيزي",
@@ -984,6 +1353,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "السبت 2025/11/29",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "يوفنتوس",
     "homeLogo": "https://jdwel.com/image/teams/882.png",
     "away": "كالياري",
@@ -992,6 +1364,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "السبت 2025/11/29",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "ميلان",
     "homeLogo": "https://jdwel.com/image/teams/2433.png",
     "away": "لاتسيو",
@@ -1000,6 +1375,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأحد 2025/11/30",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "ليتشي",
     "homeLogo": "https://jdwel.com/image/teams/896.png",
     "away": "تورينو",
@@ -1008,6 +1386,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الأحد 2025/11/30",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "بيزا",
     "homeLogo": "https://jdwel.com/image/teams/3357.png",
     "away": "إنتر ميلان",
@@ -1016,6 +1397,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الأحد 2025/11/30",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "أتالانتا",
     "homeLogo": "https://jdwel.com/image/teams/2844.png",
     "away": "فيورنتينا",
@@ -1024,6 +1408,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأحد 2025/11/30",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "روما",
     "homeLogo": "https://jdwel.com/image/teams/2435.png",
     "away": "نابولي",
@@ -1032,6 +1419,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأثنين 2025/12/01",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "بولونيا",
     "homeLogo": "https://jdwel.com/image/teams/2845.png",
     "away": "كريمونيسي",
@@ -1040,6 +1430,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "السبت 2025/12/06",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "ساسولو",
     "homeLogo": "https://jdwel.com/image/teams/3886.png",
     "away": "فيورنتينا",
@@ -1048,6 +1441,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "السبت 2025/12/06",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "إنتر ميلان",
     "homeLogo": "https://jdwel.com/image/teams/2034.png",
     "away": "كومو",
@@ -1056,6 +1452,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "السبت 2025/12/06",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "هيلاس فيرونا",
     "homeLogo": "https://jdwel.com/image/teams/ita_hellas_verona_v2.png",
     "away": "أتالانتا",
@@ -1064,6 +1463,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأحد 2025/12/07",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "كريمونيسي",
     "homeLogo": "https://jdwel.com/image/teams/3153.png",
     "away": "ليتشي",
@@ -1072,6 +1474,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الأحد 2025/12/07",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "كالياري",
     "homeLogo": "https://jdwel.com/image/teams/155.png",
     "away": "روما",
@@ -1080,6 +1485,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الأحد 2025/12/07",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "لاتسيو",
     "homeLogo": "https://jdwel.com/image/teams/ita_lazio.png",
     "away": "بولونيا",
@@ -1088,6 +1496,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأحد 2025/12/07",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "نابولي",
     "homeLogo": "https://jdwel.com/image/teams/3854.png",
     "away": "يوفنتوس",
@@ -1096,6 +1507,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأثنين 2025/12/08",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "بيزا",
     "homeLogo": "https://jdwel.com/image/teams/3357.png",
     "away": "بارما",
@@ -1104,6 +1518,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الأثنين 2025/12/08",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "أودينيزي",
     "homeLogo": "https://jdwel.com/image/teams/4574.png",
     "away": "جنوى",
@@ -1112,6 +1529,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأثنين 2025/12/08",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "تورينو",
     "homeLogo": "https://jdwel.com/image/teams/4573.png",
     "away": "ميلان",
@@ -1120,6 +1540,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الجمعة 2025/12/12",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "ليتشي",
     "homeLogo": "https://jdwel.com/image/teams/896.png",
     "away": "بيزا",
@@ -1128,6 +1551,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "السبت 2025/12/13",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "تورينو",
     "homeLogo": "https://jdwel.com/image/teams/4573.png",
     "away": "كريمونيسي",
@@ -1136,6 +1562,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "السبت 2025/12/13",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "بارما",
     "homeLogo": "https://jdwel.com/image/teams/3335.png",
     "away": "لاتسيو",
@@ -1144,6 +1573,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "السبت 2025/12/13",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "أتالانتا",
     "homeLogo": "https://jdwel.com/image/teams/2844.png",
     "away": "كالياري",
@@ -1152,6 +1584,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأحد 2025/12/14",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "ميلان",
     "homeLogo": "https://jdwel.com/image/teams/2433.png",
     "away": "ساسولو",
@@ -1160,6 +1595,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الأحد 2025/12/14",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "فيورنتينا",
     "homeLogo": "https://jdwel.com/image/teams/ita_fiorentina_v2.png",
     "away": "هيلاس فيرونا",
@@ -1168,6 +1606,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الأحد 2025/12/14",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "أودينيزي",
     "homeLogo": "https://jdwel.com/image/teams/4574.png",
     "away": "نابولي",
@@ -1176,6 +1617,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الأحد 2025/12/14",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "جنوى",
     "homeLogo": "https://jdwel.com/image/teams/320.png",
     "away": "إنتر ميلان",
@@ -1184,6 +1628,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأحد 2025/12/14",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "بولونيا",
     "homeLogo": "https://jdwel.com/image/teams/2845.png",
     "away": "يوفنتوس",
@@ -1192,6 +1639,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأثنين 2025/12/15",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "روما",
     "homeLogo": "https://jdwel.com/image/teams/2435.png",
     "away": "كومو",
@@ -1200,6 +1650,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "السبت 2025/12/20",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "لاتسيو",
     "homeLogo": "https://jdwel.com/image/teams/ita_lazio.png",
     "away": "كريمونيسي",
@@ -1208,6 +1661,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "السبت 2025/12/20",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "يوفنتوس",
     "homeLogo": "https://jdwel.com/image/teams/882.png",
     "away": "روما",
@@ -1216,6 +1672,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأحد 2025/12/21",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "كالياري",
     "homeLogo": "https://jdwel.com/image/teams/155.png",
     "away": "بيزا",
@@ -1224,6 +1683,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الأحد 2025/12/21",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "ساسولو",
     "homeLogo": "https://jdwel.com/image/teams/3886.png",
     "away": "تورينو",
@@ -1232,6 +1694,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الأحد 2025/12/21",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "فيورنتينا",
     "homeLogo": "https://jdwel.com/image/teams/ita_fiorentina_v2.png",
     "away": "أودينيزي",
@@ -1240,6 +1705,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأحد 2025/12/21",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "جنوى",
     "homeLogo": "https://jdwel.com/image/teams/320.png",
     "away": "أتالانتا",
@@ -1248,6 +1716,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "السبت 2025/12/27",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "بارما",
     "homeLogo": "https://jdwel.com/image/teams/3335.png",
     "away": "فيورنتينا",
@@ -1256,6 +1727,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "السبت 2025/12/27",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "ليتشي",
     "homeLogo": "https://jdwel.com/image/teams/896.png",
     "away": "كومو",
@@ -1264,6 +1738,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "السبت 2025/12/27",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "تورينو",
     "homeLogo": "https://jdwel.com/image/teams/4573.png",
     "away": "كالياري",
@@ -1272,6 +1749,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "السبت 2025/12/27",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "أودينيزي",
     "homeLogo": "https://jdwel.com/image/teams/4574.png",
     "away": "لاتسيو",
@@ -1280,6 +1760,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "السبت 2025/12/27",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "بيزا",
     "homeLogo": "https://jdwel.com/image/teams/3357.png",
     "away": "يوفنتوس",
@@ -1288,6 +1771,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأحد 2025/12/28",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "ميلان",
     "homeLogo": "https://jdwel.com/image/teams/2433.png",
     "away": "هيلاس فيرونا",
@@ -1296,6 +1782,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الأحد 2025/12/28",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "كريمونيسي",
     "homeLogo": "https://jdwel.com/image/teams/3153.png",
     "away": "نابولي",
@@ -1304,6 +1793,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الأحد 2025/12/28",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "بولونيا",
     "homeLogo": "https://jdwel.com/image/teams/2845.png",
     "away": "ساسولو",
@@ -1312,6 +1804,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأحد 2025/12/28",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "أتالانتا",
     "homeLogo": "https://jdwel.com/image/teams/2844.png",
     "away": "إنتر ميلان",
@@ -1320,6 +1815,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأثنين 2025/12/29",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "روما",
     "homeLogo": "https://jdwel.com/image/teams/2435.png",
     "away": "جنوى",
@@ -1328,6 +1826,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الجمعة 2026/01/02",
+    "round": "الجولة 18",
+    "status": "انتهت",
     "home": "كالياري",
     "homeLogo": "https://jdwel.com/image/teams/155.png",
     "away": "ميلان",
@@ -1336,6 +1837,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "السبت 2026/01/03",
+    "round": "الجولة 18",
+    "status": "انتهت",
     "home": "كومو",
     "homeLogo": "https://jdwel.com/image/teams/2520.png",
     "away": "أودينيزي",
@@ -1344,6 +1848,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "السبت 2026/01/03",
+    "round": "الجولة 18",
+    "status": "انتهت",
     "home": "جنوى",
     "homeLogo": "https://jdwel.com/image/teams/320.png",
     "away": "بيزا",
@@ -1352,6 +1859,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "السبت 2026/01/03",
+    "round": "الجولة 18",
+    "status": "انتهت",
     "home": "ساسولو",
     "homeLogo": "https://jdwel.com/image/teams/3886.png",
     "away": "بارما",
@@ -1360,6 +1870,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "السبت 2026/01/03",
+    "round": "الجولة 18",
+    "status": "انتهت",
     "home": "يوفنتوس",
     "homeLogo": "https://jdwel.com/image/teams/882.png",
     "away": "ليتشي",
@@ -1368,6 +1881,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "السبت 2026/01/03",
+    "round": "الجولة 18",
+    "status": "انتهت",
     "home": "أتالانتا",
     "homeLogo": "https://jdwel.com/image/teams/2844.png",
     "away": "روما",
@@ -1376,6 +1892,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأحد 2026/01/04",
+    "round": "الجولة 18",
+    "status": "انتهت",
     "home": "لاتسيو",
     "homeLogo": "https://jdwel.com/image/teams/ita_lazio.png",
     "away": "نابولي",
@@ -1384,6 +1903,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الأحد 2026/01/04",
+    "round": "الجولة 18",
+    "status": "انتهت",
     "home": "فيورنتينا",
     "homeLogo": "https://jdwel.com/image/teams/ita_fiorentina_v2.png",
     "away": "كريمونيسي",
@@ -1392,6 +1914,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الأحد 2026/01/04",
+    "round": "الجولة 18",
+    "status": "انتهت",
     "home": "هيلاس فيرونا",
     "homeLogo": "https://jdwel.com/image/teams/ita_hellas_verona_v2.png",
     "away": "تورينو",
@@ -1400,6 +1925,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأحد 2026/01/04",
+    "round": "الجولة 18",
+    "status": "انتهت",
     "home": "إنتر ميلان",
     "homeLogo": "https://jdwel.com/image/teams/2034.png",
     "away": "بولونيا",
@@ -1408,6 +1936,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الثلاثاء 2026/01/06",
+    "round": "الجولة 19",
+    "status": "انتهت",
     "home": "بيزا",
     "homeLogo": "https://jdwel.com/image/teams/3357.png",
     "away": "كومو",
@@ -1416,6 +1947,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الثلاثاء 2026/01/06",
+    "round": "الجولة 19",
+    "status": "انتهت",
     "home": "ليتشي",
     "homeLogo": "https://jdwel.com/image/teams/896.png",
     "away": "روما",
@@ -1424,6 +1958,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الثلاثاء 2026/01/06",
+    "round": "الجولة 19",
+    "status": "انتهت",
     "home": "ساسولو",
     "homeLogo": "https://jdwel.com/image/teams/3886.png",
     "away": "يوفنتوس",
@@ -1432,6 +1969,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأربعاء 2026/01/07",
+    "round": "الجولة 19",
+    "status": "انتهت",
     "home": "بولونيا",
     "homeLogo": "https://jdwel.com/image/teams/2845.png",
     "away": "أتالانتا",
@@ -1440,6 +1980,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الأربعاء 2026/01/07",
+    "round": "الجولة 19",
+    "status": "انتهت",
     "home": "نابولي",
     "homeLogo": "https://jdwel.com/image/teams/3854.png",
     "away": "هيلاس فيرونا",
@@ -1448,6 +1991,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الأربعاء 2026/01/07",
+    "round": "الجولة 19",
+    "status": "انتهت",
     "home": "لاتسيو",
     "homeLogo": "https://jdwel.com/image/teams/ita_lazio.png",
     "away": "فيورنتينا",
@@ -1456,6 +2002,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأربعاء 2026/01/07",
+    "round": "الجولة 19",
+    "status": "انتهت",
     "home": "بارما",
     "homeLogo": "https://jdwel.com/image/teams/3335.png",
     "away": "إنتر ميلان",
@@ -1464,6 +2013,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأربعاء 2026/01/07",
+    "round": "الجولة 19",
+    "status": "انتهت",
     "home": "تورينو",
     "homeLogo": "https://jdwel.com/image/teams/4573.png",
     "away": "أودينيزي",
@@ -1472,6 +2024,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الخميس 2026/01/08",
+    "round": "الجولة 19",
+    "status": "انتهت",
     "home": "كريمونيسي",
     "homeLogo": "https://jdwel.com/image/teams/3153.png",
     "away": "كالياري",
@@ -1480,6 +2035,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الخميس 2026/01/08",
+    "round": "الجولة 19",
+    "status": "انتهت",
     "home": "ميلان",
     "homeLogo": "https://jdwel.com/image/teams/2433.png",
     "away": "جنوى",
@@ -1488,6 +2046,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "السبت 2026/01/10",
+    "round": "الجولة 20",
+    "status": "انتهت",
     "home": "كومو",
     "homeLogo": "https://jdwel.com/image/teams/2520.png",
     "away": "بولونيا",
@@ -1496,6 +2057,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "السبت 2026/01/10",
+    "round": "الجولة 20",
+    "status": "انتهت",
     "home": "أودينيزي",
     "homeLogo": "https://jdwel.com/image/teams/4574.png",
     "away": "بيزا",
@@ -1504,6 +2068,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "السبت 2026/01/10",
+    "round": "الجولة 20",
+    "status": "انتهت",
     "home": "روما",
     "homeLogo": "https://jdwel.com/image/teams/2435.png",
     "away": "ساسولو",
@@ -1512,6 +2079,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "السبت 2026/01/10",
+    "round": "الجولة 20",
+    "status": "انتهت",
     "home": "أتالانتا",
     "homeLogo": "https://jdwel.com/image/teams/2844.png",
     "away": "تورينو",
@@ -1520,6 +2090,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأحد 2026/01/11",
+    "round": "الجولة 20",
+    "status": "انتهت",
     "home": "ليتشي",
     "homeLogo": "https://jdwel.com/image/teams/896.png",
     "away": "بارما",
@@ -1528,6 +2101,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الأحد 2026/01/11",
+    "round": "الجولة 20",
+    "status": "انتهت",
     "home": "فيورنتينا",
     "homeLogo": "https://jdwel.com/image/teams/ita_fiorentina_v2.png",
     "away": "ميلان",
@@ -1536,6 +2112,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الأحد 2026/01/11",
+    "round": "الجولة 20",
+    "status": "انتهت",
     "home": "هيلاس فيرونا",
     "homeLogo": "https://jdwel.com/image/teams/ita_hellas_verona_v2.png",
     "away": "لاتسيو",
@@ -1544,6 +2123,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأحد 2026/01/11",
+    "round": "الجولة 20",
+    "status": "انتهت",
     "home": "إنتر ميلان",
     "homeLogo": "https://jdwel.com/image/teams/2034.png",
     "away": "نابولي",
@@ -1552,6 +2134,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأثنين 2026/01/12",
+    "round": "الجولة 20",
+    "status": "انتهت",
     "home": "جنوى",
     "homeLogo": "https://jdwel.com/image/teams/320.png",
     "away": "كالياري",
@@ -1560,6 +2145,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الأثنين 2026/01/12",
+    "round": "الجولة 20",
+    "status": "انتهت",
     "home": "يوفنتوس",
     "homeLogo": "https://jdwel.com/image/teams/882.png",
     "away": "كريمونيسي",
@@ -1568,6 +2156,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأربعاء 2026/01/14",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "نابولي",
     "homeLogo": "https://jdwel.com/image/teams/3854.png",
     "away": "بارما",
@@ -1576,6 +2167,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الأربعاء 2026/01/14",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "إنتر ميلان",
     "homeLogo": "https://jdwel.com/image/teams/2034.png",
     "away": "ليتشي",
@@ -1584,6 +2178,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الخميس 2026/01/15",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "هيلاس فيرونا",
     "homeLogo": "https://jdwel.com/image/teams/ita_hellas_verona_v2.png",
     "away": "بولونيا",
@@ -1592,6 +2189,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الخميس 2026/01/15",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "كومو",
     "homeLogo": "https://jdwel.com/image/teams/2520.png",
     "away": "ميلان",
@@ -1600,6 +2200,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الجمعة 2026/01/16",
+    "round": "الجولة 21",
+    "status": "انتهت",
     "home": "بيزا",
     "homeLogo": "https://jdwel.com/image/teams/3357.png",
     "away": "أتالانتا",
@@ -1608,6 +2211,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "السبت 2026/01/17",
+    "round": "الجولة 21",
+    "status": "انتهت",
     "home": "أودينيزي",
     "homeLogo": "https://jdwel.com/image/teams/4574.png",
     "away": "إنتر ميلان",
@@ -1616,6 +2222,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "السبت 2026/01/17",
+    "round": "الجولة 21",
+    "status": "انتهت",
     "home": "نابولي",
     "homeLogo": "https://jdwel.com/image/teams/3854.png",
     "away": "ساسولو",
@@ -1624,6 +2233,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "السبت 2026/01/17",
+    "round": "الجولة 21",
+    "status": "انتهت",
     "home": "كالياري",
     "homeLogo": "https://jdwel.com/image/teams/155.png",
     "away": "يوفنتوس",
@@ -1632,6 +2244,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأحد 2026/01/18",
+    "round": "الجولة 21",
+    "status": "انتهت",
     "home": "بارما",
     "homeLogo": "https://jdwel.com/image/teams/3335.png",
     "away": "جنوى",
@@ -1640,6 +2255,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الأحد 2026/01/18",
+    "round": "الجولة 21",
+    "status": "انتهت",
     "home": "بولونيا",
     "homeLogo": "https://jdwel.com/image/teams/2845.png",
     "away": "فيورنتينا",
@@ -1648,6 +2266,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الأحد 2026/01/18",
+    "round": "الجولة 21",
+    "status": "انتهت",
     "home": "تورينو",
     "homeLogo": "https://jdwel.com/image/teams/4573.png",
     "away": "روما",
@@ -1656,6 +2277,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأحد 2026/01/18",
+    "round": "الجولة 21",
+    "status": "انتهت",
     "home": "ميلان",
     "homeLogo": "https://jdwel.com/image/teams/2433.png",
     "away": "ليتشي",
@@ -1664,6 +2288,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأثنين 2026/01/19",
+    "round": "الجولة 21",
+    "status": "انتهت",
     "home": "كريمونيسي",
     "homeLogo": "https://jdwel.com/image/teams/3153.png",
     "away": "هيلاس فيرونا",
@@ -1672,6 +2299,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الأثنين 2026/01/19",
+    "round": "الجولة 21",
+    "status": "انتهت",
     "home": "لاتسيو",
     "homeLogo": "https://jdwel.com/image/teams/ita_lazio.png",
     "away": "كومو",
@@ -1680,6 +2310,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الجمعة 2026/01/23",
+    "round": "الجولة 22",
+    "status": "انتهت",
     "home": "إنتر ميلان",
     "homeLogo": "https://jdwel.com/image/teams/2034.png",
     "away": "بيزا",
@@ -1688,6 +2321,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "السبت 2026/01/24",
+    "round": "الجولة 22",
+    "status": "انتهت",
     "home": "كومو",
     "homeLogo": "https://jdwel.com/image/teams/2520.png",
     "away": "تورينو",
@@ -1696,6 +2332,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "السبت 2026/01/24",
+    "round": "الجولة 22",
+    "status": "انتهت",
     "home": "فيورنتينا",
     "homeLogo": "https://jdwel.com/image/teams/ita_fiorentina_v2.png",
     "away": "كالياري",
@@ -1704,6 +2343,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "السبت 2026/01/24",
+    "round": "الجولة 22",
+    "status": "انتهت",
     "home": "ليتشي",
     "homeLogo": "https://jdwel.com/image/teams/896.png",
     "away": "لاتسيو",
@@ -1712,6 +2354,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأحد 2026/01/25",
+    "round": "الجولة 22",
+    "status": "انتهت",
     "home": "ساسولو",
     "homeLogo": "https://jdwel.com/image/teams/3886.png",
     "away": "كريمونيسي",
@@ -1720,6 +2365,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الأحد 2026/01/25",
+    "round": "الجولة 22",
+    "status": "انتهت",
     "home": "أتالانتا",
     "homeLogo": "https://jdwel.com/image/teams/2844.png",
     "away": "بارما",
@@ -1728,6 +2376,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الأحد 2026/01/25",
+    "round": "الجولة 22",
+    "status": "انتهت",
     "home": "جنوى",
     "homeLogo": "https://jdwel.com/image/teams/320.png",
     "away": "بولونيا",
@@ -1736,6 +2387,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الأحد 2026/01/25",
+    "round": "الجولة 22",
+    "status": "انتهت",
     "home": "يوفنتوس",
     "homeLogo": "https://jdwel.com/image/teams/882.png",
     "away": "نابولي",
@@ -1744,6 +2398,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأحد 2026/01/25",
+    "round": "الجولة 22",
+    "status": "انتهت",
     "home": "روما",
     "homeLogo": "https://jdwel.com/image/teams/2435.png",
     "away": "ميلان",
@@ -1752,6 +2409,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأثنين 2026/01/26",
+    "round": "الجولة 22",
+    "status": "انتهت",
     "home": "هيلاس فيرونا",
     "homeLogo": "https://jdwel.com/image/teams/ita_hellas_verona_v2.png",
     "away": "أودينيزي",
@@ -1760,6 +2420,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الجمعة 2026/01/30",
+    "round": "الجولة 23",
+    "status": "انتهت",
     "home": "لاتسيو",
     "homeLogo": "https://jdwel.com/image/teams/ita_lazio.png",
     "away": "جنوى",
@@ -1768,6 +2431,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "السبت 2026/01/31",
+    "round": "الجولة 23",
+    "status": "انتهت",
     "home": "بيزا",
     "homeLogo": "https://jdwel.com/image/teams/3357.png",
     "away": "ساسولو",
@@ -1776,6 +2442,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "السبت 2026/01/31",
+    "round": "الجولة 23",
+    "status": "انتهت",
     "home": "نابولي",
     "homeLogo": "https://jdwel.com/image/teams/3854.png",
     "away": "فيورنتينا",
@@ -1784,6 +2453,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "السبت 2026/01/31",
+    "round": "الجولة 23",
+    "status": "انتهت",
     "home": "كالياري",
     "homeLogo": "https://jdwel.com/image/teams/155.png",
     "away": "هيلاس فيرونا",
@@ -1792,6 +2464,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأحد 2026/02/01",
+    "round": "الجولة 23",
+    "status": "انتهت",
     "home": "تورينو",
     "homeLogo": "https://jdwel.com/image/teams/4573.png",
     "away": "ليتشي",
@@ -1800,6 +2475,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الأحد 2026/02/01",
+    "round": "الجولة 23",
+    "status": "انتهت",
     "home": "كومو",
     "homeLogo": "https://jdwel.com/image/teams/2520.png",
     "away": "أتالانتا",
@@ -1808,6 +2486,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الأحد 2026/02/01",
+    "round": "الجولة 23",
+    "status": "انتهت",
     "home": "كريمونيسي",
     "homeLogo": "https://jdwel.com/image/teams/3153.png",
     "away": "إنتر ميلان",
@@ -1816,6 +2497,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأحد 2026/02/01",
+    "round": "الجولة 23",
+    "status": "انتهت",
     "home": "بارما",
     "homeLogo": "https://jdwel.com/image/teams/3335.png",
     "away": "يوفنتوس",
@@ -1824,6 +2508,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأثنين 2026/02/02",
+    "round": "الجولة 23",
+    "status": "قريباً",
     "home": "أودينيزي",
     "homeLogo": "https://jdwel.com/image/teams/4574.png",
     "away": "روما",
@@ -1832,6 +2519,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الثلاثاء 2026/02/03",
+    "round": "الجولة 23",
+    "status": "قريباً",
     "home": "بولونيا",
     "homeLogo": "https://jdwel.com/image/teams/2845.png",
     "away": "ميلان",
@@ -1840,6 +2530,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الجمعة 2026/02/06",
+    "round": "الجولة 24",
+    "status": "قريباً",
     "home": "هيلاس فيرونا",
     "homeLogo": "https://jdwel.com/image/teams/ita_hellas_verona_v2.png",
     "away": "بيزا",
@@ -1848,6 +2541,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "السبت 2026/02/07",
+    "round": "الجولة 24",
+    "status": "قريباً",
     "home": "جنوى",
     "homeLogo": "https://jdwel.com/image/teams/320.png",
     "away": "نابولي",
@@ -1856,6 +2552,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "السبت 2026/02/07",
+    "round": "الجولة 24",
+    "status": "قريباً",
     "home": "فيورنتينا",
     "homeLogo": "https://jdwel.com/image/teams/ita_fiorentina_v2.png",
     "away": "تورينو",
@@ -1864,6 +2563,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأحد 2026/02/08",
+    "round": "الجولة 24",
+    "status": "قريباً",
     "home": "ميلان",
     "homeLogo": "https://jdwel.com/image/teams/2433.png",
     "away": "كومو",
@@ -1872,6 +2574,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/02/08",
+    "round": "الجولة 24",
+    "status": "قريباً",
     "home": "بولونيا",
     "homeLogo": "https://jdwel.com/image/teams/2845.png",
     "away": "بارما",
@@ -1880,6 +2585,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الأحد 2026/02/08",
+    "round": "الجولة 24",
+    "status": "قريباً",
     "home": "ليتشي",
     "homeLogo": "https://jdwel.com/image/teams/896.png",
     "away": "أودينيزي",
@@ -1888,6 +2596,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الأحد 2026/02/08",
+    "round": "الجولة 24",
+    "status": "قريباً",
     "home": "ساسولو",
     "homeLogo": "https://jdwel.com/image/teams/3886.png",
     "away": "إنتر ميلان",
@@ -1896,6 +2607,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأحد 2026/02/08",
+    "round": "الجولة 24",
+    "status": "قريباً",
     "home": "يوفنتوس",
     "homeLogo": "https://jdwel.com/image/teams/882.png",
     "away": "لاتسيو",
@@ -1904,6 +2618,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأثنين 2026/02/09",
+    "round": "الجولة 24",
+    "status": "قريباً",
     "home": "أتالانتا",
     "homeLogo": "https://jdwel.com/image/teams/2844.png",
     "away": "كريمونيسي",
@@ -1912,6 +2629,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الأثنين 2026/02/09",
+    "round": "الجولة 24",
+    "status": "قريباً",
     "home": "روما",
     "homeLogo": "https://jdwel.com/image/teams/2435.png",
     "away": "كالياري",
@@ -1920,6 +2640,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الجمعة 2026/02/13",
+    "round": "الجولة 25",
+    "status": "قريباً",
     "home": "بيزا",
     "homeLogo": "https://jdwel.com/image/teams/3357.png",
     "away": "ميلان",
@@ -1928,6 +2651,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "السبت 2026/02/14",
+    "round": "الجولة 25",
+    "status": "قريباً",
     "home": "كومو",
     "homeLogo": "https://jdwel.com/image/teams/2520.png",
     "away": "فيورنتينا",
@@ -1936,6 +2662,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "السبت 2026/02/14",
+    "round": "الجولة 25",
+    "status": "قريباً",
     "home": "لاتسيو",
     "homeLogo": "https://jdwel.com/image/teams/ita_lazio.png",
     "away": "أتالانتا",
@@ -1944,6 +2673,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "السبت 2026/02/14",
+    "round": "الجولة 25",
+    "status": "قريباً",
     "home": "إنتر ميلان",
     "homeLogo": "https://jdwel.com/image/teams/2034.png",
     "away": "يوفنتوس",
@@ -1952,6 +2684,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأحد 2026/02/15",
+    "round": "الجولة 25",
+    "status": "قريباً",
     "home": "أودينيزي",
     "homeLogo": "https://jdwel.com/image/teams/4574.png",
     "away": "ساسولو",
@@ -1960,6 +2695,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الأحد 2026/02/15",
+    "round": "الجولة 25",
+    "status": "قريباً",
     "home": "كريمونيسي",
     "homeLogo": "https://jdwel.com/image/teams/3153.png",
     "away": "جنوى",
@@ -1968,6 +2706,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الأحد 2026/02/15",
+    "round": "الجولة 25",
+    "status": "قريباً",
     "home": "بارما",
     "homeLogo": "https://jdwel.com/image/teams/3335.png",
     "away": "هيلاس فيرونا",
@@ -1976,6 +2717,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الأحد 2026/02/15",
+    "round": "الجولة 25",
+    "status": "قريباً",
     "home": "تورينو",
     "homeLogo": "https://jdwel.com/image/teams/4573.png",
     "away": "بولونيا",
@@ -1984,6 +2728,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأحد 2026/02/15",
+    "round": "الجولة 25",
+    "status": "قريباً",
     "home": "نابولي",
     "homeLogo": "https://jdwel.com/image/teams/3854.png",
     "away": "روما",
@@ -1992,6 +2739,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأثنين 2026/02/16",
+    "round": "الجولة 25",
+    "status": "قريباً",
     "home": "كالياري",
     "homeLogo": "https://jdwel.com/image/teams/155.png",
     "away": "ليتشي",
@@ -2000,6 +2750,9 @@
     "time": "9:45 م"
   },
   {
+    "date": "الأحد 2026/02/22",
+    "round": "الجولة 26",
+    "status": "قريباً",
     "home": "أتالانتا",
     "homeLogo": "https://jdwel.com/image/teams/2844.png",
     "away": "نابولي",
@@ -2008,6 +2761,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/02/22",
+    "round": "الجولة 26",
+    "status": "قريباً",
     "home": "بولونيا",
     "homeLogo": "https://jdwel.com/image/teams/2845.png",
     "away": "أودينيزي",
@@ -2016,6 +2772,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/02/22",
+    "round": "الجولة 26",
+    "status": "قريباً",
     "home": "كالياري",
     "homeLogo": "https://jdwel.com/image/teams/155.png",
     "away": "لاتسيو",
@@ -2024,6 +2783,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/02/22",
+    "round": "الجولة 26",
+    "status": "قريباً",
     "home": "فيورنتينا",
     "homeLogo": "https://jdwel.com/image/teams/ita_fiorentina_v2.png",
     "away": "بيزا",
@@ -2032,6 +2794,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/02/22",
+    "round": "الجولة 26",
+    "status": "قريباً",
     "home": "جنوى",
     "homeLogo": "https://jdwel.com/image/teams/320.png",
     "away": "تورينو",
@@ -2040,6 +2805,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/02/22",
+    "round": "الجولة 26",
+    "status": "قريباً",
     "home": "يوفنتوس",
     "homeLogo": "https://jdwel.com/image/teams/882.png",
     "away": "كومو",
@@ -2048,6 +2816,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/02/22",
+    "round": "الجولة 26",
+    "status": "قريباً",
     "home": "ليتشي",
     "homeLogo": "https://jdwel.com/image/teams/896.png",
     "away": "إنتر ميلان",
@@ -2056,6 +2827,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/02/22",
+    "round": "الجولة 26",
+    "status": "قريباً",
     "home": "ميلان",
     "homeLogo": "https://jdwel.com/image/teams/2433.png",
     "away": "بارما",
@@ -2064,6 +2838,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/02/22",
+    "round": "الجولة 26",
+    "status": "قريباً",
     "home": "روما",
     "homeLogo": "https://jdwel.com/image/teams/2435.png",
     "away": "كريمونيسي",
@@ -2072,6 +2849,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/02/22",
+    "round": "الجولة 26",
+    "status": "قريباً",
     "home": "ساسولو",
     "homeLogo": "https://jdwel.com/image/teams/3886.png",
     "away": "هيلاس فيرونا",
@@ -2080,6 +2860,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/03/01",
+    "round": "الجولة 27",
+    "status": "قريباً",
     "home": "كومو",
     "homeLogo": "https://jdwel.com/image/teams/2520.png",
     "away": "ليتشي",
@@ -2088,6 +2871,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/03/01",
+    "round": "الجولة 27",
+    "status": "قريباً",
     "home": "كريمونيسي",
     "homeLogo": "https://jdwel.com/image/teams/3153.png",
     "away": "ميلان",
@@ -2096,6 +2882,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/03/01",
+    "round": "الجولة 27",
+    "status": "قريباً",
     "home": "هيلاس فيرونا",
     "homeLogo": "https://jdwel.com/image/teams/ita_hellas_verona_v2.png",
     "away": "نابولي",
@@ -2104,6 +2893,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/03/01",
+    "round": "الجولة 27",
+    "status": "قريباً",
     "home": "إنتر ميلان",
     "homeLogo": "https://jdwel.com/image/teams/2034.png",
     "away": "جنوى",
@@ -2112,6 +2904,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/03/01",
+    "round": "الجولة 27",
+    "status": "قريباً",
     "home": "بارما",
     "homeLogo": "https://jdwel.com/image/teams/3335.png",
     "away": "كالياري",
@@ -2120,6 +2915,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/03/01",
+    "round": "الجولة 27",
+    "status": "قريباً",
     "home": "بيزا",
     "homeLogo": "https://jdwel.com/image/teams/3357.png",
     "away": "بولونيا",
@@ -2128,6 +2926,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/03/01",
+    "round": "الجولة 27",
+    "status": "قريباً",
     "home": "روما",
     "homeLogo": "https://jdwel.com/image/teams/2435.png",
     "away": "يوفنتوس",
@@ -2136,6 +2937,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/03/01",
+    "round": "الجولة 27",
+    "status": "قريباً",
     "home": "ساسولو",
     "homeLogo": "https://jdwel.com/image/teams/3886.png",
     "away": "أتالانتا",
@@ -2144,6 +2948,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/03/01",
+    "round": "الجولة 27",
+    "status": "قريباً",
     "home": "تورينو",
     "homeLogo": "https://jdwel.com/image/teams/4573.png",
     "away": "لاتسيو",
@@ -2152,6 +2959,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/03/01",
+    "round": "الجولة 27",
+    "status": "قريباً",
     "home": "أودينيزي",
     "homeLogo": "https://jdwel.com/image/teams/4574.png",
     "away": "فيورنتينا",
@@ -2160,6 +2970,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/03/08",
+    "round": "الجولة 28",
+    "status": "قريباً",
     "home": "أتالانتا",
     "homeLogo": "https://jdwel.com/image/teams/2844.png",
     "away": "أودينيزي",
@@ -2168,6 +2981,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/03/08",
+    "round": "الجولة 28",
+    "status": "قريباً",
     "home": "بولونيا",
     "homeLogo": "https://jdwel.com/image/teams/2845.png",
     "away": "هيلاس فيرونا",
@@ -2176,6 +2992,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/03/08",
+    "round": "الجولة 28",
+    "status": "قريباً",
     "home": "كالياري",
     "homeLogo": "https://jdwel.com/image/teams/155.png",
     "away": "كومو",
@@ -2184,6 +3003,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/03/08",
+    "round": "الجولة 28",
+    "status": "قريباً",
     "home": "فيورنتينا",
     "homeLogo": "https://jdwel.com/image/teams/ita_fiorentina_v2.png",
     "away": "بارما",
@@ -2192,6 +3014,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/03/08",
+    "round": "الجولة 28",
+    "status": "قريباً",
     "home": "جنوى",
     "homeLogo": "https://jdwel.com/image/teams/320.png",
     "away": "روما",
@@ -2200,6 +3025,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/03/08",
+    "round": "الجولة 28",
+    "status": "قريباً",
     "home": "يوفنتوس",
     "homeLogo": "https://jdwel.com/image/teams/882.png",
     "away": "بيزا",
@@ -2208,6 +3036,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/03/08",
+    "round": "الجولة 28",
+    "status": "قريباً",
     "home": "لاتسيو",
     "homeLogo": "https://jdwel.com/image/teams/ita_lazio.png",
     "away": "ساسولو",
@@ -2216,6 +3047,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/03/08",
+    "round": "الجولة 28",
+    "status": "قريباً",
     "home": "ليتشي",
     "homeLogo": "https://jdwel.com/image/teams/896.png",
     "away": "كريمونيسي",
@@ -2224,6 +3058,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/03/08",
+    "round": "الجولة 28",
+    "status": "قريباً",
     "home": "ميلان",
     "homeLogo": "https://jdwel.com/image/teams/2433.png",
     "away": "إنتر ميلان",
@@ -2232,6 +3069,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/03/08",
+    "round": "الجولة 28",
+    "status": "قريباً",
     "home": "نابولي",
     "homeLogo": "https://jdwel.com/image/teams/3854.png",
     "away": "تورينو",
@@ -2240,6 +3080,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/03/15",
+    "round": "الجولة 29",
+    "status": "قريباً",
     "home": "كومو",
     "homeLogo": "https://jdwel.com/image/teams/2520.png",
     "away": "روما",
@@ -2248,6 +3091,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/03/15",
+    "round": "الجولة 29",
+    "status": "قريباً",
     "home": "كريمونيسي",
     "homeLogo": "https://jdwel.com/image/teams/3153.png",
     "away": "فيورنتينا",
@@ -2256,6 +3102,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/03/15",
+    "round": "الجولة 29",
+    "status": "قريباً",
     "home": "هيلاس فيرونا",
     "homeLogo": "https://jdwel.com/image/teams/ita_hellas_verona_v2.png",
     "away": "جنوى",
@@ -2264,6 +3113,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/03/15",
+    "round": "الجولة 29",
+    "status": "قريباً",
     "home": "إنتر ميلان",
     "homeLogo": "https://jdwel.com/image/teams/2034.png",
     "away": "أتالانتا",
@@ -2272,6 +3124,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/03/15",
+    "round": "الجولة 29",
+    "status": "قريباً",
     "home": "لاتسيو",
     "homeLogo": "https://jdwel.com/image/teams/ita_lazio.png",
     "away": "ميلان",
@@ -2280,6 +3135,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/03/15",
+    "round": "الجولة 29",
+    "status": "قريباً",
     "home": "نابولي",
     "homeLogo": "https://jdwel.com/image/teams/3854.png",
     "away": "ليتشي",
@@ -2288,6 +3146,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/03/15",
+    "round": "الجولة 29",
+    "status": "قريباً",
     "home": "بيزا",
     "homeLogo": "https://jdwel.com/image/teams/3357.png",
     "away": "كالياري",
@@ -2296,6 +3157,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/03/15",
+    "round": "الجولة 29",
+    "status": "قريباً",
     "home": "ساسولو",
     "homeLogo": "https://jdwel.com/image/teams/3886.png",
     "away": "بولونيا",
@@ -2304,6 +3168,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/03/15",
+    "round": "الجولة 29",
+    "status": "قريباً",
     "home": "تورينو",
     "homeLogo": "https://jdwel.com/image/teams/4573.png",
     "away": "بارما",
@@ -2312,6 +3179,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/03/15",
+    "round": "الجولة 29",
+    "status": "قريباً",
     "home": "أودينيزي",
     "homeLogo": "https://jdwel.com/image/teams/4574.png",
     "away": "يوفنتوس",
@@ -2320,6 +3190,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/03/22",
+    "round": "الجولة 30",
+    "status": "قريباً",
     "home": "أتالانتا",
     "homeLogo": "https://jdwel.com/image/teams/2844.png",
     "away": "هيلاس فيرونا",
@@ -2328,6 +3201,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/03/22",
+    "round": "الجولة 30",
+    "status": "قريباً",
     "home": "بولونيا",
     "homeLogo": "https://jdwel.com/image/teams/2845.png",
     "away": "لاتسيو",
@@ -2336,6 +3212,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/03/22",
+    "round": "الجولة 30",
+    "status": "قريباً",
     "home": "كالياري",
     "homeLogo": "https://jdwel.com/image/teams/155.png",
     "away": "نابولي",
@@ -2344,6 +3223,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/03/22",
+    "round": "الجولة 30",
+    "status": "قريباً",
     "home": "كومو",
     "homeLogo": "https://jdwel.com/image/teams/2520.png",
     "away": "بيزا",
@@ -2352,6 +3234,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/03/22",
+    "round": "الجولة 30",
+    "status": "قريباً",
     "home": "فيورنتينا",
     "homeLogo": "https://jdwel.com/image/teams/ita_fiorentina_v2.png",
     "away": "إنتر ميلان",
@@ -2360,6 +3245,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/03/22",
+    "round": "الجولة 30",
+    "status": "قريباً",
     "home": "جنوى",
     "homeLogo": "https://jdwel.com/image/teams/320.png",
     "away": "أودينيزي",
@@ -2368,6 +3256,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/03/22",
+    "round": "الجولة 30",
+    "status": "قريباً",
     "home": "يوفنتوس",
     "homeLogo": "https://jdwel.com/image/teams/882.png",
     "away": "ساسولو",
@@ -2376,6 +3267,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/03/22",
+    "round": "الجولة 30",
+    "status": "قريباً",
     "home": "ميلان",
     "homeLogo": "https://jdwel.com/image/teams/2433.png",
     "away": "تورينو",
@@ -2384,6 +3278,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/03/22",
+    "round": "الجولة 30",
+    "status": "قريباً",
     "home": "بارما",
     "homeLogo": "https://jdwel.com/image/teams/3335.png",
     "away": "كريمونيسي",
@@ -2392,6 +3289,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/03/22",
+    "round": "الجولة 30",
+    "status": "قريباً",
     "home": "روما",
     "homeLogo": "https://jdwel.com/image/teams/2435.png",
     "away": "ليتشي",
@@ -2400,6 +3300,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/04/04",
+    "round": "الجولة 31",
+    "status": "قريباً",
     "home": "كريمونيسي",
     "homeLogo": "https://jdwel.com/image/teams/3153.png",
     "away": "بولونيا",
@@ -2408,6 +3311,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/04/04",
+    "round": "الجولة 31",
+    "status": "قريباً",
     "home": "هيلاس فيرونا",
     "homeLogo": "https://jdwel.com/image/teams/ita_hellas_verona_v2.png",
     "away": "فيورنتينا",
@@ -2416,6 +3322,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/04/04",
+    "round": "الجولة 31",
+    "status": "قريباً",
     "home": "إنتر ميلان",
     "homeLogo": "https://jdwel.com/image/teams/2034.png",
     "away": "روما",
@@ -2424,6 +3333,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/04/04",
+    "round": "الجولة 31",
+    "status": "قريباً",
     "home": "يوفنتوس",
     "homeLogo": "https://jdwel.com/image/teams/882.png",
     "away": "جنوى",
@@ -2432,6 +3344,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/04/04",
+    "round": "الجولة 31",
+    "status": "قريباً",
     "home": "لاتسيو",
     "homeLogo": "https://jdwel.com/image/teams/ita_lazio.png",
     "away": "بارما",
@@ -2440,6 +3355,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/04/04",
+    "round": "الجولة 31",
+    "status": "قريباً",
     "home": "ليتشي",
     "homeLogo": "https://jdwel.com/image/teams/896.png",
     "away": "أتالانتا",
@@ -2448,6 +3366,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/04/04",
+    "round": "الجولة 31",
+    "status": "قريباً",
     "home": "نابولي",
     "homeLogo": "https://jdwel.com/image/teams/3854.png",
     "away": "ميلان",
@@ -2456,6 +3377,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/04/04",
+    "round": "الجولة 31",
+    "status": "قريباً",
     "home": "بيزا",
     "homeLogo": "https://jdwel.com/image/teams/3357.png",
     "away": "تورينو",
@@ -2464,6 +3388,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/04/04",
+    "round": "الجولة 31",
+    "status": "قريباً",
     "home": "ساسولو",
     "homeLogo": "https://jdwel.com/image/teams/3886.png",
     "away": "كالياري",
@@ -2472,6 +3399,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/04/04",
+    "round": "الجولة 31",
+    "status": "قريباً",
     "home": "أودينيزي",
     "homeLogo": "https://jdwel.com/image/teams/4574.png",
     "away": "كومو",
@@ -2480,6 +3410,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/04/12",
+    "round": "الجولة 32",
+    "status": "قريباً",
     "home": "أتالانتا",
     "homeLogo": "https://jdwel.com/image/teams/2844.png",
     "away": "يوفنتوس",
@@ -2488,6 +3421,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/04/12",
+    "round": "الجولة 32",
+    "status": "قريباً",
     "home": "بولونيا",
     "homeLogo": "https://jdwel.com/image/teams/2845.png",
     "away": "ليتشي",
@@ -2496,6 +3432,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/04/12",
+    "round": "الجولة 32",
+    "status": "قريباً",
     "home": "كالياري",
     "homeLogo": "https://jdwel.com/image/teams/155.png",
     "away": "كريمونيسي",
@@ -2504,6 +3443,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/04/12",
+    "round": "الجولة 32",
+    "status": "قريباً",
     "home": "كومو",
     "homeLogo": "https://jdwel.com/image/teams/2520.png",
     "away": "إنتر ميلان",
@@ -2512,6 +3454,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/04/12",
+    "round": "الجولة 32",
+    "status": "قريباً",
     "home": "فيورنتينا",
     "homeLogo": "https://jdwel.com/image/teams/ita_fiorentina_v2.png",
     "away": "لاتسيو",
@@ -2520,6 +3465,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/04/12",
+    "round": "الجولة 32",
+    "status": "قريباً",
     "home": "جنوى",
     "homeLogo": "https://jdwel.com/image/teams/320.png",
     "away": "ساسولو",
@@ -2528,6 +3476,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/04/12",
+    "round": "الجولة 32",
+    "status": "قريباً",
     "home": "ميلان",
     "homeLogo": "https://jdwel.com/image/teams/2433.png",
     "away": "أودينيزي",
@@ -2536,6 +3487,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/04/12",
+    "round": "الجولة 32",
+    "status": "قريباً",
     "home": "بارما",
     "homeLogo": "https://jdwel.com/image/teams/3335.png",
     "away": "نابولي",
@@ -2544,6 +3498,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/04/12",
+    "round": "الجولة 32",
+    "status": "قريباً",
     "home": "روما",
     "homeLogo": "https://jdwel.com/image/teams/2435.png",
     "away": "بيزا",
@@ -2552,6 +3509,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/04/12",
+    "round": "الجولة 32",
+    "status": "قريباً",
     "home": "تورينو",
     "homeLogo": "https://jdwel.com/image/teams/4573.png",
     "away": "هيلاس فيرونا",
@@ -2560,6 +3520,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/04/19",
+    "round": "الجولة 33",
+    "status": "قريباً",
     "home": "كريمونيسي",
     "homeLogo": "https://jdwel.com/image/teams/3153.png",
     "away": "تورينو",
@@ -2568,6 +3531,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/04/19",
+    "round": "الجولة 33",
+    "status": "قريباً",
     "home": "هيلاس فيرونا",
     "homeLogo": "https://jdwel.com/image/teams/ita_hellas_verona_v2.png",
     "away": "ميلان",
@@ -2576,6 +3542,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/04/19",
+    "round": "الجولة 33",
+    "status": "قريباً",
     "home": "إنتر ميلان",
     "homeLogo": "https://jdwel.com/image/teams/2034.png",
     "away": "كالياري",
@@ -2584,6 +3553,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/04/19",
+    "round": "الجولة 33",
+    "status": "قريباً",
     "home": "يوفنتوس",
     "homeLogo": "https://jdwel.com/image/teams/882.png",
     "away": "بولونيا",
@@ -2592,6 +3564,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/04/19",
+    "round": "الجولة 33",
+    "status": "قريباً",
     "home": "ليتشي",
     "homeLogo": "https://jdwel.com/image/teams/896.png",
     "away": "فيورنتينا",
@@ -2600,6 +3575,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/04/19",
+    "round": "الجولة 33",
+    "status": "قريباً",
     "home": "نابولي",
     "homeLogo": "https://jdwel.com/image/teams/3854.png",
     "away": "لاتسيو",
@@ -2608,6 +3586,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/04/19",
+    "round": "الجولة 33",
+    "status": "قريباً",
     "home": "بيزا",
     "homeLogo": "https://jdwel.com/image/teams/3357.png",
     "away": "جنوى",
@@ -2616,6 +3597,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/04/19",
+    "round": "الجولة 33",
+    "status": "قريباً",
     "home": "روما",
     "homeLogo": "https://jdwel.com/image/teams/2435.png",
     "away": "أتالانتا",
@@ -2624,6 +3608,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/04/19",
+    "round": "الجولة 33",
+    "status": "قريباً",
     "home": "ساسولو",
     "homeLogo": "https://jdwel.com/image/teams/3886.png",
     "away": "كومو",
@@ -2632,6 +3619,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/04/19",
+    "round": "الجولة 33",
+    "status": "قريباً",
     "home": "أودينيزي",
     "homeLogo": "https://jdwel.com/image/teams/4574.png",
     "away": "بارما",
@@ -2640,6 +3630,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/04/26",
+    "round": "الجولة 34",
+    "status": "قريباً",
     "home": "بولونيا",
     "homeLogo": "https://jdwel.com/image/teams/2845.png",
     "away": "روما",
@@ -2648,6 +3641,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2026/04/26",
+    "round": "الجولة 34",
+    "status": "قريباً",
     "home": "كالياري",
     "homeLogo": "https://jdwel.com/image/teams/155.png",
     "away": "أتالانتا",
@@ -2656,6 +3652,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2026/04/26",
+    "round": "الجولة 34",
+    "status": "قريباً",
     "home": "فيورنتينا",
     "homeLogo": "https://jdwel.com/image/teams/ita_fiorentina_v2.png",
     "away": "ساسولو",
@@ -2664,6 +3663,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2026/04/26",
+    "round": "الجولة 34",
+    "status": "قريباً",
     "home": "جنوى",
     "homeLogo": "https://jdwel.com/image/teams/320.png",
     "away": "كومو",
@@ -2672,6 +3674,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2026/04/26",
+    "round": "الجولة 34",
+    "status": "قريباً",
     "home": "هيلاس فيرونا",
     "homeLogo": "https://jdwel.com/image/teams/ita_hellas_verona_v2.png",
     "away": "ليتشي",
@@ -2680,6 +3685,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2026/04/26",
+    "round": "الجولة 34",
+    "status": "قريباً",
     "home": "لاتسيو",
     "homeLogo": "https://jdwel.com/image/teams/ita_lazio.png",
     "away": "أودينيزي",
@@ -2688,6 +3696,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2026/04/26",
+    "round": "الجولة 34",
+    "status": "قريباً",
     "home": "ميلان",
     "homeLogo": "https://jdwel.com/image/teams/2433.png",
     "away": "يوفنتوس",
@@ -2696,6 +3707,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2026/04/26",
+    "round": "الجولة 34",
+    "status": "قريباً",
     "home": "نابولي",
     "homeLogo": "https://jdwel.com/image/teams/3854.png",
     "away": "كريمونيسي",
@@ -2704,6 +3718,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2026/04/26",
+    "round": "الجولة 34",
+    "status": "قريباً",
     "home": "بارما",
     "homeLogo": "https://jdwel.com/image/teams/3335.png",
     "away": "بيزا",
@@ -2712,6 +3729,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2026/04/26",
+    "round": "الجولة 34",
+    "status": "قريباً",
     "home": "تورينو",
     "homeLogo": "https://jdwel.com/image/teams/4573.png",
     "away": "إنتر ميلان",
@@ -2720,6 +3740,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2026/05/03",
+    "round": "الجولة 35",
+    "status": "قريباً",
     "home": "أتالانتا",
     "homeLogo": "https://jdwel.com/image/teams/2844.png",
     "away": "جنوى",
@@ -2728,6 +3751,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2026/05/03",
+    "round": "الجولة 35",
+    "status": "قريباً",
     "home": "بولونيا",
     "homeLogo": "https://jdwel.com/image/teams/2845.png",
     "away": "كالياري",
@@ -2736,6 +3762,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2026/05/03",
+    "round": "الجولة 35",
+    "status": "قريباً",
     "home": "كومو",
     "homeLogo": "https://jdwel.com/image/teams/2520.png",
     "away": "نابولي",
@@ -2744,6 +3773,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2026/05/03",
+    "round": "الجولة 35",
+    "status": "قريباً",
     "home": "كريمونيسي",
     "homeLogo": "https://jdwel.com/image/teams/3153.png",
     "away": "لاتسيو",
@@ -2752,6 +3784,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2026/05/03",
+    "round": "الجولة 35",
+    "status": "قريباً",
     "home": "إنتر ميلان",
     "homeLogo": "https://jdwel.com/image/teams/2034.png",
     "away": "بارما",
@@ -2760,6 +3795,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2026/05/03",
+    "round": "الجولة 35",
+    "status": "قريباً",
     "home": "يوفنتوس",
     "homeLogo": "https://jdwel.com/image/teams/882.png",
     "away": "هيلاس فيرونا",
@@ -2768,6 +3806,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2026/05/03",
+    "round": "الجولة 35",
+    "status": "قريباً",
     "home": "بيزا",
     "homeLogo": "https://jdwel.com/image/teams/3357.png",
     "away": "ليتشي",
@@ -2776,6 +3817,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2026/05/03",
+    "round": "الجولة 35",
+    "status": "قريباً",
     "home": "روما",
     "homeLogo": "https://jdwel.com/image/teams/2435.png",
     "away": "فيورنتينا",
@@ -2784,6 +3828,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2026/05/03",
+    "round": "الجولة 35",
+    "status": "قريباً",
     "home": "ساسولو",
     "homeLogo": "https://jdwel.com/image/teams/3886.png",
     "away": "ميلان",
@@ -2792,6 +3839,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2026/05/03",
+    "round": "الجولة 35",
+    "status": "قريباً",
     "home": "أودينيزي",
     "homeLogo": "https://jdwel.com/image/teams/4574.png",
     "away": "تورينو",
@@ -2800,6 +3850,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2026/05/10",
+    "round": "الجولة 36",
+    "status": "قريباً",
     "home": "كالياري",
     "homeLogo": "https://jdwel.com/image/teams/155.png",
     "away": "أودينيزي",
@@ -2808,6 +3861,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2026/05/10",
+    "round": "الجولة 36",
+    "status": "قريباً",
     "home": "كريمونيسي",
     "homeLogo": "https://jdwel.com/image/teams/3153.png",
     "away": "بيزا",
@@ -2816,6 +3872,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2026/05/10",
+    "round": "الجولة 36",
+    "status": "قريباً",
     "home": "فيورنتينا",
     "homeLogo": "https://jdwel.com/image/teams/ita_fiorentina_v2.png",
     "away": "جنوى",
@@ -2824,6 +3883,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2026/05/10",
+    "round": "الجولة 36",
+    "status": "قريباً",
     "home": "هيلاس فيرونا",
     "homeLogo": "https://jdwel.com/image/teams/ita_hellas_verona_v2.png",
     "away": "كومو",
@@ -2832,6 +3894,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2026/05/10",
+    "round": "الجولة 36",
+    "status": "قريباً",
     "home": "لاتسيو",
     "homeLogo": "https://jdwel.com/image/teams/ita_lazio.png",
     "away": "إنتر ميلان",
@@ -2840,6 +3905,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2026/05/10",
+    "round": "الجولة 36",
+    "status": "قريباً",
     "home": "ليتشي",
     "homeLogo": "https://jdwel.com/image/teams/896.png",
     "away": "يوفنتوس",
@@ -2848,6 +3916,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2026/05/10",
+    "round": "الجولة 36",
+    "status": "قريباً",
     "home": "ميلان",
     "homeLogo": "https://jdwel.com/image/teams/2433.png",
     "away": "أتالانتا",
@@ -2856,6 +3927,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2026/05/10",
+    "round": "الجولة 36",
+    "status": "قريباً",
     "home": "نابولي",
     "homeLogo": "https://jdwel.com/image/teams/3854.png",
     "away": "بولونيا",
@@ -2864,6 +3938,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2026/05/10",
+    "round": "الجولة 36",
+    "status": "قريباً",
     "home": "بارما",
     "homeLogo": "https://jdwel.com/image/teams/3335.png",
     "away": "روما",
@@ -2872,6 +3949,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2026/05/10",
+    "round": "الجولة 36",
+    "status": "قريباً",
     "home": "تورينو",
     "homeLogo": "https://jdwel.com/image/teams/4573.png",
     "away": "ساسولو",
@@ -2880,6 +3960,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2026/05/17",
+    "round": "الجولة 37",
+    "status": "قريباً",
     "home": "أتالانتا",
     "homeLogo": "https://jdwel.com/image/teams/2844.png",
     "away": "بولونيا",
@@ -2888,6 +3971,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2026/05/17",
+    "round": "الجولة 37",
+    "status": "قريباً",
     "home": "كالياري",
     "homeLogo": "https://jdwel.com/image/teams/155.png",
     "away": "تورينو",
@@ -2896,6 +3982,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2026/05/17",
+    "round": "الجولة 37",
+    "status": "قريباً",
     "home": "كومو",
     "homeLogo": "https://jdwel.com/image/teams/2520.png",
     "away": "بارما",
@@ -2904,6 +3993,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2026/05/17",
+    "round": "الجولة 37",
+    "status": "قريباً",
     "home": "جنوى",
     "homeLogo": "https://jdwel.com/image/teams/320.png",
     "away": "ميلان",
@@ -2912,6 +4004,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2026/05/17",
+    "round": "الجولة 37",
+    "status": "قريباً",
     "home": "إنتر ميلان",
     "homeLogo": "https://jdwel.com/image/teams/2034.png",
     "away": "هيلاس فيرونا",
@@ -2920,6 +4015,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2026/05/17",
+    "round": "الجولة 37",
+    "status": "قريباً",
     "home": "يوفنتوس",
     "homeLogo": "https://jdwel.com/image/teams/882.png",
     "away": "فيورنتينا",
@@ -2928,6 +4026,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2026/05/17",
+    "round": "الجولة 37",
+    "status": "قريباً",
     "home": "بيزا",
     "homeLogo": "https://jdwel.com/image/teams/3357.png",
     "away": "نابولي",
@@ -2936,6 +4037,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2026/05/17",
+    "round": "الجولة 37",
+    "status": "قريباً",
     "home": "روما",
     "homeLogo": "https://jdwel.com/image/teams/2435.png",
     "away": "لاتسيو",
@@ -2944,6 +4048,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2026/05/17",
+    "round": "الجولة 37",
+    "status": "قريباً",
     "home": "ساسولو",
     "homeLogo": "https://jdwel.com/image/teams/3886.png",
     "away": "ليتشي",
@@ -2952,6 +4059,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2026/05/17",
+    "round": "الجولة 37",
+    "status": "قريباً",
     "home": "أودينيزي",
     "homeLogo": "https://jdwel.com/image/teams/4574.png",
     "away": "كريمونيسي",
@@ -2960,6 +4070,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2026/05/24",
+    "round": "الجولة 38",
+    "status": "قريباً",
     "home": "بولونيا",
     "homeLogo": "https://jdwel.com/image/teams/2845.png",
     "away": "إنتر ميلان",
@@ -2968,6 +4081,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2026/05/24",
+    "round": "الجولة 38",
+    "status": "قريباً",
     "home": "كريمونيسي",
     "homeLogo": "https://jdwel.com/image/teams/3153.png",
     "away": "كومو",
@@ -2976,6 +4092,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2026/05/24",
+    "round": "الجولة 38",
+    "status": "قريباً",
     "home": "فيورنتينا",
     "homeLogo": "https://jdwel.com/image/teams/ita_fiorentina_v2.png",
     "away": "أتالانتا",
@@ -2984,6 +4103,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2026/05/24",
+    "round": "الجولة 38",
+    "status": "قريباً",
     "home": "هيلاس فيرونا",
     "homeLogo": "https://jdwel.com/image/teams/ita_hellas_verona_v2.png",
     "away": "روما",
@@ -2992,6 +4114,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2026/05/24",
+    "round": "الجولة 38",
+    "status": "قريباً",
     "home": "لاتسيو",
     "homeLogo": "https://jdwel.com/image/teams/ita_lazio.png",
     "away": "بيزا",
@@ -3000,6 +4125,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2026/05/24",
+    "round": "الجولة 38",
+    "status": "قريباً",
     "home": "ليتشي",
     "homeLogo": "https://jdwel.com/image/teams/896.png",
     "away": "جنوى",
@@ -3008,6 +4136,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2026/05/24",
+    "round": "الجولة 38",
+    "status": "قريباً",
     "home": "ميلان",
     "homeLogo": "https://jdwel.com/image/teams/2433.png",
     "away": "كالياري",
@@ -3016,6 +4147,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2026/05/24",
+    "round": "الجولة 38",
+    "status": "قريباً",
     "home": "نابولي",
     "homeLogo": "https://jdwel.com/image/teams/3854.png",
     "away": "أودينيزي",
@@ -3024,6 +4158,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2026/05/24",
+    "round": "الجولة 38",
+    "status": "قريباً",
     "home": "بارما",
     "homeLogo": "https://jdwel.com/image/teams/3335.png",
     "away": "ساسولو",
@@ -3032,6 +4169,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2026/05/24",
+    "round": "الجولة 38",
+    "status": "قريباً",
     "home": "تورينو",
     "homeLogo": "https://jdwel.com/image/teams/4573.png",
     "away": "يوفنتوس",

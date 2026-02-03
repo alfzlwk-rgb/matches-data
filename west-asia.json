@@ -1,5 +1,8 @@
 [
   {
+    "date": "الأربعاء 2019/08/14",
+    "round": "",
+    "status": "انتهت",
     "home": "العراق",
     "homeLogo": "https://jdwel.com/image/teams/flag_iraq_v2.png",
     "away": "البحرين",
@@ -8,6 +11,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الأحد 2019/08/11",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "العراق",
     "homeLogo": "https://jdwel.com/image/teams/flag_iraq_v2.png",
     "away": "اليمن",
@@ -16,6 +22,9 @@
     "time": "9:30 م"
   },
   {
+    "date": "الأحد 2019/08/11",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "فلسطين",
     "homeLogo": "https://jdwel.com/image/teams/flag_palestine_v2.png",
     "away": "سوريا",
@@ -24,6 +33,9 @@
     "time": "6:30 م"
   },
   {
+    "date": "السبت 2019/08/10",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "الكويت",
     "homeLogo": "https://jdwel.com/image/teams/flag_kuwait_v2.png",
     "away": "البحرين",
@@ -32,6 +44,9 @@
     "time": "9:30 م"
   },
   {
+    "date": "السبت 2019/08/10",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "الأردن",
     "homeLogo": "https://jdwel.com/image/teams/flag_jordan_v2.png",
     "away": "السعودية",
@@ -40,6 +55,9 @@
     "time": "6:30 م"
   },
   {
+    "date": "الخميس 2019/08/08",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "سوريا",
     "homeLogo": "https://jdwel.com/image/teams/1498.png",
     "away": "العراق",
@@ -48,6 +66,9 @@
     "time": "9:30 م"
   },
   {
+    "date": "الخميس 2019/08/08",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "اليمن",
     "homeLogo": "https://jdwel.com/image/teams/37.png",
     "away": "لبنان",
@@ -56,6 +77,9 @@
     "time": "6:30 م"
   },
   {
+    "date": "الأربعاء 2019/08/07",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "الكويت",
     "homeLogo": "https://jdwel.com/image/teams/flag_kuwait_v2.png",
     "away": "الأردن",
@@ -64,6 +88,9 @@
     "time": "9:30 م"
   },
   {
+    "date": "الأربعاء 2019/08/07",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "البحرين",
     "homeLogo": "https://jdwel.com/image/teams/flag_bahrain_v2.png",
     "away": "السعودية",
@@ -72,6 +99,9 @@
     "time": "6:30 م"
   },
   {
+    "date": "الأثنين 2019/08/05",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "لبنان",
     "homeLogo": "https://jdwel.com/image/teams/flag_lebanon_v2.png",
     "away": "فلسطين",
@@ -80,6 +110,9 @@
     "time": "9:30 م"
   },
   {
+    "date": "الأثنين 2019/08/05",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "سوريا",
     "homeLogo": "https://jdwel.com/image/teams/1498.png",
     "away": "اليمن",
@@ -88,6 +121,9 @@
     "time": "6:30 م"
   },
   {
+    "date": "الأحد 2019/08/04",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "السعودية",
     "homeLogo": "https://jdwel.com/image/teams/2502.png",
     "away": "الكويت",
@@ -96,6 +132,9 @@
     "time": "9:30 م"
   },
   {
+    "date": "الأحد 2019/08/04",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "الأردن",
     "homeLogo": "https://jdwel.com/image/teams/flag_jordan_v2.png",
     "away": "البحرين",
@@ -104,6 +143,9 @@
     "time": "6:30 م"
   },
   {
+    "date": "الجمعة 2019/08/02",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "لبنان",
     "homeLogo": "https://jdwel.com/image/teams/flag_lebanon_v2.png",
     "away": "سوريا",
@@ -112,6 +154,9 @@
     "time": "9:30 م"
   },
   {
+    "date": "الجمعة 2019/08/02",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "فلسطين",
     "homeLogo": "https://jdwel.com/image/teams/flag_palestine_v2.png",
     "away": "العراق",
@@ -120,6 +165,9 @@
     "time": "6:30 م"
   },
   {
+    "date": "الثلاثاء 2019/07/30",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "اليمن",
     "homeLogo": "https://jdwel.com/image/teams/37.png",
     "away": "فلسطين",
@@ -128,6 +176,9 @@
     "time": "9:30 م"
   },
   {
+    "date": "الثلاثاء 2019/07/30",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "العراق",
     "homeLogo": "https://jdwel.com/image/teams/flag_iraq_v2.png",
     "away": "لبنان",

@@ -1,5 +1,8 @@
 [
   {
+    "date": "السبت 2026/01/24",
+    "round": "",
+    "status": "انتهت",
     "home": "الصين",
     "homeLogo": "https://jdwel.com/image/teams/62.png",
     "away": "اليابان",
@@ -8,6 +11,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الجمعة 2026/01/23",
+    "round": "",
+    "status": "انتهت",
     "home": "فيتنام",
     "homeLogo": "https://jdwel.com/image/teams/flag_vietnam_v2.png",
     "away": "كوريا الجنوبية",
@@ -16,6 +22,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الثلاثاء 2026/01/20",
+    "round": "",
+    "status": "انتهت",
     "home": "فيتنام",
     "homeLogo": "https://jdwel.com/image/teams/flag_vietnam_v2.png",
     "away": "الصين",
@@ -24,6 +33,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "الثلاثاء 2026/01/20",
+    "round": "",
+    "status": "انتهت",
     "home": "اليابان",
     "homeLogo": "https://jdwel.com/image/teams/flag_japan_v2.png",
     "away": "كوريا الجنوبية",
@@ -32,6 +44,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "السبت 2026/01/17",
+    "round": "",
+    "status": "انتهت",
     "home": "أستراليا",
     "homeLogo": "https://jdwel.com/image/teams/flag_australia_v2.png",
     "away": "كوريا الجنوبية",
@@ -40,6 +55,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "السبت 2026/01/17",
+    "round": "",
+    "status": "انتهت",
     "home": "أوزبكستان",
     "homeLogo": "https://jdwel.com/image/teams/59.png",
     "away": "الصين",
@@ -48,6 +66,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الجمعة 2026/01/16",
+    "round": "",
+    "status": "انتهت",
     "home": "فيتنام",
     "homeLogo": "https://jdwel.com/image/teams/flag_vietnam_v2.png",
     "away": "الإمارات",
@@ -56,6 +77,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "الجمعة 2026/01/16",
+    "round": "",
+    "status": "انتهت",
     "home": "اليابان",
     "homeLogo": "https://jdwel.com/image/teams/flag_japan_v2.png",
     "away": "الأردن",
@@ -64,6 +88,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الأربعاء 2026/01/14",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "العراق",
     "homeLogo": "https://jdwel.com/image/teams/flag_iraq_v2.png",
     "away": "أستراليا",
@@ -72,6 +99,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الأربعاء 2026/01/14",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "تايلاند",
     "homeLogo": "https://jdwel.com/image/teams/63.png",
     "away": "الصين",
@@ -80,6 +110,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الثلاثاء 2026/01/13",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "اليابان",
     "homeLogo": "https://jdwel.com/image/teams/flag_japan_v2.png",
     "away": "قطر",
@@ -88,6 +121,9 @@
     "time": "6:30 م"
   },
   {
+    "date": "الثلاثاء 2026/01/13",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "الإمارات",
     "homeLogo": "https://jdwel.com/image/teams/flag_uae_v2.png",
     "away": "سوريا",
@@ -96,6 +132,9 @@
     "time": "6:30 م"
   },
   {
+    "date": "الثلاثاء 2026/01/13",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "إيران",
     "homeLogo": "https://jdwel.com/image/teams/flag_iran_v2.png",
     "away": "لبنان",
@@ -104,6 +143,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الثلاثاء 2026/01/13",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "أوزبكستان",
     "homeLogo": "https://jdwel.com/image/teams/59.png",
     "away": "كوريا الجنوبية",
@@ -112,6 +154,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الأثنين 2026/01/12",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "الأردن",
     "homeLogo": "https://jdwel.com/image/teams/flag_jordan_v2.png",
     "away": "قرغيزستان",
@@ -120,6 +165,9 @@
     "time": "6:30 م"
   },
   {
+    "date": "الأثنين 2026/01/12",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "السعودية",
     "homeLogo": "https://jdwel.com/image/teams/2502.png",
     "away": "فيتنام",
@@ -128,6 +176,9 @@
     "time": "6:30 م"
   },
   {
+    "date": "الأحد 2026/01/11",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "تايلاند",
     "homeLogo": "https://jdwel.com/image/teams/63.png",
     "away": "العراق",
@@ -136,6 +187,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الأحد 2026/01/11",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "الصين",
     "homeLogo": "https://jdwel.com/image/teams/62.png",
     "away": "أستراليا",
@@ -144,6 +198,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "السبت 2026/01/10",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "سوريا",
     "homeLogo": "https://jdwel.com/image/teams/1498.png",
     "away": "قطر",
@@ -152,6 +209,9 @@
     "time": "6:30 م"
   },
   {
+    "date": "السبت 2026/01/10",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "إيران",
     "homeLogo": "https://jdwel.com/image/teams/flag_iran_v2.png",
     "away": "أوزبكستان",
@@ -160,6 +220,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "السبت 2026/01/10",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "الإمارات",
     "homeLogo": "https://jdwel.com/image/teams/flag_uae_v2.png",
     "away": "اليابان",
@@ -168,6 +231,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "السبت 2026/01/10",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "لبنان",
     "homeLogo": "https://jdwel.com/image/teams/flag_lebanon_v2.png",
     "away": "كوريا الجنوبية",
@@ -176,6 +242,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الجمعة 2026/01/09",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "الأردن",
     "homeLogo": "https://jdwel.com/image/teams/flag_jordan_v2.png",
     "away": "السعودية",
@@ -184,6 +253,9 @@
     "time": "6:30 م"
   },
   {
+    "date": "الجمعة 2026/01/09",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "قرغيزستان",
     "homeLogo": "https://jdwel.com/image/teams/67.png",
     "away": "فيتنام",
@@ -192,6 +264,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الخميس 2026/01/08",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "العراق",
     "homeLogo": "https://jdwel.com/image/teams/flag_iraq_v2.png",
     "away": "الصين",
@@ -200,6 +275,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الخميس 2026/01/08",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "أستراليا",
     "homeLogo": "https://jdwel.com/image/teams/flag_australia_v2.png",
     "away": "تايلاند",
@@ -208,6 +286,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الأربعاء 2026/01/07",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "قطر",
     "homeLogo": "https://jdwel.com/image/teams/flag_qatar_v2.png",
     "away": "الإمارات",
@@ -216,6 +297,9 @@
     "time": "6:30 م"
   },
   {
+    "date": "الأربعاء 2026/01/07",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "أوزبكستان",
     "homeLogo": "https://jdwel.com/image/teams/59.png",
     "away": "لبنان",
@@ -224,6 +308,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الأربعاء 2026/01/07",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "اليابان",
     "homeLogo": "https://jdwel.com/image/teams/flag_japan_v2.png",
     "away": "سوريا",
@@ -232,6 +319,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الأربعاء 2026/01/07",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "كوريا الجنوبية",
     "homeLogo": "https://jdwel.com/image/teams/flag_korea_republic_v2.png",
     "away": "إيران",
@@ -240,6 +330,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الثلاثاء 2026/01/06",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "السعودية",
     "homeLogo": "https://jdwel.com/image/teams/2502.png",
     "away": "قرغيزستان",
@@ -248,6 +341,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الثلاثاء 2026/01/06",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "فيتنام",
     "homeLogo": "https://jdwel.com/image/teams/flag_vietnam_v2.png",
     "away": "الأردن",

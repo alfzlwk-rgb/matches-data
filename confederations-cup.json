@@ -1,5 +1,8 @@
 [
   {
+    "date": "الأحد 2017/07/02",
+    "round": "",
+    "status": "انتهت",
     "home": "تشيلي",
     "homeLogo": "https://jdwel.com/image/teams/flag_chile.png",
     "away": "ألمانيا",
@@ -8,14 +11,9 @@
     "time": "8:00 م"
   },
   {
-    "home": "البرتغال",
-    "homeLogo": "https://jdwel.com/image/teams/2562.png",
-    "away": "المكسيك",
-    "awayLogo": "https://jdwel.com/image/teams/flag_mexico_v2.png",
-    "score": "2 - 1",
-    "time": "2:00 م"
-  },
-  {
+    "date": "الخميس 2017/06/29",
+    "round": "",
+    "status": "انتهت",
     "home": "ألمانيا",
     "homeLogo": "https://jdwel.com/image/teams/flag_germany_v2.png",
     "away": "المكسيك",
@@ -24,6 +22,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الأربعاء 2017/06/28",
+    "round": "",
+    "status": "انتهت",
     "home": "البرتغال",
     "homeLogo": "https://jdwel.com/image/teams/2562.png",
     "away": "تشيلي",
@@ -32,6 +33,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الأحد 2017/06/25",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "ألمانيا",
     "homeLogo": "https://jdwel.com/image/teams/flag_germany_v2.png",
     "away": "الكاميرون",
@@ -40,6 +44,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2017/06/25",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "تشيلي",
     "homeLogo": "https://jdwel.com/image/teams/flag_chile.png",
     "away": "أستراليا",
@@ -48,6 +55,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "السبت 2017/06/24",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "المكسيك",
     "homeLogo": "https://jdwel.com/image/teams/flag_mexico_v2.png",
     "away": "روسيا",
@@ -56,6 +66,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "السبت 2017/06/24",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "نيوزيلندا",
     "homeLogo": "https://jdwel.com/image/teams/39.png",
     "away": "البرتغال",
@@ -64,6 +77,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الخميس 2017/06/22",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "ألمانيا",
     "homeLogo": "https://jdwel.com/image/teams/flag_germany_v2.png",
     "away": "تشيلي",
@@ -72,6 +88,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الخميس 2017/06/22",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "الكاميرون",
     "homeLogo": "https://jdwel.com/image/teams/flag_cameroon_v2.png",
     "away": "أستراليا",
@@ -80,6 +99,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأربعاء 2017/06/21",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "المكسيك",
     "homeLogo": "https://jdwel.com/image/teams/flag_mexico_v2.png",
     "away": "نيوزيلندا",
@@ -88,6 +110,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الأربعاء 2017/06/21",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "روسيا",
     "homeLogo": "https://jdwel.com/image/teams/3394.png",
     "away": "البرتغال",
@@ -96,6 +121,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأثنين 2017/06/19",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "أستراليا",
     "homeLogo": "https://jdwel.com/image/teams/flag_australia_v2.png",
     "away": "ألمانيا",
@@ -104,6 +132,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2017/06/18",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "الكاميرون",
     "homeLogo": "https://jdwel.com/image/teams/flag_cameroon_v2.png",
     "away": "تشيلي",
@@ -112,6 +143,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الأحد 2017/06/18",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "البرتغال",
     "homeLogo": "https://jdwel.com/image/teams/2562.png",
     "away": "المكسيك",
@@ -120,6 +154,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "السبت 2017/06/17",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "روسيا",
     "homeLogo": "https://jdwel.com/image/teams/3394.png",
     "away": "نيوزيلندا",

@@ -1,5 +1,8 @@
 [
   {
+    "date": "الأحد 2025/08/03",
+    "round": "",
+    "status": "انتهت",
     "home": "كولومبيا",
     "homeLogo": "https://jdwel.com/image/teams/3106.png",
     "away": "البرازيل",
@@ -8,6 +11,9 @@
     "time": "12:00 ص"
   },
   {
+    "date": "السبت 2025/08/02",
+    "round": "",
+    "status": "انتهت",
     "home": "الأرجنتين",
     "homeLogo": "https://jdwel.com/image/teams/flag_argentina_v2.png",
     "away": "أوروغواي",
@@ -16,6 +22,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأربعاء 2025/07/30",
+    "round": "",
+    "status": "انتهت",
     "home": "البرازيل",
     "homeLogo": "https://jdwel.com/image/teams/flag_brazil_v2.png",
     "away": "أوروغواي",
@@ -24,6 +33,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الثلاثاء 2025/07/29",
+    "round": "",
+    "status": "انتهت",
     "home": "الأرجنتين",
     "homeLogo": "https://jdwel.com/image/teams/flag_argentina_v2.png",
     "away": "كولومبيا",
@@ -32,14 +44,9 @@
     "time": "3:00 ص"
   },
   {
-    "home": "تشيلي",
-    "homeLogo": "https://jdwel.com/image/teams/flag_chile.png",
-    "away": "باراغواي",
-    "awayLogo": "https://jdwel.com/image/teams/par_paraguay.png",
-    "score": "0 - 1",
-    "time": "12:00 ص"
-  },
-  {
+    "date": "السبت 2025/07/26",
+    "round": "",
+    "status": "انتهت",
     "home": "باراغواي",
     "homeLogo": "https://jdwel.com/image/teams/par_paraguay.png",
     "away": "فنزويلا",
@@ -48,6 +55,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "السبت 2025/07/26",
+    "round": "",
+    "status": "انتهت",
     "home": "البرازيل",
     "homeLogo": "https://jdwel.com/image/teams/flag_brazil_v2.png",
     "away": "كولومبيا",
@@ -56,6 +66,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الجمعة 2025/07/25",
+    "round": "",
+    "status": "انتهت",
     "home": "الإكوادور",
     "homeLogo": "https://jdwel.com/image/teams/flag_ecuador.png",
     "away": "الأرجنتين",
@@ -64,6 +77,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الجمعة 2025/07/25",
+    "round": "",
+    "status": "انتهت",
     "home": "تشيلي",
     "homeLogo": "https://jdwel.com/image/teams/flag_chile.png",
     "away": "أوروغواي",
@@ -72,6 +88,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأربعاء 2025/07/23",
+    "round": "",
+    "status": "انتهت",
     "home": "باراغواي",
     "homeLogo": "https://jdwel.com/image/teams/par_paraguay.png",
     "away": "البرازيل",
@@ -80,6 +99,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأربعاء 2025/07/23",
+    "round": "",
+    "status": "انتهت",
     "home": "كولومبيا",
     "homeLogo": "https://jdwel.com/image/teams/3106.png",
     "away": "بوليفيا",
@@ -88,6 +110,9 @@
     "time": "12:00 ص"
   },
   {
+    "date": "الثلاثاء 2025/07/22",
+    "round": "",
+    "status": "انتهت",
     "home": "تشيلي",
     "homeLogo": "https://jdwel.com/image/teams/flag_chile.png",
     "away": "الإكوادور",
@@ -96,6 +121,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الثلاثاء 2025/07/22",
+    "round": "",
+    "status": "انتهت",
     "home": "الأرجنتين",
     "homeLogo": "https://jdwel.com/image/teams/flag_argentina_v2.png",
     "away": "بيرو",
@@ -104,6 +132,9 @@
     "time": "12:00 ص"
   },
   {
+    "date": "الأحد 2025/07/20",
+    "round": "",
+    "status": "انتهت",
     "home": "كولومبيا",
     "homeLogo": "https://jdwel.com/image/teams/3106.png",
     "away": "باراغواي",
@@ -112,6 +143,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2025/07/20",
+    "round": "",
+    "status": "انتهت",
     "home": "فنزويلا",
     "homeLogo": "https://jdwel.com/image/teams/ven_venezuela.png",
     "away": "بوليفيا",
@@ -120,6 +154,9 @@
     "time": "12:00 ص"
   },
   {
+    "date": "السبت 2025/07/19",
+    "round": "",
+    "status": "انتهت",
     "home": "الأرجنتين",
     "homeLogo": "https://jdwel.com/image/teams/flag_argentina_v2.png",
     "away": "تشيلي",
@@ -128,6 +165,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "السبت 2025/07/19",
+    "round": "",
+    "status": "انتهت",
     "home": "أوروغواي",
     "homeLogo": "https://jdwel.com/image/teams/3107.png",
     "away": "بيرو",
@@ -136,6 +176,9 @@
     "time": "12:00 ص"
   },
   {
+    "date": "الخميس 2025/07/17",
+    "round": "",
+    "status": "انتهت",
     "home": "فنزويلا",
     "homeLogo": "https://jdwel.com/image/teams/ven_venezuela.png",
     "away": "كولومبيا",
@@ -144,6 +187,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الخميس 2025/07/17",
+    "round": "",
+    "status": "انتهت",
     "home": "بوليفيا",
     "homeLogo": "https://jdwel.com/image/teams/bol_bolivia.png",
     "away": "البرازيل",
@@ -152,6 +198,9 @@
     "time": "12:00 ص"
   },
   {
+    "date": "الأربعاء 2025/07/16",
+    "round": "",
+    "status": "انتهت",
     "home": "بيرو",
     "homeLogo": "https://jdwel.com/image/teams/202.png",
     "away": "الإكوادور",
@@ -160,6 +209,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأربعاء 2025/07/16",
+    "round": "",
+    "status": "انتهت",
     "home": "أوروغواي",
     "homeLogo": "https://jdwel.com/image/teams/3107.png",
     "away": "الأرجنتين",
@@ -168,6 +220,9 @@
     "time": "12:00 ص"
   },
   {
+    "date": "الأثنين 2025/07/14",
+    "round": "",
+    "status": "انتهت",
     "home": "البرازيل",
     "homeLogo": "https://jdwel.com/image/teams/flag_brazil_v2.png",
     "away": "فنزويلا",
@@ -176,6 +231,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأثنين 2025/07/14",
+    "round": "",
+    "status": "انتهت",
     "home": "بوليفيا",
     "homeLogo": "https://jdwel.com/image/teams/bol_bolivia.png",
     "away": "باراغواي",
@@ -184,6 +242,9 @@
     "time": "12:00 ص"
   },
   {
+    "date": "الأحد 2025/07/13",
+    "round": "",
+    "status": "انتهت",
     "home": "بيرو",
     "homeLogo": "https://jdwel.com/image/teams/202.png",
     "away": "تشيلي",
@@ -192,6 +253,9 @@
     "time": "12:00 ص"
   },
   {
+    "date": "السبت 2025/07/12",
+    "round": "",
+    "status": "انتهت",
     "home": "الإكوادور",
     "homeLogo": "https://jdwel.com/image/teams/flag_ecuador.png",
     "away": "أوروغواي",

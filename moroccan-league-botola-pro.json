@@ -1,5 +1,8 @@
 [
   {
+    "date": "الأحد 2026/02/01",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "الرجاء الرياضي",
     "homeLogo": "https://jdwel.com/image/teams/mor_raja_casablanca.png",
     "away": "نهضة الزمامرة",
@@ -8,6 +11,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأحد 2026/02/01",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "إتحاد طنجة",
     "homeLogo": "https://jdwel.com/image/teams/2438.png",
     "away": "الكوكب المراكشي",
@@ -16,6 +22,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2026/02/01",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "الفتح الرباطي",
     "homeLogo": "https://jdwel.com/image/teams/4518.png",
     "away": "الوداد الرياضي",
@@ -24,6 +33,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/02/01",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "الجيش الملكي",
     "homeLogo": "https://jdwel.com/image/teams/1183.png",
     "away": "أولمبيك الدشيرة",
@@ -32,6 +44,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/02/01",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "أولمبيك أسفي",
     "homeLogo": "https://jdwel.com/image/teams/2578.png",
     "away": "نهضة بركان",
@@ -40,6 +55,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/01/31",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "الدفاع الحسني الجديدي",
     "homeLogo": "https://jdwel.com/image/teams/mor_difaa_el_jadida.png",
     "away": "المغرب الفاسي",
@@ -48,6 +66,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "السبت 2026/01/31",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "النادي المكناسي",
     "homeLogo": "https://jdwel.com/image/teams/2241.png",
     "away": "الاتحاد الرياضي التوركي",
@@ -56,6 +77,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "السبت 2026/01/31",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "حسنية أكادير",
     "homeLogo": "https://jdwel.com/image/teams/2484.png",
     "away": "إتحاد يعقوب المنصور",
@@ -64,6 +88,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2026/01/25",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "الاتحاد الرياضي التوركي",
     "homeLogo": "https://jdwel.com/image/teams/609.png",
     "away": "الرجاء الرياضي",
@@ -72,6 +99,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأحد 2026/01/25",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "نهضة الزمامرة",
     "homeLogo": "https://jdwel.com/image/teams/2479.png",
     "away": "النادي المكناسي",
@@ -80,6 +110,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2026/01/25",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "الوداد الرياضي",
     "homeLogo": "https://jdwel.com/image/teams/3154.png",
     "away": "الجيش الملكي",
@@ -88,6 +121,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/01/25",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "الكوكب المراكشي",
     "homeLogo": "https://jdwel.com/image/teams/2244.png",
     "away": "أولمبيك أسفي",
@@ -96,6 +132,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/01/25",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "نهضة بركان",
     "homeLogo": "https://jdwel.com/image/teams/2186.png",
     "away": "حسنية أكادير",
@@ -104,6 +143,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/01/24",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "إتحاد يعقوب المنصور",
     "homeLogo": "https://jdwel.com/image/teams/2746.png",
     "away": "إتحاد طنجة",
@@ -112,6 +154,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "السبت 2026/01/24",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "المغرب الفاسي",
     "homeLogo": "https://jdwel.com/image/teams/2478.png",
     "away": "الفتح الرباطي",
@@ -120,6 +165,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "السبت 2026/01/24",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "أولمبيك الدشيرة",
     "homeLogo": "https://jdwel.com/image/teams/2247.png",
     "away": "الدفاع الحسني الجديدي",
@@ -128,6 +176,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2025/11/09",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "الجيش الملكي",
     "homeLogo": "https://jdwel.com/image/teams/1183.png",
     "away": "المغرب الفاسي",
@@ -136,6 +187,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الأحد 2025/11/09",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "إتحاد طنجة",
     "homeLogo": "https://jdwel.com/image/teams/2438.png",
     "away": "نهضة بركان",
@@ -144,6 +198,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأحد 2025/11/09",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "الدفاع الحسني الجديدي",
     "homeLogo": "https://jdwel.com/image/teams/mor_difaa_el_jadida.png",
     "away": "الفتح الرباطي",
@@ -152,6 +209,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2025/11/09",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "أولمبيك أسفي",
     "homeLogo": "https://jdwel.com/image/teams/2578.png",
     "away": "الوداد الرياضي",
@@ -160,6 +220,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "السبت 2025/11/08",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "النادي المكناسي",
     "homeLogo": "https://jdwel.com/image/teams/2241.png",
     "away": "إتحاد يعقوب المنصور",
@@ -168,6 +231,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "السبت 2025/11/08",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "الاتحاد الرياضي التوركي",
     "homeLogo": "https://jdwel.com/image/teams/609.png",
     "away": "نهضة الزمامرة",
@@ -176,6 +242,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "السبت 2025/11/08",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "حسنية أكادير",
     "homeLogo": "https://jdwel.com/image/teams/2484.png",
     "away": "أولمبيك الدشيرة",
@@ -184,6 +253,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الخميس 2025/11/06",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "الجيش الملكي",
     "homeLogo": "https://jdwel.com/image/teams/1183.png",
     "away": "الفتح الرباطي",
@@ -192,6 +264,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الأربعاء 2025/11/05",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "نهضة بركان",
     "homeLogo": "https://jdwel.com/image/teams/2186.png",
     "away": "النادي المكناسي",
@@ -200,6 +275,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأربعاء 2025/11/05",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "أولمبيك أسفي",
     "homeLogo": "https://jdwel.com/image/teams/2578.png",
     "away": "الدفاع الحسني الجديدي",
@@ -208,6 +286,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأربعاء 2025/11/05",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "حسنية أكادير",
     "homeLogo": "https://jdwel.com/image/teams/2484.png",
     "away": "الوداد الرياضي",
@@ -216,6 +297,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الثلاثاء 2025/11/04",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "الرجاء الرياضي",
     "homeLogo": "https://jdwel.com/image/teams/mor_raja_casablanca.png",
     "away": "الكوكب المراكشي",
@@ -224,6 +308,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الأحد 2025/11/02",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "الوداد الرياضي",
     "homeLogo": "https://jdwel.com/image/teams/3154.png",
     "away": "إتحاد طنجة",
@@ -232,6 +319,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الأحد 2025/11/02",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "الفتح الرباطي",
     "homeLogo": "https://jdwel.com/image/teams/4518.png",
     "away": "حسنية أكادير",
@@ -240,6 +330,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الأحد 2025/11/02",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "الدفاع الحسني الجديدي",
     "homeLogo": "https://jdwel.com/image/teams/mor_difaa_el_jadida.png",
     "away": "الجيش الملكي",
@@ -248,6 +341,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأحد 2025/11/02",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "المغرب الفاسي",
     "homeLogo": "https://jdwel.com/image/teams/2478.png",
     "away": "أولمبيك أسفي",
@@ -256,6 +352,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2025/11/02",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "نهضة بركان",
     "homeLogo": "https://jdwel.com/image/teams/2186.png",
     "away": "الرجاء الرياضي",
@@ -264,6 +363,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2025/11/01",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "إتحاد يعقوب المنصور",
     "homeLogo": "https://jdwel.com/image/teams/2746.png",
     "away": "نهضة الزمامرة",
@@ -272,6 +374,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الجمعة 2025/10/31",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "أولمبيك الدشيرة",
     "homeLogo": "https://jdwel.com/image/teams/2247.png",
     "away": "النادي المكناسي",
@@ -280,6 +385,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الجمعة 2025/10/31",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "الكوكب المراكشي",
     "homeLogo": "https://jdwel.com/image/teams/2244.png",
     "away": "الاتحاد الرياضي التوركي",
@@ -288,6 +396,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الخميس 2025/10/30",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "الفتح الرباطي",
     "homeLogo": "https://jdwel.com/image/teams/4518.png",
     "away": "أولمبيك أسفي",
@@ -296,6 +407,9 @@
     "time": "10:00 م"
   },
   {
+    "date": "الأربعاء 2025/10/29",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "الوداد الرياضي",
     "homeLogo": "https://jdwel.com/image/teams/3154.png",
     "away": "الرجاء الرياضي",
@@ -304,6 +418,9 @@
     "time": "10:00 م"
   },
   {
+    "date": "الأربعاء 2025/10/29",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "الجيش الملكي",
     "homeLogo": "https://jdwel.com/image/teams/1183.png",
     "away": "حسنية أكادير",
@@ -312,6 +429,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الأحد 2025/10/26",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "النادي المكناسي",
     "homeLogo": "https://jdwel.com/image/teams/2241.png",
     "away": "الكوكب المراكشي",
@@ -320,6 +440,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الأحد 2025/10/26",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "الاتحاد الرياضي التوركي",
     "homeLogo": "https://jdwel.com/image/teams/609.png",
     "away": "إتحاد يعقوب المنصور",
@@ -328,6 +451,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2025/10/26",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "نهضة الزمامرة",
     "homeLogo": "https://jdwel.com/image/teams/2479.png",
     "away": "نهضة بركان",
@@ -336,6 +462,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "السبت 2025/10/25",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "الرجاء الرياضي",
     "homeLogo": "https://jdwel.com/image/teams/mor_raja_casablanca.png",
     "away": "أولمبيك الدشيرة",
@@ -344,6 +473,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "السبت 2025/10/25",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "إتحاد طنجة",
     "homeLogo": "https://jdwel.com/image/teams/2438.png",
     "away": "المغرب الفاسي",
@@ -352,6 +484,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2025/10/19",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "الدفاع الحسني الجديدي",
     "homeLogo": "https://jdwel.com/image/teams/mor_difaa_el_jadida.png",
     "away": "إتحاد طنجة",
@@ -360,6 +495,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الأحد 2025/10/19",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "الكوكب المراكشي",
     "homeLogo": "https://jdwel.com/image/teams/2244.png",
     "away": "إتحاد يعقوب المنصور",
@@ -368,6 +506,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/10/18",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "المغرب الفاسي",
     "homeLogo": "https://jdwel.com/image/teams/2478.png",
     "away": "الاتحاد الرياضي التوركي",
@@ -376,6 +517,9 @@
     "time": "10:00 م"
   },
   {
+    "date": "السبت 2025/10/18",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "أولمبيك الدشيرة",
     "homeLogo": "https://jdwel.com/image/teams/2247.png",
     "away": "نهضة الزمامرة",
@@ -384,6 +528,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2025/10/05",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "أولمبيك أسفي",
     "homeLogo": "https://jdwel.com/image/teams/2578.png",
     "away": "الجيش الملكي",
@@ -392,6 +539,9 @@
     "time": "10:00 م"
   },
   {
+    "date": "الأحد 2025/10/05",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "الاتحاد الرياضي التوركي",
     "homeLogo": "https://jdwel.com/image/teams/609.png",
     "away": "نهضة بركان",
@@ -400,6 +550,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الأحد 2025/10/05",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "إتحاد يعقوب المنصور",
     "homeLogo": "https://jdwel.com/image/teams/2746.png",
     "away": "أولمبيك الدشيرة",
@@ -408,6 +561,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2025/10/05",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "حسنية أكادير",
     "homeLogo": "https://jdwel.com/image/teams/2484.png",
     "away": "الدفاع الحسني الجديدي",
@@ -416,6 +572,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/10/04",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "إتحاد طنجة",
     "homeLogo": "https://jdwel.com/image/teams/2438.png",
     "away": "الفتح الرباطي",
@@ -424,6 +583,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "السبت 2025/10/04",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "نهضة الزمامرة",
     "homeLogo": "https://jdwel.com/image/teams/2479.png",
     "away": "الكوكب المراكشي",
@@ -432,6 +594,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الجمعة 2025/10/03",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "الرجاء الرياضي",
     "homeLogo": "https://jdwel.com/image/teams/mor_raja_casablanca.png",
     "away": "المغرب الفاسي",
@@ -440,6 +605,9 @@
     "time": "10:00 م"
   },
   {
+    "date": "الجمعة 2025/10/03",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "النادي المكناسي",
     "homeLogo": "https://jdwel.com/image/teams/2241.png",
     "away": "الوداد الرياضي",
@@ -448,6 +616,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الأربعاء 2025/10/01",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "نهضة بركان",
     "homeLogo": "https://jdwel.com/image/teams/2186.png",
     "away": "إتحاد يعقوب المنصور",
@@ -456,6 +627,9 @@
     "time": "10:00 م"
   },
   {
+    "date": "الأربعاء 2025/10/01",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "الجيش الملكي",
     "homeLogo": "https://jdwel.com/image/teams/1183.png",
     "away": "إتحاد طنجة",
@@ -464,6 +638,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الأربعاء 2025/10/01",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "أولمبيك أسفي",
     "homeLogo": "https://jdwel.com/image/teams/2578.png",
     "away": "حسنية أكادير",
@@ -472,6 +649,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2025/09/28",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "المغرب الفاسي",
     "homeLogo": "https://jdwel.com/image/teams/2478.png",
     "away": "النادي المكناسي",
@@ -480,6 +660,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الأحد 2025/09/28",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "الدفاع الحسني الجديدي",
     "homeLogo": "https://jdwel.com/image/teams/mor_difaa_el_jadida.png",
     "away": "الرجاء الرياضي",
@@ -488,6 +671,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/09/27",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "الوداد الرياضي",
     "homeLogo": "https://jdwel.com/image/teams/3154.png",
     "away": "نهضة الزمامرة",
@@ -496,6 +682,9 @@
     "time": "10:00 م"
   },
   {
+    "date": "السبت 2025/09/27",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "أولمبيك الدشيرة",
     "homeLogo": "https://jdwel.com/image/teams/2247.png",
     "away": "الكوكب المراكشي",
@@ -504,6 +693,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الجمعة 2025/09/26",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "الفتح الرباطي",
     "homeLogo": "https://jdwel.com/image/teams/4518.png",
     "away": "الاتحاد الرياضي التوركي",
@@ -512,6 +704,9 @@
     "time": "10:00 م"
   },
   {
+    "date": "الأحد 2025/09/21",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "الاتحاد الرياضي التوركي",
     "homeLogo": "https://jdwel.com/image/teams/609.png",
     "away": "أولمبيك الدشيرة",
@@ -520,6 +715,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الأحد 2025/09/21",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "نهضة الزمامرة",
     "homeLogo": "https://jdwel.com/image/teams/2479.png",
     "away": "الدفاع الحسني الجديدي",
@@ -528,6 +726,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/09/20",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "النادي المكناسي",
     "homeLogo": "https://jdwel.com/image/teams/2241.png",
     "away": "الفتح الرباطي",
@@ -536,6 +737,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "السبت 2025/09/20",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "حسنية أكادير",
     "homeLogo": "https://jdwel.com/image/teams/2484.png",
     "away": "المغرب الفاسي",
@@ -544,6 +748,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الجمعة 2025/09/19",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "إتحاد يعقوب المنصور",
     "homeLogo": "https://jdwel.com/image/teams/2746.png",
     "away": "الوداد الرياضي",
@@ -552,6 +759,9 @@
     "time": "10:00 م"
   },
   {
+    "date": "الأربعاء 2025/09/17",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "الرجاء الرياضي",
     "homeLogo": "https://jdwel.com/image/teams/mor_raja_casablanca.png",
     "away": "الجيش الملكي",
@@ -560,6 +770,9 @@
     "time": "10:00 م"
   },
   {
+    "date": "الثلاثاء 2025/09/16",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "الكوكب المراكشي",
     "homeLogo": "https://jdwel.com/image/teams/2244.png",
     "away": "نهضة بركان",
@@ -568,6 +781,9 @@
     "time": "10:00 م"
   },
   {
+    "date": "الأثنين 2025/09/15",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "إتحاد طنجة",
     "homeLogo": "https://jdwel.com/image/teams/2438.png",
     "away": "أولمبيك أسفي",
@@ -576,6 +792,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأحد 2025/09/14",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "المغرب الفاسي",
     "homeLogo": "https://jdwel.com/image/teams/2478.png",
     "away": "نهضة الزمامرة",
@@ -584,6 +803,9 @@
     "time": "10:00 م"
   },
   {
+    "date": "الأحد 2025/09/14",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "الدفاع الحسني الجديدي",
     "homeLogo": "https://jdwel.com/image/teams/mor_difaa_el_jadida.png",
     "away": "النادي المكناسي",
@@ -592,6 +814,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "السبت 2025/09/13",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "الجيش الملكي",
     "homeLogo": "https://jdwel.com/image/teams/1183.png",
     "away": "إتحاد يعقوب المنصور",
@@ -600,6 +825,9 @@
     "time": "10:00 م"
   },
   {
+    "date": "السبت 2025/09/13",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "الفتح الرباطي",
     "homeLogo": "https://jdwel.com/image/teams/4518.png",
     "away": "الرجاء الرياضي",
@@ -608,6 +836,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الجمعة 2025/09/12",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "الوداد الرياضي",
     "homeLogo": "https://jdwel.com/image/teams/3154.png",
     "away": "الكوكب المراكشي",
@@ -616,6 +847,9 @@
     "time": "10:00 م"
   },
   {
+    "date": "الجمعة 2025/09/12",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "أولمبيك أسفي",
     "homeLogo": "https://jdwel.com/image/teams/2578.png",
     "away": "الاتحاد الرياضي التوركي",
@@ -624,6 +858,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الجمعة 2025/09/12",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "أولمبيك الدشيرة",
     "homeLogo": "https://jdwel.com/image/teams/2247.png",
     "away": "نهضة بركان",
@@ -632,6 +869,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الجمعة 2025/09/12",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "إتحاد طنجة",
     "homeLogo": "https://jdwel.com/image/teams/2438.png",
     "away": "حسنية أكادير",
