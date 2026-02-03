@@ -1,5 +1,8 @@
 [
   {
+    "date": "الأثنين 2025/09/15",
+    "round": "",
+    "status": "انتهت",
     "home": "الهلال",
     "homeLogo": "https://jdwel.com/image/teams/2939.png",
     "away": "إهيفو",
@@ -8,14 +11,9 @@
     "time": "3:00 م"
   },
   {
-    "home": "آرمى باتريوريتيك",
-    "homeLogo": "https://jdwel.com/image/teams/947.png",
-    "away": "كيه ام سي",
-    "awayLogo": "https://jdwel.com/image/teams/4454.png",
-    "score": "1 - 0",
-    "time": "12:00 م"
-  },
-  {
+    "date": "السبت 2025/09/13",
+    "round": "",
+    "status": "انتهت",
     "home": "إهيفو",
     "homeLogo": "https://jdwel.com/image/teams/4453.png",
     "away": "كيه ام سي",
@@ -24,6 +22,9 @@
     "time": "3:30 م"
   },
   {
+    "date": "السبت 2025/09/13",
+    "round": "",
+    "status": "انتهت",
     "home": "آرمى باتريوريتيك",
     "homeLogo": "https://jdwel.com/image/teams/947.png",
     "away": "الهلال",
@@ -32,6 +33,9 @@
     "time": "12:00 م"
   },
   {
+    "date": "الأربعاء 2025/09/10",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "الهلال",
     "homeLogo": "https://jdwel.com/image/teams/2939.png",
     "away": "كاتور",
@@ -40,6 +44,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأربعاء 2025/09/10",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "بنادر",
     "homeLogo": "https://jdwel.com/image/teams/som_banadir.png",
     "away": "الأهلي ود مدني",
@@ -48,6 +55,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأثنين 2025/09/08",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "آرمى باتريوريتيك",
     "homeLogo": "https://jdwel.com/image/teams/947.png",
     "away": "كيه ام سي",
@@ -56,6 +66,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الأثنين 2025/09/08",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "بومامورو",
     "homeLogo": "https://jdwel.com/image/teams/4456.png",
     "away": "ميلانديج",
@@ -64,6 +77,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الأثنين 2025/09/08",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "إهيفو",
     "homeLogo": "https://jdwel.com/image/teams/4453.png",
     "away": "خفر السواحل",
@@ -72,6 +88,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "الأثنين 2025/09/08",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "إثيوبيا بونا",
     "homeLogo": "https://jdwel.com/image/teams/598.png",
     "away": "كينيا بوليس",
@@ -80,6 +99,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "الأحد 2025/09/07",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "بنادر",
     "homeLogo": "https://jdwel.com/image/teams/som_banadir.png",
     "away": "كاتور",
@@ -88,6 +110,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الأحد 2025/09/07",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "الأهلي ود مدني",
     "homeLogo": "https://jdwel.com/image/teams/2986.png",
     "away": "الهلال",
@@ -96,6 +121,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "السبت 2025/09/06",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "ميلانديج",
     "homeLogo": "https://jdwel.com/image/teams/zan_mlandege.png",
     "away": "آرمى باتريوريتيك",
@@ -104,6 +132,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "السبت 2025/09/06",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "بومامورو",
     "homeLogo": "https://jdwel.com/image/teams/4456.png",
     "away": "كيه ام سي",
@@ -112,6 +143,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "الجمعة 2025/09/05",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "كينيا بوليس",
     "homeLogo": "https://jdwel.com/image/teams/939.png",
     "away": "إهيفو",
@@ -120,6 +154,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الجمعة 2025/09/05",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "إثيوبيا بونا",
     "homeLogo": "https://jdwel.com/image/teams/598.png",
     "away": "خفر السواحل",
@@ -128,6 +165,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "الخميس 2025/09/04",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "الهلال",
     "homeLogo": "https://jdwel.com/image/teams/2939.png",
     "away": "بنادر",
@@ -136,6 +176,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الخميس 2025/09/04",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "كاتور",
     "homeLogo": "https://jdwel.com/image/teams/4457.png",
     "away": "الأهلي ود مدني",
@@ -144,6 +187,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "الأربعاء 2025/09/03",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "كيه ام سي",
     "homeLogo": "https://jdwel.com/image/teams/4454.png",
     "away": "ميلانديج",
@@ -152,6 +198,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الأربعاء 2025/09/03",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "آرمى باتريوريتيك",
     "homeLogo": "https://jdwel.com/image/teams/947.png",
     "away": "بومامورو",
@@ -160,6 +209,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "الثلاثاء 2025/09/02",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "إهيفو",
     "homeLogo": "https://jdwel.com/image/teams/4453.png",
     "away": "إثيوبيا بونا",
@@ -168,6 +220,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الثلاثاء 2025/09/02",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "خفر السواحل",
     "homeLogo": "https://jdwel.com/image/teams/4455.png",
     "away": "كينيا بوليس",

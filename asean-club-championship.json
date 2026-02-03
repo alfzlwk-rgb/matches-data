@@ -1,5 +1,8 @@
 [
   {
+    "date": "الجمعة 2025/08/08",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "كاسوكا",
     "homeLogo": "https://jdwel.com/image/teams/1473.png",
     "away": "دايناميك هيرب سيبو",
@@ -8,6 +11,9 @@
     "time": "3:15 م"
   },
   {
+    "date": "السبت 2025/08/09",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "إزرا",
     "homeLogo": "https://jdwel.com/image/teams/3774.png",
     "away": "شان يونايتد",
@@ -16,6 +22,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الجمعة 2025/08/15",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "دايناميك هيرب سيبو",
     "homeLogo": "https://jdwel.com/image/teams/836.png",
     "away": "كاسوكا",
@@ -24,6 +33,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "الجمعة 2025/08/15",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "شان يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/112.png",
     "away": "إزرا",
@@ -32,6 +44,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "الأربعاء 2025/08/20",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "دايناميك هيرب سيبو",
     "homeLogo": "https://jdwel.com/image/teams/836.png",
     "away": "تامبينس روفرز",
@@ -40,6 +55,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "الأربعاء 2025/08/20",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "بوريرام يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/2090.png",
     "away": "سيلانغور",
@@ -48,6 +66,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأربعاء 2025/08/20",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "بانكوك جلاس باثوم يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/2091.png",
     "away": "كونغ آن هانوي",
@@ -56,6 +77,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الخميس 2025/08/21",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "جوهور دارول تاكزيم",
     "homeLogo": "https://jdwel.com/image/teams/1179.png",
     "away": "ليون سيتي سيلورز",
@@ -64,6 +88,9 @@
     "time": "12:30 م"
   },
   {
+    "date": "الخميس 2025/08/21",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "شان يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/112.png",
     "away": "سفاي راينج",
@@ -72,6 +99,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "الأربعاء 2025/09/24",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "بانكوك جلاس باثوم يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/2091.png",
     "away": "بوريرام يونايتد",
@@ -80,6 +110,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأربعاء 2025/09/24",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "كونغ آن هانوي",
     "homeLogo": "https://jdwel.com/image/teams/452.png",
     "away": "دايناميك هيرب سيبو",
@@ -88,6 +121,9 @@
     "time": "3:30 م"
   },
   {
+    "date": "الأربعاء 2025/09/24",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "سيلانغور",
     "homeLogo": "https://jdwel.com/image/teams/mal_selangor.png",
     "away": "تامبينس روفرز",
@@ -96,6 +132,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الخميس 2025/09/25",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "جوهور دارول تاكزيم",
     "homeLogo": "https://jdwel.com/image/teams/1179.png",
     "away": "بانكوك يونايتد",
@@ -104,6 +143,9 @@
     "time": "12:30 م"
   },
   {
+    "date": "الخميس 2025/09/25",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "نام دينه",
     "homeLogo": "https://jdwel.com/image/teams/1247.png",
     "away": "سفاي راينج",
@@ -112,6 +154,9 @@
     "time": "3:30 م"
   },
   {
+    "date": "الأربعاء 2025/12/03",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "دايناميك هيرب سيبو",
     "homeLogo": "https://jdwel.com/image/teams/836.png",
     "away": "سيلانغور",
@@ -120,6 +165,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "الأربعاء 2025/12/03",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "تامبينس روفرز",
     "homeLogo": "https://jdwel.com/image/teams/1248.png",
     "away": "بانكوك جلاس باثوم يونايتد",
@@ -128,6 +176,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الأربعاء 2025/12/03",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "بوريرام يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/2090.png",
     "away": "كونغ آن هانوي",
@@ -136,6 +187,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "الخميس 2025/12/04",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "شان يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/112.png",
     "away": "نام دينه",
@@ -144,6 +198,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الخميس 2025/12/04",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "سفاي راينج",
     "homeLogo": "https://jdwel.com/image/teams/cam_svay_rieng.png",
     "away": "جوهور دارول تاكزيم",
@@ -152,6 +209,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "الخميس 2025/12/04",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "بانكوك يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/1258.png",
     "away": "ليون سيتي سيلورز",
@@ -160,6 +220,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "الأربعاء 2025/12/17",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "ليون سيتي سيلورز",
     "homeLogo": "https://jdwel.com/image/teams/sin_lion_city_sailors.png",
     "away": "شان يونايتد",
@@ -168,6 +231,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الأربعاء 2025/12/17",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "بانكوك يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/1258.png",
     "away": "نام دينه",
@@ -176,6 +242,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "الأربعاء 2026/01/28",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "تامبينس روفرز",
     "homeLogo": "https://jdwel.com/image/teams/1248.png",
     "away": "بوريرام يونايتد",
@@ -184,6 +253,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الأربعاء 2026/01/28",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "بانكوك جلاس باثوم يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/2091.png",
     "away": "دايناميك هيرب سيبو",
@@ -192,6 +264,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "الأربعاء 2026/01/28",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "سيلانغور",
     "homeLogo": "https://jdwel.com/image/teams/mal_selangor.png",
     "away": "كونغ آن هانوي",
@@ -200,6 +275,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الخميس 2026/01/29",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "جوهور دارول تاكزيم",
     "homeLogo": "https://jdwel.com/image/teams/1179.png",
     "away": "شان يونايتد",
@@ -208,6 +286,9 @@
     "time": "11:30 ص"
   },
   {
+    "date": "الخميس 2026/01/29",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "سفاي راينج",
     "homeLogo": "https://jdwel.com/image/teams/cam_svay_rieng.png",
     "away": "بانكوك يونايتد",
@@ -216,6 +297,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "الخميس 2026/01/29",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "نام دينه",
     "homeLogo": "https://jdwel.com/image/teams/1247.png",
     "away": "ليون سيتي سيلورز",
@@ -224,6 +308,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "الأربعاء 2026/02/04",
+    "round": "الجولة 5",
+    "status": "قريباً",
     "home": "بوريرام يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/2090.png",
     "away": "دايناميك هيرب سيبو",
@@ -232,6 +319,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "الأربعاء 2026/02/04",
+    "round": "الجولة 5",
+    "status": "قريباً",
     "home": "سيلانغور",
     "homeLogo": "https://jdwel.com/image/teams/mal_selangor.png",
     "away": "بانكوك جلاس باثوم يونايتد",
@@ -240,6 +330,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "الأربعاء 2026/02/04",
+    "round": "الجولة 5",
+    "status": "قريباً",
     "home": "كونغ آن هانوي",
     "homeLogo": "https://jdwel.com/image/teams/452.png",
     "away": "تامبينس روفرز",
@@ -248,6 +341,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "الخميس 2026/02/05",
+    "round": "الجولة 5",
+    "status": "قريباً",
     "home": "نام دينه",
     "homeLogo": "https://jdwel.com/image/teams/1247.png",
     "away": "جوهور دارول تاكزيم",
@@ -256,6 +352,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "الخميس 2026/02/05",
+    "round": "الجولة 5",
+    "status": "قريباً",
     "home": "ليون سيتي سيلورز",
     "homeLogo": "https://jdwel.com/image/teams/sin_lion_city_sailors.png",
     "away": "سفاي راينج",
@@ -264,6 +363,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "الخميس 2026/02/05",
+    "round": "الجولة 5",
+    "status": "قريباً",
     "home": "بانكوك يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/1258.png",
     "away": "شان يونايتد",

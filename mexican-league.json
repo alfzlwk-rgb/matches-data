@@ -1,5 +1,8 @@
 [
   {
+    "date": "السبت 2025/07/12",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "بويبلا",
     "homeLogo": "https://jdwel.com/image/teams/2191.png",
     "away": "أطلس",
@@ -8,6 +11,9 @@
     "time": "4:00 ص"
   },
   {
+    "date": "السبت 2025/07/12",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "خواريز",
     "homeLogo": "https://jdwel.com/image/teams/2188.png",
     "away": "كلوب أميريكا",
@@ -16,6 +22,9 @@
     "time": "6:00 ص"
   },
   {
+    "date": "السبت 2025/07/12",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "تيخوانا",
     "homeLogo": "https://jdwel.com/image/teams/mex_tijuana.png",
     "away": "كويريتارو",
@@ -24,6 +33,9 @@
     "time": "6:05 ص"
   },
   {
+    "date": "الأحد 2025/07/13",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "تولوكا",
     "homeLogo": "https://jdwel.com/image/teams/2048.png",
     "away": "نيكاكسا",
@@ -32,6 +44,9 @@
     "time": "4:00 ص"
   },
   {
+    "date": "الأحد 2025/07/13",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "سانتوس لاغونا",
     "homeLogo": "https://jdwel.com/image/teams/3730.png",
     "away": "بوماس أونام",
@@ -40,6 +55,9 @@
     "time": "4:00 ص"
   },
   {
+    "date": "الأحد 2025/07/13",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "كروز آزول",
     "homeLogo": "https://jdwel.com/image/teams/mex_cruz_azul.png",
     "away": "مازاتلان",
@@ -48,6 +66,9 @@
     "time": "6:05 ص"
   },
   {
+    "date": "الأثنين 2025/07/14",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "باتشوكا",
     "homeLogo": "https://jdwel.com/image/teams/3251.png",
     "away": "مونتيري",
@@ -56,6 +77,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأثنين 2025/07/14",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "كلوب ليون",
     "homeLogo": "https://jdwel.com/image/teams/2047.png",
     "away": "أتلتيكو سان لويس",
@@ -64,6 +88,9 @@
     "time": "4:00 ص"
   },
   {
+    "date": "الخميس 2025/07/17",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "كلوب أميريكا",
     "homeLogo": "https://jdwel.com/image/teams/1761.png",
     "away": "تيخوانا",
@@ -72,6 +99,9 @@
     "time": "4:00 ص"
   },
   {
+    "date": "الخميس 2025/07/17",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "سانتوس لاغونا",
     "homeLogo": "https://jdwel.com/image/teams/3730.png",
     "away": "تولوكا",
@@ -80,6 +110,9 @@
     "time": "6:05 ص"
   },
   {
+    "date": "السبت 2025/07/19",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "نيكاكسا",
     "homeLogo": "https://jdwel.com/image/teams/mex_necaxa.png",
     "away": "كويريتارو",
@@ -88,6 +121,9 @@
     "time": "4:00 ص"
   },
   {
+    "date": "السبت 2025/07/19",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "أتلتيكو سان لويس",
     "homeLogo": "https://jdwel.com/image/teams/2192.png",
     "away": "مونتيري",
@@ -96,6 +132,9 @@
     "time": "6:00 ص"
   },
   {
+    "date": "السبت 2025/07/19",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "مازاتلان",
     "homeLogo": "https://jdwel.com/image/teams/92.png",
     "away": "بويبلا",
@@ -104,6 +143,9 @@
     "time": "6:05 ص"
   },
   {
+    "date": "الأحد 2025/07/20",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "كلوب ليون",
     "homeLogo": "https://jdwel.com/image/teams/2047.png",
     "away": "غوادالاخارا",
@@ -112,6 +154,9 @@
     "time": "4:00 ص"
   },
   {
+    "date": "الأحد 2025/07/20",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "تايغرز أونال",
     "homeLogo": "https://jdwel.com/image/teams/2187.png",
     "away": "خواريز",
@@ -120,6 +165,9 @@
     "time": "4:00 ص"
   },
   {
+    "date": "الأحد 2025/07/20",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "أطلس",
     "homeLogo": "https://jdwel.com/image/teams/mex_atlas.png",
     "away": "كروز آزول",
@@ -128,6 +176,9 @@
     "time": "6:05 ص"
   },
   {
+    "date": "الأحد 2025/07/20",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "بوماس أونام",
     "homeLogo": "https://jdwel.com/image/teams/2049.png",
     "away": "باتشوكا",
@@ -136,6 +187,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "السبت 2025/07/26",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "بويبلا",
     "homeLogo": "https://jdwel.com/image/teams/2191.png",
     "away": "سانتوس لاغونا",
@@ -144,6 +198,9 @@
     "time": "4:00 ص"
   },
   {
+    "date": "السبت 2025/07/26",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "كويريتارو",
     "homeLogo": "https://jdwel.com/image/teams/2190.png",
     "away": "بوماس أونام",
@@ -152,6 +209,9 @@
     "time": "4:00 ص"
   },
   {
+    "date": "السبت 2025/07/26",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "تيخوانا",
     "homeLogo": "https://jdwel.com/image/teams/mex_tijuana.png",
     "away": "خواريز",
@@ -160,6 +220,9 @@
     "time": "6:00 ص"
   },
   {
+    "date": "الأحد 2025/07/27",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "باتشوكا",
     "homeLogo": "https://jdwel.com/image/teams/3251.png",
     "away": "مازاتلان",
@@ -168,6 +231,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2025/07/27",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "غوادالاخارا",
     "homeLogo": "https://jdwel.com/image/teams/2068.png",
     "away": "أتلتيكو سان لويس",
@@ -176,6 +242,9 @@
     "time": "2:05 ص"
   },
   {
+    "date": "الأحد 2025/07/27",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "تولوكا",
     "homeLogo": "https://jdwel.com/image/teams/2048.png",
     "away": "تايغرز أونال",
@@ -184,6 +253,9 @@
     "time": "4:00 ص"
   },
   {
+    "date": "الأحد 2025/07/27",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "كروز آزول",
     "homeLogo": "https://jdwel.com/image/teams/mex_cruz_azul.png",
     "away": "كلوب ليون",
@@ -192,6 +264,9 @@
     "time": "4:00 ص"
   },
   {
+    "date": "الأحد 2025/07/27",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "مونتيري",
     "homeLogo": "https://jdwel.com/image/teams/3336.png",
     "away": "أطلس",
@@ -200,6 +275,9 @@
     "time": "4:00 ص"
   },
   {
+    "date": "الأحد 2025/07/27",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "نيكاكسا",
     "homeLogo": "https://jdwel.com/image/teams/mex_necaxa.png",
     "away": "كلوب أميريكا",
@@ -208,6 +286,9 @@
     "time": "6:05 ص"
   },
   {
+    "date": "السبت 2025/08/09",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "تايغرز أونال",
     "homeLogo": "https://jdwel.com/image/teams/2187.png",
     "away": "بويبلا",
@@ -216,6 +297,9 @@
     "time": "6:00 ص"
   },
   {
+    "date": "الأحد 2025/08/10",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "كلوب أميريكا",
     "homeLogo": "https://jdwel.com/image/teams/1761.png",
     "away": "كويريتارو",
@@ -224,6 +308,9 @@
     "time": "4:00 ص"
   },
   {
+    "date": "الأحد 2025/08/10",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "مازاتلان",
     "homeLogo": "https://jdwel.com/image/teams/92.png",
     "away": "تيخوانا",
@@ -232,6 +319,9 @@
     "time": "6:00 ص"
   },
   {
+    "date": "الأحد 2025/08/10",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "أطلس",
     "homeLogo": "https://jdwel.com/image/teams/mex_atlas.png",
     "away": "باتشوكا",
@@ -240,6 +330,9 @@
     "time": "6:05 ص"
   },
   {
+    "date": "الأثنين 2025/08/11",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "بوماس أونام",
     "homeLogo": "https://jdwel.com/image/teams/2049.png",
     "away": "نيكاكسا",
@@ -248,6 +341,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأثنين 2025/08/11",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "سانتوس لاغونا",
     "homeLogo": "https://jdwel.com/image/teams/3730.png",
     "away": "غوادالاخارا",
@@ -256,6 +352,9 @@
     "time": "5:05 ص"
   },
   {
+    "date": "الثلاثاء 2025/08/12",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "كلوب ليون",
     "homeLogo": "https://jdwel.com/image/teams/2047.png",
     "away": "مونتيري",
@@ -264,6 +363,9 @@
     "time": "4:00 ص"
   },
   {
+    "date": "الثلاثاء 2025/08/12",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "خواريز",
     "homeLogo": "https://jdwel.com/image/teams/2188.png",
     "away": "تولوكا",
@@ -272,6 +374,9 @@
     "time": "6:00 ص"
   },
   {
+    "date": "الثلاثاء 2025/08/12",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "أتلتيكو سان لويس",
     "homeLogo": "https://jdwel.com/image/teams/2192.png",
     "away": "كروز آزول",
@@ -280,6 +385,9 @@
     "time": "6:05 ص"
   },
   {
+    "date": "السبت 2025/08/16",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "بويبلا",
     "homeLogo": "https://jdwel.com/image/teams/2191.png",
     "away": "أتلتيكو سان لويس",
@@ -288,6 +396,9 @@
     "time": "4:00 ص"
   },
   {
+    "date": "السبت 2025/08/16",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "نيكاكسا",
     "homeLogo": "https://jdwel.com/image/teams/mex_necaxa.png",
     "away": "كلوب ليون",
@@ -296,6 +407,9 @@
     "time": "6:05 ص"
   },
   {
+    "date": "الأحد 2025/08/17",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "غوادالاخارا",
     "homeLogo": "https://jdwel.com/image/teams/2068.png",
     "away": "خواريز",
@@ -304,6 +418,9 @@
     "time": "2:05 ص"
   },
   {
+    "date": "الأحد 2025/08/17",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "باتشوكا",
     "homeLogo": "https://jdwel.com/image/teams/3251.png",
     "away": "تيخوانا",
@@ -312,6 +429,9 @@
     "time": "4:00 ص"
   },
   {
+    "date": "الأحد 2025/08/17",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "تايغرز أونال",
     "homeLogo": "https://jdwel.com/image/teams/2187.png",
     "away": "كلوب أميريكا",
@@ -320,6 +440,9 @@
     "time": "4:00 ص"
   },
   {
+    "date": "الأحد 2025/08/17",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "كروز آزول",
     "homeLogo": "https://jdwel.com/image/teams/mex_cruz_azul.png",
     "away": "سانتوس لاغونا",
@@ -328,6 +451,9 @@
     "time": "4:00 ص"
   },
   {
+    "date": "الأحد 2025/08/17",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "تولوكا",
     "homeLogo": "https://jdwel.com/image/teams/2048.png",
     "away": "بوماس أونام",
@@ -336,6 +462,9 @@
     "time": "6:10 ص"
   },
   {
+    "date": "الأثنين 2025/08/18",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "كويريتارو",
     "homeLogo": "https://jdwel.com/image/teams/2190.png",
     "away": "أطلس",
@@ -344,6 +473,9 @@
     "time": "1:00 ص"
   },
   {
+    "date": "الأثنين 2025/08/18",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "مونتيري",
     "homeLogo": "https://jdwel.com/image/teams/3336.png",
     "away": "مازاتلان",
@@ -352,6 +484,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "السبت 2025/08/23",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "خواريز",
     "homeLogo": "https://jdwel.com/image/teams/2188.png",
     "away": "سانتوس لاغونا",
@@ -360,6 +495,9 @@
     "time": "4:00 ص"
   },
   {
+    "date": "السبت 2025/08/23",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "كويريتارو",
     "homeLogo": "https://jdwel.com/image/teams/2190.png",
     "away": "أتلتيكو سان لويس",
@@ -368,6 +506,9 @@
     "time": "4:00 ص"
   },
   {
+    "date": "السبت 2025/08/23",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "تيخوانا",
     "homeLogo": "https://jdwel.com/image/teams/mex_tijuana.png",
     "away": "غوادالاخارا",
@@ -376,6 +517,9 @@
     "time": "6:00 ص"
   },
   {
+    "date": "الأحد 2025/08/24",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "كلوب ليون",
     "homeLogo": "https://jdwel.com/image/teams/2047.png",
     "away": "باتشوكا",
@@ -384,6 +528,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2025/08/24",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "مازاتلان",
     "homeLogo": "https://jdwel.com/image/teams/92.png",
     "away": "تايغرز أونال",
@@ -392,6 +539,9 @@
     "time": "4:00 ص"
   },
   {
+    "date": "الأحد 2025/08/24",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "مونتيري",
     "homeLogo": "https://jdwel.com/image/teams/3336.png",
     "away": "نيكاكسا",
@@ -400,6 +550,9 @@
     "time": "4:00 ص"
   },
   {
+    "date": "الأحد 2025/08/24",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "كروز آزول",
     "homeLogo": "https://jdwel.com/image/teams/mex_cruz_azul.png",
     "away": "تولوكا",
@@ -408,6 +561,9 @@
     "time": "6:05 ص"
   },
   {
+    "date": "الأثنين 2025/08/25",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "بوماس أونام",
     "homeLogo": "https://jdwel.com/image/teams/2049.png",
     "away": "بويبلا",
@@ -416,6 +572,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأثنين 2025/08/25",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "أطلس",
     "homeLogo": "https://jdwel.com/image/teams/mex_atlas.png",
     "away": "كلوب أميريكا",
@@ -424,6 +583,9 @@
     "time": "4:05 ص"
   },
   {
+    "date": "السبت 2025/08/30",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "أتلتيكو سان لويس",
     "homeLogo": "https://jdwel.com/image/teams/2192.png",
     "away": "تولوكا",
@@ -432,6 +594,9 @@
     "time": "4:00 ص"
   },
   {
+    "date": "السبت 2025/08/30",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "خواريز",
     "homeLogo": "https://jdwel.com/image/teams/2188.png",
     "away": "مازاتلان",
@@ -440,6 +605,9 @@
     "time": "4:00 ص"
   },
   {
+    "date": "السبت 2025/08/30",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "بويبلا",
     "homeLogo": "https://jdwel.com/image/teams/2191.png",
     "away": "مونتيري",
@@ -448,6 +616,9 @@
     "time": "6:05 ص"
   },
   {
+    "date": "الأحد 2025/08/31",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "كلوب ليون",
     "homeLogo": "https://jdwel.com/image/teams/2047.png",
     "away": "كويريتارو",
@@ -456,6 +627,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2025/08/31",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "سانتوس لاغونا",
     "homeLogo": "https://jdwel.com/image/teams/3730.png",
     "away": "تايغرز أونال",
@@ -464,6 +638,9 @@
     "time": "4:00 ص"
   },
   {
+    "date": "الأحد 2025/08/31",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "غوادالاخارا",
     "homeLogo": "https://jdwel.com/image/teams/2068.png",
     "away": "كروز آزول",
@@ -472,6 +649,9 @@
     "time": "4:05 ص"
   },
   {
+    "date": "الأحد 2025/08/31",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "كلوب أميريكا",
     "homeLogo": "https://jdwel.com/image/teams/1761.png",
     "away": "باتشوكا",
@@ -480,6 +660,9 @@
     "time": "6:05 ص"
   },
   {
+    "date": "الأثنين 2025/09/01",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "بوماس أونام",
     "homeLogo": "https://jdwel.com/image/teams/2049.png",
     "away": "أطلس",
@@ -488,6 +671,9 @@
     "time": "1:00 ص"
   },
   {
+    "date": "الأثنين 2025/09/01",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "تيخوانا",
     "homeLogo": "https://jdwel.com/image/teams/mex_tijuana.png",
     "away": "نيكاكسا",
@@ -496,6 +682,9 @@
     "time": "6:00 ص"
   },
   {
+    "date": "السبت 2025/09/13",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "نيكاكسا",
     "homeLogo": "https://jdwel.com/image/teams/mex_necaxa.png",
     "away": "خواريز",
@@ -504,6 +693,9 @@
     "time": "4:00 ص"
   },
   {
+    "date": "السبت 2025/09/13",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "مازاتلان",
     "homeLogo": "https://jdwel.com/image/teams/92.png",
     "away": "بوماس أونام",
@@ -512,6 +704,9 @@
     "time": "6:00 ص"
   },
   {
+    "date": "الأحد 2025/09/14",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "باتشوكا",
     "homeLogo": "https://jdwel.com/image/teams/3251.png",
     "away": "كروز آزول",
@@ -520,6 +715,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2025/09/14",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "أطلس",
     "homeLogo": "https://jdwel.com/image/teams/mex_atlas.png",
     "away": "سانتوس لاغونا",
@@ -528,6 +726,9 @@
     "time": "4:00 ص"
   },
   {
+    "date": "الأحد 2025/09/14",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "تايغرز أونال",
     "homeLogo": "https://jdwel.com/image/teams/2187.png",
     "away": "كلوب ليون",
@@ -536,6 +737,9 @@
     "time": "4:00 ص"
   },
   {
+    "date": "الأحد 2025/09/14",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "تولوكا",
     "homeLogo": "https://jdwel.com/image/teams/2048.png",
     "away": "بويبلا",
@@ -544,6 +748,9 @@
     "time": "6:00 ص"
   },
   {
+    "date": "الأحد 2025/09/14",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "كلوب أميريكا",
     "homeLogo": "https://jdwel.com/image/teams/1761.png",
     "away": "غوادالاخارا",
@@ -552,6 +759,9 @@
     "time": "6:15 ص"
   },
   {
+    "date": "الأثنين 2025/09/15",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "كويريتارو",
     "homeLogo": "https://jdwel.com/image/teams/2190.png",
     "away": "مونتيري",
@@ -560,6 +770,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأثنين 2025/09/15",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "أتلتيكو سان لويس",
     "homeLogo": "https://jdwel.com/image/teams/2192.png",
     "away": "تيخوانا",
@@ -568,6 +781,9 @@
     "time": "4:00 ص"
   },
   {
+    "date": "الخميس 2025/09/18",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "غوادالاخارا",
     "homeLogo": "https://jdwel.com/image/teams/2068.png",
     "away": "تايغرز أونال",
@@ -576,6 +792,9 @@
     "time": "4:05 ص"
   },
   {
+    "date": "السبت 2025/09/20",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "نيكاكسا",
     "homeLogo": "https://jdwel.com/image/teams/mex_necaxa.png",
     "away": "بويبلا",
@@ -584,6 +803,9 @@
     "time": "4:00 ص"
   },
   {
+    "date": "السبت 2025/09/20",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "كروز آزول",
     "homeLogo": "https://jdwel.com/image/teams/mex_cruz_azul.png",
     "away": "خواريز",
@@ -592,6 +814,9 @@
     "time": "4:00 ص"
   },
   {
+    "date": "السبت 2025/09/20",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "تيخوانا",
     "homeLogo": "https://jdwel.com/image/teams/mex_tijuana.png",
     "away": "كلوب ليون",
@@ -600,6 +825,9 @@
     "time": "6:00 ص"
   },
   {
+    "date": "السبت 2025/09/20",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "مازاتلان",
     "homeLogo": "https://jdwel.com/image/teams/92.png",
     "away": "أطلس",
@@ -608,6 +836,9 @@
     "time": "6:00 ص"
   },
   {
+    "date": "الأحد 2025/09/21",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "باتشوكا",
     "homeLogo": "https://jdwel.com/image/teams/3251.png",
     "away": "كويريتارو",
@@ -616,6 +847,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2025/09/21",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "بوماس أونام",
     "homeLogo": "https://jdwel.com/image/teams/2049.png",
     "away": "تايغرز أونال",
@@ -624,6 +858,9 @@
     "time": "4:00 ص"
   },
   {
+    "date": "الأحد 2025/09/21",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "غوادالاخارا",
     "homeLogo": "https://jdwel.com/image/teams/2068.png",
     "away": "تولوكا",
@@ -632,6 +869,9 @@
     "time": "4:07 ص"
   },
   {
+    "date": "الأحد 2025/09/21",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "مونتيري",
     "homeLogo": "https://jdwel.com/image/teams/3336.png",
     "away": "كلوب أميريكا",
@@ -640,6 +880,9 @@
     "time": "6:05 ص"
   },
   {
+    "date": "الأثنين 2025/09/22",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "سانتوس لاغونا",
     "homeLogo": "https://jdwel.com/image/teams/3730.png",
     "away": "أتلتيكو سان لويس",
@@ -648,6 +891,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأربعاء 2025/09/24",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "بويبلا",
     "homeLogo": "https://jdwel.com/image/teams/2191.png",
     "away": "باتشوكا",
@@ -656,6 +902,9 @@
     "time": "4:00 ص"
   },
   {
+    "date": "الأربعاء 2025/09/24",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "غوادالاخارا",
     "homeLogo": "https://jdwel.com/image/teams/2068.png",
     "away": "نيكاكسا",
@@ -664,6 +913,9 @@
     "time": "4:07 ص"
   },
   {
+    "date": "الأربعاء 2025/09/24",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "خواريز",
     "homeLogo": "https://jdwel.com/image/teams/2188.png",
     "away": "بوماس أونام",
@@ -672,6 +924,9 @@
     "time": "6:00 ص"
   },
   {
+    "date": "الأربعاء 2025/09/24",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "كلوب ليون",
     "homeLogo": "https://jdwel.com/image/teams/2047.png",
     "away": "مازاتلان",
@@ -680,6 +935,9 @@
     "time": "6:05 ص"
   },
   {
+    "date": "الخميس 2025/09/25",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "كروز آزول",
     "homeLogo": "https://jdwel.com/image/teams/mex_cruz_azul.png",
     "away": "كويريتارو",
@@ -688,6 +946,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الخميس 2025/09/25",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "تايغرز أونال",
     "homeLogo": "https://jdwel.com/image/teams/2187.png",
     "away": "أطلس",
@@ -696,6 +957,9 @@
     "time": "4:00 ص"
   },
   {
+    "date": "الخميس 2025/09/25",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "تولوكا",
     "homeLogo": "https://jdwel.com/image/teams/2048.png",
     "away": "مونتيري",
@@ -704,6 +968,9 @@
     "time": "5:00 ص"
   },
   {
+    "date": "الخميس 2025/09/25",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "أتلتيكو سان لويس",
     "homeLogo": "https://jdwel.com/image/teams/2192.png",
     "away": "كلوب أميريكا",
@@ -712,6 +979,9 @@
     "time": "6:00 ص"
   },
   {
+    "date": "الخميس 2025/09/25",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "سانتوس لاغونا",
     "homeLogo": "https://jdwel.com/image/teams/3730.png",
     "away": "تيخوانا",
@@ -720,6 +990,9 @@
     "time": "6:00 ص"
   },
   {
+    "date": "السبت 2025/09/27",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "خواريز",
     "homeLogo": "https://jdwel.com/image/teams/2188.png",
     "away": "كلوب ليون",
@@ -728,6 +1001,9 @@
     "time": "4:00 ص"
   },
   {
+    "date": "الأحد 2025/09/28",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "بويبلا",
     "homeLogo": "https://jdwel.com/image/teams/2191.png",
     "away": "غوادالاخارا",
@@ -736,6 +1012,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2025/09/28",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "أطلس",
     "homeLogo": "https://jdwel.com/image/teams/mex_atlas.png",
     "away": "نيكاكسا",
@@ -744,6 +1023,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2025/09/28",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "باتشوكا",
     "homeLogo": "https://jdwel.com/image/teams/3251.png",
     "away": "أتلتيكو سان لويس",
@@ -752,6 +1034,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2025/09/28",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "مونتيري",
     "homeLogo": "https://jdwel.com/image/teams/3336.png",
     "away": "سانتوس لاغونا",
@@ -760,6 +1045,9 @@
     "time": "4:00 ص"
   },
   {
+    "date": "الأحد 2025/09/28",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "تولوكا",
     "homeLogo": "https://jdwel.com/image/teams/2048.png",
     "away": "مازاتلان",
@@ -768,6 +1056,9 @@
     "time": "4:00 ص"
   },
   {
+    "date": "الأحد 2025/09/28",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "كلوب أميريكا",
     "homeLogo": "https://jdwel.com/image/teams/1761.png",
     "away": "بوماس أونام",
@@ -776,6 +1067,9 @@
     "time": "6:05 ص"
   },
   {
+    "date": "الأثنين 2025/09/29",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "كويريتارو",
     "homeLogo": "https://jdwel.com/image/teams/2190.png",
     "away": "تايغرز أونال",
@@ -784,6 +1078,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأثنين 2025/09/29",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "تيخوانا",
     "homeLogo": "https://jdwel.com/image/teams/mex_tijuana.png",
     "away": "كروز آزول",
@@ -792,6 +1089,9 @@
     "time": "6:05 ص"
   },
   {
+    "date": "السبت 2025/10/04",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "نيكاكسا",
     "homeLogo": "https://jdwel.com/image/teams/mex_necaxa.png",
     "away": "باتشوكا",
@@ -800,6 +1100,9 @@
     "time": "4:00 ص"
   },
   {
+    "date": "السبت 2025/10/04",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "مازاتلان",
     "homeLogo": "https://jdwel.com/image/teams/92.png",
     "away": "أتلتيكو سان لويس",
@@ -808,6 +1111,9 @@
     "time": "6:00 ص"
   },
   {
+    "date": "السبت 2025/10/04",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "أطلس",
     "homeLogo": "https://jdwel.com/image/teams/mex_atlas.png",
     "away": "خواريز",
@@ -816,6 +1122,9 @@
     "time": "6:05 ص"
   },
   {
+    "date": "الأحد 2025/10/05",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "كويريتارو",
     "homeLogo": "https://jdwel.com/image/teams/2190.png",
     "away": "بويبلا",
@@ -824,6 +1133,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2025/10/05",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "كلوب ليون",
     "homeLogo": "https://jdwel.com/image/teams/2047.png",
     "away": "تولوكا",
@@ -832,6 +1144,9 @@
     "time": "4:00 ص"
   },
   {
+    "date": "الأحد 2025/10/05",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "تايغرز أونال",
     "homeLogo": "https://jdwel.com/image/teams/2187.png",
     "away": "كروز آزول",
@@ -840,6 +1155,9 @@
     "time": "4:00 ص"
   },
   {
+    "date": "الأحد 2025/10/05",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "كلوب أميريكا",
     "homeLogo": "https://jdwel.com/image/teams/1761.png",
     "away": "سانتوس لاغونا",
@@ -848,6 +1166,9 @@
     "time": "6:05 ص"
   },
   {
+    "date": "الأثنين 2025/10/06",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "بوماس أونام",
     "homeLogo": "https://jdwel.com/image/teams/2049.png",
     "away": "غوادالاخارا",
@@ -856,6 +1177,9 @@
     "time": "4:35 ص"
   },
   {
+    "date": "الأثنين 2025/10/06",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "تيخوانا",
     "homeLogo": "https://jdwel.com/image/teams/mex_tijuana.png",
     "away": "مونتيري",
@@ -864,6 +1188,9 @@
     "time": "6:05 ص"
   },
   {
+    "date": "السبت 2025/10/18",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "بويبلا",
     "homeLogo": "https://jdwel.com/image/teams/2191.png",
     "away": "تيخوانا",
@@ -872,6 +1199,9 @@
     "time": "4:00 ص"
   },
   {
+    "date": "السبت 2025/10/18",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "أتلتيكو سان لويس",
     "homeLogo": "https://jdwel.com/image/teams/2192.png",
     "away": "أطلس",
@@ -880,6 +1210,9 @@
     "time": "6:00 ص"
   },
   {
+    "date": "السبت 2025/10/18",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "تايغرز أونال",
     "homeLogo": "https://jdwel.com/image/teams/2187.png",
     "away": "نيكاكسا",
@@ -888,6 +1221,9 @@
     "time": "6:00 ص"
   },
   {
+    "date": "الأحد 2025/10/19",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "خواريز",
     "homeLogo": "https://jdwel.com/image/teams/2188.png",
     "away": "باتشوكا",
@@ -896,6 +1232,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2025/10/19",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "سانتوس لاغونا",
     "homeLogo": "https://jdwel.com/image/teams/3730.png",
     "away": "كلوب ليون",
@@ -904,6 +1243,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2025/10/19",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "تولوكا",
     "homeLogo": "https://jdwel.com/image/teams/2048.png",
     "away": "كويريتارو",
@@ -912,6 +1254,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2025/10/19",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "مونتيري",
     "homeLogo": "https://jdwel.com/image/teams/3336.png",
     "away": "بوماس أونام",
@@ -920,6 +1265,9 @@
     "time": "4:00 ص"
   },
   {
+    "date": "الأحد 2025/10/19",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "غوادالاخارا",
     "homeLogo": "https://jdwel.com/image/teams/2068.png",
     "away": "مازاتلان",
@@ -928,6 +1276,9 @@
     "time": "4:07 ص"
   },
   {
+    "date": "الأحد 2025/10/19",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "كروز آزول",
     "homeLogo": "https://jdwel.com/image/teams/mex_cruz_azul.png",
     "away": "كلوب أميريكا",
@@ -936,6 +1287,9 @@
     "time": "6:05 ص"
   },
   {
+    "date": "الأربعاء 2025/10/22",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "كلوب أميريكا",
     "homeLogo": "https://jdwel.com/image/teams/1761.png",
     "away": "بويبلا",
@@ -944,6 +1298,9 @@
     "time": "4:00 ص"
   },
   {
+    "date": "الأربعاء 2025/10/22",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "نيكاكسا",
     "homeLogo": "https://jdwel.com/image/teams/mex_necaxa.png",
     "away": "كروز آزول",
@@ -952,6 +1309,9 @@
     "time": "4:00 ص"
   },
   {
+    "date": "الأربعاء 2025/10/22",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "مازاتلان",
     "homeLogo": "https://jdwel.com/image/teams/92.png",
     "away": "سانتوس لاغونا",
@@ -960,6 +1320,9 @@
     "time": "6:00 ص"
   },
   {
+    "date": "الأربعاء 2025/10/22",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "مونتيري",
     "homeLogo": "https://jdwel.com/image/teams/3336.png",
     "away": "خواريز",
@@ -968,6 +1331,9 @@
     "time": "6:05 ص"
   },
   {
+    "date": "الخميس 2025/10/23",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "باتشوكا",
     "homeLogo": "https://jdwel.com/image/teams/3251.png",
     "away": "تايغرز أونال",
@@ -976,6 +1342,9 @@
     "time": "4:00 ص"
   },
   {
+    "date": "الخميس 2025/10/23",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "كويريتارو",
     "homeLogo": "https://jdwel.com/image/teams/2190.png",
     "away": "غوادالاخارا",
@@ -984,6 +1353,9 @@
     "time": "4:00 ص"
   },
   {
+    "date": "الخميس 2025/10/23",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "أطلس",
     "homeLogo": "https://jdwel.com/image/teams/mex_atlas.png",
     "away": "كلوب ليون",
@@ -992,6 +1364,9 @@
     "time": "6:00 ص"
   },
   {
+    "date": "الخميس 2025/10/23",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "تيخوانا",
     "homeLogo": "https://jdwel.com/image/teams/mex_tijuana.png",
     "away": "تولوكا",
@@ -1000,6 +1375,9 @@
     "time": "6:00 ص"
   },
   {
+    "date": "الخميس 2025/10/23",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "بوماس أونام",
     "homeLogo": "https://jdwel.com/image/teams/2049.png",
     "away": "أتلتيكو سان لويس",
@@ -1008,6 +1386,9 @@
     "time": "6:05 ص"
   },
   {
+    "date": "السبت 2025/10/25",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "خواريز",
     "homeLogo": "https://jdwel.com/image/teams/2188.png",
     "away": "بويبلا",
@@ -1016,6 +1397,9 @@
     "time": "4:00 ص"
   },
   {
+    "date": "السبت 2025/10/25",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "مازاتلان",
     "homeLogo": "https://jdwel.com/image/teams/92.png",
     "away": "كلوب أميريكا",
@@ -1024,6 +1408,9 @@
     "time": "6:00 ص"
   },
   {
+    "date": "الأحد 2025/10/26",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "تايغرز أونال",
     "homeLogo": "https://jdwel.com/image/teams/2187.png",
     "away": "تيخوانا",
@@ -1032,6 +1419,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2025/10/26",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "كلوب ليون",
     "homeLogo": "https://jdwel.com/image/teams/2047.png",
     "away": "بوماس أونام",
@@ -1040,6 +1430,9 @@
     "time": "4:00 ص"
   },
   {
+    "date": "الأحد 2025/10/26",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "غوادالاخارا",
     "homeLogo": "https://jdwel.com/image/teams/2068.png",
     "away": "أطلس",
@@ -1048,6 +1441,9 @@
     "time": "4:07 ص"
   },
   {
+    "date": "الأحد 2025/10/26",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "كروز آزول",
     "homeLogo": "https://jdwel.com/image/teams/mex_cruz_azul.png",
     "away": "مونتيري",
@@ -1056,6 +1452,9 @@
     "time": "6:05 ص"
   },
   {
+    "date": "الأثنين 2025/10/27",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "سانتوس لاغونا",
     "homeLogo": "https://jdwel.com/image/teams/3730.png",
     "away": "كويريتارو",
@@ -1064,6 +1463,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأثنين 2025/10/27",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "تولوكا",
     "homeLogo": "https://jdwel.com/image/teams/2048.png",
     "away": "باتشوكا",
@@ -1072,6 +1474,9 @@
     "time": "4:00 ص"
   },
   {
+    "date": "الأثنين 2025/10/27",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "أتلتيكو سان لويس",
     "homeLogo": "https://jdwel.com/image/teams/2192.png",
     "away": "نيكاكسا",
@@ -1080,6 +1485,9 @@
     "time": "4:00 ص"
   },
   {
+    "date": "السبت 2025/11/01",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "نيكاكسا",
     "homeLogo": "https://jdwel.com/image/teams/mex_necaxa.png",
     "away": "سانتوس لاغونا",
@@ -1088,6 +1496,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "السبت 2025/11/01",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "أتلتيكو سان لويس",
     "homeLogo": "https://jdwel.com/image/teams/2192.png",
     "away": "خواريز",
@@ -1096,6 +1507,9 @@
     "time": "5:00 ص"
   },
   {
+    "date": "السبت 2025/11/01",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "بويبلا",
     "homeLogo": "https://jdwel.com/image/teams/2191.png",
     "away": "كروز آزول",
@@ -1104,6 +1518,9 @@
     "time": "5:05 ص"
   },
   {
+    "date": "الأحد 2025/11/02",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "أطلس",
     "homeLogo": "https://jdwel.com/image/teams/mex_atlas.png",
     "away": "تولوكا",
@@ -1112,6 +1529,9 @@
     "time": "1:00 ص"
   },
   {
+    "date": "الأحد 2025/11/02",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "مونتيري",
     "homeLogo": "https://jdwel.com/image/teams/3336.png",
     "away": "تايغرز أونال",
@@ -1120,6 +1540,9 @@
     "time": "3:05 ص"
   },
   {
+    "date": "الأحد 2025/11/02",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "كلوب أميريكا",
     "homeLogo": "https://jdwel.com/image/teams/1761.png",
     "away": "كلوب ليون",
@@ -1128,6 +1551,9 @@
     "time": "5:10 ص"
   },
   {
+    "date": "الأحد 2025/11/02",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "بوماس أونام",
     "homeLogo": "https://jdwel.com/image/teams/2049.png",
     "away": "تيخوانا",
@@ -1136,6 +1562,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الأثنين 2025/11/03",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "كويريتارو",
     "homeLogo": "https://jdwel.com/image/teams/2190.png",
     "away": "مازاتلان",
@@ -1144,6 +1573,9 @@
     "time": "1:00 ص"
   },
   {
+    "date": "الأثنين 2025/11/03",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "باتشوكا",
     "homeLogo": "https://jdwel.com/image/teams/3251.png",
     "away": "غوادالاخارا",
@@ -1152,6 +1584,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "السبت 2025/11/08",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "خواريز",
     "homeLogo": "https://jdwel.com/image/teams/2188.png",
     "away": "كويريتارو",
@@ -1160,6 +1595,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "السبت 2025/11/08",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "تيخوانا",
     "homeLogo": "https://jdwel.com/image/teams/mex_tijuana.png",
     "away": "أطلس",
@@ -1168,6 +1606,9 @@
     "time": "5:00 ص"
   },
   {
+    "date": "السبت 2025/11/08",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "مازاتلان",
     "homeLogo": "https://jdwel.com/image/teams/92.png",
     "away": "نيكاكسا",
@@ -1176,6 +1617,9 @@
     "time": "5:00 ص"
   },
   {
+    "date": "الأحد 2025/11/09",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "تايغرز أونال",
     "homeLogo": "https://jdwel.com/image/teams/2187.png",
     "away": "أتلتيكو سان لويس",
@@ -1184,6 +1628,9 @@
     "time": "1:00 ص"
   },
   {
+    "date": "الأحد 2025/11/09",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "غوادالاخارا",
     "homeLogo": "https://jdwel.com/image/teams/2068.png",
     "away": "مونتيري",
@@ -1192,6 +1639,9 @@
     "time": "1:07 ص"
   },
   {
+    "date": "الأحد 2025/11/09",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "تولوكا",
     "homeLogo": "https://jdwel.com/image/teams/2048.png",
     "away": "كلوب أميريكا",
@@ -1200,6 +1650,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2025/11/09",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "كلوب ليون",
     "homeLogo": "https://jdwel.com/image/teams/2047.png",
     "away": "بويبلا",
@@ -1208,6 +1661,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2025/11/09",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "كروز آزول",
     "homeLogo": "https://jdwel.com/image/teams/mex_cruz_azul.png",
     "away": "بوماس أونام",
@@ -1216,6 +1672,9 @@
     "time": "5:05 ص"
   },
   {
+    "date": "الأثنين 2025/11/10",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "سانتوس لاغونا",
     "homeLogo": "https://jdwel.com/image/teams/3730.png",
     "away": "باتشوكا",
@@ -1224,6 +1683,9 @@
     "time": "1:00 ص"
   },
   {
+    "date": "الجمعة 2025/11/21",
+    "round": "",
+    "status": "انتهت",
     "home": "باتشوكا",
     "homeLogo": "https://jdwel.com/image/teams/3251.png",
     "away": "بوماس أونام",
@@ -1232,6 +1694,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الجمعة 2025/11/21",
+    "round": "",
+    "status": "انتهت",
     "home": "تيخوانا",
     "homeLogo": "https://jdwel.com/image/teams/mex_tijuana.png",
     "away": "خواريز",
@@ -1240,6 +1705,9 @@
     "time": "5:00 ص"
   },
   {
+    "date": "الأثنين 2025/11/24",
+    "round": "",
+    "status": "انتهت",
     "home": "خواريز",
     "homeLogo": "https://jdwel.com/image/teams/2188.png",
     "away": "باتشوكا",
@@ -1248,6 +1716,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الخميس 2025/11/27",
+    "round": "",
+    "status": "انتهت",
     "home": "خواريز",
     "homeLogo": "https://jdwel.com/image/teams/2188.png",
     "away": "تولوكا",
@@ -1256,6 +1727,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الخميس 2025/11/27",
+    "round": "",
+    "status": "انتهت",
     "home": "مونتيري",
     "homeLogo": "https://jdwel.com/image/teams/3336.png",
     "away": "كلوب أميريكا",
@@ -1264,6 +1738,9 @@
     "time": "5:05 ص"
   },
   {
+    "date": "الخميس 2025/11/27",
+    "round": "",
+    "status": "انتهت",
     "home": "تيخوانا",
     "homeLogo": "https://jdwel.com/image/teams/mex_tijuana.png",
     "away": "تايغرز أونال",
@@ -1272,6 +1749,9 @@
     "time": "7:00 ص"
   },
   {
+    "date": "الجمعة 2025/11/28",
+    "round": "",
+    "status": "انتهت",
     "home": "غوادالاخارا",
     "homeLogo": "https://jdwel.com/image/teams/2068.png",
     "away": "كروز آزول",
@@ -1280,6 +1760,9 @@
     "time": "4:07 ص"
   },
   {
+    "date": "الأحد 2025/11/30",
+    "round": "",
+    "status": "انتهت",
     "home": "كلوب أميريكا",
     "homeLogo": "https://jdwel.com/image/teams/1761.png",
     "away": "مونتيري",
@@ -1288,6 +1771,9 @@
     "time": "1:00 ص"
   },
   {
+    "date": "الأحد 2025/11/30",
+    "round": "",
+    "status": "انتهت",
     "home": "تولوكا",
     "homeLogo": "https://jdwel.com/image/teams/2048.png",
     "away": "خواريز",
@@ -1296,6 +1782,9 @@
     "time": "3:05 ص"
   },
   {
+    "date": "الأحد 2025/11/30",
+    "round": "",
+    "status": "انتهت",
     "home": "تايغرز أونال",
     "homeLogo": "https://jdwel.com/image/teams/2187.png",
     "away": "تيخوانا",
@@ -1304,6 +1793,9 @@
     "time": "5:10 ص"
   },
   {
+    "date": "الأثنين 2025/12/01",
+    "round": "",
+    "status": "انتهت",
     "home": "كروز آزول",
     "homeLogo": "https://jdwel.com/image/teams/mex_cruz_azul.png",
     "away": "غوادالاخارا",
@@ -1312,6 +1804,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الخميس 2025/12/04",
+    "round": "",
+    "status": "انتهت",
     "home": "كروز آزول",
     "homeLogo": "https://jdwel.com/image/teams/mex_cruz_azul.png",
     "away": "تايغرز أونال",
@@ -1320,6 +1815,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الخميس 2025/12/04",
+    "round": "",
+    "status": "انتهت",
     "home": "مونتيري",
     "homeLogo": "https://jdwel.com/image/teams/3336.png",
     "away": "تولوكا",
@@ -1328,6 +1826,9 @@
     "time": "5:10 ص"
   },
   {
+    "date": "الأحد 2025/12/07",
+    "round": "",
+    "status": "انتهت",
     "home": "تولوكا",
     "homeLogo": "https://jdwel.com/image/teams/2048.png",
     "away": "مونتيري",
@@ -1336,6 +1837,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2025/12/07",
+    "round": "",
+    "status": "انتهت",
     "home": "تايغرز أونال",
     "homeLogo": "https://jdwel.com/image/teams/2187.png",
     "away": "كروز آزول",
@@ -1344,6 +1848,9 @@
     "time": "5:10 ص"
   },
   {
+    "date": "الجمعة 2025/12/12",
+    "round": "",
+    "status": "انتهت",
     "home": "تايغرز أونال",
     "homeLogo": "https://jdwel.com/image/teams/2187.png",
     "away": "تولوكا",
@@ -1352,6 +1859,9 @@
     "time": "4:00 ص"
   },
   {
+    "date": "الأثنين 2025/12/15",
+    "round": "",
+    "status": "انتهت",
     "home": "تولوكا",
     "homeLogo": "https://jdwel.com/image/teams/2048.png",
     "away": "تايغرز أونال",
@@ -1360,6 +1870,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "السبت 2026/01/10",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "تيخوانا",
     "homeLogo": "https://jdwel.com/image/teams/mex_tijuana.png",
     "away": "كلوب أميريكا",
@@ -1368,6 +1881,9 @@
     "time": "5:00 ص"
   },
   {
+    "date": "السبت 2026/01/10",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "مازاتلان",
     "homeLogo": "https://jdwel.com/image/teams/92.png",
     "away": "خواريز",
@@ -1376,6 +1892,9 @@
     "time": "5:00 ص"
   },
   {
+    "date": "السبت 2026/01/10",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "أطلس",
     "homeLogo": "https://jdwel.com/image/teams/mex_atlas.png",
     "away": "بويبلا",
@@ -1384,6 +1903,9 @@
     "time": "5:00 ص"
   },
   {
+    "date": "الأحد 2026/01/11",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "غوادالاخارا",
     "homeLogo": "https://jdwel.com/image/teams/2068.png",
     "away": "باتشوكا",
@@ -1392,6 +1914,9 @@
     "time": "1:00 ص"
   },
   {
+    "date": "الأحد 2026/01/11",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "سانتوس لاغونا",
     "homeLogo": "https://jdwel.com/image/teams/3730.png",
     "away": "نيكاكسا",
@@ -1400,6 +1925,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2026/01/11",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "كلوب ليون",
     "homeLogo": "https://jdwel.com/image/teams/2047.png",
     "away": "كروز آزول",
@@ -1408,6 +1936,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2026/01/11",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "مونتيري",
     "homeLogo": "https://jdwel.com/image/teams/3336.png",
     "away": "تولوكا",
@@ -1416,6 +1947,9 @@
     "time": "5:00 ص"
   },
   {
+    "date": "الأحد 2026/01/11",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "بوماس أونام",
     "homeLogo": "https://jdwel.com/image/teams/2049.png",
     "away": "كويريتارو",
@@ -1424,6 +1958,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الأثنين 2026/01/12",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "أتلتيكو سان لويس",
     "homeLogo": "https://jdwel.com/image/teams/2192.png",
     "away": "تايغرز أونال",
@@ -1432,6 +1969,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأربعاء 2026/01/14",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "نيكاكسا",
     "homeLogo": "https://jdwel.com/image/teams/mex_necaxa.png",
     "away": "مونتيري",
@@ -1440,6 +1980,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأربعاء 2026/01/14",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "بويبلا",
     "homeLogo": "https://jdwel.com/image/teams/2191.png",
     "away": "مازاتلان",
@@ -1448,6 +1991,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأربعاء 2026/01/14",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "باتشوكا",
     "homeLogo": "https://jdwel.com/image/teams/3251.png",
     "away": "كلوب ليون",
@@ -1456,6 +2002,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأربعاء 2026/01/14",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "خواريز",
     "homeLogo": "https://jdwel.com/image/teams/2188.png",
     "away": "غوادالاخارا",
@@ -1464,6 +2013,9 @@
     "time": "5:00 ص"
   },
   {
+    "date": "الأربعاء 2026/01/14",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "كروز آزول",
     "homeLogo": "https://jdwel.com/image/teams/mex_cruz_azul.png",
     "away": "أطلس",
@@ -1472,6 +2024,9 @@
     "time": "5:00 ص"
   },
   {
+    "date": "الخميس 2026/01/15",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "كويريتارو",
     "homeLogo": "https://jdwel.com/image/teams/2190.png",
     "away": "تيخوانا",
@@ -1480,6 +2035,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الخميس 2026/01/15",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "كلوب أميريكا",
     "homeLogo": "https://jdwel.com/image/teams/1761.png",
     "away": "أتلتيكو سان لويس",
@@ -1488,6 +2046,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الخميس 2026/01/15",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "تولوكا",
     "homeLogo": "https://jdwel.com/image/teams/2048.png",
     "away": "سانتوس لاغونا",
@@ -1496,6 +2057,9 @@
     "time": "5:00 ص"
   },
   {
+    "date": "الخميس 2026/01/15",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "تايغرز أونال",
     "homeLogo": "https://jdwel.com/image/teams/2187.png",
     "away": "بوماس أونام",
@@ -1504,6 +2068,9 @@
     "time": "5:00 ص"
   },
   {
+    "date": "السبت 2026/01/17",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "مازاتلان",
     "homeLogo": "https://jdwel.com/image/teams/92.png",
     "away": "مونتيري",
@@ -1512,6 +2079,9 @@
     "time": "5:00 ص"
   },
   {
+    "date": "الأحد 2026/01/18",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "نيكاكسا",
     "homeLogo": "https://jdwel.com/image/teams/mex_necaxa.png",
     "away": "أطلس",
@@ -1520,6 +2090,9 @@
     "time": "1:00 ص"
   },
   {
+    "date": "الأحد 2026/01/18",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "غوادالاخارا",
     "homeLogo": "https://jdwel.com/image/teams/2068.png",
     "away": "كويريتارو",
@@ -1528,6 +2101,9 @@
     "time": "1:00 ص"
   },
   {
+    "date": "الأحد 2026/01/18",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "تايغرز أونال",
     "homeLogo": "https://jdwel.com/image/teams/2187.png",
     "away": "تولوكا",
@@ -1536,6 +2112,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2026/01/18",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "تيخوانا",
     "homeLogo": "https://jdwel.com/image/teams/mex_tijuana.png",
     "away": "أتلتيكو سان لويس",
@@ -1544,6 +2123,9 @@
     "time": "5:00 ص"
   },
   {
+    "date": "الأحد 2026/01/18",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "كروز آزول",
     "homeLogo": "https://jdwel.com/image/teams/mex_cruz_azul.png",
     "away": "بويبلا",
@@ -1552,6 +2134,9 @@
     "time": "5:00 ص"
   },
   {
+    "date": "الأحد 2026/01/18",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "بوماس أونام",
     "homeLogo": "https://jdwel.com/image/teams/2049.png",
     "away": "كلوب ليون",
@@ -1560,6 +2145,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الأثنين 2026/01/19",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "سانتوس لاغونا",
     "homeLogo": "https://jdwel.com/image/teams/3730.png",
     "away": "خواريز",
@@ -1568,6 +2156,9 @@
     "time": "1:00 ص"
   },
   {
+    "date": "الأثنين 2026/01/19",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "باتشوكا",
     "homeLogo": "https://jdwel.com/image/teams/3251.png",
     "away": "كلوب أميريكا",
@@ -1576,6 +2167,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "السبت 2026/01/31",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "بويبلا",
     "homeLogo": "https://jdwel.com/image/teams/2191.png",
     "away": "تولوكا",
@@ -1584,6 +2178,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "السبت 2026/01/31",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "بوماس أونام",
     "homeLogo": "https://jdwel.com/image/teams/2049.png",
     "away": "سانتوس لاغونا",
@@ -1592,6 +2189,9 @@
     "time": "5:00 ص"
   },
   {
+    "date": "السبت 2026/01/31",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "خواريز",
     "homeLogo": "https://jdwel.com/image/teams/2188.png",
     "away": "كروز آزول",
@@ -1600,6 +2200,9 @@
     "time": "5:06 ص"
   },
   {
+    "date": "الأحد 2026/02/01",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "كلوب أميريكا",
     "homeLogo": "https://jdwel.com/image/teams/1761.png",
     "away": "نيكاكسا",
@@ -1608,6 +2211,9 @@
     "time": "12:00 ص"
   },
   {
+    "date": "الأحد 2026/02/01",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "أطلس",
     "homeLogo": "https://jdwel.com/image/teams/mex_atlas.png",
     "away": "مازاتلان",
@@ -1616,6 +2222,9 @@
     "time": "1:00 ص"
   },
   {
+    "date": "الأحد 2026/02/01",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "أتلتيكو سان لويس",
     "homeLogo": "https://jdwel.com/image/teams/2192.png",
     "away": "غوادالاخارا",
@@ -1624,6 +2233,9 @@
     "time": "1:00 ص"
   },
   {
+    "date": "الأحد 2026/02/01",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "مونتيري",
     "homeLogo": "https://jdwel.com/image/teams/3336.png",
     "away": "تيخوانا",
@@ -1632,6 +2244,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2026/02/01",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "كلوب ليون",
     "homeLogo": "https://jdwel.com/image/teams/2047.png",
     "away": "تايغرز أونال",
@@ -1640,6 +2255,9 @@
     "time": "3:10 ص"
   },
   {
+    "date": "الأثنين 2026/02/02",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "كويريتارو",
     "homeLogo": "https://jdwel.com/image/teams/2190.png",
     "away": "باتشوكا",
@@ -1648,6 +2266,9 @@
     "time": "1:00 ص"
   },
   {
+    "date": "السبت 2026/02/07",
+    "round": "الجولة 5",
+    "status": "قريباً",
     "home": "نيكاكسا",
     "homeLogo": "https://jdwel.com/image/teams/mex_necaxa.png",
     "away": "أتلتيكو سان لويس",
@@ -1656,6 +2277,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "السبت 2026/02/07",
+    "round": "الجولة 5",
+    "status": "قريباً",
     "home": "تايغرز أونال",
     "homeLogo": "https://jdwel.com/image/teams/2187.png",
     "away": "سانتوس لاغونا",
@@ -1664,6 +2288,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "السبت 2026/02/07",
+    "round": "الجولة 5",
+    "status": "قريباً",
     "home": "تيخوانا",
     "homeLogo": "https://jdwel.com/image/teams/mex_tijuana.png",
     "away": "بويبلا",
@@ -1672,6 +2299,9 @@
     "time": "5:00 ص"
   },
   {
+    "date": "السبت 2026/02/07",
+    "round": "الجولة 5",
+    "status": "قريباً",
     "home": "مازاتلان",
     "homeLogo": "https://jdwel.com/image/teams/92.png",
     "away": "غوادالاخارا",
@@ -1680,6 +2310,9 @@
     "time": "5:06 ص"
   },
   {
+    "date": "الأحد 2026/02/08",
+    "round": "الجولة 5",
+    "status": "قريباً",
     "home": "تولوكا",
     "homeLogo": "https://jdwel.com/image/teams/2048.png",
     "away": "كروز آزول",
@@ -1688,6 +2321,9 @@
     "time": "1:00 ص"
   },
   {
+    "date": "الأحد 2026/02/08",
+    "round": "الجولة 5",
+    "status": "قريباً",
     "home": "كويريتارو",
     "homeLogo": "https://jdwel.com/image/teams/2190.png",
     "away": "كلوب ليون",
@@ -1696,6 +2332,9 @@
     "time": "1:00 ص"
   },
   {
+    "date": "الأحد 2026/02/08",
+    "round": "الجولة 5",
+    "status": "قريباً",
     "home": "باتشوكا",
     "homeLogo": "https://jdwel.com/image/teams/3251.png",
     "away": "خواريز",
@@ -1704,6 +2343,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2026/02/08",
+    "round": "الجولة 5",
+    "status": "قريباً",
     "home": "أطلس",
     "homeLogo": "https://jdwel.com/image/teams/mex_atlas.png",
     "away": "بوماس أونام",
@@ -1712,6 +2354,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2026/02/08",
+    "round": "الجولة 5",
+    "status": "قريباً",
     "home": "كلوب أميريكا",
     "homeLogo": "https://jdwel.com/image/teams/1761.png",
     "away": "مونتيري",
@@ -1720,6 +2365,9 @@
     "time": "5:00 ص"
   },
   {
+    "date": "السبت 2026/02/14",
+    "round": "الجولة 6",
+    "status": "قريباً",
     "home": "بويبلا",
     "homeLogo": "https://jdwel.com/image/teams/2191.png",
     "away": "بوماس أونام",
@@ -1728,6 +2376,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "السبت 2026/02/14",
+    "round": "الجولة 6",
+    "status": "قريباً",
     "home": "تولوكا",
     "homeLogo": "https://jdwel.com/image/teams/2048.png",
     "away": "تيخوانا",
@@ -1736,6 +2387,9 @@
     "time": "5:00 ص"
   },
   {
+    "date": "السبت 2026/02/14",
+    "round": "الجولة 6",
+    "status": "قريباً",
     "home": "خواريز",
     "homeLogo": "https://jdwel.com/image/teams/2188.png",
     "away": "نيكاكسا",
@@ -1744,6 +2398,9 @@
     "time": "5:00 ص"
   },
   {
+    "date": "الأحد 2026/02/15",
+    "round": "الجولة 6",
+    "status": "قريباً",
     "home": "أتلتيكو سان لويس",
     "homeLogo": "https://jdwel.com/image/teams/2192.png",
     "away": "كويريتارو",
@@ -1752,6 +2409,9 @@
     "time": "1:00 ص"
   },
   {
+    "date": "الأحد 2026/02/15",
+    "round": "الجولة 6",
+    "status": "قريباً",
     "home": "باتشوكا",
     "homeLogo": "https://jdwel.com/image/teams/3251.png",
     "away": "أطلس",
@@ -1760,6 +2420,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2026/02/15",
+    "round": "الجولة 6",
+    "status": "قريباً",
     "home": "مونتيري",
     "homeLogo": "https://jdwel.com/image/teams/3336.png",
     "away": "كلوب ليون",
@@ -1768,6 +2431,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2026/02/15",
+    "round": "الجولة 6",
+    "status": "قريباً",
     "home": "غوادالاخارا",
     "homeLogo": "https://jdwel.com/image/teams/2068.png",
     "away": "كلوب أميريكا",
@@ -1776,6 +2442,9 @@
     "time": "5:00 ص"
   },
   {
+    "date": "الأثنين 2026/02/16",
+    "round": "الجولة 6",
+    "status": "قريباً",
     "home": "سانتوس لاغونا",
     "homeLogo": "https://jdwel.com/image/teams/3730.png",
     "away": "مازاتلان",
@@ -1784,6 +2453,9 @@
     "time": "1:00 ص"
   },
   {
+    "date": "الأثنين 2026/02/16",
+    "round": "الجولة 6",
+    "status": "قريباً",
     "home": "كروز آزول",
     "homeLogo": "https://jdwel.com/image/teams/mex_cruz_azul.png",
     "away": "تايغرز أونال",
@@ -1792,6 +2464,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "السبت 2026/02/21",
+    "round": "الجولة 7",
+    "status": "قريباً",
     "home": "تايغرز أونال",
     "homeLogo": "https://jdwel.com/image/teams/2187.png",
     "away": "باتشوكا",
@@ -1800,6 +2475,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "السبت 2026/02/21",
+    "round": "الجولة 7",
+    "status": "قريباً",
     "home": "بويبلا",
     "homeLogo": "https://jdwel.com/image/teams/2191.png",
     "away": "كلوب أميريكا",
@@ -1808,6 +2486,9 @@
     "time": "5:00 ص"
   },
   {
+    "date": "الأحد 2026/02/22",
+    "round": "الجولة 7",
+    "status": "قريباً",
     "home": "أطلس",
     "homeLogo": "https://jdwel.com/image/teams/mex_atlas.png",
     "away": "أتلتيكو سان لويس",
@@ -1816,6 +2497,9 @@
     "time": "1:00 ص"
   },
   {
+    "date": "الأحد 2026/02/22",
+    "round": "الجولة 7",
+    "status": "قريباً",
     "home": "نيكاكسا",
     "homeLogo": "https://jdwel.com/image/teams/mex_necaxa.png",
     "away": "تولوكا",
@@ -1824,6 +2508,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2026/02/22",
+    "round": "الجولة 7",
+    "status": "قريباً",
     "home": "كلوب ليون",
     "homeLogo": "https://jdwel.com/image/teams/2047.png",
     "away": "سانتوس لاغونا",
@@ -1832,6 +2519,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2026/02/22",
+    "round": "الجولة 7",
+    "status": "قريباً",
     "home": "كروز آزول",
     "homeLogo": "https://jdwel.com/image/teams/mex_cruz_azul.png",
     "away": "غوادالاخارا",
@@ -1840,6 +2530,9 @@
     "time": "5:00 ص"
   },
   {
+    "date": "الأثنين 2026/02/23",
+    "round": "الجولة 7",
+    "status": "قريباً",
     "home": "بوماس أونام",
     "homeLogo": "https://jdwel.com/image/teams/2049.png",
     "away": "مونتيري",
@@ -1848,6 +2541,9 @@
     "time": "1:00 ص"
   },
   {
+    "date": "الأثنين 2026/02/23",
+    "round": "الجولة 7",
+    "status": "قريباً",
     "home": "كويريتارو",
     "homeLogo": "https://jdwel.com/image/teams/2190.png",
     "away": "خواريز",
@@ -1856,6 +2552,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأثنين 2026/02/23",
+    "round": "الجولة 7",
+    "status": "قريباً",
     "home": "تيخوانا",
     "homeLogo": "https://jdwel.com/image/teams/mex_tijuana.png",
     "away": "مازاتلان",
@@ -1864,6 +2563,9 @@
     "time": "5:00 ص"
   },
   {
+    "date": "السبت 2026/02/28",
+    "round": "الجولة 8",
+    "status": "قريباً",
     "home": "كويريتارو",
     "homeLogo": "https://jdwel.com/image/teams/2190.png",
     "away": "سانتوس لاغونا",
@@ -1872,6 +2574,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "السبت 2026/02/28",
+    "round": "الجولة 8",
+    "status": "قريباً",
     "home": "مازاتلان",
     "homeLogo": "https://jdwel.com/image/teams/92.png",
     "away": "باتشوكا",
@@ -1880,6 +2585,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "السبت 2026/02/28",
+    "round": "الجولة 8",
+    "status": "قريباً",
     "home": "خواريز",
     "homeLogo": "https://jdwel.com/image/teams/2188.png",
     "away": "أطلس",
@@ -1888,6 +2596,9 @@
     "time": "5:00 ص"
   },
   {
+    "date": "السبت 2026/02/28",
+    "round": "الجولة 8",
+    "status": "قريباً",
     "home": "تيخوانا",
     "homeLogo": "https://jdwel.com/image/teams/mex_tijuana.png",
     "away": "بوماس أونام",
@@ -1896,6 +2607,9 @@
     "time": "5:00 ص"
   },
   {
+    "date": "الأحد 2026/03/01",
+    "round": "الجولة 8",
+    "status": "قريباً",
     "home": "تولوكا",
     "homeLogo": "https://jdwel.com/image/teams/2048.png",
     "away": "غوادالاخارا",
@@ -1904,6 +2618,9 @@
     "time": "1:00 ص"
   },
   {
+    "date": "الأحد 2026/03/01",
+    "round": "الجولة 8",
+    "status": "قريباً",
     "home": "أتلتيكو سان لويس",
     "homeLogo": "https://jdwel.com/image/teams/2192.png",
     "away": "بويبلا",
@@ -1912,6 +2629,9 @@
     "time": "1:00 ص"
   },
   {
+    "date": "الأحد 2026/03/01",
+    "round": "الجولة 8",
+    "status": "قريباً",
     "home": "مونتيري",
     "homeLogo": "https://jdwel.com/image/teams/3336.png",
     "away": "كروز آزول",
@@ -1920,6 +2640,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2026/03/01",
+    "round": "الجولة 8",
+    "status": "قريباً",
     "home": "كلوب ليون",
     "homeLogo": "https://jdwel.com/image/teams/2047.png",
     "away": "نيكاكسا",
@@ -1928,6 +2651,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2026/03/01",
+    "round": "الجولة 8",
+    "status": "قريباً",
     "home": "كلوب أميريكا",
     "homeLogo": "https://jdwel.com/image/teams/1761.png",
     "away": "تايغرز أونال",
@@ -1936,6 +2662,9 @@
     "time": "5:00 ص"
   },
   {
+    "date": "الأربعاء 2026/03/04",
+    "round": "الجولة 9",
+    "status": "قريباً",
     "home": "سانتوس لاغونا",
     "homeLogo": "https://jdwel.com/image/teams/3730.png",
     "away": "كروز آزول",
@@ -1944,6 +2673,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأربعاء 2026/03/04",
+    "round": "الجولة 9",
+    "status": "قريباً",
     "home": "باتشوكا",
     "homeLogo": "https://jdwel.com/image/teams/3251.png",
     "away": "نيكاكسا",
@@ -1952,6 +2684,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأربعاء 2026/03/04",
+    "round": "الجولة 9",
+    "status": "قريباً",
     "home": "بوماس أونام",
     "homeLogo": "https://jdwel.com/image/teams/2049.png",
     "away": "تولوكا",
@@ -1960,6 +2695,9 @@
     "time": "5:00 ص"
   },
   {
+    "date": "الأربعاء 2026/03/04",
+    "round": "الجولة 9",
+    "status": "قريباً",
     "home": "أتلتيكو سان لويس",
     "homeLogo": "https://jdwel.com/image/teams/2192.png",
     "away": "مازاتلان",
@@ -1968,6 +2706,9 @@
     "time": "5:00 ص"
   },
   {
+    "date": "الخميس 2026/03/05",
+    "round": "الجولة 9",
+    "status": "قريباً",
     "home": "بويبلا",
     "homeLogo": "https://jdwel.com/image/teams/2191.png",
     "away": "تايغرز أونال",
@@ -1976,6 +2717,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الخميس 2026/03/05",
+    "round": "الجولة 9",
+    "status": "قريباً",
     "home": "مونتيري",
     "homeLogo": "https://jdwel.com/image/teams/3336.png",
     "away": "كويريتارو",
@@ -1984,6 +2728,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الخميس 2026/03/05",
+    "round": "الجولة 9",
+    "status": "قريباً",
     "home": "كلوب أميريكا",
     "homeLogo": "https://jdwel.com/image/teams/1761.png",
     "away": "خواريز",
@@ -1992,6 +2739,9 @@
     "time": "5:00 ص"
   },
   {
+    "date": "الخميس 2026/03/05",
+    "round": "الجولة 9",
+    "status": "قريباً",
     "home": "أطلس",
     "homeLogo": "https://jdwel.com/image/teams/mex_atlas.png",
     "away": "تيخوانا",
@@ -2000,6 +2750,9 @@
     "time": "5:00 ص"
   },
   {
+    "date": "السبت 2026/03/07",
+    "round": "الجولة 10",
+    "status": "قريباً",
     "home": "مازاتلان",
     "homeLogo": "https://jdwel.com/image/teams/92.png",
     "away": "كلوب ليون",
@@ -2008,6 +2761,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "السبت 2026/03/07",
+    "round": "الجولة 10",
+    "status": "قريباً",
     "home": "نيكاكسا",
     "homeLogo": "https://jdwel.com/image/teams/mex_necaxa.png",
     "away": "بوماس أونام",
@@ -2016,6 +2772,9 @@
     "time": "5:00 ص"
   },
   {
+    "date": "الأحد 2026/03/08",
+    "round": "الجولة 10",
+    "status": "قريباً",
     "home": "كروز آزول",
     "homeLogo": "https://jdwel.com/image/teams/mex_cruz_azul.png",
     "away": "أتلتيكو سان لويس",
@@ -2024,6 +2783,9 @@
     "time": "1:00 ص"
   },
   {
+    "date": "الأحد 2026/03/08",
+    "round": "الجولة 10",
+    "status": "قريباً",
     "home": "باتشوكا",
     "homeLogo": "https://jdwel.com/image/teams/3251.png",
     "away": "بويبلا",
@@ -2032,6 +2794,9 @@
     "time": "1:00 ص"
   },
   {
+    "date": "الأحد 2026/03/08",
+    "round": "الجولة 10",
+    "status": "قريباً",
     "home": "أطلس",
     "homeLogo": "https://jdwel.com/image/teams/mex_atlas.png",
     "away": "غوادالاخارا",
@@ -2040,6 +2805,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2026/03/08",
+    "round": "الجولة 10",
+    "status": "قريباً",
     "home": "تايغرز أونال",
     "homeLogo": "https://jdwel.com/image/teams/2187.png",
     "away": "مونتيري",
@@ -2048,6 +2816,9 @@
     "time": "5:00 ص"
   },
   {
+    "date": "الأثنين 2026/03/09",
+    "round": "الجولة 10",
+    "status": "قريباً",
     "home": "كويريتارو",
     "homeLogo": "https://jdwel.com/image/teams/2190.png",
     "away": "كلوب أميريكا",
@@ -2056,6 +2827,9 @@
     "time": "1:00 ص"
   },
   {
+    "date": "الأثنين 2026/03/09",
+    "round": "الجولة 10",
+    "status": "قريباً",
     "home": "تولوكا",
     "homeLogo": "https://jdwel.com/image/teams/2048.png",
     "away": "خواريز",
@@ -2064,6 +2838,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأثنين 2026/03/09",
+    "round": "الجولة 10",
+    "status": "قريباً",
     "home": "تيخوانا",
     "homeLogo": "https://jdwel.com/image/teams/mex_tijuana.png",
     "away": "سانتوس لاغونا",
@@ -2072,6 +2849,9 @@
     "time": "5:00 ص"
   },
   {
+    "date": "السبت 2026/03/14",
+    "round": "الجولة 11",
+    "status": "قريباً",
     "home": "تايغرز أونال",
     "homeLogo": "https://jdwel.com/image/teams/2187.png",
     "away": "كويريتارو",
@@ -2080,6 +2860,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "السبت 2026/03/14",
+    "round": "الجولة 11",
+    "status": "قريباً",
     "home": "بويبلا",
     "homeLogo": "https://jdwel.com/image/teams/2191.png",
     "away": "نيكاكسا",
@@ -2088,6 +2871,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "السبت 2026/03/14",
+    "round": "الجولة 11",
+    "status": "قريباً",
     "home": "خواريز",
     "homeLogo": "https://jdwel.com/image/teams/2188.png",
     "away": "مونتيري",
@@ -2096,6 +2882,9 @@
     "time": "5:00 ص"
   },
   {
+    "date": "الأحد 2026/03/15",
+    "round": "الجولة 11",
+    "status": "قريباً",
     "home": "غوادالاخارا",
     "homeLogo": "https://jdwel.com/image/teams/2068.png",
     "away": "سانتوس لاغونا",
@@ -2104,6 +2893,9 @@
     "time": "1:00 ص"
   },
   {
+    "date": "الأحد 2026/03/15",
+    "round": "الجولة 11",
+    "status": "قريباً",
     "home": "أتلتيكو سان لويس",
     "homeLogo": "https://jdwel.com/image/teams/2192.png",
     "away": "باتشوكا",
@@ -2112,6 +2904,9 @@
     "time": "1:00 ص"
   },
   {
+    "date": "الأحد 2026/03/15",
+    "round": "الجولة 11",
+    "status": "قريباً",
     "home": "تولوكا",
     "homeLogo": "https://jdwel.com/image/teams/2048.png",
     "away": "أطلس",
@@ -2120,6 +2915,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2026/03/15",
+    "round": "الجولة 11",
+    "status": "قريباً",
     "home": "كلوب ليون",
     "homeLogo": "https://jdwel.com/image/teams/2047.png",
     "away": "تيخوانا",
@@ -2128,6 +2926,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2026/03/15",
+    "round": "الجولة 11",
+    "status": "قريباً",
     "home": "بوماس أونام",
     "homeLogo": "https://jdwel.com/image/teams/2049.png",
     "away": "كروز آزول",
@@ -2136,6 +2937,9 @@
     "time": "5:00 ص"
   },
   {
+    "date": "الأثنين 2026/03/16",
+    "round": "الجولة 11",
+    "status": "قريباً",
     "home": "كلوب أميريكا",
     "homeLogo": "https://jdwel.com/image/teams/1761.png",
     "away": "مازاتلان",
@@ -2144,6 +2948,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الخميس 2026/03/19",
+    "round": "الجولة 9",
+    "status": "قريباً",
     "home": "غوادالاخارا",
     "homeLogo": "https://jdwel.com/image/teams/2068.png",
     "away": "كلوب ليون",
@@ -2152,6 +2959,9 @@
     "time": "4:00 ص"
   },
   {
+    "date": "السبت 2026/03/21",
+    "round": "الجولة 12",
+    "status": "قريباً",
     "home": "نيكاكسا",
     "homeLogo": "https://jdwel.com/image/teams/mex_necaxa.png",
     "away": "تيخوانا",
@@ -2160,6 +2970,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "السبت 2026/03/21",
+    "round": "الجولة 12",
+    "status": "قريباً",
     "home": "مازاتلان",
     "homeLogo": "https://jdwel.com/image/teams/92.png",
     "away": "كروز آزول",
@@ -2168,6 +2981,9 @@
     "time": "5:00 ص"
   },
   {
+    "date": "الأحد 2026/03/22",
+    "round": "الجولة 12",
+    "status": "قريباً",
     "home": "باتشوكا",
     "homeLogo": "https://jdwel.com/image/teams/3251.png",
     "away": "تولوكا",
@@ -2176,6 +2992,9 @@
     "time": "1:00 ص"
   },
   {
+    "date": "الأحد 2026/03/22",
+    "round": "الجولة 12",
+    "status": "قريباً",
     "home": "أطلس",
     "homeLogo": "https://jdwel.com/image/teams/mex_atlas.png",
     "away": "كويريتارو",
@@ -2184,6 +3003,9 @@
     "time": "1:00 ص"
   },
   {
+    "date": "الأحد 2026/03/22",
+    "round": "الجولة 12",
+    "status": "قريباً",
     "home": "مونتيري",
     "homeLogo": "https://jdwel.com/image/teams/3336.png",
     "away": "غوادالاخارا",
@@ -2192,6 +3014,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2026/03/22",
+    "round": "الجولة 12",
+    "status": "قريباً",
     "home": "أتلتيكو سان لويس",
     "homeLogo": "https://jdwel.com/image/teams/2192.png",
     "away": "كلوب ليون",
@@ -2200,6 +3025,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2026/03/22",
+    "round": "الجولة 12",
+    "status": "قريباً",
     "home": "بوماس أونام",
     "homeLogo": "https://jdwel.com/image/teams/2049.png",
     "away": "كلوب أميريكا",
@@ -2208,6 +3036,9 @@
     "time": "5:00 ص"
   },
   {
+    "date": "الأثنين 2026/03/23",
+    "round": "الجولة 12",
+    "status": "قريباً",
     "home": "سانتوس لاغونا",
     "homeLogo": "https://jdwel.com/image/teams/3730.png",
     "away": "بويبلا",
@@ -2216,6 +3047,9 @@
     "time": "1:00 ص"
   },
   {
+    "date": "الأثنين 2026/03/23",
+    "round": "الجولة 12",
+    "status": "قريباً",
     "home": "خواريز",
     "homeLogo": "https://jdwel.com/image/teams/2188.png",
     "away": "تايغرز أونال",
@@ -2224,6 +3058,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "السبت 2026/04/04",
+    "round": "الجولة 13",
+    "status": "قريباً",
     "home": "بويبلا",
     "homeLogo": "https://jdwel.com/image/teams/2191.png",
     "away": "خواريز",
@@ -2232,6 +3069,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "السبت 2026/04/04",
+    "round": "الجولة 13",
+    "status": "قريباً",
     "home": "تيخوانا",
     "homeLogo": "https://jdwel.com/image/teams/mex_tijuana.png",
     "away": "تايغرز أونال",
@@ -2240,6 +3080,9 @@
     "time": "5:00 ص"
   },
   {
+    "date": "السبت 2026/04/04",
+    "round": "الجولة 13",
+    "status": "قريباً",
     "home": "نيكاكسا",
     "homeLogo": "https://jdwel.com/image/teams/mex_necaxa.png",
     "away": "مازاتلان",
@@ -2248,6 +3091,9 @@
     "time": "5:00 ص"
   },
   {
+    "date": "الأحد 2026/04/05",
+    "round": "الجولة 13",
+    "status": "قريباً",
     "home": "مونتيري",
     "homeLogo": "https://jdwel.com/image/teams/3336.png",
     "away": "أتلتيكو سان لويس",
@@ -2256,6 +3102,9 @@
     "time": "1:00 ص"
   },
   {
+    "date": "الأحد 2026/04/05",
+    "round": "الجولة 13",
+    "status": "قريباً",
     "home": "كروز آزول",
     "homeLogo": "https://jdwel.com/image/teams/mex_cruz_azul.png",
     "away": "باتشوكا",
@@ -2264,6 +3113,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2026/04/05",
+    "round": "الجولة 13",
+    "status": "قريباً",
     "home": "كلوب ليون",
     "homeLogo": "https://jdwel.com/image/teams/2047.png",
     "away": "أطلس",
@@ -2272,6 +3124,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2026/04/05",
+    "round": "الجولة 13",
+    "status": "قريباً",
     "home": "سانتوس لاغونا",
     "homeLogo": "https://jdwel.com/image/teams/3730.png",
     "away": "كلوب أميريكا",
@@ -2280,6 +3135,9 @@
     "time": "5:00 ص"
   },
   {
+    "date": "الأثنين 2026/04/06",
+    "round": "الجولة 13",
+    "status": "قريباً",
     "home": "كويريتارو",
     "homeLogo": "https://jdwel.com/image/teams/2190.png",
     "away": "تولوكا",
@@ -2288,6 +3146,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأثنين 2026/04/06",
+    "round": "الجولة 13",
+    "status": "قريباً",
     "home": "غوادالاخارا",
     "homeLogo": "https://jdwel.com/image/teams/2068.png",
     "away": "بوماس أونام",
@@ -2296,6 +3157,9 @@
     "time": "4:00 ص"
   },
   {
+    "date": "السبت 2026/04/11",
+    "round": "الجولة 14",
+    "status": "قريباً",
     "home": "بويبلا",
     "homeLogo": "https://jdwel.com/image/teams/2191.png",
     "away": "كلوب ليون",
@@ -2304,6 +3168,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "السبت 2026/04/11",
+    "round": "الجولة 14",
+    "status": "قريباً",
     "home": "خواريز",
     "homeLogo": "https://jdwel.com/image/teams/2188.png",
     "away": "تيخوانا",
@@ -2312,6 +3179,9 @@
     "time": "5:00 ص"
   },
   {
+    "date": "الأحد 2026/04/12",
+    "round": "الجولة 14",
+    "status": "قريباً",
     "home": "تايغرز أونال",
     "homeLogo": "https://jdwel.com/image/teams/2187.png",
     "away": "غوادالاخارا",
@@ -2320,6 +3190,9 @@
     "time": "1:00 ص"
   },
   {
+    "date": "الأحد 2026/04/12",
+    "round": "الجولة 14",
+    "status": "قريباً",
     "home": "كويريتارو",
     "homeLogo": "https://jdwel.com/image/teams/2190.png",
     "away": "نيكاكسا",
@@ -2328,6 +3201,9 @@
     "time": "1:00 ص"
   },
   {
+    "date": "الأحد 2026/04/12",
+    "round": "الجولة 14",
+    "status": "قريباً",
     "home": "باتشوكا",
     "homeLogo": "https://jdwel.com/image/teams/3251.png",
     "away": "سانتوس لاغونا",
@@ -2336,6 +3212,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2026/04/12",
+    "round": "الجولة 14",
+    "status": "قريباً",
     "home": "أطلس",
     "homeLogo": "https://jdwel.com/image/teams/mex_atlas.png",
     "away": "مونتيري",
@@ -2344,6 +3223,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2026/04/12",
+    "round": "الجولة 14",
+    "status": "قريباً",
     "home": "كلوب أميريكا",
     "homeLogo": "https://jdwel.com/image/teams/1761.png",
     "away": "كروز آزول",
@@ -2352,6 +3234,9 @@
     "time": "5:00 ص"
   },
   {
+    "date": "الأحد 2026/04/12",
+    "round": "الجولة 14",
+    "status": "قريباً",
     "home": "بوماس أونام",
     "homeLogo": "https://jdwel.com/image/teams/2049.png",
     "away": "مازاتلان",
@@ -2360,6 +3245,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الأثنين 2026/04/13",
+    "round": "الجولة 14",
+    "status": "قريباً",
     "home": "تولوكا",
     "homeLogo": "https://jdwel.com/image/teams/2048.png",
     "away": "أتلتيكو سان لويس",
@@ -2368,6 +3256,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "السبت 2026/04/18",
+    "round": "الجولة 15",
+    "status": "قريباً",
     "home": "مازاتلان",
     "homeLogo": "https://jdwel.com/image/teams/92.png",
     "away": "كويريتارو",
@@ -2376,6 +3267,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "السبت 2026/04/18",
+    "round": "الجولة 15",
+    "status": "قريباً",
     "home": "أتلتيكو سان لويس",
     "homeLogo": "https://jdwel.com/image/teams/2192.png",
     "away": "بوماس أونام",
@@ -2384,6 +3278,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "السبت 2026/04/18",
+    "round": "الجولة 15",
+    "status": "قريباً",
     "home": "نيكاكسا",
     "homeLogo": "https://jdwel.com/image/teams/mex_necaxa.png",
     "away": "تايغرز أونال",
@@ -2392,6 +3289,9 @@
     "time": "5:00 ص"
   },
   {
+    "date": "الأحد 2026/04/19",
+    "round": "الجولة 15",
+    "status": "قريباً",
     "home": "كروز آزول",
     "homeLogo": "https://jdwel.com/image/teams/mex_cruz_azul.png",
     "away": "تيخوانا",
@@ -2400,6 +3300,9 @@
     "time": "1:00 ص"
   },
   {
+    "date": "الأحد 2026/04/19",
+    "round": "الجولة 15",
+    "status": "قريباً",
     "home": "مونتيري",
     "homeLogo": "https://jdwel.com/image/teams/3336.png",
     "away": "باتشوكا",
@@ -2408,6 +3311,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2026/04/19",
+    "round": "الجولة 15",
+    "status": "قريباً",
     "home": "غوادالاخارا",
     "homeLogo": "https://jdwel.com/image/teams/2068.png",
     "away": "بويبلا",
@@ -2416,6 +3322,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2026/04/19",
+    "round": "الجولة 15",
+    "status": "قريباً",
     "home": "كلوب أميريكا",
     "homeLogo": "https://jdwel.com/image/teams/1761.png",
     "away": "تولوكا",
@@ -2424,6 +3333,9 @@
     "time": "5:00 ص"
   },
   {
+    "date": "الأحد 2026/04/19",
+    "round": "الجولة 15",
+    "status": "قريباً",
     "home": "كلوب ليون",
     "homeLogo": "https://jdwel.com/image/teams/2047.png",
     "away": "خواريز",
@@ -2432,6 +3344,9 @@
     "time": "5:00 ص"
   },
   {
+    "date": "الأثنين 2026/04/20",
+    "round": "الجولة 15",
+    "status": "قريباً",
     "home": "سانتوس لاغونا",
     "homeLogo": "https://jdwel.com/image/teams/3730.png",
     "away": "أطلس",
@@ -2440,6 +3355,9 @@
     "time": "1:00 ص"
   },
   {
+    "date": "الأربعاء 2026/04/22",
+    "round": "الجولة 16",
+    "status": "قريباً",
     "home": "بوماس أونام",
     "homeLogo": "https://jdwel.com/image/teams/2049.png",
     "away": "خواريز",
@@ -2448,6 +3366,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأربعاء 2026/04/22",
+    "round": "الجولة 16",
+    "status": "قريباً",
     "home": "كويريتارو",
     "homeLogo": "https://jdwel.com/image/teams/2190.png",
     "away": "كروز آزول",
@@ -2456,6 +3377,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأربعاء 2026/04/22",
+    "round": "الجولة 16",
+    "status": "قريباً",
     "home": "مونتيري",
     "homeLogo": "https://jdwel.com/image/teams/3336.png",
     "away": "بويبلا",
@@ -2464,6 +3388,9 @@
     "time": "5:00 ص"
   },
   {
+    "date": "الأربعاء 2026/04/22",
+    "round": "الجولة 16",
+    "status": "قريباً",
     "home": "كلوب ليون",
     "homeLogo": "https://jdwel.com/image/teams/2047.png",
     "away": "كلوب أميريكا",
@@ -2472,6 +3399,9 @@
     "time": "5:00 ص"
   },
   {
+    "date": "الخميس 2026/04/23",
+    "round": "الجولة 16",
+    "status": "قريباً",
     "home": "مازاتلان",
     "homeLogo": "https://jdwel.com/image/teams/92.png",
     "away": "تولوكا",
@@ -2480,6 +3410,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الخميس 2026/04/23",
+    "round": "الجولة 16",
+    "status": "قريباً",
     "home": "أتلتيكو سان لويس",
     "homeLogo": "https://jdwel.com/image/teams/2192.png",
     "away": "سانتوس لاغونا",
@@ -2488,6 +3421,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الخميس 2026/04/23",
+    "round": "الجولة 16",
+    "status": "قريباً",
     "home": "أطلس",
     "homeLogo": "https://jdwel.com/image/teams/mex_atlas.png",
     "away": "تايغرز أونال",
@@ -2496,6 +3432,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الخميس 2026/04/23",
+    "round": "الجولة 16",
+    "status": "قريباً",
     "home": "تيخوانا",
     "homeLogo": "https://jdwel.com/image/teams/mex_tijuana.png",
     "away": "باتشوكا",
@@ -2504,6 +3443,9 @@
     "time": "5:00 ص"
   },
   {
+    "date": "الخميس 2026/04/23",
+    "round": "الجولة 16",
+    "status": "قريباً",
     "home": "نيكاكسا",
     "homeLogo": "https://jdwel.com/image/teams/mex_necaxa.png",
     "away": "غوادالاخارا",
@@ -2512,6 +3454,9 @@
     "time": "5:00 ص"
   },
   {
+    "date": "السبت 2026/04/25",
+    "round": "الجولة 17",
+    "status": "قريباً",
     "home": "بويبلا",
     "homeLogo": "https://jdwel.com/image/teams/2191.png",
     "away": "كويريتارو",
@@ -2520,6 +3465,9 @@
     "time": "6:00 ص"
   },
   {
+    "date": "الأحد 2026/04/26",
+    "round": "الجولة 17",
+    "status": "قريباً",
     "home": "تايغرز أونال",
     "homeLogo": "https://jdwel.com/image/teams/2187.png",
     "away": "مازاتلان",
@@ -2528,6 +3476,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/04/26",
+    "round": "الجولة 17",
+    "status": "قريباً",
     "home": "باتشوكا",
     "homeLogo": "https://jdwel.com/image/teams/3251.png",
     "away": "بوماس أونام",
@@ -2536,6 +3487,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/04/26",
+    "round": "الجولة 17",
+    "status": "قريباً",
     "home": "تولوكا",
     "homeLogo": "https://jdwel.com/image/teams/2048.png",
     "away": "كلوب ليون",
@@ -2544,6 +3498,9 @@
     "time": "4:00 ص"
   },
   {
+    "date": "الأحد 2026/04/26",
+    "round": "الجولة 17",
+    "status": "قريباً",
     "home": "غوادالاخارا",
     "homeLogo": "https://jdwel.com/image/teams/2068.png",
     "away": "تيخوانا",
@@ -2552,6 +3509,9 @@
     "time": "4:00 ص"
   },
   {
+    "date": "الأحد 2026/04/26",
+    "round": "الجولة 17",
+    "status": "قريباً",
     "home": "خواريز",
     "homeLogo": "https://jdwel.com/image/teams/2188.png",
     "away": "أتلتيكو سان لويس",
@@ -2560,6 +3520,9 @@
     "time": "6:00 ص"
   },
   {
+    "date": "الأحد 2026/04/26",
+    "round": "الجولة 17",
+    "status": "قريباً",
     "home": "كلوب أميريكا",
     "homeLogo": "https://jdwel.com/image/teams/1761.png",
     "away": "أطلس",
@@ -2568,6 +3531,9 @@
     "time": "6:00 ص"
   },
   {
+    "date": "الأثنين 2026/04/27",
+    "round": "الجولة 17",
+    "status": "قريباً",
     "home": "سانتوس لاغونا",
     "homeLogo": "https://jdwel.com/image/teams/3730.png",
     "away": "مونتيري",
@@ -2576,6 +3542,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأثنين 2026/04/27",
+    "round": "الجولة 17",
+    "status": "قريباً",
     "home": "كروز آزول",
     "homeLogo": "https://jdwel.com/image/teams/mex_cruz_azul.png",
     "away": "نيكاكسا",

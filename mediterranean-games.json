@@ -1,5 +1,8 @@
 [
   {
+    "date": "الأثنين 2022/07/04",
+    "round": "",
+    "status": "انتهت",
     "home": "فرنسا",
     "homeLogo": "https://jdwel.com/image/teams/4962.png",
     "away": "إيطاليا",
@@ -8,14 +11,9 @@
     "time": "9:45 م"
   },
   {
-    "home": "تركيا",
-    "homeLogo": "https://jdwel.com/image/teams/238.png",
-    "away": "المغرب",
-    "awayLogo": "https://jdwel.com/image/teams/3168.png",
-    "score": "2 - 4",
-    "time": "6:00 م"
-  },
-  {
+    "date": "السبت 2022/07/02",
+    "round": "",
+    "status": "انتهت",
     "home": "إيطاليا",
     "homeLogo": "https://jdwel.com/image/teams/56.png",
     "away": "المغرب",
@@ -24,6 +22,9 @@
     "time": "10:00 م"
   },
   {
+    "date": "السبت 2022/07/02",
+    "round": "",
+    "status": "انتهت",
     "home": "فرنسا",
     "homeLogo": "https://jdwel.com/image/teams/4962.png",
     "away": "تركيا",
@@ -32,6 +33,9 @@
     "time": "6:30 م"
   },
   {
+    "date": "الخميس 2022/06/30",
+    "round": "",
+    "status": "انتهت",
     "home": "المغرب",
     "homeLogo": "https://jdwel.com/image/teams/3168.png",
     "away": "إسبانيا",
@@ -40,6 +44,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الخميس 2022/06/30",
+    "round": "",
+    "status": "انتهت",
     "home": "الجزائر",
     "homeLogo": "https://jdwel.com/image/teams/flag_algeria_v2.png",
     "away": "فرنسا",
@@ -48,6 +55,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الخميس 2022/06/30",
+    "round": "",
+    "status": "انتهت",
     "home": "تركيا",
     "homeLogo": "https://jdwel.com/image/teams/238.png",
     "away": "إيطاليا",
@@ -56,6 +66,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الخميس 2022/06/30",
+    "round": "",
+    "status": "انتهت",
     "home": "البرتغال",
     "homeLogo": "https://jdwel.com/image/teams/2562.png",
     "away": "اليونان",
@@ -64,6 +77,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الثلاثاء 2022/06/28",
+    "round": "",
+    "status": "انتهت",
     "home": "إسبانيا",
     "homeLogo": "https://jdwel.com/image/teams/flag_spain_v2.png",
     "away": "فرنسا",
@@ -72,6 +88,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الثلاثاء 2022/06/28",
+    "round": "",
+    "status": "انتهت",
     "home": "البرتغال",
     "homeLogo": "https://jdwel.com/image/teams/2562.png",
     "away": "تركيا",
@@ -80,6 +99,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الثلاثاء 2022/06/28",
+    "round": "",
+    "status": "انتهت",
     "home": "الجزائر",
     "homeLogo": "https://jdwel.com/image/teams/flag_algeria_v2.png",
     "away": "المغرب",
@@ -88,6 +110,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الثلاثاء 2022/06/28",
+    "round": "",
+    "status": "انتهت",
     "home": "إيطاليا",
     "homeLogo": "https://jdwel.com/image/teams/56.png",
     "away": "اليونان",
@@ -96,6 +121,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2022/06/26",
+    "round": "",
+    "status": "انتهت",
     "home": "فرنسا",
     "homeLogo": "https://jdwel.com/image/teams/4962.png",
     "away": "المغرب",
@@ -104,6 +132,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الأحد 2022/06/26",
+    "round": "",
+    "status": "انتهت",
     "home": "إيطاليا",
     "homeLogo": "https://jdwel.com/image/teams/56.png",
     "away": "البرتغال",
@@ -112,6 +143,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الأحد 2022/06/26",
+    "round": "",
+    "status": "انتهت",
     "home": "إسبانيا",
     "homeLogo": "https://jdwel.com/image/teams/flag_spain_v2.png",
     "away": "الجزائر",
@@ -120,6 +154,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2022/06/26",
+    "round": "",
+    "status": "انتهت",
     "home": "اليونان",
     "homeLogo": "https://jdwel.com/image/teams/221.png",
     "away": "تركيا",

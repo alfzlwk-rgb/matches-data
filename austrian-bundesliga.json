@@ -1,5 +1,8 @@
 [
   {
+    "date": "الجمعة 2025/08/01",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "لاسك لينز",
     "homeLogo": "https://jdwel.com/image/teams/1167.png",
     "away": "شتورم غراتس",
@@ -8,6 +11,9 @@
     "time": "9:30 م"
   },
   {
+    "date": "السبت 2025/08/02",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "ولفسبرجر",
     "homeLogo": "https://jdwel.com/image/teams/2319.png",
     "away": "رايندورف ألتاخ",
@@ -16,6 +22,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/08/02",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "فاتينس تيرول",
     "homeLogo": "https://jdwel.com/image/teams/581.png",
     "away": "هارتبرغ",
@@ -24,6 +33,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/08/02",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "رييد",
     "homeLogo": "https://jdwel.com/image/teams/3416.png",
     "away": "ريد بول سالزبورغ",
@@ -32,6 +44,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "الأحد 2025/08/03",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "غراتزر أي كاي",
     "homeLogo": "https://jdwel.com/image/teams/687.png",
     "away": "أوستريا فيينا",
@@ -40,6 +55,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2025/08/03",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "رابيد فيينا",
     "homeLogo": "https://jdwel.com/image/teams/aus_rapid_wien.png",
     "away": "بلاو فايس لينتس",
@@ -48,6 +66,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/08/09",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "بلاو فايس لينتس",
     "homeLogo": "https://jdwel.com/image/teams/aus_blau-weis_linz.png",
     "away": "هارتبرغ",
@@ -56,6 +77,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/08/09",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "رايندورف ألتاخ",
     "homeLogo": "https://jdwel.com/image/teams/3414.png",
     "away": "رييد",
@@ -64,6 +88,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/08/09",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "ريد بول سالزبورغ",
     "homeLogo": "https://jdwel.com/image/teams/3322.png",
     "away": "غراتزر أي كاي",
@@ -72,6 +99,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "الأحد 2025/08/10",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "أوستريا فيينا",
     "homeLogo": "https://jdwel.com/image/teams/3360.png",
     "away": "ولفسبرجر",
@@ -80,6 +110,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2025/08/10",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "شتورم غراتس",
     "homeLogo": "https://jdwel.com/image/teams/1121.png",
     "away": "رابيد فيينا",
@@ -88,6 +121,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2025/08/10",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "فاتينس تيرول",
     "homeLogo": "https://jdwel.com/image/teams/581.png",
     "away": "لاسك لينز",
@@ -96,6 +132,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/08/16",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "غراتزر أي كاي",
     "homeLogo": "https://jdwel.com/image/teams/687.png",
     "away": "فاتينس تيرول",
@@ -104,6 +143,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/08/16",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "هارتبرغ",
     "homeLogo": "https://jdwel.com/image/teams/2320.png",
     "away": "ريد بول سالزبورغ",
@@ -112,6 +154,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/08/16",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "رييد",
     "homeLogo": "https://jdwel.com/image/teams/3416.png",
     "away": "شتورم غراتس",
@@ -120,6 +165,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "الأحد 2025/08/17",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "لاسك لينز",
     "homeLogo": "https://jdwel.com/image/teams/1167.png",
     "away": "أوستريا فيينا",
@@ -128,6 +176,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2025/08/17",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "رابيد فيينا",
     "homeLogo": "https://jdwel.com/image/teams/aus_rapid_wien.png",
     "away": "رايندورف ألتاخ",
@@ -136,6 +187,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2025/08/17",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "ولفسبرجر",
     "homeLogo": "https://jdwel.com/image/teams/2319.png",
     "away": "بلاو فايس لينتس",
@@ -144,6 +198,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/08/23",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "بلاو فايس لينتس",
     "homeLogo": "https://jdwel.com/image/teams/aus_blau-weis_linz.png",
     "away": "رييد",
@@ -152,6 +209,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/08/23",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "ريد بول سالزبورغ",
     "homeLogo": "https://jdwel.com/image/teams/3322.png",
     "away": "لاسك لينز",
@@ -160,6 +220,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2025/08/24",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "أوستريا فيينا",
     "homeLogo": "https://jdwel.com/image/teams/3360.png",
     "away": "هارتبرغ",
@@ -168,6 +231,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2025/08/24",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "رايندورف ألتاخ",
     "homeLogo": "https://jdwel.com/image/teams/3414.png",
     "away": "غراتزر أي كاي",
@@ -176,6 +242,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2025/08/24",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "ولفسبرجر",
     "homeLogo": "https://jdwel.com/image/teams/2319.png",
     "away": "رابيد فيينا",
@@ -184,6 +253,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/08/30",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "لاسك لينز",
     "homeLogo": "https://jdwel.com/image/teams/1167.png",
     "away": "رييد",
@@ -192,6 +264,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/08/30",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "ريد بول سالزبورغ",
     "homeLogo": "https://jdwel.com/image/teams/3322.png",
     "away": "بلاو فايس لينتس",
@@ -200,6 +275,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/08/30",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "غراتزر أي كاي",
     "homeLogo": "https://jdwel.com/image/teams/687.png",
     "away": "شتورم غراتس",
@@ -208,6 +286,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "الأحد 2025/08/31",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "أوستريا فيينا",
     "homeLogo": "https://jdwel.com/image/teams/3360.png",
     "away": "رايندورف ألتاخ",
@@ -216,6 +297,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2025/08/31",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "هارتبرغ",
     "homeLogo": "https://jdwel.com/image/teams/2320.png",
     "away": "رابيد فيينا",
@@ -224,6 +308,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2025/08/31",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "فاتينس تيرول",
     "homeLogo": "https://jdwel.com/image/teams/581.png",
     "away": "ولفسبرجر",
@@ -232,6 +319,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/09/13",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "بلاو فايس لينتس",
     "homeLogo": "https://jdwel.com/image/teams/aus_blau-weis_linz.png",
     "away": "غراتزر أي كاي",
@@ -240,6 +330,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/09/13",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "رايندورف ألتاخ",
     "homeLogo": "https://jdwel.com/image/teams/3414.png",
     "away": "لاسك لينز",
@@ -248,6 +341,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/09/13",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "ولفسبرجر",
     "homeLogo": "https://jdwel.com/image/teams/2319.png",
     "away": "ريد بول سالزبورغ",
@@ -256,6 +352,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2025/09/14",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "رابيد فيينا",
     "homeLogo": "https://jdwel.com/image/teams/aus_rapid_wien.png",
     "away": "فاتينس تيرول",
@@ -264,6 +363,9 @@
     "time": "3:30 م"
   },
   {
+    "date": "الأحد 2025/09/14",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "رييد",
     "homeLogo": "https://jdwel.com/image/teams/3416.png",
     "away": "هارتبرغ",
@@ -272,6 +374,9 @@
     "time": "3:30 م"
   },
   {
+    "date": "الأحد 2025/09/14",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "شتورم غراتس",
     "homeLogo": "https://jdwel.com/image/teams/1121.png",
     "away": "أوستريا فيينا",
@@ -280,6 +385,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/09/20",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "أوستريا فيينا",
     "homeLogo": "https://jdwel.com/image/teams/3360.png",
     "away": "رييد",
@@ -288,6 +396,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/09/20",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "ريد بول سالزبورغ",
     "homeLogo": "https://jdwel.com/image/teams/3322.png",
     "away": "شتورم غراتس",
@@ -296,6 +407,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/09/20",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "هارتبرغ",
     "homeLogo": "https://jdwel.com/image/teams/2320.png",
     "away": "ولفسبرجر",
@@ -304,6 +418,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2025/09/21",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "لاسك لينز",
     "homeLogo": "https://jdwel.com/image/teams/1167.png",
     "away": "بلاو فايس لينتس",
@@ -312,6 +429,9 @@
     "time": "3:30 م"
   },
   {
+    "date": "الأحد 2025/09/21",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "رايندورف ألتاخ",
     "homeLogo": "https://jdwel.com/image/teams/3414.png",
     "away": "فاتينس تيرول",
@@ -320,6 +440,9 @@
     "time": "3:30 م"
   },
   {
+    "date": "الأحد 2025/09/21",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "غراتزر أي كاي",
     "homeLogo": "https://jdwel.com/image/teams/687.png",
     "away": "رابيد فيينا",
@@ -328,6 +451,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/09/27",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "بلاو فايس لينتس",
     "homeLogo": "https://jdwel.com/image/teams/aus_blau-weis_linz.png",
     "away": "رايندورف ألتاخ",
@@ -336,6 +462,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/09/27",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "رييد",
     "homeLogo": "https://jdwel.com/image/teams/3416.png",
     "away": "غراتزر أي كاي",
@@ -344,6 +473,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/09/27",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "ولفسبرجر",
     "homeLogo": "https://jdwel.com/image/teams/2319.png",
     "away": "لاسك لينز",
@@ -352,6 +484,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2025/09/28",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "شتورم غراتس",
     "homeLogo": "https://jdwel.com/image/teams/1121.png",
     "away": "هارتبرغ",
@@ -360,6 +495,9 @@
     "time": "3:30 م"
   },
   {
+    "date": "الأحد 2025/09/28",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "فاتينس تيرول",
     "homeLogo": "https://jdwel.com/image/teams/581.png",
     "away": "ريد بول سالزبورغ",
@@ -368,6 +506,9 @@
     "time": "3:30 م"
   },
   {
+    "date": "الأحد 2025/09/28",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "رابيد فيينا",
     "homeLogo": "https://jdwel.com/image/teams/aus_rapid_wien.png",
     "away": "أوستريا فيينا",
@@ -376,6 +517,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/10/04",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "أوستريا فيينا",
     "homeLogo": "https://jdwel.com/image/teams/3360.png",
     "away": "بلاو فايس لينتس",
@@ -384,6 +528,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/10/04",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "غراتزر أي كاي",
     "homeLogo": "https://jdwel.com/image/teams/687.png",
     "away": "ولفسبرجر",
@@ -392,6 +539,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/10/04",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "رييد",
     "homeLogo": "https://jdwel.com/image/teams/3416.png",
     "away": "فاتينس تيرول",
@@ -400,6 +550,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2025/10/05",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "لاسك لينز",
     "homeLogo": "https://jdwel.com/image/teams/1167.png",
     "away": "هارتبرغ",
@@ -408,6 +561,9 @@
     "time": "3:30 م"
   },
   {
+    "date": "الأحد 2025/10/05",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "رايندورف ألتاخ",
     "homeLogo": "https://jdwel.com/image/teams/3414.png",
     "away": "شتورم غراتس",
@@ -416,6 +572,9 @@
     "time": "3:30 م"
   },
   {
+    "date": "الأحد 2025/10/05",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "ريد بول سالزبورغ",
     "homeLogo": "https://jdwel.com/image/teams/3322.png",
     "away": "رابيد فيينا",
@@ -424,6 +583,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/10/18",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "غراتزر أي كاي",
     "homeLogo": "https://jdwel.com/image/teams/687.png",
     "away": "هارتبرغ",
@@ -432,6 +594,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/10/18",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "ولفسبرجر",
     "homeLogo": "https://jdwel.com/image/teams/2319.png",
     "away": "رييد",
@@ -440,6 +605,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/10/18",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "فاتينس تيرول",
     "homeLogo": "https://jdwel.com/image/teams/581.png",
     "away": "أوستريا فيينا",
@@ -448,6 +616,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2025/10/19",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "بلاو فايس لينتس",
     "homeLogo": "https://jdwel.com/image/teams/aus_blau-weis_linz.png",
     "away": "شتورم غراتس",
@@ -456,6 +627,9 @@
     "time": "3:30 م"
   },
   {
+    "date": "الأحد 2025/10/19",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "ريد بول سالزبورغ",
     "homeLogo": "https://jdwel.com/image/teams/3322.png",
     "away": "رايندورف ألتاخ",
@@ -464,6 +638,9 @@
     "time": "3:30 م"
   },
   {
+    "date": "الأحد 2025/10/19",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "رابيد فيينا",
     "homeLogo": "https://jdwel.com/image/teams/aus_rapid_wien.png",
     "away": "لاسك لينز",
@@ -472,6 +649,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/10/25",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "لاسك لينز",
     "homeLogo": "https://jdwel.com/image/teams/1167.png",
     "away": "غراتزر أي كاي",
@@ -480,6 +660,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/10/25",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "رايندورف ألتاخ",
     "homeLogo": "https://jdwel.com/image/teams/3414.png",
     "away": "هارتبرغ",
@@ -488,6 +671,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/10/25",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "فاتينس تيرول",
     "homeLogo": "https://jdwel.com/image/teams/581.png",
     "away": "بلاو فايس لينتس",
@@ -496,6 +682,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2025/10/26",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "شتورم غراتس",
     "homeLogo": "https://jdwel.com/image/teams/1121.png",
     "away": "ولفسبرجر",
@@ -504,6 +693,9 @@
     "time": "4:30 م"
   },
   {
+    "date": "الأحد 2025/10/26",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "رييد",
     "homeLogo": "https://jdwel.com/image/teams/3416.png",
     "away": "رابيد فيينا",
@@ -512,6 +704,9 @@
     "time": "4:30 م"
   },
   {
+    "date": "الأحد 2025/10/26",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "أوستريا فيينا",
     "homeLogo": "https://jdwel.com/image/teams/3360.png",
     "away": "ريد بول سالزبورغ",
@@ -520,6 +715,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "السبت 2025/11/01",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "بلاو فايس لينتس",
     "homeLogo": "https://jdwel.com/image/teams/aus_blau-weis_linz.png",
     "away": "لاسك لينز",
@@ -528,6 +726,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/11/01",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "غراتزر أي كاي",
     "homeLogo": "https://jdwel.com/image/teams/687.png",
     "away": "رايندورف ألتاخ",
@@ -536,6 +737,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/11/01",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "هارتبرغ",
     "homeLogo": "https://jdwel.com/image/teams/2320.png",
     "away": "أوستريا فيينا",
@@ -544,6 +748,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2025/11/02",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "ريد بول سالزبورغ",
     "homeLogo": "https://jdwel.com/image/teams/3322.png",
     "away": "رييد",
@@ -552,6 +759,9 @@
     "time": "3:30 م"
   },
   {
+    "date": "الأحد 2025/11/02",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "ولفسبرجر",
     "homeLogo": "https://jdwel.com/image/teams/2319.png",
     "away": "فاتينس تيرول",
@@ -560,6 +770,9 @@
     "time": "3:30 م"
   },
   {
+    "date": "الأحد 2025/11/02",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "رابيد فيينا",
     "homeLogo": "https://jdwel.com/image/teams/aus_rapid_wien.png",
     "away": "شتورم غراتس",
@@ -568,6 +781,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/11/08",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "أوستريا فيينا",
     "homeLogo": "https://jdwel.com/image/teams/3360.png",
     "away": "غراتزر أي كاي",
@@ -576,6 +792,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/11/08",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "رييد",
     "homeLogo": "https://jdwel.com/image/teams/3416.png",
     "away": "بلاو فايس لينتس",
@@ -584,6 +803,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/11/08",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "ولفسبرجر",
     "homeLogo": "https://jdwel.com/image/teams/2319.png",
     "away": "هارتبرغ",
@@ -592,6 +814,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2025/11/09",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "لاسك لينز",
     "homeLogo": "https://jdwel.com/image/teams/1167.png",
     "away": "رايندورف ألتاخ",
@@ -600,6 +825,9 @@
     "time": "3:30 م"
   },
   {
+    "date": "الأحد 2025/11/09",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "فاتينس تيرول",
     "homeLogo": "https://jdwel.com/image/teams/581.png",
     "away": "رابيد فيينا",
@@ -608,6 +836,9 @@
     "time": "3:30 م"
   },
   {
+    "date": "الأحد 2025/11/09",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "شتورم غراتس",
     "homeLogo": "https://jdwel.com/image/teams/1121.png",
     "away": "ريد بول سالزبورغ",
@@ -616,6 +847,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/11/22",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "بلاو فايس لينتس",
     "homeLogo": "https://jdwel.com/image/teams/aus_blau-weis_linz.png",
     "away": "أوستريا فيينا",
@@ -624,6 +858,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/11/22",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "رايندورف ألتاخ",
     "homeLogo": "https://jdwel.com/image/teams/3414.png",
     "away": "ولفسبرجر",
@@ -632,6 +869,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/11/22",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "هارتبرغ",
     "homeLogo": "https://jdwel.com/image/teams/2320.png",
     "away": "رييد",
@@ -640,6 +880,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2025/11/23",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "ريد بول سالزبورغ",
     "homeLogo": "https://jdwel.com/image/teams/3322.png",
     "away": "فاتينس تيرول",
@@ -648,6 +891,9 @@
     "time": "3:30 م"
   },
   {
+    "date": "الأحد 2025/11/23",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "شتورم غراتس",
     "homeLogo": "https://jdwel.com/image/teams/1121.png",
     "away": "لاسك لينز",
@@ -656,6 +902,9 @@
     "time": "3:30 م"
   },
   {
+    "date": "الأحد 2025/11/23",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "رابيد فيينا",
     "homeLogo": "https://jdwel.com/image/teams/aus_rapid_wien.png",
     "away": "غراتزر أي كاي",
@@ -664,6 +913,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/11/29",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "أوستريا فيينا",
     "homeLogo": "https://jdwel.com/image/teams/3360.png",
     "away": "فاتينس تيرول",
@@ -672,6 +924,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/11/29",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "غراتزر أي كاي",
     "homeLogo": "https://jdwel.com/image/teams/687.png",
     "away": "بلاو فايس لينتس",
@@ -680,6 +935,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/11/29",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "رييد",
     "homeLogo": "https://jdwel.com/image/teams/3416.png",
     "away": "ولفسبرجر",
@@ -688,6 +946,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2025/11/30",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "رايندورف ألتاخ",
     "homeLogo": "https://jdwel.com/image/teams/3414.png",
     "away": "ريد بول سالزبورغ",
@@ -696,6 +957,9 @@
     "time": "3:30 م"
   },
   {
+    "date": "الأحد 2025/11/30",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "هارتبرغ",
     "homeLogo": "https://jdwel.com/image/teams/2320.png",
     "away": "شتورم غراتس",
@@ -704,6 +968,9 @@
     "time": "3:30 م"
   },
   {
+    "date": "الأحد 2025/11/30",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "لاسك لينز",
     "homeLogo": "https://jdwel.com/image/teams/1167.png",
     "away": "رابيد فيينا",
@@ -712,6 +979,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأربعاء 2025/12/03",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "شتورم غراتس",
     "homeLogo": "https://jdwel.com/image/teams/1121.png",
     "away": "فاتينس تيرول",
@@ -720,6 +990,9 @@
     "time": "9:30 م"
   },
   {
+    "date": "السبت 2025/12/06",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "بلاو فايس لينتس",
     "homeLogo": "https://jdwel.com/image/teams/aus_blau-weis_linz.png",
     "away": "ريد بول سالزبورغ",
@@ -728,6 +1001,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/12/06",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "رابيد فيينا",
     "homeLogo": "https://jdwel.com/image/teams/aus_rapid_wien.png",
     "away": "رييد",
@@ -736,6 +1012,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/12/06",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "هارتبرغ",
     "homeLogo": "https://jdwel.com/image/teams/2320.png",
     "away": "لاسك لينز",
@@ -744,6 +1023,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2025/12/07",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "ولفسبرجر",
     "homeLogo": "https://jdwel.com/image/teams/2319.png",
     "away": "أوستريا فيينا",
@@ -752,6 +1034,9 @@
     "time": "3:30 م"
   },
   {
+    "date": "الأحد 2025/12/07",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "فاتينس تيرول",
     "homeLogo": "https://jdwel.com/image/teams/581.png",
     "away": "رايندورف ألتاخ",
@@ -760,6 +1045,9 @@
     "time": "3:30 م"
   },
   {
+    "date": "الأحد 2025/12/07",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "شتورم غراتس",
     "homeLogo": "https://jdwel.com/image/teams/1121.png",
     "away": "غراتزر أي كاي",
@@ -768,6 +1056,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/12/13",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "غراتزر أي كاي",
     "homeLogo": "https://jdwel.com/image/teams/687.png",
     "away": "لاسك لينز",
@@ -776,6 +1067,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/12/13",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "رييد",
     "homeLogo": "https://jdwel.com/image/teams/3416.png",
     "away": "رايندورف ألتاخ",
@@ -784,6 +1078,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/12/13",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "هارتبرغ",
     "homeLogo": "https://jdwel.com/image/teams/2320.png",
     "away": "فاتينس تيرول",
@@ -792,6 +1089,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2025/12/14",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "بلاو فايس لينتس",
     "homeLogo": "https://jdwel.com/image/teams/aus_blau-weis_linz.png",
     "away": "رابيد فيينا",
@@ -800,6 +1100,9 @@
     "time": "3:30 م"
   },
   {
+    "date": "الأحد 2025/12/14",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "ريد بول سالزبورغ",
     "homeLogo": "https://jdwel.com/image/teams/3322.png",
     "away": "ولفسبرجر",
@@ -808,6 +1111,9 @@
     "time": "3:30 م"
   },
   {
+    "date": "الأحد 2025/12/14",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "أوستريا فيينا",
     "homeLogo": "https://jdwel.com/image/teams/3360.png",
     "away": "شتورم غراتس",
@@ -816,6 +1122,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الجمعة 2026/02/06",
+    "round": "الجولة 18",
+    "status": "قريباً",
     "home": "ريد بول سالزبورغ",
     "homeLogo": "https://jdwel.com/image/teams/3322.png",
     "away": "أوستريا فيينا",
@@ -824,6 +1133,9 @@
     "time": "9:30 م"
   },
   {
+    "date": "السبت 2026/02/07",
+    "round": "الجولة 18",
+    "status": "قريباً",
     "home": "لاسك لينز",
     "homeLogo": "https://jdwel.com/image/teams/1167.png",
     "away": "فاتينس تيرول",
@@ -832,6 +1144,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2026/02/07",
+    "round": "الجولة 18",
+    "status": "قريباً",
     "home": "رابيد فيينا",
     "homeLogo": "https://jdwel.com/image/teams/aus_rapid_wien.png",
     "away": "هارتبرغ",
@@ -840,6 +1155,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2026/02/08",
+    "round": "الجولة 18",
+    "status": "قريباً",
     "home": "رايندورف ألتاخ",
     "homeLogo": "https://jdwel.com/image/teams/3414.png",
     "away": "بلاو فايس لينتس",
@@ -848,6 +1166,9 @@
     "time": "3:30 م"
   },
   {
+    "date": "الأحد 2026/02/08",
+    "round": "الجولة 18",
+    "status": "قريباً",
     "home": "ولفسبرجر",
     "homeLogo": "https://jdwel.com/image/teams/2319.png",
     "away": "غراتزر أي كاي",
@@ -856,6 +1177,9 @@
     "time": "3:30 م"
   },
   {
+    "date": "الأحد 2026/02/08",
+    "round": "الجولة 18",
+    "status": "قريباً",
     "home": "شتورم غراتس",
     "homeLogo": "https://jdwel.com/image/teams/1121.png",
     "away": "رييد",
@@ -864,6 +1188,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2026/02/14",
+    "round": "الجولة 19",
+    "status": "قريباً",
     "home": "رييد",
     "homeLogo": "https://jdwel.com/image/teams/3416.png",
     "away": "لاسك لينز",
@@ -872,6 +1199,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2026/02/14",
+    "round": "الجولة 19",
+    "status": "قريباً",
     "home": "هارتبرغ",
     "homeLogo": "https://jdwel.com/image/teams/2320.png",
     "away": "رايندورف ألتاخ",
@@ -880,6 +1210,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2026/02/14",
+    "round": "الجولة 19",
+    "status": "قريباً",
     "home": "فاتينس تيرول",
     "homeLogo": "https://jdwel.com/image/teams/581.png",
     "away": "شتورم غراتس",
@@ -888,6 +1221,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2026/02/15",
+    "round": "الجولة 19",
+    "status": "قريباً",
     "home": "بلاو فايس لينتس",
     "homeLogo": "https://jdwel.com/image/teams/aus_blau-weis_linz.png",
     "away": "ولفسبرجر",
@@ -896,6 +1232,9 @@
     "time": "3:30 م"
   },
   {
+    "date": "الأحد 2026/02/15",
+    "round": "الجولة 19",
+    "status": "قريباً",
     "home": "غراتزر أي كاي",
     "homeLogo": "https://jdwel.com/image/teams/687.png",
     "away": "ريد بول سالزبورغ",
@@ -904,6 +1243,9 @@
     "time": "3:30 م"
   },
   {
+    "date": "الأحد 2026/02/15",
+    "round": "الجولة 19",
+    "status": "قريباً",
     "home": "أوستريا فيينا",
     "homeLogo": "https://jdwel.com/image/teams/3360.png",
     "away": "رابيد فيينا",
@@ -912,6 +1254,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2026/02/21",
+    "round": "الجولة 20",
+    "status": "قريباً",
     "home": "رايندورف ألتاخ",
     "homeLogo": "https://jdwel.com/image/teams/3414.png",
     "away": "أوستريا فيينا",
@@ -920,6 +1265,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2026/02/21",
+    "round": "الجولة 20",
+    "status": "قريباً",
     "home": "رابيد فيينا",
     "homeLogo": "https://jdwel.com/image/teams/aus_rapid_wien.png",
     "away": "ولفسبرجر",
@@ -928,6 +1276,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2026/02/21",
+    "round": "الجولة 20",
+    "status": "قريباً",
     "home": "هارتبرغ",
     "homeLogo": "https://jdwel.com/image/teams/2320.png",
     "away": "غراتزر أي كاي",
@@ -936,6 +1287,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2026/02/22",
+    "round": "الجولة 20",
+    "status": "قريباً",
     "home": "شتورم غراتس",
     "homeLogo": "https://jdwel.com/image/teams/1121.png",
     "away": "بلاو فايس لينتس",
@@ -944,6 +1298,9 @@
     "time": "3:30 م"
   },
   {
+    "date": "الأحد 2026/02/22",
+    "round": "الجولة 20",
+    "status": "قريباً",
     "home": "فاتينس تيرول",
     "homeLogo": "https://jdwel.com/image/teams/581.png",
     "away": "رييد",
@@ -952,6 +1309,9 @@
     "time": "3:30 م"
   },
   {
+    "date": "الأحد 2026/02/22",
+    "round": "الجولة 20",
+    "status": "قريباً",
     "home": "لاسك لينز",
     "homeLogo": "https://jdwel.com/image/teams/1167.png",
     "away": "ريد بول سالزبورغ",
@@ -960,6 +1320,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2026/03/01",
+    "round": "الجولة 21",
+    "status": "قريباً",
     "home": "أوستريا فيينا",
     "homeLogo": "https://jdwel.com/image/teams/3360.png",
     "away": "لاسك لينز",
@@ -968,6 +1331,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2026/03/01",
+    "round": "الجولة 21",
+    "status": "قريباً",
     "home": "بلاو فايس لينتس",
     "homeLogo": "https://jdwel.com/image/teams/aus_blau-weis_linz.png",
     "away": "فاتينس تيرول",
@@ -976,6 +1342,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2026/03/01",
+    "round": "الجولة 21",
+    "status": "قريباً",
     "home": "غراتزر أي كاي",
     "homeLogo": "https://jdwel.com/image/teams/687.png",
     "away": "رييد",
@@ -984,6 +1353,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2026/03/01",
+    "round": "الجولة 21",
+    "status": "قريباً",
     "home": "ريد بول سالزبورغ",
     "homeLogo": "https://jdwel.com/image/teams/3322.png",
     "away": "هارتبرغ",
@@ -992,6 +1364,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2026/03/01",
+    "round": "الجولة 21",
+    "status": "قريباً",
     "home": "رايندورف ألتاخ",
     "homeLogo": "https://jdwel.com/image/teams/3414.png",
     "away": "رابيد فيينا",
@@ -1000,6 +1375,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2026/03/01",
+    "round": "الجولة 21",
+    "status": "قريباً",
     "home": "ولفسبرجر",
     "homeLogo": "https://jdwel.com/image/teams/2319.png",
     "away": "شتورم غراتس",
@@ -1008,6 +1386,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2026/03/08",
+    "round": "الجولة 22",
+    "status": "قريباً",
     "home": "لاسك لينز",
     "homeLogo": "https://jdwel.com/image/teams/1167.png",
     "away": "ولفسبرجر",
@@ -1016,6 +1397,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2026/03/08",
+    "round": "الجولة 22",
+    "status": "قريباً",
     "home": "رابيد فيينا",
     "homeLogo": "https://jdwel.com/image/teams/aus_rapid_wien.png",
     "away": "ريد بول سالزبورغ",
@@ -1024,6 +1408,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2026/03/08",
+    "round": "الجولة 22",
+    "status": "قريباً",
     "home": "شتورم غراتس",
     "homeLogo": "https://jdwel.com/image/teams/1121.png",
     "away": "رايندورف ألتاخ",
@@ -1032,6 +1419,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2026/03/08",
+    "round": "الجولة 22",
+    "status": "قريباً",
     "home": "رييد",
     "homeLogo": "https://jdwel.com/image/teams/3416.png",
     "away": "أوستريا فيينا",
@@ -1040,6 +1430,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2026/03/08",
+    "round": "الجولة 22",
+    "status": "قريباً",
     "home": "هارتبرغ",
     "homeLogo": "https://jdwel.com/image/teams/2320.png",
     "away": "بلاو فايس لينتس",
@@ -1048,6 +1441,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2026/03/08",
+    "round": "الجولة 22",
+    "status": "قريباً",
     "home": "فاتينس تيرول",
     "homeLogo": "https://jdwel.com/image/teams/581.png",
     "away": "غراتزر أي كاي",

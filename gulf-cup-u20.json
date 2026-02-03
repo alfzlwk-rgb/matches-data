@@ -1,5 +1,8 @@
 [
   {
+    "date": "الأربعاء 2025/09/10",
+    "round": "",
+    "status": "انتهت",
     "home": "السعودية",
     "homeLogo": "https://jdwel.com/image/teams/2502.png",
     "away": "اليمن",
@@ -8,6 +11,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الأحد 2025/09/07",
+    "round": "",
+    "status": "انتهت",
     "home": "عمان",
     "homeLogo": "https://jdwel.com/image/teams/flag_oman_v2.png",
     "away": "اليمن",
@@ -16,6 +22,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الأحد 2025/09/07",
+    "round": "",
+    "status": "انتهت",
     "home": "السعودية",
     "homeLogo": "https://jdwel.com/image/teams/2502.png",
     "away": "العراق",
@@ -24,6 +33,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الخميس 2025/09/04",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "البحرين",
     "homeLogo": "https://jdwel.com/image/teams/flag_bahrain_v2.png",
     "away": "مصر",
@@ -32,6 +44,9 @@
     "time": "4:30 م"
   },
   {
+    "date": "الخميس 2025/09/04",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "العراق",
     "homeLogo": "https://jdwel.com/image/teams/flag_iraq_v2.png",
     "away": "عمان",
@@ -40,6 +55,9 @@
     "time": "4:30 م"
   },
   {
+    "date": "الأربعاء 2025/09/03",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "قطر",
     "homeLogo": "https://jdwel.com/image/teams/flag_qatar_v2.png",
     "away": "السعودية",
@@ -48,6 +66,9 @@
     "time": "4:30 م"
   },
   {
+    "date": "الأربعاء 2025/09/03",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "اليمن",
     "homeLogo": "https://jdwel.com/image/teams/37.png",
     "away": "الكويت",
@@ -56,6 +77,9 @@
     "time": "4:30 م"
   },
   {
+    "date": "الأثنين 2025/09/01",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "عمان",
     "homeLogo": "https://jdwel.com/image/teams/flag_oman_v2.png",
     "away": "البحرين",
@@ -64,6 +88,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأثنين 2025/09/01",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "العراق",
     "homeLogo": "https://jdwel.com/image/teams/flag_iraq_v2.png",
     "away": "مصر",
@@ -72,6 +99,9 @@
     "time": "4:30 م"
   },
   {
+    "date": "الأحد 2025/08/31",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "الكويت",
     "homeLogo": "https://jdwel.com/image/teams/flag_kuwait_v2.png",
     "away": "السعودية",
@@ -80,6 +110,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأحد 2025/08/31",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "قطر",
     "homeLogo": "https://jdwel.com/image/teams/flag_qatar_v2.png",
     "away": "اليمن",
@@ -88,6 +121,9 @@
     "time": "4:30 م"
   },
   {
+    "date": "الجمعة 2025/08/29",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "العراق",
     "homeLogo": "https://jdwel.com/image/teams/flag_iraq_v2.png",
     "away": "البحرين",
@@ -96,6 +132,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الجمعة 2025/08/29",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "عمان",
     "homeLogo": "https://jdwel.com/image/teams/flag_oman_v2.png",
     "away": "مصر",
@@ -104,6 +143,9 @@
     "time": "4:30 م"
   },
   {
+    "date": "الخميس 2025/08/28",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "قطر",
     "homeLogo": "https://jdwel.com/image/teams/flag_qatar_v2.png",
     "away": "الكويت",
@@ -112,6 +154,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "الخميس 2025/08/28",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "السعودية",
     "homeLogo": "https://jdwel.com/image/teams/2502.png",
     "away": "اليمن",

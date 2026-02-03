@@ -1,5 +1,8 @@
 [
   {
+    "date": "السبت 2025/09/13",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "شباب باتنة",
     "homeLogo": "https://jdwel.com/image/teams/2618.png",
     "away": "إتحاد الشاوية",
@@ -8,6 +11,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/09/13",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "شبيبة جيجل",
     "homeLogo": "https://jdwel.com/image/teams/3885.png",
     "away": "هلال شلغوم العيد",
@@ -16,6 +22,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/09/13",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "نادي التلاغمة",
     "homeLogo": "https://jdwel.com/image/teams/2619.png",
     "away": "إتحاد عنابة",
@@ -24,6 +33,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/09/13",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "نجم مقرة",
     "homeLogo": "https://jdwel.com/image/teams/1107.png",
     "away": "جمعية الخروب",
@@ -32,86 +44,9 @@
     "time": "6:00 م"
   },
   {
-    "home": "إتحاد الحراش",
-    "homeLogo": "https://jdwel.com/image/teams/2623.png",
-    "away": "مولودية سعيدة",
-    "awayLogo": "https://jdwel.com/image/teams/990.png",
-    "score": "0 - 0",
-    "time": "6:00 م"
-  },
-  {
-    "home": "شباب أدرار",
-    "homeLogo": "https://jdwel.com/image/teams/4189.png",
-    "away": "غالي معسكر",
-    "awayLogo": "https://jdwel.com/image/teams/539.png",
-    "score": "2 - 0",
-    "time": "6:00 م"
-  },
-  {
-    "home": "شباب عين تيموشنت",
-    "homeLogo": "https://jdwel.com/image/teams/4194.png",
-    "away": "جمعية وهران",
-    "awayLogo": "https://jdwel.com/image/teams/5307.png",
-    "score": "0 - 2",
-    "time": "6:00 م"
-  },
-  {
-    "home": "شبيبة الأبيار",
-    "homeLogo": "https://jdwel.com/image/teams/670.png",
-    "away": "شبيبة تيارت",
-    "awayLogo": "https://jdwel.com/image/teams/5170.png",
-    "score": "2 - 1",
-    "time": "6:00 م"
-  },
-  {
-    "home": "رائد القبة",
-    "homeLogo": "https://jdwel.com/image/teams/1193.png",
-    "away": "وداد مستغانم",
-    "awayLogo": "https://jdwel.com/image/teams/4193.png",
-    "score": "1 - 0",
-    "time": "6:00 م"
-  },
-  {
-    "home": "نصر حسين داي",
-    "homeLogo": "https://jdwel.com/image/teams/2783.png",
-    "away": "وداد تلمسان",
-    "awayLogo": "https://jdwel.com/image/teams/4190.png",
-    "score": "2 - 0",
-    "time": "6:00 م"
-  },
-  {
-    "home": "نجم القليعة",
-    "homeLogo": "https://jdwel.com/image/teams/5225.png",
-    "away": "أمل الأربعاء",
-    "awayLogo": "https://jdwel.com/image/teams/3098.png",
-    "score": "3 - 0",
-    "time": "6:00 م"
-  },
-  {
-    "home": "مولودية بجاية",
-    "homeLogo": "https://jdwel.com/image/teams/4192.png",
-    "away": "مولودية باتنة",
-    "awayLogo": "https://jdwel.com/image/teams/2492.png",
-    "score": "2 - 0",
-    "time": "6:00 م"
-  },
-  {
-    "home": "نجم بني والبان",
-    "homeLogo": "https://jdwel.com/image/teams/5226.png",
-    "away": "شباب برج منايل",
-    "awayLogo": "https://jdwel.com/image/teams/2620.png",
-    "score": "1 - 1",
-    "time": "6:00 م"
-  },
-  {
-    "home": "إتحاد بشار الجديد",
-    "homeLogo": "https://jdwel.com/image/teams/3884.png",
-    "away": "شبيبة تيقصراين",
-    "awayLogo": "https://jdwel.com/image/teams/4177.png",
-    "score": "2 - 2",
-    "time": "6:00 م"
-  },
-  {
+    "date": "الأحد 2025/09/14",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "مولودية قسنطينة",
     "homeLogo": "https://jdwel.com/image/teams/5169.png",
     "away": "شباب بني ثور",
@@ -120,6 +55,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الثلاثاء 2025/09/16",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "إتحاد خميس الخشنة",
     "homeLogo": "https://jdwel.com/image/teams/3100.png",
     "away": "إتحاد بسكرة",
@@ -128,6 +66,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الجمعة 2025/09/19",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "مولودية سعيدة",
     "homeLogo": "https://jdwel.com/image/teams/990.png",
     "away": "رائد القبة",
@@ -136,6 +77,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الجمعة 2025/09/19",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "إتحاد الحراش",
     "homeLogo": "https://jdwel.com/image/teams/2623.png",
     "away": "إتحاد بشار الجديد",
@@ -144,6 +88,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الجمعة 2025/09/19",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "أمل الأربعاء",
     "homeLogo": "https://jdwel.com/image/teams/3098.png",
     "away": "نصر حسين داي",
@@ -152,6 +99,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الجمعة 2025/09/19",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "وداد مستغانم",
     "homeLogo": "https://jdwel.com/image/teams/4193.png",
     "away": "شباب أدرار",
@@ -160,6 +110,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الجمعة 2025/09/19",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "شبيبة تيقصراين",
     "homeLogo": "https://jdwel.com/image/teams/4177.png",
     "away": "وداد تلمسان",
@@ -168,6 +121,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الجمعة 2025/09/19",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "شبيبة تيارت",
     "homeLogo": "https://jdwel.com/image/teams/5170.png",
     "away": "نجم القليعة",
@@ -176,6 +132,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الجمعة 2025/09/19",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "جمعية وهران",
     "homeLogo": "https://jdwel.com/image/teams/5307.png",
     "away": "شبيبة الأبيار",
@@ -184,6 +143,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/09/20",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "مولودية باتنة",
     "homeLogo": "https://jdwel.com/image/teams/2492.png",
     "away": "نادي التلاغمة",
@@ -192,6 +154,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/09/20",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "شباب بني ثور",
     "homeLogo": "https://jdwel.com/image/teams/4191.png",
     "away": "شبيبة جيجل",
@@ -200,6 +165,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/09/20",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "جمعية الخروب",
     "homeLogo": "https://jdwel.com/image/teams/2489.png",
     "away": "شباب برج منايل",
@@ -208,6 +176,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/09/20",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "إتحاد عنابة",
     "homeLogo": "https://jdwel.com/image/teams/3097.png",
     "away": "نجم مقرة",
@@ -216,6 +187,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/09/20",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "هلال شلغوم العيد",
     "homeLogo": "https://jdwel.com/image/teams/2617.png",
     "away": "مولودية بجاية",
@@ -224,6 +198,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/09/20",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "إتحاد بسكرة",
     "homeLogo": "https://jdwel.com/image/teams/3210.png",
     "away": "مولودية قسنطينة",
@@ -232,6 +209,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/09/20",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "إتحاد الشاوية",
     "homeLogo": "https://jdwel.com/image/teams/1410.png",
     "away": "نجم بني والبان",
@@ -240,6 +220,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/09/20",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "إتحاد خميس الخشنة",
     "homeLogo": "https://jdwel.com/image/teams/3100.png",
     "away": "شباب باتنة",
@@ -248,14 +231,9 @@
     "time": "6:00 م"
   },
   {
-    "home": "غالي معسكر",
-    "homeLogo": "https://jdwel.com/image/teams/539.png",
-    "away": "شباب عين تيموشنت",
-    "awayLogo": "https://jdwel.com/image/teams/4194.png",
-    "score": "0 - 1",
-    "time": "6:00 م"
-  },
-  {
+    "date": "الجمعة 2025/09/26",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "شباب برج منايل",
     "homeLogo": "https://jdwel.com/image/teams/2620.png",
     "away": "إتحاد عنابة",
@@ -264,6 +242,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الجمعة 2025/09/26",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "نجم بني والبان",
     "homeLogo": "https://jdwel.com/image/teams/5226.png",
     "away": "جمعية الخروب",
@@ -272,6 +253,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الجمعة 2025/09/26",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "شباب باتنة",
     "homeLogo": "https://jdwel.com/image/teams/2618.png",
     "away": "مولودية باتنة",
@@ -280,6 +264,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الجمعة 2025/09/26",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "نجم مقرة",
     "homeLogo": "https://jdwel.com/image/teams/1107.png",
     "away": "إتحاد الشاوية",
@@ -288,6 +275,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الجمعة 2025/09/26",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "شبيبة جيجل",
     "homeLogo": "https://jdwel.com/image/teams/3885.png",
     "away": "إتحاد بسكرة",
@@ -296,6 +286,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الجمعة 2025/09/26",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "مولودية قسنطينة",
     "homeLogo": "https://jdwel.com/image/teams/5169.png",
     "away": "إتحاد خميس الخشنة",
@@ -304,6 +297,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الجمعة 2025/09/26",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "مولودية بجاية",
     "homeLogo": "https://jdwel.com/image/teams/4192.png",
     "away": "شباب بني ثور",
@@ -312,22 +308,9 @@
     "time": "6:00 م"
   },
   {
-    "home": "إتحاد بشار الجديد",
-    "homeLogo": "https://jdwel.com/image/teams/3884.png",
-    "away": "جمعية وهران",
-    "awayLogo": "https://jdwel.com/image/teams/5307.png",
-    "score": "0 - 1",
-    "time": "6:00 م"
-  },
-  {
-    "home": "نصر حسين داي",
-    "homeLogo": "https://jdwel.com/image/teams/2783.png",
-    "away": "شبيبة تيارت",
-    "awayLogo": "https://jdwel.com/image/teams/5170.png",
-    "score": "0 - 2",
-    "time": "6:00 م"
-  },
-  {
+    "date": "السبت 2025/09/27",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "نادي التلاغمة",
     "homeLogo": "https://jdwel.com/image/teams/2619.png",
     "away": "هلال شلغوم العيد",
@@ -336,46 +319,9 @@
     "time": "6:00 م"
   },
   {
-    "home": "شبيبة الأبيار",
-    "homeLogo": "https://jdwel.com/image/teams/670.png",
-    "away": "غالي معسكر",
-    "awayLogo": "https://jdwel.com/image/teams/539.png",
-    "score": "3 - 0",
-    "time": "6:00 م"
-  },
-  {
-    "home": "رائد القبة",
-    "homeLogo": "https://jdwel.com/image/teams/1193.png",
-    "away": "إتحاد الحراش",
-    "awayLogo": "https://jdwel.com/image/teams/2623.png",
-    "score": "0 - 0",
-    "time": "6:00 م"
-  },
-  {
-    "home": "نجم القليعة",
-    "homeLogo": "https://jdwel.com/image/teams/5225.png",
-    "away": "شبيبة تيقصراين",
-    "awayLogo": "https://jdwel.com/image/teams/4177.png",
-    "score": "1 - 0",
-    "time": "6:00 م"
-  },
-  {
-    "home": "شباب عين تيموشنت",
-    "homeLogo": "https://jdwel.com/image/teams/4194.png",
-    "away": "وداد مستغانم",
-    "awayLogo": "https://jdwel.com/image/teams/4193.png",
-    "score": "1 - 1",
-    "time": "6:00 م"
-  },
-  {
-    "home": "شباب أدرار",
-    "homeLogo": "https://jdwel.com/image/teams/4189.png",
-    "away": "مولودية سعيدة",
-    "awayLogo": "https://jdwel.com/image/teams/990.png",
-    "score": "0 - 1",
-    "time": "6:00 م"
-  },
-  {
+    "date": "الثلاثاء 2025/09/30",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "وداد تلمسان",
     "homeLogo": "https://jdwel.com/image/teams/4190.png",
     "away": "أمل الأربعاء",
@@ -384,6 +330,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الجمعة 2025/10/03",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "هلال شلغوم العيد",
     "homeLogo": "https://jdwel.com/image/teams/2617.png",
     "away": "نجم بني والبان",
@@ -392,6 +341,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الجمعة 2025/10/03",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "إتحاد خميس الخشنة",
     "homeLogo": "https://jdwel.com/image/teams/3100.png",
     "away": "شبيبة جيجل",
@@ -400,6 +352,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الجمعة 2025/10/03",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "مولودية قسنطينة",
     "homeLogo": "https://jdwel.com/image/teams/5169.png",
     "away": "شباب باتنة",
@@ -408,6 +363,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الجمعة 2025/10/03",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "مولودية باتنة",
     "homeLogo": "https://jdwel.com/image/teams/2492.png",
     "away": "نجم مقرة",
@@ -416,6 +374,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الجمعة 2025/10/03",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "إتحاد بسكرة",
     "homeLogo": "https://jdwel.com/image/teams/3210.png",
     "away": "مولودية بجاية",
@@ -424,6 +385,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الجمعة 2025/10/03",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "إتحاد الشاوية",
     "homeLogo": "https://jdwel.com/image/teams/1410.png",
     "away": "شباب برج منايل",
@@ -432,6 +396,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الجمعة 2025/10/03",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "إتحاد عنابة",
     "homeLogo": "https://jdwel.com/image/teams/3097.png",
     "away": "جمعية الخروب",
@@ -440,54 +407,9 @@
     "time": "5:00 م"
   },
   {
-    "home": "جمعية وهران",
-    "homeLogo": "https://jdwel.com/image/teams/5307.png",
-    "away": "نجم القليعة",
-    "awayLogo": "https://jdwel.com/image/teams/5225.png",
-    "score": "1 - 0",
-    "time": "5:00 م"
-  },
-  {
-    "home": "شبيبة تيقصراين",
-    "homeLogo": "https://jdwel.com/image/teams/4177.png",
-    "away": "نصر حسين داي",
-    "awayLogo": "https://jdwel.com/image/teams/2783.png",
-    "score": "1 - 2",
-    "time": "5:00 م"
-  },
-  {
-    "home": "مولودية سعيدة",
-    "homeLogo": "https://jdwel.com/image/teams/990.png",
-    "away": "شباب عين تيموشنت",
-    "awayLogo": "https://jdwel.com/image/teams/4194.png",
-    "score": "0 - 2",
-    "time": "5:00 م"
-  },
-  {
-    "home": "رائد القبة",
-    "homeLogo": "https://jdwel.com/image/teams/1193.png",
-    "away": "إتحاد بشار الجديد",
-    "awayLogo": "https://jdwel.com/image/teams/3884.png",
-    "score": "3 - 0",
-    "time": "5:00 م"
-  },
-  {
-    "home": "إتحاد الحراش",
-    "homeLogo": "https://jdwel.com/image/teams/2623.png",
-    "away": "شباب أدرار",
-    "awayLogo": "https://jdwel.com/image/teams/4189.png",
-    "score": "4 - 2",
-    "time": "5:00 م"
-  },
-  {
-    "home": "وداد مستغانم",
-    "homeLogo": "https://jdwel.com/image/teams/4193.png",
-    "away": "شبيبة الأبيار",
-    "awayLogo": "https://jdwel.com/image/teams/670.png",
-    "score": "1 - 0",
-    "time": "5:00 م"
-  },
-  {
+    "date": "السبت 2025/10/04",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "غالي معسكر",
     "homeLogo": "https://jdwel.com/image/teams/539.png",
     "away": "وداد تلمسان",
@@ -496,6 +418,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "السبت 2025/10/04",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "شبيبة تيارت",
     "homeLogo": "https://jdwel.com/image/teams/5170.png",
     "away": "أمل الأربعاء",
@@ -504,14 +429,9 @@
     "time": "5:00 م"
   },
   {
-    "home": "شباب بني ثور",
-    "homeLogo": "https://jdwel.com/image/teams/4191.png",
-    "away": "نادي التلاغمة",
-    "awayLogo": "https://jdwel.com/image/teams/2619.png",
-    "score": "2 - 1",
-    "time": "5:00 م"
-  },
-  {
+    "date": "الخميس 2025/10/16",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "مولودية بجاية",
     "homeLogo": "https://jdwel.com/image/teams/4192.png",
     "away": "إتحاد خميس الخشنة",
@@ -520,6 +440,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الجمعة 2025/10/17",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "جمعية الخروب",
     "homeLogo": "https://jdwel.com/image/teams/2489.png",
     "away": "إتحاد الشاوية",
@@ -528,6 +451,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الجمعة 2025/10/17",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "شباب باتنة",
     "homeLogo": "https://jdwel.com/image/teams/2618.png",
     "away": "شباب بني ثور",
@@ -536,6 +462,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الجمعة 2025/10/17",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "شباب برج منايل",
     "homeLogo": "https://jdwel.com/image/teams/2620.png",
     "away": "مولودية باتنة",
@@ -544,6 +473,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الجمعة 2025/10/17",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "شبيبة جيجل",
     "homeLogo": "https://jdwel.com/image/teams/3885.png",
     "away": "مولودية قسنطينة",
@@ -552,6 +484,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الجمعة 2025/10/17",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "نجم مقرة",
     "homeLogo": "https://jdwel.com/image/teams/1107.png",
     "away": "هلال شلغوم العيد",
@@ -560,6 +495,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الجمعة 2025/10/17",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "نجم بني والبان",
     "homeLogo": "https://jdwel.com/image/teams/5226.png",
     "away": "إتحاد عنابة",
@@ -568,6 +506,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الجمعة 2025/10/17",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "نادي التلاغمة",
     "homeLogo": "https://jdwel.com/image/teams/2619.png",
     "away": "إتحاد بسكرة",
@@ -576,70 +517,9 @@
     "time": "5:00 م"
   },
   {
-    "home": "إتحاد بشار الجديد",
-    "homeLogo": "https://jdwel.com/image/teams/3884.png",
-    "away": "وداد مستغانم",
-    "awayLogo": "https://jdwel.com/image/teams/4193.png",
-    "score": "1 - 2",
-    "time": "5:00 م"
-  },
-  {
-    "home": "شباب أدرار",
-    "homeLogo": "https://jdwel.com/image/teams/4189.png",
-    "away": "رائد القبة",
-    "awayLogo": "https://jdwel.com/image/teams/1193.png",
-    "score": "2 - 1",
-    "time": "5:00 م"
-  },
-  {
-    "home": "شباب عين تيموشنت",
-    "homeLogo": "https://jdwel.com/image/teams/4194.png",
-    "away": "إتحاد الحراش",
-    "awayLogo": "https://jdwel.com/image/teams/2623.png",
-    "score": "2 - 1",
-    "time": "5:00 م"
-  },
-  {
-    "home": "نجم القليعة",
-    "homeLogo": "https://jdwel.com/image/teams/5225.png",
-    "away": "غالي معسكر",
-    "awayLogo": "https://jdwel.com/image/teams/539.png",
-    "score": "1 - 0",
-    "time": "5:00 م"
-  },
-  {
-    "home": "شبيبة الأبيار",
-    "homeLogo": "https://jdwel.com/image/teams/670.png",
-    "away": "مولودية سعيدة",
-    "awayLogo": "https://jdwel.com/image/teams/990.png",
-    "score": "2 - 1",
-    "time": "5:00 م"
-  },
-  {
-    "home": "نصر حسين داي",
-    "homeLogo": "https://jdwel.com/image/teams/2783.png",
-    "away": "جمعية وهران",
-    "awayLogo": "https://jdwel.com/image/teams/5307.png",
-    "score": "2 - 0",
-    "time": "5:00 م"
-  },
-  {
-    "home": "أمل الأربعاء",
-    "homeLogo": "https://jdwel.com/image/teams/3098.png",
-    "away": "شبيبة تيقصراين",
-    "awayLogo": "https://jdwel.com/image/teams/4177.png",
-    "score": "2 - 1",
-    "time": "5:00 م"
-  },
-  {
-    "home": "وداد تلمسان",
-    "homeLogo": "https://jdwel.com/image/teams/4190.png",
-    "away": "شبيبة تيارت",
-    "awayLogo": "https://jdwel.com/image/teams/5170.png",
-    "score": "0 - 0",
-    "time": "5:00 م"
-  },
-  {
+    "date": "الثلاثاء 2025/10/21",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "شباب بني ثور",
     "homeLogo": "https://jdwel.com/image/teams/4191.png",
     "away": "نجم بني والبان",
@@ -648,6 +528,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الثلاثاء 2025/10/21",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "هلال شلغوم العيد",
     "homeLogo": "https://jdwel.com/image/teams/2617.png",
     "away": "شباب برج منايل",
@@ -656,6 +539,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الثلاثاء 2025/10/21",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "إتحاد خميس الخشنة",
     "homeLogo": "https://jdwel.com/image/teams/3100.png",
     "away": "نادي التلاغمة",
@@ -664,6 +550,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الثلاثاء 2025/10/21",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "شبيبة جيجل",
     "homeLogo": "https://jdwel.com/image/teams/3885.png",
     "away": "نجم مقرة",
@@ -672,6 +561,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الثلاثاء 2025/10/21",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "مولودية قسنطينة",
     "homeLogo": "https://jdwel.com/image/teams/5169.png",
     "away": "مولودية بجاية",
@@ -680,6 +572,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الثلاثاء 2025/10/21",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "مولودية باتنة",
     "homeLogo": "https://jdwel.com/image/teams/2492.png",
     "away": "جمعية الخروب",
@@ -688,6 +583,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الثلاثاء 2025/10/21",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "إتحاد بسكرة",
     "homeLogo": "https://jdwel.com/image/teams/3210.png",
     "away": "شباب باتنة",
@@ -696,6 +594,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الثلاثاء 2025/10/21",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "إتحاد الشاوية",
     "homeLogo": "https://jdwel.com/image/teams/1410.png",
     "away": "إتحاد عنابة",
@@ -704,70 +605,9 @@
     "time": "5:00 م"
   },
   {
-    "home": "جمعية وهران",
-    "homeLogo": "https://jdwel.com/image/teams/5307.png",
-    "away": "أمل الأربعاء",
-    "awayLogo": "https://jdwel.com/image/teams/3098.png",
-    "score": "1 - 0",
-    "time": "5:00 م"
-  },
-  {
-    "home": "شباب أدرار",
-    "homeLogo": "https://jdwel.com/image/teams/4189.png",
-    "away": "نجم القليعة",
-    "awayLogo": "https://jdwel.com/image/teams/5225.png",
-    "score": "2 - 1",
-    "time": "5:00 م"
-  },
-  {
-    "home": "غالي معسكر",
-    "homeLogo": "https://jdwel.com/image/teams/539.png",
-    "away": "نصر حسين داي",
-    "awayLogo": "https://jdwel.com/image/teams/2783.png",
-    "score": "0 - 0",
-    "time": "5:00 م"
-  },
-  {
-    "home": "شبيبة تيقصراين",
-    "homeLogo": "https://jdwel.com/image/teams/4177.png",
-    "away": "شبيبة تيارت",
-    "awayLogo": "https://jdwel.com/image/teams/5170.png",
-    "score": "1 - 0",
-    "time": "5:00 م"
-  },
-  {
-    "home": "مولودية سعيدة",
-    "homeLogo": "https://jdwel.com/image/teams/990.png",
-    "away": "إتحاد بشار الجديد",
-    "awayLogo": "https://jdwel.com/image/teams/3884.png",
-    "score": "4 - 2",
-    "time": "5:00 م"
-  },
-  {
-    "home": "رائد القبة",
-    "homeLogo": "https://jdwel.com/image/teams/1193.png",
-    "away": "شباب عين تيموشنت",
-    "awayLogo": "https://jdwel.com/image/teams/4194.png",
-    "score": "0 - 1",
-    "time": "5:00 م"
-  },
-  {
-    "home": "إتحاد الحراش",
-    "homeLogo": "https://jdwel.com/image/teams/2623.png",
-    "away": "شبيبة الأبيار",
-    "awayLogo": "https://jdwel.com/image/teams/670.png",
-    "score": "0 - 1",
-    "time": "5:00 م"
-  },
-  {
-    "home": "وداد مستغانم",
-    "homeLogo": "https://jdwel.com/image/teams/4193.png",
-    "away": "وداد تلمسان",
-    "awayLogo": "https://jdwel.com/image/teams/4190.png",
-    "score": "1 - 2",
-    "time": "5:00 م"
-  },
-  {
+    "date": "السبت 2025/10/25",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "شباب باتنة",
     "homeLogo": "https://jdwel.com/image/teams/2618.png",
     "away": "هلال شلغوم العيد",
@@ -776,6 +616,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "السبت 2025/10/25",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "شباب برج منايل",
     "homeLogo": "https://jdwel.com/image/teams/2620.png",
     "away": "إتحاد خميس الخشنة",
@@ -784,6 +627,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "السبت 2025/10/25",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "مولودية بجاية",
     "homeLogo": "https://jdwel.com/image/teams/4192.png",
     "away": "شبيبة جيجل",
@@ -792,6 +638,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "السبت 2025/10/25",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "نجم مقرة",
     "homeLogo": "https://jdwel.com/image/teams/1107.png",
     "away": "شباب بني ثور",
@@ -800,6 +649,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "السبت 2025/10/25",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "نجم بني والبان",
     "homeLogo": "https://jdwel.com/image/teams/5226.png",
     "away": "إتحاد بسكرة",
@@ -808,6 +660,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "السبت 2025/10/25",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "نادي التلاغمة",
     "homeLogo": "https://jdwel.com/image/teams/2619.png",
     "away": "إتحاد الشاوية",
@@ -816,6 +671,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "السبت 2025/10/25",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "إتحاد عنابة",
     "homeLogo": "https://jdwel.com/image/teams/3097.png",
     "away": "مولودية باتنة",
@@ -824,70 +682,9 @@
     "time": "5:00 م"
   },
   {
-    "home": "إتحاد بشار الجديد",
-    "homeLogo": "https://jdwel.com/image/teams/3884.png",
-    "away": "غالي معسكر",
-    "awayLogo": "https://jdwel.com/image/teams/539.png",
-    "score": "1 - 0",
-    "time": "5:00 م"
-  },
-  {
-    "home": "شباب عين تيموشنت",
-    "homeLogo": "https://jdwel.com/image/teams/4194.png",
-    "away": "شباب أدرار",
-    "awayLogo": "https://jdwel.com/image/teams/4189.png",
-    "score": "2 - 1",
-    "time": "5:00 م"
-  },
-  {
-    "home": "نجم القليعة",
-    "homeLogo": "https://jdwel.com/image/teams/5225.png",
-    "away": "وداد مستغانم",
-    "awayLogo": "https://jdwel.com/image/teams/4193.png",
-    "score": "2 - 1",
-    "time": "5:00 م"
-  },
-  {
-    "home": "شبيبة الأبيار",
-    "homeLogo": "https://jdwel.com/image/teams/670.png",
-    "away": "شبيبة تيقصراين",
-    "awayLogo": "https://jdwel.com/image/teams/4177.png",
-    "score": "2 - 1",
-    "time": "5:00 م"
-  },
-  {
-    "home": "شبيبة تيارت",
-    "homeLogo": "https://jdwel.com/image/teams/5170.png",
-    "away": "جمعية وهران",
-    "awayLogo": "https://jdwel.com/image/teams/5307.png",
-    "score": "2 - 1",
-    "time": "5:00 م"
-  },
-  {
-    "home": "نصر حسين داي",
-    "homeLogo": "https://jdwel.com/image/teams/2783.png",
-    "away": "إتحاد الحراش",
-    "awayLogo": "https://jdwel.com/image/teams/2623.png",
-    "score": "1 - 1",
-    "time": "5:00 م"
-  },
-  {
-    "home": "أمل الأربعاء",
-    "homeLogo": "https://jdwel.com/image/teams/3098.png",
-    "away": "رائد القبة",
-    "awayLogo": "https://jdwel.com/image/teams/1193.png",
-    "score": "0 - 1",
-    "time": "5:00 م"
-  },
-  {
-    "home": "وداد تلمسان",
-    "homeLogo": "https://jdwel.com/image/teams/4190.png",
-    "away": "مولودية سعيدة",
-    "awayLogo": "https://jdwel.com/image/teams/990.png",
-    "score": "1 - 1",
-    "time": "5:00 م"
-  },
-  {
+    "date": "الأحد 2025/10/26",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "جمعية الخروب",
     "homeLogo": "https://jdwel.com/image/teams/2489.png",
     "away": "مولودية قسنطينة",
@@ -896,6 +693,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الجمعة 2025/10/31",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "جمعية وهران",
     "homeLogo": "https://jdwel.com/image/teams/5307.png",
     "away": "شبيبة تيقصراين",
@@ -904,6 +704,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الجمعة 2025/10/31",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "شباب عين تيموشنت",
     "homeLogo": "https://jdwel.com/image/teams/4194.png",
     "away": "نجم القليعة",
@@ -912,6 +715,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الجمعة 2025/10/31",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "غالي معسكر",
     "homeLogo": "https://jdwel.com/image/teams/539.png",
     "away": "شبيبة تيارت",
@@ -920,6 +726,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الجمعة 2025/10/31",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "مولودية سعيدة",
     "homeLogo": "https://jdwel.com/image/teams/990.png",
     "away": "نصر حسين داي",
@@ -928,6 +737,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الجمعة 2025/10/31",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "رائد القبة",
     "homeLogo": "https://jdwel.com/image/teams/1193.png",
     "away": "شبيبة الأبيار",
@@ -936,6 +748,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الجمعة 2025/10/31",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "إتحاد الحراش",
     "homeLogo": "https://jdwel.com/image/teams/2623.png",
     "away": "وداد تلمسان",
@@ -944,70 +759,9 @@
     "time": "4:00 م"
   },
   {
-    "home": "هلال شلغوم العيد",
-    "homeLogo": "https://jdwel.com/image/teams/2617.png",
-    "away": "إتحاد عنابة",
-    "awayLogo": "https://jdwel.com/image/teams/3097.png",
-    "score": "0 - 0",
-    "time": "4:00 م"
-  },
-  {
-    "home": "إتحاد خميس الخشنة",
-    "homeLogo": "https://jdwel.com/image/teams/3100.png",
-    "away": "نجم بني والبان",
-    "awayLogo": "https://jdwel.com/image/teams/5226.png",
-    "score": "2 - 1",
-    "time": "4:00 م"
-  },
-  {
-    "home": "شبيبة جيجل",
-    "homeLogo": "https://jdwel.com/image/teams/3885.png",
-    "away": "شباب باتنة",
-    "awayLogo": "https://jdwel.com/image/teams/2618.png",
-    "score": "2 - 0",
-    "time": "4:00 م"
-  },
-  {
-    "home": "مولودية بجاية",
-    "homeLogo": "https://jdwel.com/image/teams/4192.png",
-    "away": "نجم مقرة",
-    "awayLogo": "https://jdwel.com/image/teams/1107.png",
-    "score": "0 - 1",
-    "time": "4:00 م"
-  },
-  {
-    "home": "مولودية باتنة",
-    "homeLogo": "https://jdwel.com/image/teams/2492.png",
-    "away": "إتحاد الشاوية",
-    "awayLogo": "https://jdwel.com/image/teams/1410.png",
-    "score": "0 - 1",
-    "time": "4:00 م"
-  },
-  {
-    "home": "إتحاد بسكرة",
-    "homeLogo": "https://jdwel.com/image/teams/3210.png",
-    "away": "شباب برج منايل",
-    "awayLogo": "https://jdwel.com/image/teams/2620.png",
-    "score": "1 - 1",
-    "time": "4:00 م"
-  },
-  {
-    "home": "وداد مستغانم",
-    "homeLogo": "https://jdwel.com/image/teams/4193.png",
-    "away": "أمل الأربعاء",
-    "awayLogo": "https://jdwel.com/image/teams/3098.png",
-    "score": "1 - 1",
-    "time": "4:00 م"
-  },
-  {
-    "home": "شباب أدرار",
-    "homeLogo": "https://jdwel.com/image/teams/4189.png",
-    "away": "إتحاد بشار الجديد",
-    "awayLogo": "https://jdwel.com/image/teams/3884.png",
-    "score": "1 - 0",
-    "time": "4:00 م"
-  },
-  {
+    "date": "السبت 2025/11/01",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "شباب بني ثور",
     "homeLogo": "https://jdwel.com/image/teams/4191.png",
     "away": "جمعية الخروب",
@@ -1016,6 +770,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "السبت 2025/11/01",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "مولودية قسنطينة",
     "homeLogo": "https://jdwel.com/image/teams/5169.png",
     "away": "نادي التلاغمة",
@@ -1024,6 +781,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الجمعة 2025/11/07",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "إتحاد بشار الجديد",
     "homeLogo": "https://jdwel.com/image/teams/3884.png",
     "away": "شباب عين تيموشنت",
@@ -1032,6 +792,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الجمعة 2025/11/07",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "نجم القليعة",
     "homeLogo": "https://jdwel.com/image/teams/5225.png",
     "away": "رائد القبة",
@@ -1040,6 +803,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الجمعة 2025/11/07",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "شبيبة الأبيار",
     "homeLogo": "https://jdwel.com/image/teams/670.png",
     "away": "شباب أدرار",
@@ -1048,6 +814,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الجمعة 2025/11/07",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "شبيبة تيارت",
     "homeLogo": "https://jdwel.com/image/teams/5170.png",
     "away": "إتحاد الحراش",
@@ -1056,6 +825,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الجمعة 2025/11/07",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "شبيبة تيقصراين",
     "homeLogo": "https://jdwel.com/image/teams/4177.png",
     "away": "غالي معسكر",
@@ -1064,6 +836,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الجمعة 2025/11/07",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "نصر حسين داي",
     "homeLogo": "https://jdwel.com/image/teams/2783.png",
     "away": "وداد مستغانم",
@@ -1072,6 +847,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الجمعة 2025/11/07",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "أمل الأربعاء",
     "homeLogo": "https://jdwel.com/image/teams/3098.png",
     "away": "مولودية سعيدة",
@@ -1080,6 +858,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الجمعة 2025/11/07",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "وداد تلمسان",
     "homeLogo": "https://jdwel.com/image/teams/4190.png",
     "away": "جمعية وهران",
@@ -1088,6 +869,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "السبت 2025/11/08",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "جمعية الخروب",
     "homeLogo": "https://jdwel.com/image/teams/2489.png",
     "away": "إتحاد بسكرة",
@@ -1096,6 +880,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "السبت 2025/11/08",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "شباب باتنة",
     "homeLogo": "https://jdwel.com/image/teams/2618.png",
     "away": "مولودية بجاية",
@@ -1104,6 +891,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "السبت 2025/11/08",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "شباب برج منايل",
     "homeLogo": "https://jdwel.com/image/teams/2620.png",
     "away": "شباب بني ثور",
@@ -1112,6 +902,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "السبت 2025/11/08",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "نجم مقرة",
     "homeLogo": "https://jdwel.com/image/teams/1107.png",
     "away": "مولودية قسنطينة",
@@ -1120,6 +913,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "السبت 2025/11/08",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "نجم بني والبان",
     "homeLogo": "https://jdwel.com/image/teams/5226.png",
     "away": "مولودية باتنة",
@@ -1128,6 +924,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "السبت 2025/11/08",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "نادي التلاغمة",
     "homeLogo": "https://jdwel.com/image/teams/2619.png",
     "away": "شبيبة جيجل",
@@ -1136,6 +935,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "السبت 2025/11/08",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "إتحاد الشاوية",
     "homeLogo": "https://jdwel.com/image/teams/1410.png",
     "away": "هلال شلغوم العيد",
@@ -1144,6 +946,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "السبت 2025/11/08",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "إتحاد عنابة",
     "homeLogo": "https://jdwel.com/image/teams/3097.png",
     "away": "إتحاد خميس الخشنة",
@@ -1152,6 +957,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الثلاثاء 2025/11/18",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "إتحاد بسكرة",
     "homeLogo": "https://jdwel.com/image/teams/3210.png",
     "away": "إتحاد عنابة",
@@ -1160,6 +968,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الثلاثاء 2025/11/18",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "شباب باتنة",
     "homeLogo": "https://jdwel.com/image/teams/2618.png",
     "away": "نجم مقرة",
@@ -1168,6 +979,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الثلاثاء 2025/11/18",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "مولودية قسنطينة",
     "homeLogo": "https://jdwel.com/image/teams/5169.png",
     "away": "شباب برج منايل",
@@ -1176,6 +990,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الثلاثاء 2025/11/18",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "مولودية بجاية",
     "homeLogo": "https://jdwel.com/image/teams/4192.png",
     "away": "نادي التلاغمة",
@@ -1184,6 +1001,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الثلاثاء 2025/11/18",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "هلال شلغوم العيد",
     "homeLogo": "https://jdwel.com/image/teams/2617.png",
     "away": "مولودية باتنة",
@@ -1192,6 +1012,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الثلاثاء 2025/11/18",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "شبيبة جيجل",
     "homeLogo": "https://jdwel.com/image/teams/3885.png",
     "away": "نجم بني والبان",
@@ -1200,6 +1023,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الثلاثاء 2025/11/18",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "شباب بني ثور",
     "homeLogo": "https://jdwel.com/image/teams/4191.png",
     "away": "إتحاد الشاوية",
@@ -1208,70 +1034,9 @@
     "time": "3:00 م"
   },
   {
-    "home": "إتحاد الحراش",
-    "homeLogo": "https://jdwel.com/image/teams/2623.png",
-    "away": "أمل الأربعاء",
-    "awayLogo": "https://jdwel.com/image/teams/3098.png",
-    "score": "2 - 1",
-    "time": "3:00 م"
-  },
-  {
-    "home": "رائد القبة",
-    "homeLogo": "https://jdwel.com/image/teams/1193.png",
-    "away": "نصر حسين داي",
-    "awayLogo": "https://jdwel.com/image/teams/2783.png",
-    "score": "1 - 1",
-    "time": "3:00 م"
-  },
-  {
-    "home": "غالي معسكر",
-    "homeLogo": "https://jdwel.com/image/teams/539.png",
-    "away": "جمعية وهران",
-    "awayLogo": "https://jdwel.com/image/teams/5307.png",
-    "score": "1 - 0",
-    "time": "3:00 م"
-  },
-  {
-    "home": "مولودية سعيدة",
-    "homeLogo": "https://jdwel.com/image/teams/990.png",
-    "away": "شبيبة تيارت",
-    "awayLogo": "https://jdwel.com/image/teams/5170.png",
-    "score": "2 - 1",
-    "time": "3:00 م"
-  },
-  {
-    "home": "شباب عين تيموشنت",
-    "homeLogo": "https://jdwel.com/image/teams/4194.png",
-    "away": "شبيبة الأبيار",
-    "awayLogo": "https://jdwel.com/image/teams/670.png",
-    "score": "1 - 1",
-    "time": "3:00 م"
-  },
-  {
-    "home": "شباب أدرار",
-    "homeLogo": "https://jdwel.com/image/teams/4189.png",
-    "away": "وداد تلمسان",
-    "awayLogo": "https://jdwel.com/image/teams/4190.png",
-    "score": "0 - 1",
-    "time": "3:00 م"
-  },
-  {
-    "home": "إتحاد بشار الجديد",
-    "homeLogo": "https://jdwel.com/image/teams/3884.png",
-    "away": "نجم القليعة",
-    "awayLogo": "https://jdwel.com/image/teams/5225.png",
-    "score": "0 - 1",
-    "time": "3:00 م"
-  },
-  {
-    "home": "وداد مستغانم",
-    "homeLogo": "https://jdwel.com/image/teams/4193.png",
-    "away": "شبيبة تيقصراين",
-    "awayLogo": "https://jdwel.com/image/teams/4177.png",
-    "score": "2 - 1",
-    "time": "3:00 م"
-  },
-  {
+    "date": "الأربعاء 2025/11/19",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "إتحاد خميس الخشنة",
     "homeLogo": "https://jdwel.com/image/teams/3100.png",
     "away": "جمعية الخروب",
@@ -1280,6 +1045,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "السبت 2025/11/22",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "نجم مقرة",
     "homeLogo": "https://jdwel.com/image/teams/1107.png",
     "away": "إتحاد بسكرة",
@@ -1288,6 +1056,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "السبت 2025/11/22",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "إتحاد الشاوية",
     "homeLogo": "https://jdwel.com/image/teams/1410.png",
     "away": "مولودية بجاية",
@@ -1296,6 +1067,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "السبت 2025/11/22",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "نادي التلاغمة",
     "homeLogo": "https://jdwel.com/image/teams/2619.png",
     "away": "شباب باتنة",
@@ -1304,6 +1078,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "السبت 2025/11/22",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "إتحاد عنابة",
     "homeLogo": "https://jdwel.com/image/teams/3097.png",
     "away": "شباب بني ثور",
@@ -1312,6 +1089,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "السبت 2025/11/22",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "شباب برج منايل",
     "homeLogo": "https://jdwel.com/image/teams/2620.png",
     "away": "شبيبة جيجل",
@@ -1320,78 +1100,9 @@
     "time": "3:00 م"
   },
   {
-    "home": "جمعية وهران",
-    "homeLogo": "https://jdwel.com/image/teams/5307.png",
-    "away": "إتحاد الحراش",
-    "awayLogo": "https://jdwel.com/image/teams/2623.png",
-    "score": "0 - 1",
-    "time": "3:00 م"
-  },
-  {
-    "home": "وداد تلمسان",
-    "homeLogo": "https://jdwel.com/image/teams/4190.png",
-    "away": "رائد القبة",
-    "awayLogo": "https://jdwel.com/image/teams/1193.png",
-    "score": "1 - 2",
-    "time": "3:00 م"
-  },
-  {
-    "home": "نصر حسين داي",
-    "homeLogo": "https://jdwel.com/image/teams/2783.png",
-    "away": "شباب أدرار",
-    "awayLogo": "https://jdwel.com/image/teams/4189.png",
-    "score": "2 - 0",
-    "time": "3:00 م"
-  },
-  {
-    "home": "أمل الأربعاء",
-    "homeLogo": "https://jdwel.com/image/teams/3098.png",
-    "away": "غالي معسكر",
-    "awayLogo": "https://jdwel.com/image/teams/539.png",
-    "score": "0 - 0",
-    "time": "3:00 م"
-  },
-  {
-    "home": "شبيبة تيارت",
-    "homeLogo": "https://jdwel.com/image/teams/5170.png",
-    "away": "وداد مستغانم",
-    "awayLogo": "https://jdwel.com/image/teams/4193.png",
-    "score": "1 - 1",
-    "time": "3:00 م"
-  },
-  {
-    "home": "نجم بني والبان",
-    "homeLogo": "https://jdwel.com/image/teams/5226.png",
-    "away": "مولودية قسنطينة",
-    "awayLogo": "https://jdwel.com/image/teams/5169.png",
-    "score": "2 - 0",
-    "time": "3:00 م"
-  },
-  {
-    "home": "شبيبة الأبيار",
-    "homeLogo": "https://jdwel.com/image/teams/670.png",
-    "away": "إتحاد بشار الجديد",
-    "awayLogo": "https://jdwel.com/image/teams/3884.png",
-    "score": "2 - 0",
-    "time": "3:00 م"
-  },
-  {
-    "home": "شبيبة تيقصراين",
-    "homeLogo": "https://jdwel.com/image/teams/4177.png",
-    "away": "شباب عين تيموشنت",
-    "awayLogo": "https://jdwel.com/image/teams/4194.png",
-    "score": "1 - 3",
-    "time": "3:00 م"
-  },
-  {
-    "home": "نجم القليعة",
-    "homeLogo": "https://jdwel.com/image/teams/5225.png",
-    "away": "مولودية سعيدة",
-    "awayLogo": "https://jdwel.com/image/teams/990.png",
-    "score": "1 - 0",
-    "time": "3:00 م"
-  },
-  {
+    "date": "الأحد 2025/11/23",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "مولودية باتنة",
     "homeLogo": "https://jdwel.com/image/teams/2492.png",
     "away": "إتحاد خميس الخشنة",
@@ -1400,6 +1111,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأحد 2025/11/23",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "جمعية الخروب",
     "homeLogo": "https://jdwel.com/image/teams/2489.png",
     "away": "هلال شلغوم العيد",
@@ -1408,6 +1122,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الجمعة 2025/11/28",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "مولودية بجاية",
     "homeLogo": "https://jdwel.com/image/teams/4192.png",
     "away": "شباب برج منايل",
@@ -1416,38 +1133,9 @@
     "time": "4:00 م"
   },
   {
-    "home": "شباب عين تيموشنت",
-    "homeLogo": "https://jdwel.com/image/teams/4194.png",
-    "away": "نصر حسين داي",
-    "awayLogo": "https://jdwel.com/image/teams/2783.png",
-    "score": "0 - 0",
-    "time": "4:00 م"
-  },
-  {
-    "home": "مولودية سعيدة",
-    "homeLogo": "https://jdwel.com/image/teams/990.png",
-    "away": "جمعية وهران",
-    "awayLogo": "https://jdwel.com/image/teams/5307.png",
-    "score": "2 - 1",
-    "time": "4:00 م"
-  },
-  {
-    "home": "وداد مستغانم",
-    "homeLogo": "https://jdwel.com/image/teams/4193.png",
-    "away": "غالي معسكر",
-    "awayLogo": "https://jdwel.com/image/teams/539.png",
-    "score": "3 - 0",
-    "time": "4:00 م"
-  },
-  {
-    "home": "إتحاد بشار الجديد",
-    "homeLogo": "https://jdwel.com/image/teams/3884.png",
-    "away": "وداد تلمسان",
-    "awayLogo": "https://jdwel.com/image/teams/4190.png",
-    "score": "2 - 2",
-    "time": "4:00 م"
-  },
-  {
+    "date": "السبت 2025/11/29",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "مولودية قسنطينة",
     "homeLogo": "https://jdwel.com/image/teams/5169.png",
     "away": "إتحاد عنابة",
@@ -1456,78 +1144,9 @@
     "time": "3:00 م"
   },
   {
-    "home": "إتحاد الحراش",
-    "homeLogo": "https://jdwel.com/image/teams/2623.png",
-    "away": "شبيبة تيقصراين",
-    "awayLogo": "https://jdwel.com/image/teams/4177.png",
-    "score": "1 - 0",
-    "time": "3:00 م"
-  },
-  {
-    "home": "رائد القبة",
-    "homeLogo": "https://jdwel.com/image/teams/1193.png",
-    "away": "شبيبة تيارت",
-    "awayLogo": "https://jdwel.com/image/teams/5170.png",
-    "score": "1 - 1",
-    "time": "3:00 م"
-  },
-  {
-    "home": "شبيبة الأبيار",
-    "homeLogo": "https://jdwel.com/image/teams/670.png",
-    "away": "نجم القليعة",
-    "awayLogo": "https://jdwel.com/image/teams/5225.png",
-    "score": "3 - 1",
-    "time": "3:00 م"
-  },
-  {
-    "home": "إتحاد بسكرة",
-    "homeLogo": "https://jdwel.com/image/teams/3210.png",
-    "away": "مولودية باتنة",
-    "awayLogo": "https://jdwel.com/image/teams/2492.png",
-    "score": "2 - 0",
-    "time": "3:00 م"
-  },
-  {
-    "home": "نادي التلاغمة",
-    "homeLogo": "https://jdwel.com/image/teams/2619.png",
-    "away": "نجم مقرة",
-    "awayLogo": "https://jdwel.com/image/teams/1107.png",
-    "score": "0 - 0",
-    "time": "3:00 م"
-  },
-  {
-    "home": "شبيبة جيجل",
-    "homeLogo": "https://jdwel.com/image/teams/3885.png",
-    "away": "جمعية الخروب",
-    "awayLogo": "https://jdwel.com/image/teams/2489.png",
-    "score": "0 - 0",
-    "time": "3:00 م"
-  },
-  {
-    "home": "شباب باتنة",
-    "homeLogo": "https://jdwel.com/image/teams/2618.png",
-    "away": "نجم بني والبان",
-    "awayLogo": "https://jdwel.com/image/teams/5226.png",
-    "score": "2 - 1",
-    "time": "3:00 م"
-  },
-  {
-    "home": "شباب بني ثور",
-    "homeLogo": "https://jdwel.com/image/teams/4191.png",
-    "away": "هلال شلغوم العيد",
-    "awayLogo": "https://jdwel.com/image/teams/2617.png",
-    "score": "3 - 1",
-    "time": "3:00 م"
-  },
-  {
-    "home": "شباب أدرار",
-    "homeLogo": "https://jdwel.com/image/teams/4189.png",
-    "away": "أمل الأربعاء",
-    "awayLogo": "https://jdwel.com/image/teams/3098.png",
-    "score": "1 - 0",
-    "time": "3:00 م"
-  },
-  {
+    "date": "الأحد 2025/11/30",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "إتحاد خميس الخشنة",
     "homeLogo": "https://jdwel.com/image/teams/3100.png",
     "away": "إتحاد الشاوية",
@@ -1536,6 +1155,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الجمعة 2025/12/19",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "نجم القليعة",
     "homeLogo": "https://jdwel.com/image/teams/5225.png",
     "away": "إتحاد الحراش",
@@ -1544,6 +1166,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الجمعة 2025/12/19",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "وداد تلمسان",
     "homeLogo": "https://jdwel.com/image/teams/4190.png",
     "away": "شبيبة الأبيار",
@@ -1552,6 +1177,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الجمعة 2025/12/19",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "غالي معسكر",
     "homeLogo": "https://jdwel.com/image/teams/539.png",
     "away": "مولودية سعيدة",
@@ -1560,6 +1188,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الجمعة 2025/12/19",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "شبيبة تيارت",
     "homeLogo": "https://jdwel.com/image/teams/5170.png",
     "away": "شباب أدرار",
@@ -1568,6 +1199,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الجمعة 2025/12/19",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "شبيبة تيقصراين",
     "homeLogo": "https://jdwel.com/image/teams/4177.png",
     "away": "رائد القبة",
@@ -1576,6 +1210,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الجمعة 2025/12/19",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "أمل الأربعاء",
     "homeLogo": "https://jdwel.com/image/teams/3098.png",
     "away": "شباب عين تيموشنت",
@@ -1584,6 +1221,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الجمعة 2025/12/19",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "نصر حسين داي",
     "homeLogo": "https://jdwel.com/image/teams/2783.png",
     "away": "إتحاد بشار الجديد",
@@ -1592,6 +1232,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "السبت 2025/12/20",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "جمعية الخروب",
     "homeLogo": "https://jdwel.com/image/teams/2489.png",
     "away": "مولودية بجاية",
@@ -1600,6 +1243,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "السبت 2025/12/20",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "مولودية باتنة",
     "homeLogo": "https://jdwel.com/image/teams/2492.png",
     "away": "شباب بني ثور",
@@ -1608,6 +1254,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "السبت 2025/12/20",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "شباب برج منايل",
     "homeLogo": "https://jdwel.com/image/teams/2620.png",
     "away": "شباب باتنة",
@@ -1616,6 +1265,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "السبت 2025/12/20",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "إتحاد عنابة",
     "homeLogo": "https://jdwel.com/image/teams/3097.png",
     "away": "شبيبة جيجل",
@@ -1624,6 +1276,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "السبت 2025/12/20",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "إتحاد الشاوية",
     "homeLogo": "https://jdwel.com/image/teams/1410.png",
     "away": "مولودية قسنطينة",
@@ -1632,6 +1287,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "السبت 2025/12/20",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "هلال شلغوم العيد",
     "homeLogo": "https://jdwel.com/image/teams/2617.png",
     "away": "إتحاد بسكرة",
@@ -1640,6 +1298,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "السبت 2025/12/20",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "نجم مقرة",
     "homeLogo": "https://jdwel.com/image/teams/1107.png",
     "away": "إتحاد خميس الخشنة",
@@ -1648,6 +1309,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "السبت 2025/12/20",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "نجم بني والبان",
     "homeLogo": "https://jdwel.com/image/teams/5226.png",
     "away": "نادي التلاغمة",
@@ -1656,6 +1320,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأحد 2025/12/21",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "جمعية وهران",
     "homeLogo": "https://jdwel.com/image/teams/5307.png",
     "away": "وداد مستغانم",
@@ -1664,6 +1331,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الجمعة 2025/12/26",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "شبيبة الأبيار",
     "homeLogo": "https://jdwel.com/image/teams/670.png",
     "away": "نصر حسين داي",
@@ -1672,70 +1342,9 @@
     "time": "4:00 م"
   },
   {
-    "home": "إتحاد خميس الخشنة",
-    "homeLogo": "https://jdwel.com/image/teams/3100.png",
-    "away": "هلال شلغوم العيد",
-    "awayLogo": "https://jdwel.com/image/teams/2617.png",
-    "score": "2 - 0",
-    "time": "4:00 م"
-  },
-  {
-    "home": "شباب باتنة",
-    "homeLogo": "https://jdwel.com/image/teams/2618.png",
-    "away": "جمعية الخروب",
-    "awayLogo": "https://jdwel.com/image/teams/2489.png",
-    "score": "1 - 0",
-    "time": "4:00 م"
-  },
-  {
-    "home": "شبيبة جيجل",
-    "homeLogo": "https://jdwel.com/image/teams/3885.png",
-    "away": "إتحاد الشاوية",
-    "awayLogo": "https://jdwel.com/image/teams/1410.png",
-    "score": "3 - 2",
-    "time": "4:00 م"
-  },
-  {
-    "home": "نادي التلاغمة",
-    "homeLogo": "https://jdwel.com/image/teams/2619.png",
-    "away": "شباب برج منايل",
-    "awayLogo": "https://jdwel.com/image/teams/2620.png",
-    "score": "1 - 0",
-    "time": "4:00 م"
-  },
-  {
-    "home": "نجم مقرة",
-    "homeLogo": "https://jdwel.com/image/teams/1107.png",
-    "away": "نجم بني والبان",
-    "awayLogo": "https://jdwel.com/image/teams/5226.png",
-    "score": "0 - 0",
-    "time": "4:00 م"
-  },
-  {
-    "home": "مولودية قسنطينة",
-    "homeLogo": "https://jdwel.com/image/teams/5169.png",
-    "away": "مولودية باتنة",
-    "awayLogo": "https://jdwel.com/image/teams/2492.png",
-    "score": "3 - 0",
-    "time": "4:00 م"
-  },
-  {
-    "home": "مولودية بجاية",
-    "homeLogo": "https://jdwel.com/image/teams/4192.png",
-    "away": "إتحاد عنابة",
-    "awayLogo": "https://jdwel.com/image/teams/3097.png",
-    "score": "1 - 0",
-    "time": "4:00 م"
-  },
-  {
-    "home": "إتحاد بسكرة",
-    "homeLogo": "https://jdwel.com/image/teams/3210.png",
-    "away": "شباب بني ثور",
-    "awayLogo": "https://jdwel.com/image/teams/4191.png",
-    "score": "0 - 1",
-    "time": "4:00 م"
-  },
-  {
+    "date": "السبت 2025/12/27",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "شباب عين تيموشنت",
     "homeLogo": "https://jdwel.com/image/teams/4194.png",
     "away": "شبيبة تيارت",
@@ -1744,6 +1353,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "السبت 2025/12/27",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "رائد القبة",
     "homeLogo": "https://jdwel.com/image/teams/1193.png",
     "away": "جمعية وهران",
@@ -1752,6 +1364,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "السبت 2025/12/27",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "مولودية سعيدة",
     "homeLogo": "https://jdwel.com/image/teams/990.png",
     "away": "وداد مستغانم",
@@ -1760,6 +1375,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "السبت 2025/12/27",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "نجم القليعة",
     "homeLogo": "https://jdwel.com/image/teams/5225.png",
     "away": "وداد تلمسان",
@@ -1768,6 +1386,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "السبت 2025/12/27",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "إتحاد بشار الجديد",
     "homeLogo": "https://jdwel.com/image/teams/3884.png",
     "away": "أمل الأربعاء",
@@ -1776,6 +1397,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "السبت 2025/12/27",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "إتحاد الحراش",
     "homeLogo": "https://jdwel.com/image/teams/2623.png",
     "away": "غالي معسكر",
@@ -1784,6 +1408,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "السبت 2025/12/27",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "شباب أدرار",
     "homeLogo": "https://jdwel.com/image/teams/4189.png",
     "away": "شبيبة تيقصراين",
@@ -1792,6 +1419,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الجمعة 2026/01/02",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "جمعية الخروب",
     "homeLogo": "https://jdwel.com/image/teams/2489.png",
     "away": "نادي التلاغمة",
@@ -1800,6 +1430,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الجمعة 2026/01/02",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "مولودية باتنة",
     "homeLogo": "https://jdwel.com/image/teams/2492.png",
     "away": "شبيبة جيجل",
@@ -1808,6 +1441,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الجمعة 2026/01/02",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "شباب برج منايل",
     "homeLogo": "https://jdwel.com/image/teams/2620.png",
     "away": "نجم مقرة",
@@ -1816,6 +1452,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الجمعة 2026/01/02",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "إتحاد عنابة",
     "homeLogo": "https://jdwel.com/image/teams/3097.png",
     "away": "شباب باتنة",
@@ -1824,6 +1463,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الجمعة 2026/01/02",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "إتحاد الشاوية",
     "homeLogo": "https://jdwel.com/image/teams/1410.png",
     "away": "إتحاد بسكرة",
@@ -1832,6 +1474,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الجمعة 2026/01/02",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "هلال شلغوم العيد",
     "homeLogo": "https://jdwel.com/image/teams/2617.png",
     "away": "مولودية قسنطينة",
@@ -1840,6 +1485,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الجمعة 2026/01/02",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "شباب بني ثور",
     "homeLogo": "https://jdwel.com/image/teams/4191.png",
     "away": "إتحاد خميس الخشنة",
@@ -1848,6 +1496,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الجمعة 2026/01/02",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "نجم بني والبان",
     "homeLogo": "https://jdwel.com/image/teams/5226.png",
     "away": "مولودية بجاية",
@@ -1856,6 +1507,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "السبت 2026/01/03",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "جمعية وهران",
     "homeLogo": "https://jdwel.com/image/teams/5307.png",
     "away": "شباب أدرار",
@@ -1864,6 +1518,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "السبت 2026/01/03",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "وداد مستغانم",
     "homeLogo": "https://jdwel.com/image/teams/4193.png",
     "away": "إتحاد الحراش",
@@ -1872,6 +1529,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "السبت 2026/01/03",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "وداد تلمسان",
     "homeLogo": "https://jdwel.com/image/teams/4190.png",
     "away": "شباب عين تيموشنت",
@@ -1880,6 +1540,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "السبت 2026/01/03",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "غالي معسكر",
     "homeLogo": "https://jdwel.com/image/teams/539.png",
     "away": "رائد القبة",
@@ -1888,6 +1551,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "السبت 2026/01/03",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "شبيبة تيارت",
     "homeLogo": "https://jdwel.com/image/teams/5170.png",
     "away": "إتحاد بشار الجديد",
@@ -1896,6 +1562,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "السبت 2026/01/03",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "شبيبة تيقصراين",
     "homeLogo": "https://jdwel.com/image/teams/4177.png",
     "away": "مولودية سعيدة",
@@ -1904,6 +1573,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "السبت 2026/01/03",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "أمل الأربعاء",
     "homeLogo": "https://jdwel.com/image/teams/3098.png",
     "away": "شبيبة الأبيار",
@@ -1912,6 +1584,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "السبت 2026/01/03",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "نصر حسين داي",
     "homeLogo": "https://jdwel.com/image/teams/2783.png",
     "away": "نجم القليعة",
@@ -1920,6 +1595,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الجمعة 2026/01/16",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "شباب برج منايل",
     "homeLogo": "https://jdwel.com/image/teams/2620.png",
     "away": "نجم بني والبان",
@@ -1928,6 +1606,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الجمعة 2026/01/16",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "إتحاد عنابة",
     "homeLogo": "https://jdwel.com/image/teams/3097.png",
     "away": "نادي التلاغمة",
@@ -1936,6 +1617,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الجمعة 2026/01/16",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "مولودية باتنة",
     "homeLogo": "https://jdwel.com/image/teams/2492.png",
     "away": "مولودية بجاية",
@@ -1944,6 +1628,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الجمعة 2026/01/16",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "هلال شلغوم العيد",
     "homeLogo": "https://jdwel.com/image/teams/2617.png",
     "away": "شبيبة جيجل",
@@ -1952,6 +1639,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الجمعة 2026/01/16",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "شباب بني ثور",
     "homeLogo": "https://jdwel.com/image/teams/4191.png",
     "away": "مولودية قسنطينة",
@@ -1960,6 +1650,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الجمعة 2026/01/16",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "إتحاد بسكرة",
     "homeLogo": "https://jdwel.com/image/teams/3210.png",
     "away": "إتحاد خميس الخشنة",
@@ -1968,6 +1661,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "السبت 2026/01/17",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "جمعية الخروب",
     "homeLogo": "https://jdwel.com/image/teams/2489.png",
     "away": "نجم مقرة",
@@ -1976,46 +1672,9 @@
     "time": "3:00 م"
   },
   {
-    "home": "أمل الأربعاء",
-    "homeLogo": "https://jdwel.com/image/teams/3098.png",
-    "away": "نجم القليعة",
-    "awayLogo": "https://jdwel.com/image/teams/5225.png",
-    "score": "0 - 0",
-    "time": "3:00 م"
-  },
-  {
-    "home": "شبيبة تيارت",
-    "homeLogo": "https://jdwel.com/image/teams/5170.png",
-    "away": "شبيبة الأبيار",
-    "awayLogo": "https://jdwel.com/image/teams/670.png",
-    "score": "0 - 1",
-    "time": "3:00 م"
-  },
-  {
-    "home": "شبيبة تيقصراين",
-    "homeLogo": "https://jdwel.com/image/teams/4177.png",
-    "away": "إتحاد بشار الجديد",
-    "awayLogo": "https://jdwel.com/image/teams/3884.png",
-    "score": "1 - 1",
-    "time": "3:00 م"
-  },
-  {
-    "home": "غالي معسكر",
-    "homeLogo": "https://jdwel.com/image/teams/539.png",
-    "away": "شباب أدرار",
-    "awayLogo": "https://jdwel.com/image/teams/4189.png",
-    "score": "2 - 0",
-    "time": "3:00 م"
-  },
-  {
-    "home": "وداد مستغانم",
-    "homeLogo": "https://jdwel.com/image/teams/4193.png",
-    "away": "رائد القبة",
-    "awayLogo": "https://jdwel.com/image/teams/1193.png",
-    "score": "2 - 1",
-    "time": "3:00 م"
-  },
-  {
+    "date": "الثلاثاء 2026/01/20",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "إتحاد الشاوية",
     "homeLogo": "https://jdwel.com/image/teams/1410.png",
     "away": "شباب باتنة",
@@ -2024,22 +1683,9 @@
     "time": "3:00 م"
   },
   {
-    "home": "جمعية وهران",
-    "homeLogo": "https://jdwel.com/image/teams/5307.png",
-    "away": "شباب عين تيموشنت",
-    "awayLogo": "https://jdwel.com/image/teams/4194.png",
-    "score": "1 - 1",
-    "time": "3:00 م"
-  },
-  {
-    "home": "مولودية سعيدة",
-    "homeLogo": "https://jdwel.com/image/teams/990.png",
-    "away": "إتحاد الحراش",
-    "awayLogo": "https://jdwel.com/image/teams/2623.png",
-    "score": "1 - 3",
-    "time": "3:00 م"
-  },
-  {
+    "date": "الجمعة 2026/01/23",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "وداد تلمسان",
     "homeLogo": "https://jdwel.com/image/teams/4190.png",
     "away": "شبيبة تيقصراين",
@@ -2048,6 +1694,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الجمعة 2026/01/23",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "نصر حسين داي",
     "homeLogo": "https://jdwel.com/image/teams/2783.png",
     "away": "أمل الأربعاء",
@@ -2056,6 +1705,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "السبت 2026/01/24",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "شباب باتنة",
     "homeLogo": "https://jdwel.com/image/teams/2618.png",
     "away": "إتحاد خميس الخشنة",
@@ -2064,6 +1716,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "السبت 2026/01/24",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "مولودية بجاية",
     "homeLogo": "https://jdwel.com/image/teams/4192.png",
     "away": "هلال شلغوم العيد",
@@ -2072,6 +1727,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "السبت 2026/01/24",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "نادي التلاغمة",
     "homeLogo": "https://jdwel.com/image/teams/2619.png",
     "away": "مولودية باتنة",
@@ -2080,6 +1738,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "السبت 2026/01/24",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "نجم بني والبان",
     "homeLogo": "https://jdwel.com/image/teams/5226.png",
     "away": "إتحاد الشاوية",
@@ -2088,6 +1749,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "السبت 2026/01/24",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "نجم مقرة",
     "homeLogo": "https://jdwel.com/image/teams/1107.png",
     "away": "إتحاد عنابة",
@@ -2096,6 +1760,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "السبت 2026/01/24",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "شباب برج منايل",
     "homeLogo": "https://jdwel.com/image/teams/2620.png",
     "away": "جمعية الخروب",
@@ -2104,6 +1771,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "السبت 2026/01/24",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "شبيبة جيجل",
     "homeLogo": "https://jdwel.com/image/teams/3885.png",
     "away": "شباب بني ثور",
@@ -2112,54 +1782,9 @@
     "time": "3:00 م"
   },
   {
-    "home": "شباب عين تيموشنت",
-    "homeLogo": "https://jdwel.com/image/teams/4194.png",
-    "away": "غالي معسكر",
-    "awayLogo": "https://jdwel.com/image/teams/539.png",
-    "score": "1 - 1",
-    "time": "3:00 م"
-  },
-  {
-    "home": "رائد القبة",
-    "homeLogo": "https://jdwel.com/image/teams/1193.png",
-    "away": "مولودية سعيدة",
-    "awayLogo": "https://jdwel.com/image/teams/990.png",
-    "score": "0 - 0",
-    "time": "3:00 م"
-  },
-  {
-    "home": "نجم القليعة",
-    "homeLogo": "https://jdwel.com/image/teams/5225.png",
-    "away": "شبيبة تيارت",
-    "awayLogo": "https://jdwel.com/image/teams/5170.png",
-    "score": "0 - 0",
-    "time": "3:00 م"
-  },
-  {
-    "home": "شباب أدرار",
-    "homeLogo": "https://jdwel.com/image/teams/4189.png",
-    "away": "وداد مستغانم",
-    "awayLogo": "https://jdwel.com/image/teams/4193.png",
-    "score": "1 - 0",
-    "time": "3:00 م"
-  },
-  {
-    "home": "إتحاد بشار الجديد",
-    "homeLogo": "https://jdwel.com/image/teams/3884.png",
-    "away": "إتحاد الحراش",
-    "awayLogo": "https://jdwel.com/image/teams/2623.png",
-    "score": "0 - 0",
-    "time": "3:00 م"
-  },
-  {
-    "home": "شبيبة الأبيار",
-    "homeLogo": "https://jdwel.com/image/teams/670.png",
-    "away": "جمعية وهران",
-    "awayLogo": "https://jdwel.com/image/teams/5307.png",
-    "score": "3 - 0",
-    "time": "3:00 م"
-  },
-  {
+    "date": "الأحد 2026/01/25",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "مولودية قسنطينة",
     "homeLogo": "https://jdwel.com/image/teams/5169.png",
     "away": "إتحاد بسكرة",
@@ -2168,6 +1793,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الثلاثاء 2026/01/27",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "وداد تلمسان",
     "homeLogo": "https://jdwel.com/image/teams/4190.png",
     "away": "نصر حسين داي",
@@ -2176,6 +1804,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الجمعة 2026/02/06",
+    "round": "الجولة 18",
+    "status": "قريباً",
     "home": "أمل الأربعاء",
     "homeLogo": "https://jdwel.com/image/teams/3098.png",
     "away": "وداد تلمسان",
@@ -2184,6 +1815,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الجمعة 2026/02/06",
+    "round": "الجولة 18",
+    "status": "قريباً",
     "home": "وداد مستغانم",
     "homeLogo": "https://jdwel.com/image/teams/4193.png",
     "away": "شباب عين تيموشنت",
@@ -2192,6 +1826,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "السبت 2026/02/07",
+    "round": "الجولة 18",
+    "status": "قريباً",
     "home": "هلال شلغوم العيد",
     "homeLogo": "https://jdwel.com/image/teams/2617.png",
     "away": "نادي التلاغمة",
@@ -2200,6 +1837,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "السبت 2026/02/07",
+    "round": "الجولة 18",
+    "status": "قريباً",
     "home": "إتحاد عنابة",
     "homeLogo": "https://jdwel.com/image/teams/3097.png",
     "away": "شباب برج منايل",
@@ -2208,6 +1848,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "السبت 2026/02/07",
+    "round": "الجولة 18",
+    "status": "قريباً",
     "home": "إتحاد خميس الخشنة",
     "homeLogo": "https://jdwel.com/image/teams/3100.png",
     "away": "مولودية قسنطينة",
@@ -2216,6 +1859,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "السبت 2026/02/07",
+    "round": "الجولة 18",
+    "status": "قريباً",
     "home": "إتحاد بسكرة",
     "homeLogo": "https://jdwel.com/image/teams/3210.png",
     "away": "شبيبة جيجل",
@@ -2224,6 +1870,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "السبت 2026/02/07",
+    "round": "الجولة 18",
+    "status": "قريباً",
     "home": "شباب بني ثور",
     "homeLogo": "https://jdwel.com/image/teams/4191.png",
     "away": "مولودية بجاية",
@@ -2232,6 +1881,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "السبت 2026/02/07",
+    "round": "الجولة 18",
+    "status": "قريباً",
     "home": "مولودية باتنة",
     "homeLogo": "https://jdwel.com/image/teams/2492.png",
     "away": "شباب باتنة",
@@ -2240,67 +1892,14 @@
     "time": "3:00 م"
   },
   {
+    "date": "السبت 2026/02/07",
+    "round": "الجولة 18",
+    "status": "قريباً",
     "home": "إتحاد الشاوية",
     "homeLogo": "https://jdwel.com/image/teams/1410.png",
     "away": "نجم مقرة",
     "awayLogo": "https://jdwel.com/image/teams/1107.png",
     "score": "0 - 0",
     "time": "3:00 م"
-  },
-  {
-    "home": "شبيبة تيقصراين",
-    "homeLogo": "https://jdwel.com/image/teams/4177.png",
-    "away": "نجم القليعة",
-    "awayLogo": "https://jdwel.com/image/teams/5225.png",
-    "score": "0 - 0",
-    "time": "3:00 م"
-  },
-  {
-    "home": "غالي معسكر",
-    "homeLogo": "https://jdwel.com/image/teams/539.png",
-    "away": "شبيبة الأبيار",
-    "awayLogo": "https://jdwel.com/image/teams/670.png",
-    "score": "0 - 0",
-    "time": "3:00 م"
-  },
-  {
-    "home": "مولودية سعيدة",
-    "homeLogo": "https://jdwel.com/image/teams/990.png",
-    "away": "شباب أدرار",
-    "awayLogo": "https://jdwel.com/image/teams/4189.png",
-    "score": "0 - 0",
-    "time": "3:00 م"
-  },
-  {
-    "home": "إتحاد الحراش",
-    "homeLogo": "https://jdwel.com/image/teams/2623.png",
-    "away": "رائد القبة",
-    "awayLogo": "https://jdwel.com/image/teams/1193.png",
-    "score": "0 - 0",
-    "time": "3:00 م"
-  },
-  {
-    "home": "جمعية وهران",
-    "homeLogo": "https://jdwel.com/image/teams/5307.png",
-    "away": "إتحاد بشار الجديد",
-    "awayLogo": "https://jdwel.com/image/teams/3884.png",
-    "score": "0 - 0",
-    "time": "3:00 م"
-  },
-  {
-    "home": "شبيبة تيارت",
-    "homeLogo": "https://jdwel.com/image/teams/5170.png",
-    "away": "نصر حسين داي",
-    "awayLogo": "https://jdwel.com/image/teams/2783.png",
-    "score": "0 - 0",
-    "time": "3:00 م"
-  },
-  {
-    "home": "جمعية الخروب",
-    "homeLogo": "https://jdwel.com/image/teams/2489.png",
-    "away": "نجم بني والبان",
-    "awayLogo": "https://jdwel.com/image/teams/5226.png",
-    "score": "0 - 0",
-    "time": "3:30 م"
   }
 ]

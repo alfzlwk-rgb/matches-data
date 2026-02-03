@@ -1,5 +1,8 @@
 [
   {
+    "date": "الجمعة 2025/07/18",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "سسكا صوفيا 1948",
     "homeLogo": "https://jdwel.com/image/teams/2526.png",
     "away": "أردا",
@@ -8,6 +11,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الجمعة 2025/07/18",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "لوكوموتيف صوفيا",
     "homeLogo": "https://jdwel.com/image/teams/2530.png",
     "away": "تشيرنو مور فارنا",
@@ -16,6 +22,9 @@
     "time": "9:15 م"
   },
   {
+    "date": "السبت 2025/07/19",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "لودوغورتس",
     "homeLogo": "https://jdwel.com/image/teams/999.png",
     "away": "سبتمفري صوفيا",
@@ -24,6 +33,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "السبت 2025/07/19",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "بوتيف بلوفديف",
     "homeLogo": "https://jdwel.com/image/teams/bul_botev_plovdiv.png",
     "away": "سسكا صوفيا",
@@ -32,6 +44,9 @@
     "time": "10:00 م"
   },
   {
+    "date": "الأحد 2025/07/20",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "سلافيا صوفيا",
     "homeLogo": "https://jdwel.com/image/teams/2525.png",
     "away": "بوتيف فراتسا",
@@ -40,6 +55,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأحد 2025/07/20",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "ليفسكي صوفيا",
     "homeLogo": "https://jdwel.com/image/teams/2527.png",
     "away": "مونتانا",
@@ -48,6 +66,9 @@
     "time": "9:15 م"
   },
   {
+    "date": "الأثنين 2025/07/21",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "لوكوموتيف بلوديف",
     "homeLogo": "https://jdwel.com/image/teams/2528.png",
     "away": "دوبرودزا دوبريتش",
@@ -56,6 +77,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأثنين 2025/07/21",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "سبارتاك فارنا",
     "homeLogo": "https://jdwel.com/image/teams/2645.png",
     "away": "بيروي",
@@ -64,6 +88,9 @@
     "time": "9:15 م"
   },
   {
+    "date": "الجمعة 2025/07/25",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "بوتيف فراتسا",
     "homeLogo": "https://jdwel.com/image/teams/2529.png",
     "away": "لودوغورتس",
@@ -72,6 +99,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "السبت 2025/07/26",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "بيروي",
     "homeLogo": "https://jdwel.com/image/teams/bul_beroe.png",
     "away": "سسكا صوفيا 1948",
@@ -80,6 +110,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "السبت 2025/07/26",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "سسكا صوفيا",
     "homeLogo": "https://jdwel.com/image/teams/bul_cska_sofia.png",
     "away": "سبارتاك فارنا",
@@ -88,6 +121,9 @@
     "time": "9:15 م"
   },
   {
+    "date": "الأحد 2025/07/27",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "تشيرنو مور فارنا",
     "homeLogo": "https://jdwel.com/image/teams/bul_cherno_more.png",
     "away": "بوتيف بلوفديف",
@@ -96,6 +132,9 @@
     "time": "7:45 م"
   },
   {
+    "date": "الأحد 2025/07/27",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "سبتمفري صوفيا",
     "homeLogo": "https://jdwel.com/image/teams/bul_septemvri_sofia.png",
     "away": "ليفسكي صوفيا",
@@ -104,6 +143,9 @@
     "time": "9:15 م"
   },
   {
+    "date": "الأحد 2025/07/27",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "أردا",
     "homeLogo": "https://jdwel.com/image/teams/2532.png",
     "away": "لوكوموتيف صوفيا",
@@ -112,6 +154,9 @@
     "time": "10:00 م"
   },
   {
+    "date": "الأثنين 2025/07/28",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "دوبرودزا دوبريتش",
     "homeLogo": "https://jdwel.com/image/teams/1349.png",
     "away": "سلافيا صوفيا",
@@ -120,6 +165,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأثنين 2025/07/28",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "مونتانا",
     "homeLogo": "https://jdwel.com/image/teams/3331.png",
     "away": "لوكوموتيف بلوديف",
@@ -128,6 +176,9 @@
     "time": "9:15 م"
   },
   {
+    "date": "الجمعة 2025/08/01",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "سبارتاك فارنا",
     "homeLogo": "https://jdwel.com/image/teams/2645.png",
     "away": "بوتيف فراتسا",
@@ -136,6 +187,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الجمعة 2025/08/01",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "سسكا صوفيا 1948",
     "homeLogo": "https://jdwel.com/image/teams/2526.png",
     "away": "سبتمفري صوفيا",
@@ -144,6 +198,9 @@
     "time": "9:15 م"
   },
   {
+    "date": "السبت 2025/08/02",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "لوكوموتيف بلوديف",
     "homeLogo": "https://jdwel.com/image/teams/2528.png",
     "away": "سسكا صوفيا",
@@ -152,6 +209,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "السبت 2025/08/02",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "لودوغورتس",
     "homeLogo": "https://jdwel.com/image/teams/999.png",
     "away": "دوبرودزا دوبريتش",
@@ -160,6 +220,9 @@
     "time": "9:15 م"
   },
   {
+    "date": "الأحد 2025/08/03",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "لوكوموتيف صوفيا",
     "homeLogo": "https://jdwel.com/image/teams/2530.png",
     "away": "مونتانا",
@@ -168,6 +231,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأحد 2025/08/03",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "ليفسكي صوفيا",
     "homeLogo": "https://jdwel.com/image/teams/2527.png",
     "away": "سلافيا صوفيا",
@@ -176,6 +242,9 @@
     "time": "9:15 م"
   },
   {
+    "date": "الأثنين 2025/08/04",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "تشيرنو مور فارنا",
     "homeLogo": "https://jdwel.com/image/teams/bul_cherno_more.png",
     "away": "بيروي",
@@ -184,6 +253,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأثنين 2025/08/04",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "بوتيف بلوفديف",
     "homeLogo": "https://jdwel.com/image/teams/bul_botev_plovdiv.png",
     "away": "أردا",
@@ -192,6 +264,9 @@
     "time": "9:15 م"
   },
   {
+    "date": "الجمعة 2025/08/08",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "دوبرودزا دوبريتش",
     "homeLogo": "https://jdwel.com/image/teams/1349.png",
     "away": "سسكا صوفيا 1948",
@@ -200,6 +275,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الجمعة 2025/08/08",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "مونتانا",
     "homeLogo": "https://jdwel.com/image/teams/3331.png",
     "away": "بوتيف فراتسا",
@@ -208,6 +286,9 @@
     "time": "9:15 م"
   },
   {
+    "date": "السبت 2025/08/09",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "سسكا صوفيا",
     "homeLogo": "https://jdwel.com/image/teams/bul_cska_sofia.png",
     "away": "تشيرنو مور فارنا",
@@ -216,6 +297,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "السبت 2025/08/09",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "سلافيا صوفيا",
     "homeLogo": "https://jdwel.com/image/teams/2525.png",
     "away": "لودوغورتس",
@@ -224,6 +308,9 @@
     "time": "9:15 م"
   },
   {
+    "date": "الأحد 2025/08/10",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "ليفسكي صوفيا",
     "homeLogo": "https://jdwel.com/image/teams/2527.png",
     "away": "سبارتاك فارنا",
@@ -232,6 +319,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأحد 2025/08/10",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "بوتيف بلوفديف",
     "homeLogo": "https://jdwel.com/image/teams/bul_botev_plovdiv.png",
     "away": "لوكوموتيف صوفيا",
@@ -240,6 +330,9 @@
     "time": "9:15 م"
   },
   {
+    "date": "الأثنين 2025/08/11",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "سبتمفري صوفيا",
     "homeLogo": "https://jdwel.com/image/teams/bul_septemvri_sofia.png",
     "away": "بيروي",
@@ -248,6 +341,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأثنين 2025/08/11",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "أردا",
     "homeLogo": "https://jdwel.com/image/teams/2532.png",
     "away": "لوكوموتيف بلوديف",
@@ -256,6 +352,9 @@
     "time": "9:15 م"
   },
   {
+    "date": "الجمعة 2025/08/15",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "سسكا صوفيا 1948",
     "homeLogo": "https://jdwel.com/image/teams/2526.png",
     "away": "مونتانا",
@@ -264,6 +363,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الجمعة 2025/08/15",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "لوكوموتيف بلوديف",
     "homeLogo": "https://jdwel.com/image/teams/2528.png",
     "away": "سلافيا صوفيا",
@@ -272,6 +374,9 @@
     "time": "9:15 م"
   },
   {
+    "date": "السبت 2025/08/16",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "سبارتاك فارنا",
     "homeLogo": "https://jdwel.com/image/teams/2645.png",
     "away": "تشيرنو مور فارنا",
@@ -280,6 +385,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "السبت 2025/08/16",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "بيروي",
     "homeLogo": "https://jdwel.com/image/teams/bul_beroe.png",
     "away": "بوتيف بلوفديف",
@@ -288,6 +396,9 @@
     "time": "9:15 م"
   },
   {
+    "date": "الأحد 2025/08/17",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "لودوغورتس",
     "homeLogo": "https://jdwel.com/image/teams/999.png",
     "away": "لوكوموتيف صوفيا",
@@ -296,6 +407,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأحد 2025/08/17",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "بوتيف فراتسا",
     "homeLogo": "https://jdwel.com/image/teams/2529.png",
     "away": "ليفسكي صوفيا",
@@ -304,6 +418,9 @@
     "time": "9:15 م"
   },
   {
+    "date": "الأثنين 2025/08/18",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "سبتمفري صوفيا",
     "homeLogo": "https://jdwel.com/image/teams/bul_septemvri_sofia.png",
     "away": "دوبرودزا دوبريتش",
@@ -312,6 +429,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الجمعة 2025/08/22",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "لوكوموتيف صوفيا",
     "homeLogo": "https://jdwel.com/image/teams/2530.png",
     "away": "سبارتاك فارنا",
@@ -320,6 +440,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "السبت 2025/08/23",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "مونتانا",
     "homeLogo": "https://jdwel.com/image/teams/3331.png",
     "away": "سبتمفري صوفيا",
@@ -328,6 +451,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "السبت 2025/08/23",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "تشيرنو مور فارنا",
     "homeLogo": "https://jdwel.com/image/teams/bul_cherno_more.png",
     "away": "لوكوموتيف بلوديف",
@@ -336,6 +462,9 @@
     "time": "9:15 م"
   },
   {
+    "date": "الأحد 2025/08/24",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "دوبرودزا دوبريتش",
     "homeLogo": "https://jdwel.com/image/teams/1349.png",
     "away": "بوتيف فراتسا",
@@ -344,6 +473,9 @@
     "time": "5:45 م"
   },
   {
+    "date": "الأحد 2025/08/24",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "سسكا صوفيا",
     "homeLogo": "https://jdwel.com/image/teams/bul_cska_sofia.png",
     "away": "سسكا صوفيا 1948",
@@ -352,6 +484,9 @@
     "time": "8:15 م"
   },
   {
+    "date": "الأثنين 2025/08/25",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "سلافيا صوفيا",
     "homeLogo": "https://jdwel.com/image/teams/2525.png",
     "away": "أردا",
@@ -360,6 +495,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الجمعة 2025/08/29",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "مونتانا",
     "homeLogo": "https://jdwel.com/image/teams/3331.png",
     "away": "دوبرودزا دوبريتش",
@@ -368,6 +506,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "الجمعة 2025/08/29",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "بوتيف فراتسا",
     "homeLogo": "https://jdwel.com/image/teams/2529.png",
     "away": "تشيرنو مور فارنا",
@@ -376,6 +517,9 @@
     "time": "7:45 م"
   },
   {
+    "date": "الجمعة 2025/08/29",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "سبتمفري صوفيا",
     "homeLogo": "https://jdwel.com/image/teams/bul_septemvri_sofia.png",
     "away": "لوكوموتيف صوفيا",
@@ -384,6 +528,9 @@
     "time": "10:00 م"
   },
   {
+    "date": "السبت 2025/08/30",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "سبارتاك فارنا",
     "homeLogo": "https://jdwel.com/image/teams/2645.png",
     "away": "لوكوموتيف بلوديف",
@@ -392,6 +539,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "السبت 2025/08/30",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "سلافيا صوفيا",
     "homeLogo": "https://jdwel.com/image/teams/2525.png",
     "away": "سسكا صوفيا",
@@ -400,6 +550,9 @@
     "time": "9:15 م"
   },
   {
+    "date": "الأحد 2025/08/31",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "أردا",
     "homeLogo": "https://jdwel.com/image/teams/2532.png",
     "away": "بيروي",
@@ -408,6 +561,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2025/08/31",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "ليفسكي صوفيا",
     "homeLogo": "https://jdwel.com/image/teams/2527.png",
     "away": "سسكا صوفيا 1948",
@@ -416,6 +572,9 @@
     "time": "7:15 م"
   },
   {
+    "date": "الأحد 2025/08/31",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "لودوغورتس",
     "homeLogo": "https://jdwel.com/image/teams/999.png",
     "away": "بوتيف بلوفديف",
@@ -424,6 +583,9 @@
     "time": "9:30 م"
   },
   {
+    "date": "الجمعة 2025/09/12",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "بيروي",
     "homeLogo": "https://jdwel.com/image/teams/bul_beroe.png",
     "away": "بوتيف فراتسا",
@@ -432,6 +594,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "الجمعة 2025/09/12",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "بوتيف بلوفديف",
     "homeLogo": "https://jdwel.com/image/teams/bul_botev_plovdiv.png",
     "away": "مونتانا",
@@ -440,6 +605,9 @@
     "time": "7:45 م"
   },
   {
+    "date": "السبت 2025/09/13",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "سبارتاك فارنا",
     "homeLogo": "https://jdwel.com/image/teams/2645.png",
     "away": "أردا",
@@ -448,6 +616,9 @@
     "time": "5:45 م"
   },
   {
+    "date": "السبت 2025/09/13",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "سسكا صوفيا",
     "homeLogo": "https://jdwel.com/image/teams/bul_cska_sofia.png",
     "away": "سبتمفري صوفيا",
@@ -456,6 +627,9 @@
     "time": "8:15 م"
   },
   {
+    "date": "الأحد 2025/09/14",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "لوكوموتيف بلوديف",
     "homeLogo": "https://jdwel.com/image/teams/2528.png",
     "away": "لودوغورتس",
@@ -464,6 +638,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2025/09/14",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "لوكوموتيف صوفيا",
     "homeLogo": "https://jdwel.com/image/teams/2530.png",
     "away": "ليفسكي صوفيا",
@@ -472,6 +649,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "الأثنين 2025/09/15",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "سسكا صوفيا 1948",
     "homeLogo": "https://jdwel.com/image/teams/2526.png",
     "away": "سلافيا صوفيا",
@@ -480,6 +660,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأثنين 2025/09/15",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "تشيرنو مور فارنا",
     "homeLogo": "https://jdwel.com/image/teams/bul_cherno_more.png",
     "away": "دوبرودزا دوبريتش",
@@ -488,6 +671,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "الخميس 2025/09/18",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "أردا",
     "homeLogo": "https://jdwel.com/image/teams/2532.png",
     "away": "سسكا صوفيا",
@@ -496,6 +682,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "الجمعة 2025/09/19",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "مونتانا",
     "homeLogo": "https://jdwel.com/image/teams/3331.png",
     "away": "سبارتاك فارنا",
@@ -504,6 +693,9 @@
     "time": "5:45 م"
   },
   {
+    "date": "الجمعة 2025/09/19",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "ليفسكي صوفيا",
     "homeLogo": "https://jdwel.com/image/teams/2527.png",
     "away": "لودوغورتس",
@@ -512,6 +704,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "السبت 2025/09/20",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "دوبرودزا دوبريتش",
     "homeLogo": "https://jdwel.com/image/teams/1349.png",
     "away": "لوكوموتيف صوفيا",
@@ -520,6 +715,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "السبت 2025/09/20",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "سسكا صوفيا 1948",
     "homeLogo": "https://jdwel.com/image/teams/2526.png",
     "away": "لوكوموتيف بلوديف",
@@ -528,6 +726,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الأحد 2025/09/21",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "سبتمفري صوفيا",
     "homeLogo": "https://jdwel.com/image/teams/bul_septemvri_sofia.png",
     "away": "بوتيف بلوفديف",
@@ -536,6 +737,9 @@
     "time": "5:45 م"
   },
   {
+    "date": "الأحد 2025/09/21",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "سلافيا صوفيا",
     "homeLogo": "https://jdwel.com/image/teams/2525.png",
     "away": "بيروي",
@@ -544,6 +748,9 @@
     "time": "8:15 م"
   },
   {
+    "date": "الأثنين 2025/09/22",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "أردا",
     "homeLogo": "https://jdwel.com/image/teams/2532.png",
     "away": "تشيرنو مور فارنا",
@@ -552,6 +759,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأثنين 2025/09/22",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "بوتيف فراتسا",
     "homeLogo": "https://jdwel.com/image/teams/2529.png",
     "away": "سسكا صوفيا",
@@ -560,6 +770,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "الخميس 2025/09/25",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "بوتيف بلوفديف",
     "homeLogo": "https://jdwel.com/image/teams/bul_botev_plovdiv.png",
     "away": "سسكا صوفيا 1948",
@@ -568,6 +781,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "الجمعة 2025/09/26",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "لوكوموتيف بلوديف",
     "homeLogo": "https://jdwel.com/image/teams/2528.png",
     "away": "ليفسكي صوفيا",
@@ -576,6 +792,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "السبت 2025/09/27",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "تشيرنو مور فارنا",
     "homeLogo": "https://jdwel.com/image/teams/bul_cherno_more.png",
     "away": "سبتمفري صوفيا",
@@ -584,6 +803,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "السبت 2025/09/27",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "لوكوموتيف صوفيا",
     "homeLogo": "https://jdwel.com/image/teams/2530.png",
     "away": "سسكا صوفيا",
@@ -592,6 +814,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الأحد 2025/09/28",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "سبارتاك فارنا",
     "homeLogo": "https://jdwel.com/image/teams/2645.png",
     "away": "سلافيا صوفيا",
@@ -600,6 +825,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأحد 2025/09/28",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "أردا",
     "homeLogo": "https://jdwel.com/image/teams/2532.png",
     "away": "بوتيف فراتسا",
@@ -608,6 +836,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "الأحد 2025/09/28",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "لودوغورتس",
     "homeLogo": "https://jdwel.com/image/teams/999.png",
     "away": "مونتانا",
@@ -616,6 +847,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الأثنين 2025/09/29",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "بيروي",
     "homeLogo": "https://jdwel.com/image/teams/bul_beroe.png",
     "away": "دوبرودزا دوبريتش",
@@ -624,6 +858,9 @@
     "time": "8:15 م"
   },
   {
+    "date": "الثلاثاء 2025/09/30",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "بوتيف بلوفديف",
     "homeLogo": "https://jdwel.com/image/teams/bul_botev_plovdiv.png",
     "away": "ليفسكي صوفيا",
@@ -632,6 +869,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "الجمعة 2025/10/03",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "سبتمفري صوفيا",
     "homeLogo": "https://jdwel.com/image/teams/bul_septemvri_sofia.png",
     "away": "لوكوموتيف بلوديف",
@@ -640,6 +880,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "الجمعة 2025/10/03",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "سلافيا صوفيا",
     "homeLogo": "https://jdwel.com/image/teams/2525.png",
     "away": "لوكوموتيف صوفيا",
@@ -648,6 +891,9 @@
     "time": "7:45 م"
   },
   {
+    "date": "السبت 2025/10/04",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "سسكا صوفيا 1948",
     "homeLogo": "https://jdwel.com/image/teams/2526.png",
     "away": "سبارتاك فارنا",
@@ -656,6 +902,9 @@
     "time": "3:15 م"
   },
   {
+    "date": "السبت 2025/10/04",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "مونتانا",
     "homeLogo": "https://jdwel.com/image/teams/3331.png",
     "away": "تشيرنو مور فارنا",
@@ -664,6 +913,9 @@
     "time": "5:45 م"
   },
   {
+    "date": "السبت 2025/10/04",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "ليفسكي صوفيا",
     "homeLogo": "https://jdwel.com/image/teams/2527.png",
     "away": "بيروي",
@@ -672,6 +924,9 @@
     "time": "8:15 م"
   },
   {
+    "date": "الأحد 2025/10/05",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "دوبرودزا دوبريتش",
     "homeLogo": "https://jdwel.com/image/teams/1349.png",
     "away": "أردا",
@@ -680,6 +935,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأحد 2025/10/05",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "بوتيف فراتسا",
     "homeLogo": "https://jdwel.com/image/teams/2529.png",
     "away": "بوتيف بلوفديف",
@@ -688,6 +946,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "الأحد 2025/10/05",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "سسكا صوفيا",
     "homeLogo": "https://jdwel.com/image/teams/bul_cska_sofia.png",
     "away": "لودوغورتس",
@@ -696,6 +957,9 @@
     "time": "8:15 م"
   },
   {
+    "date": "الجمعة 2025/10/17",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "لوكوموتيف بلوديف",
     "homeLogo": "https://jdwel.com/image/teams/2528.png",
     "away": "بوتيف فراتسا",
@@ -704,6 +968,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "السبت 2025/10/18",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "بوتيف بلوفديف",
     "homeLogo": "https://jdwel.com/image/teams/bul_botev_plovdiv.png",
     "away": "سلافيا صوفيا",
@@ -712,6 +979,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "السبت 2025/10/18",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "لودوغورتس",
     "homeLogo": "https://jdwel.com/image/teams/999.png",
     "away": "سبارتاك فارنا",
@@ -720,6 +990,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "الأحد 2025/10/19",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "دوبرودزا دوبريتش",
     "homeLogo": "https://jdwel.com/image/teams/1349.png",
     "away": "سسكا صوفيا",
@@ -728,6 +1001,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأحد 2025/10/19",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "تشيرنو مور فارنا",
     "homeLogo": "https://jdwel.com/image/teams/bul_cherno_more.png",
     "away": "ليفسكي صوفيا",
@@ -736,6 +1012,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "الأحد 2025/10/19",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "لوكوموتيف صوفيا",
     "homeLogo": "https://jdwel.com/image/teams/2530.png",
     "away": "سسكا صوفيا 1948",
@@ -744,6 +1023,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الأثنين 2025/10/20",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "أردا",
     "homeLogo": "https://jdwel.com/image/teams/2532.png",
     "away": "سبتمفري صوفيا",
@@ -752,6 +1034,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "الأثنين 2025/10/20",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "بيروي",
     "homeLogo": "https://jdwel.com/image/teams/bul_beroe.png",
     "away": "مونتانا",
@@ -760,6 +1045,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الجمعة 2025/10/24",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "مونتانا",
     "homeLogo": "https://jdwel.com/image/teams/3331.png",
     "away": "أردا",
@@ -768,6 +1056,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الجمعة 2025/10/24",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "سبارتاك فارنا",
     "homeLogo": "https://jdwel.com/image/teams/2645.png",
     "away": "بوتيف بلوفديف",
@@ -776,6 +1067,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "الجمعة 2025/10/24",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "لوكوموتيف صوفيا",
     "homeLogo": "https://jdwel.com/image/teams/2530.png",
     "away": "لوكوموتيف بلوديف",
@@ -784,6 +1078,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "السبت 2025/10/25",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "بوتيف فراتسا",
     "homeLogo": "https://jdwel.com/image/teams/2529.png",
     "away": "سبتمفري صوفيا",
@@ -792,6 +1089,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "السبت 2025/10/25",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "سلافيا صوفيا",
     "homeLogo": "https://jdwel.com/image/teams/2525.png",
     "away": "تشيرنو مور فارنا",
@@ -800,6 +1100,9 @@
     "time": "3:30 م"
   },
   {
+    "date": "السبت 2025/10/25",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "ليفسكي صوفيا",
     "homeLogo": "https://jdwel.com/image/teams/2527.png",
     "away": "دوبرودزا دوبريتش",
@@ -808,6 +1111,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2025/10/26",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "سسكا صوفيا",
     "homeLogo": "https://jdwel.com/image/teams/bul_cska_sofia.png",
     "away": "بيروي",
@@ -816,6 +1122,9 @@
     "time": "6:15 م"
   },
   {
+    "date": "الأثنين 2025/10/27",
+    "round": "",
+    "status": "انتهت",
     "home": "سسكا صوفيا 1948",
     "homeLogo": "https://jdwel.com/image/teams/2526.png",
     "away": "لودوغورتس",
@@ -824,6 +1133,9 @@
     "time": "6:30 م"
   },
   {
+    "date": "السبت 2025/11/01",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "دوبرودزا دوبريتش",
     "homeLogo": "https://jdwel.com/image/teams/1349.png",
     "away": "سبارتاك فارنا",
@@ -832,6 +1144,9 @@
     "time": "12:00 م"
   },
   {
+    "date": "السبت 2025/11/01",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "لوكوموتيف بلوديف",
     "homeLogo": "https://jdwel.com/image/teams/2528.png",
     "away": "بوتيف بلوفديف",
@@ -840,6 +1155,9 @@
     "time": "2:45 م"
   },
   {
+    "date": "السبت 2025/11/01",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "سبتمفري صوفيا",
     "homeLogo": "https://jdwel.com/image/teams/bul_septemvri_sofia.png",
     "away": "سلافيا صوفيا",
@@ -848,6 +1166,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "الأحد 2025/11/02",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "سسكا صوفيا",
     "homeLogo": "https://jdwel.com/image/teams/bul_cska_sofia.png",
     "away": "مونتانا",
@@ -856,6 +1177,9 @@
     "time": "12:45 م"
   },
   {
+    "date": "الأحد 2025/11/02",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "أردا",
     "homeLogo": "https://jdwel.com/image/teams/2532.png",
     "away": "ليفسكي صوفيا",
@@ -864,6 +1188,9 @@
     "time": "3:15 م"
   },
   {
+    "date": "الأحد 2025/11/02",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "تشيرنو مور فارنا",
     "homeLogo": "https://jdwel.com/image/teams/bul_cherno_more.png",
     "away": "لودوغورتس",
@@ -872,6 +1199,9 @@
     "time": "5:45 م"
   },
   {
+    "date": "الأثنين 2025/11/03",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "بيروي",
     "homeLogo": "https://jdwel.com/image/teams/bul_beroe.png",
     "away": "لوكوموتيف صوفيا",
@@ -880,6 +1210,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الأثنين 2025/11/03",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "بوتيف فراتسا",
     "homeLogo": "https://jdwel.com/image/teams/2529.png",
     "away": "سسكا صوفيا 1948",
@@ -888,6 +1221,9 @@
     "time": "6:15 م"
   },
   {
+    "date": "الجمعة 2025/11/07",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "سبارتاك فارنا",
     "homeLogo": "https://jdwel.com/image/teams/2645.png",
     "away": "سبتمفري صوفيا",
@@ -896,6 +1232,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الجمعة 2025/11/07",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "بوتيف بلوفديف",
     "homeLogo": "https://jdwel.com/image/teams/bul_botev_plovdiv.png",
     "away": "دوبرودزا دوبريتش",
@@ -904,6 +1243,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "السبت 2025/11/08",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "لوكوموتيف صوفيا",
     "homeLogo": "https://jdwel.com/image/teams/2530.png",
     "away": "بوتيف فراتسا",
@@ -912,6 +1254,9 @@
     "time": "12:00 م"
   },
   {
+    "date": "السبت 2025/11/08",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "ليفسكي صوفيا",
     "homeLogo": "https://jdwel.com/image/teams/2527.png",
     "away": "سسكا صوفيا",
@@ -920,6 +1265,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "السبت 2025/11/08",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "لوكوموتيف بلوديف",
     "homeLogo": "https://jdwel.com/image/teams/2528.png",
     "away": "بيروي",
@@ -928,6 +1276,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2025/11/09",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "سلافيا صوفيا",
     "homeLogo": "https://jdwel.com/image/teams/2525.png",
     "away": "مونتانا",
@@ -936,6 +1287,9 @@
     "time": "12:30 م"
   },
   {
+    "date": "الأحد 2025/11/09",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "سسكا صوفيا 1948",
     "homeLogo": "https://jdwel.com/image/teams/2526.png",
     "away": "تشيرنو مور فارنا",
@@ -944,6 +1298,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأحد 2025/11/09",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "لودوغورتس",
     "homeLogo": "https://jdwel.com/image/teams/999.png",
     "away": "أردا",
@@ -952,6 +1309,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "الجمعة 2025/11/21",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "بيروي",
     "homeLogo": "https://jdwel.com/image/teams/bul_beroe.png",
     "away": "سبارتاك فارنا",
@@ -960,6 +1320,9 @@
     "time": "5:45 م"
   },
   {
+    "date": "السبت 2025/11/22",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "أردا",
     "homeLogo": "https://jdwel.com/image/teams/2532.png",
     "away": "سسكا صوفيا 1948",
@@ -968,6 +1331,9 @@
     "time": "12:00 م"
   },
   {
+    "date": "السبت 2025/11/22",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "تشيرنو مور فارنا",
     "homeLogo": "https://jdwel.com/image/teams/bul_cherno_more.png",
     "away": "لوكوموتيف صوفيا",
@@ -976,6 +1342,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "السبت 2025/11/22",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "سسكا صوفيا",
     "homeLogo": "https://jdwel.com/image/teams/bul_cska_sofia.png",
     "away": "بوتيف بلوفديف",
@@ -984,6 +1353,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2025/11/23",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "دوبرودزا دوبريتش",
     "homeLogo": "https://jdwel.com/image/teams/1349.png",
     "away": "لوكوموتيف بلوديف",
@@ -992,6 +1364,9 @@
     "time": "12:00 م"
   },
   {
+    "date": "الأحد 2025/11/23",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "سبتمفري صوفيا",
     "homeLogo": "https://jdwel.com/image/teams/bul_septemvri_sofia.png",
     "away": "لودوغورتس",
@@ -1000,6 +1375,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "الأحد 2025/11/23",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "مونتانا",
     "homeLogo": "https://jdwel.com/image/teams/3331.png",
     "away": "ليفسكي صوفيا",
@@ -1008,6 +1386,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأثنين 2025/11/24",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "بوتيف فراتسا",
     "homeLogo": "https://jdwel.com/image/teams/2529.png",
     "away": "سلافيا صوفيا",
@@ -1016,6 +1397,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "الجمعة 2025/11/28",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "لوكوموتيف صوفيا",
     "homeLogo": "https://jdwel.com/image/teams/2530.png",
     "away": "أردا",
@@ -1024,6 +1408,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الجمعة 2025/11/28",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "لوكوموتيف بلوديف",
     "homeLogo": "https://jdwel.com/image/teams/2528.png",
     "away": "مونتانا",
@@ -1032,6 +1419,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "السبت 2025/11/29",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "سسكا صوفيا 1948",
     "homeLogo": "https://jdwel.com/image/teams/2526.png",
     "away": "بيروي",
@@ -1040,6 +1430,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "السبت 2025/11/29",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "بوتيف بلوفديف",
     "homeLogo": "https://jdwel.com/image/teams/bul_botev_plovdiv.png",
     "away": "تشيرنو مور فارنا",
@@ -1048,6 +1441,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "السبت 2025/11/29",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "سبارتاك فارنا",
     "homeLogo": "https://jdwel.com/image/teams/2645.png",
     "away": "سسكا صوفيا",
@@ -1056,6 +1452,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "الأحد 2025/11/30",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "سلافيا صوفيا",
     "homeLogo": "https://jdwel.com/image/teams/2525.png",
     "away": "دوبرودزا دوبريتش",
@@ -1064,6 +1463,9 @@
     "time": "12:30 م"
   },
   {
+    "date": "الأحد 2025/11/30",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "لودوغورتس",
     "homeLogo": "https://jdwel.com/image/teams/999.png",
     "away": "بوتيف فراتسا",
@@ -1072,6 +1474,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأحد 2025/11/30",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "ليفسكي صوفيا",
     "homeLogo": "https://jdwel.com/image/teams/2527.png",
     "away": "سبتمفري صوفيا",
@@ -1080,6 +1485,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "الثلاثاء 2025/12/02",
+    "round": "الجولة 18",
+    "status": "انتهت",
     "home": "مونتانا",
     "homeLogo": "https://jdwel.com/image/teams/3331.png",
     "away": "لوكوموتيف صوفيا",
@@ -1088,6 +1496,9 @@
     "time": "3:30 م"
   },
   {
+    "date": "الثلاثاء 2025/12/02",
+    "round": "الجولة 18",
+    "status": "انتهت",
     "home": "أردا",
     "homeLogo": "https://jdwel.com/image/teams/2532.png",
     "away": "بوتيف بلوفديف",
@@ -1096,6 +1507,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأربعاء 2025/12/03",
+    "round": "الجولة 18",
+    "status": "انتهت",
     "home": "سبتمفري صوفيا",
     "homeLogo": "https://jdwel.com/image/teams/bul_septemvri_sofia.png",
     "away": "سسكا صوفيا 1948",
@@ -1104,6 +1518,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "الأربعاء 2025/12/03",
+    "round": "الجولة 18",
+    "status": "انتهت",
     "home": "بيروي",
     "homeLogo": "https://jdwel.com/image/teams/bul_beroe.png",
     "away": "تشيرنو مور فارنا",
@@ -1112,6 +1529,9 @@
     "time": "3:30 م"
   },
   {
+    "date": "الأربعاء 2025/12/03",
+    "round": "الجولة 18",
+    "status": "انتهت",
     "home": "سسكا صوفيا",
     "homeLogo": "https://jdwel.com/image/teams/bul_cska_sofia.png",
     "away": "لوكوموتيف بلوديف",
@@ -1120,6 +1540,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الخميس 2025/12/04",
+    "round": "الجولة 18",
+    "status": "انتهت",
     "home": "دوبرودزا دوبريتش",
     "homeLogo": "https://jdwel.com/image/teams/1349.png",
     "away": "لودوغورتس",
@@ -1128,6 +1551,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "الخميس 2025/12/04",
+    "round": "الجولة 18",
+    "status": "انتهت",
     "home": "بوتيف فراتسا",
     "homeLogo": "https://jdwel.com/image/teams/2529.png",
     "away": "سبارتاك فارنا",
@@ -1136,6 +1562,9 @@
     "time": "3:30 م"
   },
   {
+    "date": "الخميس 2025/12/04",
+    "round": "الجولة 18",
+    "status": "انتهت",
     "home": "سلافيا صوفيا",
     "homeLogo": "https://jdwel.com/image/teams/2525.png",
     "away": "ليفسكي صوفيا",
@@ -1144,6 +1573,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/12/06",
+    "round": "الجولة 19",
+    "status": "انتهت",
     "home": "لوكوموتيف صوفيا",
     "homeLogo": "https://jdwel.com/image/teams/2530.png",
     "away": "بوتيف بلوفديف",
@@ -1152,6 +1584,9 @@
     "time": "12:30 م"
   },
   {
+    "date": "السبت 2025/12/06",
+    "round": "الجولة 19",
+    "status": "انتهت",
     "home": "لوكوموتيف بلوديف",
     "homeLogo": "https://jdwel.com/image/teams/2528.png",
     "away": "أردا",
@@ -1160,6 +1595,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "السبت 2025/12/06",
+    "round": "الجولة 19",
+    "status": "انتهت",
     "home": "تشيرنو مور فارنا",
     "homeLogo": "https://jdwel.com/image/teams/bul_cherno_more.png",
     "away": "سسكا صوفيا",
@@ -1168,6 +1606,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "الأحد 2025/12/07",
+    "round": "الجولة 19",
+    "status": "انتهت",
     "home": "بيروي",
     "homeLogo": "https://jdwel.com/image/teams/bul_beroe.png",
     "away": "سبتمفري صوفيا",
@@ -1176,6 +1617,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "الأحد 2025/12/07",
+    "round": "الجولة 19",
+    "status": "انتهت",
     "home": "سبارتاك فارنا",
     "homeLogo": "https://jdwel.com/image/teams/2645.png",
     "away": "ليفسكي صوفيا",
@@ -1184,6 +1628,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأثنين 2025/12/08",
+    "round": "الجولة 19",
+    "status": "انتهت",
     "home": "سسكا صوفيا 1948",
     "homeLogo": "https://jdwel.com/image/teams/2526.png",
     "away": "دوبرودزا دوبريتش",
@@ -1192,6 +1639,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأثنين 2025/12/08",
+    "round": "الجولة 19",
+    "status": "انتهت",
     "home": "لودوغورتس",
     "homeLogo": "https://jdwel.com/image/teams/999.png",
     "away": "سلافيا صوفيا",
@@ -1200,6 +1650,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "الثلاثاء 2025/12/09",
+    "round": "الجولة 19",
+    "status": "انتهت",
     "home": "بوتيف فراتسا",
     "homeLogo": "https://jdwel.com/image/teams/2529.png",
     "away": "مونتانا",
@@ -1208,6 +1661,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "الجمعة 2025/12/19",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "بيروي",
     "homeLogo": "https://jdwel.com/image/teams/bul_beroe.png",
     "away": "لودوغورتس",
@@ -1216,6 +1672,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "الجمعة 2026/02/06",
+    "round": "الجولة 20",
+    "status": "قريباً",
     "home": "مونتانا",
     "homeLogo": "https://jdwel.com/image/teams/3331.png",
     "away": "سسكا صوفيا 1948",
@@ -1224,6 +1683,9 @@
     "time": "3:15 م"
   },
   {
+    "date": "الجمعة 2026/02/06",
+    "round": "الجولة 20",
+    "status": "قريباً",
     "home": "سسكا صوفيا",
     "homeLogo": "https://jdwel.com/image/teams/bul_cska_sofia.png",
     "away": "أردا",
@@ -1232,6 +1694,9 @@
     "time": "5:45 م"
   },
   {
+    "date": "السبت 2026/02/07",
+    "round": "الجولة 20",
+    "status": "قريباً",
     "home": "تشيرنو مور فارنا",
     "homeLogo": "https://jdwel.com/image/teams/bul_cherno_more.png",
     "away": "سبارتاك فارنا",
@@ -1240,6 +1705,9 @@
     "time": "12:30 م"
   },
   {
+    "date": "السبت 2026/02/07",
+    "round": "الجولة 20",
+    "status": "قريباً",
     "home": "لوكوموتيف صوفيا",
     "homeLogo": "https://jdwel.com/image/teams/2530.png",
     "away": "لودوغورتس",
@@ -1248,6 +1716,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "السبت 2026/02/07",
+    "round": "الجولة 20",
+    "status": "قريباً",
     "home": "ليفسكي صوفيا",
     "homeLogo": "https://jdwel.com/image/teams/2527.png",
     "away": "بوتيف فراتسا",
@@ -1256,6 +1727,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "الأحد 2026/02/08",
+    "round": "الجولة 20",
+    "status": "قريباً",
     "home": "دوبرودزا دوبريتش",
     "homeLogo": "https://jdwel.com/image/teams/1349.png",
     "away": "سبتمفري صوفيا",
@@ -1264,6 +1738,9 @@
     "time": "12:00 م"
   },
   {
+    "date": "الأحد 2026/02/08",
+    "round": "الجولة 20",
+    "status": "قريباً",
     "home": "سلافيا صوفيا",
     "homeLogo": "https://jdwel.com/image/teams/2525.png",
     "away": "لوكوموتيف بلوديف",
@@ -1272,6 +1749,9 @@
     "time": "2:15 م"
   },
   {
+    "date": "الأحد 2026/02/08",
+    "round": "الجولة 20",
+    "status": "قريباً",
     "home": "بوتيف بلوفديف",
     "homeLogo": "https://jdwel.com/image/teams/bul_botev_plovdiv.png",
     "away": "بيروي",
@@ -1280,6 +1760,9 @@
     "time": "4:45 م"
   },
   {
+    "date": "الجمعة 2026/02/13",
+    "round": "الجولة 21",
+    "status": "قريباً",
     "home": "سبارتاك فارنا",
     "homeLogo": "https://jdwel.com/image/teams/2645.png",
     "away": "لوكوموتيف صوفيا",
@@ -1288,6 +1771,9 @@
     "time": "5:45 م"
   },
   {
+    "date": "السبت 2026/02/14",
+    "round": "الجولة 21",
+    "status": "قريباً",
     "home": "سبتمفري صوفيا",
     "homeLogo": "https://jdwel.com/image/teams/bul_septemvri_sofia.png",
     "away": "مونتانا",
@@ -1296,6 +1782,9 @@
     "time": "12:15 م"
   },
   {
+    "date": "السبت 2026/02/14",
+    "round": "الجولة 21",
+    "status": "قريباً",
     "home": "سسكا صوفيا 1948",
     "homeLogo": "https://jdwel.com/image/teams/2526.png",
     "away": "سسكا صوفيا",
@@ -1304,6 +1793,9 @@
     "time": "2:45 م"
   },
   {
+    "date": "السبت 2026/02/14",
+    "round": "الجولة 21",
+    "status": "قريباً",
     "home": "أردا",
     "homeLogo": "https://jdwel.com/image/teams/2532.png",
     "away": "سلافيا صوفيا",
@@ -1312,6 +1804,9 @@
     "time": "5:15 م"
   },
   {
+    "date": "الأحد 2026/02/15",
+    "round": "الجولة 21",
+    "status": "قريباً",
     "home": "لوكوموتيف بلوديف",
     "homeLogo": "https://jdwel.com/image/teams/2528.png",
     "away": "تشيرنو مور فارنا",
@@ -1320,6 +1815,9 @@
     "time": "12:00 م"
   },
   {
+    "date": "الأحد 2026/02/15",
+    "round": "الجولة 21",
+    "status": "قريباً",
     "home": "لودوغورتس",
     "homeLogo": "https://jdwel.com/image/teams/999.png",
     "away": "بيروي",
@@ -1328,6 +1826,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "الأحد 2026/02/15",
+    "round": "الجولة 21",
+    "status": "قريباً",
     "home": "ليفسكي صوفيا",
     "homeLogo": "https://jdwel.com/image/teams/2527.png",
     "away": "بوتيف بلوفديف",
@@ -1336,6 +1837,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأثنين 2026/02/16",
+    "round": "الجولة 21",
+    "status": "قريباً",
     "home": "بوتيف فراتسا",
     "homeLogo": "https://jdwel.com/image/teams/2529.png",
     "away": "دوبرودزا دوبريتش",
@@ -1344,6 +1848,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "السبت 2026/02/21",
+    "round": "الجولة 22",
+    "status": "قريباً",
     "home": "بوتيف بلوفديف",
     "homeLogo": "https://jdwel.com/image/teams/bul_botev_plovdiv.png",
     "away": "لودوغورتس",
@@ -1352,6 +1859,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/02/21",
+    "round": "الجولة 22",
+    "status": "قريباً",
     "home": "بيروي",
     "homeLogo": "https://jdwel.com/image/teams/bul_beroe.png",
     "away": "أردا",
@@ -1360,6 +1870,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/02/21",
+    "round": "الجولة 22",
+    "status": "قريباً",
     "home": "سسكا صوفيا",
     "homeLogo": "https://jdwel.com/image/teams/bul_cska_sofia.png",
     "away": "سلافيا صوفيا",
@@ -1368,6 +1881,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/02/21",
+    "round": "الجولة 22",
+    "status": "قريباً",
     "home": "لوكوموتيف بلوديف",
     "homeLogo": "https://jdwel.com/image/teams/2528.png",
     "away": "سبارتاك فارنا",
@@ -1376,6 +1892,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/02/21",
+    "round": "الجولة 22",
+    "status": "قريباً",
     "home": "سسكا صوفيا 1948",
     "homeLogo": "https://jdwel.com/image/teams/2526.png",
     "away": "ليفسكي صوفيا",
@@ -1384,6 +1903,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/02/21",
+    "round": "الجولة 22",
+    "status": "قريباً",
     "home": "تشيرنو مور فارنا",
     "homeLogo": "https://jdwel.com/image/teams/bul_cherno_more.png",
     "away": "بوتيف فراتسا",
@@ -1392,6 +1914,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/02/21",
+    "round": "الجولة 22",
+    "status": "قريباً",
     "home": "دوبرودزا دوبريتش",
     "homeLogo": "https://jdwel.com/image/teams/1349.png",
     "away": "مونتانا",
@@ -1400,6 +1925,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/02/21",
+    "round": "الجولة 22",
+    "status": "قريباً",
     "home": "لوكوموتيف صوفيا",
     "homeLogo": "https://jdwel.com/image/teams/2530.png",
     "away": "سبتمفري صوفيا",
@@ -1408,6 +1936,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/02/28",
+    "round": "الجولة 23",
+    "status": "قريباً",
     "home": "مونتانا",
     "homeLogo": "https://jdwel.com/image/teams/3331.png",
     "away": "بوتيف بلوفديف",
@@ -1416,6 +1947,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/02/28",
+    "round": "الجولة 23",
+    "status": "قريباً",
     "home": "دوبرودزا دوبريتش",
     "homeLogo": "https://jdwel.com/image/teams/1349.png",
     "away": "تشيرنو مور فارنا",
@@ -1424,6 +1958,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/02/28",
+    "round": "الجولة 23",
+    "status": "قريباً",
     "home": "ليفسكي صوفيا",
     "homeLogo": "https://jdwel.com/image/teams/2527.png",
     "away": "لوكوموتيف صوفيا",
@@ -1432,6 +1969,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/02/28",
+    "round": "الجولة 23",
+    "status": "قريباً",
     "home": "لودوغورتس",
     "homeLogo": "https://jdwel.com/image/teams/999.png",
     "away": "لوكوموتيف بلوديف",
@@ -1440,6 +1980,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/02/28",
+    "round": "الجولة 23",
+    "status": "قريباً",
     "home": "أردا",
     "homeLogo": "https://jdwel.com/image/teams/2532.png",
     "away": "سبارتاك فارنا",
@@ -1448,6 +1991,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/02/28",
+    "round": "الجولة 23",
+    "status": "قريباً",
     "home": "سبتمفري صوفيا",
     "homeLogo": "https://jdwel.com/image/teams/bul_septemvri_sofia.png",
     "away": "سسكا صوفيا",
@@ -1456,6 +2002,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/02/28",
+    "round": "الجولة 23",
+    "status": "قريباً",
     "home": "سلافيا صوفيا",
     "homeLogo": "https://jdwel.com/image/teams/2525.png",
     "away": "سسكا صوفيا 1948",
@@ -1464,6 +2013,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/02/28",
+    "round": "الجولة 23",
+    "status": "قريباً",
     "home": "بوتيف فراتسا",
     "homeLogo": "https://jdwel.com/image/teams/2529.png",
     "away": "بيروي",
@@ -1472,6 +2024,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأربعاء 2026/03/04",
+    "round": "الجولة 24",
+    "status": "قريباً",
     "home": "سبارتاك فارنا",
     "homeLogo": "https://jdwel.com/image/teams/2645.png",
     "away": "مونتانا",
@@ -1480,6 +2035,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأربعاء 2026/03/04",
+    "round": "الجولة 24",
+    "status": "قريباً",
     "home": "لوكوموتيف بلوديف",
     "homeLogo": "https://jdwel.com/image/teams/2528.png",
     "away": "سسكا صوفيا 1948",
@@ -1488,6 +2046,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأربعاء 2026/03/04",
+    "round": "الجولة 24",
+    "status": "قريباً",
     "home": "لودوغورتس",
     "homeLogo": "https://jdwel.com/image/teams/999.png",
     "away": "ليفسكي صوفيا",
@@ -1496,6 +2057,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأربعاء 2026/03/04",
+    "round": "الجولة 24",
+    "status": "قريباً",
     "home": "بوتيف بلوفديف",
     "homeLogo": "https://jdwel.com/image/teams/bul_botev_plovdiv.png",
     "away": "سبتمفري صوفيا",
@@ -1504,6 +2068,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأربعاء 2026/03/04",
+    "round": "الجولة 24",
+    "status": "قريباً",
     "home": "تشيرنو مور فارنا",
     "homeLogo": "https://jdwel.com/image/teams/bul_cherno_more.png",
     "away": "أردا",
@@ -1512,6 +2079,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأربعاء 2026/03/04",
+    "round": "الجولة 24",
+    "status": "قريباً",
     "home": "بيروي",
     "homeLogo": "https://jdwel.com/image/teams/bul_beroe.png",
     "away": "سلافيا صوفيا",
@@ -1520,6 +2090,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأربعاء 2026/03/04",
+    "round": "الجولة 24",
+    "status": "قريباً",
     "home": "سسكا صوفيا",
     "homeLogo": "https://jdwel.com/image/teams/bul_cska_sofia.png",
     "away": "بوتيف فراتسا",
@@ -1528,6 +2101,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأربعاء 2026/03/04",
+    "round": "الجولة 24",
+    "status": "قريباً",
     "home": "لوكوموتيف صوفيا",
     "homeLogo": "https://jdwel.com/image/teams/2530.png",
     "away": "دوبرودزا دوبريتش",
@@ -1536,6 +2112,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/03/07",
+    "round": "الجولة 25",
+    "status": "قريباً",
     "home": "ليفسكي صوفيا",
     "homeLogo": "https://jdwel.com/image/teams/2527.png",
     "away": "لوكوموتيف بلوديف",
@@ -1544,6 +2123,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/03/07",
+    "round": "الجولة 25",
+    "status": "قريباً",
     "home": "سبتمفري صوفيا",
     "homeLogo": "https://jdwel.com/image/teams/bul_septemvri_sofia.png",
     "away": "تشيرنو مور فارنا",
@@ -1552,6 +2134,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/03/07",
+    "round": "الجولة 25",
+    "status": "قريباً",
     "home": "سسكا صوفيا 1948",
     "homeLogo": "https://jdwel.com/image/teams/2526.png",
     "away": "بوتيف بلوفديف",
@@ -1560,6 +2145,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/03/07",
+    "round": "الجولة 25",
+    "status": "قريباً",
     "home": "دوبرودزا دوبريتش",
     "homeLogo": "https://jdwel.com/image/teams/1349.png",
     "away": "بيروي",
@@ -1568,6 +2156,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/03/07",
+    "round": "الجولة 25",
+    "status": "قريباً",
     "home": "سسكا صوفيا",
     "homeLogo": "https://jdwel.com/image/teams/bul_cska_sofia.png",
     "away": "لوكوموتيف صوفيا",
@@ -1576,6 +2167,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/03/07",
+    "round": "الجولة 25",
+    "status": "قريباً",
     "home": "مونتانا",
     "homeLogo": "https://jdwel.com/image/teams/3331.png",
     "away": "لودوغورتس",
@@ -1584,6 +2178,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/03/07",
+    "round": "الجولة 25",
+    "status": "قريباً",
     "home": "سلافيا صوفيا",
     "homeLogo": "https://jdwel.com/image/teams/2525.png",
     "away": "سبارتاك فارنا",
@@ -1592,6 +2189,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/03/07",
+    "round": "الجولة 25",
+    "status": "قريباً",
     "home": "بوتيف فراتسا",
     "homeLogo": "https://jdwel.com/image/teams/2529.png",
     "away": "أردا",
@@ -1600,6 +2200,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/03/14",
+    "round": "الجولة 26",
+    "status": "قريباً",
     "home": "بيروي",
     "homeLogo": "https://jdwel.com/image/teams/bul_beroe.png",
     "away": "ليفسكي صوفيا",
@@ -1608,6 +2211,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/03/14",
+    "round": "الجولة 26",
+    "status": "قريباً",
     "home": "لوكوموتيف صوفيا",
     "homeLogo": "https://jdwel.com/image/teams/2530.png",
     "away": "سلافيا صوفيا",
@@ -1616,6 +2222,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/03/14",
+    "round": "الجولة 26",
+    "status": "قريباً",
     "home": "لوكوموتيف بلوديف",
     "homeLogo": "https://jdwel.com/image/teams/2528.png",
     "away": "سبتمفري صوفيا",
@@ -1624,6 +2233,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/03/14",
+    "round": "الجولة 26",
+    "status": "قريباً",
     "home": "تشيرنو مور فارنا",
     "homeLogo": "https://jdwel.com/image/teams/bul_cherno_more.png",
     "away": "مونتانا",
@@ -1632,6 +2244,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/03/14",
+    "round": "الجولة 26",
+    "status": "قريباً",
     "home": "بوتيف بلوفديف",
     "homeLogo": "https://jdwel.com/image/teams/bul_botev_plovdiv.png",
     "away": "بوتيف فراتسا",
@@ -1640,6 +2255,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/03/14",
+    "round": "الجولة 26",
+    "status": "قريباً",
     "home": "لودوغورتس",
     "homeLogo": "https://jdwel.com/image/teams/999.png",
     "away": "سسكا صوفيا",
@@ -1648,6 +2266,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/03/14",
+    "round": "الجولة 26",
+    "status": "قريباً",
     "home": "أردا",
     "homeLogo": "https://jdwel.com/image/teams/2532.png",
     "away": "دوبرودزا دوبريتش",
@@ -1656,6 +2277,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/03/14",
+    "round": "الجولة 26",
+    "status": "قريباً",
     "home": "سبارتاك فارنا",
     "homeLogo": "https://jdwel.com/image/teams/2645.png",
     "away": "سسكا صوفيا 1948",
@@ -1664,6 +2288,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/03/21",
+    "round": "الجولة 27",
+    "status": "قريباً",
     "home": "مونتانا",
     "homeLogo": "https://jdwel.com/image/teams/3331.png",
     "away": "بيروي",
@@ -1672,6 +2299,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/03/21",
+    "round": "الجولة 27",
+    "status": "قريباً",
     "home": "سلافيا صوفيا",
     "homeLogo": "https://jdwel.com/image/teams/2525.png",
     "away": "بوتيف بلوفديف",
@@ -1680,6 +2310,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/03/21",
+    "round": "الجولة 27",
+    "status": "قريباً",
     "home": "سبتمفري صوفيا",
     "homeLogo": "https://jdwel.com/image/teams/bul_septemvri_sofia.png",
     "away": "أردا",
@@ -1688,6 +2321,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/03/21",
+    "round": "الجولة 27",
+    "status": "قريباً",
     "home": "بوتيف فراتسا",
     "homeLogo": "https://jdwel.com/image/teams/2529.png",
     "away": "لوكوموتيف بلوديف",
@@ -1696,6 +2332,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/03/21",
+    "round": "الجولة 27",
+    "status": "قريباً",
     "home": "سبارتاك فارنا",
     "homeLogo": "https://jdwel.com/image/teams/2645.png",
     "away": "لودوغورتس",
@@ -1704,6 +2343,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/03/21",
+    "round": "الجولة 27",
+    "status": "قريباً",
     "home": "ليفسكي صوفيا",
     "homeLogo": "https://jdwel.com/image/teams/2527.png",
     "away": "تشيرنو مور فارنا",
@@ -1712,6 +2354,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/03/21",
+    "round": "الجولة 27",
+    "status": "قريباً",
     "home": "سسكا صوفيا 1948",
     "homeLogo": "https://jdwel.com/image/teams/2526.png",
     "away": "لوكوموتيف صوفيا",
@@ -1720,6 +2365,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/03/21",
+    "round": "الجولة 27",
+    "status": "قريباً",
     "home": "سسكا صوفيا",
     "homeLogo": "https://jdwel.com/image/teams/bul_cska_sofia.png",
     "away": "دوبرودزا دوبريتش",
@@ -1728,6 +2376,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/04/04",
+    "round": "الجولة 28",
+    "status": "قريباً",
     "home": "بوتيف بلوفديف",
     "homeLogo": "https://jdwel.com/image/teams/bul_botev_plovdiv.png",
     "away": "سبارتاك فارنا",
@@ -1736,6 +2387,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/04/04",
+    "round": "الجولة 28",
+    "status": "قريباً",
     "home": "لودوغورتس",
     "homeLogo": "https://jdwel.com/image/teams/999.png",
     "away": "سسكا صوفيا 1948",
@@ -1744,6 +2398,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/04/04",
+    "round": "الجولة 28",
+    "status": "قريباً",
     "home": "بيروي",
     "homeLogo": "https://jdwel.com/image/teams/bul_beroe.png",
     "away": "سسكا صوفيا",
@@ -1752,6 +2409,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/04/04",
+    "round": "الجولة 28",
+    "status": "قريباً",
     "home": "سبتمفري صوفيا",
     "homeLogo": "https://jdwel.com/image/teams/bul_septemvri_sofia.png",
     "away": "بوتيف فراتسا",
@@ -1760,6 +2420,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/04/04",
+    "round": "الجولة 28",
+    "status": "قريباً",
     "home": "لوكوموتيف بلوديف",
     "homeLogo": "https://jdwel.com/image/teams/2528.png",
     "away": "لوكوموتيف صوفيا",
@@ -1768,6 +2431,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/04/04",
+    "round": "الجولة 28",
+    "status": "قريباً",
     "home": "أردا",
     "homeLogo": "https://jdwel.com/image/teams/2532.png",
     "away": "مونتانا",
@@ -1776,6 +2442,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/04/04",
+    "round": "الجولة 28",
+    "status": "قريباً",
     "home": "دوبرودزا دوبريتش",
     "homeLogo": "https://jdwel.com/image/teams/1349.png",
     "away": "ليفسكي صوفيا",
@@ -1784,6 +2453,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/04/04",
+    "round": "الجولة 28",
+    "status": "قريباً",
     "home": "تشيرنو مور فارنا",
     "homeLogo": "https://jdwel.com/image/teams/bul_cherno_more.png",
     "away": "سلافيا صوفيا",
@@ -1792,6 +2464,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/04/11",
+    "round": "الجولة 29",
+    "status": "قريباً",
     "home": "سلافيا صوفيا",
     "homeLogo": "https://jdwel.com/image/teams/2525.png",
     "away": "سبتمفري صوفيا",
@@ -1800,6 +2475,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/04/11",
+    "round": "الجولة 29",
+    "status": "قريباً",
     "home": "لوكوموتيف صوفيا",
     "homeLogo": "https://jdwel.com/image/teams/2530.png",
     "away": "بيروي",
@@ -1808,6 +2486,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/04/11",
+    "round": "الجولة 29",
+    "status": "قريباً",
     "home": "مونتانا",
     "homeLogo": "https://jdwel.com/image/teams/3331.png",
     "away": "سسكا صوفيا",
@@ -1816,6 +2497,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/04/11",
+    "round": "الجولة 29",
+    "status": "قريباً",
     "home": "ليفسكي صوفيا",
     "homeLogo": "https://jdwel.com/image/teams/2527.png",
     "away": "أردا",
@@ -1824,6 +2508,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/04/11",
+    "round": "الجولة 29",
+    "status": "قريباً",
     "home": "بوتيف بلوفديف",
     "homeLogo": "https://jdwel.com/image/teams/bul_botev_plovdiv.png",
     "away": "لوكوموتيف بلوديف",
@@ -1832,6 +2519,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/04/11",
+    "round": "الجولة 29",
+    "status": "قريباً",
     "home": "سبارتاك فارنا",
     "homeLogo": "https://jdwel.com/image/teams/2645.png",
     "away": "دوبرودزا دوبريتش",
@@ -1840,6 +2530,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/04/11",
+    "round": "الجولة 29",
+    "status": "قريباً",
     "home": "سسكا صوفيا 1948",
     "homeLogo": "https://jdwel.com/image/teams/2526.png",
     "away": "بوتيف فراتسا",
@@ -1848,6 +2541,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/04/11",
+    "round": "الجولة 29",
+    "status": "قريباً",
     "home": "لودوغورتس",
     "homeLogo": "https://jdwel.com/image/teams/999.png",
     "away": "تشيرنو مور فارنا",
@@ -1856,6 +2552,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/04/18",
+    "round": "الجولة 30",
+    "status": "قريباً",
     "home": "مونتانا",
     "homeLogo": "https://jdwel.com/image/teams/3331.png",
     "away": "سلافيا صوفيا",
@@ -1864,6 +2563,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/04/18",
+    "round": "الجولة 30",
+    "status": "قريباً",
     "home": "سسكا صوفيا",
     "homeLogo": "https://jdwel.com/image/teams/bul_cska_sofia.png",
     "away": "ليفسكي صوفيا",
@@ -1872,6 +2574,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/04/18",
+    "round": "الجولة 30",
+    "status": "قريباً",
     "home": "تشيرنو مور فارنا",
     "homeLogo": "https://jdwel.com/image/teams/bul_cherno_more.png",
     "away": "سسكا صوفيا 1948",
@@ -1880,6 +2585,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/04/18",
+    "round": "الجولة 30",
+    "status": "قريباً",
     "home": "سبتمفري صوفيا",
     "homeLogo": "https://jdwel.com/image/teams/bul_septemvri_sofia.png",
     "away": "سبارتاك فارنا",
@@ -1888,6 +2596,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/04/18",
+    "round": "الجولة 30",
+    "status": "قريباً",
     "home": "بوتيف فراتسا",
     "homeLogo": "https://jdwel.com/image/teams/2529.png",
     "away": "لوكوموتيف صوفيا",
@@ -1896,6 +2607,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/04/18",
+    "round": "الجولة 30",
+    "status": "قريباً",
     "home": "دوبرودزا دوبريتش",
     "homeLogo": "https://jdwel.com/image/teams/1349.png",
     "away": "بوتيف بلوفديف",
@@ -1904,6 +2618,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/04/18",
+    "round": "الجولة 30",
+    "status": "قريباً",
     "home": "أردا",
     "homeLogo": "https://jdwel.com/image/teams/2532.png",
     "away": "لودوغورتس",
@@ -1912,6 +2629,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/04/18",
+    "round": "الجولة 30",
+    "status": "قريباً",
     "home": "بيروي",
     "homeLogo": "https://jdwel.com/image/teams/bul_beroe.png",
     "away": "لوكوموتيف بلوديف",

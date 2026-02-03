@@ -1,5 +1,8 @@
 [
   {
+    "date": "الأثنين 2025/03/24",
+    "round": "",
+    "status": "انتهت",
     "home": "المكسيك",
     "homeLogo": "https://jdwel.com/image/teams/flag_mexico_v2.png",
     "away": "بنما",
@@ -8,14 +11,9 @@
     "time": "3:30 ص"
   },
   {
-    "home": "كندا",
-    "homeLogo": "https://jdwel.com/image/teams/flag_canada_v2.png",
-    "away": "الولايات المتحدة",
-    "awayLogo": "https://jdwel.com/image/teams/flag_united_states.png",
-    "score": "2 - 1",
-    "time": "12:00 ص"
-  },
-  {
+    "date": "الجمعة 2025/03/21",
+    "round": "",
+    "status": "انتهت",
     "home": "كندا",
     "homeLogo": "https://jdwel.com/image/teams/flag_canada_v2.png",
     "away": "المكسيك",
@@ -24,6 +22,9 @@
     "time": "4:30 ص"
   },
   {
+    "date": "الجمعة 2025/03/21",
+    "round": "",
+    "status": "انتهت",
     "home": "الولايات المتحدة",
     "homeLogo": "https://jdwel.com/image/teams/flag_united_states.png",
     "away": "بنما",
@@ -32,6 +33,9 @@
     "time": "1:00 ص"
   },
   {
+    "date": "الأربعاء 2024/11/20",
+    "round": "",
+    "status": "انتهت",
     "home": "المكسيك",
     "homeLogo": "https://jdwel.com/image/teams/flag_mexico_v2.png",
     "away": "هندوراس",
@@ -40,6 +44,9 @@
     "time": "4:30 ص"
   },
   {
+    "date": "الأربعاء 2024/11/20",
+    "round": "",
+    "status": "انتهت",
     "home": "كندا",
     "homeLogo": "https://jdwel.com/image/teams/flag_canada_v2.png",
     "away": "سورينام",
@@ -48,38 +55,9 @@
     "time": "2:30 ص"
   },
   {
-    "home": "جمهورية الدومينيكان",
-    "homeLogo": "https://jdwel.com/image/teams/248.png",
-    "away": "برمودا",
-    "awayLogo": "https://jdwel.com/image/teams/261.png",
-    "score": "6 - 1",
-    "time": "1:00 ص"
-  },
-  {
-    "home": "غويانا الفرنسية",
-    "homeLogo": "https://jdwel.com/image/teams/476.png",
-    "away": "بليز",
-    "awayLogo": "https://jdwel.com/image/teams/255.png",
-    "score": "2 - 2",
-    "time": "1:00 ص"
-  },
-  {
-    "home": "غيانا",
-    "homeLogo": "https://jdwel.com/image/teams/268.png",
-    "away": "باربادوس",
-    "awayLogo": "https://jdwel.com/image/teams/233.png",
-    "score": "5 - 3",
-    "time": "1:00 ص"
-  },
-  {
-    "home": "جزر غوادلوب",
-    "homeLogo": "https://jdwel.com/image/teams/933.png",
-    "away": "جزر كايمان",
-    "awayLogo": "https://jdwel.com/image/teams/259.png",
-    "score": "1 - 0",
-    "time": "12:00 ص"
-  },
-  {
+    "date": "الثلاثاء 2024/11/19",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "أنتيغوا وباربودا",
     "homeLogo": "https://jdwel.com/image/teams/266.png",
     "away": "دومينيكا",
@@ -88,46 +66,9 @@
     "time": "10:00 م"
   },
   {
-    "home": "بنما",
-    "homeLogo": "https://jdwel.com/image/teams/203.png",
-    "away": "كوستاريكا",
-    "awayLogo": "https://jdwel.com/image/teams/252.png",
-    "score": "2 - 2",
-    "time": "4:00 ص"
-  },
-  {
-    "home": "الولايات المتحدة",
-    "homeLogo": "https://jdwel.com/image/teams/flag_united_states.png",
-    "away": "جامايكا",
-    "awayLogo": "https://jdwel.com/image/teams/234.png",
-    "score": "4 - 2",
-    "time": "3:00 ص"
-  },
-  {
-    "home": "هايتي",
-    "homeLogo": "https://jdwel.com/image/teams/flag_haiti.png",
-    "away": "بورتوريكو",
-    "awayLogo": "https://jdwel.com/image/teams/269.png",
-    "score": "3 - 0",
-    "time": "2:00 ص"
-  },
-  {
-    "home": "كوراساو",
-    "homeLogo": "https://jdwel.com/image/teams/flag_curacao.png",
-    "away": "سانت لوسيا",
-    "awayLogo": "https://jdwel.com/image/teams/254.png",
-    "score": "4 - 1",
-    "time": "1:00 ص"
-  },
-  {
-    "home": "أروبا",
-    "homeLogo": "https://jdwel.com/image/teams/260.png",
-    "away": "سينت مارتن",
-    "awayLogo": "https://jdwel.com/image/teams/477.png",
-    "score": "0 - 1",
-    "time": "11:00 م"
-  },
-  {
+    "date": "الأثنين 2024/11/18",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "غرينادا",
     "homeLogo": "https://jdwel.com/image/teams/264.png",
     "away": "سانت مارتن",
@@ -136,22 +77,9 @@
     "time": "10:00 م"
   },
   {
-    "home": "كوبا",
-    "homeLogo": "https://jdwel.com/image/teams/230.png",
-    "away": "سانت كيتس ونيفيس",
-    "awayLogo": "https://jdwel.com/image/teams/270.png",
-    "score": "4 - 0",
-    "time": "9:00 م"
-  },
-  {
-    "home": "السلفادور",
-    "homeLogo": "https://jdwel.com/image/teams/200.png",
-    "away": "مونتسرات",
-    "awayLogo": "https://jdwel.com/image/teams/265.png",
-    "score": "1 - 0",
-    "time": "3:00 ص"
-  },
-  {
+    "date": "الأحد 2024/11/17",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "سانت فينسنت وغرينادين",
     "homeLogo": "https://jdwel.com/image/teams/232.png",
     "away": "بونير",
@@ -160,6 +88,9 @@
     "time": "10:00 م"
   },
   {
+    "date": "الأحد 2024/11/17",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "دومينيكا",
     "homeLogo": "https://jdwel.com/image/teams/257.png",
     "away": "جمهورية الدومينيكان",
@@ -168,6 +99,9 @@
     "time": "1:00 ص"
   },
   {
+    "date": "السبت 2024/11/16",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "برمودا",
     "homeLogo": "https://jdwel.com/image/teams/261.png",
     "away": "أنتيغوا وباربودا",
@@ -176,54 +110,9 @@
     "time": "10:00 م"
   },
   {
-    "home": "هندوراس",
-    "homeLogo": "https://jdwel.com/image/teams/235.png",
-    "away": "المكسيك",
-    "awayLogo": "https://jdwel.com/image/teams/flag_mexico_v2.png",
-    "score": "2 - 0",
-    "time": "4:00 ص"
-  },
-  {
-    "home": "بورتوريكو",
-    "homeLogo": "https://jdwel.com/image/teams/269.png",
-    "away": "أروبا",
-    "awayLogo": "https://jdwel.com/image/teams/260.png",
-    "score": "5 - 1",
-    "time": "2:00 ص"
-  },
-  {
-    "home": "سورينام",
-    "homeLogo": "https://jdwel.com/image/teams/262.png",
-    "away": "كندا",
-    "awayLogo": "https://jdwel.com/image/teams/flag_canada_v2.png",
-    "score": "0 - 1",
-    "time": "1:30 ص"
-  },
-  {
-    "home": "سانت مارتن",
-    "homeLogo": "https://jdwel.com/image/teams/932.png",
-    "away": "كوراساو",
-    "awayLogo": "https://jdwel.com/image/teams/flag_curacao.png",
-    "score": "0 - 5",
-    "time": "1:00 ص"
-  },
-  {
-    "home": "باربادوس",
-    "homeLogo": "https://jdwel.com/image/teams/233.png",
-    "away": "غيانا",
-    "awayLogo": "https://jdwel.com/image/teams/268.png",
-    "score": "1 - 4",
-    "time": "1:00 ص"
-  },
-  {
-    "home": "سينت مارتن",
-    "homeLogo": "https://jdwel.com/image/teams/477.png",
-    "away": "هايتي",
-    "awayLogo": "https://jdwel.com/image/teams/flag_haiti.png",
-    "score": "0 - 8",
-    "time": "11:00 م"
-  },
-  {
+    "date": "الجمعة 2024/11/15",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "سانت لوسيا",
     "homeLogo": "https://jdwel.com/image/teams/254.png",
     "away": "غرينادا",
@@ -232,54 +121,9 @@
     "time": "10:00 م"
   },
   {
-    "home": "جزر كايمان",
-    "homeLogo": "https://jdwel.com/image/teams/259.png",
-    "away": "جزر غوادلوب",
-    "awayLogo": "https://jdwel.com/image/teams/933.png",
-    "score": "0 - 6",
-    "time": "10:00 م"
-  },
-  {
-    "home": "كوستاريكا",
-    "homeLogo": "https://jdwel.com/image/teams/252.png",
-    "away": "بنما",
-    "awayLogo": "https://jdwel.com/image/teams/203.png",
-    "score": "0 - 1",
-    "time": "4:00 ص"
-  },
-  {
-    "home": "بونير",
-    "homeLogo": "https://jdwel.com/image/teams/385.png",
-    "away": "السلفادور",
-    "awayLogo": "https://jdwel.com/image/teams/200.png",
-    "score": "0 - 1",
-    "time": "3:00 ص"
-  },
-  {
-    "home": "جامايكا",
-    "homeLogo": "https://jdwel.com/image/teams/234.png",
-    "away": "الولايات المتحدة",
-    "awayLogo": "https://jdwel.com/image/teams/flag_united_states.png",
-    "score": "0 - 1",
-    "time": "3:00 ص"
-  },
-  {
-    "home": "بليز",
-    "homeLogo": "https://jdwel.com/image/teams/255.png",
-    "away": "غويانا الفرنسية",
-    "awayLogo": "https://jdwel.com/image/teams/476.png",
-    "score": "2 - 1",
-    "time": "3:00 ص"
-  },
-  {
-    "home": "سانت كيتس ونيفيس",
-    "homeLogo": "https://jdwel.com/image/teams/270.png",
-    "away": "كوبا",
-    "awayLogo": "https://jdwel.com/image/teams/230.png",
-    "score": "2 - 1",
-    "time": "1:00 ص"
-  },
-  {
+    "date": "الخميس 2024/11/14",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "مونتسرات",
     "homeLogo": "https://jdwel.com/image/teams/265.png",
     "away": "سانت فينسنت وغرينادين",
@@ -288,6 +132,9 @@
     "time": "10:00 م"
   },
   {
+    "date": "الأربعاء 2024/10/16",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "بليز",
     "homeLogo": "https://jdwel.com/image/teams/255.png",
     "away": "جزر تركس وكايكوس",
@@ -296,46 +143,9 @@
     "time": "5:00 ص"
   },
   {
-    "home": "كوستاريكا",
-    "homeLogo": "https://jdwel.com/image/teams/252.png",
-    "away": "غواتيمالا",
-    "awayLogo": "https://jdwel.com/image/teams/231.png",
-    "score": "3 - 0",
-    "time": "3:00 ص"
-  },
-  {
-    "home": "مارتينيك",
-    "homeLogo": "https://jdwel.com/image/teams/934.png",
-    "away": "جزر غوادلوب",
-    "awayLogo": "https://jdwel.com/image/teams/933.png",
-    "score": "0 - 0",
-    "time": "3:00 ص"
-  },
-  {
-    "home": "سورينام",
-    "homeLogo": "https://jdwel.com/image/teams/262.png",
-    "away": "غيانا",
-    "awayLogo": "https://jdwel.com/image/teams/268.png",
-    "score": "5 - 1",
-    "time": "3:00 ص"
-  },
-  {
-    "home": "باربادوس",
-    "homeLogo": "https://jdwel.com/image/teams/233.png",
-    "away": "الباهاماس",
-    "awayLogo": "https://jdwel.com/image/teams/267.png",
-    "score": "6 - 2",
-    "time": "3:00 ص"
-  },
-  {
-    "home": "برمودا",
-    "homeLogo": "https://jdwel.com/image/teams/261.png",
-    "away": "دومينيكا",
-    "awayLogo": "https://jdwel.com/image/teams/257.png",
-    "score": "3 - 2",
-    "time": "1:30 ص"
-  },
-  {
+    "date": "الثلاثاء 2024/10/15",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "سانت كيتس ونيفيس",
     "homeLogo": "https://jdwel.com/image/teams/270.png",
     "away": "جزر كايمان",
@@ -344,54 +154,9 @@
     "time": "10:30 م"
   },
   {
-    "home": "جمهورية الدومينيكان",
-    "homeLogo": "https://jdwel.com/image/teams/248.png",
-    "away": "أنتيغوا وباربودا",
-    "awayLogo": "https://jdwel.com/image/teams/266.png",
-    "score": "5 - 0",
-    "time": "8:30 م"
-  },
-  {
-    "home": "جامايكا",
-    "homeLogo": "https://jdwel.com/image/teams/234.png",
-    "away": "هندوراس",
-    "awayLogo": "https://jdwel.com/image/teams/235.png",
-    "score": "0 - 0",
-    "time": "4:00 ص"
-  },
-  {
-    "home": "ترينيداد وتوباغو",
-    "homeLogo": "https://jdwel.com/image/teams/247.png",
-    "away": "كوبا",
-    "awayLogo": "https://jdwel.com/image/teams/230.png",
-    "score": "3 - 1",
-    "time": "4:00 ص"
-  },
-  {
-    "home": "نيكاراغوا",
-    "homeLogo": "https://jdwel.com/image/teams/249.png",
-    "away": "غويانا الفرنسية",
-    "awayLogo": "https://jdwel.com/image/teams/476.png",
-    "score": "3 - 2",
-    "time": "4:00 ص"
-  },
-  {
-    "home": "هايتي",
-    "homeLogo": "https://jdwel.com/image/teams/flag_haiti.png",
-    "away": "أروبا",
-    "awayLogo": "https://jdwel.com/image/teams/260.png",
-    "score": "5 - 3",
-    "time": "3:00 ص"
-  },
-  {
-    "home": "سانت لوسيا",
-    "homeLogo": "https://jdwel.com/image/teams/254.png",
-    "away": "سانت مارتن",
-    "awayLogo": "https://jdwel.com/image/teams/932.png",
-    "score": "0 - 4",
-    "time": "2:00 ص"
-  },
-  {
+    "date": "الأثنين 2024/10/14",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "كوراساو",
     "homeLogo": "https://jdwel.com/image/teams/flag_curacao.png",
     "away": "غرينادا",
@@ -400,6 +165,9 @@
     "time": "11:00 م"
   },
   {
+    "date": "الأثنين 2024/10/14",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "بورتوريكو",
     "homeLogo": "https://jdwel.com/image/teams/269.png",
     "away": "سينت مارتن",
@@ -408,6 +176,9 @@
     "time": "11:00 م"
   },
   {
+    "date": "الأثنين 2024/10/14",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "السلفادور",
     "homeLogo": "https://jdwel.com/image/teams/200.png",
     "away": "سانت فينسنت وغرينادين",
@@ -416,6 +187,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2024/10/13",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "مونتسرات",
     "homeLogo": "https://jdwel.com/image/teams/265.png",
     "away": "بونير",
@@ -424,30 +198,9 @@
     "time": "10:00 م"
   },
   {
-    "home": "جزر تركس وكايكوس",
-    "homeLogo": "https://jdwel.com/image/teams/253.png",
-    "away": "أنغويلا",
-    "awayLogo": "https://jdwel.com/image/teams/256.png",
-    "score": "2 - 1",
-    "time": "5:00 ص"
-  },
-  {
-    "home": "الباهاماس",
-    "homeLogo": "https://jdwel.com/image/teams/267.png",
-    "away": "الجزر العذراء الأمريكية",
-    "awayLogo": "https://jdwel.com/image/teams/263.png",
-    "score": "3 - 1",
-    "time": "3:00 ص"
-  },
-  {
-    "home": "دومينيكا",
-    "homeLogo": "https://jdwel.com/image/teams/257.png",
-    "away": "برمودا",
-    "awayLogo": "https://jdwel.com/image/teams/261.png",
-    "score": "1 - 6",
-    "time": "1:30 ص"
-  },
-  {
+    "date": "السبت 2024/10/12",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "جزر كايمان",
     "homeLogo": "https://jdwel.com/image/teams/259.png",
     "away": "الجزر العذراء البريطانية",
@@ -456,54 +209,9 @@
     "time": "10:30 م"
   },
   {
-    "home": "أنتيغوا وباربودا",
-    "homeLogo": "https://jdwel.com/image/teams/266.png",
-    "away": "جمهورية الدومينيكان",
-    "awayLogo": "https://jdwel.com/image/teams/248.png",
-    "score": "0 - 5",
-    "time": "8:30 م"
-  },
-  {
-    "home": "غيانا",
-    "homeLogo": "https://jdwel.com/image/teams/268.png",
-    "away": "غواتيمالا",
-    "awayLogo": "https://jdwel.com/image/teams/231.png",
-    "score": "1 - 3",
-    "time": "4:00 ص"
-  },
-  {
-    "home": "سانت مارتن",
-    "homeLogo": "https://jdwel.com/image/teams/932.png",
-    "away": "سانت لوسيا",
-    "awayLogo": "https://jdwel.com/image/teams/254.png",
-    "score": "1 - 2",
-    "time": "3:00 ص"
-  },
-  {
-    "home": "أروبا",
-    "homeLogo": "https://jdwel.com/image/teams/260.png",
-    "away": "هايتي",
-    "awayLogo": "https://jdwel.com/image/teams/flag_haiti.png",
-    "score": "1 - 3",
-    "time": "3:00 ص"
-  },
-  {
-    "home": "سورينام",
-    "homeLogo": "https://jdwel.com/image/teams/262.png",
-    "away": "كوستاريكا",
-    "awayLogo": "https://jdwel.com/image/teams/252.png",
-    "score": "1 - 1",
-    "time": "1:00 ص"
-  },
-  {
-    "home": "غرينادا",
-    "homeLogo": "https://jdwel.com/image/teams/264.png",
-    "away": "كوراساو",
-    "awayLogo": "https://jdwel.com/image/teams/flag_curacao.png",
-    "score": "0 - 0",
-    "time": "12:00 ص"
-  },
-  {
+    "date": "الجمعة 2024/10/11",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "جزر غوادلوب",
     "homeLogo": "https://jdwel.com/image/teams/933.png",
     "away": "مارتينيك",
@@ -512,30 +220,9 @@
     "time": "11:00 م"
   },
   {
-    "home": "سينت مارتن",
-    "homeLogo": "https://jdwel.com/image/teams/477.png",
-    "away": "بورتوريكو",
-    "awayLogo": "https://jdwel.com/image/teams/269.png",
-    "score": "3 - 2",
-    "time": "11:00 م"
-  },
-  {
-    "home": "نيكاراغوا",
-    "homeLogo": "https://jdwel.com/image/teams/249.png",
-    "away": "جامايكا",
-    "awayLogo": "https://jdwel.com/image/teams/234.png",
-    "score": "0 - 2",
-    "time": "5:00 ص"
-  },
-  {
-    "home": "سانت فينسنت وغرينادين",
-    "homeLogo": "https://jdwel.com/image/teams/232.png",
-    "away": "السلفادور",
-    "awayLogo": "https://jdwel.com/image/teams/200.png",
-    "score": "2 - 3",
-    "time": "4:00 ص"
-  },
-  {
+    "date": "الخميس 2024/10/10",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "كوبا",
     "homeLogo": "https://jdwel.com/image/teams/230.png",
     "away": "ترينيداد وتوباغو",
@@ -544,38 +231,9 @@
     "time": "11:00 م"
   },
   {
-    "home": "بونير",
-    "homeLogo": "https://jdwel.com/image/teams/385.png",
-    "away": "مونتسرات",
-    "awayLogo": "https://jdwel.com/image/teams/265.png",
-    "score": "0 - 1",
-    "time": "11:00 م"
-  },
-  {
-    "home": "غويانا الفرنسية",
-    "homeLogo": "https://jdwel.com/image/teams/476.png",
-    "away": "هندوراس",
-    "awayLogo": "https://jdwel.com/image/teams/235.png",
-    "score": "2 - 3",
-    "time": "10:30 م"
-  },
-  {
-    "home": "أنغويلا",
-    "homeLogo": "https://jdwel.com/image/teams/256.png",
-    "away": "بليز",
-    "awayLogo": "https://jdwel.com/image/teams/255.png",
-    "score": "0 - 1",
-    "time": "5:00 ص"
-  },
-  {
-    "home": "الجزر العذراء الأمريكية",
-    "homeLogo": "https://jdwel.com/image/teams/263.png",
-    "away": "باربادوس",
-    "awayLogo": "https://jdwel.com/image/teams/233.png",
-    "score": "0 - 5",
-    "time": "3:00 ص"
-  },
-  {
+    "date": "الأربعاء 2024/10/09",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "الجزر العذراء البريطانية",
     "homeLogo": "https://jdwel.com/image/teams/258.png",
     "away": "سانت كيتس ونيفيس",
@@ -584,6 +242,9 @@
     "time": "10:30 م"
   },
   {
+    "date": "الأربعاء 2024/09/11",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "هندوراس",
     "homeLogo": "https://jdwel.com/image/teams/235.png",
     "away": "جامايكا",
@@ -592,6 +253,9 @@
     "time": "5:00 ص"
   },
   {
+    "date": "الأربعاء 2024/09/11",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "ترينيداد وتوباغو",
     "homeLogo": "https://jdwel.com/image/teams/247.png",
     "away": "غويانا الفرنسية",
@@ -600,6 +264,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الثلاثاء 2024/09/10",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "سانت كيتس ونيفيس",
     "homeLogo": "https://jdwel.com/image/teams/270.png",
     "away": "الجزر العذراء البريطانية",
@@ -608,86 +275,9 @@
     "time": "11:30 م"
   },
   {
-    "home": "كوبا",
-    "homeLogo": "https://jdwel.com/image/teams/230.png",
-    "away": "نيكاراغوا",
-    "awayLogo": "https://jdwel.com/image/teams/249.png",
-    "score": "1 - 1",
-    "time": "11:00 م"
-  },
-  {
-    "home": "أنتيغوا وباربودا",
-    "homeLogo": "https://jdwel.com/image/teams/266.png",
-    "away": "برمودا",
-    "awayLogo": "https://jdwel.com/image/teams/261.png",
-    "score": "0 - 1",
-    "time": "11:00 م"
-  },
-  {
-    "home": "باربادوس",
-    "homeLogo": "https://jdwel.com/image/teams/233.png",
-    "away": "الجزر العذراء الأمريكية",
-    "awayLogo": "https://jdwel.com/image/teams/263.png",
-    "score": "3 - 0",
-    "time": "11:00 م"
-  },
-  {
-    "home": "بليز",
-    "homeLogo": "https://jdwel.com/image/teams/255.png",
-    "away": "أنغويلا",
-    "awayLogo": "https://jdwel.com/image/teams/256.png",
-    "score": "1 - 0",
-    "time": "10:00 م"
-  },
-  {
-    "home": "جمهورية الدومينيكان",
-    "homeLogo": "https://jdwel.com/image/teams/248.png",
-    "away": "دومينيكا",
-    "awayLogo": "https://jdwel.com/image/teams/257.png",
-    "score": "2 - 0",
-    "time": "6:00 م"
-  },
-  {
-    "home": "غواتيمالا",
-    "homeLogo": "https://jdwel.com/image/teams/231.png",
-    "away": "كوستاريكا",
-    "awayLogo": "https://jdwel.com/image/teams/252.png",
-    "score": "0 - 0",
-    "time": "5:00 ص"
-  },
-  {
-    "home": "غرينادا",
-    "homeLogo": "https://jdwel.com/image/teams/264.png",
-    "away": "سانت لوسيا",
-    "awayLogo": "https://jdwel.com/image/teams/254.png",
-    "score": "1 - 2",
-    "time": "3:00 ص"
-  },
-  {
-    "home": "أروبا",
-    "homeLogo": "https://jdwel.com/image/teams/260.png",
-    "away": "بورتوريكو",
-    "awayLogo": "https://jdwel.com/image/teams/269.png",
-    "score": "0 - 1",
-    "time": "3:00 ص"
-  },
-  {
-    "home": "كوراساو",
-    "homeLogo": "https://jdwel.com/image/teams/flag_curacao.png",
-    "away": "سانت مارتن",
-    "awayLogo": "https://jdwel.com/image/teams/932.png",
-    "score": "4 - 0",
-    "time": "12:00 ص"
-  },
-  {
-    "home": "هايتي",
-    "homeLogo": "https://jdwel.com/image/teams/flag_haiti.png",
-    "away": "سينت مارتن",
-    "awayLogo": "https://jdwel.com/image/teams/477.png",
-    "score": "6 - 0",
-    "time": "12:00 ص"
-  },
-  {
+    "date": "الأثنين 2024/09/09",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "جزر غوادلوب",
     "homeLogo": "https://jdwel.com/image/teams/933.png",
     "away": "سورينام",
@@ -696,6 +286,9 @@
     "time": "11:00 م"
   },
   {
+    "date": "الأثنين 2024/09/09",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "مارتينيك",
     "homeLogo": "https://jdwel.com/image/teams/934.png",
     "away": "غيانا",
@@ -704,14 +297,9 @@
     "time": "11:00 م"
   },
   {
-    "home": "السلفادور",
-    "homeLogo": "https://jdwel.com/image/teams/200.png",
-    "away": "بونير",
-    "awayLogo": "https://jdwel.com/image/teams/385.png",
-    "score": "2 - 1",
-    "time": "4:00 ص"
-  },
-  {
+    "date": "الأحد 2024/09/08",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "سانت فينسنت وغرينادين",
     "homeLogo": "https://jdwel.com/image/teams/232.png",
     "away": "مونتسرات",
@@ -720,6 +308,9 @@
     "time": "11:00 م"
   },
   {
+    "date": "السبت 2024/09/07",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "جزر كايمان",
     "homeLogo": "https://jdwel.com/image/teams/259.png",
     "away": "سانت كيتس ونيفيس",
@@ -728,86 +319,9 @@
     "time": "11:30 م"
   },
   {
-    "home": "دومينيكا",
-    "homeLogo": "https://jdwel.com/image/teams/257.png",
-    "away": "أنتيغوا وباربودا",
-    "awayLogo": "https://jdwel.com/image/teams/266.png",
-    "score": "2 - 1",
-    "time": "11:00 م"
-  },
-  {
-    "home": "الباهاماس",
-    "homeLogo": "https://jdwel.com/image/teams/267.png",
-    "away": "باربادوس",
-    "awayLogo": "https://jdwel.com/image/teams/233.png",
-    "score": "2 - 3",
-    "time": "11:00 م"
-  },
-  {
-    "home": "جزر تركس وكايكوس",
-    "homeLogo": "https://jdwel.com/image/teams/253.png",
-    "away": "بليز",
-    "awayLogo": "https://jdwel.com/image/teams/255.png",
-    "score": "0 - 4",
-    "time": "10:00 م"
-  },
-  {
-    "home": "برمودا",
-    "homeLogo": "https://jdwel.com/image/teams/261.png",
-    "away": "جمهورية الدومينيكان",
-    "awayLogo": "https://jdwel.com/image/teams/248.png",
-    "score": "2 - 3",
-    "time": "6:00 م"
-  },
-  {
-    "home": "هندوراس",
-    "homeLogo": "https://jdwel.com/image/teams/235.png",
-    "away": "ترينيداد وتوباغو",
-    "awayLogo": "https://jdwel.com/image/teams/247.png",
-    "score": "4 - 0",
-    "time": "5:00 ص"
-  },
-  {
-    "home": "جامايكا",
-    "homeLogo": "https://jdwel.com/image/teams/234.png",
-    "away": "كوبا",
-    "awayLogo": "https://jdwel.com/image/teams/230.png",
-    "score": "0 - 0",
-    "time": "3:00 ص"
-  },
-  {
-    "home": "سانت مارتن",
-    "homeLogo": "https://jdwel.com/image/teams/932.png",
-    "away": "غرينادا",
-    "awayLogo": "https://jdwel.com/image/teams/264.png",
-    "score": "0 - 2",
-    "time": "3:00 ص"
-  },
-  {
-    "home": "بورتوريكو",
-    "homeLogo": "https://jdwel.com/image/teams/269.png",
-    "away": "هايتي",
-    "awayLogo": "https://jdwel.com/image/teams/flag_haiti.png",
-    "score": "1 - 4",
-    "time": "3:00 ص"
-  },
-  {
-    "home": "سانت لوسيا",
-    "homeLogo": "https://jdwel.com/image/teams/254.png",
-    "away": "كوراساو",
-    "awayLogo": "https://jdwel.com/image/teams/flag_curacao.png",
-    "score": "2 - 1",
-    "time": "12:00 ص"
-  },
-  {
-    "home": "سينت مارتن",
-    "homeLogo": "https://jdwel.com/image/teams/477.png",
-    "away": "أروبا",
-    "awayLogo": "https://jdwel.com/image/teams/260.png",
-    "score": "2 - 0",
-    "time": "12:00 ص"
-  },
-  {
+    "date": "الجمعة 2024/09/06",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "غويانا الفرنسية",
     "homeLogo": "https://jdwel.com/image/teams/476.png",
     "away": "نيكاراغوا",
@@ -816,6 +330,9 @@
     "time": "10:00 م"
   },
   {
+    "date": "الجمعة 2024/09/06",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "غواتيمالا",
     "homeLogo": "https://jdwel.com/image/teams/231.png",
     "away": "مارتينيك",
@@ -824,22 +341,9 @@
     "time": "5:00 ص"
   },
   {
-    "home": "بونير",
-    "homeLogo": "https://jdwel.com/image/teams/385.png",
-    "away": "سانت فينسنت وغرينادين",
-    "awayLogo": "https://jdwel.com/image/teams/232.png",
-    "score": "1 - 1",
-    "time": "4:00 ص"
-  },
-  {
-    "home": "كوستاريكا",
-    "homeLogo": "https://jdwel.com/image/teams/252.png",
-    "away": "جزر غوادلوب",
-    "awayLogo": "https://jdwel.com/image/teams/933.png",
-    "score": "3 - 0",
-    "time": "3:00 ص"
-  },
-  {
+    "date": "الخميس 2024/09/05",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "غيانا",
     "homeLogo": "https://jdwel.com/image/teams/268.png",
     "away": "سورينام",
@@ -848,14 +352,9 @@
     "time": "11:00 م"
   },
   {
-    "home": "مونتسرات",
-    "homeLogo": "https://jdwel.com/image/teams/265.png",
-    "away": "السلفادور",
-    "awayLogo": "https://jdwel.com/image/teams/200.png",
-    "score": "1 - 4",
-    "time": "11:00 م"
-  },
-  {
+    "date": "الأربعاء 2024/09/04",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "الجزر العذراء البريطانية",
     "homeLogo": "https://jdwel.com/image/teams/258.png",
     "away": "جزر كايمان",
@@ -864,6 +363,9 @@
     "time": "11:30 م"
   },
   {
+    "date": "الأربعاء 2024/09/04",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "الجزر العذراء الأمريكية",
     "homeLogo": "https://jdwel.com/image/teams/263.png",
     "away": "الباهاماس",
@@ -872,6 +374,9 @@
     "time": "11:00 م"
   },
   {
+    "date": "الأربعاء 2024/09/04",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "أنغويلا",
     "homeLogo": "https://jdwel.com/image/teams/256.png",
     "away": "جزر تركس وكايكوس",

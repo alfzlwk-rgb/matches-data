@@ -1,5 +1,8 @@
 [
   {
+    "date": "الجمعة 2025/09/12",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "الأهلي",
     "homeLogo": "https://jdwel.com/image/teams/3404.png",
     "away": "نيوم",
@@ -8,6 +11,9 @@
     "time": "7:20 م"
   },
   {
+    "date": "الجمعة 2025/09/12",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "الهلال",
     "homeLogo": "https://jdwel.com/image/teams/2761.png",
     "away": "القادسية",
@@ -16,6 +22,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "السبت 2025/09/13",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "النصر",
     "homeLogo": "https://jdwel.com/image/teams/3169.png",
     "away": "شعلة الشرقية",
@@ -24,6 +33,9 @@
     "time": "6:40 م"
   },
   {
+    "date": "السبت 2025/09/13",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "الاتحاد",
     "homeLogo": "https://jdwel.com/image/teams/2839.png",
     "away": "العلا",
@@ -32,6 +44,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "الخميس 2025/09/18",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "القادسية",
     "homeLogo": "https://jdwel.com/image/teams/2216.png",
     "away": "النصر",
@@ -40,6 +55,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "الجمعة 2025/09/19",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "شعلة الشرقية",
     "homeLogo": "https://jdwel.com/image/teams/sau-eastern-flames-w.png",
     "away": "الاتحاد",
@@ -48,6 +66,9 @@
     "time": "6:20 م"
   },
   {
+    "date": "الجمعة 2025/09/19",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "العلا",
     "homeLogo": "https://jdwel.com/image/teams/842.png",
     "away": "نيوم",
@@ -56,6 +77,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "السبت 2025/09/20",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "الأهلي",
     "homeLogo": "https://jdwel.com/image/teams/3404.png",
     "away": "الهلال",
@@ -64,6 +88,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الخميس 2025/09/25",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "القادسية",
     "homeLogo": "https://jdwel.com/image/teams/2216.png",
     "away": "العلا",
@@ -72,6 +99,9 @@
     "time": "6:10 م"
   },
   {
+    "date": "الجمعة 2025/09/26",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "شعلة الشرقية",
     "homeLogo": "https://jdwel.com/image/teams/sau-eastern-flames-w.png",
     "away": "الأهلي",
@@ -80,6 +110,9 @@
     "time": "6:10 م"
   },
   {
+    "date": "الجمعة 2025/09/26",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "الهلال",
     "homeLogo": "https://jdwel.com/image/teams/2761.png",
     "away": "نيوم",
@@ -88,6 +121,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "السبت 2025/09/27",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "النصر",
     "homeLogo": "https://jdwel.com/image/teams/3169.png",
     "away": "الاتحاد",
@@ -96,6 +132,9 @@
     "time": "6:25 م"
   },
   {
+    "date": "الخميس 2025/10/02",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "الاتحاد",
     "homeLogo": "https://jdwel.com/image/teams/2839.png",
     "away": "الهلال",
@@ -104,6 +143,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "الجمعة 2025/10/03",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "نيوم",
     "homeLogo": "https://jdwel.com/image/teams/298.png",
     "away": "القادسية",
@@ -112,6 +154,9 @@
     "time": "6:55 م"
   },
   {
+    "date": "الجمعة 2025/10/03",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "الأهلي",
     "homeLogo": "https://jdwel.com/image/teams/3404.png",
     "away": "النصر",
@@ -120,6 +165,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "السبت 2025/10/04",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "العلا",
     "homeLogo": "https://jdwel.com/image/teams/842.png",
     "away": "شعلة الشرقية",
@@ -128,6 +176,9 @@
     "time": "6:45 م"
   },
   {
+    "date": "الخميس 2025/11/06",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "النصر",
     "homeLogo": "https://jdwel.com/image/teams/3169.png",
     "away": "الهلال",
@@ -136,6 +187,9 @@
     "time": "6:30 م"
   },
   {
+    "date": "الجمعة 2025/11/07",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "شعلة الشرقية",
     "homeLogo": "https://jdwel.com/image/teams/sau-eastern-flames-w.png",
     "away": "نيوم",
@@ -144,6 +198,9 @@
     "time": "4:30 م"
   },
   {
+    "date": "السبت 2025/11/08",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "القادسية",
     "homeLogo": "https://jdwel.com/image/teams/2216.png",
     "away": "الاتحاد",
@@ -152,6 +209,9 @@
     "time": "4:30 م"
   },
   {
+    "date": "السبت 2025/11/08",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "الأهلي",
     "homeLogo": "https://jdwel.com/image/teams/3404.png",
     "away": "العلا",
@@ -160,6 +220,9 @@
     "time": "5:25 م"
   },
   {
+    "date": "الخميس 2025/11/13",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "النصر",
     "homeLogo": "https://jdwel.com/image/teams/3169.png",
     "away": "نيوم",
@@ -168,6 +231,9 @@
     "time": "4:45 م"
   },
   {
+    "date": "الجمعة 2025/11/14",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "القادسية",
     "homeLogo": "https://jdwel.com/image/teams/2216.png",
     "away": "شعلة الشرقية",
@@ -176,6 +242,9 @@
     "time": "4:30 م"
   },
   {
+    "date": "الجمعة 2025/11/14",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "الاتحاد",
     "homeLogo": "https://jdwel.com/image/teams/2839.png",
     "away": "الأهلي",
@@ -184,6 +253,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "السبت 2025/11/15",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "الهلال",
     "homeLogo": "https://jdwel.com/image/teams/2761.png",
     "away": "العلا",
@@ -192,6 +264,9 @@
     "time": "5:15 م"
   },
   {
+    "date": "الخميس 2025/12/04",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "شعلة الشرقية",
     "homeLogo": "https://jdwel.com/image/teams/sau-eastern-flames-w.png",
     "away": "الهلال",
@@ -200,6 +275,9 @@
     "time": "4:25 م"
   },
   {
+    "date": "الجمعة 2025/12/05",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "العلا",
     "homeLogo": "https://jdwel.com/image/teams/842.png",
     "away": "النصر",
@@ -208,6 +286,9 @@
     "time": "5:10 م"
   },
   {
+    "date": "الجمعة 2025/12/05",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "الأهلي",
     "homeLogo": "https://jdwel.com/image/teams/3404.png",
     "away": "القادسية",
@@ -216,6 +297,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "السبت 2025/12/06",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "نيوم",
     "homeLogo": "https://jdwel.com/image/teams/298.png",
     "away": "الاتحاد",
@@ -224,6 +308,9 @@
     "time": "5:15 م"
   },
   {
+    "date": "الخميس 2026/01/29",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "القادسية",
     "homeLogo": "https://jdwel.com/image/teams/2216.png",
     "away": "الهلال",
@@ -232,6 +319,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الجمعة 2026/01/30",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "شعلة الشرقية",
     "homeLogo": "https://jdwel.com/image/teams/sau-eastern-flames-w.png",
     "away": "النصر",
@@ -240,6 +330,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الجمعة 2026/01/30",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "العلا",
     "homeLogo": "https://jdwel.com/image/teams/842.png",
     "away": "الاتحاد",
@@ -248,6 +341,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "السبت 2026/01/31",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "نيوم",
     "homeLogo": "https://jdwel.com/image/teams/298.png",
     "away": "الأهلي",
@@ -256,6 +352,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الخميس 2026/02/05",
+    "round": "الجولة 9",
+    "status": "قريباً",
     "home": "الهلال",
     "homeLogo": "https://jdwel.com/image/teams/2761.png",
     "away": "الأهلي",
@@ -264,6 +363,9 @@
     "time": "5:20 م"
   },
   {
+    "date": "الجمعة 2026/02/06",
+    "round": "الجولة 9",
+    "status": "قريباً",
     "home": "النصر",
     "homeLogo": "https://jdwel.com/image/teams/3169.png",
     "away": "القادسية",
@@ -272,6 +374,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "السبت 2026/02/07",
+    "round": "الجولة 9",
+    "status": "قريباً",
     "home": "نيوم",
     "homeLogo": "https://jdwel.com/image/teams/298.png",
     "away": "العلا",
@@ -280,6 +385,9 @@
     "time": "3:20 م"
   },
   {
+    "date": "السبت 2026/02/07",
+    "round": "الجولة 9",
+    "status": "قريباً",
     "home": "الاتحاد",
     "homeLogo": "https://jdwel.com/image/teams/2839.png",
     "away": "شعلة الشرقية",
@@ -288,6 +396,9 @@
     "time": "5:55 م"
   },
   {
+    "date": "الخميس 2026/02/12",
+    "round": "الجولة 10",
+    "status": "قريباً",
     "home": "العلا",
     "homeLogo": "https://jdwel.com/image/teams/842.png",
     "away": "القادسية",
@@ -296,6 +407,9 @@
     "time": "5:55 م"
   },
   {
+    "date": "الجمعة 2026/02/13",
+    "round": "الجولة 10",
+    "status": "قريباً",
     "home": "نيوم",
     "homeLogo": "https://jdwel.com/image/teams/298.png",
     "away": "الهلال",
@@ -304,6 +418,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الجمعة 2026/02/13",
+    "round": "الجولة 10",
+    "status": "قريباً",
     "home": "الأهلي",
     "homeLogo": "https://jdwel.com/image/teams/3404.png",
     "away": "شعلة الشرقية",
@@ -312,6 +429,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "السبت 2026/02/14",
+    "round": "الجولة 10",
+    "status": "قريباً",
     "home": "الاتحاد",
     "homeLogo": "https://jdwel.com/image/teams/2839.png",
     "away": "النصر",
@@ -320,6 +440,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الخميس 2026/02/19",
+    "round": "الجولة 11",
+    "status": "قريباً",
     "home": "القادسية",
     "homeLogo": "https://jdwel.com/image/teams/2216.png",
     "away": "نيوم",
@@ -328,6 +451,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الجمعة 2026/02/20",
+    "round": "الجولة 11",
+    "status": "قريباً",
     "home": "النصر",
     "homeLogo": "https://jdwel.com/image/teams/3169.png",
     "away": "الأهلي",
@@ -336,6 +462,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الجمعة 2026/02/20",
+    "round": "الجولة 11",
+    "status": "قريباً",
     "home": "شعلة الشرقية",
     "homeLogo": "https://jdwel.com/image/teams/sau-eastern-flames-w.png",
     "away": "العلا",
@@ -344,6 +473,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "السبت 2026/02/21",
+    "round": "الجولة 11",
+    "status": "قريباً",
     "home": "الهلال",
     "homeLogo": "https://jdwel.com/image/teams/2761.png",
     "away": "الاتحاد",
@@ -352,6 +484,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الخميس 2026/03/26",
+    "round": "الجولة 12",
+    "status": "قريباً",
     "home": "الهلال",
     "homeLogo": "https://jdwel.com/image/teams/2761.png",
     "away": "النصر",
@@ -360,6 +495,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الجمعة 2026/03/27",
+    "round": "الجولة 12",
+    "status": "قريباً",
     "home": "العلا",
     "homeLogo": "https://jdwel.com/image/teams/842.png",
     "away": "الأهلي",
@@ -368,6 +506,9 @@
     "time": "6:15 م"
   },
   {
+    "date": "الجمعة 2026/03/27",
+    "round": "الجولة 12",
+    "status": "قريباً",
     "home": "الاتحاد",
     "homeLogo": "https://jdwel.com/image/teams/2839.png",
     "away": "القادسية",
@@ -376,6 +517,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "السبت 2026/03/28",
+    "round": "الجولة 12",
+    "status": "قريباً",
     "home": "نيوم",
     "homeLogo": "https://jdwel.com/image/teams/298.png",
     "away": "شعلة الشرقية",
@@ -384,6 +528,9 @@
     "time": "6:30 م"
   },
   {
+    "date": "الجمعة 2026/04/03",
+    "round": "الجولة 13",
+    "status": "قريباً",
     "home": "الأهلي",
     "homeLogo": "https://jdwel.com/image/teams/3404.png",
     "away": "الاتحاد",
@@ -392,6 +539,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الجمعة 2026/04/03",
+    "round": "الجولة 13",
+    "status": "قريباً",
     "home": "الهلال",
     "homeLogo": "https://jdwel.com/image/teams/2761.png",
     "away": "العلا",
@@ -400,6 +550,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الجمعة 2026/04/03",
+    "round": "الجولة 13",
+    "status": "قريباً",
     "home": "شعلة الشرقية",
     "homeLogo": "https://jdwel.com/image/teams/sau-eastern-flames-w.png",
     "away": "القادسية",
@@ -408,6 +561,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الجمعة 2026/04/03",
+    "round": "الجولة 13",
+    "status": "قريباً",
     "home": "نيوم",
     "homeLogo": "https://jdwel.com/image/teams/298.png",
     "away": "النصر",
@@ -416,6 +572,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الخميس 2026/04/23",
+    "round": "الجولة 14",
+    "status": "قريباً",
     "home": "الاتحاد",
     "homeLogo": "https://jdwel.com/image/teams/2839.png",
     "away": "نيوم",
@@ -424,6 +583,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الخميس 2026/04/23",
+    "round": "الجولة 14",
+    "status": "قريباً",
     "home": "الهلال",
     "homeLogo": "https://jdwel.com/image/teams/2761.png",
     "away": "شعلة الشرقية",
@@ -432,6 +594,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الخميس 2026/04/23",
+    "round": "الجولة 14",
+    "status": "قريباً",
     "home": "القادسية",
     "homeLogo": "https://jdwel.com/image/teams/2216.png",
     "away": "الأهلي",
@@ -440,6 +605,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الخميس 2026/04/23",
+    "round": "الجولة 14",
+    "status": "قريباً",
     "home": "النصر",
     "homeLogo": "https://jdwel.com/image/teams/3169.png",
     "away": "العلا",

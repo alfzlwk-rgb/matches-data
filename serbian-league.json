@@ -1,5 +1,8 @@
 [
   {
+    "date": "السبت 2025/07/19",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "سرفينا زفيزدا",
     "homeLogo": "https://jdwel.com/image/teams/1094.png",
     "away": "يافور إيفانييتسا",
@@ -8,6 +11,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "السبت 2025/07/19",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "تشوكاريتشكي",
     "homeLogo": "https://jdwel.com/image/teams/2550.png",
     "away": "نابريداك",
@@ -16,6 +22,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الأحد 2025/07/20",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "ملادوست لوتشاني",
     "homeLogo": "https://jdwel.com/image/teams/ser_mladost_lu__ani.png",
     "away": "IMT نوفي بيوغراد",
@@ -24,6 +33,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الأحد 2025/07/20",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "باتشكا توبولا",
     "homeLogo": "https://jdwel.com/image/teams/2446.png",
     "away": "رادنيتشكي نيش",
@@ -32,6 +44,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الأحد 2025/07/20",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "فويفودينا",
     "homeLogo": "https://jdwel.com/image/teams/2549.png",
     "away": "رادنيك سوردوليتسا",
@@ -40,6 +55,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الأحد 2025/07/20",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "زليزنكار بانسيفو",
     "homeLogo": "https://jdwel.com/image/teams/2552.png",
     "away": "بارتيزان",
@@ -48,6 +66,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الأثنين 2025/07/21",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "أو إف كيه بيوغراد",
     "homeLogo": "https://jdwel.com/image/teams/2548.png",
     "away": "سبارتاك زلايتبور",
@@ -56,6 +77,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "السبت 2025/07/26",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "سرفينا زفيزدا",
     "homeLogo": "https://jdwel.com/image/teams/1094.png",
     "away": "أو إف كيه بيوغراد",
@@ -64,6 +88,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "السبت 2025/07/26",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "رادنيتشكي نيش",
     "homeLogo": "https://jdwel.com/image/teams/ser_radni%C4%8Dki_nis.png",
     "away": "ملادوست لوتشاني",
@@ -72,6 +99,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "السبت 2025/07/26",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "رادنيك سوردوليتسا",
     "homeLogo": "https://jdwel.com/image/teams/3326.png",
     "away": "باتشكا توبولا",
@@ -80,6 +110,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الأحد 2025/07/27",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "نابريداك",
     "homeLogo": "https://jdwel.com/image/teams/2551.png",
     "away": "نوفي بازار",
@@ -88,6 +121,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الأحد 2025/07/27",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "IMT نوفي بيوغراد",
     "homeLogo": "https://jdwel.com/image/teams/2553.png",
     "away": "تشوكاريتشكي",
@@ -96,6 +132,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الأحد 2025/07/27",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "رادنيتشكي كراغوييفاتس",
     "homeLogo": "https://jdwel.com/image/teams/2547.png",
     "away": "زليزنكار بانسيفو",
@@ -104,6 +143,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الأحد 2025/07/27",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "سبارتاك زلايتبور",
     "homeLogo": "https://jdwel.com/image/teams/ser_spartak_subotica.png",
     "away": "فويفودينا",
@@ -112,6 +154,9 @@
     "time": "10:00 م"
   },
   {
+    "date": "السبت 2025/08/02",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "ملادوست لوتشاني",
     "homeLogo": "https://jdwel.com/image/teams/ser_mladost_lu__ani.png",
     "away": "رادنيك سوردوليتسا",
@@ -120,6 +165,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "السبت 2025/08/02",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "باتشكا توبولا",
     "homeLogo": "https://jdwel.com/image/teams/2446.png",
     "away": "سبارتاك زلايتبور",
@@ -128,6 +176,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "السبت 2025/08/02",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "أو إف كيه بيوغراد",
     "homeLogo": "https://jdwel.com/image/teams/2548.png",
     "away": "يافور إيفانييتسا",
@@ -136,6 +187,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الأحد 2025/08/03",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "تشوكاريتشكي",
     "homeLogo": "https://jdwel.com/image/teams/2550.png",
     "away": "رادنيتشكي نيش",
@@ -144,6 +198,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الأحد 2025/08/03",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "بارتيزان",
     "homeLogo": "https://jdwel.com/image/teams/3151.png",
     "away": "رادنيتشكي كراغوييفاتس",
@@ -152,6 +209,9 @@
     "time": "10:00 م"
   },
   {
+    "date": "الأثنين 2025/08/04",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "نوفي بازار",
     "homeLogo": "https://jdwel.com/image/teams/ser_novi_pazar.png",
     "away": "IMT نوفي بيوغراد",
@@ -160,6 +220,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الأثنين 2025/08/04",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "زليزنكار بانسيفو",
     "homeLogo": "https://jdwel.com/image/teams/2552.png",
     "away": "نابريداك",
@@ -168,6 +231,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "السبت 2025/08/09",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "رادنيك سوردوليتسا",
     "homeLogo": "https://jdwel.com/image/teams/3326.png",
     "away": "تشوكاريتشكي",
@@ -176,6 +242,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "السبت 2025/08/09",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "سرفينا زفيزدا",
     "homeLogo": "https://jdwel.com/image/teams/1094.png",
     "away": "باتشكا توبولا",
@@ -184,6 +253,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "السبت 2025/08/09",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "سبارتاك زلايتبور",
     "homeLogo": "https://jdwel.com/image/teams/ser_spartak_subotica.png",
     "away": "ملادوست لوتشاني",
@@ -192,6 +264,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "السبت 2025/08/09",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "أو إف كيه بيوغراد",
     "homeLogo": "https://jdwel.com/image/teams/2548.png",
     "away": "فويفودينا",
@@ -200,6 +275,9 @@
     "time": "10:00 م"
   },
   {
+    "date": "الأحد 2025/08/10",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "رادنيتشكي نيش",
     "homeLogo": "https://jdwel.com/image/teams/ser_radni%C4%8Dki_nis.png",
     "away": "نوفي بازار",
@@ -208,6 +286,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الأحد 2025/08/10",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "نابريداك",
     "homeLogo": "https://jdwel.com/image/teams/2551.png",
     "away": "بارتيزان",
@@ -216,6 +297,9 @@
     "time": "9:30 م"
   },
   {
+    "date": "الأثنين 2025/08/11",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "IMT نوفي بيوغراد",
     "homeLogo": "https://jdwel.com/image/teams/2553.png",
     "away": "زليزنكار بانسيفو",
@@ -224,6 +308,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الأثنين 2025/08/11",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "يافور إيفانييتسا",
     "homeLogo": "https://jdwel.com/image/teams/3332.png",
     "away": "رادنيتشكي كراغوييفاتس",
@@ -232,6 +319,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الجمعة 2025/08/15",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "تشوكاريتشكي",
     "homeLogo": "https://jdwel.com/image/teams/2550.png",
     "away": "سبارتاك زلايتبور",
@@ -240,6 +330,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الجمعة 2025/08/15",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "ملادوست لوتشاني",
     "homeLogo": "https://jdwel.com/image/teams/ser_mladost_lu__ani.png",
     "away": "سرفينا زفيزدا",
@@ -248,6 +341,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "السبت 2025/08/16",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "نوفي بازار",
     "homeLogo": "https://jdwel.com/image/teams/ser_novi_pazar.png",
     "away": "رادنيك سوردوليتسا",
@@ -256,6 +352,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "السبت 2025/08/16",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "فويفودينا",
     "homeLogo": "https://jdwel.com/image/teams/2549.png",
     "away": "يافور إيفانييتسا",
@@ -264,6 +363,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الأحد 2025/08/17",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "رادنيتشكي كراغوييفاتس",
     "homeLogo": "https://jdwel.com/image/teams/2547.png",
     "away": "نابريداك",
@@ -272,6 +374,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الأحد 2025/08/17",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "باتشكا توبولا",
     "homeLogo": "https://jdwel.com/image/teams/2446.png",
     "away": "أو إف كيه بيوغراد",
@@ -280,6 +385,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الأحد 2025/08/17",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "زليزنكار بانسيفو",
     "homeLogo": "https://jdwel.com/image/teams/2552.png",
     "away": "رادنيتشكي نيش",
@@ -288,6 +396,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "الأثنين 2025/08/18",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "بارتيزان",
     "homeLogo": "https://jdwel.com/image/teams/3151.png",
     "away": "IMT نوفي بيوغراد",
@@ -296,6 +407,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الجمعة 2025/08/22",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "يافور إيفانييتسا",
     "homeLogo": "https://jdwel.com/image/teams/3332.png",
     "away": "نابريداك",
@@ -304,6 +418,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "السبت 2025/08/23",
+    "round": "الجولة 6",
+    "status": "قريباً",
     "home": "سرفينا زفيزدا",
     "homeLogo": "https://jdwel.com/image/teams/1094.png",
     "away": "تشوكاريتشكي",
@@ -312,6 +429,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/08/23",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "أو إف كيه بيوغراد",
     "homeLogo": "https://jdwel.com/image/teams/2548.png",
     "away": "ملادوست لوتشاني",
@@ -320,6 +440,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "السبت 2025/08/23",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "فويفودينا",
     "homeLogo": "https://jdwel.com/image/teams/2549.png",
     "away": "باتشكا توبولا",
@@ -328,6 +451,9 @@
     "time": "10:00 م"
   },
   {
+    "date": "الأحد 2025/08/24",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "رادنيك سوردوليتسا",
     "homeLogo": "https://jdwel.com/image/teams/3326.png",
     "away": "زليزنكار بانسيفو",
@@ -336,6 +462,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الأحد 2025/08/24",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "IMT نوفي بيوغراد",
     "homeLogo": "https://jdwel.com/image/teams/2553.png",
     "away": "رادنيتشكي كراغوييفاتس",
@@ -344,6 +473,9 @@
     "time": "8:15 م"
   },
   {
+    "date": "الأحد 2025/08/24",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "رادنيتشكي نيش",
     "homeLogo": "https://jdwel.com/image/teams/ser_radni%C4%8Dki_nis.png",
     "away": "بارتيزان",
@@ -352,6 +484,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "الأحد 2025/08/24",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "سبارتاك زلايتبور",
     "homeLogo": "https://jdwel.com/image/teams/ser_spartak_subotica.png",
     "away": "نوفي بازار",
@@ -360,6 +495,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الجمعة 2025/08/29",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "تشوكاريتشكي",
     "homeLogo": "https://jdwel.com/image/teams/2550.png",
     "away": "أو إف كيه بيوغراد",
@@ -368,6 +506,9 @@
     "time": "10:00 م"
   },
   {
+    "date": "السبت 2025/08/30",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "باتشكا توبولا",
     "homeLogo": "https://jdwel.com/image/teams/2446.png",
     "away": "يافور إيفانييتسا",
@@ -376,6 +517,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "السبت 2025/08/30",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "بارتيزان",
     "homeLogo": "https://jdwel.com/image/teams/3151.png",
     "away": "رادنيك سوردوليتسا",
@@ -384,6 +528,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "السبت 2025/08/30",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "ملادوست لوتشاني",
     "homeLogo": "https://jdwel.com/image/teams/ser_mladost_lu__ani.png",
     "away": "فويفودينا",
@@ -392,6 +539,9 @@
     "time": "10:00 م"
   },
   {
+    "date": "الأحد 2025/08/31",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "نوفي بازار",
     "homeLogo": "https://jdwel.com/image/teams/ser_novi_pazar.png",
     "away": "سرفينا زفيزدا",
@@ -400,6 +550,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "الأحد 2025/08/31",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "نابريداك",
     "homeLogo": "https://jdwel.com/image/teams/2551.png",
     "away": "IMT نوفي بيوغراد",
@@ -408,6 +561,9 @@
     "time": "10:00 م"
   },
   {
+    "date": "الأحد 2025/08/31",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "رادنيتشكي كراغوييفاتس",
     "homeLogo": "https://jdwel.com/image/teams/2547.png",
     "away": "رادنيتشكي نيش",
@@ -416,6 +572,9 @@
     "time": "10:00 م"
   },
   {
+    "date": "الأحد 2025/08/31",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "زليزنكار بانسيفو",
     "homeLogo": "https://jdwel.com/image/teams/2552.png",
     "away": "سبارتاك زلايتبور",
@@ -424,6 +583,9 @@
     "time": "10:00 م"
   },
   {
+    "date": "السبت 2025/09/13",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "يافور إيفانييتسا",
     "homeLogo": "https://jdwel.com/image/teams/3332.png",
     "away": "IMT نوفي بيوغراد",
@@ -432,6 +594,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "السبت 2025/09/13",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "رادنيك سوردوليتسا",
     "homeLogo": "https://jdwel.com/image/teams/3326.png",
     "away": "رادنيتشكي كراغوييفاتس",
@@ -440,6 +605,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "السبت 2025/09/13",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "أو إف كيه بيوغراد",
     "homeLogo": "https://jdwel.com/image/teams/2548.png",
     "away": "نوفي بازار",
@@ -448,6 +616,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "السبت 2025/09/13",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "فويفودينا",
     "homeLogo": "https://jdwel.com/image/teams/2549.png",
     "away": "تشوكاريتشكي",
@@ -456,6 +627,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الأحد 2025/09/14",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "رادنيتشكي نيش",
     "homeLogo": "https://jdwel.com/image/teams/ser_radni%C4%8Dki_nis.png",
     "away": "نابريداك",
@@ -464,6 +638,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الأحد 2025/09/14",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "سرفينا زفيزدا",
     "homeLogo": "https://jdwel.com/image/teams/1094.png",
     "away": "زليزنكار بانسيفو",
@@ -472,6 +649,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2025/09/14",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "باتشكا توبولا",
     "homeLogo": "https://jdwel.com/image/teams/2446.png",
     "away": "ملادوست لوتشاني",
@@ -480,6 +660,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2025/09/14",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "سبارتاك زلايتبور",
     "homeLogo": "https://jdwel.com/image/teams/ser_spartak_subotica.png",
     "away": "بارتيزان",
@@ -488,6 +671,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "الجمعة 2025/09/19",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "نابريداك",
     "homeLogo": "https://jdwel.com/image/teams/2551.png",
     "away": "رادنيك سوردوليتسا",
@@ -496,6 +682,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "السبت 2025/09/20",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "رادنيتشكي كراغوييفاتس",
     "homeLogo": "https://jdwel.com/image/teams/2547.png",
     "away": "سبارتاك زلايتبور",
@@ -504,6 +693,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "السبت 2025/09/20",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "نوفي بازار",
     "homeLogo": "https://jdwel.com/image/teams/ser_novi_pazar.png",
     "away": "فويفودينا",
@@ -512,6 +704,9 @@
     "time": "6:30 م"
   },
   {
+    "date": "السبت 2025/09/20",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "بارتيزان",
     "homeLogo": "https://jdwel.com/image/teams/3151.png",
     "away": "سرفينا زفيزدا",
@@ -520,6 +715,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "السبت 2025/09/20",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "زليزنكار بانسيفو",
     "homeLogo": "https://jdwel.com/image/teams/2552.png",
     "away": "أو إف كيه بيوغراد",
@@ -528,6 +726,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "الأحد 2025/09/21",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "IMT نوفي بيوغراد",
     "homeLogo": "https://jdwel.com/image/teams/2553.png",
     "away": "رادنيتشكي نيش",
@@ -536,6 +737,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2025/09/21",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "تشوكاريتشكي",
     "homeLogo": "https://jdwel.com/image/teams/2550.png",
     "away": "باتشكا توبولا",
@@ -544,6 +748,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأحد 2025/09/21",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "ملادوست لوتشاني",
     "homeLogo": "https://jdwel.com/image/teams/ser_mladost_lu__ani.png",
     "away": "يافور إيفانييتسا",
@@ -552,6 +759,9 @@
     "time": "7:45 م"
   },
   {
+    "date": "الأربعاء 2025/09/24",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "نوفي بازار",
     "homeLogo": "https://jdwel.com/image/teams/ser_novi_pazar.png",
     "away": "رادنيتشكي كراغوييفاتس",
@@ -560,6 +770,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الجمعة 2025/09/26",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "رادنيك سوردوليتسا",
     "homeLogo": "https://jdwel.com/image/teams/3326.png",
     "away": "IMT نوفي بيوغراد",
@@ -568,6 +781,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "السبت 2025/09/27",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "يافور إيفانييتسا",
     "homeLogo": "https://jdwel.com/image/teams/3332.png",
     "away": "رادنيتشكي نيش",
@@ -576,6 +792,9 @@
     "time": "6:30 م"
   },
   {
+    "date": "السبت 2025/09/27",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "أو إف كيه بيوغراد",
     "homeLogo": "https://jdwel.com/image/teams/2548.png",
     "away": "بارتيزان",
@@ -584,6 +803,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "السبت 2025/09/27",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "فويفودينا",
     "homeLogo": "https://jdwel.com/image/teams/2549.png",
     "away": "زليزنكار بانسيفو",
@@ -592,6 +814,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "الأحد 2025/09/28",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "باتشكا توبولا",
     "homeLogo": "https://jdwel.com/image/teams/2446.png",
     "away": "نوفي بازار",
@@ -600,6 +825,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2025/09/28",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "ملادوست لوتشاني",
     "homeLogo": "https://jdwel.com/image/teams/ser_mladost_lu__ani.png",
     "away": "تشوكاريتشكي",
@@ -608,6 +836,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2025/09/28",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "سبارتاك زلايتبور",
     "homeLogo": "https://jdwel.com/image/teams/ser_spartak_subotica.png",
     "away": "نابريداك",
@@ -616,6 +847,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2025/09/28",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "سرفينا زفيزدا",
     "homeLogo": "https://jdwel.com/image/teams/1094.png",
     "away": "رادنيتشكي كراغوييفاتس",
@@ -624,6 +858,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الجمعة 2025/10/03",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "رادنيتشكي نيش",
     "homeLogo": "https://jdwel.com/image/teams/ser_radni%C4%8Dki_nis.png",
     "away": "رادنيك سوردوليتسا",
@@ -632,6 +869,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "السبت 2025/10/04",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "نوفي بازار",
     "homeLogo": "https://jdwel.com/image/teams/ser_novi_pazar.png",
     "away": "ملادوست لوتشاني",
@@ -640,6 +880,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "السبت 2025/10/04",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "رادنيتشكي كراغوييفاتس",
     "homeLogo": "https://jdwel.com/image/teams/2547.png",
     "away": "أو إف كيه بيوغراد",
@@ -648,6 +891,9 @@
     "time": "6:30 م"
   },
   {
+    "date": "السبت 2025/10/04",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "زليزنكار بانسيفو",
     "homeLogo": "https://jdwel.com/image/teams/2552.png",
     "away": "باتشكا توبولا",
@@ -656,6 +902,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "السبت 2025/10/04",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "بارتيزان",
     "homeLogo": "https://jdwel.com/image/teams/3151.png",
     "away": "فويفودينا",
@@ -664,6 +913,9 @@
     "time": "9:30 م"
   },
   {
+    "date": "الأحد 2025/10/05",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "تشوكاريتشكي",
     "homeLogo": "https://jdwel.com/image/teams/2550.png",
     "away": "يافور إيفانييتسا",
@@ -672,6 +924,9 @@
     "time": "4:30 م"
   },
   {
+    "date": "الأحد 2025/10/05",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "IMT نوفي بيوغراد",
     "homeLogo": "https://jdwel.com/image/teams/2553.png",
     "away": "سبارتاك زلايتبور",
@@ -680,6 +935,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2025/10/05",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "نابريداك",
     "homeLogo": "https://jdwel.com/image/teams/2551.png",
     "away": "سرفينا زفيزدا",
@@ -688,6 +946,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "السبت 2025/10/18",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "أو إف كيه بيوغراد",
     "homeLogo": "https://jdwel.com/image/teams/2548.png",
     "away": "نابريداك",
@@ -696,6 +957,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "السبت 2025/10/18",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "يافور إيفانييتسا",
     "homeLogo": "https://jdwel.com/image/teams/3332.png",
     "away": "رادنيك سوردوليتسا",
@@ -704,6 +968,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/10/18",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "فويفودينا",
     "homeLogo": "https://jdwel.com/image/teams/2549.png",
     "away": "رادنيتشكي كراغوييفاتس",
@@ -712,6 +979,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "السبت 2025/10/18",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "باتشكا توبولا",
     "homeLogo": "https://jdwel.com/image/teams/2446.png",
     "away": "بارتيزان",
@@ -720,6 +990,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الأحد 2025/10/19",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "تشوكاريتشكي",
     "homeLogo": "https://jdwel.com/image/teams/2550.png",
     "away": "نوفي بازار",
@@ -728,6 +1001,9 @@
     "time": "4:30 م"
   },
   {
+    "date": "الأحد 2025/10/19",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "ملادوست لوتشاني",
     "homeLogo": "https://jdwel.com/image/teams/ser_mladost_lu__ani.png",
     "away": "زليزنكار بانسيفو",
@@ -736,6 +1012,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2025/10/19",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "سرفينا زفيزدا",
     "homeLogo": "https://jdwel.com/image/teams/1094.png",
     "away": "IMT نوفي بيوغراد",
@@ -744,6 +1023,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "الأحد 2025/10/19",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "سبارتاك زلايتبور",
     "homeLogo": "https://jdwel.com/image/teams/ser_spartak_subotica.png",
     "away": "رادنيتشكي نيش",
@@ -752,6 +1034,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "الجمعة 2025/10/24",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "نابريداك",
     "homeLogo": "https://jdwel.com/image/teams/2551.png",
     "away": "فويفودينا",
@@ -760,6 +1045,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الجمعة 2025/10/24",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "نوفي بازار",
     "homeLogo": "https://jdwel.com/image/teams/ser_novi_pazar.png",
     "away": "يافور إيفانييتسا",
@@ -768,6 +1056,9 @@
     "time": "6:30 م"
   },
   {
+    "date": "الجمعة 2025/10/24",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "بارتيزان",
     "homeLogo": "https://jdwel.com/image/teams/3151.png",
     "away": "ملادوست لوتشاني",
@@ -776,6 +1067,9 @@
     "time": "6:30 م"
   },
   {
+    "date": "السبت 2025/10/25",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "IMT نوفي بيوغراد",
     "homeLogo": "https://jdwel.com/image/teams/2553.png",
     "away": "أو إف كيه بيوغراد",
@@ -784,6 +1078,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "السبت 2025/10/25",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "رادنيتشكي كراغوييفاتس",
     "homeLogo": "https://jdwel.com/image/teams/2547.png",
     "away": "باتشكا توبولا",
@@ -792,6 +1089,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "السبت 2025/10/25",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "رادنيك سوردوليتسا",
     "homeLogo": "https://jdwel.com/image/teams/3326.png",
     "away": "سبارتاك زلايتبور",
@@ -800,6 +1100,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/10/25",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "زليزنكار بانسيفو",
     "homeLogo": "https://jdwel.com/image/teams/2552.png",
     "away": "تشوكاريتشكي",
@@ -808,6 +1111,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأحد 2025/10/26",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "رادنيتشكي نيش",
     "homeLogo": "https://jdwel.com/image/teams/ser_radni%C4%8Dki_nis.png",
     "away": "سرفينا زفيزدا",
@@ -816,6 +1122,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الخميس 2025/10/30",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "فويفودينا",
     "homeLogo": "https://jdwel.com/image/teams/2549.png",
     "away": "سرفينا زفيزدا",
@@ -824,6 +1133,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "السبت 2025/11/01",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "يافور إيفانييتسا",
     "homeLogo": "https://jdwel.com/image/teams/3332.png",
     "away": "سبارتاك زلايتبور",
@@ -832,6 +1144,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "السبت 2025/11/01",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "تشوكاريتشكي",
     "homeLogo": "https://jdwel.com/image/teams/2550.png",
     "away": "بارتيزان",
@@ -840,6 +1155,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأحد 2025/11/02",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "نوفي بازار",
     "homeLogo": "https://jdwel.com/image/teams/ser_novi_pazar.png",
     "away": "زليزنكار بانسيفو",
@@ -848,6 +1166,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2025/11/02",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "باتشكا توبولا",
     "homeLogo": "https://jdwel.com/image/teams/2446.png",
     "away": "نابريداك",
@@ -856,6 +1177,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2025/11/02",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "سرفينا زفيزدا",
     "homeLogo": "https://jdwel.com/image/teams/1094.png",
     "away": "رادنيك سوردوليتسا",
@@ -864,6 +1188,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2025/11/02",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "فويفودينا",
     "homeLogo": "https://jdwel.com/image/teams/2549.png",
     "away": "IMT نوفي بيوغراد",
@@ -872,6 +1199,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأثنين 2025/11/03",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "أو إف كيه بيوغراد",
     "homeLogo": "https://jdwel.com/image/teams/2548.png",
     "away": "رادنيتشكي نيش",
@@ -880,6 +1210,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأربعاء 2025/11/05",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "يافور إيفانييتسا",
     "homeLogo": "https://jdwel.com/image/teams/3332.png",
     "away": "بارتيزان",
@@ -888,6 +1221,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/11/08",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "رادنيك سوردوليتسا",
     "homeLogo": "https://jdwel.com/image/teams/3326.png",
     "away": "أو إف كيه بيوغراد",
@@ -896,6 +1232,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "السبت 2025/11/08",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "نابريداك",
     "homeLogo": "https://jdwel.com/image/teams/2551.png",
     "away": "ملادوست لوتشاني",
@@ -904,6 +1243,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "السبت 2025/11/08",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "رادنيتشكي نيش",
     "homeLogo": "https://jdwel.com/image/teams/ser_radni%C4%8Dki_nis.png",
     "away": "فويفودينا",
@@ -912,6 +1254,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الأحد 2025/11/09",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "زليزنكار بانسيفو",
     "homeLogo": "https://jdwel.com/image/teams/2552.png",
     "away": "يافور إيفانييتسا",
@@ -920,6 +1265,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأحد 2025/11/09",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "سبارتاك زلايتبور",
     "homeLogo": "https://jdwel.com/image/teams/ser_spartak_subotica.png",
     "away": "سرفينا زفيزدا",
@@ -928,6 +1276,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2025/11/09",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "IMT نوفي بيوغراد",
     "homeLogo": "https://jdwel.com/image/teams/2553.png",
     "away": "باتشكا توبولا",
@@ -936,6 +1287,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2025/11/09",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "بارتيزان",
     "homeLogo": "https://jdwel.com/image/teams/3151.png",
     "away": "نوفي بازار",
@@ -944,6 +1298,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الجمعة 2025/11/21",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "رادنيك سوردوليتسا",
     "homeLogo": "https://jdwel.com/image/teams/3326.png",
     "away": "فويفودينا",
@@ -952,6 +1309,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "السبت 2025/11/22",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "نابريداك",
     "homeLogo": "https://jdwel.com/image/teams/2551.png",
     "away": "تشوكاريتشكي",
@@ -960,6 +1320,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/11/22",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "بارتيزان",
     "homeLogo": "https://jdwel.com/image/teams/3151.png",
     "away": "زليزنكار بانسيفو",
@@ -968,6 +1331,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "السبت 2025/11/22",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "سبارتاك زلايتبور",
     "homeLogo": "https://jdwel.com/image/teams/ser_spartak_subotica.png",
     "away": "أو إف كيه بيوغراد",
@@ -976,6 +1342,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "الأحد 2025/11/23",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "IMT نوفي بيوغراد",
     "homeLogo": "https://jdwel.com/image/teams/2553.png",
     "away": "ملادوست لوتشاني",
@@ -984,6 +1353,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "الأحد 2025/11/23",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "رادنيتشكي نيش",
     "homeLogo": "https://jdwel.com/image/teams/ser_radni%C4%8Dki_nis.png",
     "away": "باتشكا توبولا",
@@ -992,6 +1364,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأحد 2025/11/23",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "يافور إيفانييتسا",
     "homeLogo": "https://jdwel.com/image/teams/3332.png",
     "away": "سرفينا زفيزدا",
@@ -1000,6 +1375,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2025/11/23",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "رادنيتشكي كراغوييفاتس",
     "homeLogo": "https://jdwel.com/image/teams/2547.png",
     "away": "نوفي بازار",
@@ -1008,6 +1386,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "الجمعة 2025/11/28",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "تشوكاريتشكي",
     "homeLogo": "https://jdwel.com/image/teams/2550.png",
     "away": "IMT نوفي بيوغراد",
@@ -1016,6 +1397,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/11/29",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "زليزنكار بانسيفو",
     "homeLogo": "https://jdwel.com/image/teams/2552.png",
     "away": "رادنيتشكي كراغوييفاتس",
@@ -1024,6 +1408,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "السبت 2025/11/29",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "ملادوست لوتشاني",
     "homeLogo": "https://jdwel.com/image/teams/ser_mladost_lu__ani.png",
     "away": "رادنيتشكي نيش",
@@ -1032,6 +1419,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "السبت 2025/11/29",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "فويفودينا",
     "homeLogo": "https://jdwel.com/image/teams/2549.png",
     "away": "سبارتاك زلايتبور",
@@ -1040,6 +1430,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "السبت 2025/11/29",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "نوفي بازار",
     "homeLogo": "https://jdwel.com/image/teams/ser_novi_pazar.png",
     "away": "نابريداك",
@@ -1048,6 +1441,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/11/29",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "بارتيزان",
     "homeLogo": "https://jdwel.com/image/teams/3151.png",
     "away": "يافور إيفانييتسا",
@@ -1056,6 +1452,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الأحد 2025/11/30",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "باتشكا توبولا",
     "homeLogo": "https://jdwel.com/image/teams/2446.png",
     "away": "رادنيك سوردوليتسا",
@@ -1064,6 +1463,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2025/11/30",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "أو إف كيه بيوغراد",
     "homeLogo": "https://jdwel.com/image/teams/2548.png",
     "away": "سرفينا زفيزدا",
@@ -1072,6 +1474,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الأربعاء 2025/12/03",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "ملادوست لوتشاني",
     "homeLogo": "https://jdwel.com/image/teams/ser_mladost_lu__ani.png",
     "away": "رادنيتشكي كراغوييفاتس",
@@ -1080,6 +1485,9 @@
     "time": "6:30 م"
   },
   {
+    "date": "الخميس 2025/12/04",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "سرفينا زفيزدا",
     "homeLogo": "https://jdwel.com/image/teams/1094.png",
     "away": "تشوكاريتشكي",
@@ -1088,6 +1496,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "السبت 2025/12/06",
+    "round": "الجولة 18",
+    "status": "انتهت",
     "home": "يافور إيفانييتسا",
     "homeLogo": "https://jdwel.com/image/teams/3332.png",
     "away": "أو إف كيه بيوغراد",
@@ -1096,6 +1507,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2025/12/07",
+    "round": "الجولة 18",
+    "status": "انتهت",
     "home": "نابريداك",
     "homeLogo": "https://jdwel.com/image/teams/2551.png",
     "away": "زليزنكار بانسيفو",
@@ -1104,6 +1518,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "الأحد 2025/12/07",
+    "round": "الجولة 18",
+    "status": "انتهت",
     "home": "IMT نوفي بيوغراد",
     "homeLogo": "https://jdwel.com/image/teams/2553.png",
     "away": "نوفي بازار",
@@ -1112,6 +1529,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الأحد 2025/12/07",
+    "round": "الجولة 18",
+    "status": "انتهت",
     "home": "رادنيتشكي كراغوييفاتس",
     "homeLogo": "https://jdwel.com/image/teams/2547.png",
     "away": "بارتيزان",
@@ -1120,6 +1540,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الأحد 2025/12/07",
+    "round": "الجولة 18",
+    "status": "انتهت",
     "home": "سرفينا زفيزدا",
     "homeLogo": "https://jdwel.com/image/teams/1094.png",
     "away": "فويفودينا",
@@ -1128,6 +1551,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأثنين 2025/12/08",
+    "round": "الجولة 18",
+    "status": "انتهت",
     "home": "رادنيك سوردوليتسا",
     "homeLogo": "https://jdwel.com/image/teams/3326.png",
     "away": "ملادوست لوتشاني",
@@ -1136,6 +1562,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الأثنين 2025/12/08",
+    "round": "الجولة 18",
+    "status": "انتهت",
     "home": "رادنيتشكي نيش",
     "homeLogo": "https://jdwel.com/image/teams/ser_radni%C4%8Dki_nis.png",
     "away": "تشوكاريتشكي",
@@ -1144,6 +1573,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأثنين 2025/12/08",
+    "round": "الجولة 18",
+    "status": "انتهت",
     "home": "سبارتاك زلايتبور",
     "homeLogo": "https://jdwel.com/image/teams/ser_spartak_subotica.png",
     "away": "باتشكا توبولا",
@@ -1152,6 +1584,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "السبت 2025/12/13",
+    "round": "الجولة 19",
+    "status": "انتهت",
     "home": "تشوكاريتشكي",
     "homeLogo": "https://jdwel.com/image/teams/2550.png",
     "away": "رادنيك سوردوليتسا",
@@ -1160,6 +1595,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "السبت 2025/12/13",
+    "round": "الجولة 19",
+    "status": "انتهت",
     "home": "رادنيتشكي كراغوييفاتس",
     "homeLogo": "https://jdwel.com/image/teams/2547.png",
     "away": "يافور إيفانييتسا",
@@ -1168,6 +1606,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "السبت 2025/12/13",
+    "round": "الجولة 19",
+    "status": "انتهت",
     "home": "فويفودينا",
     "homeLogo": "https://jdwel.com/image/teams/2549.png",
     "away": "أو إف كيه بيوغراد",
@@ -1176,6 +1617,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "السبت 2025/12/13",
+    "round": "الجولة 19",
+    "status": "انتهت",
     "home": "زليزنكار بانسيفو",
     "homeLogo": "https://jdwel.com/image/teams/2552.png",
     "away": "IMT نوفي بيوغراد",
@@ -1184,6 +1628,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "السبت 2025/12/13",
+    "round": "الجولة 19",
+    "status": "انتهت",
     "home": "بارتيزان",
     "homeLogo": "https://jdwel.com/image/teams/3151.png",
     "away": "نابريداك",
@@ -1192,6 +1639,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الأحد 2025/12/14",
+    "round": "الجولة 19",
+    "status": "انتهت",
     "home": "ملادوست لوتشاني",
     "homeLogo": "https://jdwel.com/image/teams/ser_mladost_lu__ani.png",
     "away": "سبارتاك زلايتبور",
@@ -1200,6 +1650,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "الأحد 2025/12/14",
+    "round": "الجولة 19",
+    "status": "انتهت",
     "home": "نوفي بازار",
     "homeLogo": "https://jdwel.com/image/teams/ser_novi_pazar.png",
     "away": "رادنيتشكي نيش",
@@ -1208,6 +1661,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأثنين 2025/12/15",
+    "round": "الجولة 19",
+    "status": "انتهت",
     "home": "باتشكا توبولا",
     "homeLogo": "https://jdwel.com/image/teams/2446.png",
     "away": "سرفينا زفيزدا",
@@ -1216,6 +1672,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "الأربعاء 2025/12/17",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "رادنيتشكي كراغوييفاتس",
     "homeLogo": "https://jdwel.com/image/teams/2547.png",
     "away": "تشوكاريتشكي",
@@ -1224,6 +1683,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "السبت 2025/12/20",
+    "round": "الجولة 20",
+    "status": "انتهت",
     "home": "رادنيتشكي نيش",
     "homeLogo": "https://jdwel.com/image/teams/ser_radni%C4%8Dki_nis.png",
     "away": "زليزنكار بانسيفو",
@@ -1232,6 +1694,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "السبت 2025/12/20",
+    "round": "الجولة 20",
+    "status": "انتهت",
     "home": "يافور إيفانييتسا",
     "homeLogo": "https://jdwel.com/image/teams/3332.png",
     "away": "فويفودينا",
@@ -1240,6 +1705,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "السبت 2025/12/20",
+    "round": "الجولة 20",
+    "status": "انتهت",
     "home": "سرفينا زفيزدا",
     "homeLogo": "https://jdwel.com/image/teams/1094.png",
     "away": "ملادوست لوتشاني",
@@ -1248,6 +1716,9 @@
     "time": "4:30 م"
   },
   {
+    "date": "السبت 2025/12/20",
+    "round": "الجولة 20",
+    "status": "انتهت",
     "home": "IMT نوفي بيوغراد",
     "homeLogo": "https://jdwel.com/image/teams/2553.png",
     "away": "بارتيزان",
@@ -1256,6 +1727,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأحد 2025/12/21",
+    "round": "الجولة 20",
+    "status": "انتهت",
     "home": "أو إف كيه بيوغراد",
     "homeLogo": "https://jdwel.com/image/teams/2548.png",
     "away": "باتشكا توبولا",
@@ -1264,6 +1738,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "الأحد 2025/12/21",
+    "round": "الجولة 20",
+    "status": "انتهت",
     "home": "سبارتاك زلايتبور",
     "homeLogo": "https://jdwel.com/image/teams/ser_spartak_subotica.png",
     "away": "تشوكاريتشكي",
@@ -1272,6 +1749,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الأحد 2025/12/21",
+    "round": "الجولة 20",
+    "status": "انتهت",
     "home": "رادنيك سوردوليتسا",
     "homeLogo": "https://jdwel.com/image/teams/3326.png",
     "away": "نوفي بازار",
@@ -1280,6 +1760,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأثنين 2025/12/22",
+    "round": "الجولة 20",
+    "status": "انتهت",
     "home": "نابريداك",
     "homeLogo": "https://jdwel.com/image/teams/2551.png",
     "away": "رادنيتشكي كراغوييفاتس",
@@ -1288,6 +1771,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "السبت 2026/01/31",
+    "round": "الجولة 21",
+    "status": "انتهت",
     "home": "نابريداك",
     "homeLogo": "https://jdwel.com/image/teams/2551.png",
     "away": "يافور إيفانييتسا",
@@ -1296,6 +1782,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "السبت 2026/01/31",
+    "round": "الجولة 21",
+    "status": "انتهت",
     "home": "رادنيتشكي كراغوييفاتس",
     "homeLogo": "https://jdwel.com/image/teams/2547.png",
     "away": "IMT نوفي بيوغراد",
@@ -1304,6 +1793,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "السبت 2026/01/31",
+    "round": "الجولة 21",
+    "status": "انتهت",
     "home": "بارتيزان",
     "homeLogo": "https://jdwel.com/image/teams/3151.png",
     "away": "رادنيتشكي نيش",
@@ -1312,6 +1804,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "السبت 2026/01/31",
+    "round": "الجولة 21",
+    "status": "انتهت",
     "home": "زليزنكار بانسيفو",
     "homeLogo": "https://jdwel.com/image/teams/2552.png",
     "away": "رادنيك سوردوليتسا",
@@ -1320,6 +1815,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2026/02/01",
+    "round": "الجولة 21",
+    "status": "انتهت",
     "home": "ملادوست لوتشاني",
     "homeLogo": "https://jdwel.com/image/teams/ser_mladost_lu__ani.png",
     "away": "أو إف كيه بيوغراد",
@@ -1328,6 +1826,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "الأحد 2026/02/01",
+    "round": "الجولة 21",
+    "status": "انتهت",
     "home": "نوفي بازار",
     "homeLogo": "https://jdwel.com/image/teams/ser_novi_pazar.png",
     "away": "سبارتاك زلايتبور",
@@ -1336,6 +1837,9 @@
     "time": "3:30 م"
   },
   {
+    "date": "الأحد 2026/02/01",
+    "round": "الجولة 21",
+    "status": "انتهت",
     "home": "تشوكاريتشكي",
     "homeLogo": "https://jdwel.com/image/teams/2550.png",
     "away": "سرفينا زفيزدا",
@@ -1344,6 +1848,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الأحد 2026/02/01",
+    "round": "الجولة 21",
+    "status": "انتهت",
     "home": "باتشكا توبولا",
     "homeLogo": "https://jdwel.com/image/teams/2446.png",
     "away": "فويفودينا",
@@ -1352,6 +1859,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "السبت 2026/02/07",
+    "round": "الجولة 22",
+    "status": "قريباً",
     "home": "يافور إيفانييتسا",
     "homeLogo": "https://jdwel.com/image/teams/3332.png",
     "away": "باتشكا توبولا",
@@ -1360,6 +1870,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "السبت 2026/02/07",
+    "round": "الجولة 22",
+    "status": "قريباً",
     "home": "رادنيك سوردوليتسا",
     "homeLogo": "https://jdwel.com/image/teams/3326.png",
     "away": "بارتيزان",
@@ -1368,6 +1881,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "السبت 2026/02/07",
+    "round": "الجولة 22",
+    "status": "قريباً",
     "home": "سرفينا زفيزدا",
     "homeLogo": "https://jdwel.com/image/teams/1094.png",
     "away": "نوفي بازار",
@@ -1376,6 +1892,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2026/02/08",
+    "round": "الجولة 22",
+    "status": "قريباً",
     "home": "رادنيتشكي نيش",
     "homeLogo": "https://jdwel.com/image/teams/ser_radni%C4%8Dki_nis.png",
     "away": "رادنيتشكي كراغوييفاتس",
@@ -1384,6 +1903,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "الأحد 2026/02/08",
+    "round": "الجولة 22",
+    "status": "قريباً",
     "home": "IMT نوفي بيوغراد",
     "homeLogo": "https://jdwel.com/image/teams/2553.png",
     "away": "نابريداك",
@@ -1392,6 +1914,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأحد 2026/02/08",
+    "round": "الجولة 22",
+    "status": "قريباً",
     "home": "سبارتاك زلايتبور",
     "homeLogo": "https://jdwel.com/image/teams/ser_spartak_subotica.png",
     "away": "زليزنكار بانسيفو",
@@ -1400,6 +1925,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الأحد 2026/02/08",
+    "round": "الجولة 22",
+    "status": "قريباً",
     "home": "فويفودينا",
     "homeLogo": "https://jdwel.com/image/teams/2549.png",
     "away": "ملادوست لوتشاني",
@@ -1408,6 +1936,9 @@
     "time": "4:30 م"
   },
   {
+    "date": "الأثنين 2026/02/09",
+    "round": "الجولة 22",
+    "status": "قريباً",
     "home": "أو إف كيه بيوغراد",
     "homeLogo": "https://jdwel.com/image/teams/2548.png",
     "away": "تشوكاريتشكي",
@@ -1416,6 +1947,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "السبت 2026/02/14",
+    "round": "الجولة 23",
+    "status": "قريباً",
     "home": "تشوكاريتشكي",
     "homeLogo": "https://jdwel.com/image/teams/2550.png",
     "away": "فويفودينا",
@@ -1424,6 +1958,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/02/14",
+    "round": "الجولة 23",
+    "status": "قريباً",
     "home": "IMT نوفي بيوغراد",
     "homeLogo": "https://jdwel.com/image/teams/2553.png",
     "away": "يافور إيفانييتسا",
@@ -1432,6 +1969,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/02/14",
+    "round": "الجولة 23",
+    "status": "قريباً",
     "home": "ملادوست لوتشاني",
     "homeLogo": "https://jdwel.com/image/teams/ser_mladost_lu__ani.png",
     "away": "باتشكا توبولا",
@@ -1440,6 +1980,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/02/14",
+    "round": "الجولة 23",
+    "status": "قريباً",
     "home": "نابريداك",
     "homeLogo": "https://jdwel.com/image/teams/2551.png",
     "away": "رادنيتشكي نيش",
@@ -1448,6 +1991,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/02/14",
+    "round": "الجولة 23",
+    "status": "قريباً",
     "home": "نوفي بازار",
     "homeLogo": "https://jdwel.com/image/teams/ser_novi_pazar.png",
     "away": "أو إف كيه بيوغراد",
@@ -1456,6 +2002,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/02/14",
+    "round": "الجولة 23",
+    "status": "قريباً",
     "home": "بارتيزان",
     "homeLogo": "https://jdwel.com/image/teams/3151.png",
     "away": "سبارتاك زلايتبور",
@@ -1464,6 +2013,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/02/14",
+    "round": "الجولة 23",
+    "status": "قريباً",
     "home": "رادنيتشكي كراغوييفاتس",
     "homeLogo": "https://jdwel.com/image/teams/2547.png",
     "away": "رادنيك سوردوليتسا",
@@ -1472,6 +2024,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/02/14",
+    "round": "الجولة 23",
+    "status": "قريباً",
     "home": "زليزنكار بانسيفو",
     "homeLogo": "https://jdwel.com/image/teams/2552.png",
     "away": "سرفينا زفيزدا",
@@ -1480,6 +2035,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/02/21",
+    "round": "الجولة 24",
+    "status": "قريباً",
     "home": "سرفينا زفيزدا",
     "homeLogo": "https://jdwel.com/image/teams/1094.png",
     "away": "بارتيزان",
@@ -1488,6 +2046,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/02/21",
+    "round": "الجولة 24",
+    "status": "قريباً",
     "home": "يافور إيفانييتسا",
     "homeLogo": "https://jdwel.com/image/teams/3332.png",
     "away": "ملادوست لوتشاني",
@@ -1496,6 +2057,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/02/21",
+    "round": "الجولة 24",
+    "status": "قريباً",
     "home": "رادنيتشكي نيش",
     "homeLogo": "https://jdwel.com/image/teams/ser_radni%C4%8Dki_nis.png",
     "away": "IMT نوفي بيوغراد",
@@ -1504,6 +2068,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/02/21",
+    "round": "الجولة 24",
+    "status": "قريباً",
     "home": "رادنيك سوردوليتسا",
     "homeLogo": "https://jdwel.com/image/teams/3326.png",
     "away": "نابريداك",
@@ -1512,6 +2079,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/02/21",
+    "round": "الجولة 24",
+    "status": "قريباً",
     "home": "سبارتاك زلايتبور",
     "homeLogo": "https://jdwel.com/image/teams/ser_spartak_subotica.png",
     "away": "رادنيتشكي كراغوييفاتس",
@@ -1520,6 +2090,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/02/21",
+    "round": "الجولة 24",
+    "status": "قريباً",
     "home": "باتشكا توبولا",
     "homeLogo": "https://jdwel.com/image/teams/2446.png",
     "away": "تشوكاريتشكي",
@@ -1528,6 +2101,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/02/21",
+    "round": "الجولة 24",
+    "status": "قريباً",
     "home": "فويفودينا",
     "homeLogo": "https://jdwel.com/image/teams/2549.png",
     "away": "نوفي بازار",
@@ -1536,6 +2112,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/02/21",
+    "round": "الجولة 24",
+    "status": "قريباً",
     "home": "أو إف كيه بيوغراد",
     "homeLogo": "https://jdwel.com/image/teams/2548.png",
     "away": "زليزنكار بانسيفو",
@@ -1544,6 +2123,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/02/28",
+    "round": "الجولة 25",
+    "status": "قريباً",
     "home": "تشوكاريتشكي",
     "homeLogo": "https://jdwel.com/image/teams/2550.png",
     "away": "ملادوست لوتشاني",
@@ -1552,6 +2134,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/02/28",
+    "round": "الجولة 25",
+    "status": "قريباً",
     "home": "IMT نوفي بيوغراد",
     "homeLogo": "https://jdwel.com/image/teams/2553.png",
     "away": "رادنيك سوردوليتسا",
@@ -1560,6 +2145,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/02/28",
+    "round": "الجولة 25",
+    "status": "قريباً",
     "home": "نابريداك",
     "homeLogo": "https://jdwel.com/image/teams/2551.png",
     "away": "سبارتاك زلايتبور",
@@ -1568,6 +2156,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/02/28",
+    "round": "الجولة 25",
+    "status": "قريباً",
     "home": "نوفي بازار",
     "homeLogo": "https://jdwel.com/image/teams/ser_novi_pazar.png",
     "away": "باتشكا توبولا",
@@ -1576,6 +2167,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/02/28",
+    "round": "الجولة 25",
+    "status": "قريباً",
     "home": "بارتيزان",
     "homeLogo": "https://jdwel.com/image/teams/3151.png",
     "away": "أو إف كيه بيوغراد",
@@ -1584,6 +2178,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/02/28",
+    "round": "الجولة 25",
+    "status": "قريباً",
     "home": "رادنيتشكي كراغوييفاتس",
     "homeLogo": "https://jdwel.com/image/teams/2547.png",
     "away": "سرفينا زفيزدا",
@@ -1592,6 +2189,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/02/28",
+    "round": "الجولة 25",
+    "status": "قريباً",
     "home": "رادنيتشكي نيش",
     "homeLogo": "https://jdwel.com/image/teams/ser_radni%C4%8Dki_nis.png",
     "away": "يافور إيفانييتسا",
@@ -1600,6 +2200,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/02/28",
+    "round": "الجولة 25",
+    "status": "قريباً",
     "home": "زليزنكار بانسيفو",
     "homeLogo": "https://jdwel.com/image/teams/2552.png",
     "away": "فويفودينا",
@@ -1608,6 +2211,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/03/08",
+    "round": "الجولة 26",
+    "status": "قريباً",
     "home": "سرفينا زفيزدا",
     "homeLogo": "https://jdwel.com/image/teams/1094.png",
     "away": "نابريداك",
@@ -1616,6 +2222,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/03/08",
+    "round": "الجولة 26",
+    "status": "قريباً",
     "home": "يافور إيفانييتسا",
     "homeLogo": "https://jdwel.com/image/teams/3332.png",
     "away": "تشوكاريتشكي",
@@ -1624,6 +2233,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/03/08",
+    "round": "الجولة 26",
+    "status": "قريباً",
     "home": "ملادوست لوتشاني",
     "homeLogo": "https://jdwel.com/image/teams/ser_mladost_lu__ani.png",
     "away": "نوفي بازار",
@@ -1632,6 +2244,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/03/08",
+    "round": "الجولة 26",
+    "status": "قريباً",
     "home": "رادنيك سوردوليتسا",
     "homeLogo": "https://jdwel.com/image/teams/3326.png",
     "away": "رادنيتشكي نيش",
@@ -1640,6 +2255,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/03/08",
+    "round": "الجولة 26",
+    "status": "قريباً",
     "home": "سبارتاك زلايتبور",
     "homeLogo": "https://jdwel.com/image/teams/ser_spartak_subotica.png",
     "away": "IMT نوفي بيوغراد",
@@ -1648,6 +2266,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/03/08",
+    "round": "الجولة 26",
+    "status": "قريباً",
     "home": "باتشكا توبولا",
     "homeLogo": "https://jdwel.com/image/teams/2446.png",
     "away": "زليزنكار بانسيفو",
@@ -1656,6 +2277,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/03/08",
+    "round": "الجولة 26",
+    "status": "قريباً",
     "home": "فويفودينا",
     "homeLogo": "https://jdwel.com/image/teams/2549.png",
     "away": "بارتيزان",
@@ -1664,6 +2288,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/03/08",
+    "round": "الجولة 26",
+    "status": "قريباً",
     "home": "أو إف كيه بيوغراد",
     "homeLogo": "https://jdwel.com/image/teams/2548.png",
     "away": "رادنيتشكي كراغوييفاتس",
@@ -1672,6 +2299,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/03/14",
+    "round": "الجولة 27",
+    "status": "قريباً",
     "home": "IMT نوفي بيوغراد",
     "homeLogo": "https://jdwel.com/image/teams/2553.png",
     "away": "سرفينا زفيزدا",
@@ -1680,6 +2310,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/03/14",
+    "round": "الجولة 27",
+    "status": "قريباً",
     "home": "نابريداك",
     "homeLogo": "https://jdwel.com/image/teams/2551.png",
     "away": "أو إف كيه بيوغراد",
@@ -1688,6 +2321,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/03/14",
+    "round": "الجولة 27",
+    "status": "قريباً",
     "home": "نوفي بازار",
     "homeLogo": "https://jdwel.com/image/teams/ser_novi_pazar.png",
     "away": "تشوكاريتشكي",
@@ -1696,6 +2332,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/03/14",
+    "round": "الجولة 27",
+    "status": "قريباً",
     "home": "بارتيزان",
     "homeLogo": "https://jdwel.com/image/teams/3151.png",
     "away": "باتشكا توبولا",
@@ -1704,6 +2343,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/03/14",
+    "round": "الجولة 27",
+    "status": "قريباً",
     "home": "رادنيتشكي كراغوييفاتس",
     "homeLogo": "https://jdwel.com/image/teams/2547.png",
     "away": "فويفودينا",
@@ -1712,6 +2354,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/03/14",
+    "round": "الجولة 27",
+    "status": "قريباً",
     "home": "رادنيتشكي نيش",
     "homeLogo": "https://jdwel.com/image/teams/ser_radni%C4%8Dki_nis.png",
     "away": "سبارتاك زلايتبور",
@@ -1720,6 +2365,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/03/14",
+    "round": "الجولة 27",
+    "status": "قريباً",
     "home": "رادنيك سوردوليتسا",
     "homeLogo": "https://jdwel.com/image/teams/3326.png",
     "away": "يافور إيفانييتسا",
@@ -1728,6 +2376,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/03/14",
+    "round": "الجولة 27",
+    "status": "قريباً",
     "home": "زليزنكار بانسيفو",
     "homeLogo": "https://jdwel.com/image/teams/2552.png",
     "away": "ملادوست لوتشاني",
@@ -1736,6 +2387,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/03/21",
+    "round": "الجولة 28",
+    "status": "قريباً",
     "home": "سرفينا زفيزدا",
     "homeLogo": "https://jdwel.com/image/teams/1094.png",
     "away": "رادنيتشكي نيش",
@@ -1744,6 +2398,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/03/21",
+    "round": "الجولة 28",
+    "status": "قريباً",
     "home": "تشوكاريتشكي",
     "homeLogo": "https://jdwel.com/image/teams/2550.png",
     "away": "زليزنكار بانسيفو",
@@ -1752,6 +2409,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/03/21",
+    "round": "الجولة 28",
+    "status": "قريباً",
     "home": "يافور إيفانييتسا",
     "homeLogo": "https://jdwel.com/image/teams/3332.png",
     "away": "نوفي بازار",
@@ -1760,6 +2420,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/03/21",
+    "round": "الجولة 28",
+    "status": "قريباً",
     "home": "ملادوست لوتشاني",
     "homeLogo": "https://jdwel.com/image/teams/ser_mladost_lu__ani.png",
     "away": "بارتيزان",
@@ -1768,6 +2431,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/03/21",
+    "round": "الجولة 28",
+    "status": "قريباً",
     "home": "سبارتاك زلايتبور",
     "homeLogo": "https://jdwel.com/image/teams/ser_spartak_subotica.png",
     "away": "رادنيك سوردوليتسا",
@@ -1776,6 +2442,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/03/21",
+    "round": "الجولة 28",
+    "status": "قريباً",
     "home": "باتشكا توبولا",
     "homeLogo": "https://jdwel.com/image/teams/2446.png",
     "away": "رادنيتشكي كراغوييفاتس",
@@ -1784,6 +2453,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/03/21",
+    "round": "الجولة 28",
+    "status": "قريباً",
     "home": "فويفودينا",
     "homeLogo": "https://jdwel.com/image/teams/2549.png",
     "away": "نابريداك",
@@ -1792,6 +2464,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/03/21",
+    "round": "الجولة 28",
+    "status": "قريباً",
     "home": "أو إف كيه بيوغراد",
     "homeLogo": "https://jdwel.com/image/teams/2548.png",
     "away": "IMT نوفي بيوغراد",
@@ -1800,6 +2475,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/04/04",
+    "round": "الجولة 29",
+    "status": "قريباً",
     "home": "IMT نوفي بيوغراد",
     "homeLogo": "https://jdwel.com/image/teams/2553.png",
     "away": "فويفودينا",
@@ -1808,6 +2486,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/04/04",
+    "round": "الجولة 29",
+    "status": "قريباً",
     "home": "نابريداك",
     "homeLogo": "https://jdwel.com/image/teams/2551.png",
     "away": "باتشكا توبولا",
@@ -1816,6 +2497,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/04/04",
+    "round": "الجولة 29",
+    "status": "قريباً",
     "home": "بارتيزان",
     "homeLogo": "https://jdwel.com/image/teams/3151.png",
     "away": "تشوكاريتشكي",
@@ -1824,6 +2508,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/04/04",
+    "round": "الجولة 29",
+    "status": "قريباً",
     "home": "رادنيتشكي كراغوييفاتس",
     "homeLogo": "https://jdwel.com/image/teams/2547.png",
     "away": "ملادوست لوتشاني",
@@ -1832,6 +2519,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/04/04",
+    "round": "الجولة 29",
+    "status": "قريباً",
     "home": "رادنيتشكي نيش",
     "homeLogo": "https://jdwel.com/image/teams/ser_radni%C4%8Dki_nis.png",
     "away": "أو إف كيه بيوغراد",
@@ -1840,6 +2530,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/04/04",
+    "round": "الجولة 29",
+    "status": "قريباً",
     "home": "رادنيك سوردوليتسا",
     "homeLogo": "https://jdwel.com/image/teams/3326.png",
     "away": "سرفينا زفيزدا",
@@ -1848,6 +2541,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/04/04",
+    "round": "الجولة 29",
+    "status": "قريباً",
     "home": "سبارتاك زلايتبور",
     "homeLogo": "https://jdwel.com/image/teams/ser_spartak_subotica.png",
     "away": "يافور إيفانييتسا",
@@ -1856,6 +2552,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/04/04",
+    "round": "الجولة 29",
+    "status": "قريباً",
     "home": "زليزنكار بانسيفو",
     "homeLogo": "https://jdwel.com/image/teams/2552.png",
     "away": "نوفي بازار",
@@ -1864,6 +2563,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأربعاء 2026/04/08",
+    "round": "الجولة 30",
+    "status": "قريباً",
     "home": "سرفينا زفيزدا",
     "homeLogo": "https://jdwel.com/image/teams/1094.png",
     "away": "سبارتاك زلايتبور",
@@ -1872,6 +2574,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأربعاء 2026/04/08",
+    "round": "الجولة 30",
+    "status": "قريباً",
     "home": "تشوكاريتشكي",
     "homeLogo": "https://jdwel.com/image/teams/2550.png",
     "away": "رادنيتشكي كراغوييفاتس",
@@ -1880,6 +2585,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأربعاء 2026/04/08",
+    "round": "الجولة 30",
+    "status": "قريباً",
     "home": "يافور إيفانييتسا",
     "homeLogo": "https://jdwel.com/image/teams/3332.png",
     "away": "زليزنكار بانسيفو",
@@ -1888,6 +2596,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأربعاء 2026/04/08",
+    "round": "الجولة 30",
+    "status": "قريباً",
     "home": "ملادوست لوتشاني",
     "homeLogo": "https://jdwel.com/image/teams/ser_mladost_lu__ani.png",
     "away": "نابريداك",
@@ -1896,6 +2607,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأربعاء 2026/04/08",
+    "round": "الجولة 30",
+    "status": "قريباً",
     "home": "نوفي بازار",
     "homeLogo": "https://jdwel.com/image/teams/ser_novi_pazar.png",
     "away": "بارتيزان",
@@ -1904,6 +2618,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأربعاء 2026/04/08",
+    "round": "الجولة 30",
+    "status": "قريباً",
     "home": "باتشكا توبولا",
     "homeLogo": "https://jdwel.com/image/teams/2446.png",
     "away": "IMT نوفي بيوغراد",
@@ -1912,6 +2629,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأربعاء 2026/04/08",
+    "round": "الجولة 30",
+    "status": "قريباً",
     "home": "فويفودينا",
     "homeLogo": "https://jdwel.com/image/teams/2549.png",
     "away": "رادنيتشكي نيش",
@@ -1920,6 +2640,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأربعاء 2026/04/08",
+    "round": "الجولة 30",
+    "status": "قريباً",
     "home": "أو إف كيه بيوغراد",
     "homeLogo": "https://jdwel.com/image/teams/2548.png",
     "away": "رادنيك سوردوليتسا",

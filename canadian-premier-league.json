@@ -1,5 +1,8 @@
 [
   {
+    "date": "الأثنين 2025/11/10",
+    "round": "",
+    "status": "انتهت",
     "home": "أتلتيكو أوتاوا",
     "homeLogo": "https://jdwel.com/image/teams/514.png",
     "away": "كافالري",
@@ -8,6 +11,9 @@
     "time": "12:00 ص"
   },
   {
+    "date": "الأثنين 2025/11/03",
+    "round": "",
+    "status": "انتهت",
     "home": "فورجي",
     "homeLogo": "https://jdwel.com/image/teams/519.png",
     "away": "كافالري",
@@ -16,6 +22,9 @@
     "time": "11:00 م"
   },
   {
+    "date": "الأثنين 2025/10/27",
+    "round": "",
+    "status": "انتهت",
     "home": "كافالري",
     "homeLogo": "https://jdwel.com/image/teams/518.png",
     "away": "يورك يونايتد",
@@ -24,6 +33,9 @@
     "time": "1:00 ص"
   },
   {
+    "date": "الأحد 2025/10/26",
+    "round": "",
+    "status": "انتهت",
     "home": "فورجي",
     "homeLogo": "https://jdwel.com/image/teams/519.png",
     "away": "أتلتيكو أوتاوا",
@@ -32,6 +44,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الخميس 2025/10/23",
+    "round": "",
+    "status": "انتهت",
     "home": "هاليفاكس واندررز",
     "homeLogo": "https://jdwel.com/image/teams/515.png",
     "away": "يورك يونايتد",
@@ -40,6 +55,9 @@
     "time": "1:30 ص"
   },
   {
+    "date": "السبت 2025/10/18",
+    "round": "الجولة 28",
+    "status": "انتهت",
     "home": "هاليفاكس واندررز",
     "homeLogo": "https://jdwel.com/image/teams/515.png",
     "away": "أتلتيكو أوتاوا",
@@ -48,6 +66,9 @@
     "time": "11:00 م"
   },
   {
+    "date": "السبت 2025/10/18",
+    "round": "الجولة 28",
+    "status": "انتهت",
     "home": "فورجي",
     "homeLogo": "https://jdwel.com/image/teams/519.png",
     "away": "يورك يونايتد",
@@ -56,6 +77,9 @@
     "time": "11:00 م"
   },
   {
+    "date": "السبت 2025/10/18",
+    "round": "الجولة 28",
+    "status": "انتهت",
     "home": "فانكوفر",
     "homeLogo": "https://jdwel.com/image/teams/512.png",
     "away": "كافالري",
@@ -64,6 +88,9 @@
     "time": "11:00 م"
   },
   {
+    "date": "السبت 2025/10/18",
+    "round": "الجولة 28",
+    "status": "انتهت",
     "home": "باسيفيك",
     "homeLogo": "https://jdwel.com/image/teams/513.png",
     "away": "فالور",
@@ -72,6 +99,9 @@
     "time": "11:00 م"
   },
   {
+    "date": "الأحد 2025/10/12",
+    "round": "الجولة 27",
+    "status": "انتهت",
     "home": "أتلتيكو أوتاوا",
     "homeLogo": "https://jdwel.com/image/teams/514.png",
     "away": "فانكوفر",
@@ -80,6 +110,9 @@
     "time": "10:00 م"
   },
   {
+    "date": "السبت 2025/10/11",
+    "round": "الجولة 27",
+    "status": "انتهت",
     "home": "فالور",
     "homeLogo": "https://jdwel.com/image/teams/516.png",
     "away": "هاليفاكس واندررز",
@@ -88,6 +121,9 @@
     "time": "10:00 م"
   },
   {
+    "date": "السبت 2025/10/11",
+    "round": "الجولة 27",
+    "status": "انتهت",
     "home": "كافالري",
     "homeLogo": "https://jdwel.com/image/teams/518.png",
     "away": "فورجي",
@@ -96,6 +132,9 @@
     "time": "4:30 ص"
   },
   {
+    "date": "الجمعة 2025/10/10",
+    "round": "الجولة 27",
+    "status": "انتهت",
     "home": "يورك يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/517.png",
     "away": "باسيفيك",
@@ -104,6 +143,9 @@
     "time": "2:30 ص"
   },
   {
+    "date": "الأثنين 2025/10/06",
+    "round": "الجولة 26",
+    "status": "انتهت",
     "home": "باسيفيك",
     "homeLogo": "https://jdwel.com/image/teams/513.png",
     "away": "كافالري",
@@ -112,6 +154,9 @@
     "time": "1:00 ص"
   },
   {
+    "date": "الأحد 2025/10/05",
+    "round": "الجولة 26",
+    "status": "انتهت",
     "home": "فالور",
     "homeLogo": "https://jdwel.com/image/teams/516.png",
     "away": "أتلتيكو أوتاوا",
@@ -120,6 +165,9 @@
     "time": "10:00 م"
   },
   {
+    "date": "السبت 2025/10/04",
+    "round": "الجولة 26",
+    "status": "انتهت",
     "home": "فورجي",
     "homeLogo": "https://jdwel.com/image/teams/519.png",
     "away": "فانكوفر",
@@ -128,6 +176,9 @@
     "time": "11:30 م"
   },
   {
+    "date": "السبت 2025/10/04",
+    "round": "الجولة 26",
+    "status": "انتهت",
     "home": "هاليفاكس واندررز",
     "homeLogo": "https://jdwel.com/image/teams/515.png",
     "away": "يورك يونايتد",
@@ -136,6 +187,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الأثنين 2025/09/29",
+    "round": "الجولة 25",
+    "status": "انتهت",
     "home": "فانكوفر",
     "homeLogo": "https://jdwel.com/image/teams/512.png",
     "away": "هاليفاكس واندررز",
@@ -144,6 +198,9 @@
     "time": "1:00 ص"
   },
   {
+    "date": "الأحد 2025/09/28",
+    "round": "الجولة 25",
+    "status": "انتهت",
     "home": "يورك يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/517.png",
     "away": "فالور",
@@ -152,6 +209,9 @@
     "time": "10:00 م"
   },
   {
+    "date": "السبت 2025/09/27",
+    "round": "الجولة 25",
+    "status": "انتهت",
     "home": "فورجي",
     "homeLogo": "https://jdwel.com/image/teams/519.png",
     "away": "باسيفيك",
@@ -160,6 +220,9 @@
     "time": "11:00 م"
   },
   {
+    "date": "السبت 2025/09/27",
+    "round": "الجولة 25",
+    "status": "انتهت",
     "home": "أتلتيكو أوتاوا",
     "homeLogo": "https://jdwel.com/image/teams/514.png",
     "away": "كافالري",
@@ -168,6 +231,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الأثنين 2025/09/22",
+    "round": "الجولة 24",
+    "status": "انتهت",
     "home": "فانكوفر",
     "homeLogo": "https://jdwel.com/image/teams/512.png",
     "away": "يورك يونايتد",
@@ -176,6 +242,9 @@
     "time": "1:00 ص"
   },
   {
+    "date": "الأحد 2025/09/21",
+    "round": "الجولة 24",
+    "status": "انتهت",
     "home": "أتلتيكو أوتاوا",
     "homeLogo": "https://jdwel.com/image/teams/514.png",
     "away": "فورجي",
@@ -184,6 +253,9 @@
     "time": "10:00 م"
   },
   {
+    "date": "الأحد 2025/09/21",
+    "round": "الجولة 24",
+    "status": "انتهت",
     "home": "كافالري",
     "homeLogo": "https://jdwel.com/image/teams/518.png",
     "away": "فالور",
@@ -192,6 +264,9 @@
     "time": "1:00 ص"
   },
   {
+    "date": "السبت 2025/09/20",
+    "round": "الجولة 24",
+    "status": "انتهت",
     "home": "هاليفاكس واندررز",
     "homeLogo": "https://jdwel.com/image/teams/515.png",
     "away": "باسيفيك",
@@ -200,6 +275,9 @@
     "time": "10:00 م"
   },
   {
+    "date": "الأحد 2025/09/14",
+    "round": "الجولة 23",
+    "status": "انتهت",
     "home": "يورك يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/517.png",
     "away": "أتلتيكو أوتاوا",
@@ -208,6 +286,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الأحد 2025/09/14",
+    "round": "الجولة 23",
+    "status": "انتهت",
     "home": "باسيفيك",
     "homeLogo": "https://jdwel.com/image/teams/513.png",
     "away": "فانكوفر",
@@ -216,6 +297,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2025/09/13",
+    "round": "الجولة 23",
+    "status": "انتهت",
     "home": "كافالري",
     "homeLogo": "https://jdwel.com/image/teams/518.png",
     "away": "هاليفاكس واندررز",
@@ -224,6 +308,9 @@
     "time": "11:00 م"
   },
   {
+    "date": "الجمعة 2025/09/12",
+    "round": "الجولة 23",
+    "status": "انتهت",
     "home": "فالور",
     "homeLogo": "https://jdwel.com/image/teams/516.png",
     "away": "فورجي",
@@ -232,6 +319,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2025/09/07",
+    "round": "الجولة 22",
+    "status": "انتهت",
     "home": "أتلتيكو أوتاوا",
     "homeLogo": "https://jdwel.com/image/teams/514.png",
     "away": "باسيفيك",
@@ -240,6 +330,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2025/09/06",
+    "round": "الجولة 22",
+    "status": "انتهت",
     "home": "فورجي",
     "homeLogo": "https://jdwel.com/image/teams/519.png",
     "away": "هاليفاكس واندررز",
@@ -248,6 +341,9 @@
     "time": "11:00 م"
   },
   {
+    "date": "السبت 2025/09/06",
+    "round": "الجولة 22",
+    "status": "انتهت",
     "home": "فانكوفر",
     "homeLogo": "https://jdwel.com/image/teams/512.png",
     "away": "فالور",
@@ -256,6 +352,9 @@
     "time": "5:30 ص"
   },
   {
+    "date": "السبت 2025/09/06",
+    "round": "الجولة 22",
+    "status": "انتهت",
     "home": "يورك يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/517.png",
     "away": "كافالري",
@@ -264,6 +363,9 @@
     "time": "2:30 ص"
   },
   {
+    "date": "الأثنين 2025/09/01",
+    "round": "الجولة 21",
+    "status": "انتهت",
     "home": "هاليفاكس واندررز",
     "homeLogo": "https://jdwel.com/image/teams/515.png",
     "away": "يورك يونايتد",
@@ -272,6 +374,9 @@
     "time": "10:00 م"
   },
   {
+    "date": "الأحد 2025/08/31",
+    "round": "الجولة 21",
+    "status": "انتهت",
     "home": "فالور",
     "homeLogo": "https://jdwel.com/image/teams/516.png",
     "away": "باسيفيك",
@@ -280,6 +385,9 @@
     "time": "10:00 م"
   },
   {
+    "date": "الأحد 2025/08/31",
+    "round": "الجولة 21",
+    "status": "انتهت",
     "home": "أتلتيكو أوتاوا",
     "homeLogo": "https://jdwel.com/image/teams/514.png",
     "away": "فانكوفر",
@@ -288,6 +396,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2025/08/30",
+    "round": "الجولة 21",
+    "status": "انتهت",
     "home": "كافالري",
     "homeLogo": "https://jdwel.com/image/teams/518.png",
     "away": "فورجي",
@@ -296,6 +407,9 @@
     "time": "11:00 م"
   },
   {
+    "date": "الأحد 2025/08/24",
+    "round": "الجولة 20",
+    "status": "انتهت",
     "home": "يورك يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/517.png",
     "away": "باسيفيك",
@@ -304,6 +418,9 @@
     "time": "11:00 م"
   },
   {
+    "date": "الأحد 2025/08/24",
+    "round": "الجولة 20",
+    "status": "انتهت",
     "home": "أتلتيكو أوتاوا",
     "homeLogo": "https://jdwel.com/image/teams/514.png",
     "away": "كافالري",
@@ -312,6 +429,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2025/08/23",
+    "round": "الجولة 20",
+    "status": "انتهت",
     "home": "فانكوفر",
     "homeLogo": "https://jdwel.com/image/teams/512.png",
     "away": "فورجي",
@@ -320,6 +440,9 @@
     "time": "5:00 ص"
   },
   {
+    "date": "السبت 2025/08/23",
+    "round": "الجولة 20",
+    "status": "انتهت",
     "home": "هاليفاكس واندررز",
     "homeLogo": "https://jdwel.com/image/teams/515.png",
     "away": "فالور",
@@ -328,6 +451,9 @@
     "time": "1:00 ص"
   },
   {
+    "date": "الأثنين 2025/08/18",
+    "round": "الجولة 19",
+    "status": "انتهت",
     "home": "كافالري",
     "homeLogo": "https://jdwel.com/image/teams/518.png",
     "away": "فانكوفر",
@@ -336,6 +462,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2025/08/17",
+    "round": "الجولة 19",
+    "status": "انتهت",
     "home": "فورجي",
     "homeLogo": "https://jdwel.com/image/teams/519.png",
     "away": "أتلتيكو أوتاوا",
@@ -344,6 +473,9 @@
     "time": "11:00 م"
   },
   {
+    "date": "الأحد 2025/08/17",
+    "round": "الجولة 19",
+    "status": "انتهت",
     "home": "فالور",
     "homeLogo": "https://jdwel.com/image/teams/516.png",
     "away": "يورك يونايتد",
@@ -352,6 +484,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "الأحد 2025/08/17",
+    "round": "الجولة 19",
+    "status": "انتهت",
     "home": "باسيفيك",
     "homeLogo": "https://jdwel.com/image/teams/513.png",
     "away": "هاليفاكس واندررز",
@@ -360,6 +495,9 @@
     "time": "1:00 ص"
   },
   {
+    "date": "الأثنين 2025/08/11",
+    "round": "الجولة 18",
+    "status": "انتهت",
     "home": "فانكوفر",
     "homeLogo": "https://jdwel.com/image/teams/512.png",
     "away": "باسيفيك",
@@ -368,6 +506,9 @@
     "time": "1:00 ص"
   },
   {
+    "date": "الأحد 2025/08/10",
+    "round": "الجولة 18",
+    "status": "انتهت",
     "home": "فالور",
     "homeLogo": "https://jdwel.com/image/teams/516.png",
     "away": "أتلتيكو أوتاوا",
@@ -376,6 +517,9 @@
     "time": "10:00 م"
   },
   {
+    "date": "الأحد 2025/08/10",
+    "round": "الجولة 18",
+    "status": "انتهت",
     "home": "كافالري",
     "homeLogo": "https://jdwel.com/image/teams/518.png",
     "away": "هاليفاكس واندررز",
@@ -384,6 +528,9 @@
     "time": "12:00 ص"
   },
   {
+    "date": "السبت 2025/08/09",
+    "round": "الجولة 18",
+    "status": "انتهت",
     "home": "يورك يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/517.png",
     "away": "فورجي",
@@ -392,6 +539,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الثلاثاء 2025/08/05",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "باسيفيك",
     "homeLogo": "https://jdwel.com/image/teams/513.png",
     "away": "كافالري",
@@ -400,6 +550,9 @@
     "time": "1:00 ص"
   },
   {
+    "date": "الأثنين 2025/08/04",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "هاليفاكس واندررز",
     "homeLogo": "https://jdwel.com/image/teams/515.png",
     "away": "فانكوفر",
@@ -408,6 +561,9 @@
     "time": "10:00 م"
   },
   {
+    "date": "الأحد 2025/08/03",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "أتلتيكو أوتاوا",
     "homeLogo": "https://jdwel.com/image/teams/514.png",
     "away": "يورك يونايتد",
@@ -416,6 +572,9 @@
     "time": "11:00 م"
   },
   {
+    "date": "الأحد 2025/08/03",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "فورجي",
     "homeLogo": "https://jdwel.com/image/teams/519.png",
     "away": "فالور",
@@ -424,6 +583,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأربعاء 2025/07/30",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "فالور",
     "homeLogo": "https://jdwel.com/image/teams/516.png",
     "away": "كافالري",
@@ -432,6 +594,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2025/07/27",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "باسيفيك",
     "homeLogo": "https://jdwel.com/image/teams/513.png",
     "away": "أتلتيكو أوتاوا",
@@ -440,6 +605,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2025/07/27",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "كافالري",
     "homeLogo": "https://jdwel.com/image/teams/518.png",
     "away": "يورك يونايتد",
@@ -448,6 +616,9 @@
     "time": "12:00 ص"
   },
   {
+    "date": "السبت 2025/07/26",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "فانكوفر",
     "homeLogo": "https://jdwel.com/image/teams/512.png",
     "away": "فالور",
@@ -456,6 +627,9 @@
     "time": "5:00 ص"
   },
   {
+    "date": "السبت 2025/07/26",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "هاليفاكس واندررز",
     "homeLogo": "https://jdwel.com/image/teams/515.png",
     "away": "فورجي",
@@ -464,6 +638,9 @@
     "time": "1:00 ص"
   },
   {
+    "date": "الأحد 2025/07/20",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "فالور",
     "homeLogo": "https://jdwel.com/image/teams/516.png",
     "away": "كافالري",
@@ -472,6 +649,9 @@
     "time": "10:00 م"
   },
   {
+    "date": "السبت 2025/07/19",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "يورك يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/517.png",
     "away": "فانكوفر",
@@ -480,6 +660,9 @@
     "time": "11:00 م"
   },
   {
+    "date": "السبت 2025/07/19",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "أتلتيكو أوتاوا",
     "homeLogo": "https://jdwel.com/image/teams/514.png",
     "away": "هاليفاكس واندررز",
@@ -488,6 +671,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2025/07/19",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "فورجي",
     "homeLogo": "https://jdwel.com/image/teams/519.png",
     "away": "باسيفيك",
@@ -496,6 +682,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأثنين 2025/07/14",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "فانكوفر",
     "homeLogo": "https://jdwel.com/image/teams/512.png",
     "away": "كافالري",
@@ -504,6 +693,9 @@
     "time": "4:00 ص"
   },
   {
+    "date": "الأثنين 2025/07/14",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "يورك يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/517.png",
     "away": "فالور",
@@ -512,6 +704,9 @@
     "time": "1:00 ص"
   },
   {
+    "date": "الأحد 2025/07/13",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "باسيفيك",
     "homeLogo": "https://jdwel.com/image/teams/513.png",
     "away": "هاليفاكس واندررز",
@@ -520,6 +715,9 @@
     "time": "1:00 ص"
   },
   {
+    "date": "السبت 2025/07/12",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "أتلتيكو أوتاوا",
     "homeLogo": "https://jdwel.com/image/teams/514.png",
     "away": "فورجي",
@@ -528,6 +726,9 @@
     "time": "10:00 م"
   },
   {
+    "date": "الأحد 2025/07/06",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "فورجي",
     "homeLogo": "https://jdwel.com/image/teams/519.png",
     "away": "فانكوفر",
@@ -536,6 +737,9 @@
     "time": "12:00 ص"
   },
   {
+    "date": "الثلاثاء 2025/07/01",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "هاليفاكس واندررز",
     "homeLogo": "https://jdwel.com/image/teams/515.png",
     "away": "فالور",
@@ -544,6 +748,9 @@
     "time": "10:00 م"
   },
   {
+    "date": "الأحد 2025/06/29",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "فورجي",
     "homeLogo": "https://jdwel.com/image/teams/519.png",
     "away": "يورك يونايتد",
@@ -552,6 +759,9 @@
     "time": "11:00 م"
   },
   {
+    "date": "الأحد 2025/06/29",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "كافالري",
     "homeLogo": "https://jdwel.com/image/teams/518.png",
     "away": "أتلتيكو أوتاوا",
@@ -560,6 +770,9 @@
     "time": "1:00 ص"
   },
   {
+    "date": "السبت 2025/06/28",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "باسيفيك",
     "homeLogo": "https://jdwel.com/image/teams/513.png",
     "away": "فانكوفر",
@@ -568,6 +781,9 @@
     "time": "5:00 ص"
   },
   {
+    "date": "الأثنين 2025/06/23",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "كافالري",
     "homeLogo": "https://jdwel.com/image/teams/518.png",
     "away": "باسيفيك",
@@ -576,6 +792,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2025/06/22",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "فالور",
     "homeLogo": "https://jdwel.com/image/teams/516.png",
     "away": "فورجي",
@@ -584,6 +803,9 @@
     "time": "11:30 م"
   },
   {
+    "date": "الأحد 2025/06/22",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "يورك يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/517.png",
     "away": "أتلتيكو أوتاوا",
@@ -592,6 +814,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "السبت 2025/06/21",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "هاليفاكس واندررز",
     "homeLogo": "https://jdwel.com/image/teams/515.png",
     "away": "فانكوفر",
@@ -600,6 +825,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الأثنين 2025/06/16",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "أتلتيكو أوتاوا",
     "homeLogo": "https://jdwel.com/image/teams/514.png",
     "away": "فالور",
@@ -608,6 +836,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2025/06/15",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "فانكوفر",
     "homeLogo": "https://jdwel.com/image/teams/512.png",
     "away": "فورجي",
@@ -616,6 +847,9 @@
     "time": "11:00 م"
   },
   {
+    "date": "الأحد 2025/06/15",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "باسيفيك",
     "homeLogo": "https://jdwel.com/image/teams/513.png",
     "away": "يورك يونايتد",
@@ -624,6 +858,9 @@
     "time": "1:00 ص"
   },
   {
+    "date": "السبت 2025/06/14",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "هاليفاكس واندررز",
     "homeLogo": "https://jdwel.com/image/teams/515.png",
     "away": "كافالري",
@@ -632,6 +869,9 @@
     "time": "10:00 م"
   },
   {
+    "date": "الأثنين 2025/06/09",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "كافالري",
     "homeLogo": "https://jdwel.com/image/teams/518.png",
     "away": "يورك يونايتد",
@@ -640,6 +880,9 @@
     "time": "1:00 ص"
   },
   {
+    "date": "الأحد 2025/06/08",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "فورجي",
     "homeLogo": "https://jdwel.com/image/teams/519.png",
     "away": "هاليفاكس واندررز",
@@ -648,6 +891,9 @@
     "time": "10:30 م"
   },
   {
+    "date": "الأحد 2025/06/08",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "باسيفيك",
     "homeLogo": "https://jdwel.com/image/teams/513.png",
     "away": "أتلتيكو أوتاوا",
@@ -656,6 +902,9 @@
     "time": "1:00 ص"
   },
   {
+    "date": "الأربعاء 2025/06/04",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "فالور",
     "homeLogo": "https://jdwel.com/image/teams/516.png",
     "away": "فانكوفر",
@@ -664,6 +913,9 @@
     "time": "7:30 م"
   },
   {
+    "date": "الأثنين 2025/06/02",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "فالور",
     "homeLogo": "https://jdwel.com/image/teams/516.png",
     "away": "باسيفيك",
@@ -672,6 +924,9 @@
     "time": "1:00 ص"
   },
   {
+    "date": "الأحد 2025/06/01",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "يورك يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/517.png",
     "away": "هاليفاكس واندررز",
@@ -680,6 +935,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2025/06/01",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "فورجي",
     "homeLogo": "https://jdwel.com/image/teams/519.png",
     "away": "كافالري",
@@ -688,6 +946,9 @@
     "time": "12:00 ص"
   },
   {
+    "date": "السبت 2025/05/31",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "فانكوفر",
     "homeLogo": "https://jdwel.com/image/teams/512.png",
     "away": "أتلتيكو أوتاوا",
@@ -696,6 +957,9 @@
     "time": "5:00 ص"
   },
   {
+    "date": "الأثنين 2025/05/26",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "كافالري",
     "homeLogo": "https://jdwel.com/image/teams/518.png",
     "away": "فالور",
@@ -704,6 +968,9 @@
     "time": "12:00 ص"
   },
   {
+    "date": "الأحد 2025/05/25",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "يورك يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/517.png",
     "away": "فانكوفر",
@@ -712,6 +979,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الأحد 2025/05/25",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "باسيفيك",
     "homeLogo": "https://jdwel.com/image/teams/513.png",
     "away": "فورجي",
@@ -720,6 +990,9 @@
     "time": "12:00 ص"
   },
   {
+    "date": "السبت 2025/05/24",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "هاليفاكس واندررز",
     "homeLogo": "https://jdwel.com/image/teams/515.png",
     "away": "أتلتيكو أوتاوا",
@@ -728,6 +1001,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الأحد 2025/05/18",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "فانكوفر",
     "homeLogo": "https://jdwel.com/image/teams/512.png",
     "away": "هاليفاكس واندررز",
@@ -736,6 +1012,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2025/05/18",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "كافالري",
     "homeLogo": "https://jdwel.com/image/teams/518.png",
     "away": "باسيفيك",
@@ -744,6 +1023,9 @@
     "time": "12:30 ص"
   },
   {
+    "date": "السبت 2025/05/17",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "فالور",
     "homeLogo": "https://jdwel.com/image/teams/516.png",
     "away": "يورك يونايتد",
@@ -752,6 +1034,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الثلاثاء 2025/05/13",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "فورجي",
     "homeLogo": "https://jdwel.com/image/teams/519.png",
     "away": "أتلتيكو أوتاوا",
@@ -760,6 +1045,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2025/05/11",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "باسيفيك",
     "homeLogo": "https://jdwel.com/image/teams/513.png",
     "away": "يورك يونايتد",
@@ -768,6 +1056,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2025/05/11",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "هاليفاكس واندررز",
     "homeLogo": "https://jdwel.com/image/teams/515.png",
     "away": "كافالري",
@@ -776,6 +1067,9 @@
     "time": "12:30 ص"
   },
   {
+    "date": "السبت 2025/05/10",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "أتلتيكو أوتاوا",
     "homeLogo": "https://jdwel.com/image/teams/514.png",
     "away": "فالور",
@@ -784,6 +1078,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الأحد 2025/05/04",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "فالور",
     "homeLogo": "https://jdwel.com/image/teams/516.png",
     "away": "فانكوفر",
@@ -792,6 +1089,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2025/05/03",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "هاليفاكس واندررز",
     "homeLogo": "https://jdwel.com/image/teams/515.png",
     "away": "فورجي",
@@ -800,6 +1100,9 @@
     "time": "11:00 م"
   },
   {
+    "date": "السبت 2025/05/03",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "أتلتيكو أوتاوا",
     "homeLogo": "https://jdwel.com/image/teams/514.png",
     "away": "باسيفيك",
@@ -808,6 +1111,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "السبت 2025/05/03",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "يورك يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/517.png",
     "away": "كافالري",
@@ -816,6 +1122,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2025/04/27",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "يورك يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/517.png",
     "away": "فورجي",
@@ -824,6 +1133,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الأحد 2025/04/27",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "فانكوفر",
     "homeLogo": "https://jdwel.com/image/teams/512.png",
     "away": "باسيفيك",
@@ -832,6 +1144,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2025/04/27",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "كافالري",
     "homeLogo": "https://jdwel.com/image/teams/518.png",
     "away": "أتلتيكو أوتاوا",
@@ -840,6 +1155,9 @@
     "time": "12:00 ص"
   },
   {
+    "date": "السبت 2025/04/26",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "فالور",
     "homeLogo": "https://jdwel.com/image/teams/516.png",
     "away": "هاليفاكس واندررز",
@@ -848,6 +1166,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2025/04/20",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "فورجي",
     "homeLogo": "https://jdwel.com/image/teams/519.png",
     "away": "فالور",
@@ -856,6 +1177,9 @@
     "time": "12:00 ص"
   },
   {
+    "date": "السبت 2025/04/19",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "هاليفاكس واندررز",
     "homeLogo": "https://jdwel.com/image/teams/515.png",
     "away": "باسيفيك",
@@ -864,6 +1188,9 @@
     "time": "9:30 م"
   },
   {
+    "date": "السبت 2025/04/19",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "أتلتيكو أوتاوا",
     "homeLogo": "https://jdwel.com/image/teams/514.png",
     "away": "يورك يونايتد",
@@ -872,6 +1199,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "السبت 2025/04/19",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "كافالري",
     "homeLogo": "https://jdwel.com/image/teams/518.png",
     "away": "فانكوفر",
@@ -880,6 +1210,9 @@
     "time": "1:00 ص"
   },
   {
+    "date": "الأثنين 2025/04/14",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "فانكوفر",
     "homeLogo": "https://jdwel.com/image/teams/512.png",
     "away": "أتلتيكو أوتاوا",
@@ -888,6 +1221,9 @@
     "time": "12:00 ص"
   },
   {
+    "date": "الأحد 2025/04/13",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "يورك يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/517.png",
     "away": "هاليفاكس واندررز",
@@ -896,6 +1232,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الأحد 2025/04/13",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "باسيفيك",
     "homeLogo": "https://jdwel.com/image/teams/513.png",
     "away": "فورجي",
@@ -904,6 +1243,9 @@
     "time": "11:00 م"
   },
   {
+    "date": "الأثنين 2025/04/07",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "فانكوفر",
     "homeLogo": "https://jdwel.com/image/teams/512.png",
     "away": "يورك يونايتد",
@@ -912,6 +1254,9 @@
     "time": "1:00 ص"
   },
   {
+    "date": "الأحد 2025/04/06",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "باسيفيك",
     "homeLogo": "https://jdwel.com/image/teams/513.png",
     "away": "فالور",
@@ -920,6 +1265,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2025/04/06",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "فورجي",
     "homeLogo": "https://jdwel.com/image/teams/519.png",
     "away": "كافالري",
@@ -928,6 +1276,9 @@
     "time": "11:30 م"
   },
   {
+    "date": "السبت 2025/04/05",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "أتلتيكو أوتاوا",
     "homeLogo": "https://jdwel.com/image/teams/514.png",
     "away": "هاليفاكس واندررز",

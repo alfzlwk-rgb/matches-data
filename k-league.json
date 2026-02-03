@@ -1,5 +1,8 @@
 [
   {
+    "date": "السبت 2026/02/28",
+    "round": "الجولة 1",
+    "status": "قريباً",
     "home": "أولسان هيونداي",
     "homeLogo": "https://jdwel.com/image/teams/3327.png",
     "away": "غانغوون",
@@ -8,6 +11,9 @@
     "time": "7:00 ص"
   },
   {
+    "date": "السبت 2026/02/28",
+    "round": "الجولة 1",
+    "status": "قريباً",
     "home": "انشيون يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/kor_incheon_united.png",
     "away": "سيئول",
@@ -16,6 +22,9 @@
     "time": "7:00 ص"
   },
   {
+    "date": "السبت 2026/02/28",
+    "round": "الجولة 1",
+    "status": "قريباً",
     "home": "غيمتشون سانغمو",
     "homeLogo": "https://jdwel.com/image/teams/2830.png",
     "away": "بوهانغ ستيلرز",
@@ -24,6 +33,9 @@
     "time": "9:30 ص"
   },
   {
+    "date": "الأحد 2026/03/01",
+    "round": "الجولة 1",
+    "status": "قريباً",
     "home": "جيونبك هيونداي موتورز",
     "homeLogo": "https://jdwel.com/image/teams/1244.png",
     "away": "بوتشون 1995",
@@ -32,6 +44,9 @@
     "time": "7:00 ص"
   },
   {
+    "date": "الأحد 2026/03/01",
+    "round": "الجولة 1",
+    "status": "قريباً",
     "home": "جيجيو يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/2824.png",
     "away": "غوانغجو",
@@ -40,6 +55,9 @@
     "time": "9:30 ص"
   },
   {
+    "date": "الأثنين 2026/03/02",
+    "round": "الجولة 1",
+    "status": "قريباً",
     "home": "دايجيون سيتيزن",
     "homeLogo": "https://jdwel.com/image/teams/2827.png",
     "away": "أنيانغ",
@@ -48,6 +66,9 @@
     "time": "7:00 ص"
   },
   {
+    "date": "السبت 2026/03/07",
+    "round": "الجولة 2",
+    "status": "قريباً",
     "home": "أولسان هيونداي",
     "homeLogo": "https://jdwel.com/image/teams/3327.png",
     "away": "سيئول",
@@ -56,6 +77,9 @@
     "time": "7:00 ص"
   },
   {
+    "date": "السبت 2026/03/07",
+    "round": "الجولة 2",
+    "status": "قريباً",
     "home": "بوهانغ ستيلرز",
     "homeLogo": "https://jdwel.com/image/teams/2823.png",
     "away": "غانغوون",
@@ -64,6 +88,9 @@
     "time": "7:00 ص"
   },
   {
+    "date": "السبت 2026/03/07",
+    "round": "الجولة 2",
+    "status": "قريباً",
     "home": "بوتشون 1995",
     "homeLogo": "https://jdwel.com/image/teams/2375.png",
     "away": "دايجيون سيتيزن",
@@ -72,6 +99,9 @@
     "time": "9:30 ص"
   },
   {
+    "date": "السبت 2026/03/07",
+    "round": "الجولة 2",
+    "status": "قريباً",
     "home": "غوانغجو",
     "homeLogo": "https://jdwel.com/image/teams/1246.png",
     "away": "انشيون يونايتد",
@@ -80,6 +110,9 @@
     "time": "9:30 ص"
   },
   {
+    "date": "الأحد 2026/03/08",
+    "round": "الجولة 2",
+    "status": "قريباً",
     "home": "غيمتشون سانغمو",
     "homeLogo": "https://jdwel.com/image/teams/2830.png",
     "away": "جيونبك هيونداي موتورز",
@@ -88,6 +121,9 @@
     "time": "7:00 ص"
   },
   {
+    "date": "الأحد 2026/03/08",
+    "round": "الجولة 2",
+    "status": "قريباً",
     "home": "أنيانغ",
     "homeLogo": "https://jdwel.com/image/teams/2005.png",
     "away": "جيجيو يونايتد",
@@ -96,6 +132,9 @@
     "time": "9:30 ص"
   },
   {
+    "date": "السبت 2026/03/14",
+    "round": "الجولة 3",
+    "status": "قريباً",
     "home": "غوانغجو",
     "homeLogo": "https://jdwel.com/image/teams/1246.png",
     "away": "جيونبك هيونداي موتورز",
@@ -104,6 +143,9 @@
     "time": "7:00 ص"
   },
   {
+    "date": "السبت 2026/03/14",
+    "round": "الجولة 3",
+    "status": "قريباً",
     "home": "دايجيون سيتيزن",
     "homeLogo": "https://jdwel.com/image/teams/2827.png",
     "away": "غيمتشون سانغمو",
@@ -112,6 +154,9 @@
     "time": "9:30 ص"
   },
   {
+    "date": "الأحد 2026/03/15",
+    "round": "الجولة 3",
+    "status": "قريباً",
     "home": "جيجيو يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/2824.png",
     "away": "سيئول",
@@ -120,6 +165,9 @@
     "time": "7:00 ص"
   },
   {
+    "date": "الأحد 2026/03/15",
+    "round": "الجولة 3",
+    "status": "قريباً",
     "home": "بوتشون 1995",
     "homeLogo": "https://jdwel.com/image/teams/2375.png",
     "away": "أولسان هيونداي",
@@ -128,6 +176,9 @@
     "time": "7:00 ص"
   },
   {
+    "date": "الأحد 2026/03/15",
+    "round": "الجولة 3",
+    "status": "قريباً",
     "home": "بوهانغ ستيلرز",
     "homeLogo": "https://jdwel.com/image/teams/2823.png",
     "away": "انشيون يونايتد",
@@ -136,6 +187,9 @@
     "time": "9:30 ص"
   },
   {
+    "date": "الأحد 2026/03/15",
+    "round": "الجولة 3",
+    "status": "قريباً",
     "home": "غانغوون",
     "homeLogo": "https://jdwel.com/image/teams/kor_gangwon.png",
     "away": "أنيانغ",
@@ -144,6 +198,9 @@
     "time": "9:30 ص"
   },
   {
+    "date": "الثلاثاء 2026/03/17",
+    "round": "الجولة 4",
+    "status": "قريباً",
     "home": "غيمتشون سانغمو",
     "homeLogo": "https://jdwel.com/image/teams/2830.png",
     "away": "غوانغجو",
@@ -152,6 +209,9 @@
     "time": "12:30 م"
   },
   {
+    "date": "الأربعاء 2026/03/18",
+    "round": "الجولة 4",
+    "status": "قريباً",
     "home": "بوهانغ ستيلرز",
     "homeLogo": "https://jdwel.com/image/teams/2823.png",
     "away": "سيئول",
@@ -160,6 +220,9 @@
     "time": "12:30 م"
   },
   {
+    "date": "الأربعاء 2026/03/18",
+    "round": "الجولة 4",
+    "status": "قريباً",
     "home": "جيونبك هيونداي موتورز",
     "homeLogo": "https://jdwel.com/image/teams/1244.png",
     "away": "أنيانغ",
@@ -168,6 +231,9 @@
     "time": "12:30 م"
   },
   {
+    "date": "الأربعاء 2026/03/18",
+    "round": "الجولة 4",
+    "status": "قريباً",
     "home": "جيجيو يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/2824.png",
     "away": "أولسان هيونداي",
@@ -176,6 +242,9 @@
     "time": "12:30 م"
   },
   {
+    "date": "الأربعاء 2026/03/18",
+    "round": "الجولة 4",
+    "status": "قريباً",
     "home": "انشيون يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/kor_incheon_united.png",
     "away": "دايجيون سيتيزن",
@@ -184,6 +253,9 @@
     "time": "12:30 م"
   },
   {
+    "date": "الأربعاء 2026/03/18",
+    "round": "الجولة 4",
+    "status": "قريباً",
     "home": "بوتشون 1995",
     "homeLogo": "https://jdwel.com/image/teams/2375.png",
     "away": "غانغوون",
@@ -192,6 +264,9 @@
     "time": "12:30 م"
   },
   {
+    "date": "السبت 2026/03/21",
+    "round": "الجولة 5",
+    "status": "قريباً",
     "home": "دايجيون سيتيزن",
     "homeLogo": "https://jdwel.com/image/teams/2827.png",
     "away": "جيونبك هيونداي موتورز",
@@ -200,6 +275,9 @@
     "time": "7:00 ص"
   },
   {
+    "date": "الأحد 2026/03/22",
+    "round": "الجولة 5",
+    "status": "قريباً",
     "home": "أولسان هيونداي",
     "homeLogo": "https://jdwel.com/image/teams/3327.png",
     "away": "غيمتشون سانغمو",
@@ -208,6 +286,9 @@
     "time": "7:00 ص"
   },
   {
+    "date": "الأحد 2026/03/22",
+    "round": "الجولة 5",
+    "status": "قريباً",
     "home": "سيئول",
     "homeLogo": "https://jdwel.com/image/teams/kor_seoul.png",
     "away": "غوانغجو",
@@ -216,6 +297,9 @@
     "time": "7:00 ص"
   },
   {
+    "date": "الأحد 2026/03/22",
+    "round": "الجولة 5",
+    "status": "قريباً",
     "home": "بوهانغ ستيلرز",
     "homeLogo": "https://jdwel.com/image/teams/2823.png",
     "away": "بوتشون 1995",
@@ -224,6 +308,9 @@
     "time": "9:30 ص"
   },
   {
+    "date": "الأحد 2026/03/22",
+    "round": "الجولة 5",
+    "status": "قريباً",
     "home": "غانغوون",
     "homeLogo": "https://jdwel.com/image/teams/kor_gangwon.png",
     "away": "جيجيو يونايتد",
@@ -232,6 +319,9 @@
     "time": "9:30 ص"
   },
   {
+    "date": "الأحد 2026/03/22",
+    "round": "الجولة 5",
+    "status": "قريباً",
     "home": "أنيانغ",
     "homeLogo": "https://jdwel.com/image/teams/2005.png",
     "away": "انشيون يونايتد",
@@ -240,6 +330,9 @@
     "time": "9:30 ص"
   },
   {
+    "date": "السبت 2026/04/04",
+    "round": "الجولة 6",
+    "status": "قريباً",
     "home": "جيونبك هيونداي موتورز",
     "homeLogo": "https://jdwel.com/image/teams/1244.png",
     "away": "أولسان هيونداي",
@@ -248,6 +341,9 @@
     "time": "7:00 ص"
   },
   {
+    "date": "السبت 2026/04/04",
+    "round": "الجولة 6",
+    "status": "قريباً",
     "home": "جيجيو يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/2824.png",
     "away": "بوتشون 1995",
@@ -256,6 +352,9 @@
     "time": "7:00 ص"
   },
   {
+    "date": "السبت 2026/04/04",
+    "round": "الجولة 6",
+    "status": "قريباً",
     "home": "غانغوون",
     "homeLogo": "https://jdwel.com/image/teams/kor_gangwon.png",
     "away": "غوانغجو",
@@ -264,6 +363,9 @@
     "time": "9:30 ص"
   },
   {
+    "date": "السبت 2026/04/04",
+    "round": "الجولة 6",
+    "status": "قريباً",
     "home": "بوهانغ ستيلرز",
     "homeLogo": "https://jdwel.com/image/teams/2823.png",
     "away": "دايجيون سيتيزن",
@@ -272,6 +374,9 @@
     "time": "9:30 ص"
   },
   {
+    "date": "الأحد 2026/04/05",
+    "round": "الجولة 6",
+    "status": "قريباً",
     "home": "أنيانغ",
     "homeLogo": "https://jdwel.com/image/teams/2005.png",
     "away": "سيئول",
@@ -280,6 +385,9 @@
     "time": "7:00 ص"
   },
   {
+    "date": "الأحد 2026/04/05",
+    "round": "الجولة 6",
+    "status": "قريباً",
     "home": "انشيون يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/kor_incheon_united.png",
     "away": "غيمتشون سانغمو",
@@ -288,6 +396,9 @@
     "time": "9:30 ص"
   },
   {
+    "date": "السبت 2026/04/11",
+    "round": "الجولة 7",
+    "status": "قريباً",
     "home": "سيئول",
     "homeLogo": "https://jdwel.com/image/teams/kor_seoul.png",
     "away": "جيونبك هيونداي موتورز",
@@ -296,6 +407,9 @@
     "time": "7:00 ص"
   },
   {
+    "date": "السبت 2026/04/11",
+    "round": "الجولة 7",
+    "status": "قريباً",
     "home": "بوهانغ ستيلرز",
     "homeLogo": "https://jdwel.com/image/teams/2823.png",
     "away": "جيجيو يونايتد",
@@ -304,6 +418,9 @@
     "time": "7:00 ص"
   },
   {
+    "date": "السبت 2026/04/11",
+    "round": "الجولة 7",
+    "status": "قريباً",
     "home": "انشيون يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/kor_incheon_united.png",
     "away": "أولسان هيونداي",
@@ -312,6 +429,9 @@
     "time": "9:30 ص"
   },
   {
+    "date": "السبت 2026/04/11",
+    "round": "الجولة 7",
+    "status": "قريباً",
     "home": "غوانغجو",
     "homeLogo": "https://jdwel.com/image/teams/1246.png",
     "away": "بوتشون 1995",
@@ -320,6 +440,9 @@
     "time": "9:30 ص"
   },
   {
+    "date": "الأحد 2026/04/12",
+    "round": "الجولة 7",
+    "status": "قريباً",
     "home": "دايجيون سيتيزن",
     "homeLogo": "https://jdwel.com/image/teams/2827.png",
     "away": "غانغوون",
@@ -328,6 +451,9 @@
     "time": "7:00 ص"
   },
   {
+    "date": "الأحد 2026/04/12",
+    "round": "الجولة 7",
+    "status": "قريباً",
     "home": "غيمتشون سانغمو",
     "homeLogo": "https://jdwel.com/image/teams/2830.png",
     "away": "أنيانغ",
@@ -336,6 +462,9 @@
     "time": "9:30 ص"
   },
   {
+    "date": "السبت 2026/04/18",
+    "round": "الجولة 8",
+    "status": "قريباً",
     "home": "سيئول",
     "homeLogo": "https://jdwel.com/image/teams/kor_seoul.png",
     "away": "دايجيون سيتيزن",
@@ -344,6 +473,9 @@
     "time": "7:00 ص"
   },
   {
+    "date": "السبت 2026/04/18",
+    "round": "الجولة 8",
+    "status": "قريباً",
     "home": "غانغوون",
     "homeLogo": "https://jdwel.com/image/teams/kor_gangwon.png",
     "away": "جيونبك هيونداي موتورز",
@@ -352,6 +484,9 @@
     "time": "7:00 ص"
   },
   {
+    "date": "السبت 2026/04/18",
+    "round": "الجولة 8",
+    "status": "قريباً",
     "home": "بوتشون 1995",
     "homeLogo": "https://jdwel.com/image/teams/2375.png",
     "away": "انشيون يونايتد",
@@ -360,6 +495,9 @@
     "time": "9:30 ص"
   },
   {
+    "date": "السبت 2026/04/18",
+    "round": "الجولة 8",
+    "status": "قريباً",
     "home": "جيجيو يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/2824.png",
     "away": "غيمتشون سانغمو",
@@ -368,6 +506,9 @@
     "time": "9:30 ص"
   },
   {
+    "date": "الأحد 2026/04/19",
+    "round": "الجولة 8",
+    "status": "قريباً",
     "home": "أولسان هيونداي",
     "homeLogo": "https://jdwel.com/image/teams/3327.png",
     "away": "غوانغجو",
@@ -376,6 +517,9 @@
     "time": "7:00 ص"
   },
   {
+    "date": "الأحد 2026/04/19",
+    "round": "الجولة 8",
+    "status": "قريباً",
     "home": "بوهانغ ستيلرز",
     "homeLogo": "https://jdwel.com/image/teams/2823.png",
     "away": "أنيانغ",
@@ -384,6 +528,9 @@
     "time": "9:30 ص"
   },
   {
+    "date": "الثلاثاء 2026/04/21",
+    "round": "الجولة 9",
+    "status": "قريباً",
     "home": "جيونبك هيونداي موتورز",
     "homeLogo": "https://jdwel.com/image/teams/1244.png",
     "away": "انشيون يونايتد",
@@ -392,6 +539,9 @@
     "time": "12:30 م"
   },
   {
+    "date": "الثلاثاء 2026/04/21",
+    "round": "الجولة 9",
+    "status": "قريباً",
     "home": "سيئول",
     "homeLogo": "https://jdwel.com/image/teams/kor_seoul.png",
     "away": "بوتشون 1995",
@@ -400,6 +550,9 @@
     "time": "12:30 م"
   },
   {
+    "date": "الثلاثاء 2026/04/21",
+    "round": "الجولة 9",
+    "status": "قريباً",
     "home": "غيمتشون سانغمو",
     "homeLogo": "https://jdwel.com/image/teams/2830.png",
     "away": "غانغوون",
@@ -408,6 +561,9 @@
     "time": "12:30 م"
   },
   {
+    "date": "الأربعاء 2026/04/22",
+    "round": "الجولة 9",
+    "status": "قريباً",
     "home": "بوهانغ ستيلرز",
     "homeLogo": "https://jdwel.com/image/teams/2823.png",
     "away": "غوانغجو",
@@ -416,6 +572,9 @@
     "time": "12:30 م"
   },
   {
+    "date": "الأربعاء 2026/04/22",
+    "round": "الجولة 9",
+    "status": "قريباً",
     "home": "أنيانغ",
     "homeLogo": "https://jdwel.com/image/teams/2005.png",
     "away": "أولسان هيونداي",
@@ -424,6 +583,9 @@
     "time": "12:30 م"
   },
   {
+    "date": "الأربعاء 2026/04/22",
+    "round": "الجولة 9",
+    "status": "قريباً",
     "home": "دايجيون سيتيزن",
     "homeLogo": "https://jdwel.com/image/teams/2827.png",
     "away": "جيجيو يونايتد",
@@ -432,6 +594,9 @@
     "time": "12:30 م"
   },
   {
+    "date": "السبت 2026/04/25",
+    "round": "الجولة 10",
+    "status": "قريباً",
     "home": "غانغوون",
     "homeLogo": "https://jdwel.com/image/teams/kor_gangwon.png",
     "away": "سيئول",
@@ -440,6 +605,9 @@
     "time": "8:00 ص"
   },
   {
+    "date": "السبت 2026/04/25",
+    "round": "الجولة 10",
+    "status": "قريباً",
     "home": "بوتشون 1995",
     "homeLogo": "https://jdwel.com/image/teams/2375.png",
     "away": "غيمتشون سانغمو",
@@ -448,6 +616,9 @@
     "time": "10:30 ص"
   },
   {
+    "date": "السبت 2026/04/25",
+    "round": "الجولة 10",
+    "status": "قريباً",
     "home": "انشيون يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/kor_incheon_united.png",
     "away": "جيجيو يونايتد",
@@ -456,6 +627,9 @@
     "time": "10:30 ص"
   },
   {
+    "date": "الأحد 2026/04/26",
+    "round": "الجولة 10",
+    "status": "قريباً",
     "home": "جيونبك هيونداي موتورز",
     "homeLogo": "https://jdwel.com/image/teams/1244.png",
     "away": "بوهانغ ستيلرز",
@@ -464,6 +638,9 @@
     "time": "8:00 ص"
   },
   {
+    "date": "الأحد 2026/04/26",
+    "round": "الجولة 10",
+    "status": "قريباً",
     "home": "أولسان هيونداي",
     "homeLogo": "https://jdwel.com/image/teams/3327.png",
     "away": "دايجيون سيتيزن",
@@ -472,6 +649,9 @@
     "time": "10:30 ص"
   },
   {
+    "date": "الأحد 2026/04/26",
+    "round": "الجولة 10",
+    "status": "قريباً",
     "home": "غوانغجو",
     "homeLogo": "https://jdwel.com/image/teams/1246.png",
     "away": "أنيانغ",
@@ -480,6 +660,9 @@
     "time": "10:30 ص"
   },
   {
+    "date": "السبت 2026/05/02",
+    "round": "الجولة 11",
+    "status": "قريباً",
     "home": "أولسان هيونداي",
     "homeLogo": "https://jdwel.com/image/teams/3327.png",
     "away": "بوهانغ ستيلرز",
@@ -488,6 +671,9 @@
     "time": "8:00 ص"
   },
   {
+    "date": "السبت 2026/05/02",
+    "round": "الجولة 11",
+    "status": "قريباً",
     "home": "سيئول",
     "homeLogo": "https://jdwel.com/image/teams/kor_seoul.png",
     "away": "غيمتشون سانغمو",
@@ -496,6 +682,9 @@
     "time": "8:00 ص"
   },
   {
+    "date": "السبت 2026/05/02",
+    "round": "الجولة 11",
+    "status": "قريباً",
     "home": "جيجيو يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/2824.png",
     "away": "جيونبك هيونداي موتورز",
@@ -504,6 +693,9 @@
     "time": "10:30 ص"
   },
   {
+    "date": "السبت 2026/05/02",
+    "round": "الجولة 11",
+    "status": "قريباً",
     "home": "انشيون يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/kor_incheon_united.png",
     "away": "غانغوون",
@@ -512,6 +704,9 @@
     "time": "10:30 ص"
   },
   {
+    "date": "السبت 2026/05/02",
+    "round": "الجولة 11",
+    "status": "قريباً",
     "home": "غوانغجو",
     "homeLogo": "https://jdwel.com/image/teams/1246.png",
     "away": "دايجيون سيتيزن",
@@ -520,6 +715,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "السبت 2026/05/02",
+    "round": "الجولة 11",
+    "status": "قريباً",
     "home": "أنيانغ",
     "homeLogo": "https://jdwel.com/image/teams/2005.png",
     "away": "بوتشون 1995",
@@ -528,6 +726,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "الثلاثاء 2026/05/05",
+    "round": "الجولة 12",
+    "status": "قريباً",
     "home": "بوتشون 1995",
     "homeLogo": "https://jdwel.com/image/teams/2375.png",
     "away": "جيجيو يونايتد",
@@ -536,6 +737,9 @@
     "time": "8:00 ص"
   },
   {
+    "date": "الثلاثاء 2026/05/05",
+    "round": "الجولة 12",
+    "status": "قريباً",
     "home": "جيونبك هيونداي موتورز",
     "homeLogo": "https://jdwel.com/image/teams/1244.png",
     "away": "غوانغجو",
@@ -544,6 +748,9 @@
     "time": "8:00 ص"
   },
   {
+    "date": "الثلاثاء 2026/05/05",
+    "round": "الجولة 12",
+    "status": "قريباً",
     "home": "غانغوون",
     "homeLogo": "https://jdwel.com/image/teams/kor_gangwon.png",
     "away": "بوهانغ ستيلرز",
@@ -552,6 +759,9 @@
     "time": "10:30 ص"
   },
   {
+    "date": "الثلاثاء 2026/05/05",
+    "round": "الجولة 12",
+    "status": "قريباً",
     "home": "دايجيون سيتيزن",
     "homeLogo": "https://jdwel.com/image/teams/2827.png",
     "away": "انشيون يونايتد",
@@ -560,6 +770,9 @@
     "time": "10:30 ص"
   },
   {
+    "date": "الثلاثاء 2026/05/05",
+    "round": "الجولة 12",
+    "status": "قريباً",
     "home": "غيمتشون سانغمو",
     "homeLogo": "https://jdwel.com/image/teams/2830.png",
     "away": "أولسان هيونداي",
@@ -568,6 +781,9 @@
     "time": "10:30 ص"
   },
   {
+    "date": "الثلاثاء 2026/05/05",
+    "round": "الجولة 12",
+    "status": "قريباً",
     "home": "سيئول",
     "homeLogo": "https://jdwel.com/image/teams/kor_seoul.png",
     "away": "أنيانغ",
@@ -576,6 +792,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "السبت 2026/05/09",
+    "round": "الجولة 13",
+    "status": "قريباً",
     "home": "جيجيو يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/2824.png",
     "away": "سيئول",
@@ -584,6 +803,9 @@
     "time": "8:00 ص"
   },
   {
+    "date": "السبت 2026/05/09",
+    "round": "الجولة 13",
+    "status": "قريباً",
     "home": "غوانغجو",
     "homeLogo": "https://jdwel.com/image/teams/1246.png",
     "away": "غانغوون",
@@ -592,6 +814,9 @@
     "time": "10:30 ص"
   },
   {
+    "date": "السبت 2026/05/09",
+    "round": "الجولة 13",
+    "status": "قريباً",
     "home": "غيمتشون سانغمو",
     "homeLogo": "https://jdwel.com/image/teams/2830.png",
     "away": "انشيون يونايتد",
@@ -600,6 +825,9 @@
     "time": "10:30 ص"
   },
   {
+    "date": "السبت 2026/05/09",
+    "round": "الجولة 13",
+    "status": "قريباً",
     "home": "دايجيون سيتيزن",
     "homeLogo": "https://jdwel.com/image/teams/2827.png",
     "away": "بوهانغ ستيلرز",
@@ -608,6 +836,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "الأحد 2026/05/10",
+    "round": "الجولة 13",
+    "status": "قريباً",
     "home": "أولسان هيونداي",
     "homeLogo": "https://jdwel.com/image/teams/3327.png",
     "away": "بوتشون 1995",
@@ -616,6 +847,9 @@
     "time": "8:00 ص"
   },
   {
+    "date": "الأحد 2026/05/10",
+    "round": "الجولة 13",
+    "status": "قريباً",
     "home": "أنيانغ",
     "homeLogo": "https://jdwel.com/image/teams/2005.png",
     "away": "جيونبك هيونداي موتورز",
@@ -624,6 +858,9 @@
     "time": "10:30 ص"
   },
   {
+    "date": "الثلاثاء 2026/05/12",
+    "round": "الجولة 14",
+    "status": "قريباً",
     "home": "انشيون يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/kor_incheon_united.png",
     "away": "بوهانغ ستيلرز",
@@ -632,6 +869,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الثلاثاء 2026/05/12",
+    "round": "الجولة 14",
+    "status": "قريباً",
     "home": "غوانغجو",
     "homeLogo": "https://jdwel.com/image/teams/1246.png",
     "away": "سيئول",
@@ -640,6 +880,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الثلاثاء 2026/05/12",
+    "round": "الجولة 14",
+    "status": "قريباً",
     "home": "غانغوون",
     "homeLogo": "https://jdwel.com/image/teams/kor_gangwon.png",
     "away": "دايجيون سيتيزن",
@@ -648,6 +891,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الأربعاء 2026/05/13",
+    "round": "الجولة 14",
+    "status": "قريباً",
     "home": "بوتشون 1995",
     "homeLogo": "https://jdwel.com/image/teams/2375.png",
     "away": "جيونبك هيونداي موتورز",
@@ -656,6 +902,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الأربعاء 2026/05/13",
+    "round": "الجولة 14",
+    "status": "قريباً",
     "home": "أنيانغ",
     "homeLogo": "https://jdwel.com/image/teams/2005.png",
     "away": "غيمتشون سانغمو",
@@ -664,6 +913,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الأربعاء 2026/05/13",
+    "round": "الجولة 14",
+    "status": "قريباً",
     "home": "أولسان هيونداي",
     "homeLogo": "https://jdwel.com/image/teams/3327.png",
     "away": "جيجيو يونايتد",
@@ -672,6 +924,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "السبت 2026/05/16",
+    "round": "الجولة 15",
+    "status": "قريباً",
     "home": "دايجيون سيتيزن",
     "homeLogo": "https://jdwel.com/image/teams/2827.png",
     "away": "سيئول",
@@ -680,6 +935,9 @@
     "time": "10:30 ص"
   },
   {
+    "date": "السبت 2026/05/16",
+    "round": "الجولة 15",
+    "status": "قريباً",
     "home": "انشيون يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/kor_incheon_united.png",
     "away": "غوانغجو",
@@ -688,6 +946,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "الأحد 2026/05/17",
+    "round": "الجولة 15",
+    "status": "قريباً",
     "home": "جيجيو يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/2824.png",
     "away": "أنيانغ",
@@ -696,6 +957,9 @@
     "time": "10:30 ص"
   },
   {
+    "date": "الأحد 2026/05/17",
+    "round": "الجولة 15",
+    "status": "قريباً",
     "home": "جيونبك هيونداي موتورز",
     "homeLogo": "https://jdwel.com/image/teams/1244.png",
     "away": "غيمتشون سانغمو",
@@ -704,6 +968,9 @@
     "time": "10:30 ص"
   },
   {
+    "date": "الأحد 2026/05/17",
+    "round": "الجولة 15",
+    "status": "قريباً",
     "home": "بوتشون 1995",
     "homeLogo": "https://jdwel.com/image/teams/2375.png",
     "away": "بوهانغ ستيلرز",
@@ -712,6 +979,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "الأحد 2026/05/17",
+    "round": "الجولة 15",
+    "status": "قريباً",
     "home": "غانغوون",
     "homeLogo": "https://jdwel.com/image/teams/kor_gangwon.png",
     "away": "أولسان هيونداي",
@@ -720,6 +990,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "السبت 2026/07/04",
+    "round": "الجولة 16",
+    "status": "قريباً",
     "home": "أنيانغ",
     "homeLogo": "https://jdwel.com/image/teams/2005.png",
     "away": "بوهانغ ستيلرز",
@@ -728,6 +1001,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "السبت 2026/07/04",
+    "round": "الجولة 16",
+    "status": "قريباً",
     "home": "دايجيون سيتيزن",
     "homeLogo": "https://jdwel.com/image/teams/2827.png",
     "away": "بوتشون 1995",
@@ -736,6 +1012,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "السبت 2026/07/04",
+    "round": "الجولة 16",
+    "status": "قريباً",
     "home": "جيونبك هيونداي موتورز",
     "homeLogo": "https://jdwel.com/image/teams/1244.png",
     "away": "غانغوون",
@@ -744,6 +1023,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الأحد 2026/07/05",
+    "round": "الجولة 16",
+    "status": "قريباً",
     "home": "غوانغجو",
     "homeLogo": "https://jdwel.com/image/teams/1246.png",
     "away": "أولسان هيونداي",
@@ -752,6 +1034,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الأحد 2026/07/05",
+    "round": "الجولة 16",
+    "status": "قريباً",
     "home": "غيمتشون سانغمو",
     "homeLogo": "https://jdwel.com/image/teams/2830.png",
     "away": "جيجيو يونايتد",
@@ -760,6 +1045,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الأحد 2026/07/05",
+    "round": "الجولة 16",
+    "status": "قريباً",
     "home": "سيئول",
     "homeLogo": "https://jdwel.com/image/teams/kor_seoul.png",
     "away": "انشيون يونايتد",
@@ -768,6 +1056,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "السبت 2026/07/11",
+    "round": "الجولة 17",
+    "status": "قريباً",
     "home": "غوانغجو",
     "homeLogo": "https://jdwel.com/image/teams/1246.png",
     "away": "بوهانغ ستيلرز",
@@ -776,6 +1067,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "السبت 2026/07/11",
+    "round": "الجولة 17",
+    "status": "قريباً",
     "home": "غيمتشون سانغمو",
     "homeLogo": "https://jdwel.com/image/teams/2830.png",
     "away": "بوتشون 1995",
@@ -784,6 +1078,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "السبت 2026/07/11",
+    "round": "الجولة 17",
+    "status": "قريباً",
     "home": "أولسان هيونداي",
     "homeLogo": "https://jdwel.com/image/teams/3327.png",
     "away": "جيونبك هيونداي موتورز",
@@ -792,6 +1089,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الأحد 2026/07/12",
+    "round": "الجولة 17",
+    "status": "قريباً",
     "home": "سيئول",
     "homeLogo": "https://jdwel.com/image/teams/kor_seoul.png",
     "away": "غانغوون",
@@ -800,6 +1100,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الأحد 2026/07/12",
+    "round": "الجولة 17",
+    "status": "قريباً",
     "home": "انشيون يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/kor_incheon_united.png",
     "away": "أنيانغ",
@@ -808,6 +1111,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الأحد 2026/07/12",
+    "round": "الجولة 17",
+    "status": "قريباً",
     "home": "جيجيو يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/2824.png",
     "away": "دايجيون سيتيزن",
@@ -816,6 +1122,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "السبت 2026/07/18",
+    "round": "الجولة 18",
+    "status": "قريباً",
     "home": "جيجيو يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/2824.png",
     "away": "بوهانغ ستيلرز",
@@ -824,6 +1133,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "السبت 2026/07/18",
+    "round": "الجولة 18",
+    "status": "قريباً",
     "home": "انشيون يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/kor_incheon_united.png",
     "away": "جيونبك هيونداي موتورز",
@@ -832,6 +1144,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "السبت 2026/07/18",
+    "round": "الجولة 18",
+    "status": "قريباً",
     "home": "غانغوون",
     "homeLogo": "https://jdwel.com/image/teams/kor_gangwon.png",
     "away": "غيمتشون سانغمو",
@@ -840,6 +1155,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "السبت 2026/07/18",
+    "round": "الجولة 18",
+    "status": "قريباً",
     "home": "دايجيون سيتيزن",
     "homeLogo": "https://jdwel.com/image/teams/2827.png",
     "away": "أولسان هيونداي",
@@ -848,6 +1166,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الأحد 2026/07/19",
+    "round": "الجولة 18",
+    "status": "قريباً",
     "home": "بوتشون 1995",
     "homeLogo": "https://jdwel.com/image/teams/2375.png",
     "away": "سيئول",
@@ -856,6 +1177,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الأحد 2026/07/19",
+    "round": "الجولة 18",
+    "status": "قريباً",
     "home": "أنيانغ",
     "homeLogo": "https://jdwel.com/image/teams/2005.png",
     "away": "غوانغجو",
@@ -864,6 +1188,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الثلاثاء 2026/07/21",
+    "round": "الجولة 19",
+    "status": "قريباً",
     "home": "جيونبك هيونداي موتورز",
     "homeLogo": "https://jdwel.com/image/teams/1244.png",
     "away": "دايجيون سيتيزن",
@@ -872,6 +1199,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الثلاثاء 2026/07/21",
+    "round": "الجولة 19",
+    "status": "قريباً",
     "home": "أولسان هيونداي",
     "homeLogo": "https://jdwel.com/image/teams/3327.png",
     "away": "انشيون يونايتد",
@@ -880,6 +1210,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الثلاثاء 2026/07/21",
+    "round": "الجولة 19",
+    "status": "قريباً",
     "home": "جيجيو يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/2824.png",
     "away": "غانغوون",
@@ -888,6 +1221,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الأربعاء 2026/07/22",
+    "round": "الجولة 19",
+    "status": "قريباً",
     "home": "سيئول",
     "homeLogo": "https://jdwel.com/image/teams/kor_seoul.png",
     "away": "بوهانغ ستيلرز",
@@ -896,6 +1232,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الأربعاء 2026/07/22",
+    "round": "الجولة 19",
+    "status": "قريباً",
     "home": "غوانغجو",
     "homeLogo": "https://jdwel.com/image/teams/1246.png",
     "away": "غيمتشون سانغمو",
@@ -904,6 +1243,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الأربعاء 2026/07/22",
+    "round": "الجولة 19",
+    "status": "قريباً",
     "home": "بوتشون 1995",
     "homeLogo": "https://jdwel.com/image/teams/2375.png",
     "away": "أنيانغ",
@@ -912,6 +1254,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "السبت 2026/07/25",
+    "round": "الجولة 20",
+    "status": "قريباً",
     "home": "غيمتشون سانغمو",
     "homeLogo": "https://jdwel.com/image/teams/2830.png",
     "away": "دايجيون سيتيزن",
@@ -920,6 +1265,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "السبت 2026/07/25",
+    "round": "الجولة 20",
+    "status": "قريباً",
     "home": "بوهانغ ستيلرز",
     "homeLogo": "https://jdwel.com/image/teams/2823.png",
     "away": "جيونبك هيونداي موتورز",
@@ -928,6 +1276,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الأحد 2026/07/26",
+    "round": "الجولة 20",
+    "status": "قريباً",
     "home": "سيئول",
     "homeLogo": "https://jdwel.com/image/teams/kor_seoul.png",
     "away": "أولسان هيونداي",
@@ -936,6 +1287,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الأحد 2026/07/26",
+    "round": "الجولة 20",
+    "status": "قريباً",
     "home": "انشيون يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/kor_incheon_united.png",
     "away": "بوتشون 1995",
@@ -944,6 +1298,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الأحد 2026/07/26",
+    "round": "الجولة 20",
+    "status": "قريباً",
     "home": "غوانغجو",
     "homeLogo": "https://jdwel.com/image/teams/1246.png",
     "away": "جيجيو يونايتد",
@@ -952,6 +1309,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الأحد 2026/07/26",
+    "round": "الجولة 20",
+    "status": "قريباً",
     "home": "أنيانغ",
     "homeLogo": "https://jdwel.com/image/teams/2005.png",
     "away": "غانغوون",
@@ -960,6 +1320,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "السبت 2026/08/01",
+    "round": "الجولة 21",
+    "status": "قريباً",
     "home": "بوهانغ ستيلرز",
     "homeLogo": "https://jdwel.com/image/teams/2823.png",
     "away": "غيمتشون سانغمو",
@@ -968,6 +1331,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "السبت 2026/08/01",
+    "round": "الجولة 21",
+    "status": "قريباً",
     "home": "جيونبك هيونداي موتورز",
     "homeLogo": "https://jdwel.com/image/teams/1244.png",
     "away": "سيئول",
@@ -976,6 +1342,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "السبت 2026/08/01",
+    "round": "الجولة 21",
+    "status": "قريباً",
     "home": "غانغوون",
     "homeLogo": "https://jdwel.com/image/teams/kor_gangwon.png",
     "away": "بوتشون 1995",
@@ -984,6 +1353,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الأحد 2026/08/02",
+    "round": "الجولة 21",
+    "status": "قريباً",
     "home": "جيجيو يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/2824.png",
     "away": "انشيون يونايتد",
@@ -992,6 +1364,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الأحد 2026/08/02",
+    "round": "الجولة 21",
+    "status": "قريباً",
     "home": "دايجيون سيتيزن",
     "homeLogo": "https://jdwel.com/image/teams/2827.png",
     "away": "غوانغجو",
@@ -1000,6 +1375,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الأحد 2026/08/02",
+    "round": "الجولة 21",
+    "status": "قريباً",
     "home": "أولسان هيونداي",
     "homeLogo": "https://jdwel.com/image/teams/3327.png",
     "away": "أنيانغ",
@@ -1008,6 +1386,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "السبت 2026/08/08",
+    "round": "الجولة 22",
+    "status": "قريباً",
     "home": "بوهانغ ستيلرز",
     "homeLogo": "https://jdwel.com/image/teams/2823.png",
     "away": "أولسان هيونداي",
@@ -1016,6 +1397,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "السبت 2026/08/08",
+    "round": "الجولة 22",
+    "status": "قريباً",
     "home": "جيونبك هيونداي موتورز",
     "homeLogo": "https://jdwel.com/image/teams/1244.png",
     "away": "جيجيو يونايتد",
@@ -1024,6 +1408,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "السبت 2026/08/08",
+    "round": "الجولة 22",
+    "status": "قريباً",
     "home": "غيمتشون سانغمو",
     "homeLogo": "https://jdwel.com/image/teams/2830.png",
     "away": "سيئول",
@@ -1032,6 +1419,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "السبت 2026/08/08",
+    "round": "الجولة 22",
+    "status": "قريباً",
     "home": "غانغوون",
     "homeLogo": "https://jdwel.com/image/teams/kor_gangwon.png",
     "away": "انشيون يونايتد",
@@ -1040,6 +1430,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "السبت 2026/08/08",
+    "round": "الجولة 22",
+    "status": "قريباً",
     "home": "بوتشون 1995",
     "homeLogo": "https://jdwel.com/image/teams/2375.png",
     "away": "غوانغجو",
@@ -1048,6 +1441,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "السبت 2026/08/08",
+    "round": "الجولة 22",
+    "status": "قريباً",
     "home": "أنيانغ",
     "homeLogo": "https://jdwel.com/image/teams/2005.png",
     "away": "دايجيون سيتيزن",
@@ -1056,6 +1452,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "السبت 2026/08/15",
+    "round": "الجولة 23",
+    "status": "قريباً",
     "home": "سيئول",
     "homeLogo": "https://jdwel.com/image/teams/kor_seoul.png",
     "away": "دايجيون سيتيزن",
@@ -1064,6 +1463,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "السبت 2026/08/15",
+    "round": "الجولة 23",
+    "status": "قريباً",
     "home": "جيجيو يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/2824.png",
     "away": "أنيانغ",
@@ -1072,6 +1474,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "السبت 2026/08/15",
+    "round": "الجولة 23",
+    "status": "قريباً",
     "home": "غوانغجو",
     "homeLogo": "https://jdwel.com/image/teams/1246.png",
     "away": "بوهانغ ستيلرز",
@@ -1080,6 +1485,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الأحد 2026/08/16",
+    "round": "الجولة 23",
+    "status": "قريباً",
     "home": "أولسان هيونداي",
     "homeLogo": "https://jdwel.com/image/teams/3327.png",
     "away": "غانغوون",
@@ -1088,6 +1496,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الأحد 2026/08/16",
+    "round": "الجولة 23",
+    "status": "قريباً",
     "home": "بوتشون 1995",
     "homeLogo": "https://jdwel.com/image/teams/2375.png",
     "away": "جيونبك هيونداي موتورز",
@@ -1096,6 +1507,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الأحد 2026/08/16",
+    "round": "الجولة 23",
+    "status": "قريباً",
     "home": "انشيون يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/kor_incheon_united.png",
     "away": "غيمتشون سانغمو",
@@ -1104,6 +1518,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "السبت 2026/08/22",
+    "round": "الجولة 24",
+    "status": "قريباً",
     "home": "جيجيو يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/2824.png",
     "away": "غيمتشون سانغمو",
@@ -1112,6 +1529,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "السبت 2026/08/22",
+    "round": "الجولة 24",
+    "status": "قريباً",
     "home": "بوهانغ ستيلرز",
     "homeLogo": "https://jdwel.com/image/teams/2823.png",
     "away": "بوتشون 1995",
@@ -1120,6 +1540,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "السبت 2026/08/22",
+    "round": "الجولة 24",
+    "status": "قريباً",
     "home": "جيونبك هيونداي موتورز",
     "homeLogo": "https://jdwel.com/image/teams/1244.png",
     "away": "أولسان هيونداي",
@@ -1128,6 +1551,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "السبت 2026/08/22",
+    "round": "الجولة 24",
+    "status": "قريباً",
     "home": "أنيانغ",
     "homeLogo": "https://jdwel.com/image/teams/2005.png",
     "away": "سيئول",
@@ -1136,6 +1562,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الأحد 2026/08/23",
+    "round": "الجولة 24",
+    "status": "قريباً",
     "home": "غوانغجو",
     "homeLogo": "https://jdwel.com/image/teams/1246.png",
     "away": "انشيون يونايتد",
@@ -1144,6 +1573,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الأحد 2026/08/23",
+    "round": "الجولة 24",
+    "status": "قريباً",
     "home": "دايجيون سيتيزن",
     "homeLogo": "https://jdwel.com/image/teams/2827.png",
     "away": "غانغوون",
@@ -1152,6 +1584,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الثلاثاء 2026/08/25",
+    "round": "الجولة 25",
+    "status": "قريباً",
     "home": "جيجيو يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/2824.png",
     "away": "بوهانغ ستيلرز",
@@ -1160,6 +1595,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الثلاثاء 2026/08/25",
+    "round": "الجولة 25",
+    "status": "قريباً",
     "home": "غيمتشون سانغمو",
     "homeLogo": "https://jdwel.com/image/teams/2830.png",
     "away": "جيونبك هيونداي موتورز",
@@ -1168,6 +1606,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الثلاثاء 2026/08/25",
+    "round": "الجولة 25",
+    "status": "قريباً",
     "home": "سيئول",
     "homeLogo": "https://jdwel.com/image/teams/kor_seoul.png",
     "away": "بوتشون 1995",
@@ -1176,6 +1617,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الأربعاء 2026/08/26",
+    "round": "الجولة 25",
+    "status": "قريباً",
     "home": "غانغوون",
     "homeLogo": "https://jdwel.com/image/teams/kor_gangwon.png",
     "away": "غوانغجو",
@@ -1184,6 +1628,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الأربعاء 2026/08/26",
+    "round": "الجولة 25",
+    "status": "قريباً",
     "home": "دايجيون سيتيزن",
     "homeLogo": "https://jdwel.com/image/teams/2827.png",
     "away": "أولسان هيونداي",
@@ -1192,6 +1639,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الأربعاء 2026/08/26",
+    "round": "الجولة 25",
+    "status": "قريباً",
     "home": "أنيانغ",
     "homeLogo": "https://jdwel.com/image/teams/2005.png",
     "away": "انشيون يونايتد",
@@ -1200,6 +1650,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "السبت 2026/08/29",
+    "round": "الجولة 26",
+    "status": "قريباً",
     "home": "بوتشون 1995",
     "homeLogo": "https://jdwel.com/image/teams/2375.png",
     "away": "أنيانغ",
@@ -1208,6 +1661,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "السبت 2026/08/29",
+    "round": "الجولة 26",
+    "status": "قريباً",
     "home": "أولسان هيونداي",
     "homeLogo": "https://jdwel.com/image/teams/3327.png",
     "away": "غيمتشون سانغمو",
@@ -1216,6 +1672,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الأحد 2026/08/30",
+    "round": "الجولة 26",
+    "status": "قريباً",
     "home": "بوهانغ ستيلرز",
     "homeLogo": "https://jdwel.com/image/teams/2823.png",
     "away": "غانغوون",
@@ -1224,6 +1683,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الأحد 2026/08/30",
+    "round": "الجولة 26",
+    "status": "قريباً",
     "home": "جيجيو يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/2824.png",
     "away": "دايجيون سيتيزن",
@@ -1232,6 +1694,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الأحد 2026/08/30",
+    "round": "الجولة 26",
+    "status": "قريباً",
     "home": "انشيون يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/kor_incheon_united.png",
     "away": "جيونبك هيونداي موتورز",
@@ -1240,6 +1705,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الأحد 2026/08/30",
+    "round": "الجولة 26",
+    "status": "قريباً",
     "home": "غوانغجو",
     "homeLogo": "https://jdwel.com/image/teams/1246.png",
     "away": "سيئول",
@@ -1248,6 +1716,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "السبت 2026/09/05",
+    "round": "الجولة 27",
+    "status": "قريباً",
     "home": "جيجيو يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/2824.png",
     "away": "أولسان هيونداي",
@@ -1256,6 +1727,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "السبت 2026/09/05",
+    "round": "الجولة 27",
+    "status": "قريباً",
     "home": "جيونبك هيونداي موتورز",
     "homeLogo": "https://jdwel.com/image/teams/1244.png",
     "away": "بوهانغ ستيلرز",
@@ -1264,6 +1738,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "السبت 2026/09/05",
+    "round": "الجولة 27",
+    "status": "قريباً",
     "home": "سيئول",
     "homeLogo": "https://jdwel.com/image/teams/kor_seoul.png",
     "away": "انشيون يونايتد",
@@ -1272,6 +1749,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "السبت 2026/09/05",
+    "round": "الجولة 27",
+    "status": "قريباً",
     "home": "بوتشون 1995",
     "homeLogo": "https://jdwel.com/image/teams/2375.png",
     "away": "دايجيون سيتيزن",
@@ -1280,6 +1760,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "الأحد 2026/09/06",
+    "round": "الجولة 27",
+    "status": "قريباً",
     "home": "غيمتشون سانغمو",
     "homeLogo": "https://jdwel.com/image/teams/2830.png",
     "away": "غوانغجو",
@@ -1288,6 +1771,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "الأحد 2026/09/06",
+    "round": "الجولة 27",
+    "status": "قريباً",
     "home": "أنيانغ",
     "homeLogo": "https://jdwel.com/image/teams/2005.png",
     "away": "غانغوون",
@@ -1296,6 +1782,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "الثلاثاء 2026/09/08",
+    "round": "الجولة 28",
+    "status": "قريباً",
     "home": "انشيون يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/kor_incheon_united.png",
     "away": "بوتشون 1995",
@@ -1304,6 +1793,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الثلاثاء 2026/09/08",
+    "round": "الجولة 28",
+    "status": "قريباً",
     "home": "أولسان هيونداي",
     "homeLogo": "https://jdwel.com/image/teams/3327.png",
     "away": "سيئول",
@@ -1312,6 +1804,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الأربعاء 2026/09/09",
+    "round": "الجولة 28",
+    "status": "قريباً",
     "home": "بوهانغ ستيلرز",
     "homeLogo": "https://jdwel.com/image/teams/2823.png",
     "away": "غيمتشون سانغمو",
@@ -1320,6 +1815,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الأربعاء 2026/09/09",
+    "round": "الجولة 28",
+    "status": "قريباً",
     "home": "غوانغجو",
     "homeLogo": "https://jdwel.com/image/teams/1246.png",
     "away": "جيجيو يونايتد",
@@ -1328,6 +1826,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الأربعاء 2026/09/09",
+    "round": "الجولة 28",
+    "status": "قريباً",
     "home": "غانغوون",
     "homeLogo": "https://jdwel.com/image/teams/kor_gangwon.png",
     "away": "جيونبك هيونداي موتورز",
@@ -1336,6 +1837,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الأربعاء 2026/09/09",
+    "round": "الجولة 28",
+    "status": "قريباً",
     "home": "دايجيون سيتيزن",
     "homeLogo": "https://jdwel.com/image/teams/2827.png",
     "away": "أنيانغ",
@@ -1344,6 +1848,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "السبت 2026/09/12",
+    "round": "الجولة 29",
+    "status": "قريباً",
     "home": "بوتشون 1995",
     "homeLogo": "https://jdwel.com/image/teams/2375.png",
     "away": "جيجيو يونايتد",
@@ -1352,6 +1859,9 @@
     "time": "10:30 ص"
   },
   {
+    "date": "السبت 2026/09/12",
+    "round": "الجولة 29",
+    "status": "قريباً",
     "home": "أولسان هيونداي",
     "homeLogo": "https://jdwel.com/image/teams/3327.png",
     "away": "انشيون يونايتد",
@@ -1360,6 +1870,9 @@
     "time": "10:30 ص"
   },
   {
+    "date": "السبت 2026/09/12",
+    "round": "الجولة 29",
+    "status": "قريباً",
     "home": "جيونبك هيونداي موتورز",
     "homeLogo": "https://jdwel.com/image/teams/1244.png",
     "away": "سيئول",
@@ -1368,6 +1881,9 @@
     "time": "10:30 ص"
   },
   {
+    "date": "السبت 2026/09/12",
+    "round": "الجولة 29",
+    "status": "قريباً",
     "home": "دايجيون سيتيزن",
     "homeLogo": "https://jdwel.com/image/teams/2827.png",
     "away": "بوهانغ ستيلرز",
@@ -1376,6 +1892,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "الأحد 2026/09/13",
+    "round": "الجولة 29",
+    "status": "قريباً",
     "home": "غيمتشون سانغمو",
     "homeLogo": "https://jdwel.com/image/teams/2830.png",
     "away": "غانغوون",
@@ -1384,6 +1903,9 @@
     "time": "10:30 ص"
   },
   {
+    "date": "الأحد 2026/09/13",
+    "round": "الجولة 29",
+    "status": "قريباً",
     "home": "غوانغجو",
     "homeLogo": "https://jdwel.com/image/teams/1246.png",
     "away": "أنيانغ",
@@ -1392,6 +1914,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "السبت 2026/09/19",
+    "round": "الجولة 30",
+    "status": "قريباً",
     "home": "بوتشون 1995",
     "homeLogo": "https://jdwel.com/image/teams/2375.png",
     "away": "غيمتشون سانغمو",
@@ -1400,6 +1925,9 @@
     "time": "10:30 ص"
   },
   {
+    "date": "السبت 2026/09/19",
+    "round": "الجولة 30",
+    "status": "قريباً",
     "home": "أنيانغ",
     "homeLogo": "https://jdwel.com/image/teams/2005.png",
     "away": "أولسان هيونداي",
@@ -1408,6 +1936,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "الأحد 2026/09/20",
+    "round": "الجولة 30",
+    "status": "قريباً",
     "home": "جيونبك هيونداي موتورز",
     "homeLogo": "https://jdwel.com/image/teams/1244.png",
     "away": "غوانغجو",
@@ -1416,6 +1947,9 @@
     "time": "10:30 ص"
   },
   {
+    "date": "الأحد 2026/09/20",
+    "round": "الجولة 30",
+    "status": "قريباً",
     "home": "غانغوون",
     "homeLogo": "https://jdwel.com/image/teams/kor_gangwon.png",
     "away": "جيجيو يونايتد",
@@ -1424,6 +1958,9 @@
     "time": "10:30 ص"
   },
   {
+    "date": "الأحد 2026/09/20",
+    "round": "الجولة 30",
+    "status": "قريباً",
     "home": "بوهانغ ستيلرز",
     "homeLogo": "https://jdwel.com/image/teams/2823.png",
     "away": "سيئول",
@@ -1432,6 +1969,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "الأحد 2026/09/20",
+    "round": "الجولة 30",
+    "status": "قريباً",
     "home": "انشيون يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/kor_incheon_united.png",
     "away": "دايجيون سيتيزن",
@@ -1440,6 +1980,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "الجمعة 2026/10/09",
+    "round": "الجولة 31",
+    "status": "قريباً",
     "home": "دايجيون سيتيزن",
     "homeLogo": "https://jdwel.com/image/teams/2827.png",
     "away": "جيونبك هيونداي موتورز",
@@ -1448,6 +1991,9 @@
     "time": "8:00 ص"
   },
   {
+    "date": "الجمعة 2026/10/09",
+    "round": "الجولة 31",
+    "status": "قريباً",
     "home": "انشيون يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/kor_incheon_united.png",
     "away": "بوهانغ ستيلرز",
@@ -1456,6 +2002,9 @@
     "time": "10:30 ص"
   },
   {
+    "date": "الجمعة 2026/10/09",
+    "round": "الجولة 31",
+    "status": "قريباً",
     "home": "غانغوون",
     "homeLogo": "https://jdwel.com/image/teams/kor_gangwon.png",
     "away": "بوتشون 1995",
@@ -1464,6 +2013,9 @@
     "time": "10:30 ص"
   },
   {
+    "date": "السبت 2026/10/10",
+    "round": "الجولة 31",
+    "status": "قريباً",
     "home": "سيئول",
     "homeLogo": "https://jdwel.com/image/teams/kor_seoul.png",
     "away": "جيجيو يونايتد",
@@ -1472,6 +2024,9 @@
     "time": "8:00 ص"
   },
   {
+    "date": "السبت 2026/10/10",
+    "round": "الجولة 31",
+    "status": "قريباً",
     "home": "غيمتشون سانغمو",
     "homeLogo": "https://jdwel.com/image/teams/2830.png",
     "away": "أنيانغ",
@@ -1480,6 +2035,9 @@
     "time": "10:30 ص"
   },
   {
+    "date": "الأحد 2026/10/11",
+    "round": "الجولة 31",
+    "status": "قريباً",
     "home": "غوانغجو",
     "homeLogo": "https://jdwel.com/image/teams/1246.png",
     "away": "أولسان هيونداي",
@@ -1488,6 +2046,9 @@
     "time": "8:00 ص"
   },
   {
+    "date": "السبت 2026/10/17",
+    "round": "الجولة 32",
+    "status": "قريباً",
     "home": "سيئول",
     "homeLogo": "https://jdwel.com/image/teams/kor_seoul.png",
     "away": "غيمتشون سانغمو",
@@ -1496,6 +2057,9 @@
     "time": "8:00 ص"
   },
   {
+    "date": "السبت 2026/10/17",
+    "round": "الجولة 32",
+    "status": "قريباً",
     "home": "أولسان هيونداي",
     "homeLogo": "https://jdwel.com/image/teams/3327.png",
     "away": "بوتشون 1995",
@@ -1504,6 +2068,9 @@
     "time": "10:30 ص"
   },
   {
+    "date": "الأحد 2026/10/18",
+    "round": "الجولة 32",
+    "status": "قريباً",
     "home": "جيونبك هيونداي موتورز",
     "homeLogo": "https://jdwel.com/image/teams/1244.png",
     "away": "جيجيو يونايتد",
@@ -1512,6 +2079,9 @@
     "time": "8:00 ص"
   },
   {
+    "date": "الأحد 2026/10/18",
+    "round": "الجولة 32",
+    "status": "قريباً",
     "home": "دايجيون سيتيزن",
     "homeLogo": "https://jdwel.com/image/teams/2827.png",
     "away": "غوانغجو",
@@ -1520,6 +2090,9 @@
     "time": "8:00 ص"
   },
   {
+    "date": "الأحد 2026/10/18",
+    "round": "الجولة 32",
+    "status": "قريباً",
     "home": "بوهانغ ستيلرز",
     "homeLogo": "https://jdwel.com/image/teams/2823.png",
     "away": "أنيانغ",
@@ -1528,6 +2101,9 @@
     "time": "10:30 ص"
   },
   {
+    "date": "الأحد 2026/10/18",
+    "round": "الجولة 32",
+    "status": "قريباً",
     "home": "غانغوون",
     "homeLogo": "https://jdwel.com/image/teams/kor_gangwon.png",
     "away": "انشيون يونايتد",
@@ -1536,6 +2112,9 @@
     "time": "10:30 ص"
   },
   {
+    "date": "السبت 2026/10/24",
+    "round": "الجولة 33",
+    "status": "قريباً",
     "home": "سيئول",
     "homeLogo": "https://jdwel.com/image/teams/kor_seoul.png",
     "away": "غانغوون",
@@ -1544,6 +2123,9 @@
     "time": "8:00 ص"
   },
   {
+    "date": "السبت 2026/10/24",
+    "round": "الجولة 33",
+    "status": "قريباً",
     "home": "انشيون يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/kor_incheon_united.png",
     "away": "جيجيو يونايتد",
@@ -1552,6 +2134,9 @@
     "time": "8:00 ص"
   },
   {
+    "date": "السبت 2026/10/24",
+    "round": "الجولة 33",
+    "status": "قريباً",
     "home": "غيمتشون سانغمو",
     "homeLogo": "https://jdwel.com/image/teams/2830.png",
     "away": "دايجيون سيتيزن",
@@ -1560,6 +2145,9 @@
     "time": "8:00 ص"
   },
   {
+    "date": "السبت 2026/10/24",
+    "round": "الجولة 33",
+    "status": "قريباً",
     "home": "بوتشون 1995",
     "homeLogo": "https://jdwel.com/image/teams/2375.png",
     "away": "غوانغجو",
@@ -1568,6 +2156,9 @@
     "time": "8:00 ص"
   },
   {
+    "date": "السبت 2026/10/24",
+    "round": "الجولة 33",
+    "status": "قريباً",
     "home": "أنيانغ",
     "homeLogo": "https://jdwel.com/image/teams/2005.png",
     "away": "جيونبك هيونداي موتورز",
@@ -1576,6 +2167,9 @@
     "time": "8:00 ص"
   },
   {
+    "date": "السبت 2026/10/24",
+    "round": "الجولة 33",
+    "status": "قريباً",
     "home": "أولسان هيونداي",
     "homeLogo": "https://jdwel.com/image/teams/3327.png",
     "away": "بوهانغ ستيلرز",

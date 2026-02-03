@@ -1,5 +1,8 @@
 [
   {
+    "date": "الأحد 2025/09/07",
+    "round": "",
+    "status": "انتهت",
     "home": "تايلاند",
     "homeLogo": "https://jdwel.com/image/teams/63.png",
     "away": "العراق",
@@ -8,14 +11,9 @@
     "time": "4:00 م"
   },
   {
-    "home": "هونغ كونغ",
-    "homeLogo": "https://jdwel.com/image/teams/73.png",
-    "away": "فيجي",
-    "awayLogo": "https://jdwel.com/image/teams/245.png",
-    "score": "8 - 0",
-    "time": "12:00 م"
-  },
-  {
+    "date": "الخميس 2025/09/04",
+    "round": "",
+    "status": "انتهت",
     "home": "تايلاند",
     "homeLogo": "https://jdwel.com/image/teams/63.png",
     "away": "فيجي",
@@ -24,6 +22,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الخميس 2025/09/04",
+    "round": "",
+    "status": "انتهت",
     "home": "العراق",
     "homeLogo": "https://jdwel.com/image/teams/flag_iraq_v2.png",
     "away": "هونغ كونغ",

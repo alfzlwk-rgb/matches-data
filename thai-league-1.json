@@ -1,5 +1,8 @@
 [
   {
+    "date": "الجمعة 2025/08/15",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "راتشابوري",
     "homeLogo": "https://jdwel.com/image/teams/2093.png",
     "away": "كانشانابوري",
@@ -8,6 +11,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "السبت 2025/08/16",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "PT براشواب",
     "homeLogo": "https://jdwel.com/image/teams/2092.png",
     "away": "بانكوك جلاس باثوم يونايتد",
@@ -16,6 +22,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "السبت 2025/08/16",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "ناخون راتشاسيما مازدا",
     "homeLogo": "https://jdwel.com/image/teams/3074.png",
     "away": "تشونبوري",
@@ -24,6 +33,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "السبت 2025/08/16",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "لامفون وريور",
     "homeLogo": "https://jdwel.com/image/teams/444.png",
     "away": "بوريرام يونايتد",
@@ -32,6 +44,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "السبت 2025/08/16",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "موانغثونغ يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/3072.png",
     "away": "سوكوتاي",
@@ -40,6 +55,9 @@
     "time": "3:30 م"
   },
   {
+    "date": "الأحد 2025/08/17",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "أوثاي ثاني",
     "homeLogo": "https://jdwel.com/image/teams/3075.png",
     "away": "تشيانغراي يونايتد",
@@ -48,6 +66,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "الأحد 2025/08/17",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "بورت",
     "homeLogo": "https://jdwel.com/image/teams/tha_port.png",
     "away": "أيوثايا يونايتد",
@@ -56,6 +77,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "الأحد 2025/08/17",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "بانكوك يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/1258.png",
     "away": "رايونغ",
@@ -64,6 +88,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الجمعة 2025/08/22",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "رايونغ",
     "homeLogo": "https://jdwel.com/image/teams/2449.png",
     "away": "ناخون راتشاسيما مازدا",
@@ -72,6 +99,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "السبت 2025/08/23",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "تشيانغراي يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/tha_chiangrai_united.png",
     "away": "PT براشواب",
@@ -80,6 +110,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "السبت 2025/08/23",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "أيوثايا يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/3682.png",
     "away": "موانغثونغ يونايتد",
@@ -88,6 +121,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "السبت 2025/08/23",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "بوريرام يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/2090.png",
     "away": "أوثاي ثاني",
@@ -96,6 +132,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "السبت 2025/08/23",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "بانكوك جلاس باثوم يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/2091.png",
     "away": "لامفون وريور",
@@ -104,6 +143,9 @@
     "time": "3:30 م"
   },
   {
+    "date": "الأحد 2025/08/24",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "كانشانابوري",
     "homeLogo": "https://jdwel.com/image/teams/3304.png",
     "away": "بانكوك يونايتد",
@@ -112,6 +154,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "الأحد 2025/08/24",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "سوكوتاي",
     "homeLogo": "https://jdwel.com/image/teams/717.png",
     "away": "بورت",
@@ -120,6 +165,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "الأحد 2025/08/24",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "تشونبوري",
     "homeLogo": "https://jdwel.com/image/teams/4817.png",
     "away": "راتشابوري",
@@ -128,6 +176,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الجمعة 2025/08/29",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "أوثاي ثاني",
     "homeLogo": "https://jdwel.com/image/teams/3075.png",
     "away": "أيوثايا يونايتد",
@@ -136,6 +187,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "السبت 2025/08/30",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "ناخون راتشاسيما مازدا",
     "homeLogo": "https://jdwel.com/image/teams/3074.png",
     "away": "راتشابوري",
@@ -144,6 +198,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "السبت 2025/08/30",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "لامفون وريور",
     "homeLogo": "https://jdwel.com/image/teams/444.png",
     "away": "تشونبوري",
@@ -152,6 +209,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "السبت 2025/08/30",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "بانكوك يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/1258.png",
     "away": "بانكوك جلاس باثوم يونايتد",
@@ -160,6 +220,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "السبت 2025/08/30",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "بورت",
     "homeLogo": "https://jdwel.com/image/teams/tha_port.png",
     "away": "رايونغ",
@@ -168,6 +231,9 @@
     "time": "3:30 م"
   },
   {
+    "date": "الأحد 2025/08/31",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "تشيانغراي يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/tha_chiangrai_united.png",
     "away": "بوريرام يونايتد",
@@ -176,6 +242,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "الأحد 2025/08/31",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "PT براشواب",
     "homeLogo": "https://jdwel.com/image/teams/2092.png",
     "away": "سوكوتاي",
@@ -184,6 +253,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "الأحد 2025/08/31",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "موانغثونغ يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/3072.png",
     "away": "كانشانابوري",
@@ -192,6 +264,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الجمعة 2025/09/12",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "بوريرام يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/2090.png",
     "away": "PT براشواب",
@@ -200,6 +275,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الجمعة 2025/09/12",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "أوثاي ثاني",
     "homeLogo": "https://jdwel.com/image/teams/3075.png",
     "away": "بانكوك جلاس باثوم يونايتد",
@@ -208,6 +286,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "السبت 2025/09/13",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "تشونبوري",
     "homeLogo": "https://jdwel.com/image/teams/4817.png",
     "away": "بانكوك يونايتد",
@@ -216,6 +297,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "السبت 2025/09/13",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "سوكوتاي",
     "homeLogo": "https://jdwel.com/image/teams/717.png",
     "away": "لامفون وريور",
@@ -224,6 +308,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "السبت 2025/09/13",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "راتشابوري",
     "homeLogo": "https://jdwel.com/image/teams/2093.png",
     "away": "بورت",
@@ -232,6 +319,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأحد 2025/09/14",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "رايونغ",
     "homeLogo": "https://jdwel.com/image/teams/2449.png",
     "away": "موانغثونغ يونايتد",
@@ -240,6 +330,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "الأحد 2025/09/14",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "أيوثايا يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/3682.png",
     "away": "تشيانغراي يونايتد",
@@ -248,6 +341,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "الأحد 2025/09/14",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "كانشانابوري",
     "homeLogo": "https://jdwel.com/image/teams/3304.png",
     "away": "ناخون راتشاسيما مازدا",
@@ -256,6 +352,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الجمعة 2025/09/19",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "بورت",
     "homeLogo": "https://jdwel.com/image/teams/tha_port.png",
     "away": "تشونبوري",
@@ -264,6 +363,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "السبت 2025/09/20",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "لامفون وريور",
     "homeLogo": "https://jdwel.com/image/teams/444.png",
     "away": "ناخون راتشاسيما مازدا",
@@ -272,6 +374,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "السبت 2025/09/20",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "أوثاي ثاني",
     "homeLogo": "https://jdwel.com/image/teams/3075.png",
     "away": "سوكوتاي",
@@ -280,6 +385,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "السبت 2025/09/20",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "PT براشواب",
     "homeLogo": "https://jdwel.com/image/teams/2092.png",
     "away": "كانشانابوري",
@@ -288,6 +396,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأحد 2025/09/21",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "تشيانغراي يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/tha_chiangrai_united.png",
     "away": "بانكوك جلاس باثوم يونايتد",
@@ -296,6 +407,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "الأحد 2025/09/21",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "موانغثونغ يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/3072.png",
     "away": "راتشابوري",
@@ -304,6 +418,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "الأحد 2025/09/21",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "رايونغ",
     "homeLogo": "https://jdwel.com/image/teams/2449.png",
     "away": "أيوثايا يونايتد",
@@ -312,6 +429,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "الأحد 2025/09/21",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "بانكوك يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/1258.png",
     "away": "بوريرام يونايتد",
@@ -320,6 +440,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الجمعة 2025/09/26",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "سوكوتاي",
     "homeLogo": "https://jdwel.com/image/teams/717.png",
     "away": "تشيانغراي يونايتد",
@@ -328,6 +451,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "السبت 2025/09/27",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "أيوثايا يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/3682.png",
     "away": "بوريرام يونايتد",
@@ -336,6 +462,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "السبت 2025/09/27",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "رايونغ",
     "homeLogo": "https://jdwel.com/image/teams/2449.png",
     "away": "أوثاي ثاني",
@@ -344,6 +473,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "السبت 2025/09/27",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "تشونبوري",
     "homeLogo": "https://jdwel.com/image/teams/4817.png",
     "away": "PT براشواب",
@@ -352,6 +484,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "السبت 2025/09/27",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "كانشانابوري",
     "homeLogo": "https://jdwel.com/image/teams/3304.png",
     "away": "لامفون وريور",
@@ -360,6 +495,9 @@
     "time": "3:30 م"
   },
   {
+    "date": "الأحد 2025/09/28",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "راتشابوري",
     "homeLogo": "https://jdwel.com/image/teams/2093.png",
     "away": "بانكوك يونايتد",
@@ -368,6 +506,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "الأحد 2025/09/28",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "ناخون راتشاسيما مازدا",
     "homeLogo": "https://jdwel.com/image/teams/3074.png",
     "away": "موانغثونغ يونايتد",
@@ -376,6 +517,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "الأحد 2025/09/28",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "بانكوك جلاس باثوم يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/2091.png",
     "away": "بورت",
@@ -384,6 +528,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الجمعة 2025/10/03",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "لامفون وريور",
     "homeLogo": "https://jdwel.com/image/teams/444.png",
     "away": "موانغثونغ يونايتد",
@@ -392,6 +539,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "السبت 2025/10/04",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "تشيانغراي يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/tha_chiangrai_united.png",
     "away": "رايونغ",
@@ -400,6 +550,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "السبت 2025/10/04",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "أوثاي ثاني",
     "homeLogo": "https://jdwel.com/image/teams/3075.png",
     "away": "تشونبوري",
@@ -408,6 +561,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "السبت 2025/10/04",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "بورت",
     "homeLogo": "https://jdwel.com/image/teams/tha_port.png",
     "away": "كانشانابوري",
@@ -416,6 +572,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "السبت 2025/10/04",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "أيوثايا يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/3682.png",
     "away": "سوكوتاي",
@@ -424,6 +583,9 @@
     "time": "3:30 م"
   },
   {
+    "date": "الأحد 2025/10/05",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "بانكوك يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/1258.png",
     "away": "ناخون راتشاسيما مازدا",
@@ -432,6 +594,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "الأحد 2025/10/05",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "PT براشواب",
     "homeLogo": "https://jdwel.com/image/teams/2092.png",
     "away": "راتشابوري",
@@ -440,6 +605,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "الأحد 2025/10/05",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "بوريرام يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/2090.png",
     "away": "بانكوك جلاس باثوم يونايتد",
@@ -448,6 +616,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "السبت 2025/10/18",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "ناخون راتشاسيما مازدا",
     "homeLogo": "https://jdwel.com/image/teams/3074.png",
     "away": "بورت",
@@ -456,6 +627,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "السبت 2025/10/18",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "راتشابوري",
     "homeLogo": "https://jdwel.com/image/teams/2093.png",
     "away": "لامفون وريور",
@@ -464,6 +638,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "السبت 2025/10/18",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "موانغثونغ يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/3072.png",
     "away": "بانكوك يونايتد",
@@ -472,6 +649,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "السبت 2025/10/18",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "بانكوك جلاس باثوم يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/2091.png",
     "away": "أيوثايا يونايتد",
@@ -480,6 +660,9 @@
     "time": "3:30 م"
   },
   {
+    "date": "الأحد 2025/10/19",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "رايونغ",
     "homeLogo": "https://jdwel.com/image/teams/2449.png",
     "away": "PT براشواب",
@@ -488,6 +671,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "الأحد 2025/10/19",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "تشونبوري",
     "homeLogo": "https://jdwel.com/image/teams/4817.png",
     "away": "تشيانغراي يونايتد",
@@ -496,6 +682,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "الأحد 2025/10/19",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "كانشانابوري",
     "homeLogo": "https://jdwel.com/image/teams/3304.png",
     "away": "أوثاي ثاني",
@@ -504,6 +693,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الجمعة 2025/10/24",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "بورت",
     "homeLogo": "https://jdwel.com/image/teams/tha_port.png",
     "away": "موانغثونغ يونايتد",
@@ -512,6 +704,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "السبت 2025/10/25",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "أيوثايا يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/3682.png",
     "away": "تشونبوري",
@@ -520,6 +715,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "السبت 2025/10/25",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "تشيانغراي يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/tha_chiangrai_united.png",
     "away": "كانشانابوري",
@@ -528,6 +726,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "السبت 2025/10/25",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "PT براشواب",
     "homeLogo": "https://jdwel.com/image/teams/2092.png",
     "away": "ناخون راتشاسيما مازدا",
@@ -536,6 +737,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأحد 2025/10/26",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "بوريرام يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/2090.png",
     "away": "رايونغ",
@@ -544,6 +748,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "الأحد 2025/10/26",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "سوكوتاي",
     "homeLogo": "https://jdwel.com/image/teams/717.png",
     "away": "بانكوك جلاس باثوم يونايتد",
@@ -552,6 +759,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "الأحد 2025/10/26",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "بانكوك يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/1258.png",
     "away": "لامفون وريور",
@@ -560,6 +770,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "الأحد 2025/10/26",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "أوثاي ثاني",
     "homeLogo": "https://jdwel.com/image/teams/3075.png",
     "away": "راتشابوري",
@@ -568,6 +781,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "السبت 2025/11/01",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "كانشانابوري",
     "homeLogo": "https://jdwel.com/image/teams/3304.png",
     "away": "أيوثايا يونايتد",
@@ -576,6 +792,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "السبت 2025/11/01",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "بوريرام يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/2090.png",
     "away": "ناخون راتشاسيما مازدا",
@@ -584,6 +803,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "السبت 2025/11/01",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "رايونغ",
     "homeLogo": "https://jdwel.com/image/teams/2449.png",
     "away": "سوكوتاي",
@@ -592,6 +814,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "الأحد 2025/11/02",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "موانغثونغ يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/3072.png",
     "away": "PT براشواب",
@@ -600,6 +825,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "الأحد 2025/11/02",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "لامفون وريور",
     "homeLogo": "https://jdwel.com/image/teams/444.png",
     "away": "بورت",
@@ -608,6 +836,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الأحد 2025/11/02",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "بانكوك يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/1258.png",
     "away": "أوثاي ثاني",
@@ -616,6 +847,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الأحد 2025/11/02",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "تشونبوري",
     "homeLogo": "https://jdwel.com/image/teams/4817.png",
     "away": "بانكوك جلاس باثوم يونايتد",
@@ -624,6 +858,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "الجمعة 2025/11/07",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "PT براشواب",
     "homeLogo": "https://jdwel.com/image/teams/2092.png",
     "away": "لامفون وريور",
@@ -632,6 +869,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "السبت 2025/11/08",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "سوكوتاي",
     "homeLogo": "https://jdwel.com/image/teams/717.png",
     "away": "كانشانابوري",
@@ -640,6 +880,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "السبت 2025/11/08",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "تشيانغراي يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/tha_chiangrai_united.png",
     "away": "ناخون راتشاسيما مازدا",
@@ -648,6 +891,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "السبت 2025/11/08",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "أوثاي ثاني",
     "homeLogo": "https://jdwel.com/image/teams/3075.png",
     "away": "موانغثونغ يونايتد",
@@ -656,6 +902,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "الأحد 2025/11/09",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "بانكوك جلاس باثوم يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/2091.png",
     "away": "رايونغ",
@@ -664,6 +913,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "الأحد 2025/11/09",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "أيوثايا يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/3682.png",
     "away": "راتشابوري",
@@ -672,6 +924,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الأحد 2025/11/09",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "تشونبوري",
     "homeLogo": "https://jdwel.com/image/teams/4817.png",
     "away": "بوريرام يونايتد",
@@ -680,6 +935,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الأحد 2025/11/09",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "بورت",
     "homeLogo": "https://jdwel.com/image/teams/tha_port.png",
     "away": "بانكوك يونايتد",
@@ -688,6 +946,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "السبت 2025/11/22",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "بورت",
     "homeLogo": "https://jdwel.com/image/teams/tha_port.png",
     "away": "تشيانغراي يونايتد",
@@ -696,6 +957,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "السبت 2025/11/22",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "بانكوك يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/1258.png",
     "away": "PT براشواب",
@@ -704,6 +968,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "السبت 2025/11/22",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "موانغثونغ يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/3072.png",
     "away": "بوريرام يونايتد",
@@ -712,6 +979,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "السبت 2025/11/22",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "راتشابوري",
     "homeLogo": "https://jdwel.com/image/teams/2093.png",
     "away": "بانكوك جلاس باثوم يونايتد",
@@ -720,6 +990,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "الأحد 2025/11/23",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "ناخون راتشاسيما مازدا",
     "homeLogo": "https://jdwel.com/image/teams/3074.png",
     "away": "أيوثايا يونايتد",
@@ -728,6 +1001,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "الأحد 2025/11/23",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "كانشانابوري",
     "homeLogo": "https://jdwel.com/image/teams/3304.png",
     "away": "رايونغ",
@@ -736,6 +1012,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الأحد 2025/11/23",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "سوكوتاي",
     "homeLogo": "https://jdwel.com/image/teams/717.png",
     "away": "تشونبوري",
@@ -744,6 +1023,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الأحد 2025/11/23",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "لامفون وريور",
     "homeLogo": "https://jdwel.com/image/teams/444.png",
     "away": "أوثاي ثاني",
@@ -752,6 +1034,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "الجمعة 2025/11/28",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "PT براشواب",
     "homeLogo": "https://jdwel.com/image/teams/2092.png",
     "away": "بورت",
@@ -760,6 +1045,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "السبت 2025/11/29",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "أوثاي ثاني",
     "homeLogo": "https://jdwel.com/image/teams/3075.png",
     "away": "ناخون راتشاسيما مازدا",
@@ -768,6 +1056,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "السبت 2025/11/29",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "أيوثايا يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/3682.png",
     "away": "لامفون وريور",
@@ -776,6 +1067,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "السبت 2025/11/29",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "رايونغ",
     "homeLogo": "https://jdwel.com/image/teams/2449.png",
     "away": "تشونبوري",
@@ -784,6 +1078,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "السبت 2025/11/29",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "تشيانغراي يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/tha_chiangrai_united.png",
     "away": "موانغثونغ يونايتد",
@@ -792,6 +1089,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "الأحد 2025/11/30",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "سوكوتاي",
     "homeLogo": "https://jdwel.com/image/teams/717.png",
     "away": "بانكوك يونايتد",
@@ -800,6 +1100,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "الأحد 2025/11/30",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "بوريرام يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/2090.png",
     "away": "راتشابوري",
@@ -808,6 +1111,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "الجمعة 2025/12/05",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "راتشابوري",
     "homeLogo": "https://jdwel.com/image/teams/2093.png",
     "away": "سوكوتاي",
@@ -816,6 +1122,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "السبت 2025/12/06",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "لامفون وريور",
     "homeLogo": "https://jdwel.com/image/teams/444.png",
     "away": "رايونغ",
@@ -824,6 +1133,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "السبت 2025/12/06",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "بوريرام يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/2090.png",
     "away": "كانشانابوري",
@@ -832,6 +1144,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "السبت 2025/12/06",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "موانغثونغ يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/3072.png",
     "away": "تشونبوري",
@@ -840,6 +1155,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "السبت 2025/12/06",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "PT براشواب",
     "homeLogo": "https://jdwel.com/image/teams/2092.png",
     "away": "أيوثايا يونايتد",
@@ -848,6 +1166,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "الأحد 2025/12/07",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "بانكوك يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/1258.png",
     "away": "تشيانغراي يونايتد",
@@ -856,6 +1177,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "الأحد 2025/12/07",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "ناخون راتشاسيما مازدا",
     "homeLogo": "https://jdwel.com/image/teams/3074.png",
     "away": "بانكوك جلاس باثوم يونايتد",
@@ -864,6 +1188,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الأحد 2025/12/07",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "بورت",
     "homeLogo": "https://jdwel.com/image/teams/tha_port.png",
     "away": "أوثاي ثاني",
@@ -872,6 +1199,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "الجمعة 2025/12/12",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "تشونبوري",
     "homeLogo": "https://jdwel.com/image/teams/4817.png",
     "away": "كانشانابوري",
@@ -880,6 +1210,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "السبت 2025/12/13",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "سوكوتاي",
     "homeLogo": "https://jdwel.com/image/teams/717.png",
     "away": "ناخون راتشاسيما مازدا",
@@ -888,6 +1221,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "السبت 2025/12/13",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "أوثاي ثاني",
     "homeLogo": "https://jdwel.com/image/teams/3075.png",
     "away": "PT براشواب",
@@ -896,6 +1232,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "السبت 2025/12/13",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "تشيانغراي يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/tha_chiangrai_united.png",
     "away": "لامفون وريور",
@@ -904,6 +1243,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "الأحد 2025/12/14",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "أيوثايا يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/3682.png",
     "away": "بانكوك يونايتد",
@@ -912,6 +1254,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "الأحد 2025/12/14",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "بوريرام يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/2090.png",
     "away": "بورت",
@@ -920,6 +1265,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الأحد 2025/12/14",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "بانكوك جلاس باثوم يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/2091.png",
     "away": "موانغثونغ يونايتد",
@@ -928,6 +1276,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "الثلاثاء 2025/12/16",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "رايونغ",
     "homeLogo": "https://jdwel.com/image/teams/2449.png",
     "away": "راتشابوري",
@@ -936,6 +1287,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "الأربعاء 2025/12/24",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "راتشابوري",
     "homeLogo": "https://jdwel.com/image/teams/2093.png",
     "away": "تشيانغراي يونايتد",
@@ -944,6 +1298,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "الأربعاء 2025/12/24",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "سوكوتاي",
     "homeLogo": "https://jdwel.com/image/teams/717.png",
     "away": "بوريرام يونايتد",
@@ -952,6 +1309,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "الأربعاء 2025/12/24",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "بانكوك جلاس باثوم يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/2091.png",
     "away": "كانشانابوري",
@@ -960,6 +1320,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "الأحد 2026/01/04",
+    "round": "الجولة 18",
+    "status": "انتهت",
     "home": "PT براشواب",
     "homeLogo": "https://jdwel.com/image/teams/2092.png",
     "away": "بوريرام يونايتد",
@@ -968,6 +1331,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "الجمعة 2026/01/09",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "أوثاي ثاني",
     "homeLogo": "https://jdwel.com/image/teams/3075.png",
     "away": "بوريرام يونايتد",
@@ -976,6 +1342,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "السبت 2026/01/10",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "لامفون وريور",
     "homeLogo": "https://jdwel.com/image/teams/444.png",
     "away": "بانكوك جلاس باثوم يونايتد",
@@ -984,6 +1353,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "السبت 2026/01/10",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "بورت",
     "homeLogo": "https://jdwel.com/image/teams/tha_port.png",
     "away": "سوكوتاي",
@@ -992,6 +1364,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "السبت 2026/01/10",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "بانكوك يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/1258.png",
     "away": "كانشانابوري",
@@ -1000,6 +1375,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "السبت 2026/01/10",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "PT براشواب",
     "homeLogo": "https://jdwel.com/image/teams/2092.png",
     "away": "تشيانغراي يونايتد",
@@ -1008,6 +1386,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "الأحد 2026/01/11",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "موانغثونغ يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/3072.png",
     "away": "أيوثايا يونايتد",
@@ -1016,6 +1397,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "الأحد 2026/01/11",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "راتشابوري",
     "homeLogo": "https://jdwel.com/image/teams/2093.png",
     "away": "تشونبوري",
@@ -1024,6 +1408,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "السبت 2026/01/17",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "أيوثايا يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/3682.png",
     "away": "أوثاي ثاني",
@@ -1032,6 +1419,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "السبت 2026/01/17",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "تشونبوري",
     "homeLogo": "https://jdwel.com/image/teams/4817.png",
     "away": "لامفون وريور",
@@ -1040,6 +1430,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "السبت 2026/01/17",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "سوكوتاي",
     "homeLogo": "https://jdwel.com/image/teams/717.png",
     "away": "PT براشواب",
@@ -1048,6 +1441,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "السبت 2026/01/17",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "كانشانابوري",
     "homeLogo": "https://jdwel.com/image/teams/3304.png",
     "away": "موانغثونغ يونايتد",
@@ -1056,6 +1452,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "الأحد 2026/01/18",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "بوريرام يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/2090.png",
     "away": "تشيانغراي يونايتد",
@@ -1064,6 +1463,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "الأحد 2026/01/18",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "راتشابوري",
     "homeLogo": "https://jdwel.com/image/teams/2093.png",
     "away": "ناخون راتشاسيما مازدا",
@@ -1072,6 +1474,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الأحد 2026/01/18",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "رايونغ",
     "homeLogo": "https://jdwel.com/image/teams/2449.png",
     "away": "بورت",
@@ -1080,6 +1485,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الأحد 2026/01/18",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "بانكوك جلاس باثوم يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/2091.png",
     "away": "بانكوك يونايتد",
@@ -1088,6 +1496,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "السبت 2026/01/24",
+    "round": "الجولة 18",
+    "status": "انتهت",
     "home": "بانكوك يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/1258.png",
     "away": "تشونبوري",
@@ -1096,6 +1507,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "السبت 2026/01/24",
+    "round": "الجولة 18",
+    "status": "انتهت",
     "home": "تشيانغراي يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/tha_chiangrai_united.png",
     "away": "أيوثايا يونايتد",
@@ -1104,6 +1518,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "السبت 2026/01/24",
+    "round": "الجولة 18",
+    "status": "انتهت",
     "home": "بورت",
     "homeLogo": "https://jdwel.com/image/teams/tha_port.png",
     "away": "راتشابوري",
@@ -1112,6 +1529,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "الأحد 2026/01/25",
+    "round": "الجولة 18",
+    "status": "انتهت",
     "home": "ناخون راتشاسيما مازدا",
     "homeLogo": "https://jdwel.com/image/teams/3074.png",
     "away": "كانشانابوري",
@@ -1120,6 +1540,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "الأحد 2026/01/25",
+    "round": "الجولة 18",
+    "status": "انتهت",
     "home": "لامفون وريور",
     "homeLogo": "https://jdwel.com/image/teams/444.png",
     "away": "سوكوتاي",
@@ -1128,6 +1551,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "الأحد 2026/01/25",
+    "round": "الجولة 18",
+    "status": "انتهت",
     "home": "بانكوك جلاس باثوم يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/2091.png",
     "away": "أوثاي ثاني",
@@ -1136,6 +1562,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الأحد 2026/01/25",
+    "round": "الجولة 18",
+    "status": "انتهت",
     "home": "موانغثونغ يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/3072.png",
     "away": "رايونغ",
@@ -1144,6 +1573,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "السبت 2026/01/31",
+    "round": "الجولة 19",
+    "status": "انتهت",
     "home": "بانكوك جلاس باثوم يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/2091.png",
     "away": "تشيانغراي يونايتد",
@@ -1152,6 +1584,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "السبت 2026/01/31",
+    "round": "الجولة 19",
+    "status": "انتهت",
     "home": "كانشانابوري",
     "homeLogo": "https://jdwel.com/image/teams/3304.png",
     "away": "PT براشواب",
@@ -1160,6 +1595,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "السبت 2026/01/31",
+    "round": "الجولة 19",
+    "status": "انتهت",
     "home": "تشونبوري",
     "homeLogo": "https://jdwel.com/image/teams/4817.png",
     "away": "بورت",
@@ -1168,6 +1606,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "السبت 2026/01/31",
+    "round": "الجولة 19",
+    "status": "انتهت",
     "home": "أيوثايا يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/3682.png",
     "away": "رايونغ",
@@ -1176,6 +1617,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "الأحد 2026/02/01",
+    "round": "الجولة 19",
+    "status": "انتهت",
     "home": "ناخون راتشاسيما مازدا",
     "homeLogo": "https://jdwel.com/image/teams/3074.png",
     "away": "لامفون وريور",
@@ -1184,6 +1628,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "الأحد 2026/02/01",
+    "round": "الجولة 19",
+    "status": "انتهت",
     "home": "راتشابوري",
     "homeLogo": "https://jdwel.com/image/teams/2093.png",
     "away": "موانغثونغ يونايتد",
@@ -1192,6 +1639,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الأحد 2026/02/01",
+    "round": "الجولة 19",
+    "status": "انتهت",
     "home": "سوكوتاي",
     "homeLogo": "https://jdwel.com/image/teams/717.png",
     "away": "أوثاي ثاني",
@@ -1200,6 +1650,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الأحد 2026/02/01",
+    "round": "الجولة 19",
+    "status": "انتهت",
     "home": "بوريرام يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/2090.png",
     "away": "بانكوك يونايتد",
@@ -1208,6 +1661,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "الأثنين 2026/02/09",
+    "round": "الجولة 20",
+    "status": "قريباً",
     "home": "لامفون وريور",
     "homeLogo": "https://jdwel.com/image/teams/444.png",
     "away": "كانشانابوري",
@@ -1216,6 +1672,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الجمعة 2026/02/13",
+    "round": "الجولة 21",
+    "status": "قريباً",
     "home": "تشونبوري",
     "homeLogo": "https://jdwel.com/image/teams/4817.png",
     "away": "أوثاي ثاني",
@@ -1224,6 +1683,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "السبت 2026/02/14",
+    "round": "الجولة 21",
+    "status": "قريباً",
     "home": "كانشانابوري",
     "homeLogo": "https://jdwel.com/image/teams/3304.png",
     "away": "بورت",
@@ -1232,6 +1694,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "السبت 2026/02/14",
+    "round": "الجولة 21",
+    "status": "قريباً",
     "home": "راتشابوري",
     "homeLogo": "https://jdwel.com/image/teams/2093.png",
     "away": "PT براشواب",
@@ -1240,6 +1705,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "السبت 2026/02/14",
+    "round": "الجولة 21",
+    "status": "قريباً",
     "home": "سوكوتاي",
     "homeLogo": "https://jdwel.com/image/teams/717.png",
     "away": "أيوثايا يونايتد",
@@ -1248,6 +1716,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "السبت 2026/02/14",
+    "round": "الجولة 21",
+    "status": "قريباً",
     "home": "بانكوك جلاس باثوم يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/2091.png",
     "away": "بوريرام يونايتد",
@@ -1256,6 +1727,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "الأحد 2026/02/15",
+    "round": "الجولة 21",
+    "status": "قريباً",
     "home": "ناخون راتشاسيما مازدا",
     "homeLogo": "https://jdwel.com/image/teams/3074.png",
     "away": "بانكوك يونايتد",
@@ -1264,6 +1738,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الأحد 2026/02/15",
+    "round": "الجولة 21",
+    "status": "قريباً",
     "home": "رايونغ",
     "homeLogo": "https://jdwel.com/image/teams/2449.png",
     "away": "تشيانغراي يونايتد",
@@ -1272,6 +1749,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "الأحد 2026/02/15",
+    "round": "الجولة 21",
+    "status": "قريباً",
     "home": "موانغثونغ يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/3072.png",
     "away": "لامفون وريور",
@@ -1280,6 +1760,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "الجمعة 2026/02/20",
+    "round": "الجولة 22",
+    "status": "قريباً",
     "home": "PT براشواب",
     "homeLogo": "https://jdwel.com/image/teams/2092.png",
     "away": "رايونغ",
@@ -1288,6 +1771,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "السبت 2026/02/21",
+    "round": "الجولة 22",
+    "status": "قريباً",
     "home": "تشيانغراي يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/tha_chiangrai_united.png",
     "away": "تشونبوري",
@@ -1296,6 +1782,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "السبت 2026/02/21",
+    "round": "الجولة 22",
+    "status": "قريباً",
     "home": "بوريرام يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/2090.png",
     "away": "سوكوتاي",
@@ -1304,6 +1793,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "السبت 2026/02/21",
+    "round": "الجولة 22",
+    "status": "قريباً",
     "home": "أوثاي ثاني",
     "homeLogo": "https://jdwel.com/image/teams/3075.png",
     "away": "كانشانابوري",
@@ -1312,6 +1804,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "السبت 2026/02/21",
+    "round": "الجولة 22",
+    "status": "قريباً",
     "home": "بورت",
     "homeLogo": "https://jdwel.com/image/teams/tha_port.png",
     "away": "ناخون راتشاسيما مازدا",
@@ -1320,6 +1815,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "الأحد 2026/02/22",
+    "round": "الجولة 22",
+    "status": "قريباً",
     "home": "لامفون وريور",
     "homeLogo": "https://jdwel.com/image/teams/444.png",
     "away": "راتشابوري",
@@ -1328,6 +1826,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "الأحد 2026/02/22",
+    "round": "الجولة 22",
+    "status": "قريباً",
     "home": "أيوثايا يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/3682.png",
     "away": "بانكوك جلاس باثوم يونايتد",
@@ -1336,6 +1837,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الأحد 2026/02/22",
+    "round": "الجولة 22",
+    "status": "قريباً",
     "home": "بانكوك يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/1258.png",
     "away": "موانغثونغ يونايتد",
@@ -1344,6 +1848,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "الأربعاء 2026/02/25",
+    "round": "الجولة 16",
+    "status": "قريباً",
     "home": "ناخون راتشاسيما مازدا",
     "homeLogo": "https://jdwel.com/image/teams/3074.png",
     "away": "رايونغ",
@@ -1352,6 +1859,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "السبت 2026/02/28",
+    "round": "الجولة 23",
+    "status": "قريباً",
     "home": "تشونبوري",
     "homeLogo": "https://jdwel.com/image/teams/4817.png",
     "away": "أيوثايا يونايتد",
@@ -1360,6 +1870,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "السبت 2026/02/28",
+    "round": "الجولة 23",
+    "status": "قريباً",
     "home": "لامفون وريور",
     "homeLogo": "https://jdwel.com/image/teams/444.png",
     "away": "بانكوك يونايتد",
@@ -1368,6 +1881,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "السبت 2026/02/28",
+    "round": "الجولة 23",
+    "status": "قريباً",
     "home": "رايونغ",
     "homeLogo": "https://jdwel.com/image/teams/2449.png",
     "away": "بوريرام يونايتد",
@@ -1376,6 +1892,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "السبت 2026/02/28",
+    "round": "الجولة 23",
+    "status": "قريباً",
     "home": "راتشابوري",
     "homeLogo": "https://jdwel.com/image/teams/2093.png",
     "away": "أوثاي ثاني",
@@ -1384,6 +1903,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "الأحد 2026/03/01",
+    "round": "الجولة 23",
+    "status": "قريباً",
     "home": "كانشانابوري",
     "homeLogo": "https://jdwel.com/image/teams/3304.png",
     "away": "تشيانغراي يونايتد",
@@ -1392,6 +1914,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "الأحد 2026/03/01",
+    "round": "الجولة 23",
+    "status": "قريباً",
     "home": "بانكوك جلاس باثوم يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/2091.png",
     "away": "سوكوتاي",
@@ -1400,6 +1925,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الأحد 2026/03/01",
+    "round": "الجولة 23",
+    "status": "قريباً",
     "home": "ناخون راتشاسيما مازدا",
     "homeLogo": "https://jdwel.com/image/teams/3074.png",
     "away": "PT براشواب",
@@ -1408,6 +1936,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الأحد 2026/03/01",
+    "round": "الجولة 23",
+    "status": "قريباً",
     "home": "موانغثونغ يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/3072.png",
     "away": "بورت",
@@ -1416,6 +1947,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "الجمعة 2026/03/06",
+    "round": "الجولة 24",
+    "status": "قريباً",
     "home": "بورت",
     "homeLogo": "https://jdwel.com/image/teams/tha_port.png",
     "away": "لامفون وريور",
@@ -1424,6 +1958,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "السبت 2026/03/07",
+    "round": "الجولة 24",
+    "status": "قريباً",
     "home": "سوكوتاي",
     "homeLogo": "https://jdwel.com/image/teams/717.png",
     "away": "رايونغ",
@@ -1432,6 +1969,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "السبت 2026/03/07",
+    "round": "الجولة 24",
+    "status": "قريباً",
     "home": "أيوثايا يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/3682.png",
     "away": "كانشانابوري",
@@ -1440,6 +1980,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "السبت 2026/03/07",
+    "round": "الجولة 24",
+    "status": "قريباً",
     "home": "PT براشواب",
     "homeLogo": "https://jdwel.com/image/teams/2092.png",
     "away": "موانغثونغ يونايتد",
@@ -1448,6 +1991,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "السبت 2026/03/07",
+    "round": "الجولة 24",
+    "status": "قريباً",
     "home": "ناخون راتشاسيما مازدا",
     "homeLogo": "https://jdwel.com/image/teams/3074.png",
     "away": "بوريرام يونايتد",
@@ -1456,6 +2002,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "الأحد 2026/03/08",
+    "round": "الجولة 24",
+    "status": "قريباً",
     "home": "تشيانغراي يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/tha_chiangrai_united.png",
     "away": "راتشابوري",
@@ -1464,6 +2013,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "الأحد 2026/03/08",
+    "round": "الجولة 24",
+    "status": "قريباً",
     "home": "أوثاي ثاني",
     "homeLogo": "https://jdwel.com/image/teams/3075.png",
     "away": "بانكوك يونايتد",
@@ -1472,6 +2024,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الأحد 2026/03/08",
+    "round": "الجولة 24",
+    "status": "قريباً",
     "home": "بانكوك جلاس باثوم يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/2091.png",
     "away": "تشونبوري",
@@ -1480,6 +2035,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "الجمعة 2026/03/13",
+    "round": "الجولة 25",
+    "status": "قريباً",
     "home": "ناخون راتشاسيما مازدا",
     "homeLogo": "https://jdwel.com/image/teams/3074.png",
     "away": "تشيانغراي يونايتد",
@@ -1488,6 +2046,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "السبت 2026/03/14",
+    "round": "الجولة 25",
+    "status": "قريباً",
     "home": "بوريرام يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/2090.png",
     "away": "تشونبوري",
@@ -1496,6 +2057,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "السبت 2026/03/14",
+    "round": "الجولة 25",
+    "status": "قريباً",
     "home": "موانغثونغ يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/3072.png",
     "away": "أوثاي ثاني",
@@ -1504,6 +2068,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "السبت 2026/03/14",
+    "round": "الجولة 25",
+    "status": "قريباً",
     "home": "رايونغ",
     "homeLogo": "https://jdwel.com/image/teams/2449.png",
     "away": "بانكوك جلاس باثوم يونايتد",
@@ -1512,6 +2079,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "السبت 2026/03/14",
+    "round": "الجولة 25",
+    "status": "قريباً",
     "home": "لامفون وريور",
     "homeLogo": "https://jdwel.com/image/teams/444.png",
     "away": "PT براشواب",
@@ -1520,6 +2090,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "الأحد 2026/03/15",
+    "round": "الجولة 25",
+    "status": "قريباً",
     "home": "بانكوك يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/1258.png",
     "away": "بورت",
@@ -1528,6 +2101,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "الأحد 2026/03/15",
+    "round": "الجولة 25",
+    "status": "قريباً",
     "home": "كانشانابوري",
     "homeLogo": "https://jdwel.com/image/teams/3304.png",
     "away": "سوكوتاي",
@@ -1536,6 +2112,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الأحد 2026/03/15",
+    "round": "الجولة 25",
+    "status": "قريباً",
     "home": "راتشابوري",
     "homeLogo": "https://jdwel.com/image/teams/2093.png",
     "away": "أيوثايا يونايتد",
@@ -1544,6 +2123,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "السبت 2026/03/21",
+    "round": "الجولة 26",
+    "status": "قريباً",
     "home": "أيوثايا يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/3682.png",
     "away": "ناخون راتشاسيما مازدا",
@@ -1552,6 +2134,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "السبت 2026/03/21",
+    "round": "الجولة 26",
+    "status": "قريباً",
     "home": "تشونبوري",
     "homeLogo": "https://jdwel.com/image/teams/4817.png",
     "away": "سوكوتاي",
@@ -1560,6 +2145,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "السبت 2026/03/21",
+    "round": "الجولة 26",
+    "status": "قريباً",
     "home": "أوثاي ثاني",
     "homeLogo": "https://jdwel.com/image/teams/3075.png",
     "away": "لامفون وريور",
@@ -1568,6 +2156,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "السبت 2026/03/21",
+    "round": "الجولة 26",
+    "status": "قريباً",
     "home": "رايونغ",
     "homeLogo": "https://jdwel.com/image/teams/2449.png",
     "away": "كانشانابوري",
@@ -1576,6 +2167,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "الأحد 2026/03/22",
+    "round": "الجولة 26",
+    "status": "قريباً",
     "home": "تشيانغراي يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/tha_chiangrai_united.png",
     "away": "بورت",
@@ -1584,6 +2178,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "الأحد 2026/03/22",
+    "round": "الجولة 26",
+    "status": "قريباً",
     "home": "PT براشواب",
     "homeLogo": "https://jdwel.com/image/teams/2092.png",
     "away": "بانكوك يونايتد",
@@ -1592,6 +2189,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الأحد 2026/03/22",
+    "round": "الجولة 26",
+    "status": "قريباً",
     "home": "بانكوك جلاس باثوم يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/2091.png",
     "away": "راتشابوري",
@@ -1600,6 +2200,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الأحد 2026/03/22",
+    "round": "الجولة 26",
+    "status": "قريباً",
     "home": "بوريرام يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/2090.png",
     "away": "موانغثونغ يونايتد",
@@ -1608,6 +2211,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "السبت 2026/04/04",
+    "round": "الجولة 27",
+    "status": "قريباً",
     "home": "بانكوك يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/1258.png",
     "away": "سوكوتاي",
@@ -1616,6 +2222,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "السبت 2026/04/04",
+    "round": "الجولة 27",
+    "status": "قريباً",
     "home": "كانشانابوري",
     "homeLogo": "https://jdwel.com/image/teams/3304.png",
     "away": "بانكوك جلاس باثوم يونايتد",
@@ -1624,6 +2233,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "السبت 2026/04/04",
+    "round": "الجولة 27",
+    "status": "قريباً",
     "home": "راتشابوري",
     "homeLogo": "https://jdwel.com/image/teams/2093.png",
     "away": "بوريرام يونايتد",
@@ -1632,6 +2244,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "السبت 2026/04/04",
+    "round": "الجولة 27",
+    "status": "قريباً",
     "home": "بورت",
     "homeLogo": "https://jdwel.com/image/teams/tha_port.png",
     "away": "PT براشواب",
@@ -1640,6 +2255,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "الأحد 2026/04/05",
+    "round": "الجولة 27",
+    "status": "قريباً",
     "home": "موانغثونغ يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/3072.png",
     "away": "تشيانغراي يونايتد",
@@ -1648,6 +2266,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "الأحد 2026/04/05",
+    "round": "الجولة 27",
+    "status": "قريباً",
     "home": "تشونبوري",
     "homeLogo": "https://jdwel.com/image/teams/4817.png",
     "away": "رايونغ",
@@ -1656,6 +2277,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الأحد 2026/04/05",
+    "round": "الجولة 27",
+    "status": "قريباً",
     "home": "لامفون وريور",
     "homeLogo": "https://jdwel.com/image/teams/444.png",
     "away": "أيوثايا يونايتد",
@@ -1664,6 +2288,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "الأحد 2026/04/05",
+    "round": "الجولة 27",
+    "status": "قريباً",
     "home": "ناخون راتشاسيما مازدا",
     "homeLogo": "https://jdwel.com/image/teams/3074.png",
     "away": "أوثاي ثاني",
@@ -1672,6 +2299,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "السبت 2026/04/11",
+    "round": "الجولة 20",
+    "status": "قريباً",
     "home": "تشيانغراي يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/tha_chiangrai_united.png",
     "away": "سوكوتاي",
@@ -1680,6 +2310,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "الأحد 2026/04/12",
+    "round": "الجولة 20",
+    "status": "قريباً",
     "home": "بوريرام يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/2090.png",
     "away": "أيوثايا يونايتد",
@@ -1688,6 +2321,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "الجمعة 2026/04/17",
+    "round": "الجولة 20",
+    "status": "قريباً",
     "home": "بانكوك يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/1258.png",
     "away": "راتشابوري",
@@ -1696,6 +2332,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "السبت 2026/04/18",
+    "round": "الجولة 20",
+    "status": "قريباً",
     "home": "PT براشواب",
     "homeLogo": "https://jdwel.com/image/teams/2092.png",
     "away": "تشونبوري",
@@ -1704,6 +2343,9 @@
     "time": "1:00 م"
   },
   {
+    "date": "السبت 2026/04/18",
+    "round": "الجولة 20",
+    "status": "قريباً",
     "home": "موانغثونغ يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/3072.png",
     "away": "ناخون راتشاسيما مازدا",
@@ -1712,6 +2354,9 @@
     "time": "1:30 م"
   },
   {
+    "date": "السبت 2026/04/18",
+    "round": "الجولة 20",
+    "status": "قريباً",
     "home": "أوثاي ثاني",
     "homeLogo": "https://jdwel.com/image/teams/3075.png",
     "away": "رايونغ",
@@ -1720,6 +2365,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "الأحد 2026/04/19",
+    "round": "الجولة 20",
+    "status": "قريباً",
     "home": "بورت",
     "homeLogo": "https://jdwel.com/image/teams/tha_port.png",
     "away": "بانكوك جلاس باثوم يونايتد",
@@ -1728,6 +2376,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "الجمعة 2026/04/24",
+    "round": "الجولة 28",
+    "status": "قريباً",
     "home": "سوكوتاي",
     "homeLogo": "https://jdwel.com/image/teams/717.png",
     "away": "راتشابوري",
@@ -1736,6 +2387,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "السبت 2026/04/25",
+    "round": "الجولة 28",
+    "status": "قريباً",
     "home": "تشيانغراي يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/tha_chiangrai_united.png",
     "away": "بانكوك يونايتد",
@@ -1744,6 +2398,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "السبت 2026/04/25",
+    "round": "الجولة 28",
+    "status": "قريباً",
     "home": "بانكوك جلاس باثوم يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/2091.png",
     "away": "ناخون راتشاسيما مازدا",
@@ -1752,6 +2409,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "السبت 2026/04/25",
+    "round": "الجولة 28",
+    "status": "قريباً",
     "home": "أوثاي ثاني",
     "homeLogo": "https://jdwel.com/image/teams/3075.png",
     "away": "بورت",
@@ -1760,6 +2420,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأحد 2026/04/26",
+    "round": "الجولة 28",
+    "status": "قريباً",
     "home": "رايونغ",
     "homeLogo": "https://jdwel.com/image/teams/2449.png",
     "away": "لامفون وريور",
@@ -1768,6 +2431,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "الأحد 2026/04/26",
+    "round": "الجولة 28",
+    "status": "قريباً",
     "home": "تشونبوري",
     "homeLogo": "https://jdwel.com/image/teams/4817.png",
     "away": "موانغثونغ يونايتد",
@@ -1776,6 +2442,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "الأحد 2026/04/26",
+    "round": "الجولة 28",
+    "status": "قريباً",
     "home": "كانشانابوري",
     "homeLogo": "https://jdwel.com/image/teams/3304.png",
     "away": "بوريرام يونايتد",
@@ -1784,6 +2453,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "الأحد 2026/04/26",
+    "round": "الجولة 28",
+    "status": "قريباً",
     "home": "أيوثايا يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/3682.png",
     "away": "PT براشواب",
@@ -1792,6 +2464,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الجمعة 2026/05/01",
+    "round": "الجولة 29",
+    "status": "قريباً",
     "home": "موانغثونغ يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/3072.png",
     "away": "بانكوك جلاس باثوم يونايتد",
@@ -1800,6 +2475,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الجمعة 2026/05/01",
+    "round": "الجولة 29",
+    "status": "قريباً",
     "home": "بورت",
     "homeLogo": "https://jdwel.com/image/teams/tha_port.png",
     "away": "بوريرام يونايتد",
@@ -1808,6 +2486,9 @@
     "time": "3:30 م"
   },
   {
+    "date": "السبت 2026/05/02",
+    "round": "الجولة 29",
+    "status": "قريباً",
     "home": "ناخون راتشاسيما مازدا",
     "homeLogo": "https://jdwel.com/image/teams/3074.png",
     "away": "سوكوتاي",
@@ -1816,6 +2497,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "السبت 2026/05/02",
+    "round": "الجولة 29",
+    "status": "قريباً",
     "home": "بانكوك يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/1258.png",
     "away": "أيوثايا يونايتد",
@@ -1824,6 +2508,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "السبت 2026/05/02",
+    "round": "الجولة 29",
+    "status": "قريباً",
     "home": "كانشانابوري",
     "homeLogo": "https://jdwel.com/image/teams/3304.png",
     "away": "تشونبوري",
@@ -1832,6 +2519,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأحد 2026/05/03",
+    "round": "الجولة 29",
+    "status": "قريباً",
     "home": "PT براشواب",
     "homeLogo": "https://jdwel.com/image/teams/2092.png",
     "away": "أوثاي ثاني",
@@ -1840,6 +2530,9 @@
     "time": "2:00 م"
   },
   {
+    "date": "الأحد 2026/05/03",
+    "round": "الجولة 29",
+    "status": "قريباً",
     "home": "راتشابوري",
     "homeLogo": "https://jdwel.com/image/teams/2093.png",
     "away": "رايونغ",
@@ -1848,6 +2541,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "الأحد 2026/05/03",
+    "round": "الجولة 29",
+    "status": "قريباً",
     "home": "لامفون وريور",
     "homeLogo": "https://jdwel.com/image/teams/444.png",
     "away": "تشيانغراي يونايتد",

@@ -1,5 +1,8 @@
 [
   {
+    "date": "الأثنين 2025/03/24",
+    "round": "",
+    "status": "انتهت",
     "home": "كاليدونيا الجديدة",
     "homeLogo": "https://jdwel.com/image/teams/87.png",
     "away": "نيوزيلندا",
@@ -8,6 +11,9 @@
     "time": "8:00 ص"
   },
   {
+    "date": "الجمعة 2025/03/21",
+    "round": "",
+    "status": "انتهت",
     "home": "نيوزيلندا",
     "homeLogo": "https://jdwel.com/image/teams/39.png",
     "away": "فيجي",
@@ -16,6 +22,9 @@
     "time": "8:10 ص"
   },
   {
+    "date": "الجمعة 2025/03/21",
+    "round": "",
+    "status": "انتهت",
     "home": "كاليدونيا الجديدة",
     "homeLogo": "https://jdwel.com/image/teams/87.png",
     "away": "تاهيتي",
@@ -24,6 +33,9 @@
     "time": "4:10 ص"
   },
   {
+    "date": "الأثنين 2024/11/18",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "ساموا",
     "homeLogo": "https://jdwel.com/image/teams/929.png",
     "away": "نيوزيلندا",
@@ -32,6 +44,9 @@
     "time": "8:30 ص"
   },
   {
+    "date": "الأثنين 2024/11/18",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "تاهيتي",
     "homeLogo": "https://jdwel.com/image/teams/90.png",
     "away": "فانواتو",
@@ -40,6 +55,9 @@
     "time": "5:00 ص"
   },
   {
+    "date": "الأحد 2024/11/17",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "بابوا غينيا الجديدة",
     "homeLogo": "https://jdwel.com/image/teams/239.png",
     "away": "جزر سليمان",
@@ -48,6 +66,9 @@
     "time": "8:00 ص"
   },
   {
+    "date": "الأحد 2024/11/17",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "فيجي",
     "homeLogo": "https://jdwel.com/image/teams/245.png",
     "away": "كاليدونيا الجديدة",
@@ -56,6 +77,9 @@
     "time": "5:00 ص"
   },
   {
+    "date": "الجمعة 2024/11/15",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "نيوزيلندا",
     "homeLogo": "https://jdwel.com/image/teams/39.png",
     "away": "فانواتو",
@@ -64,6 +88,9 @@
     "time": "8:30 ص"
   },
   {
+    "date": "الجمعة 2024/11/15",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "ساموا",
     "homeLogo": "https://jdwel.com/image/teams/929.png",
     "away": "تاهيتي",
@@ -72,6 +99,9 @@
     "time": "5:00 ص"
   },
   {
+    "date": "الخميس 2024/11/14",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "بابوا غينيا الجديدة",
     "homeLogo": "https://jdwel.com/image/teams/239.png",
     "away": "فيجي",
@@ -80,6 +110,9 @@
     "time": "8:00 ص"
   },
   {
+    "date": "الخميس 2024/11/14",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "جزر سليمان",
     "homeLogo": "https://jdwel.com/image/teams/86.png",
     "away": "كاليدونيا الجديدة",
@@ -88,6 +121,9 @@
     "time": "5:00 ص"
   },
   {
+    "date": "السبت 2024/10/12",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "فانواتو",
     "homeLogo": "https://jdwel.com/image/teams/89.png",
     "away": "ساموا",
@@ -96,6 +132,9 @@
     "time": "6:00 ص"
   },
   {
+    "date": "الجمعة 2024/10/11",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "نيوزيلندا",
     "homeLogo": "https://jdwel.com/image/teams/39.png",
     "away": "تاهيتي",
@@ -104,6 +143,9 @@
     "time": "5:00 ص"
   },
   {
+    "date": "الخميس 2024/10/10",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "جزر سليمان",
     "homeLogo": "https://jdwel.com/image/teams/86.png",
     "away": "فيجي",
@@ -112,6 +154,9 @@
     "time": "10:00 ص"
   },
   {
+    "date": "الخميس 2024/10/10",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "كاليدونيا الجديدة",
     "homeLogo": "https://jdwel.com/image/teams/87.png",
     "away": "بابوا غينيا الجديدة",
@@ -120,6 +165,9 @@
     "time": "7:00 ص"
   },
   {
+    "date": "الأثنين 2024/09/09",
+    "round": "",
+    "status": "انتهت",
     "home": "تونجا",
     "homeLogo": "https://jdwel.com/image/teams/930.png",
     "away": "ساموا",
@@ -128,6 +176,9 @@
     "time": "5:00 ص"
   },
   {
+    "date": "الجمعة 2024/09/06",
+    "round": "",
+    "status": "انتهت",
     "home": "الساموا الأمريكية",
     "homeLogo": "https://jdwel.com/image/teams/928.png",
     "away": "ساموا",
@@ -136,6 +187,9 @@
     "time": "5:00 ص"
   },
   {
+    "date": "الجمعة 2024/09/06",
+    "round": "",
+    "status": "انتهت",
     "home": "جزر كوك",
     "homeLogo": "https://jdwel.com/image/teams/251.png",
     "away": "تونجا",

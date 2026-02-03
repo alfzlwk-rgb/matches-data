@@ -1,5 +1,8 @@
 [
   {
+    "date": "الأحد 2026/02/01",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "الراسينغ البيضاوي",
     "homeLogo": "https://jdwel.com/image/teams/2483.png",
     "away": "شباب المسيرة",
@@ -8,6 +11,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الأحد 2026/02/01",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "وداد فاس",
     "homeLogo": "https://jdwel.com/image/teams/3243.png",
     "away": "الإتحاد الرياضي البجعدي",
@@ -16,6 +22,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الأحد 2026/02/01",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "سطاد المغربي",
     "homeLogo": "https://jdwel.com/image/teams/2486.png",
     "away": "شباب المحمدية",
@@ -24,6 +33,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الأحد 2026/02/01",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "شباب بن جرير",
     "homeLogo": "https://jdwel.com/image/teams/3244.png",
     "away": "مولودية وجدة",
@@ -32,6 +44,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "السبت 2026/01/31",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "الاتحاد الإسلامي الوجدي",
     "homeLogo": "https://jdwel.com/image/teams/100.png",
     "away": "شباب السوالم",
@@ -40,6 +55,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "السبت 2026/01/31",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "أمل تزنيت",
     "homeLogo": "https://jdwel.com/image/teams/586.png",
     "away": "المغرب التطواني",
@@ -48,6 +66,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "السبت 2026/01/31",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "رجاء بني ملال",
     "homeLogo": "https://jdwel.com/image/teams/2482.png",
     "away": "وداد تمارة",
@@ -56,6 +77,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "السبت 2026/01/31",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "النادي القنيطري",
     "homeLogo": "https://jdwel.com/image/teams/2481.png",
     "away": "شباب أطلس خنيفرة",
@@ -64,6 +88,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الأحد 2026/01/25",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "مولودية وجدة",
     "homeLogo": "https://jdwel.com/image/teams/2480.png",
     "away": "النادي القنيطري",
@@ -72,6 +99,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأحد 2026/01/25",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "الراسينغ البيضاوي",
     "homeLogo": "https://jdwel.com/image/teams/2483.png",
     "away": "وداد فاس",
@@ -80,6 +110,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الأحد 2026/01/25",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "الإتحاد الرياضي البجعدي",
     "homeLogo": "https://jdwel.com/image/teams/4519.png",
     "away": "الاتحاد الإسلامي الوجدي",
@@ -88,6 +121,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الأحد 2026/01/25",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "شباب السوالم",
     "homeLogo": "https://jdwel.com/image/teams/1037.png",
     "away": "أمل تزنيت",
@@ -96,6 +132,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "السبت 2026/01/24",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "المغرب التطواني",
     "homeLogo": "https://jdwel.com/image/teams/2439.png",
     "away": "شباب بن جرير",
@@ -104,6 +143,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "السبت 2026/01/24",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "شباب أطلس خنيفرة",
     "homeLogo": "https://jdwel.com/image/teams/3245.png",
     "away": "رجاء بني ملال",
@@ -112,6 +154,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "السبت 2026/01/24",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "وداد تمارة",
     "homeLogo": "https://jdwel.com/image/teams/386.png",
     "away": "شباب المحمدية",
@@ -120,6 +165,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "السبت 2026/01/24",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "شباب المسيرة",
     "homeLogo": "https://jdwel.com/image/teams/2748.png",
     "away": "سطاد المغربي",
@@ -128,6 +176,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الأحد 2025/12/07",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "النادي القنيطري",
     "homeLogo": "https://jdwel.com/image/teams/2481.png",
     "away": "وداد تمارة",
@@ -136,6 +187,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأحد 2025/12/07",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "وداد فاس",
     "homeLogo": "https://jdwel.com/image/teams/3243.png",
     "away": "المغرب التطواني",
@@ -144,6 +198,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الأحد 2025/12/07",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "شباب بن جرير",
     "homeLogo": "https://jdwel.com/image/teams/3244.png",
     "away": "الراسينغ البيضاوي",
@@ -152,6 +209,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الأحد 2025/12/07",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "سطاد المغربي",
     "homeLogo": "https://jdwel.com/image/teams/2486.png",
     "away": "الإتحاد الرياضي البجعدي",
@@ -160,6 +220,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "السبت 2025/12/06",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "الاتحاد الإسلامي الوجدي",
     "homeLogo": "https://jdwel.com/image/teams/100.png",
     "away": "مولودية وجدة",
@@ -168,6 +231,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "السبت 2025/12/06",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "رجاء بني ملال",
     "homeLogo": "https://jdwel.com/image/teams/2482.png",
     "away": "شباب السوالم",
@@ -176,6 +242,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "السبت 2025/12/06",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "شباب المحمدية",
     "homeLogo": "https://jdwel.com/image/teams/2788.png",
     "away": "شباب أطلس خنيفرة",
@@ -184,6 +253,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "السبت 2025/12/06",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "أمل تزنيت",
     "homeLogo": "https://jdwel.com/image/teams/586.png",
     "away": "شباب المسيرة",
@@ -192,6 +264,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الأحد 2025/11/30",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "المغرب التطواني",
     "homeLogo": "https://jdwel.com/image/teams/2439.png",
     "away": "النادي القنيطري",
@@ -200,6 +275,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأحد 2025/11/30",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "الراسينغ البيضاوي",
     "homeLogo": "https://jdwel.com/image/teams/2483.png",
     "away": "الاتحاد الإسلامي الوجدي",
@@ -208,6 +286,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الأحد 2025/11/30",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "وداد فاس",
     "homeLogo": "https://jdwel.com/image/teams/3243.png",
     "away": "سطاد المغربي",
@@ -216,6 +297,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الأحد 2025/11/30",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "الإتحاد الرياضي البجعدي",
     "homeLogo": "https://jdwel.com/image/teams/4519.png",
     "away": "أمل تزنيت",
@@ -224,6 +308,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "السبت 2025/11/29",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "مولودية وجدة",
     "homeLogo": "https://jdwel.com/image/teams/2480.png",
     "away": "رجاء بني ملال",
@@ -232,6 +319,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "السبت 2025/11/29",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "شباب السوالم",
     "homeLogo": "https://jdwel.com/image/teams/1037.png",
     "away": "شباب المحمدية",
@@ -240,6 +330,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "السبت 2025/11/29",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "شباب المسيرة",
     "homeLogo": "https://jdwel.com/image/teams/2748.png",
     "away": "شباب بن جرير",
@@ -248,6 +341,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "السبت 2025/11/29",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "وداد تمارة",
     "homeLogo": "https://jdwel.com/image/teams/386.png",
     "away": "شباب أطلس خنيفرة",
@@ -256,6 +352,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الأحد 2025/11/23",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "النادي القنيطري",
     "homeLogo": "https://jdwel.com/image/teams/2481.png",
     "away": "شباب المسيرة",
@@ -264,6 +363,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأحد 2025/11/23",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "الاتحاد الإسلامي الوجدي",
     "homeLogo": "https://jdwel.com/image/teams/100.png",
     "away": "المغرب التطواني",
@@ -272,6 +374,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الأحد 2025/11/23",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "شباب المحمدية",
     "homeLogo": "https://jdwel.com/image/teams/2788.png",
     "away": "مولودية وجدة",
@@ -280,6 +385,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الأحد 2025/11/23",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "سطاد المغربي",
     "homeLogo": "https://jdwel.com/image/teams/2486.png",
     "away": "الراسينغ البيضاوي",
@@ -288,6 +396,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "السبت 2025/11/22",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "رجاء بني ملال",
     "homeLogo": "https://jdwel.com/image/teams/2482.png",
     "away": "الإتحاد الرياضي البجعدي",
@@ -296,6 +407,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "السبت 2025/11/22",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "شباب بن جرير",
     "homeLogo": "https://jdwel.com/image/teams/3244.png",
     "away": "وداد فاس",
@@ -304,6 +418,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "السبت 2025/11/22",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "أمل تزنيت",
     "homeLogo": "https://jdwel.com/image/teams/586.png",
     "away": "وداد تمارة",
@@ -312,6 +429,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "السبت 2025/11/22",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "شباب أطلس خنيفرة",
     "homeLogo": "https://jdwel.com/image/teams/3245.png",
     "away": "شباب السوالم",
@@ -320,6 +440,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الأحد 2025/11/16",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "مولودية وجدة",
     "homeLogo": "https://jdwel.com/image/teams/2480.png",
     "away": "شباب أطلس خنيفرة",
@@ -328,6 +451,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأحد 2025/11/16",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "شباب المسيرة",
     "homeLogo": "https://jdwel.com/image/teams/2748.png",
     "away": "شباب المحمدية",
@@ -336,6 +462,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الأحد 2025/11/16",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "شباب السوالم",
     "homeLogo": "https://jdwel.com/image/teams/1037.png",
     "away": "وداد تمارة",
@@ -344,6 +473,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الأحد 2025/11/16",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "سطاد المغربي",
     "homeLogo": "https://jdwel.com/image/teams/2486.png",
     "away": "شباب بن جرير",
@@ -352,6 +484,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "السبت 2025/11/15",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "المغرب التطواني",
     "homeLogo": "https://jdwel.com/image/teams/2439.png",
     "away": "رجاء بني ملال",
@@ -360,6 +495,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "السبت 2025/11/15",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "الإتحاد الرياضي البجعدي",
     "homeLogo": "https://jdwel.com/image/teams/4519.png",
     "away": "النادي القنيطري",
@@ -368,6 +506,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "السبت 2025/11/15",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "وداد فاس",
     "homeLogo": "https://jdwel.com/image/teams/3243.png",
     "away": "الاتحاد الإسلامي الوجدي",
@@ -376,6 +517,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "السبت 2025/11/15",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "الراسينغ البيضاوي",
     "homeLogo": "https://jdwel.com/image/teams/2483.png",
     "away": "أمل تزنيت",
@@ -384,6 +528,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الأحد 2025/11/09",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "شباب أطلس خنيفرة",
     "homeLogo": "https://jdwel.com/image/teams/3245.png",
     "away": "المغرب التطواني",
@@ -392,6 +539,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأحد 2025/11/09",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "شباب المحمدية",
     "homeLogo": "https://jdwel.com/image/teams/2788.png",
     "away": "الإتحاد الرياضي البجعدي",
@@ -400,6 +550,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الأحد 2025/11/09",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "رجاء بني ملال",
     "homeLogo": "https://jdwel.com/image/teams/2482.png",
     "away": "وداد فاس",
@@ -408,6 +561,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الأحد 2025/11/09",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "الاتحاد الإسلامي الوجدي",
     "homeLogo": "https://jdwel.com/image/teams/100.png",
     "away": "سطاد المغربي",
@@ -416,6 +572,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الأحد 2025/11/09",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "أمل تزنيت",
     "homeLogo": "https://jdwel.com/image/teams/586.png",
     "away": "شباب بن جرير",
@@ -424,6 +583,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "السبت 2025/11/08",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "النادي القنيطري",
     "homeLogo": "https://jdwel.com/image/teams/2481.png",
     "away": "الراسينغ البيضاوي",
@@ -432,6 +594,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "السبت 2025/11/08",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "شباب السوالم",
     "homeLogo": "https://jdwel.com/image/teams/1037.png",
     "away": "شباب المسيرة",
@@ -440,6 +605,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "السبت 2025/11/08",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "وداد تمارة",
     "homeLogo": "https://jdwel.com/image/teams/386.png",
     "away": "مولودية وجدة",
@@ -448,6 +616,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الأحد 2025/11/02",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "المغرب التطواني",
     "homeLogo": "https://jdwel.com/image/teams/2439.png",
     "away": "شباب المحمدية",
@@ -456,6 +627,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأحد 2025/11/02",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "شباب المسيرة",
     "homeLogo": "https://jdwel.com/image/teams/2748.png",
     "away": "وداد تمارة",
@@ -464,6 +638,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2025/11/02",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "الراسينغ البيضاوي",
     "homeLogo": "https://jdwel.com/image/teams/2483.png",
     "away": "رجاء بني ملال",
@@ -472,6 +649,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2025/11/02",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "الإتحاد الرياضي البجعدي",
     "homeLogo": "https://jdwel.com/image/teams/4519.png",
     "away": "شباب أطلس خنيفرة",
@@ -480,6 +660,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "السبت 2025/11/01",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "مولودية وجدة",
     "homeLogo": "https://jdwel.com/image/teams/2480.png",
     "away": "شباب السوالم",
@@ -488,6 +671,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "السبت 2025/11/01",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "شباب بن جرير",
     "homeLogo": "https://jdwel.com/image/teams/3244.png",
     "away": "الاتحاد الإسلامي الوجدي",
@@ -496,6 +682,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "السبت 2025/11/01",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "سطاد المغربي",
     "homeLogo": "https://jdwel.com/image/teams/2486.png",
     "away": "النادي القنيطري",
@@ -504,6 +693,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "السبت 2025/11/01",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "وداد فاس",
     "homeLogo": "https://jdwel.com/image/teams/3243.png",
     "away": "أمل تزنيت",
@@ -512,6 +704,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2025/10/26",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "شباب أطلس خنيفرة",
     "homeLogo": "https://jdwel.com/image/teams/3245.png",
     "away": "شباب بن جرير",
@@ -520,6 +715,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الأحد 2025/10/26",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "النادي القنيطري",
     "homeLogo": "https://jdwel.com/image/teams/2481.png",
     "away": "وداد فاس",
@@ -528,6 +726,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الأحد 2025/10/26",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "شباب المحمدية",
     "homeLogo": "https://jdwel.com/image/teams/2788.png",
     "away": "الراسينغ البيضاوي",
@@ -536,6 +737,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2025/10/26",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "وداد تمارة",
     "homeLogo": "https://jdwel.com/image/teams/386.png",
     "away": "الإتحاد الرياضي البجعدي",
@@ -544,6 +748,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/10/25",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "مولودية وجدة",
     "homeLogo": "https://jdwel.com/image/teams/2480.png",
     "away": "شباب المسيرة",
@@ -552,6 +759,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "السبت 2025/10/25",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "شباب السوالم",
     "homeLogo": "https://jdwel.com/image/teams/1037.png",
     "away": "المغرب التطواني",
@@ -560,6 +770,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/10/25",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "رجاء بني ملال",
     "homeLogo": "https://jdwel.com/image/teams/2482.png",
     "away": "سطاد المغربي",
@@ -568,6 +781,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/10/25",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "أمل تزنيت",
     "homeLogo": "https://jdwel.com/image/teams/586.png",
     "away": "الاتحاد الإسلامي الوجدي",
@@ -576,6 +792,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2025/10/19",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "شباب بن جرير",
     "homeLogo": "https://jdwel.com/image/teams/3244.png",
     "away": "رجاء بني ملال",
@@ -584,6 +803,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2025/10/19",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "الراسينغ البيضاوي",
     "homeLogo": "https://jdwel.com/image/teams/2483.png",
     "away": "وداد تمارة",
@@ -592,6 +814,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2025/10/19",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "سطاد المغربي",
     "homeLogo": "https://jdwel.com/image/teams/2486.png",
     "away": "أمل تزنيت",
@@ -600,6 +825,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2025/10/19",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "وداد فاس",
     "homeLogo": "https://jdwel.com/image/teams/3243.png",
     "away": "شباب المحمدية",
@@ -608,6 +836,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/10/18",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "المغرب التطواني",
     "homeLogo": "https://jdwel.com/image/teams/2439.png",
     "away": "مولودية وجدة",
@@ -616,6 +847,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "السبت 2025/10/18",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "شباب المسيرة",
     "homeLogo": "https://jdwel.com/image/teams/2748.png",
     "away": "شباب أطلس خنيفرة",
@@ -624,6 +858,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/10/18",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "الإتحاد الرياضي البجعدي",
     "homeLogo": "https://jdwel.com/image/teams/4519.png",
     "away": "شباب السوالم",
@@ -632,6 +869,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/10/18",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "الاتحاد الإسلامي الوجدي",
     "homeLogo": "https://jdwel.com/image/teams/100.png",
     "away": "النادي القنيطري",
@@ -640,6 +880,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2025/10/12",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "النادي القنيطري",
     "homeLogo": "https://jdwel.com/image/teams/2481.png",
     "away": "أمل تزنيت",
@@ -648,6 +891,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الأحد 2025/10/12",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "مولودية وجدة",
     "homeLogo": "https://jdwel.com/image/teams/2480.png",
     "away": "سطاد المغربي",
@@ -656,6 +902,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الأحد 2025/10/12",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "شباب المسيرة",
     "homeLogo": "https://jdwel.com/image/teams/2748.png",
     "away": "الإتحاد الرياضي البجعدي",
@@ -664,6 +913,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2025/10/12",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "رجاء بني ملال",
     "homeLogo": "https://jdwel.com/image/teams/2482.png",
     "away": "الاتحاد الإسلامي الوجدي",
@@ -672,6 +924,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/10/11",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "شباب أطلس خنيفرة",
     "homeLogo": "https://jdwel.com/image/teams/3245.png",
     "away": "الراسينغ البيضاوي",
@@ -680,6 +935,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/10/11",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "شباب السوالم",
     "homeLogo": "https://jdwel.com/image/teams/1037.png",
     "away": "وداد فاس",
@@ -688,6 +946,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/10/11",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "شباب المحمدية",
     "homeLogo": "https://jdwel.com/image/teams/2788.png",
     "away": "شباب بن جرير",
@@ -696,6 +957,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/10/11",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "وداد تمارة",
     "homeLogo": "https://jdwel.com/image/teams/386.png",
     "away": "المغرب التطواني",
@@ -704,6 +968,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2025/10/05",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "المغرب التطواني",
     "homeLogo": "https://jdwel.com/image/teams/2439.png",
     "away": "شباب المسيرة",
@@ -712,6 +979,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الأحد 2025/10/05",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "الإتحاد الرياضي البجعدي",
     "homeLogo": "https://jdwel.com/image/teams/4519.png",
     "away": "مولودية وجدة",
@@ -720,6 +990,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2025/10/05",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "الاتحاد الإسلامي الوجدي",
     "homeLogo": "https://jdwel.com/image/teams/100.png",
     "away": "شباب المحمدية",
@@ -728,6 +1001,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2025/10/05",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "أمل تزنيت",
     "homeLogo": "https://jdwel.com/image/teams/586.png",
     "away": "رجاء بني ملال",
@@ -736,6 +1012,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/10/04",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "شباب بن جرير",
     "homeLogo": "https://jdwel.com/image/teams/3244.png",
     "away": "النادي القنيطري",
@@ -744,6 +1023,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/10/04",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "سطاد المغربي",
     "homeLogo": "https://jdwel.com/image/teams/2486.png",
     "away": "شباب أطلس خنيفرة",
@@ -752,6 +1034,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/10/04",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "وداد فاس",
     "homeLogo": "https://jdwel.com/image/teams/3243.png",
     "away": "وداد تمارة",
@@ -760,6 +1045,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/10/04",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "الراسينغ البيضاوي",
     "homeLogo": "https://jdwel.com/image/teams/2483.png",
     "away": "شباب السوالم",
@@ -768,6 +1056,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2025/09/28",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "النادي القنيطري",
     "homeLogo": "https://jdwel.com/image/teams/2481.png",
     "away": "رجاء بني ملال",
@@ -776,6 +1067,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الأحد 2025/09/28",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "مولودية وجدة",
     "homeLogo": "https://jdwel.com/image/teams/2480.png",
     "away": "الراسينغ البيضاوي",
@@ -784,6 +1078,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الأحد 2025/09/28",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "شباب المسيرة",
     "homeLogo": "https://jdwel.com/image/teams/2748.png",
     "away": "الاتحاد الإسلامي الوجدي",
@@ -792,6 +1089,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2025/09/28",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "وداد تمارة",
     "homeLogo": "https://jdwel.com/image/teams/386.png",
     "away": "شباب بن جرير",
@@ -800,6 +1100,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/09/27",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "شباب السوالم",
     "homeLogo": "https://jdwel.com/image/teams/1037.png",
     "away": "سطاد المغربي",
@@ -808,6 +1111,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "السبت 2025/09/27",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "الإتحاد الرياضي البجعدي",
     "homeLogo": "https://jdwel.com/image/teams/4519.png",
     "away": "المغرب التطواني",
@@ -816,6 +1122,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/09/27",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "شباب أطلس خنيفرة",
     "homeLogo": "https://jdwel.com/image/teams/3245.png",
     "away": "وداد فاس",
@@ -824,6 +1133,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/09/27",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "شباب المحمدية",
     "homeLogo": "https://jdwel.com/image/teams/2788.png",
     "away": "أمل تزنيت",

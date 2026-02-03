@@ -1,5 +1,8 @@
 [
   {
+    "date": "الجمعة 2025/08/22",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "فلازنيا شكودر",
     "homeLogo": "https://jdwel.com/image/teams/alb_vllaznia_shkoder.png",
     "away": "إيجناتيا روجوزين",
@@ -8,6 +11,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "السبت 2025/08/23",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "بيليس بالش",
     "homeLogo": "https://jdwel.com/image/teams/808.png",
     "away": "تيرانا",
@@ -16,6 +22,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/08/23",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "AF البساني",
     "homeLogo": "https://jdwel.com/image/teams/809.png",
     "away": "فلامورتاري",
@@ -24,6 +33,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الأحد 2025/08/24",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "بارتيزاني تيرانا",
     "homeLogo": "https://jdwel.com/image/teams/3542.png",
     "away": "فورا",
@@ -32,6 +44,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "السبت 2025/08/30",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "فلامورتاري",
     "homeLogo": "https://jdwel.com/image/teams/4814.png",
     "away": "بيليس بالش",
@@ -40,6 +55,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "السبت 2025/08/30",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "بارتيزاني تيرانا",
     "homeLogo": "https://jdwel.com/image/teams/3542.png",
     "away": "تيوتا دورس",
@@ -48,6 +66,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "السبت 2025/08/30",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "إيجناتيا روجوزين",
     "homeLogo": "https://jdwel.com/image/teams/2545.png",
     "away": "AF البساني",
@@ -56,6 +77,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الأحد 2025/08/31",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "فورا",
     "homeLogo": "https://jdwel.com/image/teams/3648.png",
     "away": "تيرانا",
@@ -64,6 +88,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2025/08/31",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "دينامو سيتي",
     "homeLogo": "https://jdwel.com/image/teams/2544.png",
     "away": "فلازنيا شكودر",
@@ -72,6 +99,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "السبت 2025/09/13",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "بيليس بالش",
     "homeLogo": "https://jdwel.com/image/teams/808.png",
     "away": "إيجناتيا روجوزين",
@@ -80,6 +110,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "السبت 2025/09/13",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "تيرانا",
     "homeLogo": "https://jdwel.com/image/teams/alb_tirana.png",
     "away": "فلامورتاري",
@@ -88,6 +121,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "السبت 2025/09/13",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "فلازنيا شكودر",
     "homeLogo": "https://jdwel.com/image/teams/alb_vllaznia_shkoder.png",
     "away": "بارتيزاني تيرانا",
@@ -96,6 +132,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الأحد 2025/09/14",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "AF البساني",
     "homeLogo": "https://jdwel.com/image/teams/809.png",
     "away": "دينامو سيتي",
@@ -104,6 +143,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الأحد 2025/09/14",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "تيوتا دورس",
     "homeLogo": "https://jdwel.com/image/teams/4813.png",
     "away": "فورا",
@@ -112,6 +154,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الأربعاء 2025/09/17",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "تيوتا دورس",
     "homeLogo": "https://jdwel.com/image/teams/4813.png",
     "away": "دينامو سيتي",
@@ -120,6 +165,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "السبت 2025/09/20",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "بارتيزاني تيرانا",
     "homeLogo": "https://jdwel.com/image/teams/3542.png",
     "away": "AF البساني",
@@ -128,6 +176,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "السبت 2025/09/20",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "إيجناتيا روجوزين",
     "homeLogo": "https://jdwel.com/image/teams/2545.png",
     "away": "تيرانا",
@@ -136,6 +187,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الأحد 2025/09/21",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "فورا",
     "homeLogo": "https://jdwel.com/image/teams/3648.png",
     "away": "فلامورتاري",
@@ -144,6 +198,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2025/09/21",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "دينامو سيتي",
     "homeLogo": "https://jdwel.com/image/teams/2544.png",
     "away": "بيليس بالش",
@@ -152,6 +209,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2025/09/21",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "تيوتا دورس",
     "homeLogo": "https://jdwel.com/image/teams/4813.png",
     "away": "فلازنيا شكودر",
@@ -160,6 +220,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "السبت 2025/09/27",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "بيليس بالش",
     "homeLogo": "https://jdwel.com/image/teams/808.png",
     "away": "بارتيزاني تيرانا",
@@ -168,6 +231,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "السبت 2025/09/27",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "تيرانا",
     "homeLogo": "https://jdwel.com/image/teams/alb_tirana.png",
     "away": "دينامو سيتي",
@@ -176,6 +242,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "السبت 2025/09/27",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "AF البساني",
     "homeLogo": "https://jdwel.com/image/teams/809.png",
     "away": "تيوتا دورس",
@@ -184,6 +253,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الأحد 2025/09/28",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "فلامورتاري",
     "homeLogo": "https://jdwel.com/image/teams/4814.png",
     "away": "إيجناتيا روجوزين",
@@ -192,6 +264,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الأحد 2025/09/28",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "فلازنيا شكودر",
     "homeLogo": "https://jdwel.com/image/teams/alb_vllaznia_shkoder.png",
     "away": "فورا",
@@ -200,6 +275,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الجمعة 2025/10/03",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "بارتيزاني تيرانا",
     "homeLogo": "https://jdwel.com/image/teams/3542.png",
     "away": "تيرانا",
@@ -208,6 +286,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "السبت 2025/10/04",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "دينامو سيتي",
     "homeLogo": "https://jdwel.com/image/teams/2544.png",
     "away": "فلامورتاري",
@@ -216,6 +297,9 @@
     "time": "4:30 م"
   },
   {
+    "date": "السبت 2025/10/04",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "فلازنيا شكودر",
     "homeLogo": "https://jdwel.com/image/teams/alb_vllaznia_shkoder.png",
     "away": "AF البساني",
@@ -224,6 +308,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الأحد 2025/10/05",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "فورا",
     "homeLogo": "https://jdwel.com/image/teams/3648.png",
     "away": "إيجناتيا روجوزين",
@@ -232,6 +319,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأحد 2025/10/05",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "تيوتا دورس",
     "homeLogo": "https://jdwel.com/image/teams/4813.png",
     "away": "بيليس بالش",
@@ -240,6 +330,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/10/18",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "بيليس بالش",
     "homeLogo": "https://jdwel.com/image/teams/808.png",
     "away": "فلازنيا شكودر",
@@ -248,6 +341,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "السبت 2025/10/18",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "إيجناتيا روجوزين",
     "homeLogo": "https://jdwel.com/image/teams/2545.png",
     "away": "دينامو سيتي",
@@ -256,6 +352,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/10/18",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "تيرانا",
     "homeLogo": "https://jdwel.com/image/teams/alb_tirana.png",
     "away": "تيوتا دورس",
@@ -264,6 +363,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2025/10/19",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "AF البساني",
     "homeLogo": "https://jdwel.com/image/teams/809.png",
     "away": "فورا",
@@ -272,6 +374,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2025/10/19",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "فلامورتاري",
     "homeLogo": "https://jdwel.com/image/teams/4814.png",
     "away": "بارتيزاني تيرانا",
@@ -280,6 +385,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الجمعة 2025/10/24",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "فورا",
     "homeLogo": "https://jdwel.com/image/teams/3648.png",
     "away": "دينامو سيتي",
@@ -288,6 +396,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الجمعة 2025/10/24",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "AF البساني",
     "homeLogo": "https://jdwel.com/image/teams/809.png",
     "away": "بيليس بالش",
@@ -296,6 +407,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الجمعة 2025/10/24",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "فلازنيا شكودر",
     "homeLogo": "https://jdwel.com/image/teams/alb_vllaznia_shkoder.png",
     "away": "تيرانا",
@@ -304,6 +418,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/10/25",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "تيوتا دورس",
     "homeLogo": "https://jdwel.com/image/teams/4813.png",
     "away": "فلامورتاري",
@@ -312,6 +429,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/10/25",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "بارتيزاني تيرانا",
     "homeLogo": "https://jdwel.com/image/teams/3542.png",
     "away": "إيجناتيا روجوزين",
@@ -320,6 +440,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الثلاثاء 2025/10/28",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "بيليس بالش",
     "homeLogo": "https://jdwel.com/image/teams/808.png",
     "away": "فورا",
@@ -328,6 +451,9 @@
     "time": "4:00 م"
   },
   {
+    "date": "الثلاثاء 2025/10/28",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "إيجناتيا روجوزين",
     "homeLogo": "https://jdwel.com/image/teams/2545.png",
     "away": "تيوتا دورس",
@@ -336,6 +462,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأربعاء 2025/10/29",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "فلامورتاري",
     "homeLogo": "https://jdwel.com/image/teams/4814.png",
     "away": "فلازنيا شكودر",
@@ -344,6 +473,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأربعاء 2025/10/29",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "دينامو سيتي",
     "homeLogo": "https://jdwel.com/image/teams/2544.png",
     "away": "بارتيزاني تيرانا",
@@ -352,6 +484,9 @@
     "time": "9:30 م"
   },
   {
+    "date": "الأربعاء 2025/10/29",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "تيرانا",
     "homeLogo": "https://jdwel.com/image/teams/alb_tirana.png",
     "away": "AF البساني",
@@ -360,6 +495,9 @@
     "time": "9:30 م"
   },
   {
+    "date": "الأثنين 2025/11/03",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "تيرانا",
     "homeLogo": "https://jdwel.com/image/teams/alb_tirana.png",
     "away": "بيليس بالش",
@@ -368,6 +506,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأثنين 2025/11/03",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "دينامو سيتي",
     "homeLogo": "https://jdwel.com/image/teams/2544.png",
     "away": "تيوتا دورس",
@@ -376,6 +517,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأثنين 2025/11/03",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "فلامورتاري",
     "homeLogo": "https://jdwel.com/image/teams/4814.png",
     "away": "AF البساني",
@@ -384,6 +528,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الثلاثاء 2025/11/04",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "فورا",
     "homeLogo": "https://jdwel.com/image/teams/3648.png",
     "away": "بارتيزاني تيرانا",
@@ -392,6 +539,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الثلاثاء 2025/11/04",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "إيجناتيا روجوزين",
     "homeLogo": "https://jdwel.com/image/teams/2545.png",
     "away": "فلازنيا شكودر",
@@ -400,6 +550,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الجمعة 2025/11/07",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "بيليس بالش",
     "homeLogo": "https://jdwel.com/image/teams/808.png",
     "away": "فلامورتاري",
@@ -408,6 +561,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/11/08",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "تيرانا",
     "homeLogo": "https://jdwel.com/image/teams/alb_tirana.png",
     "away": "فورا",
@@ -416,6 +572,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "السبت 2025/11/08",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "فلازنيا شكودر",
     "homeLogo": "https://jdwel.com/image/teams/alb_vllaznia_shkoder.png",
     "away": "دينامو سيتي",
@@ -424,6 +583,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2025/11/09",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "AF البساني",
     "homeLogo": "https://jdwel.com/image/teams/809.png",
     "away": "إيجناتيا روجوزين",
@@ -432,6 +594,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2025/11/09",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "تيوتا دورس",
     "homeLogo": "https://jdwel.com/image/teams/4813.png",
     "away": "بارتيزاني تيرانا",
@@ -440,6 +605,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "السبت 2025/11/22",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "فورا",
     "homeLogo": "https://jdwel.com/image/teams/3648.png",
     "away": "تيوتا دورس",
@@ -448,6 +616,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "السبت 2025/11/22",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "إيجناتيا روجوزين",
     "homeLogo": "https://jdwel.com/image/teams/2545.png",
     "away": "بيليس بالش",
@@ -456,6 +627,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "السبت 2025/11/22",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "دينامو سيتي",
     "homeLogo": "https://jdwel.com/image/teams/2544.png",
     "away": "AF البساني",
@@ -464,6 +638,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الأحد 2025/11/23",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "فلامورتاري",
     "homeLogo": "https://jdwel.com/image/teams/4814.png",
     "away": "تيرانا",
@@ -472,6 +649,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "الأحد 2025/11/23",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "بارتيزاني تيرانا",
     "homeLogo": "https://jdwel.com/image/teams/3542.png",
     "away": "فلازنيا شكودر",
@@ -480,6 +660,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "الجمعة 2025/11/28",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "فلازنيا شكودر",
     "homeLogo": "https://jdwel.com/image/teams/alb_vllaznia_shkoder.png",
     "away": "تيوتا دورس",
@@ -488,6 +671,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الجمعة 2025/11/28",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "AF البساني",
     "homeLogo": "https://jdwel.com/image/teams/809.png",
     "away": "بارتيزاني تيرانا",
@@ -496,6 +682,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "السبت 2025/11/29",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "بيليس بالش",
     "homeLogo": "https://jdwel.com/image/teams/808.png",
     "away": "دينامو سيتي",
@@ -504,6 +693,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "السبت 2025/11/29",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "تيرانا",
     "homeLogo": "https://jdwel.com/image/teams/alb_tirana.png",
     "away": "إيجناتيا روجوزين",
@@ -512,6 +704,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "السبت 2025/11/29",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "فلامورتاري",
     "homeLogo": "https://jdwel.com/image/teams/4814.png",
     "away": "فورا",
@@ -520,6 +715,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "الأربعاء 2025/12/03",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "تيوتا دورس",
     "homeLogo": "https://jdwel.com/image/teams/4813.png",
     "away": "AF البساني",
@@ -528,6 +726,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "الأربعاء 2025/12/03",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "بارتيزاني تيرانا",
     "homeLogo": "https://jdwel.com/image/teams/3542.png",
     "away": "بيليس بالش",
@@ -536,6 +737,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "الأربعاء 2025/12/03",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "دينامو سيتي",
     "homeLogo": "https://jdwel.com/image/teams/2544.png",
     "away": "تيرانا",
@@ -544,6 +748,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "الخميس 2025/12/04",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "إيجناتيا روجوزين",
     "homeLogo": "https://jdwel.com/image/teams/2545.png",
     "away": "فلامورتاري",
@@ -552,6 +759,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "الخميس 2025/12/04",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "فورا",
     "homeLogo": "https://jdwel.com/image/teams/3648.png",
     "away": "فلازنيا شكودر",
@@ -560,6 +770,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "الأحد 2025/12/07",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "بيليس بالش",
     "homeLogo": "https://jdwel.com/image/teams/808.png",
     "away": "تيوتا دورس",
@@ -568,6 +781,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "الأحد 2025/12/07",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "تيرانا",
     "homeLogo": "https://jdwel.com/image/teams/alb_tirana.png",
     "away": "بارتيزاني تيرانا",
@@ -576,6 +792,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأثنين 2025/12/08",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "إيجناتيا روجوزين",
     "homeLogo": "https://jdwel.com/image/teams/2545.png",
     "away": "فورا",
@@ -584,6 +803,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأثنين 2025/12/08",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "AF البساني",
     "homeLogo": "https://jdwel.com/image/teams/809.png",
     "away": "فلازنيا شكودر",
@@ -592,6 +814,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الأثنين 2025/12/08",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "فلامورتاري",
     "homeLogo": "https://jdwel.com/image/teams/4814.png",
     "away": "دينامو سيتي",
@@ -600,6 +825,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "السبت 2025/12/13",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "فورا",
     "homeLogo": "https://jdwel.com/image/teams/3648.png",
     "away": "AF البساني",
@@ -608,6 +836,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "السبت 2025/12/13",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "بارتيزاني تيرانا",
     "homeLogo": "https://jdwel.com/image/teams/3542.png",
     "away": "فلامورتاري",
@@ -616,6 +847,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "السبت 2025/12/13",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "تيوتا دورس",
     "homeLogo": "https://jdwel.com/image/teams/4813.png",
     "away": "تيرانا",
@@ -624,6 +858,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "الأحد 2025/12/14",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "فلازنيا شكودر",
     "homeLogo": "https://jdwel.com/image/teams/alb_vllaznia_shkoder.png",
     "away": "بيليس بالش",
@@ -632,6 +869,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "الأحد 2025/12/14",
+    "round": "الجولة 16",
+    "status": "انتهت",
     "home": "دينامو سيتي",
     "homeLogo": "https://jdwel.com/image/teams/2544.png",
     "away": "إيجناتيا روجوزين",
@@ -640,6 +880,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الجمعة 2025/12/19",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "دينامو سيتي",
     "homeLogo": "https://jdwel.com/image/teams/2544.png",
     "away": "فورا",
@@ -648,6 +891,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "الجمعة 2025/12/19",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "إيجناتيا روجوزين",
     "homeLogo": "https://jdwel.com/image/teams/2545.png",
     "away": "بارتيزاني تيرانا",
@@ -656,6 +902,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "الجمعة 2025/12/19",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "فلامورتاري",
     "homeLogo": "https://jdwel.com/image/teams/4814.png",
     "away": "تيوتا دورس",
@@ -664,6 +913,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "السبت 2025/12/20",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "تيرانا",
     "homeLogo": "https://jdwel.com/image/teams/alb_tirana.png",
     "away": "فلازنيا شكودر",
@@ -672,6 +924,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "السبت 2025/12/20",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "بيليس بالش",
     "homeLogo": "https://jdwel.com/image/teams/808.png",
     "away": "AF البساني",
@@ -680,6 +935,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "الثلاثاء 2025/12/23",
+    "round": "الجولة 18",
+    "status": "انتهت",
     "home": "بارتيزاني تيرانا",
     "homeLogo": "https://jdwel.com/image/teams/3542.png",
     "away": "دينامو سيتي",
@@ -688,6 +946,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الثلاثاء 2025/12/23",
+    "round": "الجولة 18",
+    "status": "انتهت",
     "home": "تيوتا دورس",
     "homeLogo": "https://jdwel.com/image/teams/4813.png",
     "away": "إيجناتيا روجوزين",
@@ -696,6 +957,9 @@
     "time": "7:00 م"
   },
   {
+    "date": "الأربعاء 2025/12/24",
+    "round": "الجولة 18",
+    "status": "انتهت",
     "home": "فورا",
     "homeLogo": "https://jdwel.com/image/teams/3648.png",
     "away": "بيليس بالش",
@@ -704,6 +968,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "الأربعاء 2025/12/24",
+    "round": "الجولة 18",
+    "status": "انتهت",
     "home": "فلازنيا شكودر",
     "homeLogo": "https://jdwel.com/image/teams/alb_vllaznia_shkoder.png",
     "away": "فلامورتاري",
@@ -712,6 +979,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "الأربعاء 2025/12/24",
+    "round": "الجولة 18",
+    "status": "انتهت",
     "home": "AF البساني",
     "homeLogo": "https://jdwel.com/image/teams/809.png",
     "away": "تيرانا",
@@ -720,6 +990,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "الأربعاء 2026/01/14",
+    "round": "الجولة 19",
+    "status": "انتهت",
     "home": "بيليس بالش",
     "homeLogo": "https://jdwel.com/image/teams/808.png",
     "away": "تيرانا",
@@ -728,6 +1001,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "الأربعاء 2026/01/14",
+    "round": "الجولة 19",
+    "status": "انتهت",
     "home": "AF البساني",
     "homeLogo": "https://jdwel.com/image/teams/809.png",
     "away": "فلامورتاري",
@@ -736,6 +1012,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأربعاء 2026/01/14",
+    "round": "الجولة 19",
+    "status": "انتهت",
     "home": "فلازنيا شكودر",
     "homeLogo": "https://jdwel.com/image/teams/alb_vllaznia_shkoder.png",
     "away": "إيجناتيا روجوزين",
@@ -744,6 +1023,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الخميس 2026/01/15",
+    "round": "الجولة 19",
+    "status": "انتهت",
     "home": "بارتيزاني تيرانا",
     "homeLogo": "https://jdwel.com/image/teams/3542.png",
     "away": "فورا",
@@ -752,6 +1034,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "الخميس 2026/01/15",
+    "round": "الجولة 19",
+    "status": "انتهت",
     "home": "تيوتا دورس",
     "homeLogo": "https://jdwel.com/image/teams/4813.png",
     "away": "دينامو سيتي",
@@ -760,6 +1045,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2026/01/18",
+    "round": "الجولة 20",
+    "status": "انتهت",
     "home": "إيجناتيا روجوزين",
     "homeLogo": "https://jdwel.com/image/teams/2545.png",
     "away": "AF البساني",
@@ -768,6 +1056,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأحد 2026/01/18",
+    "round": "الجولة 20",
+    "status": "انتهت",
     "home": "فلامورتاري",
     "homeLogo": "https://jdwel.com/image/teams/4814.png",
     "away": "بيليس بالش",
@@ -776,6 +1067,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأثنين 2026/01/19",
+    "round": "الجولة 20",
+    "status": "انتهت",
     "home": "فورا",
     "homeLogo": "https://jdwel.com/image/teams/3648.png",
     "away": "تيرانا",
@@ -784,6 +1078,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "الأثنين 2026/01/19",
+    "round": "الجولة 20",
+    "status": "انتهت",
     "home": "بارتيزاني تيرانا",
     "homeLogo": "https://jdwel.com/image/teams/3542.png",
     "away": "تيوتا دورس",
@@ -792,6 +1089,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الأثنين 2026/01/19",
+    "round": "الجولة 20",
+    "status": "انتهت",
     "home": "دينامو سيتي",
     "homeLogo": "https://jdwel.com/image/teams/2544.png",
     "away": "فلازنيا شكودر",
@@ -800,6 +1100,9 @@
     "time": "8:30 م"
   },
   {
+    "date": "السبت 2026/01/24",
+    "round": "الجولة 21",
+    "status": "انتهت",
     "home": "بيليس بالش",
     "homeLogo": "https://jdwel.com/image/teams/808.png",
     "away": "إيجناتيا روجوزين",
@@ -808,6 +1111,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "السبت 2026/01/24",
+    "round": "الجولة 21",
+    "status": "انتهت",
     "home": "فلازنيا شكودر",
     "homeLogo": "https://jdwel.com/image/teams/alb_vllaznia_shkoder.png",
     "away": "بارتيزاني تيرانا",
@@ -816,6 +1122,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "الأحد 2026/01/25",
+    "round": "الجولة 21",
+    "status": "انتهت",
     "home": "تيوتا دورس",
     "homeLogo": "https://jdwel.com/image/teams/4813.png",
     "away": "فورا",
@@ -824,6 +1133,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "الأحد 2026/01/25",
+    "round": "الجولة 21",
+    "status": "انتهت",
     "home": "تيرانا",
     "homeLogo": "https://jdwel.com/image/teams/alb_tirana.png",
     "away": "فلامورتاري",
@@ -832,6 +1144,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "الأحد 2026/01/25",
+    "round": "الجولة 21",
+    "status": "انتهت",
     "home": "AF البساني",
     "homeLogo": "https://jdwel.com/image/teams/809.png",
     "away": "دينامو سيتي",
@@ -840,6 +1155,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "السبت 2026/01/31",
+    "round": "الجولة 22",
+    "status": "انتهت",
     "home": "فورا",
     "homeLogo": "https://jdwel.com/image/teams/3648.png",
     "away": "فلامورتاري",
@@ -848,6 +1166,9 @@
     "time": "2:30 م"
   },
   {
+    "date": "السبت 2026/01/31",
+    "round": "الجولة 22",
+    "status": "انتهت",
     "home": "بارتيزاني تيرانا",
     "homeLogo": "https://jdwel.com/image/teams/3542.png",
     "away": "AF البساني",
@@ -856,6 +1177,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "السبت 2026/01/31",
+    "round": "الجولة 22",
+    "status": "انتهت",
     "home": "دينامو سيتي",
     "homeLogo": "https://jdwel.com/image/teams/2544.png",
     "away": "بيليس بالش",
@@ -864,6 +1188,9 @@
     "time": "8:00 م"
   },
   {
+    "date": "الأحد 2026/02/01",
+    "round": "الجولة 22",
+    "status": "انتهت",
     "home": "تيوتا دورس",
     "homeLogo": "https://jdwel.com/image/teams/4813.png",
     "away": "فلازنيا شكودر",
@@ -872,6 +1199,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "الأحد 2026/02/01",
+    "round": "الجولة 22",
+    "status": "انتهت",
     "home": "إيجناتيا روجوزين",
     "homeLogo": "https://jdwel.com/image/teams/2545.png",
     "away": "تيرانا",
@@ -880,6 +1210,9 @@
     "time": "5:30 م"
   },
   {
+    "date": "السبت 2026/02/07",
+    "round": "الجولة 23",
+    "status": "قريباً",
     "home": "فلامورتاري",
     "homeLogo": "https://jdwel.com/image/teams/4814.png",
     "away": "إيجناتيا روجوزين",
@@ -888,6 +1221,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/02/07",
+    "round": "الجولة 23",
+    "status": "قريباً",
     "home": "تيرانا",
     "homeLogo": "https://jdwel.com/image/teams/alb_tirana.png",
     "away": "دينامو سيتي",
@@ -896,6 +1232,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/02/07",
+    "round": "الجولة 23",
+    "status": "قريباً",
     "home": "بيليس بالش",
     "homeLogo": "https://jdwel.com/image/teams/808.png",
     "away": "بارتيزاني تيرانا",
@@ -904,6 +1243,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/02/07",
+    "round": "الجولة 23",
+    "status": "قريباً",
     "home": "فلازنيا شكودر",
     "homeLogo": "https://jdwel.com/image/teams/alb_vllaznia_shkoder.png",
     "away": "فورا",
@@ -912,6 +1254,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/02/07",
+    "round": "الجولة 23",
+    "status": "قريباً",
     "home": "AF البساني",
     "homeLogo": "https://jdwel.com/image/teams/809.png",
     "away": "تيوتا دورس",
@@ -920,6 +1265,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/02/15",
+    "round": "الجولة 24",
+    "status": "قريباً",
     "home": "دينامو سيتي",
     "homeLogo": "https://jdwel.com/image/teams/2544.png",
     "away": "فلامورتاري",
@@ -928,6 +1276,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/02/15",
+    "round": "الجولة 24",
+    "status": "قريباً",
     "home": "فورا",
     "homeLogo": "https://jdwel.com/image/teams/3648.png",
     "away": "إيجناتيا روجوزين",
@@ -936,6 +1287,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/02/15",
+    "round": "الجولة 24",
+    "status": "قريباً",
     "home": "فلازنيا شكودر",
     "homeLogo": "https://jdwel.com/image/teams/alb_vllaznia_shkoder.png",
     "away": "AF البساني",
@@ -944,6 +1298,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/02/15",
+    "round": "الجولة 24",
+    "status": "قريباً",
     "home": "تيوتا دورس",
     "homeLogo": "https://jdwel.com/image/teams/4813.png",
     "away": "بيليس بالش",
@@ -952,6 +1309,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/02/15",
+    "round": "الجولة 24",
+    "status": "قريباً",
     "home": "بارتيزاني تيرانا",
     "homeLogo": "https://jdwel.com/image/teams/3542.png",
     "away": "تيرانا",
@@ -960,6 +1320,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/02/21",
+    "round": "الجولة 25",
+    "status": "قريباً",
     "home": "تيرانا",
     "homeLogo": "https://jdwel.com/image/teams/alb_tirana.png",
     "away": "تيوتا دورس",
@@ -968,6 +1331,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/02/21",
+    "round": "الجولة 25",
+    "status": "قريباً",
     "home": "بيليس بالش",
     "homeLogo": "https://jdwel.com/image/teams/808.png",
     "away": "فلازنيا شكودر",
@@ -976,6 +1342,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/02/21",
+    "round": "الجولة 25",
+    "status": "قريباً",
     "home": "إيجناتيا روجوزين",
     "homeLogo": "https://jdwel.com/image/teams/2545.png",
     "away": "دينامو سيتي",
@@ -984,6 +1353,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/02/21",
+    "round": "الجولة 25",
+    "status": "قريباً",
     "home": "فلامورتاري",
     "homeLogo": "https://jdwel.com/image/teams/4814.png",
     "away": "بارتيزاني تيرانا",
@@ -992,6 +1364,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/02/21",
+    "round": "الجولة 25",
+    "status": "قريباً",
     "home": "AF البساني",
     "homeLogo": "https://jdwel.com/image/teams/809.png",
     "away": "فورا",
@@ -1000,6 +1375,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/02/28",
+    "round": "الجولة 26",
+    "status": "قريباً",
     "home": "فورا",
     "homeLogo": "https://jdwel.com/image/teams/3648.png",
     "away": "دينامو سيتي",
@@ -1008,6 +1386,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/02/28",
+    "round": "الجولة 26",
+    "status": "قريباً",
     "home": "فلازنيا شكودر",
     "homeLogo": "https://jdwel.com/image/teams/alb_vllaznia_shkoder.png",
     "away": "تيرانا",
@@ -1016,6 +1397,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/02/28",
+    "round": "الجولة 26",
+    "status": "قريباً",
     "home": "تيوتا دورس",
     "homeLogo": "https://jdwel.com/image/teams/4813.png",
     "away": "فلامورتاري",
@@ -1024,6 +1408,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/02/28",
+    "round": "الجولة 26",
+    "status": "قريباً",
     "home": "بارتيزاني تيرانا",
     "homeLogo": "https://jdwel.com/image/teams/3542.png",
     "away": "إيجناتيا روجوزين",
@@ -1032,6 +1419,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/02/28",
+    "round": "الجولة 26",
+    "status": "قريباً",
     "home": "AF البساني",
     "homeLogo": "https://jdwel.com/image/teams/809.png",
     "away": "بيليس بالش",
@@ -1040,6 +1430,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/03/08",
+    "round": "الجولة 27",
+    "status": "قريباً",
     "home": "تيرانا",
     "homeLogo": "https://jdwel.com/image/teams/alb_tirana.png",
     "away": "AF البساني",
@@ -1048,6 +1441,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/03/08",
+    "round": "الجولة 27",
+    "status": "قريباً",
     "home": "إيجناتيا روجوزين",
     "homeLogo": "https://jdwel.com/image/teams/2545.png",
     "away": "تيوتا دورس",
@@ -1056,6 +1452,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/03/08",
+    "round": "الجولة 27",
+    "status": "قريباً",
     "home": "دينامو سيتي",
     "homeLogo": "https://jdwel.com/image/teams/2544.png",
     "away": "بارتيزاني تيرانا",
@@ -1064,6 +1463,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/03/08",
+    "round": "الجولة 27",
+    "status": "قريباً",
     "home": "فلامورتاري",
     "homeLogo": "https://jdwel.com/image/teams/4814.png",
     "away": "فلازنيا شكودر",
@@ -1072,6 +1474,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/03/08",
+    "round": "الجولة 27",
+    "status": "قريباً",
     "home": "بيليس بالش",
     "homeLogo": "https://jdwel.com/image/teams/808.png",
     "away": "فورا",
@@ -1080,6 +1485,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/03/14",
+    "round": "الجولة 28",
+    "status": "قريباً",
     "home": "تيرانا",
     "homeLogo": "https://jdwel.com/image/teams/alb_tirana.png",
     "away": "بيليس بالش",
@@ -1088,6 +1496,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/03/14",
+    "round": "الجولة 28",
+    "status": "قريباً",
     "home": "فورا",
     "homeLogo": "https://jdwel.com/image/teams/3648.png",
     "away": "بارتيزاني تيرانا",
@@ -1096,6 +1507,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/03/14",
+    "round": "الجولة 28",
+    "status": "قريباً",
     "home": "دينامو سيتي",
     "homeLogo": "https://jdwel.com/image/teams/2544.png",
     "away": "تيوتا دورس",
@@ -1104,6 +1518,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/03/14",
+    "round": "الجولة 28",
+    "status": "قريباً",
     "home": "فلامورتاري",
     "homeLogo": "https://jdwel.com/image/teams/4814.png",
     "away": "AF البساني",
@@ -1112,6 +1529,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/03/14",
+    "round": "الجولة 28",
+    "status": "قريباً",
     "home": "إيجناتيا روجوزين",
     "homeLogo": "https://jdwel.com/image/teams/2545.png",
     "away": "فلازنيا شكودر",
@@ -1120,6 +1540,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/03/21",
+    "round": "الجولة 29",
+    "status": "قريباً",
     "home": "تيوتا دورس",
     "homeLogo": "https://jdwel.com/image/teams/4813.png",
     "away": "بارتيزاني تيرانا",
@@ -1128,6 +1551,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/03/21",
+    "round": "الجولة 29",
+    "status": "قريباً",
     "home": "تيرانا",
     "homeLogo": "https://jdwel.com/image/teams/alb_tirana.png",
     "away": "فورا",
@@ -1136,6 +1562,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/03/21",
+    "round": "الجولة 29",
+    "status": "قريباً",
     "home": "AF البساني",
     "homeLogo": "https://jdwel.com/image/teams/809.png",
     "away": "إيجناتيا روجوزين",
@@ -1144,6 +1573,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/03/21",
+    "round": "الجولة 29",
+    "status": "قريباً",
     "home": "فلازنيا شكودر",
     "homeLogo": "https://jdwel.com/image/teams/alb_vllaznia_shkoder.png",
     "away": "دينامو سيتي",
@@ -1152,6 +1584,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/03/21",
+    "round": "الجولة 29",
+    "status": "قريباً",
     "home": "بيليس بالش",
     "homeLogo": "https://jdwel.com/image/teams/808.png",
     "away": "فلامورتاري",
@@ -1160,6 +1595,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/04/04",
+    "round": "الجولة 30",
+    "status": "قريباً",
     "home": "بارتيزاني تيرانا",
     "homeLogo": "https://jdwel.com/image/teams/3542.png",
     "away": "فلازنيا شكودر",
@@ -1168,6 +1606,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/04/04",
+    "round": "الجولة 30",
+    "status": "قريباً",
     "home": "فورا",
     "homeLogo": "https://jdwel.com/image/teams/3648.png",
     "away": "تيوتا دورس",
@@ -1176,6 +1617,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/04/04",
+    "round": "الجولة 30",
+    "status": "قريباً",
     "home": "فلامورتاري",
     "homeLogo": "https://jdwel.com/image/teams/4814.png",
     "away": "تيرانا",
@@ -1184,6 +1628,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/04/04",
+    "round": "الجولة 30",
+    "status": "قريباً",
     "home": "إيجناتيا روجوزين",
     "homeLogo": "https://jdwel.com/image/teams/2545.png",
     "away": "بيليس بالش",
@@ -1192,6 +1639,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/04/04",
+    "round": "الجولة 30",
+    "status": "قريباً",
     "home": "دينامو سيتي",
     "homeLogo": "https://jdwel.com/image/teams/2544.png",
     "away": "AF البساني",
@@ -1200,6 +1650,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/04/12",
+    "round": "الجولة 31",
+    "status": "قريباً",
     "home": "فلازنيا شكودر",
     "homeLogo": "https://jdwel.com/image/teams/alb_vllaznia_shkoder.png",
     "away": "تيوتا دورس",
@@ -1208,6 +1661,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/04/12",
+    "round": "الجولة 31",
+    "status": "قريباً",
     "home": "فلامورتاري",
     "homeLogo": "https://jdwel.com/image/teams/4814.png",
     "away": "فورا",
@@ -1216,6 +1672,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/04/12",
+    "round": "الجولة 31",
+    "status": "قريباً",
     "home": "تيرانا",
     "homeLogo": "https://jdwel.com/image/teams/alb_tirana.png",
     "away": "إيجناتيا روجوزين",
@@ -1224,6 +1683,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/04/12",
+    "round": "الجولة 31",
+    "status": "قريباً",
     "home": "AF البساني",
     "homeLogo": "https://jdwel.com/image/teams/809.png",
     "away": "بارتيزاني تيرانا",
@@ -1232,6 +1694,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/04/12",
+    "round": "الجولة 31",
+    "status": "قريباً",
     "home": "بيليس بالش",
     "homeLogo": "https://jdwel.com/image/teams/808.png",
     "away": "دينامو سيتي",
@@ -1240,6 +1705,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/04/18",
+    "round": "الجولة 32",
+    "status": "قريباً",
     "home": "بارتيزاني تيرانا",
     "homeLogo": "https://jdwel.com/image/teams/3542.png",
     "away": "بيليس بالش",
@@ -1248,6 +1716,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/04/18",
+    "round": "الجولة 32",
+    "status": "قريباً",
     "home": "تيوتا دورس",
     "homeLogo": "https://jdwel.com/image/teams/4813.png",
     "away": "AF البساني",
@@ -1256,6 +1727,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/04/18",
+    "round": "الجولة 32",
+    "status": "قريباً",
     "home": "دينامو سيتي",
     "homeLogo": "https://jdwel.com/image/teams/2544.png",
     "away": "تيرانا",
@@ -1264,6 +1738,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/04/18",
+    "round": "الجولة 32",
+    "status": "قريباً",
     "home": "فورا",
     "homeLogo": "https://jdwel.com/image/teams/3648.png",
     "away": "فلازنيا شكودر",
@@ -1272,6 +1749,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2026/04/18",
+    "round": "الجولة 32",
+    "status": "قريباً",
     "home": "إيجناتيا روجوزين",
     "homeLogo": "https://jdwel.com/image/teams/2545.png",
     "away": "فلامورتاري",
@@ -1280,6 +1760,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الأحد 2026/04/26",
+    "round": "الجولة 33",
+    "status": "قريباً",
     "home": "AF البساني",
     "homeLogo": "https://jdwel.com/image/teams/809.png",
     "away": "فلازنيا شكودر",
@@ -1288,6 +1771,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2026/04/26",
+    "round": "الجولة 33",
+    "status": "قريباً",
     "home": "فلامورتاري",
     "homeLogo": "https://jdwel.com/image/teams/4814.png",
     "away": "دينامو سيتي",
@@ -1296,6 +1782,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2026/04/26",
+    "round": "الجولة 33",
+    "status": "قريباً",
     "home": "بيليس بالش",
     "homeLogo": "https://jdwel.com/image/teams/808.png",
     "away": "تيوتا دورس",
@@ -1304,6 +1793,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2026/04/26",
+    "round": "الجولة 33",
+    "status": "قريباً",
     "home": "تيرانا",
     "homeLogo": "https://jdwel.com/image/teams/alb_tirana.png",
     "away": "بارتيزاني تيرانا",
@@ -1312,6 +1804,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2026/04/26",
+    "round": "الجولة 33",
+    "status": "قريباً",
     "home": "إيجناتيا روجوزين",
     "homeLogo": "https://jdwel.com/image/teams/2545.png",
     "away": "فورا",
@@ -1320,6 +1815,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "السبت 2026/05/02",
+    "round": "الجولة 34",
+    "status": "قريباً",
     "home": "فورا",
     "homeLogo": "https://jdwel.com/image/teams/3648.png",
     "away": "AF البساني",
@@ -1328,6 +1826,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "السبت 2026/05/02",
+    "round": "الجولة 34",
+    "status": "قريباً",
     "home": "فلازنيا شكودر",
     "homeLogo": "https://jdwel.com/image/teams/alb_vllaznia_shkoder.png",
     "away": "بيليس بالش",
@@ -1336,6 +1837,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "السبت 2026/05/02",
+    "round": "الجولة 34",
+    "status": "قريباً",
     "home": "تيوتا دورس",
     "homeLogo": "https://jdwel.com/image/teams/4813.png",
     "away": "تيرانا",
@@ -1344,6 +1848,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "السبت 2026/05/02",
+    "round": "الجولة 34",
+    "status": "قريباً",
     "home": "بارتيزاني تيرانا",
     "homeLogo": "https://jdwel.com/image/teams/3542.png",
     "away": "فلامورتاري",
@@ -1352,6 +1859,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "السبت 2026/05/02",
+    "round": "الجولة 34",
+    "status": "قريباً",
     "home": "دينامو سيتي",
     "homeLogo": "https://jdwel.com/image/teams/2544.png",
     "away": "إيجناتيا روجوزين",
@@ -1360,6 +1870,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأربعاء 2026/05/06",
+    "round": "الجولة 35",
+    "status": "قريباً",
     "home": "فلامورتاري",
     "homeLogo": "https://jdwel.com/image/teams/4814.png",
     "away": "تيوتا دورس",
@@ -1368,6 +1881,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأربعاء 2026/05/06",
+    "round": "الجولة 35",
+    "status": "قريباً",
     "home": "تيرانا",
     "homeLogo": "https://jdwel.com/image/teams/alb_tirana.png",
     "away": "فلازنيا شكودر",
@@ -1376,6 +1892,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأربعاء 2026/05/06",
+    "round": "الجولة 35",
+    "status": "قريباً",
     "home": "دينامو سيتي",
     "homeLogo": "https://jdwel.com/image/teams/2544.png",
     "away": "فورا",
@@ -1384,6 +1903,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأربعاء 2026/05/06",
+    "round": "الجولة 35",
+    "status": "قريباً",
     "home": "إيجناتيا روجوزين",
     "homeLogo": "https://jdwel.com/image/teams/2545.png",
     "away": "بارتيزاني تيرانا",
@@ -1392,6 +1914,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأربعاء 2026/05/06",
+    "round": "الجولة 35",
+    "status": "قريباً",
     "home": "بيليس بالش",
     "homeLogo": "https://jdwel.com/image/teams/808.png",
     "away": "AF البساني",
@@ -1400,6 +1925,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2026/05/10",
+    "round": "الجولة 36",
+    "status": "قريباً",
     "home": "فلازنيا شكودر",
     "homeLogo": "https://jdwel.com/image/teams/alb_vllaznia_shkoder.png",
     "away": "فلامورتاري",
@@ -1408,6 +1936,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2026/05/10",
+    "round": "الجولة 36",
+    "status": "قريباً",
     "home": "AF البساني",
     "homeLogo": "https://jdwel.com/image/teams/809.png",
     "away": "تيرانا",
@@ -1416,6 +1947,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2026/05/10",
+    "round": "الجولة 36",
+    "status": "قريباً",
     "home": "تيوتا دورس",
     "homeLogo": "https://jdwel.com/image/teams/4813.png",
     "away": "إيجناتيا روجوزين",
@@ -1424,6 +1958,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2026/05/10",
+    "round": "الجولة 36",
+    "status": "قريباً",
     "home": "بارتيزاني تيرانا",
     "homeLogo": "https://jdwel.com/image/teams/3542.png",
     "away": "دينامو سيتي",
@@ -1432,6 +1969,9 @@
     "time": "5:00 م"
   },
   {
+    "date": "الأحد 2026/05/10",
+    "round": "الجولة 36",
+    "status": "قريباً",
     "home": "فورا",
     "homeLogo": "https://jdwel.com/image/teams/3648.png",
     "away": "بيليس بالش",

@@ -1,5 +1,8 @@
 [
   {
+    "date": "الأحد 2025/06/15",
+    "round": "",
+    "status": "انتهت",
     "home": "فرنسا",
     "homeLogo": "https://jdwel.com/image/teams/4962.png",
     "away": "السعودية",
@@ -8,14 +11,9 @@
     "time": "7:00 م"
   },
   {
-    "home": "الدنمارك",
-    "homeLogo": "https://jdwel.com/image/teams/flag_denmark_v2.png",
-    "away": "المكسيك",
-    "awayLogo": "https://jdwel.com/image/teams/flag_mexico_v2.png",
-    "score": "2 - 1",
-    "time": "3:30 م"
-  },
-  {
+    "date": "السبت 2025/06/14",
+    "round": "",
+    "status": "انتهت",
     "home": "مالي",
     "homeLogo": "https://jdwel.com/image/teams/35.png",
     "away": "اليابان",
@@ -24,6 +22,9 @@
     "time": "6:00 م"
   },
   {
+    "date": "الجمعة 2025/06/13",
+    "round": "",
+    "status": "انتهت",
     "home": "فرنسا",
     "homeLogo": "https://jdwel.com/image/teams/4962.png",
     "away": "المكسيك",
@@ -32,6 +33,9 @@
     "time": "6:30 م"
   },
   {
+    "date": "الجمعة 2025/06/13",
+    "round": "",
+    "status": "انتهت",
     "home": "الدنمارك",
     "homeLogo": "https://jdwel.com/image/teams/flag_denmark_v2.png",
     "away": "السعودية",
@@ -40,14 +44,9 @@
     "time": "3:00 م"
   },
   {
-    "home": "بنما",
-    "homeLogo": "https://jdwel.com/image/teams/203.png",
-    "away": "جمهورية الكونغو الديمقراطية",
-    "awayLogo": "https://jdwel.com/image/teams/47.png",
-    "score": "0 - 1",
-    "time": "1:00 م"
-  },
-  {
+    "date": "الثلاثاء 2025/06/10",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "المكسيك",
     "homeLogo": "https://jdwel.com/image/teams/flag_mexico_v2.png",
     "away": "جمهورية الكونغو الديمقراطية",
@@ -56,6 +55,9 @@
     "time": "6:30 م"
   },
   {
+    "date": "الثلاثاء 2025/06/10",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "الدنمارك",
     "homeLogo": "https://jdwel.com/image/teams/flag_denmark_v2.png",
     "away": "اليابان",
@@ -64,6 +66,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأثنين 2025/06/09",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "بنما",
     "homeLogo": "https://jdwel.com/image/teams/203.png",
     "away": "فرنسا",
@@ -72,6 +77,9 @@
     "time": "6:30 م"
   },
   {
+    "date": "الأثنين 2025/06/09",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "السعودية",
     "homeLogo": "https://jdwel.com/image/teams/2502.png",
     "away": "مالي",
@@ -80,6 +88,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "السبت 2025/06/07",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "الدنمارك",
     "homeLogo": "https://jdwel.com/image/teams/flag_denmark_v2.png",
     "away": "جمهورية الكونغو الديمقراطية",
@@ -88,6 +99,9 @@
     "time": "6:30 م"
   },
   {
+    "date": "السبت 2025/06/07",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "اليابان",
     "homeLogo": "https://jdwel.com/image/teams/flag_japan_v2.png",
     "away": "المكسيك",
@@ -96,6 +110,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الجمعة 2025/06/06",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "فرنسا",
     "homeLogo": "https://jdwel.com/image/teams/4962.png",
     "away": "مالي",
@@ -104,6 +121,9 @@
     "time": "6:30 م"
   },
   {
+    "date": "الجمعة 2025/06/06",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "بنما",
     "homeLogo": "https://jdwel.com/image/teams/203.png",
     "away": "السعودية",
@@ -112,6 +132,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الأربعاء 2025/06/04",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "المكسيك",
     "homeLogo": "https://jdwel.com/image/teams/flag_mexico_v2.png",
     "away": "الدنمارك",
@@ -120,6 +143,9 @@
     "time": "6:30 م"
   },
   {
+    "date": "الأربعاء 2025/06/04",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "جمهورية الكونغو الديمقراطية",
     "homeLogo": "https://jdwel.com/image/teams/47.png",
     "away": "اليابان",
@@ -128,6 +154,9 @@
     "time": "3:00 م"
   },
   {
+    "date": "الثلاثاء 2025/06/03",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "فرنسا",
     "homeLogo": "https://jdwel.com/image/teams/4962.png",
     "away": "السعودية",
@@ -136,6 +165,9 @@
     "time": "6:30 م"
   },
   {
+    "date": "الثلاثاء 2025/06/03",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "مالي",
     "homeLogo": "https://jdwel.com/image/teams/35.png",
     "away": "بنما",

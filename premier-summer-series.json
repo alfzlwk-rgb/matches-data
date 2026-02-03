@@ -1,5 +1,8 @@
 [
   {
+    "date": "الأثنين 2025/08/04",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "مانشستر يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/3092.png",
     "away": "إيفرتون",
@@ -8,6 +11,9 @@
     "time": "12:00 ص"
   },
   {
+    "date": "الأحد 2025/08/03",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "بورنموث",
     "homeLogo": "https://jdwel.com/image/teams/1555.png",
     "away": "وست هام يونايتد",
@@ -16,6 +22,9 @@
     "time": "9:00 م"
   },
   {
+    "date": "الخميس 2025/07/31",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "مانشستر يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/3092.png",
     "away": "بورنموث",
@@ -24,6 +33,9 @@
     "time": "4:30 ص"
   },
   {
+    "date": "الخميس 2025/07/31",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "وست هام يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/5168.png",
     "away": "إيفرتون",
@@ -32,6 +44,9 @@
     "time": "1:30 ص"
   },
   {
+    "date": "الأحد 2025/07/27",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "مانشستر يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/3092.png",
     "away": "وست هام يونايتد",
@@ -40,6 +55,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "السبت 2025/07/26",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "إيفرتون",
     "homeLogo": "https://jdwel.com/image/teams/1684.png",
     "away": "بورنموث",

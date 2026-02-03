@@ -1,5 +1,8 @@
 [
   {
+    "date": "السبت 2025/04/12",
+    "round": "",
+    "status": "انتهت",
     "home": "أوكلاند سيتي",
     "homeLogo": "https://jdwel.com/image/teams/1439.png",
     "away": "هيكاري يونايتد",
@@ -8,6 +11,9 @@
     "time": "9:00 ص"
   },
   {
+    "date": "الأربعاء 2025/04/09",
+    "round": "",
+    "status": "انتهت",
     "home": "هيكاري يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/pap_hekari_united.png",
     "away": "تيجا سبورت",
@@ -16,6 +22,9 @@
     "time": "7:00 ص"
   },
   {
+    "date": "الأربعاء 2025/04/09",
+    "round": "",
+    "status": "انتهت",
     "home": "أوكلاند سيتي",
     "homeLogo": "https://jdwel.com/image/teams/1439.png",
     "away": "إيفيرا بلاك بيرد",
@@ -24,6 +33,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2025/04/06",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "سينترال كوست",
     "homeLogo": "https://jdwel.com/image/teams/2697.png",
     "away": "إيفيرا بلاك بيرد",
@@ -32,6 +44,9 @@
     "time": "6:00 ص"
   },
   {
+    "date": "الأحد 2025/04/06",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "توبابا ماريرينجا",
     "homeLogo": "https://jdwel.com/image/teams/2255.png",
     "away": "هيكاري يونايتد",
@@ -40,6 +55,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "السبت 2025/04/05",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "ريوا",
     "homeLogo": "https://jdwel.com/image/teams/460.png",
     "away": "أوكلاند سيتي",
@@ -48,6 +66,9 @@
     "time": "6:00 ص"
   },
   {
+    "date": "السبت 2025/04/05",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "بيراي",
     "homeLogo": "https://jdwel.com/image/teams/459.png",
     "away": "تيجا سبورت",
@@ -56,6 +77,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الخميس 2025/04/03",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "سينترال كوست",
     "homeLogo": "https://jdwel.com/image/teams/2697.png",
     "away": "توبابا ماريرينجا",
@@ -64,6 +88,9 @@
     "time": "6:00 ص"
   },
   {
+    "date": "الخميس 2025/04/03",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "إيفيرا بلاك بيرد",
     "homeLogo": "https://jdwel.com/image/teams/458.png",
     "away": "هيكاري يونايتد",
@@ -72,6 +99,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأربعاء 2025/04/02",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "أوكلاند سيتي",
     "homeLogo": "https://jdwel.com/image/teams/1439.png",
     "away": "تيجا سبورت",
@@ -80,6 +110,9 @@
     "time": "6:00 ص"
   },
   {
+    "date": "الأربعاء 2025/04/02",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "ريوا",
     "homeLogo": "https://jdwel.com/image/teams/460.png",
     "away": "بيراي",
@@ -88,6 +121,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأثنين 2025/03/31",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "هيكاري يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/pap_hekari_united.png",
     "away": "سينترال كوست",
@@ -96,6 +132,9 @@
     "time": "6:00 ص"
   },
   {
+    "date": "الأثنين 2025/03/31",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "إيفيرا بلاك بيرد",
     "homeLogo": "https://jdwel.com/image/teams/458.png",
     "away": "توبابا ماريرينجا",
@@ -104,6 +143,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2025/03/30",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "أوكلاند سيتي",
     "homeLogo": "https://jdwel.com/image/teams/1439.png",
     "away": "بيراي",
@@ -112,6 +154,9 @@
     "time": "6:00 ص"
   },
   {
+    "date": "الأحد 2025/03/30",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "تيجا سبورت",
     "homeLogo": "https://jdwel.com/image/teams/463.png",
     "away": "ريوا",
@@ -120,6 +165,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "السبت 2025/02/15",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "فايبونا",
     "homeLogo": "https://jdwel.com/image/teams/2205.png",
     "away": "توبابا ماريرينجا",
@@ -128,6 +176,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأربعاء 2025/02/12",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "رويال بوما",
     "homeLogo": "https://jdwel.com/image/teams/2203.png",
     "away": "توبابا ماريرينجا",
@@ -136,6 +187,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الأحد 2025/02/09",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "رويال بوما",
     "homeLogo": "https://jdwel.com/image/teams/2203.png",
     "away": "فايبونا",

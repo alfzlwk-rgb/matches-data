@@ -1,5 +1,8 @@
 [
   {
+    "date": "الجمعة 2025/10/17",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "أديلايد يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/1765.png",
     "away": "سيدني",
@@ -8,6 +11,9 @@
     "time": "11:00 ص"
   },
   {
+    "date": "الجمعة 2025/10/17",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "بريزبان روار",
     "homeLogo": "https://jdwel.com/image/teams/aus_brisbane_roar.png",
     "away": "ماكارثر",
@@ -16,6 +22,9 @@
     "time": "1:05 م"
   },
   {
+    "date": "السبت 2025/10/18",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "ويسترن سيدني وانديريرز",
     "homeLogo": "https://jdwel.com/image/teams/1003.png",
     "away": "ميلبورن سيتي",
@@ -24,6 +33,9 @@
     "time": "9:00 ص"
   },
   {
+    "date": "السبت 2025/10/18",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "ميلبورن فيكتوري",
     "homeLogo": "https://jdwel.com/image/teams/1766.png",
     "away": "أوكلاند",
@@ -32,6 +44,9 @@
     "time": "11:35 ص"
   },
   {
+    "date": "السبت 2025/10/18",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "بيرث غلوري",
     "homeLogo": "https://jdwel.com/image/teams/1811.png",
     "away": "ويلينغتون فينيكس",
@@ -40,6 +55,9 @@
     "time": "1:45 م"
   },
   {
+    "date": "الأحد 2025/10/19",
+    "round": "الجولة 1",
+    "status": "انتهت",
     "home": "سنترال كوست مارينرز",
     "homeLogo": "https://jdwel.com/image/teams/1254.png",
     "away": "نيوكاسل جيتس",
@@ -48,6 +66,9 @@
     "time": "7:00 ص"
   },
   {
+    "date": "الجمعة 2025/10/24",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "نيوكاسل جيتس",
     "homeLogo": "https://jdwel.com/image/teams/aus_newcastle_jets.png",
     "away": "ميلبورن فيكتوري",
@@ -56,6 +77,9 @@
     "time": "11:35 ص"
   },
   {
+    "date": "السبت 2025/10/25",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "أوكلاند",
     "homeLogo": "https://jdwel.com/image/teams/829.png",
     "away": "ويسترن سيدني وانديريرز",
@@ -64,6 +88,9 @@
     "time": "7:00 ص"
   },
   {
+    "date": "السبت 2025/10/25",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "ميلبورن سيتي",
     "homeLogo": "https://jdwel.com/image/teams/aus_melbourne_city.png",
     "away": "بيرث غلوري",
@@ -72,6 +99,9 @@
     "time": "9:00 ص"
   },
   {
+    "date": "السبت 2025/10/25",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "سيدني",
     "homeLogo": "https://jdwel.com/image/teams/1046.png",
     "away": "سنترال كوست مارينرز",
@@ -80,6 +110,9 @@
     "time": "11:35 ص"
   },
   {
+    "date": "الأحد 2025/10/26",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "ويلينغتون فينيكس",
     "homeLogo": "https://jdwel.com/image/teams/2045.png",
     "away": "بريزبان روار",
@@ -88,6 +121,9 @@
     "time": "5:00 ص"
   },
   {
+    "date": "الأثنين 2025/10/27",
+    "round": "الجولة 2",
+    "status": "انتهت",
     "home": "ماكارثر",
     "homeLogo": "https://jdwel.com/image/teams/aus_macarthur.png",
     "away": "أديلايد يونايتد",
@@ -96,6 +132,9 @@
     "time": "11:00 ص"
   },
   {
+    "date": "الجمعة 2025/10/31",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "بريزبان روار",
     "homeLogo": "https://jdwel.com/image/teams/aus_brisbane_roar.png",
     "away": "ميلبورن سيتي",
@@ -104,6 +143,9 @@
     "time": "10:35 ص"
   },
   {
+    "date": "الجمعة 2025/10/31",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "بيرث غلوري",
     "homeLogo": "https://jdwel.com/image/teams/1811.png",
     "away": "ميلبورن فيكتوري",
@@ -112,6 +154,9 @@
     "time": "12:45 م"
   },
   {
+    "date": "السبت 2025/11/01",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "أوكلاند",
     "homeLogo": "https://jdwel.com/image/teams/829.png",
     "away": "أديلايد يونايتد",
@@ -120,6 +165,9 @@
     "time": "6:00 ص"
   },
   {
+    "date": "السبت 2025/11/01",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "نيوكاسل جيتس",
     "homeLogo": "https://jdwel.com/image/teams/aus_newcastle_jets.png",
     "away": "سيدني",
@@ -128,6 +176,9 @@
     "time": "8:00 ص"
   },
   {
+    "date": "السبت 2025/11/01",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "ماكارثر",
     "homeLogo": "https://jdwel.com/image/teams/aus_macarthur.png",
     "away": "ويسترن سيدني وانديريرز",
@@ -136,6 +187,9 @@
     "time": "10:35 ص"
   },
   {
+    "date": "الأحد 2025/11/02",
+    "round": "الجولة 3",
+    "status": "انتهت",
     "home": "سنترال كوست مارينرز",
     "homeLogo": "https://jdwel.com/image/teams/1254.png",
     "away": "ويلينغتون فينيكس",
@@ -144,6 +198,9 @@
     "time": "8:00 ص"
   },
   {
+    "date": "الجمعة 2025/11/07",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "أديلايد يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/1765.png",
     "away": "ويسترن سيدني وانديريرز",
@@ -152,6 +209,9 @@
     "time": "10:35 ص"
   },
   {
+    "date": "الجمعة 2025/11/07",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "بيرث غلوري",
     "homeLogo": "https://jdwel.com/image/teams/1811.png",
     "away": "سنترال كوست مارينرز",
@@ -160,6 +220,9 @@
     "time": "12:45 م"
   },
   {
+    "date": "السبت 2025/11/08",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "ويلينغتون فينيكس",
     "homeLogo": "https://jdwel.com/image/teams/2045.png",
     "away": "أوكلاند",
@@ -168,6 +231,9 @@
     "time": "8:00 ص"
   },
   {
+    "date": "السبت 2025/11/08",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "ميلبورن فيكتوري",
     "homeLogo": "https://jdwel.com/image/teams/1766.png",
     "away": "ميلبورن سيتي",
@@ -176,6 +242,9 @@
     "time": "10:35 ص"
   },
   {
+    "date": "الأحد 2025/11/09",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "سيدني",
     "homeLogo": "https://jdwel.com/image/teams/1046.png",
     "away": "ماكارثر",
@@ -184,6 +253,9 @@
     "time": "6:00 ص"
   },
   {
+    "date": "الأحد 2025/11/09",
+    "round": "الجولة 4",
+    "status": "انتهت",
     "home": "بريزبان روار",
     "homeLogo": "https://jdwel.com/image/teams/aus_brisbane_roar.png",
     "away": "نيوكاسل جيتس",
@@ -192,6 +264,9 @@
     "time": "8:00 ص"
   },
   {
+    "date": "الجمعة 2025/11/21",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "أديلايد يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/1765.png",
     "away": "ميلبورن سيتي",
@@ -200,6 +275,9 @@
     "time": "10:35 ص"
   },
   {
+    "date": "السبت 2025/11/22",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "ويلينغتون فينيكس",
     "homeLogo": "https://jdwel.com/image/teams/2045.png",
     "away": "ماكارثر",
@@ -208,6 +286,9 @@
     "time": "6:00 ص"
   },
   {
+    "date": "السبت 2025/11/22",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "ويسترن سيدني وانديريرز",
     "homeLogo": "https://jdwel.com/image/teams/1003.png",
     "away": "سنترال كوست مارينرز",
@@ -216,6 +297,9 @@
     "time": "8:00 ص"
   },
   {
+    "date": "السبت 2025/11/22",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "سيدني",
     "homeLogo": "https://jdwel.com/image/teams/1046.png",
     "away": "ميلبورن فيكتوري",
@@ -224,6 +308,9 @@
     "time": "10:35 ص"
   },
   {
+    "date": "الأحد 2025/11/23",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "أوكلاند",
     "homeLogo": "https://jdwel.com/image/teams/829.png",
     "away": "بريزبان روار",
@@ -232,6 +319,9 @@
     "time": "4:00 ص"
   },
   {
+    "date": "الأحد 2025/11/23",
+    "round": "الجولة 5",
+    "status": "انتهت",
     "home": "نيوكاسل جيتس",
     "homeLogo": "https://jdwel.com/image/teams/aus_newcastle_jets.png",
     "away": "بيرث غلوري",
@@ -240,6 +330,9 @@
     "time": "8:00 ص"
   },
   {
+    "date": "الجمعة 2025/11/28",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "بريزبان روار",
     "homeLogo": "https://jdwel.com/image/teams/aus_brisbane_roar.png",
     "away": "ميلبورن فيكتوري",
@@ -248,6 +341,9 @@
     "time": "10:35 ص"
   },
   {
+    "date": "السبت 2025/11/29",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "ويلينغتون فينيكس",
     "homeLogo": "https://jdwel.com/image/teams/2045.png",
     "away": "أديلايد يونايتد",
@@ -256,6 +352,9 @@
     "time": "6:00 ص"
   },
   {
+    "date": "السبت 2025/11/29",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "سنترال كوست مارينرز",
     "homeLogo": "https://jdwel.com/image/teams/1254.png",
     "away": "ميلبورن سيتي",
@@ -264,6 +363,9 @@
     "time": "8:00 ص"
   },
   {
+    "date": "السبت 2025/11/29",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "ويسترن سيدني وانديريرز",
     "homeLogo": "https://jdwel.com/image/teams/1003.png",
     "away": "سيدني",
@@ -272,6 +374,9 @@
     "time": "10:35 ص"
   },
   {
+    "date": "الأحد 2025/11/30",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "أوكلاند",
     "homeLogo": "https://jdwel.com/image/teams/829.png",
     "away": "نيوكاسل جيتس",
@@ -280,6 +385,9 @@
     "time": "4:00 ص"
   },
   {
+    "date": "الأحد 2025/11/30",
+    "round": "الجولة 6",
+    "status": "انتهت",
     "home": "ماكارثر",
     "homeLogo": "https://jdwel.com/image/teams/aus_macarthur.png",
     "away": "بيرث غلوري",
@@ -288,6 +396,9 @@
     "time": "9:00 ص"
   },
   {
+    "date": "الجمعة 2025/12/05",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "ماكارثر",
     "homeLogo": "https://jdwel.com/image/teams/aus_macarthur.png",
     "away": "ميلبورن فيكتوري",
@@ -296,6 +407,9 @@
     "time": "10:35 ص"
   },
   {
+    "date": "الجمعة 2025/12/05",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "بيرث غلوري",
     "homeLogo": "https://jdwel.com/image/teams/1811.png",
     "away": "ويسترن سيدني وانديريرز",
@@ -304,6 +418,9 @@
     "time": "12:45 م"
   },
   {
+    "date": "السبت 2025/12/06",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "أوكلاند",
     "homeLogo": "https://jdwel.com/image/teams/829.png",
     "away": "ويلينغتون فينيكس",
@@ -312,6 +429,9 @@
     "time": "6:00 ص"
   },
   {
+    "date": "السبت 2025/12/06",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "نيوكاسل جيتس",
     "homeLogo": "https://jdwel.com/image/teams/aus_newcastle_jets.png",
     "away": "ميلبورن سيتي",
@@ -320,6 +440,9 @@
     "time": "8:00 ص"
   },
   {
+    "date": "السبت 2025/12/06",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "سنترال كوست مارينرز",
     "homeLogo": "https://jdwel.com/image/teams/1254.png",
     "away": "سيدني",
@@ -328,6 +451,9 @@
     "time": "11:30 ص"
   },
   {
+    "date": "الأحد 2025/12/07",
+    "round": "الجولة 7",
+    "status": "انتهت",
     "home": "أديلايد يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/1765.png",
     "away": "بريزبان روار",
@@ -336,6 +462,9 @@
     "time": "10:35 ص"
   },
   {
+    "date": "الجمعة 2025/12/12",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "سنترال كوست مارينرز",
     "homeLogo": "https://jdwel.com/image/teams/1254.png",
     "away": "أوكلاند",
@@ -344,6 +473,9 @@
     "time": "10:35 ص"
   },
   {
+    "date": "السبت 2025/12/13",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "ويسترن سيدني وانديريرز",
     "homeLogo": "https://jdwel.com/image/teams/1003.png",
     "away": "بريزبان روار",
@@ -352,6 +484,9 @@
     "time": "8:00 ص"
   },
   {
+    "date": "السبت 2025/12/13",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "ميلبورن فيكتوري",
     "homeLogo": "https://jdwel.com/image/teams/1766.png",
     "away": "أديلايد يونايتد",
@@ -360,6 +495,9 @@
     "time": "10:35 ص"
   },
   {
+    "date": "السبت 2025/12/13",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "بيرث غلوري",
     "homeLogo": "https://jdwel.com/image/teams/1811.png",
     "away": "سيدني",
@@ -368,6 +506,9 @@
     "time": "12:45 م"
   },
   {
+    "date": "الأحد 2025/12/14",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "ويلينغتون فينيكس",
     "homeLogo": "https://jdwel.com/image/teams/2045.png",
     "away": "نيوكاسل جيتس",
@@ -376,6 +517,9 @@
     "time": "4:00 ص"
   },
   {
+    "date": "الجمعة 2025/12/19",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "ماكارثر",
     "homeLogo": "https://jdwel.com/image/teams/aus_macarthur.png",
     "away": "بريزبان روار",
@@ -384,6 +528,9 @@
     "time": "9:00 ص"
   },
   {
+    "date": "الجمعة 2025/12/19",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "ويسترن سيدني وانديريرز",
     "homeLogo": "https://jdwel.com/image/teams/1003.png",
     "away": "أوكلاند",
@@ -392,6 +539,9 @@
     "time": "11:00 ص"
   },
   {
+    "date": "السبت 2025/12/20",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "نيوكاسل جيتس",
     "homeLogo": "https://jdwel.com/image/teams/aus_newcastle_jets.png",
     "away": "سيدني",
@@ -400,6 +550,9 @@
     "time": "8:00 ص"
   },
   {
+    "date": "السبت 2025/12/20",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "ميلبورن سيتي",
     "homeLogo": "https://jdwel.com/image/teams/aus_melbourne_city.png",
     "away": "ميلبورن فيكتوري",
@@ -408,6 +561,9 @@
     "time": "10:35 ص"
   },
   {
+    "date": "السبت 2025/12/20",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "بيرث غلوري",
     "homeLogo": "https://jdwel.com/image/teams/1811.png",
     "away": "أديلايد يونايتد",
@@ -416,6 +572,9 @@
     "time": "12:45 م"
   },
   {
+    "date": "الأحد 2025/12/21",
+    "round": "الجولة 9",
+    "status": "انتهت",
     "home": "ويلينغتون فينيكس",
     "homeLogo": "https://jdwel.com/image/teams/2045.png",
     "away": "سنترال كوست مارينرز",
@@ -424,6 +583,9 @@
     "time": "4:00 ص"
   },
   {
+    "date": "الثلاثاء 2025/12/23",
+    "round": "الجولة 8",
+    "status": "انتهت",
     "home": "ميلبورن سيتي",
     "homeLogo": "https://jdwel.com/image/teams/aus_melbourne_city.png",
     "away": "ماكارثر",
@@ -432,6 +594,9 @@
     "time": "10:15 ص"
   },
   {
+    "date": "الجمعة 2025/12/26",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "نيوكاسل جيتس",
     "homeLogo": "https://jdwel.com/image/teams/aus_newcastle_jets.png",
     "away": "ماكارثر",
@@ -440,6 +605,9 @@
     "time": "10:35 ص"
   },
   {
+    "date": "السبت 2025/12/27",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "أديلايد يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/1765.png",
     "away": "ويسترن سيدني وانديريرز",
@@ -448,6 +616,9 @@
     "time": "10:35 ص"
   },
   {
+    "date": "الأحد 2025/12/28",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "ميلبورن سيتي",
     "homeLogo": "https://jdwel.com/image/teams/aus_melbourne_city.png",
     "away": "بيرث غلوري",
@@ -456,6 +627,9 @@
     "time": "10:00 ص"
   },
   {
+    "date": "الأثنين 2025/12/29",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "ميلبورن فيكتوري",
     "homeLogo": "https://jdwel.com/image/teams/1766.png",
     "away": "ويلينغتون فينيكس",
@@ -464,6 +638,9 @@
     "time": "10:00 ص"
   },
   {
+    "date": "الأربعاء 2025/12/31",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "سنترال كوست مارينرز",
     "homeLogo": "https://jdwel.com/image/teams/1254.png",
     "away": "بريزبان روار",
@@ -472,6 +649,9 @@
     "time": "10:00 ص"
   },
   {
+    "date": "الخميس 2026/01/01",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "أوكلاند",
     "homeLogo": "https://jdwel.com/image/teams/829.png",
     "away": "نيوكاسل جيتس",
@@ -480,6 +660,9 @@
     "time": "6:00 ص"
   },
   {
+    "date": "الخميس 2026/01/01",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "ويسترن سيدني وانديريرز",
     "homeLogo": "https://jdwel.com/image/teams/1003.png",
     "away": "ماكارثر",
@@ -488,6 +671,9 @@
     "time": "10:00 ص"
   },
   {
+    "date": "الجمعة 2026/01/02",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "ميلبورن فيكتوري",
     "homeLogo": "https://jdwel.com/image/teams/1766.png",
     "away": "بيرث غلوري",
@@ -496,6 +682,9 @@
     "time": "10:35 ص"
   },
   {
+    "date": "السبت 2026/01/03",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "بريزبان روار",
     "homeLogo": "https://jdwel.com/image/teams/aus_brisbane_roar.png",
     "away": "ويلينغتون فينيكس",
@@ -504,6 +693,9 @@
     "time": "8:00 ص"
   },
   {
+    "date": "السبت 2026/01/03",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "ميلبورن سيتي",
     "homeLogo": "https://jdwel.com/image/teams/aus_melbourne_city.png",
     "away": "سيدني",
@@ -512,6 +704,9 @@
     "time": "10:35 ص"
   },
   {
+    "date": "الأحد 2026/01/04",
+    "round": "الجولة 11",
+    "status": "انتهت",
     "home": "أديلايد يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/1765.png",
     "away": "سنترال كوست مارينرز",
@@ -520,6 +715,9 @@
     "time": "10:35 ص"
   },
   {
+    "date": "الأثنين 2026/01/05",
+    "round": "الجولة 17",
+    "status": "انتهت",
     "home": "ماكارثر",
     "homeLogo": "https://jdwel.com/image/teams/aus_macarthur.png",
     "away": "أوكلاند",
@@ -528,6 +726,9 @@
     "time": "10:00 ص"
   },
   {
+    "date": "الثلاثاء 2026/01/06",
+    "round": "الجولة 20",
+    "status": "انتهت",
     "home": "ميلبورن سيتي",
     "homeLogo": "https://jdwel.com/image/teams/aus_melbourne_city.png",
     "away": "بريزبان روار",
@@ -536,6 +737,9 @@
     "time": "10:00 ص"
   },
   {
+    "date": "الجمعة 2026/01/09",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "بريزبان روار",
     "homeLogo": "https://jdwel.com/image/teams/aus_brisbane_roar.png",
     "away": "أوكلاند",
@@ -544,6 +748,9 @@
     "time": "10:35 ص"
   },
   {
+    "date": "السبت 2026/01/10",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "ميلبورن فيكتوري",
     "homeLogo": "https://jdwel.com/image/teams/1766.png",
     "away": "ويسترن سيدني وانديريرز",
@@ -552,6 +759,9 @@
     "time": "8:00 ص"
   },
   {
+    "date": "السبت 2026/01/10",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "ماكارثر",
     "homeLogo": "https://jdwel.com/image/teams/aus_macarthur.png",
     "away": "سيدني",
@@ -560,6 +770,9 @@
     "time": "10:35 ص"
   },
   {
+    "date": "السبت 2026/01/10",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "بيرث غلوري",
     "homeLogo": "https://jdwel.com/image/teams/1811.png",
     "away": "سنترال كوست مارينرز",
@@ -568,6 +781,9 @@
     "time": "12:45 م"
   },
   {
+    "date": "الأحد 2026/01/11",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "ويلينغتون فينيكس",
     "homeLogo": "https://jdwel.com/image/teams/2045.png",
     "away": "أديلايد يونايتد",
@@ -576,6 +792,9 @@
     "time": "4:00 ص"
   },
   {
+    "date": "الأحد 2026/01/11",
+    "round": "الجولة 12",
+    "status": "انتهت",
     "home": "ميلبورن سيتي",
     "homeLogo": "https://jdwel.com/image/teams/aus_melbourne_city.png",
     "away": "نيوكاسل جيتس",
@@ -584,6 +803,9 @@
     "time": "8:00 ص"
   },
   {
+    "date": "الجمعة 2026/01/16",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "ميلبورن سيتي",
     "homeLogo": "https://jdwel.com/image/teams/aus_melbourne_city.png",
     "away": "أوكلاند",
@@ -592,6 +814,9 @@
     "time": "10:35 ص"
   },
   {
+    "date": "الجمعة 2026/01/16",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "بيرث غلوري",
     "homeLogo": "https://jdwel.com/image/teams/1811.png",
     "away": "بريزبان روار",
@@ -600,6 +825,9 @@
     "time": "12:45 م"
   },
   {
+    "date": "السبت 2026/01/17",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "ويسترن سيدني وانديريرز",
     "homeLogo": "https://jdwel.com/image/teams/1003.png",
     "away": "نيوكاسل جيتس",
@@ -608,6 +836,9 @@
     "time": "8:00 ص"
   },
   {
+    "date": "السبت 2026/01/17",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "أديلايد يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/1765.png",
     "away": "ميلبورن فيكتوري",
@@ -616,6 +847,9 @@
     "time": "10:35 ص"
   },
   {
+    "date": "الأحد 2026/01/18",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "سنترال كوست مارينرز",
     "homeLogo": "https://jdwel.com/image/teams/1254.png",
     "away": "ماكارثر",
@@ -624,6 +858,9 @@
     "time": "5:00 ص"
   },
   {
+    "date": "الأحد 2026/01/18",
+    "round": "الجولة 13",
+    "status": "انتهت",
     "home": "سيدني",
     "homeLogo": "https://jdwel.com/image/teams/1046.png",
     "away": "ويلينغتون فينيكس",
@@ -632,6 +869,9 @@
     "time": "8:00 ص"
   },
   {
+    "date": "الجمعة 2026/01/23",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "نيوكاسل جيتس",
     "homeLogo": "https://jdwel.com/image/teams/aus_newcastle_jets.png",
     "away": "ويلينغتون فينيكس",
@@ -640,6 +880,9 @@
     "time": "10:35 ص"
   },
   {
+    "date": "السبت 2026/01/24",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "أوكلاند",
     "homeLogo": "https://jdwel.com/image/teams/829.png",
     "away": "سنترال كوست مارينرز",
@@ -648,6 +891,9 @@
     "time": "6:00 ص"
   },
   {
+    "date": "السبت 2026/01/24",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "بريزبان روار",
     "homeLogo": "https://jdwel.com/image/teams/aus_brisbane_roar.png",
     "away": "أديلايد يونايتد",
@@ -656,6 +902,9 @@
     "time": "8:00 ص"
   },
   {
+    "date": "السبت 2026/01/24",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "ماكارثر",
     "homeLogo": "https://jdwel.com/image/teams/aus_macarthur.png",
     "away": "ميلبورن سيتي",
@@ -664,6 +913,9 @@
     "time": "10:35 ص"
   },
   {
+    "date": "الأحد 2026/01/25",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "ويسترن سيدني وانديريرز",
     "homeLogo": "https://jdwel.com/image/teams/1003.png",
     "away": "بيرث غلوري",
@@ -672,6 +924,9 @@
     "time": "10:00 ص"
   },
   {
+    "date": "الأثنين 2026/01/26",
+    "round": "الجولة 14",
+    "status": "انتهت",
     "home": "ميلبورن فيكتوري",
     "homeLogo": "https://jdwel.com/image/teams/1766.png",
     "away": "سيدني",
@@ -680,6 +935,9 @@
     "time": "8:40 ص"
   },
   {
+    "date": "الجمعة 2026/01/30",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "ويلينغتون فينيكس",
     "homeLogo": "https://jdwel.com/image/teams/2045.png",
     "away": "ميلبورن سيتي",
@@ -688,6 +946,9 @@
     "time": "8:00 ص"
   },
   {
+    "date": "الجمعة 2026/01/30",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "أديلايد يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/1765.png",
     "away": "ماكارثر",
@@ -696,6 +957,9 @@
     "time": "11:05 ص"
   },
   {
+    "date": "السبت 2026/01/31",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "نيوكاسل جيتس",
     "homeLogo": "https://jdwel.com/image/teams/aus_newcastle_jets.png",
     "away": "بريزبان روار",
@@ -704,6 +968,9 @@
     "time": "8:00 ص"
   },
   {
+    "date": "السبت 2026/01/31",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "سيدني",
     "homeLogo": "https://jdwel.com/image/teams/1046.png",
     "away": "ويسترن سيدني وانديريرز",
@@ -712,6 +979,9 @@
     "time": "10:35 ص"
   },
   {
+    "date": "السبت 2026/01/31",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "بيرث غلوري",
     "homeLogo": "https://jdwel.com/image/teams/1811.png",
     "away": "أوكلاند",
@@ -720,6 +990,9 @@
     "time": "12:45 م"
   },
   {
+    "date": "الأحد 2026/02/01",
+    "round": "الجولة 15",
+    "status": "انتهت",
     "home": "سنترال كوست مارينرز",
     "homeLogo": "https://jdwel.com/image/teams/1254.png",
     "away": "ميلبورن فيكتوري",
@@ -728,6 +1001,9 @@
     "time": "8:00 ص"
   },
   {
+    "date": "الجمعة 2026/02/06",
+    "round": "الجولة 16",
+    "status": "قريباً",
     "home": "ويلينغتون فينيكس",
     "homeLogo": "https://jdwel.com/image/teams/2045.png",
     "away": "ميلبورن فيكتوري",
@@ -736,6 +1012,9 @@
     "time": "8:00 ص"
   },
   {
+    "date": "الجمعة 2026/02/06",
+    "round": "الجولة 16",
+    "status": "قريباً",
     "home": "ماكارثر",
     "homeLogo": "https://jdwel.com/image/teams/aus_macarthur.png",
     "away": "بيرث غلوري",
@@ -744,6 +1023,9 @@
     "time": "10:35 ص"
   },
   {
+    "date": "السبت 2026/02/07",
+    "round": "الجولة 16",
+    "status": "قريباً",
     "home": "أوكلاند",
     "homeLogo": "https://jdwel.com/image/teams/829.png",
     "away": "سيدني",
@@ -752,6 +1034,9 @@
     "time": "6:00 ص"
   },
   {
+    "date": "السبت 2026/02/07",
+    "round": "الجولة 16",
+    "status": "قريباً",
     "home": "بريزبان روار",
     "homeLogo": "https://jdwel.com/image/teams/aus_brisbane_roar.png",
     "away": "سنترال كوست مارينرز",
@@ -760,6 +1045,9 @@
     "time": "8:00 ص"
   },
   {
+    "date": "السبت 2026/02/07",
+    "round": "الجولة 16",
+    "status": "قريباً",
     "home": "ويسترن سيدني وانديريرز",
     "homeLogo": "https://jdwel.com/image/teams/1003.png",
     "away": "ميلبورن سيتي",
@@ -768,6 +1056,9 @@
     "time": "10:35 ص"
   },
   {
+    "date": "الأحد 2026/02/08",
+    "round": "الجولة 16",
+    "status": "قريباً",
     "home": "أديلايد يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/1765.png",
     "away": "نيوكاسل جيتس",
@@ -776,6 +1067,9 @@
     "time": "8:00 ص"
   },
   {
+    "date": "الجمعة 2026/02/13",
+    "round": "الجولة 17",
+    "status": "قريباً",
     "home": "ويسترن سيدني وانديريرز",
     "homeLogo": "https://jdwel.com/image/teams/1003.png",
     "away": "ويلينغتون فينيكس",
@@ -784,6 +1078,9 @@
     "time": "10:35 ص"
   },
   {
+    "date": "الجمعة 2026/02/13",
+    "round": "الجولة 17",
+    "status": "قريباً",
     "home": "بيرث غلوري",
     "homeLogo": "https://jdwel.com/image/teams/1811.png",
     "away": "نيوكاسل جيتس",
@@ -792,6 +1089,9 @@
     "time": "12:45 م"
   },
   {
+    "date": "السبت 2026/02/14",
+    "round": "الجولة 17",
+    "status": "قريباً",
     "home": "ميلبورن فيكتوري",
     "homeLogo": "https://jdwel.com/image/teams/1766.png",
     "away": "بريزبان روار",
@@ -800,6 +1100,9 @@
     "time": "8:00 ص"
   },
   {
+    "date": "السبت 2026/02/14",
+    "round": "الجولة 17",
+    "status": "قريباً",
     "home": "سيدني",
     "homeLogo": "https://jdwel.com/image/teams/1046.png",
     "away": "أديلايد يونايتد",
@@ -808,6 +1111,9 @@
     "time": "10:35 ص"
   },
   {
+    "date": "الثلاثاء 2026/02/17",
+    "round": "الجولة 10",
+    "status": "انتهت",
     "home": "سيدني",
     "homeLogo": "https://jdwel.com/image/teams/1046.png",
     "away": "أوكلاند",
@@ -816,6 +1122,9 @@
     "time": "10:00 ص"
   },
   {
+    "date": "الجمعة 2026/02/20",
+    "round": "الجولة 18",
+    "status": "قريباً",
     "home": "أديلايد يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/1765.png",
     "away": "بيرث غلوري",
@@ -824,6 +1133,9 @@
     "time": "10:35 ص"
   },
   {
+    "date": "السبت 2026/02/21",
+    "round": "الجولة 18",
+    "status": "قريباً",
     "home": "ويلينغتون فينيكس",
     "homeLogo": "https://jdwel.com/image/teams/2045.png",
     "away": "أوكلاند",
@@ -832,6 +1144,9 @@
     "time": "6:00 ص"
   },
   {
+    "date": "السبت 2026/02/21",
+    "round": "الجولة 18",
+    "status": "قريباً",
     "home": "سيدني",
     "homeLogo": "https://jdwel.com/image/teams/1046.png",
     "away": "بريزبان روار",
@@ -840,6 +1155,9 @@
     "time": "8:00 ص"
   },
   {
+    "date": "السبت 2026/02/21",
+    "round": "الجولة 18",
+    "status": "قريباً",
     "home": "ميلبورن سيتي",
     "homeLogo": "https://jdwel.com/image/teams/aus_melbourne_city.png",
     "away": "ميلبورن فيكتوري",
@@ -848,6 +1166,9 @@
     "time": "10:35 ص"
   },
   {
+    "date": "الأحد 2026/02/22",
+    "round": "الجولة 18",
+    "status": "قريباً",
     "home": "سنترال كوست مارينرز",
     "homeLogo": "https://jdwel.com/image/teams/1254.png",
     "away": "ويسترن سيدني وانديريرز",
@@ -856,6 +1177,9 @@
     "time": "8:00 ص"
   },
   {
+    "date": "الأحد 2026/02/22",
+    "round": "الجولة 18",
+    "status": "قريباً",
     "home": "نيوكاسل جيتس",
     "homeLogo": "https://jdwel.com/image/teams/aus_newcastle_jets.png",
     "away": "ماكارثر",
@@ -864,6 +1188,9 @@
     "time": "9:00 ص"
   },
   {
+    "date": "الأربعاء 2026/02/25",
+    "round": "الجولة 20",
+    "status": "قريباً",
     "home": "ماكارثر",
     "homeLogo": "https://jdwel.com/image/teams/aus_macarthur.png",
     "away": "سنترال كوست مارينرز",
@@ -872,6 +1199,9 @@
     "time": "10:00 ص"
   },
   {
+    "date": "الجمعة 2026/02/27",
+    "round": "الجولة 19",
+    "status": "قريباً",
     "home": "ميلبورن فيكتوري",
     "homeLogo": "https://jdwel.com/image/teams/1766.png",
     "away": "أديلايد يونايتد",
@@ -880,6 +1210,9 @@
     "time": "10:35 ص"
   },
   {
+    "date": "السبت 2026/02/28",
+    "round": "الجولة 19",
+    "status": "قريباً",
     "home": "أوكلاند",
     "homeLogo": "https://jdwel.com/image/teams/829.png",
     "away": "ميلبورن سيتي",
@@ -888,6 +1221,9 @@
     "time": "6:00 ص"
   },
   {
+    "date": "السبت 2026/02/28",
+    "round": "الجولة 19",
+    "status": "قريباً",
     "home": "سنترال كوست مارينرز",
     "homeLogo": "https://jdwel.com/image/teams/1254.png",
     "away": "نيوكاسل جيتس",
@@ -896,6 +1232,9 @@
     "time": "8:00 ص"
   },
   {
+    "date": "السبت 2026/02/28",
+    "round": "الجولة 19",
+    "status": "قريباً",
     "home": "بريزبان روار",
     "homeLogo": "https://jdwel.com/image/teams/aus_brisbane_roar.png",
     "away": "بيرث غلوري",
@@ -904,6 +1243,9 @@
     "time": "9:00 ص"
   },
   {
+    "date": "السبت 2026/02/28",
+    "round": "الجولة 19",
+    "status": "قريباً",
     "home": "ماكارثر",
     "homeLogo": "https://jdwel.com/image/teams/aus_macarthur.png",
     "away": "ويسترن سيدني وانديريرز",
@@ -912,6 +1254,9 @@
     "time": "10:35 ص"
   },
   {
+    "date": "الأحد 2026/03/01",
+    "round": "الجولة 19",
+    "status": "قريباً",
     "home": "ويلينغتون فينيكس",
     "homeLogo": "https://jdwel.com/image/teams/2045.png",
     "away": "سيدني",
@@ -920,6 +1265,9 @@
     "time": "4:00 ص"
   },
   {
+    "date": "الجمعة 2026/03/06",
+    "round": "الجولة 20",
+    "status": "قريباً",
     "home": "أديلايد يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/1765.png",
     "away": "ويلينغتون فينيكس",
@@ -928,6 +1276,9 @@
     "time": "10:35 ص"
   },
   {
+    "date": "السبت 2026/03/07",
+    "round": "الجولة 20",
+    "status": "قريباً",
     "home": "نيوكاسل جيتس",
     "homeLogo": "https://jdwel.com/image/teams/aus_newcastle_jets.png",
     "away": "ويسترن سيدني وانديريرز",
@@ -936,6 +1287,9 @@
     "time": "8:00 ص"
   },
   {
+    "date": "السبت 2026/03/07",
+    "round": "الجولة 20",
+    "status": "قريباً",
     "home": "سيدني",
     "homeLogo": "https://jdwel.com/image/teams/1046.png",
     "away": "ميلبورن فيكتوري",
@@ -944,6 +1298,9 @@
     "time": "10:35 ص"
   },
   {
+    "date": "الأحد 2026/03/08",
+    "round": "الجولة 20",
+    "status": "قريباً",
     "home": "أوكلاند",
     "homeLogo": "https://jdwel.com/image/teams/829.png",
     "away": "بيرث غلوري",
@@ -952,6 +1309,9 @@
     "time": "4:00 ص"
   },
   {
+    "date": "الجمعة 2026/03/13",
+    "round": "الجولة 21",
+    "status": "قريباً",
     "home": "بريزبان روار",
     "homeLogo": "https://jdwel.com/image/teams/aus_brisbane_roar.png",
     "away": "ويسترن سيدني وانديريرز",
@@ -960,6 +1320,9 @@
     "time": "10:00 ص"
   },
   {
+    "date": "السبت 2026/03/14",
+    "round": "الجولة 21",
+    "status": "قريباً",
     "home": "ويلينغتون فينيكس",
     "homeLogo": "https://jdwel.com/image/teams/2045.png",
     "away": "بيرث غلوري",
@@ -968,6 +1331,9 @@
     "time": "4:00 ص"
   },
   {
+    "date": "السبت 2026/03/14",
+    "round": "الجولة 21",
+    "status": "قريباً",
     "home": "سنترال كوست مارينرز",
     "homeLogo": "https://jdwel.com/image/teams/1254.png",
     "away": "أديلايد يونايتد",
@@ -976,6 +1342,9 @@
     "time": "6:00 ص"
   },
   {
+    "date": "السبت 2026/03/14",
+    "round": "الجولة 21",
+    "status": "قريباً",
     "home": "نيوكاسل جيتس",
     "homeLogo": "https://jdwel.com/image/teams/aus_newcastle_jets.png",
     "away": "أوكلاند",
@@ -984,6 +1353,9 @@
     "time": "8:00 ص"
   },
   {
+    "date": "الأحد 2026/03/15",
+    "round": "الجولة 21",
+    "status": "قريباً",
     "home": "ميلبورن فيكتوري",
     "homeLogo": "https://jdwel.com/image/teams/1766.png",
     "away": "ماكارثر",
@@ -992,6 +1364,9 @@
     "time": "2:00 ص"
   },
   {
+    "date": "الثلاثاء 2026/03/17",
+    "round": "الجولة 21",
+    "status": "قريباً",
     "home": "سيدني",
     "homeLogo": "https://jdwel.com/image/teams/1046.png",
     "away": "ميلبورن سيتي",
@@ -1000,6 +1375,9 @@
     "time": "10:00 ص"
   },
   {
+    "date": "الجمعة 2026/03/20",
+    "round": "الجولة 22",
+    "status": "قريباً",
     "home": "ويسترن سيدني وانديريرز",
     "homeLogo": "https://jdwel.com/image/teams/1003.png",
     "away": "أديلايد يونايتد",
@@ -1008,6 +1386,9 @@
     "time": "10:35 ص"
   },
   {
+    "date": "السبت 2026/03/21",
+    "round": "الجولة 22",
+    "status": "قريباً",
     "home": "أوكلاند",
     "homeLogo": "https://jdwel.com/image/teams/829.png",
     "away": "ماكارثر",
@@ -1016,6 +1397,9 @@
     "time": "4:00 ص"
   },
   {
+    "date": "السبت 2026/03/21",
+    "round": "الجولة 22",
+    "status": "قريباً",
     "home": "بريزبان روار",
     "homeLogo": "https://jdwel.com/image/teams/aus_brisbane_roar.png",
     "away": "ويلينغتون فينيكس",
@@ -1024,6 +1408,9 @@
     "time": "6:00 ص"
   },
   {
+    "date": "السبت 2026/03/21",
+    "round": "الجولة 22",
+    "status": "قريباً",
     "home": "ميلبورن فيكتوري",
     "homeLogo": "https://jdwel.com/image/teams/1766.png",
     "away": "سنترال كوست مارينرز",
@@ -1032,6 +1419,9 @@
     "time": "8:00 ص"
   },
   {
+    "date": "الأحد 2026/03/22",
+    "round": "الجولة 22",
+    "status": "قريباً",
     "home": "سيدني",
     "homeLogo": "https://jdwel.com/image/teams/1046.png",
     "away": "نيوكاسل جيتس",
@@ -1040,6 +1430,9 @@
     "time": "6:00 ص"
   },
   {
+    "date": "الأحد 2026/03/22",
+    "round": "الجولة 22",
+    "status": "قريباً",
     "home": "بيرث غلوري",
     "homeLogo": "https://jdwel.com/image/teams/1811.png",
     "away": "ميلبورن سيتي",
@@ -1048,6 +1441,9 @@
     "time": "10:00 ص"
   },
   {
+    "date": "الخميس 2026/04/02",
+    "round": "الجولة 23",
+    "status": "قريباً",
     "home": "ماكارثر",
     "homeLogo": "https://jdwel.com/image/teams/aus_macarthur.png",
     "away": "نيوكاسل جيتس",
@@ -1056,6 +1452,9 @@
     "time": "10:35 ص"
   },
   {
+    "date": "الخميس 2026/04/02",
+    "round": "الجولة 23",
+    "status": "قريباً",
     "home": "بريزبان روار",
     "homeLogo": "https://jdwel.com/image/teams/aus_brisbane_roar.png",
     "away": "سيدني",
@@ -1064,6 +1463,9 @@
     "time": "12:00 م"
   },
   {
+    "date": "الجمعة 2026/04/03",
+    "round": "الجولة 23",
+    "status": "قريباً",
     "home": "أديلايد يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/1765.png",
     "away": "أوكلاند",
@@ -1072,6 +1474,9 @@
     "time": "10:35 ص"
   },
   {
+    "date": "السبت 2026/04/04",
+    "round": "الجولة 23",
+    "status": "قريباً",
     "home": "سنترال كوست مارينرز",
     "homeLogo": "https://jdwel.com/image/teams/1254.png",
     "away": "بيرث غلوري",
@@ -1080,6 +1485,9 @@
     "time": "8:00 ص"
   },
   {
+    "date": "السبت 2026/04/04",
+    "round": "الجولة 23",
+    "status": "قريباً",
     "home": "ميلبورن سيتي",
     "homeLogo": "https://jdwel.com/image/teams/aus_melbourne_city.png",
     "away": "ويسترن سيدني وانديريرز",
@@ -1088,6 +1496,9 @@
     "time": "10:35 ص"
   },
   {
+    "date": "الأحد 2026/04/05",
+    "round": "الجولة 23",
+    "status": "قريباً",
     "home": "ميلبورن فيكتوري",
     "homeLogo": "https://jdwel.com/image/teams/1766.png",
     "away": "ويلينغتون فينيكس",
@@ -1096,6 +1507,9 @@
     "time": "7:00 ص"
   },
   {
+    "date": "الثلاثاء 2026/04/07",
+    "round": "الجولة 17",
+    "status": "قريباً",
     "home": "ميلبورن سيتي",
     "homeLogo": "https://jdwel.com/image/teams/aus_melbourne_city.png",
     "away": "سنترال كوست مارينرز",
@@ -1104,6 +1518,9 @@
     "time": "11:00 ص"
   },
   {
+    "date": "الجمعة 2026/04/10",
+    "round": "الجولة 24",
+    "status": "قريباً",
     "home": "سنترال كوست مارينرز",
     "homeLogo": "https://jdwel.com/image/teams/1254.png",
     "away": "بريزبان روار",
@@ -1112,6 +1529,9 @@
     "time": "11:35 ص"
   },
   {
+    "date": "السبت 2026/04/11",
+    "round": "الجولة 24",
+    "status": "قريباً",
     "home": "أوكلاند",
     "homeLogo": "https://jdwel.com/image/teams/829.png",
     "away": "ميلبورن فيكتوري",
@@ -1120,6 +1540,9 @@
     "time": "7:00 ص"
   },
   {
+    "date": "السبت 2026/04/11",
+    "round": "الجولة 24",
+    "status": "قريباً",
     "home": "نيوكاسل جيتس",
     "homeLogo": "https://jdwel.com/image/teams/aus_newcastle_jets.png",
     "away": "أديلايد يونايتد",
@@ -1128,6 +1551,9 @@
     "time": "9:00 ص"
   },
   {
+    "date": "السبت 2026/04/11",
+    "round": "الجولة 24",
+    "status": "قريباً",
     "home": "ويسترن سيدني وانديريرز",
     "homeLogo": "https://jdwel.com/image/teams/1003.png",
     "away": "سيدني",
@@ -1136,6 +1562,9 @@
     "time": "11:35 ص"
   },
   {
+    "date": "الأحد 2026/04/12",
+    "round": "الجولة 24",
+    "status": "قريباً",
     "home": "ميلبورن سيتي",
     "homeLogo": "https://jdwel.com/image/teams/aus_melbourne_city.png",
     "away": "ويلينغتون فينيكس",
@@ -1144,6 +1573,9 @@
     "time": "7:00 ص"
   },
   {
+    "date": "الأحد 2026/04/12",
+    "round": "الجولة 24",
+    "status": "قريباً",
     "home": "بيرث غلوري",
     "homeLogo": "https://jdwel.com/image/teams/1811.png",
     "away": "ماكارثر",
@@ -1152,6 +1584,9 @@
     "time": "11:00 ص"
   },
   {
+    "date": "الجمعة 2026/04/17",
+    "round": "الجولة 25",
+    "status": "قريباً",
     "home": "ميلبورن فيكتوري",
     "homeLogo": "https://jdwel.com/image/teams/1766.png",
     "away": "نيوكاسل جيتس",
@@ -1160,6 +1595,9 @@
     "time": "11:35 ص"
   },
   {
+    "date": "السبت 2026/04/18",
+    "round": "الجولة 25",
+    "status": "قريباً",
     "home": "ويلينغتون فينيكس",
     "homeLogo": "https://jdwel.com/image/teams/2045.png",
     "away": "ويسترن سيدني وانديريرز",
@@ -1168,6 +1606,9 @@
     "time": "6:00 ص"
   },
   {
+    "date": "السبت 2026/04/18",
+    "round": "الجولة 25",
+    "status": "قريباً",
     "home": "بريزبان روار",
     "homeLogo": "https://jdwel.com/image/teams/aus_brisbane_roar.png",
     "away": "ميلبورن سيتي",
@@ -1176,6 +1617,9 @@
     "time": "9:00 ص"
   },
   {
+    "date": "السبت 2026/04/18",
+    "round": "الجولة 25",
+    "status": "قريباً",
     "home": "سيدني",
     "homeLogo": "https://jdwel.com/image/teams/1046.png",
     "away": "بيرث غلوري",
@@ -1184,6 +1628,9 @@
     "time": "11:35 ص"
   },
   {
+    "date": "الأحد 2026/04/19",
+    "round": "الجولة 25",
+    "status": "قريباً",
     "home": "أوكلاند",
     "homeLogo": "https://jdwel.com/image/teams/829.png",
     "away": "سنترال كوست مارينرز",
@@ -1192,6 +1639,9 @@
     "time": "5:00 ص"
   },
   {
+    "date": "الأحد 2026/04/19",
+    "round": "الجولة 25",
+    "status": "قريباً",
     "home": "أديلايد يونايتد",
     "homeLogo": "https://jdwel.com/image/teams/1765.png",
     "away": "ماكارثر",
@@ -1200,6 +1650,9 @@
     "time": "7:30 ص"
   },
   {
+    "date": "الجمعة 2026/04/24",
+    "round": "الجولة 26",
+    "status": "قريباً",
     "home": "ماكارثر",
     "homeLogo": "https://jdwel.com/image/teams/aus_macarthur.png",
     "away": "ويلينغتون فينيكس",
@@ -1208,6 +1661,9 @@
     "time": "12:35 م"
   },
   {
+    "date": "السبت 2026/04/25",
+    "round": "الجولة 26",
+    "status": "قريباً",
     "home": "نيوكاسل جيتس",
     "homeLogo": "https://jdwel.com/image/teams/aus_newcastle_jets.png",
     "away": "سنترال كوست مارينرز",
@@ -1216,6 +1672,9 @@
     "time": "10:00 ص"
   },
   {
+    "date": "السبت 2026/04/25",
+    "round": "الجولة 26",
+    "status": "قريباً",
     "home": "ويسترن سيدني وانديريرز",
     "homeLogo": "https://jdwel.com/image/teams/1003.png",
     "away": "ميلبورن فيكتوري",
@@ -1224,6 +1683,9 @@
     "time": "12:35 م"
   },
   {
+    "date": "السبت 2026/04/25",
+    "round": "الجولة 26",
+    "status": "قريباً",
     "home": "بيرث غلوري",
     "homeLogo": "https://jdwel.com/image/teams/1811.png",
     "away": "بريزبان روار",
@@ -1232,6 +1694,9 @@
     "time": "2:45 م"
   },
   {
+    "date": "الأحد 2026/04/26",
+    "round": "الجولة 26",
+    "status": "قريباً",
     "home": "سيدني",
     "homeLogo": "https://jdwel.com/image/teams/1046.png",
     "away": "أوكلاند",
@@ -1240,6 +1705,9 @@
     "time": "8:00 ص"
   },
   {
+    "date": "الأحد 2026/04/26",
+    "round": "الجولة 26",
+    "status": "قريباً",
     "home": "ميلبورن سيتي",
     "homeLogo": "https://jdwel.com/image/teams/aus_melbourne_city.png",
     "away": "أديلايد يونايتد",
@@ -1248,6 +1716,9 @@
     "time": "10:00 ص"
   },
   {
+    "date": "الجمعة 2026/05/01",
+    "round": "",
+    "status": "قريباً",
     "home": "لم يحدد",
     "homeLogo": "https://jdwel.com/image/teams/placeholder.png",
     "away": "لم يحدد",
@@ -1256,6 +1727,9 @@
     "time": "3:00 ص"
   },
   {
+    "date": "الجمعة 2026/05/01",
+    "round": "",
+    "status": "قريباً",
     "home": "لم يحدد",
     "homeLogo": "https://jdwel.com/image/teams/placeholder.png",
     "away": "لم يحدد",
